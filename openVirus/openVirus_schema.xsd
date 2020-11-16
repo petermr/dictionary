@@ -90,7 +90,10 @@
             <xs:attribute name="wikidataURL" use="optional">
               <xs:simpleType >
                 <xs:restriction base="xs:token">
-                  <xs:pattern value="https?\://www\.wikidata\.org/(wiki|entity)/[P|Q]\d+"/>
+<!--
+                  <xs:pattern value="http(s?):\/\/www\.wikidata\.org\/(wiki|entity)\/[P|Q][0-9]+"/>
+-->
+                  <xs:pattern value="http(s?):.*\.wikidata\.org/wiki/[P|Q][0-9]+"/>
                 </xs:restriction>
               </xs:simpleType>
             </xs:attribute>
@@ -106,7 +109,7 @@
             <xs:attribute  name="wikipediaURL" use="optional">
               <xs:simpleType >
                 <xs:restriction base="xs:token">
-                  <xs:pattern value="https?\://[a-z]+\.wikipedia\.org/wiki/.+"/>
+                  <xs:pattern value="http(s?):.*[a-z]+\.wikipedia\.org/wiki/.+"/>
                 </xs:restriction>
               </xs:simpleType>
             </xs:attribute>
