@@ -1,0 +1,7 @@
+<dictionary title="simple" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <desc title=wrong>simple</desc>
+  <entry name="simple1" term="simple1" description="simple1" unknownatt="ami">
+    <synonym xml:lang="en">very simple</synonym>
+    <synonym>
+  </entry>
+</dictionary>
