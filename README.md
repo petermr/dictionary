@@ -26,7 +26,7 @@ To be added
 
 ## Mini-Tech Project
 - update dictionary (https://github.com/petermr/dictionary/wiki/Project:-update-dictionary)
-- dictionary based search (https://github.com/petermr/dictionary/wiki/Project:-dictionary-based-search)
+- dictionary based search (https://github.com/petermr/dictionary/wiki/Project:-dictionary-based-search)  
 More information about the two tech-project will available on their respective wiki which is updated in real-time
 
 
