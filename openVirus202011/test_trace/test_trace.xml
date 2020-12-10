@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary title="test_trace">
- <entry term="complement fixation test" wikipediaPage="complement fixation test" wikidataID="Q904197" name="complement fixation test" description="serologic blood test based on inactivation of complement by the antigen-antibody complex (stage 1)" id="CM.PROJECT_TEST.0"/>
- <entry term="contact tracing" name="contact tracing" wikipediaPage="contact tracing" id="CM.PROJECT_TEST.1"/>
+ <entry term="complement fixation test" wikipediaURL="https://en.wikipedia.org/wiki/Complement_fixation_test" wikipediaPage="Complement_fixation_test" wikidataID="Q904197" wikidataURL="https://www.wikidata.org/wiki/Q904197" name="complement fixation test" description="serologic blood test based on inactivation of complement by the antigen-antibody complex (stage 1)" id="CM.PROJECT_TEST.0"/>
+ <entry term="contact tracing" name="contact tracing" wikipediaPage="contact tracing" wikidataID="" id="CM.PROJECT_TEST.1"/>
  <entry term="counseling" name="counseling" wikipediaPage="counseling" id="CM.PROJECT_TEST.2"/>
  <entry term="detection" wikipediaPage="detection" wikidataID="Q504027" name="LIDAR" description="remote detection instrumentation" id="CM.PROJECT_TEST.3"/>
  <entry term="diagnosis" wikipediaPage="diagnosis" wikidataID="Q177719" name="medical diagnosis" description="process to determine or identify a disease or disorder, which would account for a person's symptoms and signs" id="CM.PROJECT_TEST.4"/>
  <entry term="elisa" wikipediaPage="elisa" wikidataID="Q1168432" name="Elisa" description="female given name" id="CM.PROJECT_TEST.5"/>
  <entry term="enzyme linked immunosorbent assay" wikipediaPage="enzyme linked immunosorbent assay" wikidataID="Q332126" name="ELISA" description="assay" id="CM.PROJECT_TEST.6"/>
  <entry term="hemagglutination" wikipediaPage="hemagglutination" wikidataID="Q1548862" name="Hemagglutination" description="specific form of agglutination that involves red blood cells" id="CM.PROJECT_TEST.7"/>
- <entry term="igm antibody test" wikidataID="Q95718584" name="IgG/IgM Antibody Test in Patients Who Have Tested Negative or Positive for COVID-19 With Nasopharyngeal PCR Testing." description="clinical trial" id="CM.PROJECT_TEST.8"/>
+ <entry term="igm antibody test" wikidataID="" name="" description="" id="CM.PROJECT_TEST.8"/>
  <entry term="immunoassay" wikipediaPage="immunoassay" wikidataID="Q759183" name="immunoassay" description="biochemical test" id="CM.PROJECT_TEST.9"/>
  <entry term="immunochromatography test" wikidataID="Q91371830" name="[Preparation of anti-human hemoglobin colloidal gold immunochromatography test strip]" description="scientific article published on 01 September 2019" id="CM.PROJECT_TEST.10"/>
  <entry term="immunofluorescence" wikipediaPage="immunofluorescence" wikidataID="Q592324" name="immunofluorescence microscopy" description="technique used for light microscopy with a fluorescence microscope and is used primarily on microbiological samples" id="CM.PROJECT_TEST.11"/>
@@ -25,7 +25,7 @@
  <entry term="quarantine" wikipediaPage="quarantine" wikidataID="Q182899" name="quarantine" description="epidemiological intervention of restriction on the movement of people and goods, which is intended to prevent the spread of infectious disease or pests" id="CM.PROJECT_TEST.22"/>
  <entry term="rapid antigen test" wikipediaPage="rapid antigen test" wikidataID="Q27961635" name="" id="CM.PROJECT_TEST.23"/>
  <entry term="rapid influenza diagnostic test" wikipediaPage="rapid influenza diagnostic test" wikidataID="Q6504732" name="" id="CM.PROJECT_TEST.24"/>
- <entry term="rapid molecular assay " wikidataID="Q92499498" name="Evaluation of the reverse transcription strand invasion based amplification (RT-SIBA) RSV assay, a rapid molecular assay for the detection of respiratory syncytial virus" description="scientific article published on 26 April 2019" id="CM.PROJECT_TEST.25"/>
+ <entry term="rapid molecular assay " wikidataID="" name="Evaluation of the reverse transcription strand invasion based amplification (RT-SIBA) RSV assay, a rapid molecular assay for the detection of respiratory syncytial virus" description="scientific article published on 26 April 2019" id="CM.PROJECT_TEST.25"/>
  <entry term="reverse transcription polymerase chain reaction" wikipediaPage="reverse transcription polymerase chain reaction" wikidataID="Q169526" name="reverse transcription polymerase chain reaction" description="method in molecular biology; variant of polymerase chain reaction (PCR), is a technique commonly used in molecular biology to detect RNA expression" id="CM.PROJECT_TEST.26"/>
  <entry term="rt-pcr " wikidataID="Q169526" name="reverse transcription polymerase chain reaction" description="method in molecular biology; variant of polymerase chain reaction (PCR), is a technique commonly used in molecular biology to detect RNA expression" id="CM.PROJECT_TEST.27"/>
  <entry term="screening" wikipediaPage="screening" wikidataID="Q1163564" name="screening" description="medical practice of testing a group or population for disease or medical conditions, who may not yet exhibit disease symptoms, enabling earlier intervention and disease management" id="CM.PROJECT_TEST.28"/>
