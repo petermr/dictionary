@@ -1,6 +1,7 @@
 <dictionary title="simple" xmlns:xml="http://www.w3.org/XML/1998/namespace">
-  <desc>simple</desc>
-  <entry name="simple1" term="simple1" description="simple1">
+  <metadata date="2020-08-09" source="AMI kangaroo">simple</metadata>
+  <entry id="oldID" name="simple1" term="simple1" description="simple1" wikidataID="foo" wikidataURL="https://"
+         wikipediaPage="foo" wikipediaURL="https://" source="SPARQL query">
     <synonym xml:lang="en">very simple</synonym>
   </entry>
 </dictionary>
