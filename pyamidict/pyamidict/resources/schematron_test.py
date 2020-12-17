@@ -1,42 +1,34 @@
 from lxml import etree
+from lxml import isoschematron
 from lxml.isoschematron import Schematron
+import os
 
-schematron = Schematron(etree.XML('''
-<schema xmlns="http://purl.oclc.org/dsdl/schematron" >
-  <pattern id="id_only_attribute">
-    <title>id is the only permitted attribute name</title>
-    <rule context="*">
-      <assert test="not(AAA)">Must have AAA</assert> 
-      <report test="@*[not(name()='idx')]">Attribute
-        <name path="@*[not(name()='id')]"/> is forbidden<name/>
-      </report>
-    </rule>
-    <rule context="AAA">
-      <assert test="not(BBB)">Must have BBB</assert> 
-      <report test="@*[not(name()='id')]">Attribute
-        <name path="@*[not(name()='id')]"/> is forbidden<name/>
-      </report>
-    </rule>
-  </pattern>
-</schema>'''),
-error_finder=Schematron.ASSERTS_AND_REPORTS)
+#path_for_dict='D:main_projects\\repositories\\dictionary\\openVirus202011\\disease\\disease.xml'
+class validation():
+  def __init__(self,schema):
+    self.schema=schema
+    print('')
+  
+  
+  def validate(self,dictionarydir,dictionary):
+    path_for_dict= os.path.join(dictionarydir,dictionary,f'{dictionary}.xml')
+    xml_dict = etree.parse(path_for_dict)
 
-print("g")
+    path_for_schema=self.schema
 
-xml = etree.XML('''
-<AAA name="aaa">
-  <BBB idx="bbb"/>
-  <CCC color="ccc"/>
-</AAA>
-''')
+    with open(path_for_schema, encoding='utf-8') as f:
+      xml_schema=f.read()
 
-schematron.validate(xml)
+    schematron = Schematron(etree.XML(xml_schema),store_report = True)
 
-xml = etree.XML('''
-<AAA idx="aaa">
-  <BBB id="bbb"/>
-  <CCC/>
-</AAA>
-''')
+    validationResult = schematron.validate(xml_dict)
 
-schematron.validate(xml)
+    report = schematron.validation_report
+    self.report=report
+    self.validationResult=validationResult
+  
+dictionarydir=os.path.join('..','..','..','..','dictionary','openVirus202011')
+
+my_validation=validation('openvirusschematron.xml')
+test_validation=my_validation.validate(dictionarydir,'country')
+print(my_validation.report)
