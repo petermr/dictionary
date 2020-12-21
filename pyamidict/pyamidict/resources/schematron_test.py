@@ -13,16 +13,11 @@ class validation():
   def validate(self,dictionarydir,dictionary):
     path_for_dict= os.path.join(dictionarydir,dictionary,f'{dictionary}.xml')
     xml_dict = etree.parse(path_for_dict)
-
     path_for_schema=self.schema
-
     with open(path_for_schema, encoding='utf-8') as f:
       xml_schema=f.read()
-
     schematron = Schematron(etree.XML(xml_schema),store_report = True)
-
     validationResult = schematron.validate(xml_dict)
-
     report = schematron.validation_report
     self.report=report
     self.validationResult=validationResult
