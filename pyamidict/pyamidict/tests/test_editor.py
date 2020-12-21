@@ -9,9 +9,8 @@ import xml.etree.ElementTree as ET
 
 class TestEditor(unittest.TestCase):
     RESOURCES = "resources"
-    RESOURCE_DIR = os.path.join("..", RESOURCES)
+    RESOURCE_DIR = os.path.join(os.path.dirname( __file__ ), '..', RESOURCES)
     simple_xml_file = os.path.join(RESOURCE_DIR, "simple.xml")
-
 
     def setUp(self):
         self.root_element = Dictionary.read_dictionary_element(self.simple_xml_file)
@@ -37,7 +36,7 @@ class TestEditor(unittest.TestCase):
 
 
     def test_create_dictionary(self):
-        self.DICTIONARY = Dictionary.read_dictionary(self.SIMPLE_XML_FILE)
+        self.DICTIONARY = Dictionary.read_dictionary(self.simple_xml_file)
 
     @unittest.skip("PMR haven't manged to link in xmlschema yet ")
     def test_validate_dictionary(self):

@@ -24,7 +24,7 @@ class Dictionary():
     @staticmethod
     def read_dictionary_as_text(dictionary_file):
         with open(dictionary_file, "r") as f:
-            dictionary = f.read();
+            dictionary = f.read()
         return dictionary
 
     @staticmethod
