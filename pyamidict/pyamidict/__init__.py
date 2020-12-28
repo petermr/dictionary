@@ -1,1 +1,1 @@
-# defines the pyamidict package
+# pyamidict/__init__.py

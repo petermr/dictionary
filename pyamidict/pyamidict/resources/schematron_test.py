@@ -1,6 +1,9 @@
+# can't get these to work
+"""
 from lxml import etree
 from lxml import isoschematron
 from lxml.isoschematron import Schematron
+"""
 import os
 
 #path_for_dict='D:main_projects\\repositories\\dictionary\\openVirus202011\\disease\\disease.xml'
@@ -22,8 +25,11 @@ class validation():
     self.report=report
     self.validationResult=validationResult
   
+print("validate")
 dictionarydir=os.path.join('..','..','..','..','dictionary','openVirus202011')
 
+"""
 my_validation=validation('openvirusschematron.xml')
 test_validation=my_validation.validate(dictionarydir,'country')
 print(my_validation.report)
+"""

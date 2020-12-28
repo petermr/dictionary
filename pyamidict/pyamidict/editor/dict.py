@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as ET
+
 class Dictionary():
     """A dictionary in representable in XML"""
     DICTIONARY  = "dictionary"
@@ -13,7 +14,6 @@ class Dictionary():
     TITLE_A     = "title"
     XML_LANG_A  = "xml:lang"
 
-    import xml.etree.ElementTree as ET
 
     def __init__(self):
         pass
@@ -24,13 +24,15 @@ class Dictionary():
     @staticmethod
     def read_dictionary_as_text(dictionary_file):
         with open(dictionary_file, "r") as f:
-            dictionary = f.read()
+            dictionary = f.read();
         return dictionary
 
     @staticmethod
     def read_dictionary_element(dictionary_file):
         dictionary_text = Dictionary.read_dictionary_as_text(dictionary_file)
         root = ET.fromstring(dictionary_text)
+        rootx = ET.ElementTree()
+#        print("class", root.__class__, rootx.__class__)
         return root
 
     @staticmethod
@@ -57,3 +59,4 @@ class Metadata():
 class Synonym():
     pass
 
+print("dict.py")
