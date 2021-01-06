@@ -1,11 +1,10 @@
 # reading tests
 
 # this does not work in PyCharm
-from .schematron_test import validation
-from ..editor.amidict_old import Dictionary
+from tests.schematron_test import validation
 
 # this is the required syntax but fails in PyCharm and python interpreter
-#from ..editor.dict import Dictionary
+from editor.amidict import Dictionary
 
 import os
 import unittest

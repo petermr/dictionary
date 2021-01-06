@@ -1,0 +1,14 @@
+<metadataList date="2021-01-04" author="PMR" >
+<metadata date="2021-01-04" author="PMR" role="delete">
+    <item>
+        <xpath>entry[@wikidataID="Q222"]</xpath>
+        <delete/>
+    </item>
+    <item>
+        <xpath>synonym[contains(text(), '(')]</xpath>
+        <replace old="[\(\)]" with=""/>
+    </item>
+
+</metadata>
+
+</metadataList>

@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 
 **/__pycache__/
+**/.idea/
 pyamidict/pyamidict/resources/backup.txt

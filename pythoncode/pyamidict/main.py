@@ -1,9 +1,11 @@
 # This is a sample Python script.
 
+# not tested!!!
+
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
-import editor.amidict_old
+import editor.amidict
 import example_package.subpackage1.moduleX
 import tests.test_editor
 

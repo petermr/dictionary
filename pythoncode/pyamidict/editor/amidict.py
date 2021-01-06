@@ -30,7 +30,7 @@ WIKIPEDIA_EN_URL = "wikipediaURL"
 ALLOWED_WIKIDATA_REGEX = "_"
 XML_LANG = "xml:lang"
 
-SUPPORTED_ATTS = {
+SUPPORTED_ATTS = [
     DESCRIPTION_A,
     ID,
     NAME,
@@ -40,12 +40,12 @@ SUPPORTED_ATTS = {
     WIKIDATA_URL,
     WIKIPEDIA_EN_PAGE,
     WIKIPEDIA_EN_URL,
-}
+]
 
 REGEXES = {
     WIKIDATA_ID : "(Q|P)\d+",
     WIKIDATA_URL : "https?://www\.wikidata\.org/entity/(Q|P)\d+",
-    WIKIPEDIA_EN_PAGE: "[A-Z0-9][^\s]+",
+    WIKIPEDIA_EN_PAGE: "(https?://en\.wikipedia\.org/wiki/)?[A-Z0-9][^\s]+", # we are undecided on this attribute
     WIKIPEDIA_EN_URL: "https?://en\.wikipedia\.org/wiki/[A-Z0-9][^\s]+",
 }
 
@@ -53,8 +53,8 @@ WIKIDATA_ATTRIBUTE_REGEX = "_([PpQq])\d+_([a-z][a-z0-9]+)"
 
 class Dictionary():
 
-    # constructor
     """
+    constructor
     creates Dictionary as wrapper to XML
     :elem: dictionary in XML. Maybe
     """
@@ -69,14 +69,20 @@ class Dictionary():
             self.xml_dict = self.read_dictionary_element(file)
         elif not elem is None:
             self.xml_dict = elem
+        else:
+            print("empty dictionary")
 
-    @staticmethod
-    def read_dictionary_element(file):
+    def read_dictionary_element(self, file):
+        self.file = file
         with open(file, "r") as f:
             dictionary_text = f.read();
         root = ET.fromstring(dictionary_text)
         if root.tag != DICTIONARY:
             raise Exception ("not a dictionary file")
+        if not os.path.split(file)[-1] == root.attrib[TITLE]+".xml":
+            print("Dictionary @title should equal filename")
+
+
         return root
 
     def get_descendant_elements(self, tag):
@@ -108,11 +114,12 @@ class Dictionary():
                 pass
             elif self.check_wikidata_attribute(att_name):
                 pass
-            elif not att_name in SUPPORTED_ATTS:
+            elif att_name not in SUPPORTED_ATTS:
 #                print("unknown attribute", att_name)
                 self.unknown_atts.add(att_name)
 
     def check_entry_children(self, entry):
+#        print("WARNING check_entry_children NYI")
         pass
 
     def analyze_entry(self, entry):
@@ -167,11 +174,12 @@ def get_resources():
     return (PYAMIDICT, RESOURCE_DIR, DICTIONARY_DIR)
 
 
-if __name__ == "__main__":
+def main():
     PYAMIDICT, RESOURCE_DIR, DICT202011 = get_resources()
-    dict_files = [
+    COUNTRY_DICT = os.path.join(DICT202011, "country", "country.xml")
+    dict_files = {
         os.path.join(RESOURCE_DIR, "country6.xml"),
-        os.path.join(DICT202011, "country", "country.xml"),
+        COUNTRY_DICT,
         os.path.join(DICT202011, "disease", "disease.xml"),
         os.path.join(DICT202011, "drug", "drug.xml"),
         os.path.join(DICT202011, "npi", "npi.xml"),
@@ -179,10 +187,22 @@ if __name__ == "__main__":
         os.path.join(DICT202011, "test_trace", "test_trace.xml"),
         os.path.join(DICT202011, "virus", "virus.xml"),
         os.path.join(DICT202011, "zoonosis", "zoonosis.xml")
-    ]
+    }
     for dict_file in dict_files:
         dictionary = Dictionary(file=dict_file)
         print("running dictionary", dict_file)
         dictionary.analyze()
         if len(dictionary.unknown_atts) > 0:
             print("unknown attributes", dictionary.unknown_atts)
+
+
+if __name__ == "__main__":
+    main()
+
+## TODO
+# rename old attribute names
+# move attributes to child elements
+# delete entries
+# add entries from file
+# add metadata records
+
