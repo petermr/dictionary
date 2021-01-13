@@ -1,0 +1,9 @@
+<dictionary title="simple" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <metadata date="2020-08-09" source="AMI kangaroo">simple</metadata>
+  <entry id="oldID" id_p297_country="AF" description="sovereign state situated at the confluence of Western, Central, and South Asia" name="Afghanistan" term="Afghanistan" wikidataURL="http://www.wikidata.org/entity/Q889" wikipediaPage="https://en.wikipedia.org/wiki/Afghanistan" wikipedia="https://en.wikipedia.org/wiki/Afghanistan" wikidata="Q889">
+    <synonym xml:lang='None'>AFG</synonym>
+    <synonym xml:lang='None'>af</synonym>
+    <synonym xml:lang='en'>Islamic Republic of Afghanistan</synonym>
+    <description xml:lang='en'>sovereign state situated at the confluence of Western, Central, and South Asia</description>
+  </entry>
+</dictionary>

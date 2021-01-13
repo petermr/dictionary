@@ -10,6 +10,7 @@ import os
 import unittest
 import xml.etree
 from xml.etree import ElementTree
+import numpy as np # testing import
 
 # have not managed to import xml schema BUG
 # from xmlschema import Xml
@@ -39,7 +40,7 @@ class TestEditor(unittest.TestCase):
 #        print("reading", self.simple_xml_file)
         dictionary = Dictionary()
         self.root_element = dictionary.read_dictionary_element(self.simple_xml_file)
-        self.simple_dictionary = dictionary.read_dictionary(self.simple_xml_file)
+#        self.simple_dictionary = Dictionary.read_dictionary(self.simple_xml_file)
 
     def test_read_dictionary(self):
         """
@@ -74,8 +75,9 @@ class TestEditor(unittest.TestCase):
         ElementTree.dump(root)
         print("TEST")
 
-        dictionary = Dictionary.read_dictionary(self.simple_xml_file)
-        mydata = ElementTree.tostring(dictionary)
+        dictionary = Dictionary(self.simple_xml_file)
+        print(dictionary.root.__class__)
+        mydata = ElementTree.tostring(dictionary.root)
         print("mydata", dictionary.__class__, dictionary.attrib, mydata )
         file = os.path.join(os.path.expanduser("~"), "misc/junk.xml")
         print("dump to", file)

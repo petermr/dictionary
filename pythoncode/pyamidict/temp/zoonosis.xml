@@ -1,0 +1,234 @@
+<dictionary title="zoonoses">
+	<desc>Created by ?? </desc>
+		
+<entry><description xml:lang="en">human disease</description>
+        <synonym>Barmah Forest virus disease</synonym>
+        </entry>
+
+<entry><description xml:lang="en">human disease</description>
+	<synonym>HPAI</synonym>
+	<synonym>avian flu</synonym>
+	<synonym>bird flu</synonym>
+	<synonym>&#2348;&#2352;&#2381;&#2337; &#2347;&#2364;&#2381;&#2354;&#2370;</synonym>
+	<synonym>&#2346;&#2325;&#2381;&#2359;&#2368; &#2311;&#2344;&#2381;&#2347;&#2381;&#2354;&#2369;&#2319;&#2306;&#2332;&#2366;</synonym>
+	</entry>
+
+<entry><description xml:lang="en">human disease</description>
+	<synonym>EVD</synonym>
+	<synonym>EHF</synonym>
+	<synonym>Ebola</synonym>
+	<synonym>Ebola fever</synonym>
+	<synonym>Ebola virus disease</synonym>
+	</entry>
+
+<entry><description xml:lang="en">respiratory syndrome and infectious disease in humans, caused by SARS coronavirus 2</description>
+	<synonym>2019-nCoV acute respiratory disease</synonym>
+	<synonym>coronavirus disease 2019</synonym>
+        <synonym>COVID19</synonym>
+        <synonym>COVID 19</synonym>
+        <synonym>Covid-19</synonym>
+        <synonym>2019 novel coronavirus pneumonia</synonym>
+        <synonym>Coronavirus disease 2019</synonym>
+        <synonym>nCOVD19</synonym>
+        <synonym>nCOVD 19</synonym>
+        <synonym>nCOVD-19</synonym>
+        <synonym>COVID-2019</synonym>
+        <synonym>seafood market pneumonia</synonym>
+        <synonym>Wuhan pneumonia</synonym>
+        <synonym>2019 NCP</synonym>
+        <synonym>WuRS</synonym>
+        <synonym>severe acute respiratory syndrome type 2</synonym>
+        <synonym>SARS-CoV-2 infection</synonym>
+        <synonym>2019 novel coronavirus respiratory syndrome</synonym>
+        <synonym>Wuhan respiratory syndrome</synonym>
+        <synonym>CD-19</synonym>
+	<synonym>&#2325;&#2379;&#2357;&#2367;&#2337;-19</synonym>
+	<synonym>&#2453;&#2480;&#2507;&#2472;&#2494;&#2477;&#2494;&#2439;&#2480;&#2494;&#2488; &#2480;&#2507;&#2455; &#2536;&#2534;&#2535;&#2543;</synonym>
+	</entry>
+
+<entry><description xml:lang="en">human disease</description>
+	<synonym>CHF Congo virus</synonym>
+	<synonym>CCHF</synonym>
+	<synonym>Congo fever</synonym>
+	<synonym>Congo hemorrhagic fever</synonym>
+	<synonym>Crimean hemorrhagic fever</synonym>
+	<synonym>Crimean hemorrhagic fever [CHF Congo virus]</synonym>
+	<synonym>Congo-Crimean Hemorrhagic Fever</synonym>
+	</entry>
+
+<entry><description xml:lang="en">human disease</description>
+	<synonym>dengue disease</synonym>
+	<synonym>classic dengue</synonym>
+	<synonym>classical dengue</synonym>
+	<synonym>breakbone fever</synonym>
+	<synonym>Dengue Fever</synonym>
+        <synonym>Dengue</synonym>
+	<synonym>B&#7879;nh Dengue</synonym>
+	<synonym>B&#7879;nh truy&#7873;n nhi&#7877;m do mu&#7895;i</synonym>
+	</entry>
+
+<entry><description xml:lang="en">viral human disease</description>
+	<synonym>Lassa hemorrhagic fever</synonym>
+	<synonym>LHF</synonym>
+	<synonym>LF</synonym>
+	</entry>
+
+<entry><description xml:lang="en">human disease</description>
+	<synonym>MVD</synonym>
+	<synonym>MHF</synonym>
+	<synonym>Marburg disease</synonym>
+	<synonym>Green monkey disease</synonym>
+	<synonym>Marburg virus disease </synonym>
+	</entry>
+
+<entry><description xml:lang="en">human disease</description>
+	<synonym>RVF</synonym>
+	</entry>
+
+<entry><description xml:lang="en">human disease</description>
+	<synonym>Hanta Virus</synonym>
+	</entry>
+
+<entry><description xml:lang="en">human disease</description>
+	</entry>
+
+<entry><description xml:lang="en">human disease caused by an influenza virus</description>
+	<synonym>flu</synonym>
+	<synonym>influenza infection</synonym>
+	<synonym>human influenza</synonym>
+	<synonym>grippe (archaic)</synonym>
+	<synonym>influenza with non-respiratory manifestation</synonym>
+	<synonym>Influenza with other manifestations</synonym> 
+        </entry>
+
+<entry><description xml:lang="en">infection of the brain caused by the Japanese encephalitis virus</description>
+	<synonym>Japanese B encephalitis</synonym>
+	<synonym>Japanese Encephalitis</synonym>
+	<synonym>JE</synonym>
+	</entry>
+
+<entry><description xml:lang="en"> tick-borne viral haemorrhagic fever</description>
+<synonym>Kyasanur hemorrhagic fever</synonym>
+<synonym>Monkey Disease</synonym>
+<synonym>KFD Virus</synonym>
+<synonym>Moneky Fever</synonym>
+<synonym>KFD</synonym>
+</entry>
+
+<entry><description xml:lang="en">human disease</description>
+<synonym>California Encephalitis</synonym>
+<synonym>California virus encephalitis</synonym>
+<synonym>Neuroinvasive California encephalitis virus infection</synonym>
+<synonym>California encephalitis</synonym>
+</entry>
+
+
+<entry><description xml:lang="en"> rodent-borne viral infectious human disease</description>
+<synonym>LCM</synonym>
+<synonym>Lymphocytic choriomeningitis virus encephalomyelitis (disorder)</synonym>
+<synonym>Lymphocytic meningitis (disorder)</synonym>
+<synonym>Lymphocytic meningoencephalitis (disorder)</synonym>
+<synonym>Lymphocytic meningoencephalitis</synonym>
+<synonym>Lymphocytic choriomeningitis virus encephalomyelitis</synonym>
+<synonym>Lymphocytic meningitis</synonym>
+</entry>
+
+
+<entry><description xml:lang="en">viral respiratory infection in humans and camels</description>
+<synonym>MERS</synonym>
+<synonym>Middle East respiratory syndrome</synonym>
+<synonym>Camel Flu</synonym>
+<synonym>MERS coronavirus</synonym>
+<synonym>MERS-Cov</synonym>
+</entry>
+
+
+<entry><description xml:lang="en">human disease</description>
+<synonym>Monkeypox virus infection</synonym>
+<synonym>Monkeypox virus</synonym>
+</entry>
+
+
+<entry><description xml:lang="en">human disease</description>
+<synonym>Nipah virus infection</synonym>
+<synonym>Nipah virus disease</synonym>
+<synonym>Nipah encephalitis</synonym>
+<synonym>Nipah fever</synonym>
+</entry>
+
+
+<entry><description xml:lang="en">human disease</description>
+<synonym>Ecthyma contagiosum</synonym>
+<synonym>Ecthyma</synonym>
+<synonym>Contagious</synonym>
+<synonym>Orf</synonym>
+<synonym>scabby mouth</synonym>
+<synonym>sheep pox</synonym>
+<synonym>thistle disease</synonym>
+<synonym>contagious pustular dermatitis</synonym>
+</entry>
+
+
+<entry><description xml:lang="en">human disease</description>
+<synonym>ornithosis</synonym>
+<synonym>parrot fever</synonym>
+</entry>
+
+
+<entry><description xml:lang="en">human disease</description>
+<synonym>extreme salivation</synonym>
+<synonym>Lyssa</synonym>
+<synonym>hydrophobia</synonym>
+</entry>
+
+
+<entry><description xml:lang="en">human disease</description>
+<synonym>Ross River Virus Disease</synonym>
+</entry>
+
+
+<entry><description xml:lang="en">human disease</description>
+<synonym>Neuroinvasive St. Louis encephalitis virus infection</synonym>
+<synonym>Saint Louis encephalitis</synonym>
+</entry>
+
+	
+<entry><description xml:lang="en">human disease</description>
+<synonym>ordinary smallpox</synonym>
+<synonym>variola</synonym>
+<synonym>variola vera</synonym>
+</entry>
+
+
+<entry><description xml:lang="en">infection caused by any one of several types of swine influenza viruses</description>
+<synonym>pig influenza</synonym>
+<synonym>swine flu</synonym>
+<synonym>pig flu</synonym>
+<synonym>hog flu</synonym>
+<synonym>H1N1 Virus Infection</synonym>
+<synonym>H1N1 Influenza</synonym>
+<synonym>Influenza A (H1N1)</synonym>
+<synonym>H1N1 Flu</synonym>
+<synonym>Influenza A (H1N1) Virus Infection</synonym>
+</entry>
+
+	
+<entry><description xml:lang="en">human disease</description>
+<synonym>Severe acute respiratory syndrome</synonym>
+<synonym>SARS-CoV infection</synonym>
+<synonym>SARS</synonym>
+<synonym>list of SARS outbreaks</synonym>
+</entry>
+
+
+<entry><description xml:lang="en">human disease</description>
+<synonym>West Nile virus infectious disease</synonym>
+</entry>
+
+
+<entry><description xml:lang="en">infectious arboviral human disease</description>
+<synonym>Zika virus disease</synonym>
+<synonym>Zika</synonym>
+</entry>
+
+</dictionary>

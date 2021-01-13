@@ -1,0 +1,44 @@
+<dictionary title="country">
+ <desc>Created from SPARQL query</desc>
+ <entry><description xml:lang="en">sovereign state situated at the confluence of Western, Central, and South Asia</description>
+  <synonym>AFG</synonym>
+  <synonym>af</synonym>
+  <synonym>Islamic Republic of Afghanistan</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeast Europe</description>
+  <synonym>ALB</synonym>
+  <synonym>al</synonym>
+  <synonym>Republic of Albania</synonym>
+  <synonym>Republika e Shqip&#235;ris&#235;</synonym>
+  <synonym>Shqip&#235;ris&#235;</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in North Africa</description>
+  <synonym>ALG</synonym>
+  <synonym>dz</synonym>
+  <synonym>People&#8217;s Democratic Republic of Algeria</synonym>
+ </entry>
+ <entry><description xml:lang="en">US territory in the Pacific</description>
+  <synonym>ASA</synonym>
+  <synonym>as</synonym>
+  <synonym>East Samoa</synonym>
+  <synonym>Samoa (American)</synonym>
+  <synonym>Territory of American Samoa</synonym>
+  <synonym>U.S. Samoa</synonym>
+  <synonym>US Samoa</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign microstate between France and Spain, in Western Europe</description>
+  <synonym>AND</synonym>
+  <synonym>ad</synonym>
+  <synonym>Principality of Andorra</synonym>
+  <synonym>Principality of the Valleys of Andorra</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>ANG</synonym>
+  <synonym>ao</synonym>
+  <synonym>Ngola</synonym>
+  <synonym>Republic of Angola</synonym>
+ </entry>
+ <entry><description xml:lang="en">British Overseas Territory in the Caribbean</description>
+  <synonym>ai</synonym>
+ </entry>
+</dictionary>
