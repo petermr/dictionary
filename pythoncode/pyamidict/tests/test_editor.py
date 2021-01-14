@@ -10,6 +10,7 @@ import os
 import unittest
 import xml.etree
 from xml.etree import ElementTree
+import numpy as np # testing import
 
 # have not managed to import xml schema BUG
 # from xmlschema import Xml
@@ -37,10 +38,14 @@ class TestEditor(unittest.TestCase):
     def setUp(self):
 #        print("max diff", self.maxDiff)
 #        print("reading", self.simple_xml_file)
-        self.root_element = Dictionary.read_dictionary_element(self.simple_xml_file)
-        self.simple_dictionary = Dictionary.read_dictionary(self.simple_xml_file)
+        dictionary = Dictionary()
+        self.root_element = dictionary.read_dictionary_element(self.simple_xml_file)
+#        self.simple_dictionary = Dictionary.read_dictionary(self.simple_xml_file)
 
     def test_read_dictionary(self):
+        """
+        Tests reading a dictionary from its XML representation
+        """
         text = Dictionary.read_dictionary_as_text(self.simple_xml_file)
         self.assertIsNotNone(text)
         expectedText = self.SIMPLE_XML
@@ -70,8 +75,9 @@ class TestEditor(unittest.TestCase):
         ElementTree.dump(root)
         print("TEST")
 
-        dictionary = Dictionary.read_dictionary(self.simple_xml_file)
-        mydata = ElementTree.tostring(dictionary)
+        dictionary = Dictionary(self.simple_xml_file)
+        print(dictionary.root.__class__)
+        mydata = ElementTree.tostring(dictionary.root)
         print("mydata", dictionary.__class__, dictionary.attrib, mydata )
         file = os.path.join(os.path.expanduser("~"), "misc/junk.xml")
         print("dump to", file)
@@ -92,13 +98,13 @@ class TestEditor(unittest.TestCase):
 #        import xmlschema
 #        xmlschema.validate('doc.xml', 'some.xsd')
 
-    @unittest.skip("not yet written")
+#    @unittest.skip("not yet written")
     def test_dictionary_element_and_attributes(self):
         # must have a "title" attribute
-        self.assertIsNotNone(self.simple_dictionary.title, "dictionary must have title")
+        self.assertIsNotNone(self.simple_dictionary.title, "DIC001: dictionary must have title")
         # title value must be "simple"
-        self.assertEqual(self.simple_dictionary.title, "simple", "dictionary title must be filename-base")
-        # xml:lang is allowed
+        self.assertEqual(self.simple_dictionary.title, "simple", "DIC002: dictionary title must be filename-base")
+        # xml:lang MAY be present
         print("lang: ", self.simple_dictionary.xml_lang)
         # no other attributes
         attribute_set = self.simple_dictionary.attributes_set

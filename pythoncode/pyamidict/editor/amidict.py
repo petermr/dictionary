@@ -4,11 +4,23 @@ Dictionary class delegates XML to included object
 No subclassing
 """
 import xml.etree.ElementTree as ET
+#from typing import hints
 import copy
 import os
 import re
 import sys
+#import pandas as pd
+#import numpy as np
+print("imported numpy")
 
+#def test_numpy():
+#    a = np.arange(15).reshape(3, 5)
+#    print(a, "\nshape", a.shape, "\ndim", a.ndim, "dtype", a.dtype.name, "itemsize", a.itemsize, "size", a.size, "typer", type(a))
+#    b = np.array([6, 7, 8])
+#    print(b,type(b))
+
+#test_numpy()
+    
 # elements
 DICTIONARY = "dictionary"
 DESCRIPTION = "description"
@@ -51,6 +63,24 @@ REGEXES = {
 
 WIKIDATA_ATTRIBUTE_REGEX = "_([PpQq])\d+_([a-z][a-z0-9]+)"
 
+def get_resources():
+    PYAMIDICT = os.path.normpath(os.path.join(__file__, "..", ".."))
+    RESOURCE_DIR = os.path.join(PYAMIDICT, "resources")
+    TEMP_DIR = os.path.join(PYAMIDICT, "temp")
+    DICTIONARY_DIR = os.path.normpath(os.path.join(PYAMIDICT, "..", "..", "openVirus202011"))
+    print("DD", DICTIONARY_DIR)
+    return (PYAMIDICT, RESOURCE_DIR, DICTIONARY_DIR, TEMP_DIR)
+
+
+PYAMIDICT, RESOURCE_DIR, DICT202011, TEMP_DIR = get_resources()
+
+def testx():
+    import numpy as np
+    print("test numpy")
+    a = np.arange(6)
+    a2 = a[np.newaxis, :]
+    a2.shape
+
 class Dictionary():
 
     """
@@ -66,28 +96,28 @@ class Dictionary():
         if not file is None:
             if not os.path.exists(file):
                 raise Exception ("file not found: "+file)
-            self.xml_dict = self.read_dictionary_element(file)
+            self.file = file
+            self.root = self.read_dictionary_element(file)
         elif not elem is None:
-            self.xml_dict = elem
+            self.root = elem
         else:
             print("empty dictionary")
 
-    def read_dictionary_element(self, file):
+    def read_dictionary_element(self, file) -> ET.Element:
         self.file = file
         with open(file, "r") as f:
             dictionary_text = f.read();
-        root = ET.fromstring(dictionary_text)
-        if root.tag != DICTIONARY:
+        self.root = ET.fromstring(dictionary_text)
+        if self.root.tag != DICTIONARY:
             raise Exception ("not a dictionary file")
-        if not os.path.split(file)[-1] == root.attrib[TITLE]+".xml":
+        if not os.path.split(file)[-1] == self.root.attrib[TITLE]+".xml":
             print("Dictionary @title should equal filename")
-
-
-        return root
+        print("root:", self.root.__class__)
+        return self.root
 
     def get_descendant_elements(self, tag):
-        if not self.xml_dict is None:
-            descendants = self.xml_dict.findall(tag)
+        if not self.root is None:
+            descendants = self.root.findall(tag)
         return descendants
 
     def get_synonyms(self, entry):
@@ -158,6 +188,19 @@ class Dictionary():
         for entry in entries:
             self.analyze_entry(entry)
 
+    def xsl_transform(self, xsl_file, outdir=TEMP_DIR):
+        import lxml.etree as ET
+        root1 = ET.parse(self.file)
+        xsl = ET.parse(xsl_file)
+        transform = ET.XSLT(xsl)
+#        print("old dom", ET.tostring(root1, pretty_print=True), "\n\n")
+        newdom = transform(root1)
+#        print("\n", "new dom", ET.tostring(newdom, pretty_print=True), "\n")
+        outfile = os.path.join(TEMP_DIR, os.path.split(self.file)[-1])
+        with open(outfile, "wb") as f:
+            f.write(ET.tostring(newdom, pretty_print=True))
+        print("wrote", outfile,"\n")
+
 
 def entry_text(entry):
     return entry.text
@@ -166,16 +209,11 @@ def entry_lang(entry):
     lang = entry.attrib["xml:lang"]
     lang = "en" if lang is None else lang
 
-def get_resources():
-    PYAMIDICT = os.path.normpath(os.path.join(__file__, "..", ".."))
-    RESOURCE_DIR = os.path.join(PYAMIDICT, "resources")
-    DICTIONARY_DIR = os.path.normpath(os.path.join(PYAMIDICT, "..", "..", "openVirus202011"))
-    print("DD", DICTIONARY_DIR)
-    return (PYAMIDICT, RESOURCE_DIR, DICTIONARY_DIR)
-
-
 def main():
-    PYAMIDICT, RESOURCE_DIR, DICT202011 = get_resources()
+    dictionary = Dictionary(file=os.path.join(RESOURCE_DIR, "simple_wiki_bad.xml"))
+    xsl_file = os.path.join(RESOURCE_DIR, "clean_dict.xsl")
+    dictionary.xsl_transform(xsl_file)
+
     COUNTRY_DICT = os.path.join(DICT202011, "country", "country.xml")
     dict_files = {
         os.path.join(RESOURCE_DIR, "country6.xml"),
@@ -194,7 +232,11 @@ def main():
         dictionary.analyze()
         if len(dictionary.unknown_atts) > 0:
             print("unknown attributes", dictionary.unknown_atts)
+        dictionary.xsl_transform(xsl_file)
 
+    print("end of transform")
+
+main()
 
 if __name__ == "__main__":
     main()

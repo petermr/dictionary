@@ -1,0 +1,1888 @@
+<dictionary title="country">
+ <desc>Created from SPARQL query</desc>
+ <entry><description xml:lang="en">sovereign state situated at the confluence of Western, Central, and South Asia</description>
+  <synonym>AFG</synonym>
+  <synonym>af</synonym>
+  <synonym>Islamic Republic of Afghanistan</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeast Europe</description>
+  <synonym>ALB</synonym>
+  <synonym>al</synonym>
+  <synonym>Republic of Albania</synonym>
+  <synonym>Republika e Shqip&#235;ris&#235;</synonym>
+  <synonym>Shqip&#235;ris&#235;</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in North Africa</description>
+  <synonym>ALG</synonym>
+  <synonym>dz</synonym>
+  <synonym>People&#8217;s Democratic Republic of Algeria</synonym>
+ </entry>
+ <entry><description xml:lang="en">US territory in the Pacific</description>
+  <synonym>ASA</synonym>
+  <synonym>as</synonym>
+  <synonym>East Samoa</synonym>
+  <synonym>Samoa (American)</synonym>
+  <synonym>Territory of American Samoa</synonym>
+  <synonym>U.S. Samoa</synonym>
+  <synonym>US Samoa</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign microstate between France and Spain, in Western Europe</description>
+  <synonym>AND</synonym>
+  <synonym>ad</synonym>
+  <synonym>Principality of Andorra</synonym>
+  <synonym>Principality of the Valleys of Andorra</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>ANG</synonym>
+  <synonym>ao</synonym>
+  <synonym>Ngola</synonym>
+  <synonym>Republic of Angola</synonym>
+ </entry>
+ <entry><description xml:lang="en">British Overseas Territory in the Caribbean</description>
+  <synonym>ai</synonym>
+ </entry>
+ <entry><description xml:lang="en">area around the South Pole covered by the Antarctic Treaty</description>
+  <synonym>ATA</synonym>
+  <synonym>AQ</synonym>
+  <synonym>Antarctica treaty area</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in the Caribbean Sea</description>
+  <synonym>ag</synonym>
+  <synonym>ANT</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South America</description>
+  <synonym>AR</synonym>
+  <synonym>ARG</synonym>
+  <synonym>ar</synonym>
+  <synonym>Argentine Republic</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in the South Caucasus region of Eurasia</description>
+  <synonym>ARM</synonym>
+  <synonym>Republic of Armenia</synonym>
+ </entry>
+ <entry><description xml:lang="en">island country in the Caribbean, part of the Kingdom of the Netherlands</description>
+  <synonym>ARU</synonym>
+  <synonym>America/Aruba</synonym>
+  <synonym>aw</synonym>
+  <synonym>Island of Aruba</synonym>
+  <synonym>ISO 3166-1:AW</synonym>
+ </entry>
+ <entry><description xml:lang="en">island country in the Southern hemisphere</description>
+  <synonym>AU</synonym>
+  <synonym>au</synonym>
+  <synonym>AUS</synonym>
+  <synonym>&#42806;</synonym>
+  <synonym>British Colony of Australia</synonym>
+  <synonym>Commonwealth of Australia</synonym>
+  <synonym>Straya</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in western-central Europe</description>
+  <synonym>AT</synonym>
+  <synonym>AUT</synonym>
+  <synonym>at</synonym>
+  <synonym>aut</synonym>
+  <synonym>&#214;sterreich</synonym>
+  <synonym>Republic of Austria</synonym>
+  <synonym>Republik &#214;sterreich</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Asia and Eastern Europe</description>
+  <synonym>AZE</synonym>
+  <synonym>az</synonym>
+  <synonym>Republic of Azerbaijan</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southwest Asia</description>
+  <synonym>BAH</synonym>
+  <synonym>bh</synonym>
+  <synonym>Kingdom of Bahrain</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South Asia</description>
+  <synonym>BAN</synonym>
+  <synonym>bd</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state situated on an island in the Western Atlantic Ocean</description>
+  <synonym>BB</synonym>
+  <synonym>BAR</synonym>
+  <synonym>bb</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Eastern Europe</description>
+  <synonym>by</synonym>
+  <synonym>White Russia</synonym>
+  <synonym>BLR</synonym>
+  <synonym>White Ruthenia</synonym>
+  <synonym>Byelorussia</synonym>
+  <synonym>Belorussia</synonym>
+  <synonym>Bielorussia</synonym>
+  <synonym>Byeloruss</synonym>
+  <synonym>Republic of Belarus</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Europe</description>
+  <synonym>be</synonym>
+  <synonym>BEL</synonym>
+  <synonym>Kingdom of Belgium</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central America</description>
+  <synonym>bz</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>BEN</synonym>
+  <synonym>Republic of Benin</synonym>
+  <synonym>Dahomey</synonym>
+  <synonym>bj</synonym>
+ </entry>
+ <entry><description xml:lang="en">British overseas territory in the North Atlantic Ocean</description>
+  <synonym>bm</synonym>
+  <synonym>Bermuda Islands</synonym>
+  <synonym>Atlantic/Bermuda</synonym>
+  <synonym>Bermoothes</synonym>
+  <synonym>Bermudas</synonym>
+  <synonym>Bermudian Islands</synonym>
+  <synonym>Colony of Bermuda</synonym>
+  <synonym>Devil's Isles</synonym>
+  <synonym>Isle of Devils</synonym>
+  <synonym>Somers Islands</synonym>
+  <synonym>Somers Isles</synonym>
+  <synonym>Summer's Isles</synonym>
+  <synonym>Summers' Isles</synonym>
+  <synonym>Territory of Bermuda</synonym>
+  <synonym>The Somers Isles</synonym>
+  <synonym>Virgineola</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South Asia</description>
+  <synonym>bt</synonym>
+  <synonym>BHU</synonym>
+  <synonym>Kingdom of Bhutan</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South America</description>
+  <synonym>BOL</synonym>
+  <synonym>bo</synonym>
+  <synonym>bol</synonym>
+  <synonym>Plurinational State of Bolivia</synonym>
+  <synonym>Republic of Bolivia</synonym>
+  <synonym>Bolivia (Plurinational State of)</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeast Europe</description>
+  <synonym>ba</synonym>
+  <synonym>B&amp;H</synonym>
+  <synonym>Bosnia</synonym>
+  <synonym>BIH</synonym>
+  <synonym>BiH</synonym>
+  <synonym>Bosnia &amp; Herzegovina</synonym>
+  <synonym>Bosnia-Herzegovina</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southern Africa</description>
+  <synonym>BOT</synonym>
+  <synonym>bw</synonym>
+  <synonym>Lefatshe la Botswana</synonym>
+  <synonym>Republic of Botswana</synonym>
+ </entry>
+ <entry><description xml:lang="en">Norwegian uninhabited subantarctic volcanic island</description>
+  <synonym>bv</synonym>
+  <synonym>Bouvet&#248;ya</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South America</description>
+  <synonym>br</synonym>
+  <synonym>BR</synonym>
+  <synonym>BRA</synonym>
+  <synonym>Brasil</synonym>
+  <synonym>Estados Unidos del Brazil</synonym>
+  <synonym>Federativa Republica do Brasil</synonym>
+  <synonym>Federativa Rep&#250;blica do Brasil</synonym>
+  <synonym>Federative Republic of Brazil</synonym>
+  <synonym>Republic Federative of Brasil</synonym>
+  <synonym>Republica Federativa do Brasil</synonym>
+  <synonym>Rep&#250;blica Federativa do Brasil</synonym>
+ </entry>
+ <entry><description xml:lang="en">country in South Asia</description>
+  <synonym>io</synonym>
+ </entry>
+ <entry><description xml:lang="en">British overseas territory in the Caribbean</description>
+  <synonym>BVI</synonym>
+  <synonym>Virgin Islands</synonym>
+  <synonym>IVB</synonym>
+  <synonym>vg</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeast Asia</description>
+  <synonym>BRN</synonym>
+  <synonym>bn</synonym>
+  <synonym>BRU</synonym>
+  <synonym>Brunei Darussalam</synonym>
+  <synonym>Nation of Brunei</synonym>
+  <synonym>the Abode of Peace</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Eastern Europe</description>
+  <synonym>bg</synonym>
+  <synonym>BUL</synonym>
+  <synonym>BGR</synonym>
+  <synonym>Republic of Bulgaria</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>bf</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>bi</synonym>
+  <synonym>BDI</synonym>
+  <synonym>Gouvernement du Burundi</synonym>
+  <synonym>Republic of Burundi</synonym>
+  <synonym>Republika y'Uburundi</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeast Asia</description>
+  <synonym>Camboya</synonym>
+  <synonym>Kamboja</synonym>
+  <synonym>Kampuchea</synonym>
+  <synonym>Campuchia</synonym>
+  <synonym>Kambodzha</synonym>
+  <synonym>kh</synonym>
+  <synonym>Kingdom of Cambodia</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in West Africa</description>
+  <synonym>CAM</synonym>
+  <synonym>CMR</synonym>
+  <synonym>cm</synonym>
+  <synonym>Republic of Cameroon</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in North America</description>
+  <synonym>CA</synonym>
+  <synonym>ca</synonym>
+  <synonym>CDN</synonym>
+  <synonym>can</synonym>
+  <synonym>CAN</synonym>
+  <synonym>British North America</synonym>
+  <synonym>Dominion of Canada</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state comprising ten islands off the Western coast of Africa</description>
+  <synonym>cv</synonym>
+  <synonym>CV</synonym>
+  <synonym>CPV</synonym>
+  <synonym>Cabo Verde</synonym>
+  <synonym>Republic of Cape Verde</synonym>
+ </entry>
+ <entry><description xml:lang="en">grouping of the Caribbean islands of Bonaire, Sint Eustatius, and Saba, part of the Netherlands</description>
+  <synonym>BES islands</synonym>
+ </entry>
+ <entry><description xml:lang="en">British Overseas Territory in the Caribbean</description>
+  <synonym>ky</synonym>
+  <synonym>CAY</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>CAF</synonym>
+  <synonym>CAR</synonym>
+  <synonym>Centrafrique</synonym>
+  <synonym>cf</synonym>
+  <synonym>K&#246;d&#246;r&#246;s&#234;se t&#238; B&#234;afr&#238;ka</synonym>
+  <synonym>Republique centrafricaine</synonym>
+  <synonym>R&#233;publique centrafricaine</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in central Africa</description>
+  <synonym>GUM</synonym>
+  <synonym>CHA</synonym>
+  <synonym>Republic of Chad</synonym>
+  <synonym>td</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South America</description>
+  <synonym>CHI</synonym>
+  <synonym>cl</synonym>
+  <synonym>Republic of Chile</synonym>
+  <synonym>Republica de Chile</synonym>
+  <synonym>Rep&#250;blica de Chile</synonym>
+ </entry>
+ <entry><description xml:lang="en">Australian external territory</description>
+  <synonym>cx</synonym>
+  <synonym>Christmas Island</synonym>
+  <synonym>Other Territories</synonym>
+  <synonym>Christmas Island</synonym>
+  <synonym>Other Territories</synonym>
+  <synonym>Australia</synonym>
+ </entry>
+ <entry><description xml:lang="en">territory of Australia in the Indian Ocean</description>
+  <synonym>cc</synonym>
+  <synonym>Cocos Islands</synonym>
+  <synonym>Keeling Islands</synonym>
+  <synonym>Territory of the Cocos (Keeling) Islands</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South America</description>
+  <synonym>COL</synonym>
+  <synonym>CO</synonym>
+  <synonym>Cartagena</synonym>
+  <synonym>Colombia</synonym>
+  <synonym>Republic of Colombia</synonym>
+  <synonym>Republica de Colombia</synonym>
+  <synonym>Rep&#250;blica de Colombia</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state situated on an archipelago in the Indian Ocean off the eastern coast of Africa</description>
+  <synonym>COM</synonym>
+  <synonym>km</synonym>
+  <synonym>al-Itti&#7717;&#257;d al-Qumur&#299;</synonym>
+  <synonym>Juzur al-Qamar</synonym>
+  <synonym>Juzur al-Qumur</synonym>
+  <synonym>Massiwa ya komori</synonym>
+  <synonym>ouvoimoja wakomori</synonym>
+  <synonym>Udzima wa Komori</synonym>
+  <synonym>Union des Comores</synonym>
+  <synonym>Union of the Comoros</synonym>
+ </entry>
+ <entry><description xml:lang="en">state in the South Pacific Ocean</description>
+  <synonym>COK</synonym>
+  <synonym>ck</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central America</description>
+  <synonym>CRC</synonym>
+  <synonym>CRI</synonym>
+  <synonym>cr</synonym>
+  <synonym>Republic of Costa Rica</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central Europe</description>
+  <synonym>hr</synonym>
+  <synonym>CRO</synonym>
+  <synonym>HRV</synonym>
+  <synonym>HR</synonym>
+  <synonym>Republic of Croatia</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state situated on an island in the Caribbean Sea</description>
+  <synonym>CUB</synonym>
+  <synonym>cu</synonym>
+  <synonym>Republic of Cuba</synonym>
+ </entry>
+ <entry><description xml:lang="en">island country in the Caribbean, part of the Kingdom of the Netherlands</description>
+  <synonym>CW</synonym>
+  <synonym>Curacao</synonym>
+  <synonym>Country of Cura&#231;ao</synonym>
+  <synonym>Curacau</synonym>
+  <synonym>Cura&#231;oa</synonym>
+  <synonym>Curazao</synonym>
+  <synonym>Cura&#962;ao</synonym>
+  <synonym>Curocao</synonym>
+  <synonym>CUW</synonym>
+  <synonym>Island Territory of Cura&#231;ao</synonym>
+  <synonym>ISO 3166-1:CW</synonym>
+  <synonym>Korsou</synonym>
+  <synonym>K&#242;rsou</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state situated on an island in the Eastern Mediterranean Sea</description>
+  <synonym>cy</synonym>
+  <synonym>Greek Cypriot State</synonym>
+  <synonym>Republic of Cyprus</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central Europe</description>
+  <synonym>&#268;esk&#225; republika</synonym>
+  <synonym>&#268;esko</synonym>
+  <synonym>&#268;R</synonym>
+  <synonym>cz</synonym>
+  <synonym>cze</synonym>
+  <synonym>CZE</synonym>
+  <synonym>Czechia</synonym>
+  <synonym>CZR</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central Africa</description>
+  <synonym>Congo</synonym>
+  <synonym>cd</synonym>
+  <synonym>COD</synonym>
+  <synonym>DRC</synonym>
+  <synonym>Zaire</synonym>
+  <synonym>Congo (Kinshasa)</synonym>
+  <synonym>Congo-Kinshasa</synonym>
+  <synonym>Dem. Rep. Congo</synonym>
+  <synonym>Dem. Republic of Congo</synonym>
+  <synonym>Dem. Republic of the Congo</synonym>
+  <synonym>Democratic Republic of Congo</synonym>
+  <synonym>DR Congo</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state and Scandinavian country in northern Europe that is part of the Kingdom of Denmark</description>
+  <synonym>DK</synonym>
+  <synonym>Danmark</synonym>
+  <synonym>TAN</synonym>
+  <synonym>DEN</synonym>
+  <synonym>DEK</synonym>
+  <synonym>dk</synonym>
+  <synonym>DNK</synonym>
+  <synonym>Denmark proper</synonym>
+  <synonym>metropolitan Denmark</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>DJI</synonym>
+  <synonym>Gabuuti</synonym>
+  <synonym>Jabuuti</synonym>
+  <synonym>dj</synonym>
+  <synonym>J&#299;b&#363;t&#299;</synonym>
+  <synonym>Republic of Djibouti</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in the Caribbean Sea</description>
+  <synonym>dm</synonym>
+  <synonym>DMA</synonym>
+  <synonym>DOM</synonym>
+  <synonym>Commonwealth of Dominica</synonym>
+  <synonym>The Commonwealth of Dominica</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in the Caribbean Sea</description>
+  <synonym>RD</synonym>
+  <synonym>DR</synonym>
+  <synonym>Republica Dominicana</synonym>
+  <synonym>Rep&#250;blica Dominicana</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state situated on several islands in Southeast Asia</description>
+  <synonym>TLS</synonym>
+  <synonym>Democratic Republic of East Timor</synonym>
+  <synonym>Democratic Republic of Timor-Leste</synonym>
+  <synonym>Timor Leste</synonym>
+  <synonym>Timor-Leste</synonym>
+  <synonym>tl</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South America</description>
+  <synonym>ECU</synonym>
+  <synonym>EC</synonym>
+  <synonym>ecu</synonym>
+  <synonym>ec</synonym>
+  <synonym>Republic of Ecuador</synonym>
+  <synonym>Republic of the Equator</synonym>
+  <synonym>The Ecuadorian State</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa and Asia</description>
+  <synonym>EGY</synonym>
+  <synonym>eg</synonym>
+  <synonym>Republic of Egypt</synonym>
+  <synonym>Arab Rep. Egypt</synonym>
+  <synonym>Arab Republic of Egypt</synonym>
+  <synonym>Rep. Egypt</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central America</description>
+  <synonym>ESA</synonym>
+  <synonym>sv</synonym>
+  <synonym>Republic of El Salvador</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>GEQ</synonym>
+  <synonym>gq</synonym>
+  <synonym>Republic of Equatorial Guinea</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in the Horn of Africa</description>
+  <synonym>IRI</synonym>
+  <synonym>ERI</synonym>
+  <synonym>er</synonym>
+  <synonym>Ertr&#257;</synonym>
+  <synonym>Iritriy&#257;</synonym>
+  <synonym>State of Eritrea</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Northern Europe</description>
+  <synonym>EST</synonym>
+  <synonym>Eesti</synonym>
+  <synonym>ee</synonym>
+  <synonym>Estland</synonym>
+  <synonym>Republic of Estonia</synonym>
+ </entry>
+ <entry><description xml:lang="en">Kingdom in Africa</description>
+  <synonym>SWZ</synonym>
+  <synonym>sz</synonym>
+  <synonym>Swaziland</synonym>
+  <synonym>eSwatini</synonym>
+  <synonym>Kingdom of Eswatini</synonym>
+  <synonym>Kingdom of Swaziland</synonym>
+  <synonym>Umbuso weSwatini</synonym>
+ </entry>
+ <entry><description xml:lang="en">Country in East Africa</description>
+  <synonym>et</synonym>
+  <synonym>ETH</synonym>
+  <synonym>Federal Democratic Republic of Ethiopia</synonym>
+ </entry>
+ <entry><description xml:lang="en">archipelago in the South Atlantic Ocean and British Overseas Territory</description>
+  <synonym>Malvinas</synonym>
+  <synonym>FK</synonym>
+  <synonym>Islas Malvinas</synonym>
+  <synonym>FLK</synonym>
+  <synonym>Falklands</synonym>
+ </entry>
+ <entry><description xml:lang="en">autonomous constituent country of the Kingdom of Denmark</description>
+  <synonym>Sheep Islands</synonym>
+  <synonym>Atlantic/Faroe</synonym>
+  <synonym>Faer Oer</synonym>
+  <synonym>F&#230;r &#216;er</synonym>
+  <synonym>F&#230;reyjar</synonym>
+  <synonym>Faeroe Is</synonym>
+  <synonym>Faeroe Islands</synonym>
+  <synonym>Faeroe Isles</synonym>
+  <synonym>Faeroer</synonym>
+  <synonym>F&#230;r&#248;er</synonym>
+  <synonym>Faeroerne</synonym>
+  <synonym>F&#230;r&#248;erne</synonym>
+  <synonym>Faeroes</synonym>
+  <synonym>F&#230;roes</synonym>
+  <synonym>Faeroyene</synonym>
+  <synonym>F&#230;r&#248;yene</synonym>
+  <synonym>Far Oer</synonym>
+  <synonym>Fareo islands</synonym>
+  <synonym>Faroe Island</synonym>
+  <synonym>Far&#246;e Islands</synonym>
+  <synonym>Faroe Isles</synonym>
+  <synonym>Faroer</synonym>
+  <synonym>F&#228;r&#246;er</synonym>
+  <synonym>Faroes</synonym>
+  <synonym>Faroese Islands</synonym>
+  <synonym>fo</synonym>
+  <synonym>Foroyar</synonym>
+  <synonym>F&#248;royar</synonym>
+  <synonym>The Faeroe Islands</synonym>
+  <synonym>The Faroe Islands</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in Oceania</description>
+  <synonym>FSM</synonym>
+  <synonym>Fed. Sts. Micronesia</synonym>
+  <synonym>Fed. Sts. of Micronesia</synonym>
+  <synonym>Federated States of Micronesia</synonym>
+  <synonym>FSM</synonym>
+  <synonym>fm</synonym>
+  <synonym>Micronesia</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in Oceania</description>
+  <synonym>fj</synonym>
+  <synonym>FIJ</synonym>
+  <synonym>Republic of Fiji</synonym>
+  <synonym>Republic of the Fiji Islands</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Northern Europe</description>
+  <synonym>Finlandia</synonym>
+  <synonym>Suomi</synonym>
+  <synonym>FIN</synonym>
+  <synonym>Finnland</synonym>
+  <synonym>fi</synonym>
+  <synonym>Finlande</synonym>
+  <synonym>Finnia</synonym>
+  <synonym>Land of Thousand Lakes</synonym>
+  <synonym>Republic of Finland</synonym>
+  <synonym>Republiken Finland</synonym>
+  <synonym>Suomen tasavalta</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state with mainland in Europe and several overseas territories</description>
+  <synonym>La France</synonym>
+  <synonym>FRA</synonym>
+  <synonym>FR</synonym>
+  <synonym>French Republic</synonym>
+  <synonym>fr</synonym>
+  <synonym>Republic of France</synonym>
+  <synonym>R&#233;publique fran&#231;aise</synonym>
+ </entry>
+ <entry><description xml:lang="en">overseas French department in the Guianas region</description>
+  <synonym>gf</synonym>
+  <synonym>Guyane</synonym>
+  <synonym>Guyane fran&#231;aise</synonym>
+  <synonym>Guiana</synonym>
+  <synonym>France</synonym>
+ </entry>
+ <entry><description xml:lang="en">French overseas country in the Southern Pacific ocean</description>
+  <synonym>pf</synonym>
+ </entry>
+ <entry><description xml:lang="en">overseas territory of France</description>
+  <synonym>tf</synonym>
+  <synonym>French Southern Territories</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>ga</synonym>
+  <synonym>GAB</synonym>
+  <synonym>Gabonese Republic</synonym>
+  <synonym>Republique Gabonaise</synonym>
+  <synonym>R&#233;publique Gabonaise</synonym>
+ </entry>
+ <entry><description xml:lang="en">Country in the Caucasus</description>
+  <synonym>GEO</synonym>
+  <synonym>Republic of Georgia</synonym>
+  <synonym>GE</synonym>
+  <synonym>Georgia (country)</synonym>
+ </entry>
+ <entry><description xml:lang="en">Socialist state in Central Europe from 1949&#8211;1990</description>
+  <synonym>DDR</synonym>
+  <synonym>Deutsche Demokratische Republik</synonym>
+  <synonym>East Germany</synonym>
+  <synonym>G.D.R.</synonym>
+  <synonym>GDR</synonym>
+  <synonym>Ostdeutschland</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in central-western Europe</description>
+  <synonym>BRD</synonym>
+  <synonym>Bundesrepublik Deutschland</synonym>
+  <synonym>de</synonym>
+  <synonym>Deutschland</synonym>
+  <synonym>Federal Republic of Germany</synonym>
+  <synonym>FRG</synonym>
+  <synonym>GER</synonym>
+  <synonym>BR Deutschland</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in West Africa</description>
+  <synonym>GHA</synonym>
+  <synonym>gh</synonym>
+  <synonym>Republic of Ghana</synonym>
+ </entry>
+ <entry><description xml:lang="en">British Overseas Territory</description>
+  <synonym>gi</synonym>
+  <synonym>Gib</synonym>
+  <synonym>The Rock of Gibraltar</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeast Europe</description>
+  <synonym>el</synonym>
+  <synonym>Hellas</synonym>
+  <synonym>Hellenic Republic</synonym>
+  <synonym>gr</synonym>
+  <synonym>GRE</synonym>
+  <synonym>Greek Republic</synonym>
+ </entry>
+ <entry><description xml:lang="en">autonomous country within the Kingdom of Denmark</description>
+  <synonym>gl</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in the Caribbean Sea</description>
+  <synonym>gd</synonym>
+  <synonym>GRN</synonym>
+ </entry>
+ <entry><description xml:lang="en">Caribbean department of France</description>
+  <synonym>gp</synonym>
+ </entry>
+ <entry><description xml:lang="en">island territory of the United States of America</description>
+  <synonym>GU</synonym>
+  <synonym>Territory of Guam</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central America</description>
+  <synonym>gt</synonym>
+  <synonym>GUA</synonym>
+  <synonym>Republic of Guatemala</synonym>
+ </entry>
+ <entry><description xml:lang="en">British Crown dependency comprised of several islands</description>
+  <synonym>GBG</synonym>
+  <synonym>gg</synonym>
+  <synonym>GGY</synonym>
+  <synonym>Bailiwick of Guernsey</synonym>
+  <synonym>Bailliage de Guernesey</synonym>
+  <synonym>GB-GSY</synonym>
+  <synonym>Great Britain Guernsey</synonym>
+  <synonym>Lisia</synonym>
+  <synonym>XA-GG</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>gn</synonym>
+  <synonym>GUI</synonym>
+  <synonym>Guinea-Conakry</synonym>
+  <synonym>Republic of Guinea</synonym>
+  <synonym>Republique de Guinee</synonym>
+  <synonym>R&#233;publique de Guin&#233;e</synonym>
+  <synonym>&#1994;&#2013;&#2009;&#1996;&#2014;&#1996;&#2028; &#2005;&#1995;&#2028;&#2015;&#1995;&#2003;&#1995; &#2006;&#2017;&#1994;&#2028;&#2019;&#1994; &#2008;&#1999;</synonym>
+  <synonym>&#2006;&#1996;&#2028;&#2019;&#1997;&#2028; &#2014;&#1994;&#2034;&#2003;&#1997;&#2034;</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Africa</description>
+  <synonym>GBS</synonym>
+  <synonym>gw</synonym>
+  <synonym>Republic of Guinea-Bissau</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South America</description>
+  <synonym>Co-operative Republic of Guyana</synonym>
+  <synonym>GUY</synonym>
+  <synonym>gy</synonym>
+  <synonym>Republic of Guyana</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in the Caribbean Sea</description>
+  <synonym>HT</synonym>
+  <synonym>Hayti</synonym>
+  <synonym>ht</synonym>
+  <synonym>HAI</synonym>
+  <synonym>Ayiti</synonym>
+  <synonym>Haitian Republic</synonym>
+  <synonym>Republic of Haiti</synonym>
+  <synonym>R&#233;publique d'Ha&#239;ti</synonym>
+ </entry>
+ <entry><description xml:lang="en">Australian external territory and volcanic group of barren Antarctic islands</description>
+  <synonym>hm</synonym>
+  <synonym>Heard and McDonald Islands</synonym>
+  <synonym>HIMI</synonym>
+  <synonym>Territory of Heard Island and McDonald Islands</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central America</description>
+  <synonym>HON</synonym>
+  <synonym>hn</synonym>
+  <synonym>Honduran Republic</synonym>
+  <synonym>Republic of Honduras</synonym>
+ </entry>
+ <entry><description xml:lang="en">special administrative region of China</description>
+  <synonym>HKG</synonym>
+  <synonym>HK</synonym>
+  <synonym>Hongkong</synonym>
+  <synonym>hk</synonym>
+  <synonym>China Hong Kong</synonym>
+  <synonym>HKSAR</synonym>
+  <synonym>Hong Kong SAR</synonym>
+  <synonym>Hong Kong SAR</synonym>
+  <synonym>China</synonym>
+  <synonym>Hong Kong Special Administrative Region</synonym>
+  <synonym>Hong Kong</synonym>
+  <synonym>China</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central Europe</description>
+  <synonym>HUN</synonym>
+  <synonym>hu</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Northern Europe, situated on an island in the far North Atlantic Ocean</description>
+  <synonym>ISL</synonym>
+  <synonym>Island</synonym>
+  <synonym>is</synonym>
+  <synonym>Republic of Iceland</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South Asia</description>
+  <synonym>IND</synonym>
+  <synonym>in</synonym>
+  <synonym>Bharat</synonym>
+  <synonym>Bharatvarsh</synonym>
+  <synonym>Hindustan</synonym>
+  <synonym>IN</synonym>
+  <synonym>Republic of India</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeast Asia situated on more than 17,000 islands</description>
+  <synonym>ID</synonym>
+  <synonym>INA</synonym>
+  <synonym>id</synonym>
+  <synonym>IDN</synonym>
+  <synonym>Republic of Indonesia</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Asia</description>
+  <synonym>Persia</synonym>
+  <synonym>ir</synonym>
+  <synonym>Islamic Rep. Iran</synonym>
+  <synonym>Islamic Republic of Iran</synonym>
+  <synonym>Republic of Iran</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Asia</description>
+  <synonym>IRQ</synonym>
+  <synonym>al-&#8216;Ir&#257;q</synonym>
+  <synonym>iq</synonym>
+  <synonym>Jumh&#363;riyyat al-&#8216;Ir&#257;q</synonym>
+  <synonym>Komar-i &#8216;&#202;raq</synonym>
+  <synonym>Republic of Iraq</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in northwestern Europe covering five-sixths of the island of Ireland</description>
+  <synonym>Southern Ireland</synonym>
+  <synonym>Eire</synonym>
+  <synonym>&#201;ire</synonym>
+  <synonym>IRL</synonym>
+  <synonym>Hibernia</synonym>
+  <synonym>IE</synonym>
+  <synonym>ie</synonym>
+  <synonym>ireland</synonym>
+  <synonym>Ireland</synonym>
+  <synonym>Republic of</synonym>
+  <synonym>Republic of Ireland</synonym>
+ </entry>
+ <entry><description xml:lang="en">British Crown dependency</description>
+  <synonym>im</synonym>
+  <synonym>Mann</synonym>
+  <synonym>Ellan Vannin</synonym>
+  <synonym>Manx</synonym>
+  <synonym>the Isle of Man</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Asia</description>
+  <synonym>Holy Land</synonym>
+  <synonym>il</synonym>
+  <synonym>ISR</synonym>
+  <synonym>State of Israel</synonym>
+  <synonym>the Jewish state</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southern Europe, member and co-founder of the European Union</description>
+  <synonym>ITA</synonym>
+  <synonym>it</synonym>
+  <synonym>IT</synonym>
+  <synonym>Italia</synonym>
+  <synonym>Italian Republic</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>CIV</synonym>
+  <synonym>ci</synonym>
+  <synonym>C&#244;te d'Ivoire</synonym>
+  <synonym>Cote d ivoire</synonym>
+  <synonym>Cote d' Ivoire</synonym>
+  <synonym>Cote D' Ivoire</synonym>
+  <synonym>Cote d'ivoire</synonym>
+  <synonym>Cote d'Ivoire</synonym>
+  <synonym>Cote D'Ivoire</synonym>
+  <synonym>C&#244;te d'ivoire</synonym>
+  <synonym>C&#244;te D'ivoire</synonym>
+  <synonym>C&#244;te D'Ivoire</synonym>
+  <synonym>Cote d'ivore</synonym>
+  <synonym>C&#244;te d'Ivorie</synonym>
+  <synonym>Cote d'lvoire</synonym>
+  <synonym>Cote d&#8217;Ivoire</synonym>
+  <synonym>C&#244;te d&#8217;Ivoire</synonym>
+  <synonym>Cote d&#180;Ivoire</synonym>
+  <synonym>C&#244;te d&#180;Ivoire</synonym>
+  <synonym>Cote divoire</synonym>
+  <synonym>Cote dIvoire</synonym>
+  <synonym>Cote Divoire</synonym>
+  <synonym>C&#244;te Divoire</synonym>
+  <synonym>Cote Ivoire</synonym>
+  <synonym>Cote-d'Ivoire</synonym>
+  <synonym>C&#244;te-d'Ivoire</synonym>
+  <synonym>Ivory coast</synonym>
+  <synonym>Republic of Cote d'Ivoire</synonym>
+  <synonym>Republic of C&#244;te d'Ivoire</synonym>
+  <synonym>Republic of Ivory Coast</synonym>
+  <synonym>Republic of the Ivory Coast</synonym>
+  <synonym>R&#233;publique de C&#244;te d'Ivoire</synonym>
+  <synonym>The Ivory Coast</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in the Caribbean Sea</description>
+  <synonym>JAM</synonym>
+  <synonym>JA</synonym>
+  <synonym>Commonwealth of Jamaica</synonym>
+  <synonym>jm</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in East Asia, situated on an archipelago of five main and over 6,800 smaller islands</description>
+  <synonym>JAP</synonym>
+  <synonym>JP</synonym>
+  <synonym>jp</synonym>
+  <synonym>JA</synonym>
+  <synonym>Land of the Rising Sun</synonym>
+  <synonym>Nippon</synonym>
+  <synonym>JPN</synonym>
+  <synonym>Nihon</synonym>
+  <synonym>Nihon-koku</synonym>
+  <synonym>Nippon-koku</synonym>
+  <synonym>State of Japan</synonym>
+ </entry>
+ <entry><description xml:lang="en">British Crown dependency in the Channel Islands</description>
+  <synonym>Bailiwick of Jersey</synonym>
+  <synonym>Balliwick of Jersey</synonym>
+  <synonym>je</synonym>
+ </entry>
+ <entry><description xml:lang="en">unincorporated territory of the United States</description>
+  <synonym>Kalama Atoll</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Asia</description>
+  <synonym>JO</synonym>
+  <synonym>JOR</synonym>
+  <synonym>Hashemite Kingdom of Jordan</synonym>
+  <synonym>jo</synonym>
+  <synonym>Kingdom of Jordan</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Eastern Europe and Central Asia</description>
+  <synonym>kz</synonym>
+  <synonym>KAZ</synonym>
+  <synonym>Qazaqstan</synonym>
+  <synonym>Republic of Kazakhstan</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in East Africa</description>
+  <synonym>KE</synonym>
+  <synonym>KEN</synonym>
+  <synonym>ke</synonym>
+  <synonym>Republic of Kenya</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign unitary state in Europe, the Arctic and the North Atlantic</description>
+  <synonym>DK</synonym>
+  <synonym>Denmark</synonym>
+  <synonym>Greenland</synonym>
+  <synonym>Denmark and the Faroe Islands</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Europe and the Caribbean</description>
+  <synonym>NL</synonym>
+  <synonym>Netherlands</synonym>
+  <synonym>the Netherlands</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in the central Pacific Ocean</description>
+  <synonym>KIR</synonym>
+  <synonym>ki</synonym>
+  <synonym>Republic of Kiribati</synonym>
+ </entry>
+ <entry><description xml:lang="en">country in Europe with partially recognized sovereignty</description>
+  <synonym>KOS</synonym>
+  <synonym>XK</synonym>
+  <synonym>KV</synonym>
+  <synonym>XKX</synonym>
+  <synonym>Republic of Kosovo</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Asia</description>
+  <synonym>KUW</synonym>
+  <synonym>Dawlat al-Kuwait</synonym>
+  <synonym>kw</synonym>
+  <synonym>State of Kuwait</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central Asia</description>
+  <synonym>kg</synonym>
+  <synonym>KGZ</synonym>
+  <synonym>Kirgizia</synonym>
+  <synonym>Kyrgyz Republic</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeast Asia</description>
+  <synonym>la</synonym>
+  <synonym>LAO</synonym>
+  <synonym>Lao PDR</synonym>
+  <synonym>Lao People's Democratic Republic</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Northern Europe</description>
+  <synonym>LAT</synonym>
+  <synonym>Latvija</synonym>
+  <synonym>LVA</synonym>
+  <synonym>lv</synonym>
+  <synonym>Latvian Republic</synonym>
+  <synonym>Republic of Latvia</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Asia</description>
+  <synonym>lb</synonym>
+  <synonym>LBN</synonym>
+  <synonym>Lebanese Republic</synonym>
+  <synonym>Republic of Lebanon</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in southern Africa</description>
+  <synonym>LES</synonym>
+  <synonym>ls</synonym>
+  <synonym>Kingdom of Lesotho</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in West Africa</description>
+  <synonym>LBR</synonym>
+  <synonym>lr</synonym>
+  <synonym>Republic of Liberia</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in north Africa</description>
+  <synonym>LBA</synonym>
+  <synonym>ly</synonym>
+  <synonym>State of Libya</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in western-central Europe</description>
+  <synonym>FL</synonym>
+  <synonym>li</synonym>
+  <synonym>LI</synonym>
+  <synonym>LIE</synonym>
+  <synonym>Principality of Liechtenstein</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Northeastern Europe</description>
+  <synonym>LTU</synonym>
+  <synonym>lt</synonym>
+  <synonym>Lietuva</synonym>
+  <synonym>Republic of Lithuania</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Europe</description>
+  <synonym>LU</synonym>
+  <synonym>LUX</synonym>
+  <synonym>Luxemburg</synonym>
+  <synonym>lu</synonym>
+  <synonym>Grand Duchy of Luxembourg</synonym>
+ </entry>
+ <entry><description xml:lang="en">Special Administrative Region of China</description>
+  <synonym>Macao</synonym>
+  <synonym>mo</synonym>
+  <synonym>Aomen</synonym>
+  <synonym>Macao SAR</synonym>
+  <synonym>Macao SAR</synonym>
+  <synonym>China</synonym>
+  <synonym>Macao Special Administrative Region</synonym>
+  <synonym>Macao Special Administrative Region of the People's Republic of China</synonym>
+  <synonym>Macau SAR</synonym>
+  <synonym>Macau SAR</synonym>
+  <synonym>China</synonym>
+  <synonym>Macau Special Administrative Region</synonym>
+  <synonym>Macau Special Administrative Region of the People's Republic of China</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state off the coast of Southeast Africa, in the Indian Ocean</description>
+  <synonym>MAD</synonym>
+  <synonym>mg</synonym>
+  <synonym>Republic of Madagascar</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>mw</synonym>
+  <synonym>MAW</synonym>
+  <synonym>Republic of Malawi</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeast Asia</description>
+  <synonym>MYS</synonym>
+  <synonym>my</synonym>
+  <synonym>MAS</synonym>
+  <synonym>Federation of Malaysia</synonym>
+  <synonym>Malaysia Federation</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South Asia, situated on an archipelago in the Arabian Sea</description>
+  <synonym>mv</synonym>
+  <synonym>MDV</synonym>
+  <synonym>Republic of Maldives</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in West Africa</description>
+  <synonym>ml</synonym>
+  <synonym>MLI</synonym>
+  <synonym>Republic of Mali</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southern Europe situated on an archipelago in the Mediterranean Sea</description>
+  <synonym>MLT</synonym>
+  <synonym>mt</synonym>
+  <synonym>Republic of Malta</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in Oceania</description>
+  <synonym>MHL</synonym>
+  <synonym>mh</synonym>
+  <synonym>Aolep&#257;n Aor&#333;kin M&#807;aje&#316;</synonym>
+  <synonym>Republic of the Marshall Islands</synonym>
+ </entry>
+ <entry><description xml:lang="en">island in the Lesser Antilles, overseas region of France</description>
+  <synonym>MQ</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>MTN</synonym>
+  <synonym>mr</synonym>
+  <synonym>Agawej</synonym>
+  <synonym>Gannaar</synonym>
+  <synonym>G&#224;nnaar</synonym>
+  <synonym>Islamic Republic of Mauritania</synonym>
+  <synonym>Moritani</synonym>
+  <synonym>Muritanya</synonym>
+  <synonym>Murutaane</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in the Indian Ocean</description>
+  <synonym>mu</synonym>
+  <synonym>MRI</synonym>
+  <synonym>Maurice</synonym>
+  <synonym>Moris</synonym>
+  <synonym>Republic of Mauritius</synonym>
+ </entry>
+ <entry><description xml:lang="en">overseas department and region of France</description>
+  <synonym>Department of Mayotte</synonym>
+  <synonym>yt</synonym>
+ </entry>
+ <entry><description xml:lang="en">part of France located in Europe</description>
+  <synonym>European part of France</synonym>
+  <synonym>France (part in Europe)</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in the southern portion of North America</description>
+  <synonym>MEX</synonym>
+  <synonym>Mexican Republic</synonym>
+  <synonym>MX</synonym>
+  <synonym>mx</synonym>
+  <synonym>United Mexican States</synonym>
+ </entry>
+ <entry><description xml:lang="en">atoll in the North Pacific Ocean and territory of the United States</description>
+  <synonym>Midway Island</synonym>
+  <synonym>Midway Islands</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Eastern Europe</description>
+  <synonym>md</synonym>
+  <synonym>MDA</synonym>
+  <synonym>Moldavia</synonym>
+  <synonym>Republic of Moldova</synonym>
+  <synonym>Republica Moldova</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign city-state on the French Riviera</description>
+  <synonym>MON</synonym>
+  <synonym>mc</synonym>
+  <synonym>Principality of Monaco</synonym>
+  <synonym>Fort-Hercule</synonym>
+  <synonym>Monaco (rattach&#233;e au District de Menton en 1793)</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in East Asia</description>
+  <synonym>MGL</synonym>
+  <synonym>MNG</synonym>
+  <synonym>mn</synonym>
+  <synonym>Mongol uls</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeastern Europe</description>
+  <synonym>me</synonym>
+  <synonym>MNE</synonym>
+ </entry>
+ <entry><description xml:lang="en">British Overseas Territory in the Caribbean</description>
+  <synonym>ms</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in North Africa</description>
+  <synonym>MAR</synonym>
+  <synonym>Marocco</synonym>
+  <synonym>ma</synonym>
+  <synonym>Maroc</synonym>
+  <synonym>al-Ma&#289;rib</synonym>
+  <synonym>Arab Maghreb</synonym>
+  <synonym>Kingdom of Morocco</synonym>
+  <synonym>Lma&#289;rib</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>MOZ</synonym>
+  <synonym>MZ</synonym>
+  <synonym>mz</synonym>
+  <synonym>Mo&#231;ambique</synonym>
+  <synonym>Republic of Mozambique</synonym>
+  <synonym>Rep&#250;blica de Mo&#231;ambique</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeast Asia</description>
+  <synonym>Burma</synonym>
+  <synonym>BUR</synonym>
+  <synonym>Union of Burma</synonym>
+  <synonym>MM</synonym>
+  <synonym>MYA</synonym>
+  <synonym>Republic of the Union of Myanmar</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in southern Africa</description>
+  <synonym>na</synonym>
+  <synonym>NAM</synonym>
+  <synonym>Republic of Namibia</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in Oceania</description>
+  <synonym>nr</synonym>
+  <synonym>Pleasant Island</synonym>
+  <synonym>Naoero</synonym>
+  <synonym>Republic of Nauru</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South Asia</description>
+  <synonym>NPL</synonym>
+  <synonym>NP</synonym>
+  <synonym>NEP</synonym>
+  <synonym>Federal Democratic Republic of Nepal</synonym>
+ </entry>
+ <entry><description xml:lang="en">country in Western Europe, part of the Kingdom of the Netherlands</description>
+  <synonym>NL</synonym>
+  <synonym>Holland</synonym>
+  <synonym>Nederland</synonym>
+  <synonym>NED</synonym>
+  <synonym>nl</synonym>
+  <synonym>the Netherlands</synonym>
+  <synonym>Netherlands (after 1945)</synonym>
+ </entry>
+ <entry><description xml:lang="en">former country within the Kingdom of the Netherlands</description>
+  <synonym>AN</synonym>
+  <synonym>Antillen</synonym>
+  <synonym>Dutch Antillean</synonym>
+  <synonym>Dutch Antilles</synonym>
+  <synonym>Dutch Antilles/West Indies</synonym>
+  <synonym>Dutch West India</synonym>
+  <synonym>Dutch West Indies</synonym>
+  <synonym>ISO 3166-1:AN</synonym>
+  <synonym>N.W.I.</synonym>
+  <synonym>Nederlandse Antillen</synonym>
+  <synonym>Netherland Antilles</synonym>
+  <synonym>Netherland Antillies</synonym>
+  <synonym>Netherland West Indies</synonym>
+  <synonym>Netherlands Antillean</synonym>
+  <synonym>Netherlands Antilleans</synonym>
+  <synonym>Netherlands West Indies</synonym>
+  <synonym>Netherlands-Antilles</synonym>
+  <synonym>The Netherlands Antilles</synonym>
+ </entry>
+ <entry><description xml:lang="en">overseas territory of France in the southwest Pacific Ocean</description>
+  <synonym>NCL</synonym>
+  <synonym>NC</synonym>
+  <synonym>Nouvelle-Caledonie</synonym>
+  <synonym>Nouvelle-Cal&#233;donie</synonym>
+  <synonym>FR-NC</synonym>
+ </entry>
+ <entry><description xml:lang="en">former country</description>
+  <synonym>New Hebrides Condominium</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Oceania, situated on two main and around 600 smaller islands in the southwestern Pacific Ocean</description>
+  <synonym>Aotearoa</synonym>
+  <synonym>Dominion of New Zealand</synonym>
+  <synonym>nz</synonym>
+  <synonym>NZ</synonym>
+  <synonym>NZL</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central America</description>
+  <synonym>NI</synonym>
+  <synonym>NIC</synonym>
+  <synonym>NCA</synonym>
+  <synonym>ni</synonym>
+  <synonym>Republic of Nicaragua</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Africa</description>
+  <synonym>ne</synonym>
+  <synonym>Republic Niger</synonym>
+  <synonym>Republic of Niger</synonym>
+  <synonym>Republic of The Niger</synonym>
+  <synonym>The Niger</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in West Africa</description>
+  <synonym>NG</synonym>
+  <synonym>NGR</synonym>
+  <synonym>NGA</synonym>
+  <synonym>Federal Republic of Nigeria</synonym>
+  <synonym>FRN</synonym>
+  <synonym>Naija</synonym>
+ </entry>
+ <entry><description xml:lang="en">island country in the South Pacific Ocean</description>
+  <synonym>nu</synonym>
+  <synonym>Niu&#275;</synonym>
+ </entry>
+ <entry><description xml:lang="en">external territory of Australia in the South Pacific Ocean, consisting of the island of the same name plus neighbouring islands</description>
+  <synonym>Norfolk Island</synonym>
+  <synonym>Other Territories</synonym>
+  <synonym>Norfolk Island</synonym>
+  <synonym>Other Territories</synonym>
+  <synonym>Australia</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in East Asia</description>
+  <synonym>kp</synonym>
+  <synonym>PRK</synonym>
+  <synonym>Dem. Rep. Korea</synonym>
+  <synonym>Democratic People's Republic of Korea</synonym>
+  <synonym>DPRK</synonym>
+  <synonym>N. Korea</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeast Europe</description>
+  <synonym>Macedonia</synonym>
+  <synonym>mk</synonym>
+  <synonym>Former Yugoslav Republic of Macedonia</synonym>
+  <synonym>FYR Macedonia</synonym>
+  <synonym>FYROM</synonym>
+  <synonym>MKD</synonym>
+  <synonym>Republic of Macedonia</synonym>
+  <synonym>Republic of North Macedonia</synonym>
+ </entry>
+ <entry><description xml:lang="en">American-dependent insular area in the western Pacific</description>
+  <synonym>MP</synonym>
+  <synonym>NMI</synonym>
+  <synonym>CNMI</synonym>
+  <synonym>Commonwealth of the Northern Maria Islands</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Northern Europe</description>
+  <synonym>NO</synonym>
+  <synonym>Norge</synonym>
+  <synonym>no</synonym>
+  <synonym>NOR</synonym>
+  <synonym>Kingdom of Norway</synonym>
+  <synonym>Noreg</synonym>
+  <synonym>Norv&#232;ge</synonym>
+  <synonym>Norwegen</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Asia</description>
+  <synonym>om</synonym>
+  <synonym>Sultanate of Oman</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South Asia</description>
+  <synonym>pk</synonym>
+  <synonym>PAK</synonym>
+  <synonym>Islamic Republic of Pakistan</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in Oceania</description>
+  <synonym>pw</synonym>
+  <synonym>Belau</synonym>
+  <synonym>Pelew</synonym>
+  <synonym>Republic of Belau</synonym>
+  <synonym>Republic of Palau</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central America</description>
+  <synonym>pa</synonym>
+  <synonym>Republic of Panama</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in Oceania</description>
+  <synonym>PNG</synonym>
+  <synonym>pg</synonym>
+  <synonym>Independent State of Papua New Guinea</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South America</description>
+  <synonym>py</synonym>
+  <synonym>Heart of South America</synonym>
+  <synonym>Republic of Paraguay</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in East Asia</description>
+  <synonym>China</synonym>
+  <synonym>CHN</synonym>
+  <synonym>cn</synonym>
+  <synonym>CN</synonym>
+  <synonym>Communist China</synonym>
+  <synonym>PR China</synonym>
+  <synonym>PRC</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South America</description>
+  <synonym>pe</synonym>
+  <synonym>Republic of Peru</synonym>
+  <synonym>Republica del Peru</synonym>
+  <synonym>Rep&#250;blica del Per&#250;</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeast Asia</description>
+  <synonym>PH</synonym>
+  <synonym>RP</synonym>
+  <synonym>PHL</synonym>
+  <synonym>Republic of the Philippines</synonym>
+  <synonym>PHI</synonym>
+  <synonym>ph</synonym>
+  <synonym>Philippine Islands</synonym>
+  <synonym>the Philippines</synonym>
+ </entry>
+ <entry><description xml:lang="en">British Overseas Territory in the Pacific Ocean</description>
+  <synonym>pn</synonym>
+  <synonym>Pitcairn</synonym>
+  <synonym>Henderson</synonym>
+  <synonym>Ducie and Oeno Islands</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central Europe</description>
+  <synonym>PL</synonym>
+  <synonym>POL</synonym>
+  <synonym>Republic of Poland</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in southwestern Europe</description>
+  <synonym>Portuguese Republic</synonym>
+  <synonym>pt</synonym>
+  <synonym>PT</synonym>
+ </entry>
+ <entry><description xml:lang="en">unincorporated territory of the United States</description>
+  <synonym>Commonwealth of Puerto Rico</synonym>
+  <synonym>Estado Libre Asociado de Puerto Rico</synonym>
+  <synonym>Porto Rico</synonym>
+  <synonym>PR</synonym>
+  <synonym>Territory of Puerto Rico</synonym>
+  <synonym>The Commonwealth of Puerto Rico</synonym>
+  <synonym>Borinquen</synonym>
+  <synonym>Island of Enchantment</synonym>
+  <synonym>Borik&#233;n</synonym>
+  <synonym>Boriqu&#233;n</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in western Asia</description>
+  <synonym>qa</synonym>
+  <synonym>State of Qatar</synonym>
+ </entry>
+ <entry><description xml:lang="en">Norway's territorial claim in Antarctica</description>
+  <synonym>Dronning Maud Land</synonym>
+ </entry>
+ <entry><description xml:lang="en">former country</description>
+  <synonym>Dahomey</synonym>
+ </entry>
+ <entry><description xml:lang="en">former country</description>
+  <synonym>Upper Volta</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central Africa</description>
+  <synonym>CGO</synonym>
+  <synonym>cg</synonym>
+  <synonym>Congo (Brazzaville)</synonym>
+  <synonym>Congo Republic</synonym>
+  <synonym>Congo-Brazzaville</synonym>
+  <synonym>Rep. Congo</synonym>
+  <synonym>Republic of Congo</synonym>
+  <synonym>Republique du Congo</synonym>
+  <synonym>R&#233;publique du Congo</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Europe</description>
+  <synonym>ro</synonym>
+  <synonym>Rumania</synonym>
+  <synonym>Rom&#226;nia</synonym>
+  <synonym>Roumania</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Eastern Europe and Northern Asia</description>
+  <synonym>Rus</synonym>
+  <synonym>RU</synonym>
+  <synonym>Russian Federation</synonym>
+  <synonym>RUS</synonym>
+  <synonym>ru</synonym>
+  <synonym>Rossiya</synonym>
+  <synonym>Rossija</synonym>
+  <synonym>Rossijskaja Federatsija</synonym>
+  <synonym>Rossiyskaya Federatsiya</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>rw</synonym>
+  <synonym>Republic of Rwanda</synonym>
+ </entry>
+ <entry><description xml:lang="en">island in the Indian Ocean, overseas region of France</description>
+  <synonym>La R&#233;union</synonym>
+  <synonym>re</synonym>
+  <synonym>Reunion</synonym>
+  <synonym>.re</synonym>
+  <synonym>La Reunion</synonym>
+ </entry>
+ <entry><description xml:lang="en">partially recognised state of Western Sahara</description>
+  <synonym>SADR</synonym>
+  <synonym>Saharaui Arab Democratic Republic</synonym>
+  <synonym>Saharawi Arab Democratic Republic</synonym>
+ </entry>
+ <entry><description xml:lang="en">overseas collectivity of France, island of the Little Antillas</description>
+  <synonym>bl</synonym>
+  <synonym>America/St Barthelemy</synonym>
+  <synonym>Collectivite de Saint-Barthelemy</synonym>
+  <synonym>Collectivit&#233; de Saint-Barth&#233;lemy</synonym>
+  <synonym>Collectivity of Saint Barthelemy</synonym>
+  <synonym>Collectivity of Saint Barth&#233;lemy</synonym>
+  <synonym>FR-BL</synonym>
+  <synonym>Ile Saint-Barthelemy</synonym>
+  <synonym>Ile Saint-Barth&#233;lemy</synonym>
+  <synonym>&#206;le Saint-Barth&#233;lemy</synonym>
+  <synonym>ISO 3166-1:BL</synonym>
+  <synonym>Ouanalao</synonym>
+  <synonym>Saint Barth</synonym>
+  <synonym>Saint Barthelemy</synonym>
+  <synonym>Saint Barth&#233;l&#233;my</synonym>
+  <synonym>Saint Barths</synonym>
+  <synonym>Saint Barts</synonym>
+  <synonym>Saint Bartz</synonym>
+  <synonym>Saint-Barthelemy</synonym>
+  <synonym>Saint-Barth&#233;l&#233;my</synonym>
+  <synonym>St barthelemy</synonym>
+  <synonym>St barths</synonym>
+  <synonym>St barts</synonym>
+  <synonym>St. Barth</synonym>
+  <synonym>St. Barthelemy</synonym>
+  <synonym>St. Barth&#233;lemy</synonym>
+  <synonym>St. Barths</synonym>
+  <synonym>St. Barts</synonym>
+ </entry>
+ <entry><description xml:lang="en">British overseas territory in the southern Atlantic Ocean</description>
+  <synonym>SH</synonym>
+  <synonym>Saint Helena and Dependencies</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in the Caribbean Sea</description>
+  <synonym>kn</synonym>
+  <synonym>St. Kitts and Nevis</synonym>
+  <synonym>Federation of Saint Kitts and Nevis</synonym>
+  <synonym>Kitts &amp; Nevis</synonym>
+  <synonym>Saint Christopher and Nevis</synonym>
+  <synonym>St Kitts and Nevis</synonym>
+  <synonym>St. Kitts &amp; Nevis</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in the Caribbean Sea</description>
+  <synonym>St Lucia</synonym>
+  <synonym>St. Lucia</synonym>
+  <synonym>Hewanorra</synonym>
+  <synonym>lc</synonym>
+  <synonym>Iyonola</synonym>
+ </entry>
+ <entry><description xml:lang="en">French overseas collectivity, part of the island of Saint Martin in the Lesser Antilles</description>
+  <synonym>St. Martin</synonym>
+  <synonym>MF</synonym>
+  <synonym>St Martin</synonym>
+  <synonym>mf</synonym>
+  <synonym>Collectivity of Saint Martin</synonym>
+  <synonym>FR-MF</synonym>
+  <synonym>Saint Martin (France)</synonym>
+  <synonym>St. Martin (French part)</synonym>
+ </entry>
+ <entry><description xml:lang="en">self-governing territorial overseas collectivity of France</description>
+  <synonym>pm</synonym>
+  <synonym>Saint-Pierre et Miquelon</synonym>
+  <synonym>Saint-Pierre-et-Miquelon</synonym>
+  <synonym>St Pierre and Miquelon</synonym>
+  <synonym>St. Pierre and Miquelon</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in the Caribbean Sea</description>
+  <synonym>St. Vincent</synonym>
+  <synonym>St Vincent</synonym>
+  <synonym>Saint Vincent</synonym>
+  <synonym>St Vincent and the Grenadines</synonym>
+  <synonym>St. Vincent and the Grenadines</synonym>
+  <synonym>vc</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state situated on six islands in the Pacific Ocean</description>
+  <synonym>ws</synonym>
+  <synonym>Independent State of Samoa</synonym>
+  <synonym>Western Samoa</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southern Europe, enclaved within Italy</description>
+  <synonym>SMR</synonym>
+  <synonym>sm</synonym>
+  <synonym>Most Serene Republic of San Marino</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Asia</description>
+  <synonym>sa</synonym>
+  <synonym>KSA</synonym>
+  <synonym>Kingdom of Saudi Arabia</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Africa</description>
+  <synonym>sn</synonym>
+  <synonym>SEN</synonym>
+  <synonym>Republic of Senegal</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeastern Europe</description>
+  <synonym>SRB</synonym>
+  <synonym>rs</synonym>
+  <synonym>Republic of Serbia</synonym>
+  <synonym>Republika Srbija</synonym>
+  <synonym>Srbija</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state off the eastern coast of Africa</description>
+  <synonym>sc</synonym>
+  <synonym>SEY</synonym>
+  <synonym>Republic of Seychelles</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in West Africa</description>
+  <synonym>Republic of Sierra Leone</synonym>
+  <synonym>sl</synonym>
+  <synonym>SLE</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign city-state in Southeast Asia</description>
+  <synonym>SG</synonym>
+  <synonym>Garden City</synonym>
+  <synonym>SGP</synonym>
+  <synonym>sg</synonym>
+  <synonym>Singapore City</synonym>
+  <synonym>Lion City</synonym>
+  <synonym>Republic of Singapore</synonym>
+ </entry>
+ <entry><description xml:lang="en">country on the Caribbean island of Saint Martin, part of the Kingdom of the Netherlands</description>
+  <synonym>Saint Martin</synonym>
+  <synonym>SX</synonym>
+  <synonym>Sint Maarten</synonym>
+  <synonym>St Martin</synonym>
+  <synonym>NL-SX</synonym>
+  <synonym>Saint Martin (Dutch part)</synonym>
+  <synonym>St. Maarten</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central Europe</description>
+  <synonym>SVK</synonym>
+  <synonym>sk</synonym>
+  <synonym>Slovak Republic</synonym>
+ </entry>
+ <entry><description xml:lang="en">country in Central Europe</description>
+  <synonym>SLO</synonym>
+  <synonym>slo</synonym>
+  <synonym>si</synonym>
+  <synonym>svn</synonym>
+  <synonym>Republic of Slovenia</synonym>
+  <synonym>Republika Slovenija</synonym>
+  <synonym>Slovenija</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in Oceania</description>
+  <synonym>sb</synonym>
+  <synonym>SOL</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>so</synonym>
+  <synonym>SOM</synonym>
+  <synonym>Federal Republic of Somalia</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southern Africa</description>
+  <synonym>SA</synonym>
+  <synonym>za</synonym>
+  <synonym>Republic of South Africa</synonym>
+  <synonym>RSA</synonym>
+  <synonym>zaf</synonym>
+ </entry>
+ <entry><description xml:lang="en">British overseas territory in the Southern Atlantic Ocean</description>
+  <synonym>gs</synonym>
+  <synonym>South Georgia</synonym>
+  <synonym>South Sandwich Islands</synonym>
+  <synonym>SGSSI</synonym>
+  <synonym>South Georgia and South Sandwich Islands</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in East Asia</description>
+  <synonym>Republic of Korea</synonym>
+  <synonym>KOR</synonym>
+  <synonym>ROK</synonym>
+  <synonym>kr</synonym>
+  <synonym>Daehan Minguk</synonym>
+  <synonym>Korea Republic</synonym>
+  <synonym>Rep. Korea</synonym>
+  <synonym>Republic of Great Han</synonym>
+  <synonym>Republic of South Korea</synonym>
+  <synonym>S. Korea</synonym>
+  <synonym>The Republic of Great Han</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>ss</synonym>
+  <synonym>SSD</synonym>
+  <synonym>Republic of South Sudan</synonym>
+  <synonym>Southern Sudan</synonym>
+ </entry>
+ <entry><description xml:lang="en">1922&#8211;1991 country in Europe and Asia</description>
+  <synonym>CCCP</synonym>
+  <synonym>&#1057;&#1057;&#1057;&#1056;</synonym>
+  <synonym>SU</synonym>
+  <synonym>USSR</synonym>
+  <synonym>Soviets</synonym>
+  <synonym>U.S.S.R.</synonym>
+  <synonym>the Soviet Union</synonym>
+  <synonym>The Soviets</synonym>
+  <synonym>the Union of Soviet Socialist Republics</synonym>
+  <synonym>U.S.S.R</synonym>
+  <synonym>Union of Soviet Socialist Republics</synonym>
+ </entry>
+ <entry><description xml:lang="en">constitutional monarchy in Southwest Europe</description>
+  <synonym>ESP</synonym>
+  <synonym>Espa&#241;a</synonym>
+  <synonym>ES</synonym>
+  <synonym>Kingdom of Spain</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South Asia, situated on an island in the Indian Ocean</description>
+  <synonym>Ceylon</synonym>
+  <synonym>lk</synonym>
+  <synonym>Ceylan</synonym>
+  <synonym>SRI</synonym>
+  <synonym>Srilanka</synonym>
+  <synonym>ce</synonym>
+  <synonym>Democratic Socialist Republic of Sri Lanka</synonym>
+  <synonym>Lanka</synonym>
+  <synonym>Sri</synonym>
+  <synonym>lke</synonym>
+  <synonym>Serendib</synonym>
+  <synonym>sri</synonym>
+  <synonym>Taprobane</synonym>
+ </entry>
+ <entry><description xml:lang="en">de jure sovereign state in the Middle East, recognized as such by several countries and international organizations, and as an observer member in the United Nations and for most other countries.</description>
+  <synonym>Palestine</synonym>
+  <synonym>Palestinian Authority</synonym>
+  <synonym>Palestinian National Authority</synonym>
+  <synonym>Palestinian state</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Northeast Africa</description>
+  <synonym>as-S&#363;d&#257;n</synonym>
+  <synonym>North Sudan</synonym>
+  <synonym>Republic of Sudan</synonym>
+  <synonym>Republic of the Sudan</synonym>
+  <synonym>sd</synonym>
+  <synonym>SUD</synonym>
+  <synonym>the Sudan</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South America</description>
+  <synonym>Dutch Guiana</synonym>
+  <synonym>sr</synonym>
+  <synonym>Surinam</synonym>
+  <synonym>SUR</synonym>
+  <synonym>Republic of Surinam</synonym>
+  <synonym>Republic of Suriname</synonym>
+ </entry>
+ <entry><description xml:lang="en">two parts of Norway under separate jurisdictions</description>
+  <synonym>sj</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Northern Europe</description>
+  <synonym>se</synonym>
+  <synonym>SWE</synonym>
+  <synonym>SE</synonym>
+  <synonym>Kingdom of Sweden</synonym>
+ </entry>
+ <entry><description xml:lang="en">federal state in Western Europe</description>
+  <synonym>Swiss</synonym>
+  <synonym>CH</synonym>
+  <synonym>CHE</synonym>
+  <synonym>Schweiz</synonym>
+  <synonym>SUI</synonym>
+  <synonym>Swiss Confederation</synonym>
+  <synonym>Suisse</synonym>
+  <synonym>Svizzera</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Asia</description>
+  <synonym>SYR</synonym>
+  <synonym>sy</synonym>
+  <synonym>Syrian Arab Republic</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in Africa</description>
+  <synonym>STP</synonym>
+  <synonym>Sao Tome and Principe</synonym>
+  <synonym>st</synonym>
+  <synonym>Democratic Republic of S&#227;o Tom&#233; and Pr&#237;ncipe</synonym>
+  <synonym>Sao Tome &amp; Principe</synonym>
+  <synonym>S&#227;o Tom&#233; og Pr&#237;ncipe</synonym>
+ </entry>
+ <entry><description xml:lang="en">democratic republic in East Asia, island state of disputed political status, with limited recognition</description>
+  <synonym>tw</synonym>
+  <synonym>Chinese Taipei</synonym>
+  <synonym>ROC</synonym>
+  <synonym>Nationalist China</synonym>
+  <synonym>Formosa</synonym>
+  <synonym>Republic of China (Taiwan)</synonym>
+  <synonym>Free China</synonym>
+  <synonym>Republic of China</synonym>
+  <synonym>Free area of the Republic of China</synonym>
+  <synonym>Chunghwa Minkuo</synonym>
+  <synonym>Chunghwa Minkwo</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central Asia</description>
+  <synonym>Republic of Tajikistan</synonym>
+  <synonym>tj</synonym>
+  <synonym>TJK</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>tz</synonym>
+  <synonym>United Republic of Tanganyika and Zanzibar</synonym>
+  <synonym>United Republic of Tanzania</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeast Asia</description>
+  <synonym>Kingdom of Thailand</synonym>
+  <synonym>Land of Smiles</synonym>
+  <synonym>Siam</synonym>
+  <synonym>th</synonym>
+  <synonym>THA</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in the West Indies</description>
+  <synonym>Bahamas</synonym>
+  <synonym>bs</synonym>
+  <synonym>Bahama Islands</synonym>
+  <synonym>Commonwealth of the Bahamas</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in West Africa</description>
+  <synonym>gm</synonym>
+  <synonym>Gambia</synonym>
+  <synonym>GAM</synonym>
+  <synonym>Islamic Republic of the Gambia</synonym>
+  <synonym>Republic of The Gambia</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Africa</description>
+  <synonym>TOG</synonym>
+  <synonym>tg</synonym>
+  <synonym>Togolese Republic</synonym>
+ </entry>
+ <entry><description xml:lang="en">New Zealand territory in the Pacific Ocean</description>
+  <synonym>tk</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Oceania, situated on an archipelago</description>
+  <synonym>to</synonym>
+  <synonym>TGA</synonym>
+  <synonym>Kingdom of Tonga</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in the Caribbean Sea</description>
+  <synonym>TTO</synonym>
+  <synonym>tt</synonym>
+  <synonym>Republic of Trinidad and Tobago</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Northern Africa</description>
+  <synonym>Republic of Tunisia</synonym>
+  <synonym>tn</synonym>
+  <synonym>TUN</synonym>
+  <synonym>Tunisian Republic</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state straddling Southeastern Europe and Western Asia</description>
+  <synonym>Republic of Turkey</synonym>
+  <synonym>tr</synonym>
+  <synonym>TUR</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central Asia</description>
+  <synonym>TKM</synonym>
+  <synonym>tm</synonym>
+  <synonym>Turkmenia</synonym>
+ </entry>
+ <entry><description xml:lang="en">British Overseas Territory in the Caribbean</description>
+  <synonym>TCI</synonym>
+  <synonym>tc</synonym>
+  <synonym>Turks &amp; Caicos</synonym>
+ </entry>
+ <entry><description xml:lang="en">island sovereign state in Oceania</description>
+  <synonym>TUV</synonym>
+  <synonym>tv</synonym>
+  <synonym>Ellice Islands</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in East Africa</description>
+  <synonym>UGA</synonym>
+  <synonym>Republic of Uganda</synonym>
+  <synonym>ug</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Eastern Europe</description>
+  <synonym>UKR</synonym>
+  <synonym>UA</synonym>
+  <synonym>ua</synonym>
+  <synonym>Ukrainia</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southwest Asia</description>
+  <synonym>ae</synonym>
+  <synonym>Emirates</synonym>
+  <synonym>the Emirates</synonym>
+  <synonym>the U.A.E.</synonym>
+  <synonym>the UAE</synonym>
+  <synonym>the United Arab Emirates</synonym>
+  <synonym>U.A.E.</synonym>
+  <synonym>UAE</synonym>
+ </entry>
+ <entry><description xml:lang="en">country in Western Europe</description>
+  <synonym>Great Britain</synonym>
+  <synonym>G. B.</synonym>
+  <synonym>GBR</synonym>
+  <synonym>GB</synonym>
+  <synonym>UK</synonym>
+  <synonym>U.K.</synonym>
+  <synonym>United Kingdom of Great Britain and Northern Ireland</synonym>
+  <synonym>G.B.</synonym>
+  <synonym>Marea Britanie</synonym>
+  <synonym>G B</synonym>
+  <synonym>U K</synonym>
+  <synonym>U. K.</synonym>
+  <synonym>G B R</synonym>
+  <synonym>G. B. R.</synonym>
+  <synonym>G.B.R.</synonym>
+ </entry>
+ <entry><description xml:lang="en">group of mostly uninhabited insular areas of the United States (as defined by ISO for statistical purposes)</description>
+  <synonym>um</synonym>
+  <synonym>U.S. Minor Outlying Islands</synonym>
+  <synonym>US Minor Outlying Islands</synonym>
+ </entry>
+ <entry><description xml:lang="en">group of islands in the Caribbean</description>
+  <synonym>&#8549;</synonym>
+  <synonym>ISV</synonym>
+  <synonym>vi</synonym>
+  <synonym>American Virgin Islands</synonym>
+  <synonym>U.S. Virgin Islands</synonym>
+  <synonym>US Virgin Islands</synonym>
+  <synonym>USVI</synonym>
+  <synonym>Virgin Islands of the United States</synonym>
+ </entry>
+ <entry><description xml:lang="en">country in North America</description>
+  <synonym>America</synonym>
+  <synonym>United States</synonym>
+  <synonym>USA</synonym>
+  <synonym>US</synonym>
+  <synonym>the United States</synonym>
+  <synonym>the United States of America</synonym>
+  <synonym>the US</synonym>
+  <synonym>the USA</synonym>
+  <synonym>U.S.</synonym>
+  <synonym>U.S.A.</synonym>
+  <synonym>US of A</synonym>
+  <synonym>U. S.</synonym>
+  <synonym>U. S. A.</synonym>
+  <synonym>the States</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in South America</description>
+  <synonym>Rep&#250;blica Oriental del Uruguay</synonym>
+  <synonym>URU</synonym>
+  <synonym>uy</synonym>
+  <synonym>Oriental Republic of Uruguay</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Central Asia</description>
+  <synonym>Republic of Uzbekistan</synonym>
+  <synonym>uz</synonym>
+  <synonym>UZB</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state situated on an archipelago in the South Pacific Ocean</description>
+  <synonym>Republic of Vanuatu</synonym>
+  <synonym>van</synonym>
+  <synonym>VAN</synonym>
+  <synonym>vu</synonym>
+  <synonym>vut</synonym>
+ </entry>
+ <entry><description xml:lang="en">independent city-state enclaved within Rome, Italy under the sovereignty of the Holy See; world's smallest sovereign state</description>
+  <synonym>va</synonym>
+  <synonym>vat</synonym>
+  <synonym>Vatican</synonym>
+  <synonym>Citt&#224; del Vaticano</synonym>
+  <synonym>Civitas Vaticana</synonym>
+  <synonym>Papal State</synonym>
+  <synonym>State of Vatican City</synonym>
+  <synonym>Stato della Citt&#224; del Vaticano</synonym>
+  <synonym>Status Civitatis Vaticanae</synonym>
+  <synonym>The Vatican</synonym>
+  <synonym>Vatican City State</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in northern South America</description>
+  <synonym>Bolivarian Republic of Venezuela</synonym>
+  <synonym>BR Venezuela</synonym>
+  <synonym>Estados Unidos de Venezuela</synonym>
+  <synonym>VE</synonym>
+  <synonym>VEN</synonym>
+  <synonym>Vzla</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southeast Asia</description>
+  <synonym>VN</synonym>
+  <synonym>Socialist Republic of Vietnam</synonym>
+  <synonym>VIE</synonym>
+  <synonym>Viet Nam</synonym>
+ </entry>
+ <entry><description xml:lang="en">overseas collectivity of France</description>
+  <synonym>wf</synonym>
+  <synonym>Wallis and Futuna Islands</synonym>
+ </entry>
+ <entry><description xml:lang="en">disputed territory in the Maghreb region of North Africa</description>
+  <synonym>EH</synonym>
+  <synonym>Spanish Sahara</synonym>
+  <synonym>West Sahara</synonym>
+  <synonym>West-Sahara</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Western Asia</description>
+  <synonym>YEM</synonym>
+  <synonym>ye</synonym>
+  <synonym>Rep. Yemen</synonym>
+  <synonym>Republic of Yemen</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in Southern Africa</description>
+  <synonym>ZAM</synonym>
+  <synonym>Republic of Zambia</synonym>
+  <synonym>zm</synonym>
+ </entry>
+ <entry><description xml:lang="en">sovereign state in southern Africa</description>
+  <synonym>Rhodesia</synonym>
+  <synonym>ZIM</synonym>
+  <synonym>Southern Rhodesia</synonym>
+  <synonym>Republic of Zimbabwe</synonym>
+  <synonym>Zimbabwe Rhodesia</synonym>
+  <synonym>zw</synonym>
+ </entry>
+ <entry><description xml:lang="en">autonomous region of Finland</description>
+  <synonym>&#197;land</synonym>
+  <synonym>Aland Islands</synonym>
+  <synonym>Aland</synonym>
+  <synonym>Aaland</synonym>
+  <synonym>ax</synonym>
+  <synonym>Aaland Islands</synonym>
+  <synonym>Ahvenanmaa</synonym>
+  <synonym>&#197;land region</synonym>
+ </entry>
+</dictionary>
