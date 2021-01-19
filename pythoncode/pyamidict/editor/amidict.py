@@ -9,18 +9,7 @@ import copy
 import os
 import re
 import sys
-#import pandas as pd
-#import numpy as np
-print("imported numpy")
 
-#def test_numpy():
-#    a = np.arange(15).reshape(3, 5)
-#    print(a, "\nshape", a.shape, "\ndim", a.ndim, "dtype", a.dtype.name, "itemsize", a.itemsize, "size", a.size, "typer", type(a))
-#    b = np.array([6, 7, 8])
-#    print(b,type(b))
-
-#test_numpy()
-    
 # elements
 DICTIONARY = "dictionary"
 DESCRIPTION = "description"
@@ -39,8 +28,26 @@ WIKIDATA_URL = "wikidataURL"
 WIKIPEDIA_EN_PAGE = "wikipediaPage"
 WIKIPEDIA_EN_URL = "wikipediaURL"
 
+ALT_NAMES = "altNames"
+
 ALLOWED_WIKIDATA_REGEX = "_"
 XML_LANG = "xml:lang"
+LANG_EN = "en"
+LANGUAGES = {
+    "Chinese"    : "ZH",
+    "English"    : "EN",
+    "French"     : "FR",
+    "German"     : "DE",
+    "Hindi"      : "HI",
+    "Kannada"    : "KN",
+    "Malayalam"  : "ML",
+    "Portuguese" : "PT",
+    "Sanskrit"   : "SA",
+    "Spanish"    : "ES",
+    "Tamil"      : "TA",
+    "Urdu"       : "UR",
+}
+
 
 SUPPORTED_ATTS = [
     DESCRIPTION_A,
@@ -54,32 +61,155 @@ SUPPORTED_ATTS = [
     WIKIPEDIA_EN_URL,
 ]
 
+UNWANTED_ATTS = [
+    ALT_NAMES,
+]
+
+SUPPORTED_CHILDREN = [
+    DESCRIPTION,
+    SYNONYM
+]
+
 REGEXES = {
     WIKIDATA_ID : "(Q|P)\d+",
-    WIKIDATA_URL : "https?://www\.wikidata\.org/entity/(Q|P)\d+",
-    WIKIPEDIA_EN_PAGE: "(https?://en\.wikipedia\.org/wiki/)?[A-Z0-9][^\s]+", # we are undecided on this attribute
-    WIKIPEDIA_EN_URL: "https?://en\.wikipedia\.org/wiki/[A-Z0-9][^\s]+",
+    WIKIDATA_URL : "https?://www\.wikidata\.org/(wiki|entity)/(Q|P)\d+",
+    WIKIPEDIA_EN_PAGE: "(https?://en\.wikipedia\.org/wiki/)?(%[A-F0-9][A-F0-9]|[A-Z0-9])[^\s]+", # we are undecided on this attribute
+    WIKIPEDIA_EN_URL: "https?://en\.wikipedia\.org/wiki/(%[A-F0-9][A-F0-9]|[A-Z0-9])[^\s]+",
 }
 
-WIKIDATA_ATTRIBUTE_REGEX = "_([PpQq])\d+_([a-z][a-z0-9]+)"
+WIKIDATA_ATTRIBUTE_REGEX = re.compile("_([PpQq])\d+_([a-z][a-z0-9]+)")
+
+OPEN_VIRUS_DICT_NAMES = ["country", "disease", "drug", "npi",
+                          "organization", "test_trace", "virus", "zoonosis"]
 
 def get_resources():
     PYAMIDICT = os.path.normpath(os.path.join(__file__, "..", ".."))
     RESOURCE_DIR = os.path.join(PYAMIDICT, "resources")
     TEMP_DIR = os.path.join(PYAMIDICT, "temp")
     DICTIONARY_DIR = os.path.normpath(os.path.join(PYAMIDICT, "..", "..", "openVirus202011"))
-    print("DD", DICTIONARY_DIR)
     return (PYAMIDICT, RESOURCE_DIR, DICTIONARY_DIR, TEMP_DIR)
 
 
 PYAMIDICT, RESOURCE_DIR, DICT202011, TEMP_DIR = get_resources()
 
-def testx():
-    import numpy as np
-    print("test numpy")
-    a = np.arange(6)
-    a2 = a[np.newaxis, :]
-    a2.shape
+class Entry():
+
+    def __init__(self, elem=None, dict=None):
+        self.elem = elem
+        self.dict = dict
+        self.deleted_atts = []
+
+    def tidy_entry(self):
+        self.transfer_description_atts_to_child()
+        self.remove_deleted_atts(UNWANTED_ATTS)
+        if self.change:
+            print(ET.tostring(self.elem))
+
+    def add_lang_child(self, tag, lang, attname, deleted_atts):
+        child = ET.Element(tag)
+        child.set(XML_LANG, lang)
+        child.text = self.elem.get(attname)
+        self.elem.append(child)
+        deleted_atts.append(attname)
+
+    def transfer_description_atts_to_child(self):
+        change = False
+        deleted_atts = []
+        for attname in self.elem.attrib:
+            if "_description" in attname:
+                lang = attname.split("_")[0]
+                if lang in LANGUAGES:
+                    self.add_lang_child(DESCRIPTION, lang, attname, deleted_atts)
+                else:
+                    print("UNKNOWN lang:", lang)
+            elif attname in LANGUAGES:
+                value = self.elem.attrib[attname]
+                if WIKIDATA_ATTRIBUTE_REGEX.match(value):
+                    print("rejected untranslated name")
+                else:
+                    lang = attname
+                    self.add_lang_child(SYNONYM, lang, attname, deleted_atts)
+        self.remove_deleted_atts(UNWANTED_ATTS)
+
+    def remove_deleted_atts(self, deleted_atts):
+        self.change = False
+        if deleted_atts:
+            self.change = True
+            for attname in deleted_atts:
+                if attname in self.elem.attrib:
+                    del self.elem.attrib[attname]
+#            print (ET.tostring(entry, encoding='utf8', method='xml'))
+
+    def entry_text(self):
+        return self.elem.text
+
+    def entry_lang(self):
+        lang = self.elem.attrib[XML_LANG]
+        lang = LANG_EN if lang is None else lang
+
+
+    def analyze_entry(self):
+        self.check_entry_attributes()
+        self.check_entry_children()
+
+    def get_synonyms(self):
+        return list(self.elem.findall(SYNONYM)) if self.elem.tag == ENTRY else None
+
+    def get_descriptions(self):
+        return list(self.elem.findall(DESCRIPTION)) if self.elem.tag == ENTRY else None
+
+    def get_wikidata_id(self):
+        return self.elem.attrib[WIKIDATA_ID]
+
+    def get_supported_attribute(self, att_name):
+        value = None
+        if att_name in SUPPORTED_ATTS:
+            value = self.elem.attrib[att_name]
+            if not self.check_reserved_att_name_value(value, att_name):
+#                print("unreserved attribute", att_name)
+                value = None
+        return value
+
+    def check_entry_attributes(self):
+        for att_name in self.elem.attrib:
+            if self.get_supported_attribute(att_name):
+                pass
+            elif self.check_wikidata_attribute(att_name):
+                pass
+            elif att_name not in SUPPORTED_ATTS:
+#                print("unknown attribute", att_name)
+                self.dict.unknown_atts.add(att_name)
+
+    def check_entry_children(self):
+        children = list(self.elem)
+        for child in children:
+            if child.tag in SUPPORTED_CHILDREN:
+                pass
+            else:
+                print("unsupported child of entry", child.tag)
+
+    def check_wikidata_attribute(self, att_name) :
+#        print("testing wikidata name", att_name)
+# TODO optionally check that item exists in wikidata
+        self.check_wikidata_exists(att_name)
+        return WIKIDATA_ATTRIBUTE_REGEX.match(att_name)
+
+    def check_wikidata_exists(self, att_name):
+        # TODO create Wikidata lookup
+        pass
+
+    def check_reserved_att_name_value(self, value, att_name):
+        if att_name in REGEXES:
+            regex = re.compile(REGEXES[att_name])
+            if not regex.match(value):
+                if self.err_count < self.max_err:
+                    self.err_count += 1
+                    print(att_name + ":", value, "does not match ", regex)
+                return False
+        return True
+
+
+
 
 class Dictionary():
 
@@ -111,139 +241,78 @@ class Dictionary():
         if self.root.tag != DICTIONARY:
             raise Exception ("not a dictionary file")
         if not os.path.split(file)[-1] == self.root.attrib[TITLE]+".xml":
+            print(os.path.split(file)[-1], "//", self.root.attrib[TITLE]+".xml")
             print("Dictionary @title should equal filename")
-        print("root:", self.root.__class__)
+#        print("root:", self.root.__class__)
         return self.root
 
     def get_descendant_elements(self, tag):
         if not self.root is None:
-            descendants = self.root.findall(tag)
-        return descendants
-
-    def get_synonyms(self, entry):
-        return list(entry.findall(SYNONYM)) if entry.tag == ENTRY else None
-
-    def get_descriptions(self, entry):
-        return list(entry.findall(DESCRIPTION)) if entry.tag == ENTRY else None
-
-    def get_wikidata_id(self, entry):
-        return entry.attrib[WIKIDATA_ID]
-
-    def get_supported_attribute(self, entry, att_name):
-        value = None
-        if att_name in SUPPORTED_ATTS:
-            value = entry.attrib[att_name]
-            if not self.check_reserved_att_name_value(value, att_name):
-#                print("unreserved attribute", att_name)
-                value = None
-        return value
-
-    def check_entry_attributes(self, entry):
-        for att_name in entry.attrib:
-            if self.get_supported_attribute(entry, att_name):
-                pass
-            elif self.check_wikidata_attribute(att_name):
-                pass
-            elif att_name not in SUPPORTED_ATTS:
-#                print("unknown attribute", att_name)
-                self.unknown_atts.add(att_name)
-
-    def check_entry_children(self, entry):
-#        print("WARNING check_entry_children NYI")
-        pass
-
-    def analyze_entry(self, entry):
-        self.check_entry_attributes(entry)
-        self.check_entry_children(entry)
-
-        # https://realpython.com/iterate-through-dictionary-python/??
-#        print(self.get_supported_attribute(entry, WIKIDATA_ID))
-#        print(self.get_supported_attribute(entry, WIKIDATA_URL))
-#        print(self.get_supported_attribute(entry, WIKIPEDIA_EN_PAGE))
-#        print(self.get_supported_attribute(entry, WIKIPEDIA_EN_URL))
-#        print("synonyms",  list(map(entry_text, self.get_synonyms(entry))))
-#        print("descriptions",  list(map(entry_text, self.get_descriptions(entry))))
+            return self.root.findall(tag)
+        else:
+            raise Exception("No XML Element in dictionary")
 
     def get_entries(self):
-        return self.get_descendant_elements(ENTRY)
-
-    def check_wikidata_attribute(self, att_name) :
-#        print("testing wikidata name", att_name)
-        regex = re.compile(WIKIDATA_ATTRIBUTE_REGEX)
-        return regex.match(att_name)
-
-    def check_reserved_att_name_value(self, value, att_name):
-        if att_name in REGEXES:
-            regex = re.compile(REGEXES[att_name])
-            if not regex.match(value):
-                if self.err_count < self.max_err:
-                    self.err_count += 1
-                    print(att_name + ":", value, "does not match ", regex)
-                return False
-        return True
+        return [Entry(elem=e, dict=self) for e in self.get_descendant_elements(ENTRY)]
 
     def analyze(self):
-        entries = self.get_descendant_elements(ENTRY)
+        entries = self.get_entries()
         print("entries", len(entries))
         for entry in entries:
-            self.analyze_entry(entry)
+            entry.analyze_entry()
+
+    def tidy_old_dictionary(self):
+        """clean original dictionaries; this should become obsolete"""
+        entries = self.get_entries()
+        for entry in entries:
+            entry.tidy_entry()
+        self.write_outfile()
+
+    def write_outfile(self):
+        outfile = os.path.join(TEMP_DIR, os.path.split(self.file)[-1])
+        with open(outfile, "wb") as f:
+            f.write(ET.tostring(self.root))
+        print("wrote", outfile,"\n")
 
     def xsl_transform(self, xsl_file, outdir=TEMP_DIR):
+        """still struggling with XSLT, will hardcode transforms"""
         import lxml.etree as ET
         root1 = ET.parse(self.file)
         xsl = ET.parse(xsl_file)
         transform = ET.XSLT(xsl)
-#        print("old dom", ET.tostring(root1, pretty_print=True), "\n\n")
         newdom = transform(root1)
-#        print("\n", "new dom", ET.tostring(newdom, pretty_print=True), "\n")
         outfile = os.path.join(TEMP_DIR, os.path.split(self.file)[-1])
         with open(outfile, "wb") as f:
             f.write(ET.tostring(newdom, pretty_print=True))
         print("wrote", outfile,"\n")
 
-
-def entry_text(entry):
-    return entry.text
-
-def entry_lang(entry):
-    lang = entry.attrib["xml:lang"]
-    lang = "en" if lang is None else lang
+def get_remote_dictionary_files(dict_dir, dictionary_names):
+    return [os.path.join(os.path.join(dict_dir, name), name+".xml") for name in dictionary_names]
 
 def main():
-    dictionary = Dictionary(file=os.path.join(RESOURCE_DIR, "simple_wiki_bad.xml"))
-    xsl_file = os.path.join(RESOURCE_DIR, "clean_dict.xsl")
-    dictionary.xsl_transform(xsl_file)
 
-    COUNTRY_DICT = os.path.join(DICT202011, "country", "country.xml")
-    dict_files = {
-        os.path.join(RESOURCE_DIR, "country6.xml"),
-        COUNTRY_DICT,
-        os.path.join(DICT202011, "disease", "disease.xml"),
-        os.path.join(DICT202011, "drug", "drug.xml"),
-        os.path.join(DICT202011, "npi", "npi.xml"),
-        os.path.join(DICT202011, "organization", "organization.xml"),
-        os.path.join(DICT202011, "test_trace", "test_trace.xml"),
-        os.path.join(DICT202011, "virus", "virus.xml"),
-        os.path.join(DICT202011, "zoonosis", "zoonosis.xml")
-    }
+    dict_files = get_remote_dictionary_files(DICT202011, OPEN_VIRUS_DICT_NAMES)
     for dict_file in dict_files:
         dictionary = Dictionary(file=dict_file)
         print("running dictionary", dict_file)
         dictionary.analyze()
+        dictionary.tidy_old_dictionary()
         if len(dictionary.unknown_atts) > 0:
             print("unknown attributes", dictionary.unknown_atts)
-        dictionary.xsl_transform(xsl_file)
+
+
+#        xsl_file = os.path.join(RESOURCE_DIR, "clean_dict.xsl")
+#        dictionary.xsl_transform(xsl_file)
 
     print("end of transform")
 
-main()
-
 if __name__ == "__main__":
     main()
+else:
+    main()
+
 
 ## TODO
-# rename old attribute names
-# move attributes to child elements
 # delete entries
 # add entries from file
 # add metadata records
