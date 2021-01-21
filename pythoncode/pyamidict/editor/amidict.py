@@ -86,7 +86,10 @@ def get_resources():
     PYAMIDICT = os.path.normpath(os.path.join(__file__, "..", ".."))
     RESOURCE_DIR = os.path.join(PYAMIDICT, "resources")
     TEMP_DIR = os.path.join(PYAMIDICT, "temp")
-    DICTIONARY_DIR = os.path.normpath(os.path.join(PYAMIDICT, "..", "..", "openVirus202011"))
+    DICTIONARY_VERSION = "openVirus202011"
+    DICTIONARY_VERSION = "openVirus20210120"
+    DICTIONARY_TOP = os.path.normpath(os.path.join(PYAMIDICT, "..", ".."))
+    DICTIONARY_DIR = os.path.join(DICTIONARY_TOP, DICTIONARY_VERSION)
     return (PYAMIDICT, RESOURCE_DIR, DICTIONARY_DIR, TEMP_DIR)
 
 
@@ -103,7 +106,8 @@ class Entry():
         self.transfer_description_atts_to_child()
         self.remove_deleted_atts(UNWANTED_ATTS)
         if self.change:
-            print(ET.tostring(self.elem))
+#            print(ET.tostring(self.elem))
+            pass
 
     def add_lang_child(self, tag, lang, attname, deleted_atts):
         child = ET.Element(tag)
@@ -138,7 +142,6 @@ class Entry():
             for attname in deleted_atts:
                 if attname in self.elem.attrib:
                     del self.elem.attrib[attname]
-#            print (ET.tostring(entry, encoding='utf8', method='xml'))
 
     def entry_text(self):
         return self.elem.text
@@ -148,9 +151,15 @@ class Entry():
         lang = LANG_EN if lang is None else lang
 
 
-    def analyze_entry(self):
+    def analyze(self):
         self.check_entry_attributes()
         self.check_entry_children()
+
+    def get_name(self):
+        return self.elem.attrib[NAME]
+
+    def get_attribute_names(self):
+        return {k for k in self.elem.attrib}
 
     def get_synonyms(self):
         return list(self.elem.findall(SYNONYM)) if self.elem.tag == ENTRY else None
@@ -159,14 +168,13 @@ class Entry():
         return list(self.elem.findall(DESCRIPTION)) if self.elem.tag == ENTRY else None
 
     def get_wikidata_id(self):
-        return self.elem.attrib[WIKIDATA_ID]
+        return self.elem.attrib[WIKIDATA_ID] if WIKIDATA_ID in self.elem.attrib else None
 
     def get_supported_attribute(self, att_name):
         value = None
         if att_name in SUPPORTED_ATTS:
             value = self.elem.attrib[att_name]
             if not self.check_reserved_att_name_value(value, att_name):
-#                print("unreserved attribute", att_name)
                 value = None
         return value
 
@@ -177,7 +185,6 @@ class Entry():
             elif self.check_wikidata_attribute(att_name):
                 pass
             elif att_name not in SUPPORTED_ATTS:
-#                print("unknown attribute", att_name)
                 self.dict.unknown_atts.add(att_name)
 
     def check_entry_children(self):
@@ -189,8 +196,6 @@ class Entry():
                 print("unsupported child of entry", child.tag)
 
     def check_wikidata_attribute(self, att_name) :
-#        print("testing wikidata name", att_name)
-# TODO optionally check that item exists in wikidata
         self.check_wikidata_exists(att_name)
         return WIKIDATA_ATTRIBUTE_REGEX.match(att_name)
 
@@ -208,6 +213,26 @@ class Entry():
                 return False
         return True
 
+    @classmethod
+    def merge_entries(cls, entrylist):
+        el = [entrylist[0]]
+        entry_set = set()
+        for i in range(0, len(entrylist)):
+            entry_set.add(entrylist[i])
+        print ("len set", len(set))
+
+    def __hash__(self):
+        return None
+
+    def __eq__(self, other):
+        if not isinstance(other, Entry):
+            print("NE")
+            return NotImplemented
+        if set(self.get_attribute_names()) != set(other.get_attribute_names()):
+            print ("unequal attribute names")
+            return False
+        return True
+
 
 
 
@@ -223,6 +248,8 @@ class Dictionary():
         self.err_count = 0;
         self.max_err = 2;
         self.unknown_atts = set()
+        self.entry_list_by_wikidata_id = {}
+
         if not file is None:
             if not os.path.exists(file):
                 raise Exception ("file not found: "+file)
@@ -243,7 +270,6 @@ class Dictionary():
         if not os.path.split(file)[-1] == self.root.attrib[TITLE]+".xml":
             print(os.path.split(file)[-1], "//", self.root.attrib[TITLE]+".xml")
             print("Dictionary @title should equal filename")
-#        print("root:", self.root.__class__)
         return self.root
 
     def get_descendant_elements(self, tag):
@@ -259,13 +285,14 @@ class Dictionary():
         entries = self.get_entries()
         print("entries", len(entries))
         for entry in entries:
-            entry.analyze_entry()
+            entry.analyze()
 
     def tidy_old_dictionary(self):
         """clean original dictionaries; this should become obsolete"""
         entries = self.get_entries()
         for entry in entries:
             entry.tidy_entry()
+        self.create_entry_list_by_wikidata_id()
         self.write_outfile()
 
     def write_outfile(self):
@@ -286,6 +313,33 @@ class Dictionary():
             f.write(ET.tostring(newdom, pretty_print=True))
         print("wrote", outfile,"\n")
 
+    def create_entry_list_by_wikidata_id(self):
+        self.entry_list_by_wikidata_id = {}
+        entries = self.get_entries();
+        for entry in entries:
+            id = entry.get_wikidata_id()
+            if id is not None:
+                if id not in self.entry_list_by_wikidata_id:
+                    self.entry_list_by_wikidata_id[id] = [entry]
+                else:
+                    self.entry_list_by_wikidata_id.get(id).append(entry)
+        return self.entry_list_by_wikidata_id
+
+    def merge_duplicate_wikidata_ids(self):
+        elid = self.create_entry_list_by_wikidata_id()
+        multiple = [value[0].get_wikidata_id() for k, value in elid.items() if len(value) > 1]
+        print("mult", multiple)
+        for w_id in multiple:
+            entrylist = [e for e in elid.get(w_id)]
+            enew = Entry.merge_entries(entrylist)
+
+
+
+
+
+
+
+
 def get_remote_dictionary_files(dict_dir, dictionary_names):
     return [os.path.join(os.path.join(dict_dir, name), name+".xml") for name in dictionary_names]
 
@@ -299,6 +353,7 @@ def main():
         dictionary.tidy_old_dictionary()
         if len(dictionary.unknown_atts) > 0:
             print("unknown attributes", dictionary.unknown_atts)
+        dictionary.merge_duplicate_wikidata_ids()
 
 
 #        xsl_file = os.path.join(RESOURCE_DIR, "clean_dict.xsl")
