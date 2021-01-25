@@ -414,7 +414,10 @@ def main():
  #   dict_names = ["test_trace"]
     dict_files = get_remote_dictionary_files(DICT202011, dict_names)
     CEVOPEN_DICT = os.path.join(DICTIONARY_TOP, "cevopen")
-    dict_files = [os.path.join(CEVOPEN_DICT, "activity/eo_activity.xml")]
+    dict_files = [
+        os.path.join(CEVOPEN_DICT, "activity/eo_activity.xml"),
+        os.path.join(CEVOPEN_DICT, "plant_part/eo_plant_part.xml")
+    ]
     for dict_file in dict_files:
         test_merge(dict_file)
 

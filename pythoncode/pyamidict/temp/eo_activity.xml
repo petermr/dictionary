@@ -4,47 +4,48 @@
 <contributors>Peter Murray-Rust, Reader Emeritus in Molecular Informatics, Unilever Centre, Dept. Of Chemistry University of Cambridge</contributors>
 <lastupdate> 2020-03-14 by Emanuel Faria</lastupdate>
 <lastupdate date="2021-01-25" author="PMR">changed wikidataID case</lastupdate>
+<lastupdate date="2021-01-25" author="PMR">removed empty  wiukidataID and empty description</lastupdate>
 
-	<entry id="ACT01" term="cancer-preventive" wikidataID="Q1069606" description="" idx="0">
+	<entry id="ACT01" term="cancer-preventive" wikidataID="Q1069606" idx="0">
 		<synonym>chemoprophylaxis</synonym>
 		<synonym>chemopreventive</synonym>
 	</entry>
 	
 	<entry id="ACT04" term="anti neuralgic" wikidataID="Q11905748" description="medication that treats neuralgia" idx="1" />
-	<entry id="ACT05" term="muscle relaxant" wikidataID="Q1225289" description="drug or chemical that affects skeletal muscle function, decreases muscle tone" idx="2" />
-	<entry id="['ACT06', 'ACT05']" term="['myorelaxant', 'muscle relaxant']" wikidataID="Q1225289" description="drug or chemical that affects skeletal muscle function, decreases muscle tone" idx="['3', '2']" merged="true" />
-	<entry id="ACT07" term="anti mutagen" wikidataID="Q12529398" description="An agent that interferes with the mutagenicity of a substance." idx="4" />
-	<entry id="['ACT08', 'ACT07']" term="['anti mutagenic', 'anti mutagen']" wikidataID="Q12529398" description="['An agent that interferes with the mutagenicity of a substance. The interference can be in the form of prevention of the transformation of a mutagenic compound into mutagen, inactivation, or otherwise the prevention of Mutagen-DNA reaction.', 'An agent that interferes with the mutagenicity of a substance.']" idx="['5', '4']" merged="true" />
+	<entry id="['ACT05', 'ACT06']" term="['muscle relaxant', 'myorelaxant']" wikidataID="Q1225289" description="drug or chemical that affects skeletal muscle function, decreases muscle tone" idx="['2', '3']" merged="true" />
+	<entry id="ACT06" term="myorelaxant" wikidataID="Q1225289" description="drug or chemical that affects skeletal muscle function, decreases muscle tone" idx="3" />
+	<entry id="['ACT07', 'ACT08']" term="['anti mutagen', 'anti mutagenic']" wikidataID="Q12529398" description="['An agent that interferes with the mutagenicity of a substance.', 'An agent that interferes with the mutagenicity of a substance. The interference can be in the form of prevention of the transformation of a mutagenic compound into mutagen, inactivation, or otherwise the prevention of Mutagen-DNA reaction.']" idx="['4', '5']" merged="true" />
+	<entry id="ACT08" term="anti mutagenic" wikidataID="Q12529398" description="An agent that interferes with the mutagenicity of a substance. The interference can be in the form of prevention of the transformation of a mutagenic compound into mutagen, inactivation, or otherwise the prevention of Mutagen-DNA reaction." idx="5" />
 	<entry id="ACT09" term="cosmetic" wikidataID="Q131207" description="substances used to enhance the appearance or odor of the human body" idx="6" />
 	<entry id="ACT10" term="pesticide" wikidataID="Q131656" description="substance used to destroy pests" idx="7" />
 	<entry id="ACT11" term="perfumery" wikidataID="Q131746" description="mixture used to produce a pleasant smell" idx="8" />
-	<entry id="['ACT12', 'ACT14', 'ACT13']" term="['anti oxidant', 'free-radical scavenger', 'anti radical']" wikidataID="Q133948" description="['molecule that inhibits the oxidation of other molecules', '']" idx="['9', '11', '10']" merged="true" />
-	<entry id="ACT13" term="anti radical" wikidataID="Q133948" description="" idx="10" />
-	<entry id="ACT14" term="free-radical scavenger" wikidataID="Q133948" description="" idx="11" />
-	<entry id="ACT15" term="insect repellent" wikidataID="Q1340459" description="substance which repels insects" idx="12" />
+	<entry id="ACT12" term="anti oxidant" wikidataID="Q133948" description="molecule that inhibits the oxidation of other molecules" idx="9" />
+	<entry id="ACT13" term="anti radical" wikidataID="Q133948" idx="10" />
+	<entry id="['ACT14', 'ACT13', 'ACT12']" term="['free-radical scavenger', 'anti radical', 'anti oxidant']" wikidataID="Q133948" idx="['11', '10', '9']" merged="true" />
+	<entry id="['ACT15', 'ACT16', 'ACT17']" term="['insect repellent', 'insectifuge', 'repellent']" wikidataID="Q1340459" description="substance which repels insects" idx="['12', '13', '14']" merged="true" />
 	<entry id="ACT16" term="insectifuge" wikidataID="Q1340459" description="substance which repels insects" idx="13" />
-	<entry id="['ACT17', 'ACT16', 'ACT15']" term="['repellent', 'insectifuge', 'insect repellent']" wikidataID="Q1340459" description="substance which repels insects" idx="['14', '13', '12']" merged="true" />
+	<entry id="ACT17" term="repellent" wikidataID="Q1340459" description="substance which repels insects" idx="14" />
 	<entry id="ACT18" term="hepatotoxic" wikidataID="Q1349821" description="chemical or drug-induced liver injury" idx="15" />
-	<entry id="ACT19" term="expectorant" wikidataID="Q1384342" description="Drugs that clear mucus from airways" idx="16" />
-	<entry id="['ACT20', 'ACT21', 'ACT19']" term="['mucokinetic', 'Mucokinetics', 'expectorant']" wikidataID="Q1384342" description="['An agent that aids in the clearance of mucus from the airways, lungs, bronchi, and trachea.', 'Drugs that clear mucus from airways']" idx="['17', '18', '16']" merged="true" />
+	<entry id="['ACT19', 'ACT21', 'ACT20']" term="['expectorant', 'Mucokinetics', 'mucokinetic']" wikidataID="Q1384342" description="['Drugs that clear mucus from airways', 'An agent that aids in the clearance of mucus from the airways, lungs, bronchi, and trachea.']" idx="['16', '18', '17']" merged="true" />
+	<entry id="ACT20" term="mucokinetic" wikidataID="Q1384342" description="An agent that aids in the clearance of mucus from the airways, lungs, bronchi, and trachea." idx="17" />
 	<entry id="ACT21" term="Mucokinetics" wikidataID="Q1384342" description="Drugs that clear mucus from airways" idx="18" />
 	<entry id="ACT22" term="anti perspirant" wikidataID="Q1423889" description="An agent, or anti microbial, that controls sweat and body odor by preventing sweat reaching the skin surface, or by reducing the bacteria that causes body odour." idx="19" />
 	<entry id="ACT23" term="nephrotoxicity" wikidataID="Q1468324" description="Toxicity of the Kidneys" idx="20" />
-	<entry id="['ACT24', 'ACT25']" term="['Cytokine Modulator', 'Cytokine promotor']" wikidataID="Q14862699" description="Functions to control the survival, growth, differentiation and effector function of tissues and cells" idx="['21', '22']" merged="true" />
-	<entry id="ACT25" term="Cytokine promotor" wikidataID="Q14862699" description="Functions to control the survival, growth, differentiation and effector function of tissues and cells" idx="22" />
+	<entry id="ACT24" term="Cytokine Modulator" wikidataID="Q14862699" description="Functions to control the survival, growth, differentiation and effector function of tissues and cells" idx="21" />
+	<entry id="['ACT25', 'ACT24']" term="['Cytokine promotor', 'Cytokine Modulator']" wikidataID="Q14862699" description="Functions to control the survival, growth, differentiation and effector function of tissues and cells" idx="['22', '21']" merged="true" />
 	<entry id="['ACT26', 'ACT27']" term="['skin-healing', 'wound healing']" wikidataID="Q1509074" description="The series of events that restore integrity to a damaged tissue, following an injury" idx="['23', '24']" merged="true" />
 	<entry id="ACT27" term="wound healing" wikidataID="Q1509074" description="The series of events that restore integrity to a damaged tissue, following an injury" idx="24" />
 	<entry id="ACT28" term="pungency" wikidataID="Q1517948" description="Pungency&#160;is the condition of having a strong, sharp&#160;smell&#160;or&#160;flavor&#160;that is often so strong that it is unpleasant" idx="25" />
-	<entry id="ACT29" term="anti tnf" wikidataID="Q1536078" description="" idx="26" />
-	<entry id="['ACT30', 'ACT29']" term="['tnf inhibitor', 'anti tnf']" wikidataID="Q1536078" description="" idx="['27', '26']" merged="true" />
+	<entry id="['ACT29', 'ACT30']" term="['anti tnf', 'tnf inhibitor']" wikidataID="Q1536078" idx="['26', '27']" merged="true" />
+	<entry id="ACT30" term="tnf inhibitor" wikidataID="Q1536078" idx="27" />
 	<entry id="ACT31" term="anti hemorrhagic" wikidataID="Q1642182" description="substance that promotes hemostasis" idx="28" />
 	<entry id="ACT32" term="immunomodulator" wikidataID="Q1660194" description="Immunomodulators are the active agents of immunotherapy. They are a diverse array of recombinant, synthetic, and natural preparations." idx="29" />
 	<entry id="ACT33" term="protease Inhibitor" wikidataID="Q166774" description="A compound which inhibits or antagonizes the biosynthesis or actions of proteases (endopeptidases)." idx="30" />
 	<entry id="ACT34" term="pheromone" wikidataID="Q167377" description="A semiochemical used in olfactory communication between organisms of the same species eliciting a change in sexual or social behaviour." idx="31" />
 	<entry id="ACT35" term="lipoxygenase inhibitor" wikidataID="Q16909071" description="Compounds that bind to and inhibit that enzymatic activity of lipoxygenases. Included under this category are inhibitors that are specific for lipoxygenase subtypes and act to reduce the production of leukotrienes" idx="32" />
 	<entry id="ACT36" term="sebostatic" wikidataID="Q1696730" description="A substance causing the halt in the production of sebum (sebostasis) by the sebaceous glands." idx="33" />
-	<entry id="ACT37" term="appetite stimulant" wikidataID="Q17100700" description="An agent, or drug, that promotes the appetite or assists digestion" idx="34" />
-	<entry id="['ACT38', 'ACT37']" term="['stomachic', 'appetite stimulant']" wikidataID="Q17100700" description="An agent, or drug, that promotes the appetite or assists digestion" idx="['35', '34']" merged="true" />
+	<entry id="['ACT37', 'ACT38']" term="['appetite stimulant', 'stomachic']" wikidataID="Q17100700" description="An agent, or drug, that promotes the appetite or assists digestion" idx="['34', '35']" merged="true" />
+	<entry id="ACT38" term="stomachic" wikidataID="Q17100700" description="An agent, or drug, that promotes the appetite or assists digestion" idx="35" />
 	<entry id="ACT39" term="analgesic" wikidataID="Q173235" description="An agent capable of relieving pain without the loss of consciousness or without producing anaesthesia." idx="36" />
 	<entry id="ACT40" term="carminative" wikidataID="Q1734091" description="An herb or preparation intended to either prevent formation of gas in the gastrointestinal tract or facilitate the expulsion of said gas, thereby combatting flatulence." idx="37" />
 	<entry id="ACT41" term="herbicide" wikidataID="Q178266" description="chemical used to kill unwanted plants" idx="38" />
@@ -53,20 +54,20 @@
 	<entry id="ACT44" term="gabaergic" wikidataID="Q18356742" description="GABAergic means pertaining to or affecting the&#160;neurotransmitter GABA" idx="41" />
 	<entry id="ACT45" term="photosensitizer" wikidataID="Q18388377" description="A molecule that produces a chemical change in another molecule in a photochemicalprocess. Photosensitizers are commonly used in polymer chemistry in reactions such as photopolymerization, photocrosslinking, and photodegradation.Photosensitizers generally act by absorbing energy electromagentic radiation in the form of ultraviolet or visible light and transferring it to adjacent molecules." idx="42" />
 	<entry id="ACT46" term="genotoxic" wikidataID="Q18663259" description="the property of chemical agents that damages the genetic information within a cell causing mutations, which may lead to cancer" idx="43" />
-	<entry id="['ACT47', 'ACT48']" term="['allergenic', 'allergenicity']" wikidataID="Q186752" description="['A chemical compound which causes the onset of an allergic reaction by interacting with any of the molecular pathways involved in an allergy.', '']" idx="['44', '45']" merged="true" />
-	<entry id="ACT48" term="allergenicity" wikidataID="Q186752" description="" idx="45" />
+	<entry id="['ACT47', 'ACT48']" term="['allergenic', 'allergenicity']" wikidataID="Q186752" description="A chemical compound which causes the onset of an allergic reaction by interacting with any of the molecular pathways involved in an allergy." idx="['44', '45']" merged="true" />
+	<entry id="ACT48" term="allergenicity" wikidataID="Q186752" idx="45" />
 	<entry id="['ACT49', 'ACT50']" term="['carcinogen', 'carcinogenic']" wikidataID="Q187661" description="substance, radionuclide, or radiation directly involved in causing cancer" idx="['46', '47']" merged="true" />
 	<entry id="ACT50" term="carcinogenic" wikidataID="Q187661" description="substance, radionuclide, or radiation directly involved in causing cancer" idx="47" />
 	<entry id="ACT51" term="oxidant" wikidataID="Q187689" description="chemical compound used to oxidize another substance in a chemical reaction. A substance that removes electrons from another reactant in a redox reaction." idx="48" />
-	<entry id="ACT52" term="Adenosine inhibitor" wikidataID="Q190012" description="" idx="49" />
-	<entry id="['ACT53', 'ACT54']" term="['allelochemic', 'allelopathic']" wikidataID="Q190334" description="" idx="['50', '51']" merged="true" />
-	<entry id="ACT54" term="allelopathic" wikidataID="Q190334" description="" idx="51" />
-	<entry id="ACT55" term="mitogen" wikidataID="Q1926141" description="A chemical substance that encourages a cell to commence cell division, triggering mitosis." idx="52" />
+	<entry id="ACT52" term="Adenosine inhibitor" wikidataID="Q190012" idx="49" />
+	<entry id="ACT53" term="allelochemic" wikidataID="Q190334" idx="50" />
+	<entry id="['ACT54', 'ACT53']" term="['allelopathic', 'allelochemic']" wikidataID="Q190334" idx="['51', '50']" merged="true" />
+	<entry id="['ACT55', 'ACT56', 'ACT57']" term="['mitogen', 'mitogenic', 'mitotic']" wikidataID="Q1926141" description="['A chemical substance that encourages a cell to commence cell division, triggering mitosis.', 'A substance, usually some form of a protein, that encourages a cell to commence cell division, triggering mitosis.', 'Pertaining to mitosis, a process of nuclear division in eukaryotic cells that occurs when a parent cell divides to produce two identical daughter cells.']" idx="['52', '53', '54']" merged="true" />
 	<entry id="ACT56" term="mitogenic" wikidataID="Q1926141" description="A substance, usually some form of a protein, that encourages a cell to commence cell division, triggering mitosis." idx="53" />
-	<entry id="['ACT57', 'ACT55', 'ACT56']" term="['mitotic', 'mitogen', 'mitogenic']" wikidataID="Q1926141" description="['Pertaining to mitosis, a process of nuclear division in eukaryotic cells that occurs when a parent cell divides to produce two identical daughter cells.', 'A chemical substance that encourages a cell to commence cell division, triggering mitosis.', 'A substance, usually some form of a protein, that encourages a cell to commence cell division, triggering mitosis.']" idx="['54', '52', '53']" merged="true" />
+	<entry id="ACT57" term="mitotic" wikidataID="Q1926141" description="Pertaining to mitosis, a process of nuclear division in eukaryotic cells that occurs when a parent cell divides to produce two identical daughter cells." idx="54" />
 	<entry id="ACT58" term="emetic" wikidataID="Q1930829" description="drug that induces vomiting" idx="55" />
-	<entry id="['ACT59', 'ACT60']" term="['fungicidal', 'fungicide']" wikidataID="Q193237" description="['', 'pesticide used to kill fungi']" idx="['56', '57']" merged="true" />
-	<entry id="ACT60" term="fungicide" wikidataID="Q193237" description="pesticide used to kill fungi" idx="57" />
+	<entry id="ACT59" term="fungicidal" wikidataID="Q193237" idx="56" />
+	<entry id="['ACT60', 'ACT59']" term="['fungicide', 'fungicidal']" wikidataID="Q193237" description="pesticide used to kill fungi" idx="['57', '56']" merged="true" />
 	<entry id="ACT61" term="tranquilizer" wikidataID="Q1941660" description="drug that induces tranquility in an individual" idx="58" />
 	<entry id="ACT62" term="hallucinogenic" wikidataID="Q194270" description="An agent that causes hallucinations, perception anomalies, and other substantial subjective changes in thoughts, emotion, and consciousness." idx="59" />
 	<entry id="ACT63" term="cns-depressant" wikidataID="Q1976211" description="drug or endogenous compound that lowers neurotransmission levels" idx="60" />
@@ -74,60 +75,60 @@
 	<entry id="ACT65" term="neuroprotective" wikidataID="Q1981368" description="relative preservation of neuronal structure and function" idx="62" />
 	<entry id="ACT66" term="diuretic" wikidataID="Q200656" description="substance that promotes the production of urine" idx="63" />
 	<entry id="ACT67" term="barbiturate" wikidataID="Q206348" description="drugs that act as central nervous system depressants" idx="64" />
-	<entry id="['ACT68', 'ACT69']" term="['phototoxic', 'phototoxicity']" wikidataID="Q2088972" description="An agent that renders the skin susceptible to damage (as sunburn or blisters) upon exposure to light and especially ultraviolet light." idx="['65', '66']" merged="true" />
-	<entry id="ACT69" term="phototoxicity" wikidataID="Q2088972" description="An agent that renders the skin susceptible to damage (as sunburn or blisters) upon exposure to light and especially ultraviolet light." idx="66" />
+	<entry id="ACT68" term="phototoxic" wikidataID="Q2088972" description="An agent that renders the skin susceptible to damage (as sunburn or blisters) upon exposure to light and especially ultraviolet light." idx="65" />
+	<entry id="['ACT69', 'ACT68']" term="['phototoxicity', 'phototoxic']" wikidataID="Q2088972" description="An agent that renders the skin susceptible to damage (as sunburn or blisters) upon exposure to light and especially ultraviolet light." idx="['66', '65']" merged="true" />
 	<entry id="ACT70" term="prostaglandin" wikidataID="Q209717" description="group of physiologically active lipid compounds" idx="67" />
 	<entry id="ACT71" term="anti alopecic" wikidataID="Q21045470" description="A substance that counteracts hair loss." idx="68" />
 	<entry id="ACT72" term="stimulant" wikidataID="Q211036" description="An agent, or drug, that induces temporary improvements in either mental or physical functions or both. Examples of these kinds of effects may include enhanced alertness, wakefulness, and locomotion, among others." idx="69" />
 	<entry id="ACT73" term="ornithine-decarboxylase inhibitor" wikidataID="Q21139980" description="The stopping, prevention or reduction of the activity of the enzyme ornithine decarboxylase" idx="70" />
 	<entry id="ACT74" term="aphrodisiac" wikidataID="Q211420" description="Chemical agents or odorants that stimulate sexual desires" idx="71" />
-	<entry id="ACT75" term="anti irritant" wikidataID="Q2142251" description="" idx="72" />
-	<entry id="ACT76" term="gastric irritant" wikidataID="Q2142251" description="" idx="73" />
+	<entry id="ACT75" term="anti irritant" wikidataID="Q2142251" idx="72" />
+	<entry id="['ACT76', 'ACT75', 'ACT78', 'ACT77', 'ACT79']" term="['gastric irritant', 'anti irritant', 'occuloirritant', 'irritant', 'skin irritant']" wikidataID="Q2142251" idx="['73', '72', '75', '74', '76']" merged="true" />
 	<entry id="ACT77" term="irritant" wikidataID="Q2142251" description="substance that acts locally on cutaneous or mucosal surfaces to produce inflammation" idx="74" />
-	<entry id="['ACT78', 'ACT75', 'ACT79', 'ACT77', 'ACT76']" term="['occuloirritant', 'anti irritant', 'skin irritant', 'irritant', 'gastric irritant']" wikidataID="Q2142251" description="['', 'substance that acts locally on cutaneous or mucosal surfaces to produce inflammation']" idx="['75', '72', '76', '74', '73']" merged="true" />
+	<entry id="ACT78" term="occuloirritant" wikidataID="Q2142251" idx="75" />
 	<entry id="ACT79" term="skin irritant" wikidataID="Q2142251" description="substance that acts locally on cutaneous or mucosal surfaces to produce inflammation" idx="76" />
 	<entry id="ACT80" term="anti coagulant" wikidataID="Q215118" description="chemical substances that prevent or reduce coagulation of blood, prolonging the clotting time" idx="77" />
 	<entry id="ACT81" term="laxative" wikidataID="Q217972" description="Agents that produce a soft formed stool, and relax and loosen the bowels, typically used over a protracted period, to relieve constipation" idx="78" />
 	<entry id="ACT82" term="bacteriostatic" wikidataID="Q223417" description="biological or chemical agent that stops bacteria from reproducing, while not necessarily killing them otherwise" idx="79" />
 	<entry id="ACT83" term="anti obesity" wikidataID="Q2255024" description="Agents that increase energy expenditure and weight loss by neural and chemical regulation" idx="80" />
 	<entry id="ACT84" term="cytotoxic" wikidataID="Q246181" description="treatment of cancer with one or more cytotoxic anti neoplastic drugs" idx="81" />
-	<entry id="['ACT85', 'ACT86', 'ACT87']" term="['immunosuppressant', 'immunotoxic', 'immunotoxin']" wikidataID="Q249619" description="['An agent that suppresses immune function by one of several mechanisms of action. Classical cytotoxic immunosuppressants act by inhibiting DNA synthesis. Others may act through activation of T-cells or by inhibiting the activation of helper cells.', '']" idx="['82', '83', '84']" merged="true" />
-	<entry id="ACT86" term="immunotoxic" wikidataID="Q249619" description="" idx="83" />
-	<entry id="ACT87" term="immunotoxin" wikidataID="Q249619" description="" idx="84" />
+	<entry id="ACT85" term="immunosuppressant" wikidataID="Q249619" description="An agent that suppresses immune function by one of several mechanisms of action. Classical cytotoxic immunosuppressants act by inhibiting DNA synthesis. Others may act through activation of T-cells or by inhibiting the activation of helper cells." idx="82" />
+	<entry id="['ACT86', 'ACT85', 'ACT87']" term="['immunotoxic', 'immunosuppressant', 'immunotoxin']" wikidataID="Q249619" idx="['83', '82', '84']" merged="true" />
+	<entry id="ACT87" term="immunotoxin" wikidataID="Q249619" idx="84" />
 	<entry id="ACT88" term="acetylcholinesterase inhibitor" wikidataID="Q2592323" description="drugs that inhibit cholinesterases" idx="85" />
-	<entry id="ACT89" term="ache inhibitor" wikidataID="Q2592323" description="" idx="86" />
-	<entry id="['ACT90', 'ACT88', 'ACT91', 'ACT89']" term="['anti acetylcholinesterase', 'acetylcholinesterase inhibitor', 'anti cholinesterase', 'ache inhibitor']" wikidataID="Q2592323" description="['drugs that inhibit cholinesterases', '']" idx="['87', '85', '88', '86']" merged="true" />
+	<entry id="ACT89" term="ache inhibitor" wikidataID="Q2592323" idx="86" />
+	<entry id="['ACT90', 'ACT89', 'ACT91', 'ACT88']" term="['anti acetylcholinesterase', 'ache inhibitor', 'anti cholinesterase', 'acetylcholinesterase inhibitor']" wikidataID="Q2592323" description="drugs that inhibit cholinesterases" idx="['87', '86', '88', '85']" merged="true" />
 	<entry id="ACT91" term="anti cholinesterase" wikidataID="Q2592323" description="drugs that inhibit cholinesterases" idx="88" />
 	<entry id="ACT92" term="emmenagogue" wikidataID="Q2602077" description="&#160;herbs&#160;which stimulate&#160;blood&#160;flow in the&#160;pelvic&#160;area and&#160;uterus; some stimulate&#160;menstruation" idx="89" />
-	<entry id="['ACT93', 'ACT94']" term="['COX inhibitor', 'cyclooxygenase inhibitor']" wikidataID="Q26697606" description="" idx="['90', '91']" merged="true" />
-	<entry id="ACT94" term="cyclooxygenase inhibitor" wikidataID="Q26697606" description="" idx="91" />
-	<entry id="ACT95" term="antacid" wikidataID="Q274083" description="" idx="92" />
-	<entry id="ACT96" term="anti diarrheic" wikidataID="Q2742649" description="An&#160;anti diarrhoeal drug&#160;(or&#160;anti diarrheal drug&#160;in American English) is any&#160;medication&#160;which provides symptomatic relief for&#160;diarrhoea" idx="93" />
-	<entry id="['ACT97', 'ACT96']" term="['Anti diarrhoeal', 'anti diarrheic']" wikidataID="Q2742649" description="['Miscellaneous agents found useful in the symptomatic treatment of diarrhea. They have no effect on the agent(s) that cause diarrhea, but merely alleviate the condition', 'An\xa0anti diarrhoeal drug\xa0(or\xa0anti diarrheal drug\xa0in American English) is any\xa0medication\xa0which provides symptomatic relief for\xa0diarrhoea']" idx="['94', '93']" merged="true" />
+	<entry id="ACT93" term="COX inhibitor" wikidataID="Q26697606" idx="90" />
+	<entry id="['ACT94', 'ACT93']" term="['cyclooxygenase inhibitor', 'COX inhibitor']" wikidataID="Q26697606" idx="['91', '90']" merged="true" />
+	<entry id="ACT95" term="antacid" wikidataID="Q274083" idx="92" />
+	<entry id="['ACT96', 'ACT97']" term="['anti diarrheic', 'Anti diarrhoeal']" wikidataID="Q2742649" description="['An\xa0anti diarrhoeal drug\xa0(or\xa0anti diarrheal drug\xa0in American English) is any\xa0medication\xa0which provides symptomatic relief for\xa0diarrhoea', 'Miscellaneous agents found useful in the symptomatic treatment of diarrhea. They have no effect on the agent(s) that cause diarrhea, but merely alleviate the condition']" idx="['93', '94']" merged="true" />
+	<entry id="ACT97" term="Anti diarrhoeal" wikidataID="Q2742649" description="Miscellaneous agents found useful in the symptomatic treatment of diarrhea. They have no effect on the agent(s) that cause diarrhea, but merely alleviate the condition" idx="94" />
 	<entry id="ACT98" term="anti septic" wikidataID="Q274493" description="A substance that kills or slows the growth of microorganisms, including bacteria, viruses, fungi and protozoans." idx="95" />
-	<entry id="['ACT99', 'ACT102', 'ACT101', 'ACT100', 'ACT103']" term="['anti cancer', 'anti tumor', 'anti neoplastic agent', 'anti neoplastic', 'Cytostatic anti neoplastic agent']" wikidataID="Q2853144" description="['', 'A substance that inhibits or prevents the proliferation of neoplasms.', 'anti cancer agent']" idx="['96', '99', '98', '97', '100']" merged="true" />
+	<entry id="ACT99" term="anti cancer" wikidataID="Q2853144" idx="96" />
 	<entry id="ACT100" term="anti neoplastic" wikidataID="Q2853144" description="anti cancer agent" idx="97" />
-	<entry id="ACT101" term="anti neoplastic agent" wikidataID="Q2853144" description="" idx="98" />
+	<entry id="ACT101" term="anti neoplastic agent" wikidataID="Q2853144" idx="98" />
 	<entry id="ACT102" term="anti tumor" wikidataID="Q2853144" description="A substance that inhibits or prevents the proliferation of neoplasms." idx="99" />
-	<entry id="ACT103" term="Cytostatic anti neoplastic agent" wikidataID="Q2853144" description="" idx="100" />
+	<entry id="['ACT103', 'ACT102', 'ACT101', 'ACT99', 'ACT100']" term="['Cytostatic anti neoplastic agent', 'anti tumor', 'anti neoplastic agent', 'anti cancer', 'anti neoplastic']" wikidataID="Q2853144" idx="['100', '99', '98', '96', '97']" merged="true" />
 	<entry id="ACT104" term="anti prostaglandin" wikidataID="Q2853342" description="A chemical substance which inhibits the function of the endocrine glands, the biosynthesis of their secreted hormones, or the action of hormones upon their specific sites." idx="101" />
 	<entry id="ACT105" term="anti pruritic" wikidataID="Q2853347" description="drug, usually applied topically, that relieves pruritus (itching)" idx="102" />
 	<entry id="ACT106" term="ace inhibitor" wikidataID="Q288280" description="pharmaceutical drug used primarily for the treatment of hypertension (elevated blood pressure) and congestive heart failure" idx="103" />
-	<entry id="['ACT107', 'ACT108']" term="['anti proliferative', 'cytostatic']" wikidataID="Q3009547" description="the inhibition of&#160;cell growth and multiplication.&#160;Cytostatic&#160;refers to a cellular component or medicine that inhibits cell growth" idx="['104', '105']" merged="true" />
-	<entry id="ACT108" term="cytostatic" wikidataID="Q3009547" description="the inhibition of&#160;cell growth and multiplication.&#160;Cytostatic&#160;refers to a cellular component or medicine that inhibits cell growth" idx="105" />
+	<entry id="ACT107" term="anti proliferative" wikidataID="Q3009547" description="the inhibition of&#160;cell growth and multiplication.&#160;Cytostatic&#160;refers to a cellular component or medicine that inhibits cell growth" idx="104" />
+	<entry id="['ACT108', 'ACT107']" term="['cytostatic', 'anti proliferative']" wikidataID="Q3009547" description="the inhibition of&#160;cell growth and multiplication.&#160;Cytostatic&#160;refers to a cellular component or medicine that inhibits cell growth" idx="['105', '104']" merged="true" />
 	<entry id="ACT109" term="deodorant" wikidataID="Q309035" description="substance applied to the body to prevent body odor" idx="106" />
 	<entry id="ACT110" term="anti histaminic" wikidataID="Q324089" description="drug that binds to but does not activate histamine receptors, thereby blocking the actions of histamine or histamine agonists" idx="107" />
-	<entry id="ACT111" term="antihistaminic" wikidataID="Q324089" description="drug that binds to but does not activate histamine receptors, thereby blocking the actions of histamine or histamine agonists" idx="108" />
+	<entry id="['ACT111', 'ACT112', 'ACT110', 'ACT113']" term="['antihistaminic', 'Histamine antagonist', 'anti histaminic', 'histamine inhibitor']" wikidataID="Q324089" description="['drug that binds to but does not activate histamine receptors, thereby blocking the actions of histamine or histamine agonists', 'Histamine antagonists are the drugs that bind to but do not activate histamine receptors, thereby blocking the actions of histamine or histamine agonists.']" idx="['108', '109', '107', '110']" merged="true" />
 	<entry id="ACT112" term="Histamine antagonist" wikidataID="Q324089" description="drug that binds to but does not activate histamine receptors, thereby blocking the actions of histamine or histamine agonists" idx="109" />
-	<entry id="['ACT113', 'ACT111', 'ACT110', 'ACT112']" term="['histamine inhibitor', 'antihistaminic', 'anti histaminic', 'Histamine antagonist']" wikidataID="Q324089" description="['Histamine antagonists are the drugs that bind to but do not activate histamine receptors, thereby blocking the actions of histamine or histamine agonists.', 'drug that binds to but does not activate histamine receptors, thereby blocking the actions of histamine or histamine agonists']" idx="['110', '108', '107', '109']" merged="true" />
+	<entry id="ACT113" term="histamine inhibitor" wikidataID="Q324089" description="Histamine antagonists are the drugs that bind to but do not activate histamine receptors, thereby blocking the actions of histamine or histamine agonists." idx="110" />
 	<entry id="ACT114" term="purgative" wikidataID="Q3410946" description="An agent that produces a soft formed stool, and relaxes and loosens the bowels, typically used over a protracted period, to relieve constipation. Compare with cathartic, which is a substance that accelerates defecation. A substances can be both a laxative and a cathartic." idx="111" />
 	<entry id="ACT115" term="pediculicide" wikidataID="Q3411675" description="drugs or chemicals which irradicate the infestation of human head lice" idx="112" />
-	<entry id="['ACT116', 'ACT117']" term="['reproductive toxicity', 'reprotoxic']" wikidataID="Q3427345" description="Reproductive toxicity is a hazard associated with some chemical substances, which interfere in some way with normal reproduction; such substances are called reprotoxic." idx="['113', '114']" merged="true" />
-	<entry id="ACT117" term="reprotoxic" wikidataID="Q3427345" description="Reproductive toxicity is a hazard associated with some chemical substances, which interfere in some way with normal reproduction; such substances are called reprotoxic." idx="114" />
+	<entry id="ACT116" term="reproductive toxicity" wikidataID="Q3427345" description="Reproductive toxicity is a hazard associated with some chemical substances, which interfere in some way with normal reproduction; such substances are called reprotoxic." idx="113" />
+	<entry id="['ACT117', 'ACT116']" term="['reprotoxic', 'reproductive toxicity']" wikidataID="Q3427345" description="Reproductive toxicity is a hazard associated with some chemical substances, which interfere in some way with normal reproduction; such substances are called reprotoxic." idx="['114', '113']" merged="true" />
 	<entry id="ACT118" term="rubefacient" wikidataID="Q3446580" description="A substance for topical application that produces redness of the skin, by causing dilation of the capillaries and an increase in blood circulation." idx="115" />
 	<entry id="ACT119" term="sialogogue" wikidataID="Q3482889" description="A drug or substance that increases the flow rate of saliva" idx="116" />
-	<entry id="ACT120" term="adaptogen" wikidataID="Q352551" description="" idx="117" />
-	<entry id="['ACT121', 'ACT120']" term="['adaptogenic', 'adaptogen']" wikidataID="Q352551" description="['A substance or compounds that results in stabilization of physiological processes and promotion of homeostasis, an example being by decreased cellular sensitivity to stress.', '']" idx="['118', '117']" merged="true" />
+	<entry id="ACT120" term="adaptogen" wikidataID="Q352551" idx="117" />
+	<entry id="['ACT121', 'ACT120']" term="['adaptogenic', 'adaptogen']" wikidataID="Q352551" description="A substance or compounds that results in stabilization of physiological processes and promotion of homeostasis, an example being by decreased cellular sensitivity to stress." idx="['118', '117']" merged="true" />
 	<entry id="['ACT122', 'ACT123']" term="['virucidal', 'virucide']" wikidataID="Q3560867" description="A virucide is any physical or chemical agent that deactivates or destroys viruses. This differs from an anti viral drug, which inhibits the proliferation of the virus." idx="['119', '120']" merged="true" />
 	<entry id="ACT123" term="virucide" wikidataID="Q3560867" description="A virucide is any physical or chemical agent that deactivates or destroys viruses. This differs from an anti viral drug, which inhibits the proliferation of the virus." idx="120" />
 	<entry id="ACT124" term="adjuvant" wikidataID="Q357896" description="Any pharmacological or immunological agent that modifies or enhances the effect of other agents such as drugs or vaccines while having few if any direct effects when given by itself." idx="121" />
@@ -136,25 +137,25 @@
 	<entry id="ACT127" term="cathartic" wikidataID="Q3774852" description="Agents that are used to stimulate evacuation of the bowels" idx="124" />
 	<entry id="ACT128" term="phytotoxic" wikidataID="Q3774857" description="An agent poisonous to plants, having a toxic effect on plant growth." idx="125" />
 	<entry id="ACT129" term="astringent" wikidataID="Q378705" description="chemical compound that tends to shrink or constrict body tissues" idx="126" />
-	<entry id="['ACT130', 'ACT131', 'ACT132']" term="['anti hepatotoxic', 'hepatoprotection', 'hepatoprotective']" wikidataID="Q3817359" description="" idx="['127', '128', '129']" merged="true" />
-	<entry id="ACT131" term="hepatoprotection" wikidataID="Q3817359" description="" idx="128" />
-	<entry id="ACT132" term="hepatoprotective" wikidataID="Q3817359" description="" idx="129" />
+	<entry id="ACT130" term="anti hepatotoxic" wikidataID="Q3817359" idx="127" />
+	<entry id="['ACT131', 'ACT130', 'ACT132']" term="['hepatoprotection', 'anti hepatotoxic', 'hepatoprotective']" wikidataID="Q3817359" idx="['128', '127', '129']" merged="true" />
+	<entry id="ACT132" term="hepatoprotective" wikidataID="Q3817359" idx="129" />
 	<entry id="ACT133" term="prooxidant" wikidataID="Q3922210" description="Pro-oxidants&#160;are chemicals that induce&#160;oxidative stress, either by generating&#160;reactive oxygen species&#160;or by inhibiting&#160;anti oxidant&#160;systems." idx="130" />
 	<entry id="ACT134" term="vasodilator" wikidataID="Q4008956" description="drug used to cause dilation of the blood vessels" idx="131" />
-	<entry id="['ACT135', 'ACT136']" term="['neurotoxic', 'neurotoxin']" wikidataID="Q407752" description="substance poisonous or destructive to nerve tissue" idx="['132', '133']" merged="true" />
-	<entry id="ACT136" term="neurotoxin" wikidataID="Q407752" description="substance poisonous or destructive to nerve tissue" idx="133" />
+	<entry id="ACT135" term="neurotoxic" wikidataID="Q407752" description="substance poisonous or destructive to nerve tissue" idx="132" />
+	<entry id="['ACT136', 'ACT135']" term="['neurotoxin', 'neurotoxic']" wikidataID="Q407752" description="substance poisonous or destructive to nerve tissue" idx="['133', '132']" merged="true" />
 	<entry id="ACT137" term="acaricide" wikidataID="Q416014" description="agent that kills members of the arachnid subclass Acari" idx="134" />
-	<entry id="ACT138" term="anti ulcer" wikidataID="Q41602594" description="class of drugs used to treat or ameliorate peptic ulcer or irritation of the gastrointestinal tract" idx="135" />
-	<entry id="['ACT139', 'ACT138']" term="['anti ulcerogenic', 'anti ulcer']" wikidataID="Q41602594" description="class of drugs used to treat or ameliorate peptic ulcer or irritation of the gastrointestinal tract" idx="['136', '135']" merged="true" />
+	<entry id="['ACT138', 'ACT139']" term="['anti ulcer', 'anti ulcerogenic']" wikidataID="Q41602594" description="class of drugs used to treat or ameliorate peptic ulcer or irritation of the gastrointestinal tract" idx="['135', '136']" merged="true" />
+	<entry id="ACT139" term="anti ulcerogenic" wikidataID="Q41602594" description="class of drugs used to treat or ameliorate peptic ulcer or irritation of the gastrointestinal tract" idx="136" />
 	<entry id="['ACT140', 'ACT141']" term="['Calcium channel blocker', 'calcium-antagonist']" wikidataID="Q421700" description="several medications that disrupt the movement of calcium (Ca2+) through calcium channels" idx="['137', '138']" merged="true" />
 	<entry id="ACT141" term="calcium-antagonist" wikidataID="Q421700" description="several medications that disrupt the movement of calcium (Ca2+) through calcium channels" idx="138" />
 	<entry id="ACT142" term="enterotoxin" wikidataID="Q421978" description="An&#160;enterotoxin&#160;is a&#160;protein&#160;exotoxin&#160;released by a&#160;microorganism&#160;that targets the&#160;intestines" idx="139" />
 	<entry id="ACT143" term="decongestant" wikidataID="Q430719" description="drug to relieve nasal congestion" idx="140" />
 	<entry id="ACT144" term="keratolytic" wikidataID="Q445580" description="drug that softens, separates, and causes desquamation of the cornified epithelium or horny layer of skin. An agent that removes warts and other lesions in which the epidermis produces excess skin." idx="141" />
 	<entry id="ACT145" term="dermal" wikidataID="Q4669896" description="route through which substances may be received" idx="142" />
-	<entry id="ACT146" term="aldose-reductase inhibitor" wikidataID="Q4713968" description="" idx="143" />
-	<entry id="['ACT147', 'ACT148']" term="['amebicide', 'anti amebic']" wikidataID="Q4742080" description="" idx="['144', '145']" merged="true" />
-	<entry id="ACT148" term="anti amebic" wikidataID="Q4742080" description="" idx="145" />
+	<entry id="ACT146" term="aldose-reductase inhibitor" wikidataID="Q4713968" idx="143" />
+	<entry id="['ACT147', 'ACT148']" term="['amebicide', 'anti amebic']" wikidataID="Q4742080" idx="['144', '145']" merged="true" />
+	<entry id="ACT148" term="anti amebic" wikidataID="Q4742080" idx="145" />
 	<entry id="ACT149" term="ascaricide" wikidataID="Q4803792" description="Ascaricides are drugs to treat ascariasis that is caused by infections with parasitic nematodes (roundworms) of the genus Ascaris (giant intestinal roundworms)." idx="146" />
 	<entry id="ACT150" term="anaphrodisiac" wikidataID="Q486061" description="An agent that quells or blunts the libido." idx="147" />
 	<entry id="ACT151" term="anesthetic" wikidataID="Q4990531" description="drug that causes anesthesia" idx="148" />
@@ -162,27 +163,27 @@
 	<entry id="ACT01" term="abortifacient" wikidataID="Q50415114" description="Non-steroidal chemical compounds with abortifacient activity." idx="150" />
 	<entry id="ACT2" term="trichomonicide" wikidataID="Q50429885" description="An agent that kills Trichomonas organisms, such as in treating vaginitis that is caused by Trichomonas vaginalis" idx="151" />
 	<entry id="ACT3" term="oxytocic" wikidataID="Q50430113" description="Drugs that stimulate contraction of the myometrium. They are used to induce labor, obstetric at term, to prevent or control postpartum or postabortion hemorrhage, and to assess fetal status in high risk pregnancies" idx="152" />
-	<entry id="['ACT4', 'ACT5']" term="['Radiation-Protective Agents', 'radioprotective']" wikidataID="Q50430144" description="Drugs used to protect against ionizing radiation. They are usually of interest for use in radiation therapy but have been considered for other, e.g. Military, purposes" idx="['153', '154']" merged="true" />
-	<entry id="ACT5" term="radioprotective" wikidataID="Q50430144" description="Drugs used to protect against ionizing radiation. They are usually of interest for use in radiation therapy but have been considered for other, e.g. Military, purposes" idx="154" />
+	<entry id="ACT4" term="Radiation-Protective Agents" wikidataID="Q50430144" description="Drugs used to protect against ionizing radiation. They are usually of interest for use in radiation therapy but have been considered for other, e.g. Military, purposes" idx="153" />
+	<entry id="['ACT5', 'ACT4']" term="['radioprotective', 'Radiation-Protective Agents']" wikidataID="Q50430144" description="Drugs used to protect against ionizing radiation. They are usually of interest for use in radiation therapy but have been considered for other, e.g. Military, purposes" idx="['154', '153']" merged="true" />
 	<entry id="['ACT6', 'ACT7', 'ACT8']" term="['anti allergen', 'anti allergenic', 'anti allergic']" wikidataID="Q50430264" description="['Agents used to treat allergic reactions. Most of these drugs act by preventing the release of inflammatory mediators or inhibiting the actions of released mediators on their target cells. (from ama drug evaluations annual, 1994, p475)', 'Agents used to treat allergic reactions.']" idx="['155', '156', '157']" merged="true" />
 	<entry id="ACT7" term="anti allergenic" wikidataID="Q50430264" description="Agents used to treat allergic reactions. Most of these drugs act by preventing the release of inflammatory mediators or inhibiting the actions of released mediators on their target cells. (from ama drug evaluations annual, 1994, p475)" idx="156" />
 	<entry id="ACT8" term="anti allergic" wikidataID="Q50430264" description="Agents used to treat allergic reactions." idx="157" />
 	<entry id="ACT9" term="anti asthmatic" wikidataID="Q50430265" description="Drugs that are used to treat asthma" idx="158" />
-	<entry id="ACT10" term="anti scar" wikidataID="Q5119340" description="An agent that promotes healing through the formation of scar tissue. For example, sandalwood is a natural cicatrizant." idx="159" />
-	<entry id="['ACT11', 'ACT10']" term="['cicatrizant', 'anti scar']" wikidataID="Q5119340" description="An agent that promotes healing through the formation of scar tissue. For example, sandalwood is a natural cicatrizant." idx="['160', '159']" merged="true" />
+	<entry id="['ACT10', 'ACT11']" term="['anti scar', 'cicatrizant']" wikidataID="Q5119340" description="An agent that promotes healing through the formation of scar tissue. For example, sandalwood is a natural cicatrizant." idx="['159', '160']" merged="true" />
+	<entry id="ACT11" term="cicatrizant" wikidataID="Q5119340" description="An agent that promotes healing through the formation of scar tissue. For example, sandalwood is a natural cicatrizant." idx="160" />
 	<entry id="ACT12" term="spermicide" wikidataID="Q513122" description="A contraceptive substance that destroys sperm, inserted vaginally prior to intercourse to prevent pregnancy." idx="161" />
 	<entry id="ACT13" term="convulsant" wikidataID="Q5166679" description="substance that acts in the brain stem or spinal cord to produce tonic or clonic convulsions, often by removing normal inhibitory tone" idx="162" />
 	<entry id="ACT14" term="anti malarial" wikidataID="Q521616" description="Agents used in the treatment of malaria." idx="163" />
 	<entry id="ACT15" term="larvicide" wikidataID="Q522817" description="an&#160;insecticide&#160;that is specifically targeted against the&#160;larval&#160;life stage of an&#160;insect. Their most common use is against&#160;mosquitoes. Larvicides may be contact poisons, stomach poisons, growth regulators, or (increasingly)&#160;biological control&#160;agents." idx="164" />
 	<entry id="ACT16" term="anti feedant" wikidataID="Q56062995" description="Anti feedants&#160;are&#160;organic compounds&#160;produced by plants to inhibit attack by insects and grazing animals" idx="165" />
-	<entry id="['ACT17', 'ACT19', 'ACT18']" term="['anorectic', 'appetite suppressant', 'anti appetant']" wikidataID="Q567709" description="['drug which reduces appetite', 'An agent which regulates the physiologic mechanisms that control the appetite and food intake.']" idx="['166', '168', '167']" merged="true" />
+	<entry id="ACT17" term="anorectic" wikidataID="Q567709" description="drug which reduces appetite" idx="166" />
 	<entry id="ACT18" term="anti appetant" wikidataID="Q567709" description="An agent which regulates the physiologic mechanisms that control the appetite and food intake." idx="167" />
-	<entry id="ACT19" term="appetite suppressant" wikidataID="Q567709" description="drug which reduces appetite" idx="168" />
+	<entry id="['ACT19', 'ACT18', 'ACT17']" term="['appetite suppressant', 'anti appetant', 'anorectic']" wikidataID="Q567709" description="['drug which reduces appetite', 'An agent which regulates the physiologic mechanisms that control the appetite and food intake.']" idx="['168', '167', '166']" merged="true" />
 	<entry id="['ACT20', 'ACT21']" term="['anthelmintic', 'vermifuge']" wikidataID="Q572294" description="['substance intended to kill helminths parasitic worms', 'substance intended to kill helminths (parasitic worms)']" idx="['169', '170']" merged="true" />
 	<entry id="ACT21" term="vermifuge" wikidataID="Q572294" description="substance intended to kill helminths (parasitic worms)" idx="170" />
 	<entry id="ACT22" term="anti diabetic" wikidataID="Q575062" description="Substances which lower blood glucose levels" idx="171" />
-	<entry id="ACT23" term="anti hyperglycemic" wikidataID="Q575062" description="" idx="172" />
-	<entry id="['ACT24', 'ACT23', 'ACT22']" term="['hypoglycemic', 'anti hyperglycemic', 'anti diabetic']" wikidataID="Q575062" description="['Substances which lower blood glucose levels', '']" idx="['173', '172', '171']" merged="true" />
+	<entry id="['ACT23', 'ACT24', 'ACT22']" term="['anti hyperglycemic', 'hypoglycemic', 'anti diabetic']" wikidataID="Q575062" idx="['172', '173', '171']" merged="true" />
+	<entry id="ACT24" term="hypoglycemic" wikidataID="Q575062" description="Substances which lower blood glucose levels" idx="173" />
 	<entry id="ACT25" term="anti emetic" wikidataID="Q575136" description="drug used to prevent nausea or vomiting" idx="174" />
 	<entry id="ACT26" term="Anti fibrinolytic" wikidataID="Q575222" description="Anti fibrinolytics&#160;are a class of&#160;medication&#160;that are inhibitors of&#160;fibrinolysis" idx="175" />
 	<entry id="ACT27" term="anti hypertensive" wikidataID="Q575890" description="all drugs for hypertension's treatment" idx="176" />
@@ -201,14 +202,14 @@
 	<entry id="ACT40" term="anxiolytic" wikidataID="Q62903" description="medication or other intervention that inhibits anxiety" idx="189" />
 	<entry id="ACT41" term="hypnotic" wikidataID="Q62962" description="class of psychoactive drugs whose primary function is to induce sleep and to be used in the treatment of insomnia (sleeplessness), or for surgical anesthesia" idx="190" />
 	<entry id="ACT42" term="vesicant" wikidataID="Q662959" description="Any compound that causes severe skin, eye and mucosal pain and irritation. Blister agent. " idx="191" />
-	<entry id="ACT43" term="photoprotectant" wikidataID="Q676558" description="Photoprotection&#160;is the biochemical process that helps organisms cope with molecular damage caused by&#160;sunlight" idx="192" />
-	<entry id="['ACT44', 'ACT43']" term="['photoprotectoe', 'photoprotectant']" wikidataID="Q676558" description="Photoprotection&#160;is the biochemical process that helps organisms cope with molecular damage caused by&#160;sunlight" idx="['193', '192']" merged="true" />
+	<entry id="['ACT43', 'ACT44']" term="['photoprotectant', 'photoprotectoe']" wikidataID="Q676558" description="Photoprotection&#160;is the biochemical process that helps organisms cope with molecular damage caused by&#160;sunlight" idx="['192', '193']" merged="true" />
+	<entry id="ACT44" term="photoprotectoe" wikidataID="Q676558" description="Photoprotection&#160;is the biochemical process that helps organisms cope with molecular damage caused by&#160;sunlight" idx="193" />
 	<entry id="ACT45" term="anti microbial" wikidataID="Q68541106" description="anti microbial resistance to multiple drugs" idx="194" />
 	<entry id="ACT46" term="anti mitotic" wikidataID="Q6881918" description="chemical" idx="195" />
 	<entry id="['ACT47', 'ACT46']" term="['mitotic inhibitor', 'anti mitotic']" wikidataID="Q6881918" description="chemical" idx="['196', '195']" merged="true" />
 	<entry id="ACT48" term="photocarcinogenic" wikidataID="Q7187720" description="A role played by a chemical compound which is known to induce a process of carcinogenesis by corrupting normal cellular pathways, leading to the acquistion of tumoral capabilities." idx="197" />
-	<entry id="ACT49" term="anti aggregant" wikidataID="Q721432" description="" idx="198" />
-	<entry id="['ACT50', 'ACT49']" term="['platelet aggregation inhibitor', 'anti aggregant']" wikidataID="Q721432" description="" idx="['199', '198']" merged="true" />
+	<entry id="['ACT49', 'ACT50']" term="['anti aggregant', 'platelet aggregation inhibitor']" wikidataID="Q721432" idx="['198', '199']" merged="true" />
+	<entry id="ACT50" term="platelet aggregation inhibitor" wikidataID="Q721432" idx="199" />
 	<entry id="['ACT51', 'ACT52']" term="['Prostaglandin antagonist', 'prostaglandin inhibitor']" wikidataID="Q7250944" description="A compound that inhibits the action of prostaglandins." idx="['200', '201']" merged="true" />
 	<entry id="ACT52" term="prostaglandin inhibitor" wikidataID="Q7250944" description="A compound that inhibits the action of prostaglandins." idx="201" />
 	<entry id="ACT53" term="protein kinase inhibitor" wikidataID="Q7251487" description="An EC 2.7.* (P-containing group transferase) inhibitor that interferes with the action of protein kinases." idx="202" />
@@ -220,12 +221,12 @@
 	<entry id="['ACT59', 'ACT58']" term="['transdermal', 'skin-penetration']" wikidataID="Q7833952" description="['A route of administration wherein active ingredients are delivered across the skin for systemic distribution. Examples include transdermal patches used for medicine delivery, and transdermal implants used for medical or aesthetic purposes.', 'route of administration wherein active ingredients are delivered across the skin']" idx="['208', '207']" merged="true" />
 	<entry id="ACT60" term="ecbolic" wikidataID="Q7902662" description="substance that induces labor and stimulates&#160;childbirth&#160;and delivery" idx="209" />
 	<entry id="['ACT61', 'ACT60']" term="['Uterotonic', 'ecbolic']" wikidataID="Q7902662" description="substance that induces labor and stimulates&#160;childbirth&#160;and delivery" idx="['210', '209']" merged="true" />
-	<entry id="['ACT62', 'ACT64', 'ACT65', 'ACT63', 'ACT67', 'ACT66']" term="['anti bacteria', 'anti pertussic', 'anti pertussive', 'anti bacterial', 'bactericide', 'bactericidal']" wikidataID="Q804539" description="['', 'A substance that kills or slows the growth of bacteria.', 'substance that kills bacteria']" idx="['211', '213', '214', '212', '216', '215']" merged="true" />
-	<entry id="ACT63" term="anti bacterial" wikidataID="Q804539" description="substance that kills bacteria" idx="212" />
+	<entry id="ACT62" term="anti bacteria" wikidataID="Q804539" idx="211" />
+	<entry id="['ACT63', 'ACT62', 'ACT65', 'ACT66', 'ACT67', 'ACT64']" term="['anti bacterial', 'anti bacteria', 'anti pertussive', 'bactericidal', 'bactericide', 'anti pertussic']" wikidataID="Q804539" description="['substance that kills bacteria', 'A substance that kills or slows the growth of bacteria.']" idx="['212', '211', '214', '215', '216', '213']" merged="true" />
 	<entry id="ACT64" term="anti pertussic" wikidataID="Q804539" description="A substance that kills or slows the growth of bacteria." idx="213" />
 	<entry id="ACT65" term="anti pertussive" wikidataID="Q804539" description="A substance that kills or slows the growth of bacteria." idx="214" />
-	<entry id="ACT66" term="bactericidal" wikidataID="Q804539" description="" idx="215" />
-	<entry id="ACT67" term="bactericide" wikidataID="Q804539" description="" idx="216" />
+	<entry id="ACT66" term="bactericidal" wikidataID="Q804539" idx="215" />
+	<entry id="ACT67" term="bactericide" wikidataID="Q804539" idx="216" />
 	<entry id="ACT68" term="sunscreen" wikidataID="Q827658" description="topical skin product that helps protect against sunburn" idx="217" />
 	<entry id="['ACT69', 'ACT68']" term="['UV-screen', 'sunscreen']" wikidataID="Q827658" description="topical skin product that helps protect against sunburn" idx="['218', '217']" merged="true" />
 	<entry id="ACT70" term="anti viral" wikidataID="Q846227" description="A substance that destroys or inhibits replication of viruses." idx="219" />
@@ -233,15 +234,15 @@
 	<entry id="ACT72" term="cox-1 inhibitor" wikidataID="Q84944531" description="A subclass of cyclooxygenase inhibitors with specificity for cyclooxygenase-1" idx="221" />
 	<entry id="ACT73" term="gastroprotective" wikidataID="Q84951095" description="the ability of certain endogenous factors, chemical compounds and drugs to counteract gastric mucosal damage through mechanisms unrelated to inhibition of acid secretion" idx="222" />
 	<entry id="ACT74" term="hypothermic" wikidataID="Q84953056" description="drug or chemical substance that induces body temperature cooling" idx="223" />
-	<entry id="ACT75" term="insect attractant" wikidataID="Q84953547" description="A chemical that attracts insects" idx="224" />
-	<entry id="['ACT76', 'ACT75']" term="['insectiphile', 'insect attractant']" wikidataID="Q84953547" description="A chemical that attracts insects" idx="['225', '224']" merged="true" />
+	<entry id="['ACT75', 'ACT76']" term="['insect attractant', 'insectiphile']" wikidataID="Q84953547" description="A chemical that attracts insects" idx="['224', '225']" merged="true" />
+	<entry id="ACT76" term="insectiphile" wikidataID="Q84953547" description="A chemical that attracts insects" idx="225" />
 	<entry id="ACT77" term="juvabional" wikidataID="Q84953576" description="Jubiavonials have the effect of insect hormones that physical maturation of some insects. Jubiavonials can be ingredients in insecticides which prevent insects from developing past the larval stage, thus preventing them from breeding." idx="226" />
 	<entry id="['ACT78', 'ACT79']" term="['anti leukotriene', 'leukotriene inhibitor']" wikidataID="Q84953633" description="An anti leukotriene is a medication which functions to oppose the function of Leukotriene inflammatory mediators, thus countering bronchoconstriction, inflammation, microvascular permeability, and mucus secretion in asthma and COPD." idx="['227', '228']" merged="true" />
 	<entry id="ACT79" term="leukotriene inhibitor" wikidataID="Q84953633" description="An anti leukotriene is a medication which functions to oppose the function of Leukotriene inflammatory mediators, thus countering bronchoconstriction, inflammation, microvascular permeability, and mucus secretion in asthma and COPD." idx="228" />
 	<entry id="ACT80" term="lipolytic" wikidataID="Q84953651" description="activity involved in the breakdown of lipids and involves hydrolysis of triglycerides into glycerol and three fatty acids" idx="229" />
 	<entry id="ACT81" term="aedifuge" wikidataID="Q84954230" description="Strictly, a substance intended to kill pests. In common usage, any substance used for controlling, preventing, or destroying animal, microbiological or plant pests." idx="230" />
-	<entry id="['ACT82', 'ACT84', 'ACT83', 'ACT81']" term="['mosquito repellant', 'mosquitofuge', 'mosquito repellent', 'aedifuge']" wikidataID="Q84954230" description="['a substance applied to skin, clothing, or other surfaces which discourages insects (mosquitos, specifically) from landing or climbing on that surface', 'Strictly, a substance intended to kill members of the class Insecta. In common usage, any substance used for preventing, destroying, repelling or controlling insects.', 'Strictly, a substance intended to kill pests. In common usage, any substance used for controlling, preventing, or destroying animal, microbiological or plant pests.']" idx="['231', '233', '232', '230']" merged="true" />
-	<entry id="ACT83" term="mosquito repellent" wikidataID="Q84954230" description="a substance applied to skin, clothing, or other surfaces which discourages insects (mosquitos, specifically) from landing or climbing on that surface" idx="232" />
+	<entry id="ACT82" term="mosquito repellant" wikidataID="Q84954230" description="a substance applied to skin, clothing, or other surfaces which discourages insects (mosquitos, specifically) from landing or climbing on that surface" idx="231" />
+	<entry id="['ACT83', 'ACT81', 'ACT82', 'ACT84']" term="['mosquito repellent', 'aedifuge', 'mosquito repellant', 'mosquitofuge']" wikidataID="Q84954230" description="['a substance applied to skin, clothing, or other surfaces which discourages insects (mosquitos, specifically) from landing or climbing on that surface', 'Strictly, a substance intended to kill pests. In common usage, any substance used for controlling, preventing, or destroying animal, microbiological or plant pests.', 'Strictly, a substance intended to kill members of the class Insecta. In common usage, any substance used for preventing, destroying, repelling or controlling insects.']" idx="['232', '230', '231', '233']" merged="true" />
 	<entry id="ACT84" term="mosquitofuge" wikidataID="Q84954230" description="Strictly, a substance intended to kill members of the class Insecta. In common usage, any substance used for preventing, destroying, repelling or controlling insects." idx="233" />
 	<entry id="ACT85" term="nervine" wikidataID="Q84954685" description="a medicine used to calm the nerves" idx="234" />
 	<entry id="ACT86" term="ozone-scavenger" wikidataID="Q84955111" description="An agent that retains ozone from a gas stream" idx="235" />
@@ -251,8 +252,8 @@
 	<entry id="ACT90" term="renoirritant" wikidataID="Q84956474" description="An agent that causes irritation or inflammation of kydney tissue." idx="239" />
 	<entry id="ACT91" term="secretolytic" wikidataID="Q84956492" description="An agent that increases the production of serous mucus in the respiratory tract." idx="240" />
 	<entry id="ACT92" term="sensitizer" wikidataID="Q84956495" description="Chemical sensitizer, a chemical that causes allergic reaction in normal tissue after exposure" idx="241" />
-	<entry id="ACT93" term="skin healing" wikidataID="Q84956500" description="A drug or chemical compound used in treating and healing of wounds." idx="242" />
-	<entry id="['ACT94', 'ACT93']" term="['vulnerary', 'skin healing']" wikidataID="Q84956500" description="['A drug or chemical compound used in treating and healing of wounds', 'A drug or chemical compound used in treating and healing of wounds.']" idx="['243', '242']" merged="true" />
+	<entry id="['ACT93', 'ACT94']" term="['skin healing', 'vulnerary']" wikidataID="Q84956500" description="['A drug or chemical compound used in treating and healing of wounds.', 'A drug or chemical compound used in treating and healing of wounds']" idx="['242', '243']" merged="true" />
+	<entry id="ACT94" term="vulnerary" wikidataID="Q84956500" description="A drug or chemical compound used in treating and healing of wounds" idx="243" />
 	<entry id="ACT95" term="spasmogenic" wikidataID="Q84956514" description="An agent that causes spasms, which are sudden involuntary muscular contraction or convulsive movement" idx="244" />
 	<entry id="ACT96" term="teratogenic" wikidataID="Q84956686" description="A role played by a chemical compound in biological systems with adverse consequences in embryo developments, leading to birth defects, embryo death or altered development, growth retardation and functional defect." idx="245" />
 	<entry id="ACT97" term="termiticide" wikidataID="Q84956852" description="An agent that kills termites, eusocial insects that are classified at the taxonomic rank of infraorder Isoptera, or as epifamily Termitoidae within the cockroach order Blattodea." idx="246" />
@@ -268,9 +269,9 @@
 	<entry id="ACT107" term="verrucolytic" wikidataID="Q84957506" description="An agent that acts against verruca, a contagious and usually painful wart on the sole of the foot." idx="256" />
 	<entry id="ACT108" term="vibriocide" wikidataID="Q84957510" description="An agent that is destructive to bacteria of the genus Vibrio, especially V. cholerae." idx="257" />
 	<entry id="ACT109" term="anaphylactic" wikidataID="Q84957514" description="Allergent causing anaphylaxis, an allergic reaction with symptoms such as itchy rash, throat swelling, low blood pressure." idx="258" />
-	<entry id="['ACT110', 'ACT111', 'ACT112']" term="['anti androgen', 'anti androgenic', 'anti angiogenic']" wikidataID="Q84957515" description="['A compound which inhibits or antagonises the biosynthesis or actions of androgens', 'A compound which inhibits or antagonises the biosynthesis or actions of androgens.']" idx="['259', '260', '261']" merged="true" />
+	<entry id="ACT110" term="anti androgen" wikidataID="Q84957515" description="A compound which inhibits or antagonises the biosynthesis or actions of androgens" idx="259" />
 	<entry id="ACT111" term="anti androgenic" wikidataID="Q84957515" description="A compound which inhibits or antagonises the biosynthesis or actions of androgens." idx="260" />
-	<entry id="ACT112" term="anti angiogenic" wikidataID="Q84957515" description="A compound which inhibits or antagonises the biosynthesis or actions of androgens" idx="261" />
+	<entry id="['ACT112', 'ACT110', 'ACT111']" term="['anti angiogenic', 'anti androgen', 'anti androgenic']" wikidataID="Q84957515" description="['A compound which inhibits or antagonises the biosynthesis or actions of androgens', 'A compound which inhibits or antagonises the biosynthesis or actions of androgens.']" idx="['261', '259', '260']" merged="true" />
 	<entry id="ACT113" term="androgenic" wikidataID="Q84958628" description="An agent, usually a steroid hormone, that stimulates or controls the development and maintenance of male characteristics in vertebrates by binding to androgen receptors." idx="262" />
 	<entry id="ACT114" term="anti anaphylactic" wikidataID="Q84958741" description="Anti allergent prohibiting the onset or state of anaphylaxis, an allergic reaction with symptoms such as itchy rash, throat swelling, low blood pressure." idx="263" />
 	<entry id="ACT115" term="anti bacillary" wikidataID="Q84958793" description="A substance that kills or slows the growth of bacteria." idx="264" />
@@ -301,9 +302,9 @@
 	<entry id="ACT140" term="anti furuncular" wikidataID="Q84998040" description="An agent that relieves skin sores. A&#160;furuncle, is a deep&#160;folliculitis,&#160;infection&#160;of the&#160;hair follicle" idx="289" />
 	<entry id="ACT141" term="anti hyperkeratotic" wikidataID="Q84998042" description="An agent that relieves severe flaking and cracking of the skin associated with hyperkeratosis, the thickening of the stratum corneum (the outermost layer of the epidermis), often associated with the presence of an abnormal quantity of keratin" idx="290" />
 	<entry id="ACT142" term="anti ichthyosic" wikidataID="Q84998043" description="An agent that prevents or relieves severly dry, scaly skin caused by ichthyosis." idx="291" />
-	<entry id="ACT143" term="anti leucodermic" wikidataID="Q84998051" description="An agent, such as a herbal extrat, used for treatment of vitiligo white patches or dysfunctionalty of melanocyte cells that cause depigmentation resulting in loss of skin color with irregular white, milky white and pink patches.SAME" idx="292" />
+	<entry id="['ACT143', 'ACT145', 'ACT144']" term="['anti leucodermic', 'anti vitiligic', 'anti manic']" wikidataID="Q84998051" description="['An agent, such as a herbal extrat, used for treatment of vitiligo white patches or dysfunctionalty of melanocyte cells that cause depigmentation resulting in loss of skin color with irregular white, milky white and pink patches.SAME', 'An agent that prevents loss of skin pigmentation, characteristic of vitiligo.', 'An agent or drug that stabilizes mood by controlling symptoms of mania, the abnormal psychological state of excitement.']" idx="['292', '294', '293']" merged="true" />
 	<entry id="ACT144" term="anti manic" wikidataID="Q84998051" description="An agent or drug that stabilizes mood by controlling symptoms of mania, the abnormal psychological state of excitement." idx="293" />
-	<entry id="['ACT145', 'ACT143', 'ACT144']" term="['anti vitiligic', 'anti leucodermic', 'anti manic']" wikidataID="Q84998051" description="['An agent that prevents loss of skin pigmentation, characteristic of vitiligo.', 'An agent, such as a herbal extrat, used for treatment of vitiligo white patches or dysfunctionalty of melanocyte cells that cause depigmentation resulting in loss of skin color with irregular white, milky white and pink patches.SAME', 'An agent or drug that stabilizes mood by controlling symptoms of mania, the abnormal psychological state of excitement.']" idx="['294', '292', '293']" merged="true" />
+	<entry id="ACT145" term="anti vitiligic" wikidataID="Q84998051" description="An agent that prevents loss of skin pigmentation, characteristic of vitiligo." idx="294" />
 	<entry id="ACT146" term="anti melanogenic" wikidataID="Q84998059" description="A substance that inhibits or prevents the proliferation of Melanocytes, melanin-producing neural crest-derived cells located in the bottom layer (the stratum basale) of the skin's epidermis." idx="295" />
 	<entry id="ACT147" term="anti panniculopathic" wikidataID="Q84998172" description="An agent used to treat cellulite (Edematous Fibrosclerotic Panniculopathy), which is persistent subcutaneous fat that causes dimpling of the skin." idx="296" />
 	<entry id="ACT148" term="anti permeability" wikidataID="Q84998248" description="An agent that prevents the updtake of a substance by a cell, or tissue." idx="297" />
@@ -329,13 +330,13 @@
 	<entry id="ACT168" term="photoactive" wikidataID="Q85003209" description="Having the ability to respond to light photoelectrically, or to respond to sunlight or ultraviolet radiation by chemical reaction." idx="317" />
 	<entry id="ACT169" term="scabicide" wikidataID="Q85003234" description="An acaricide that kills mites of the genus Sarcoptes." idx="318" />
 	<entry id="ACT170" term="sclerosant" wikidataID="Q85003391" description="An injectable irritant that is used in the treatment of varicose veins and that causes inflammation and subsequentfibrosis, thus obliterating the lumen of the vein." idx="319" />
-	<entry id="['ACT171', 'ACT176', 'ACT175', 'ACT174', 'ACT173', 'ACT172']" term="['haemotoxic', 'hemotoxin', 'hemotoxic', 'hematotoxin', 'hematotoxic', 'haemotoxin']" wikidataID="Q886593" description="Hemotoxins, haemotoxins or hematotoxins are toxins that destroy red blood cells (that is, cause haemotoxin), disrupt blood clotting, and/or cause organ degeneration and generalized tissue damage" idx="['320', '325', '324', '323', '322', '321']" merged="true" />
+	<entry id="['ACT171', 'ACT172', 'ACT174', 'ACT176', 'ACT173', 'ACT175']" term="['haemotoxic', 'haemotoxin', 'hematotoxin', 'hemotoxin', 'hematotoxic', 'hemotoxic']" wikidataID="Q886593" description="Hemotoxins, haemotoxins or hematotoxins are toxins that destroy red blood cells (that is, cause haemotoxin), disrupt blood clotting, and/or cause organ degeneration and generalized tissue damage" idx="['320', '321', '323', '325', '322', '324']" merged="true" />
 	<entry id="ACT172" term="haemotoxin" wikidataID="Q886593" description="Hemotoxins, haemotoxins or hematotoxins are toxins that destroy red blood cells (that is, cause haemotoxin), disrupt blood clotting, and/or cause organ degeneration and generalized tissue damage" idx="321" />
 	<entry id="ACT173" term="hematotoxic" wikidataID="Q886593" description="Hemotoxins, haemotoxins or hematotoxins are toxins that destroy red blood cells (that is, cause haemotoxin), disrupt blood clotting, and/or cause organ degeneration and generalized tissue damage" idx="322" />
 	<entry id="ACT174" term="hematotoxin" wikidataID="Q886593" description="Hemotoxins, haemotoxins or hematotoxins are toxins that destroy red blood cells (that is, cause haemotoxin), disrupt blood clotting, and/or cause organ degeneration and generalized tissue damage" idx="323" />
 	<entry id="ACT175" term="hemotoxic" wikidataID="Q886593" description="Hemotoxins, haemotoxins or hematotoxins are toxins that destroy red blood cells (that is, cause haemotoxin), disrupt blood clotting, and/or cause organ degeneration and generalized tissue damage" idx="324" />
 	<entry id="ACT176" term="hemotoxin" wikidataID="Q886593" description="Hemotoxins, haemotoxins or hematotoxins are toxins that destroy red blood cells (that is, cause haemotoxin), disrupt blood clotting, and/or cause organ degeneration and generalized tissue damage" idx="325" />
-	<entry id="ACT177" term="deliriant" wikidataID="Q901434" description="" idx="326" />
+	<entry id="ACT177" term="deliriant" wikidataID="Q901434" idx="326" />
 	<entry id="ACT178" term="Molluscicidal" wikidataID="Q901537" description="Molluscicides are pesticides against molluscs, which are usually used in agriculture or gardening, in order to control gastropod pests specifically slugs and snails which damage crops or other valued plants by feeding on them." idx="327" />
 	<entry id="ACT179" term="immunostimulant" wikidataID="Q901656" description="A substance that augments, stimulates, activates, potentiates, or modulates the immune response at either the cellular or humoral level." idx="328" />
 	<entry id="ACT180" term="choleretic" wikidataID="Q905101" description="substance that increase the volume of secretion of bile from the liver" idx="329" />
@@ -350,100 +351,100 @@
 	<entry id="ACT189" term="anti acrodermatitic" description="A drug used to treat or prevent skin disorders or for the routine care of skin." idx="338" />
 	<entry id="ACT190" term="anti acrodynic" description="A drug used to treat or prevent skin disorders or for the routine care of skin." idx="339" />
 	<entry id="ACT191" term="anti ADD" description="A drug used to treat attention deficit disorder, often a stimulant that promotes concentration and attention." idx="340" />
-	<entry id="ACT192" term="anti aging" description="" idx="341" />
-	<entry id="ACT193" term="anti alzheimer agent" description="" idx="342" />
-	<entry id="ACT194" term="anti alzheimeran" description="" idx="343" />
-	<entry id="ACT195" term="anti anxiety" description="" idx="344" />
-	<entry id="ACT196" term="anti arachidonate" description="" idx="345" />
-	<entry id="ACT197" term="anti arthritic" description="" idx="346" />
-	<entry id="ACT198" term="anti atherosclerotic" description="" idx="347" />
-	<entry id="ACT199" term="anti bradykinin" description="" idx="348" />
+	<entry id="ACT192" term="anti aging" idx="341" />
+	<entry id="ACT193" term="anti alzheimer agent" idx="342" />
+	<entry id="ACT194" term="anti alzheimeran" idx="343" />
+	<entry id="ACT195" term="anti anxiety" idx="344" />
+	<entry id="ACT196" term="anti arachidonate" idx="345" />
+	<entry id="ACT197" term="anti arthritic" idx="346" />
+	<entry id="ACT198" term="anti atherosclerotic" idx="347" />
+	<entry id="ACT199" term="anti bradykinin" idx="348" />
 	<entry id="ACT200" term="anti cariogenic" description="Tooth decay, also known as&#160;dental caries&#160;or&#160;cavities, is a breakdown of&#160;teeth&#160;due to acids made by&#160;bacteria." idx="349" />
-	<entry id="ACT201" term="anti cataract" description="" idx="350" />
-	<entry id="ACT202" term="anti cortisol" description="" idx="351" />
+	<entry id="ACT201" term="anti cataract" idx="350" />
+	<entry id="ACT202" term="anti cortisol" idx="351" />
 	<entry id="ACT203" term="anti cytotoxic" description="Any protective agent counteracting or neutralizing the action of poisons." idx="352" />
 	<entry id="ACT204" term="anti dandruff" description="An agent that reduces the production or flaking of dandruff." idx="353" />
-	<entry id="ACT205" term="anti depressant" description="" idx="354" />
+	<entry id="ACT205" term="anti depressant" idx="354" />
 	<entry id="ACT206" term="anti dermatic" description="A drug used to treat or prevent skin disorders or for the routine care of skin." idx="355" />
 	<entry id="ACT207" term="anti dermatitic" description="A drug used to treat or prevent skin disorders or for the routine care of skin." idx="356" />
 	<entry id="ACT208" term="anti dermatotic" description="A drug used to treat or prevent skin disorders or for the routine care of skin." idx="357" />
-	<entry id="ACT209" term="anti dysenteric" description="" idx="358" />
+	<entry id="ACT209" term="anti dysenteric" idx="358" />
 	<entry id="ACT210" term="anti ecchymotic" description="An agent that prevents ecchymosis, or the rupture of blood vessels that leads to the passage of blood into subcutaneous tissue." idx="359" />
-	<entry id="ACT211" term="anti eczema" description="" idx="360" />
-	<entry id="ACT212" term="anti eczemic" description="" idx="361" />
-	<entry id="ACT213" term="anti edemic" description="" idx="362" />
-	<entry id="ACT214" term="anti epileptogenic" description="" idx="363" />
-	<entry id="ACT215" term="anti estrogenic" description="" idx="364" />
-	<entry id="ACT216" term="anti fertility" description="" idx="365" />
-	<entry id="ACT217" term="anti fibrosis" description="" idx="366" />
-	<entry id="ACT218" term="anti fibrositic" description="" idx="367" />
-	<entry id="ACT219" term="anti flatulent" description="" idx="368" />
+	<entry id="ACT211" term="anti eczema" idx="360" />
+	<entry id="ACT212" term="anti eczemic" idx="361" />
+	<entry id="ACT213" term="anti edemic" idx="362" />
+	<entry id="ACT214" term="anti epileptogenic" idx="363" />
+	<entry id="ACT215" term="anti estrogenic" idx="364" />
+	<entry id="ACT216" term="anti fertility" idx="365" />
+	<entry id="ACT217" term="anti fibrosis" idx="366" />
+	<entry id="ACT218" term="anti fibrositic" idx="367" />
+	<entry id="ACT219" term="anti flatulent" idx="368" />
 	<entry id="ACT220" term="anti genic" description="A substance that when introduced into the body stimulates the production of an anti body. Anti gens include toxins, bacteria, foreign blood cells, and the cells of transplanted organs." idx="369" />
-	<entry id="ACT221" term="anti genotoxic" description="" idx="370" />
+	<entry id="ACT221" term="anti genotoxic" idx="370" />
 	<entry id="ACT222" term="anti glutamaergic" description="An agent or drug that modulates the transmission of glutamate, or inhibits glutamate currents, for muscle relaxation, anti seizure, or neuroprotective effects. May be used for ALS." idx="371" />
-	<entry id="ACT223" term="anti herpetic" description="" idx="372" />
+	<entry id="ACT223" term="anti herpetic" idx="372" />
 	<entry id="ACT224" term="anti hyperactivity" description="An agent or drug, which may be a stimulant, used to treat ADHD." idx="373" />
 	<entry id="ACT225" term="anti keratotic" description="An agent acting against keratosis, overgrowth of horny tissue of the skin (such as warts)." idx="374" />
-	<entry id="ACT226" term="anti leukemic" description="" idx="375" />
-	<entry id="ACT227" term="anti lithic" description="" idx="376" />
-	<entry id="ACT228" term="anti lymphomic" description="" idx="377" />
+	<entry id="ACT226" term="anti leukemic" idx="375" />
+	<entry id="ACT227" term="anti lithic" idx="376" />
+	<entry id="ACT228" term="anti lymphomic" idx="377" />
 	<entry id="ACT229" term="anti mange" description="An agent used to treat mange, a skin disease of mammals caused by parasitic mites and occasionally communicable to humans." idx="378" />
 	<entry id="ACT230" term="anti melanomic" description="A substance that inhibits or prevents the proliferation of neoplasms." idx="379" />
-	<entry id="ACT231" term="anti nitrosaminic" description="" idx="380" />
+	<entry id="ACT231" term="anti nitrosaminic" idx="380" />
 	<entry id="ACT232" term="anti papillomic" description="A substance that destroys or inhibits replication of viruses." idx="381" />
 	<entry id="ACT233" term="anti pityriasic" description="An agent that relieves symptoms of skin diseases that cause formation of fine, branny scales." idx="382" />
 	<entry id="ACT234" term="anti plasmodial" description="A substance that kills or slows the growth of microorganisms, including bacteria, viruses, fungi and protozoans." idx="383" />
-	<entry id="ACT235" term="anti pneumonic" description="" idx="384" />
+	<entry id="ACT235" term="anti pneumonic" idx="384" />
 	<entry id="ACT236" term="anti radicular" description="An agent that relieves inflammation or irritation of the nerve root of a tooth." idx="385" />
 	<entry id="ACT237" term="anti retroviral" description="A substance that destroys or inhibits replication of viruses." idx="386" />
-	<entry id="ACT238" term="anti rheumatic" description="" idx="387" />
-	<entry id="ACT239" term="anti rhinoviral" description="" idx="388" />
-	<entry id="ACT240" term="anti salmonella" description="" idx="389" />
-	<entry id="ACT241" term="anti shock" description="" idx="390" />
-	<entry id="ACT242" term="anti staphylococcic" description="" idx="391" />
-	<entry id="ACT243" term="anti stress" description="" idx="392" />
-	<entry id="ACT244" term="anti thromboxane" description="" idx="393" />
-	<entry id="ACT245" term="Anti trypanosomal" description="" idx="394" />
+	<entry id="ACT238" term="anti rheumatic" idx="387" />
+	<entry id="ACT239" term="anti rhinoviral" idx="388" />
+	<entry id="ACT240" term="anti salmonella" idx="389" />
+	<entry id="ACT241" term="anti shock" idx="390" />
+	<entry id="ACT242" term="anti staphylococcic" idx="391" />
+	<entry id="ACT243" term="anti stress" idx="392" />
+	<entry id="ACT244" term="anti thromboxane" idx="393" />
+	<entry id="ACT245" term="Anti trypanosomal" idx="394" />
 	<entry id="ACT246" term="anti wart" description="An agent that removes or diminishes warts." idx="395" />
 	<entry id="ACT247" term="anti xerotic" description="An agent that relieves or diminishes abnormal dryness of the skin, eyes, or mucous membranes (xerosis), or that may diminish the normal hardening of aging tissue." idx="396" />
 	<entry id="ACT248" term="aphicide" description="An insecticide used against aphids." idx="397" />
 	<entry id="ACT249" term="aphidifuge" description="Strictly, a substance intended to kill pests. In common usage, any substance used for controlling, preventing, or destroying animal, microbiological or plant pests." idx="398" />
 	<entry id="ACT250" term="apifuge" description="Bee repellant" idx="399" />
-	<entry id="ACT251" term="arachidonic acid inhibitor" description="" idx="400" />
+	<entry id="ACT251" term="arachidonic acid inhibitor" idx="400" />
 	<entry id="ACT252" term="arteriodilator" description="An agent that acts to dilate arteries to increase blood flow in the heart, or away form the heart." idx="401" />
-	<entry id="ACT253" term="bronchoprotectant" description="" idx="402" />
-	<entry id="ACT254" term="bronchorelaxant" description="" idx="403" />
-	<entry id="ACT255" term="cardiotoxic" description="" idx="404" />
-	<entry id="ACT256" term="chemoprotective" description="" idx="405" />
-	<entry id="ACT257" term="cns-stimulant" description="" idx="406" />
+	<entry id="ACT253" term="bronchoprotectant" idx="402" />
+	<entry id="ACT254" term="bronchorelaxant" idx="403" />
+	<entry id="ACT255" term="cardiotoxic" idx="404" />
+	<entry id="ACT256" term="chemoprotective" idx="405" />
+	<entry id="ACT257" term="cns-stimulant" idx="406" />
 	<entry id="ACT258" term="coleoptophile" description="A substance able to kill or inhibit the activity of beetles" idx="407" />
-	<entry id="ACT259" term="Corticotropin-releasing hormone inhibitor" description="" idx="408" />
+	<entry id="ACT259" term="Corticotropin-releasing hormone inhibitor" idx="408" />
 	<entry id="ACT260" term="counterirritant" description="A&#160;counterirritant&#160;is a substance which creates irritation or mild inflammation in one location with the goal of lessening discomfort and/or inflammation in another location. This strategy falls into the more general category of&#160;counterstimulation" idx="409" />
-	<entry id="ACT261" term="Crh Inhibitor" description="" idx="410" />
-	<entry id="ACT262" term="cytochrome p450-inducer" description="" idx="411" />
-	<entry id="ACT263" term="cytochrome-p450 inhibitor" description="" idx="412" />
-	<entry id="ACT264" term="Cytokine inhibitor" description="" idx="413" />
-	<entry id="ACT265" term="decarboxylase inhibitor" description="" idx="414" />
-	<entry id="ACT266" term="detoxicant" description="" idx="415" />
-	<entry id="ACT267" term="detoxifier" description="" idx="416" />
+	<entry id="ACT261" term="Crh Inhibitor" idx="410" />
+	<entry id="ACT262" term="cytochrome p450-inducer" idx="411" />
+	<entry id="ACT263" term="cytochrome-p450 inhibitor" idx="412" />
+	<entry id="ACT264" term="Cytokine inhibitor" idx="413" />
+	<entry id="ACT265" term="decarboxylase inhibitor" idx="414" />
+	<entry id="ACT266" term="detoxicant" idx="415" />
+	<entry id="ACT267" term="detoxifier" idx="416" />
 	<entry id="ACT268" term="enterocontractant" description="substances that cause the intestines to contract" idx="417" />
 	<entry id="ACT269" term="epileptogenic" description="substance that triggers epilepsy" idx="418" />
-	<entry id="ACT270" term="fungiphilic" description="" idx="419" />
-	<entry id="ACT271" term="glaucomagenic" description="" idx="420" />
-	<entry id="ACT272" term="glutathione&#160;s-transferase inducer" description="" idx="421" />
-	<entry id="ACT273" term="gst-inducer" description="" idx="422" />
+	<entry id="ACT270" term="fungiphilic" idx="419" />
+	<entry id="ACT271" term="glaucomagenic" idx="420" />
+	<entry id="ACT272" term="glutathione&#160;s-transferase inducer" idx="421" />
+	<entry id="ACT273" term="gst-inducer" idx="422" />
 	<entry id="ACT274" term="lipase inducer" description="An agent that stimulates the activity of lipase, and enzyme that catalyzes the hydrolysis of fats (lipids)." idx="423" />
 	<entry id="ACT275" term="lipase inhibitor" description="A compound or agent that combines with an enzyme in such a manner as to prevent the normal substrate-enzyme combination and the catalytic reaction." idx="424" />
-	<entry id="ACT276" term="memory enhancing" description="" idx="425" />
-	<entry id="ACT277" term="mosquito-attractant" description="" idx="426" />
-	<entry id="ACT278" term="motor-depressant" description="" idx="427" />
-	<entry id="ACT279" term="optical toxicity" description="" idx="428" />
-	<entry id="ACT280" term="PAF inhibitor" description="" idx="429" />
-	<entry id="ACT281" term="platelet-activating factor Inhibitor" description="" idx="430" />
-	<entry id="ACT282" term="protein kinase A inhibitor" description="" idx="431" />
-	<entry id="ACT283" term="protein kinase B inhibitor" description="" idx="432" />
-	<entry id="ACT284" term="respirainhibitor" description="" idx="433" />
-	<entry id="ACT285" term="respirastimulant" description="" idx="434" />
-	<entry id="ACT286" term="respiratory toxicity" description="" idx="435" />
+	<entry id="ACT276" term="memory enhancing" idx="425" />
+	<entry id="ACT277" term="mosquito-attractant" idx="426" />
+	<entry id="ACT278" term="motor-depressant" idx="427" />
+	<entry id="ACT279" term="optical toxicity" idx="428" />
+	<entry id="ACT280" term="PAF inhibitor" idx="429" />
+	<entry id="ACT281" term="platelet-activating factor Inhibitor" idx="430" />
+	<entry id="ACT282" term="protein kinase A inhibitor" idx="431" />
+	<entry id="ACT283" term="protein kinase B inhibitor" idx="432" />
+	<entry id="ACT284" term="respirainhibitor" idx="433" />
+	<entry id="ACT285" term="respirastimulant" idx="434" />
+	<entry id="ACT286" term="respiratory toxicity" idx="435" />
 
 </dictionary>
