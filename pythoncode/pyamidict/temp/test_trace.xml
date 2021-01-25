@@ -1,38 +1,38 @@
 <dictionary title="test_trace">
- <entry term="complement fixation test" wikipediaURL="https://en.wikipedia.org/wiki/Complement_fixation_test" wikidataID="Q904197" wikidataURL="https://www.wikidata.org/wiki/Q904197" name="complement fixation test" description="serologic blood test based on inactivation of complement by the antigen-antibody complex (stage 1)" id="CM.PROJECT_TEST.0" />
- <entry term="contact tracing" name="contact tracing" id="CM.PROJECT_TEST.1" />
- <entry term="counseling" name="counseling" id="CM.PROJECT_TEST.2" />
- <entry term="detection" wikidataID="Q504027" name="LIDAR" description="remote detection instrumentation" id="CM.PROJECT_TEST.3" />
- <entry term="diagnosis" wikidataID="Q177719" name="medical diagnosis" description="process to determine or identify a disease or disorder, which would account for a person's symptoms and signs" id="CM.PROJECT_TEST.4" />
- <entry term="elisa" wikidataID="Q1168432" name="Elisa" description="female given name" id="CM.PROJECT_TEST.5" />
- <entry term="enzyme linked immunosorbent assay" wikidataID="Q332126" name="ELISA" description="assay" id="CM.PROJECT_TEST.6" />
- <entry term="hemagglutination" wikidataID="Q1548862" name="Hemagglutination" description="specific form of agglutination that involves red blood cells" id="CM.PROJECT_TEST.7" />
- <entry term="igm antibody test" name="" description="" id="CM.PROJECT_TEST.8" />
- <entry term="immunoassay" wikidataID="Q759183" name="immunoassay" description="biochemical test" id="CM.PROJECT_TEST.9" />
- <entry term="immunochromatography test" wikidataID="Q91371830" name="[Preparation of anti-human hemoglobin colloidal gold immunochromatography test strip]" description="scientific article published on 01 September 2019" id="CM.PROJECT_TEST.10" />
- <entry term="immunofluorescence" wikidataID="Q592324" name="immunofluorescence microscopy" description="technique used for light microscopy with a fluorescence microscope and is used primarily on microbiological samples" id="CM.PROJECT_TEST.11" />
- <entry term="infection" wikidataID="Q166231" name="infection" description="invasion of and multiplication in a host by disease-causing pathogens or organisms, and the reaction of host tissues" id="CM.PROJECT_TEST.12" />
- <entry term="isolation" wikidataID="Q6010868" name="solitude" description="state of seclusion or isolation of a person" id="CM.PROJECT_TEST.13" />
- <entry term="neutralization assay" wikidataID="Q72417521" name="Plasma thrombin neutralization assay: pharmacokinetic applications" description="scientific article published on 01 January 1994" id="CM.PROJECT_TEST.14" />
- <entry term="neutralization test" wikidataID="Q7201694" name="plaque reduction neutralization test" description="microbiological method regarding viruses" id="CM.PROJECT_TEST.15" />
- <entry term="nucleic acid test" wikidataID="Q348667" name="Nucleic acid test" description="Group of techniques to detect a particular nucleic acid sequence" id="CM.PROJECT_TEST.16" />
- <entry term="pcr" wikidataID="Q176996" name="polymerase chain reaction" description="in vitro method for producing large amounts of specific DNA or RNA fragments from small amounts of short oligonucleotide primers" id="CM.PROJECT_TEST.17" />
- <entry term="physical distancing" wikidataID="Q96162342" name="Choosing Physical Distancing over Social Distancing in the Era of Technology: Minimizing Risk for Older People" description="scientific article published on 05 June 2020" id="CM.PROJECT_TEST.18" />
- <entry term="plaque reduction neutralization test" wikidataID="Q7201694" name="plaque reduction neutralization test" description="microbiological method regarding viruses" id="CM.PROJECT_TEST.19" />
- <entry term="polymerase chain reaction" wikidataID="Q176996" name="polymerase chain reaction" description="in vitro method for producing large amounts of specific DNA or RNA fragments from small amounts of short oligonucleotide primers" id="CM.PROJECT_TEST.20" />
- <entry term="prevalence" wikidataID="Q719602" name="prevalence" description="Number of disease cases in a given population at a specific time" id="CM.PROJECT_TEST.21" />
- <entry term="quarantine" wikidataID="Q182899" name="quarantine" description="epidemiological intervention of restriction on the movement of people and goods, which is intended to prevent the spread of infectious disease or pests" id="CM.PROJECT_TEST.22" />
- <entry term="rapid antigen test" wikidataID="Q27961635" name="" id="CM.PROJECT_TEST.23" />
- <entry term="rapid influenza diagnostic test" wikidataID="Q6504732" name="" id="CM.PROJECT_TEST.24" />
- <entry term="rapid molecular assay " name="Evaluation of the reverse transcription strand invasion based amplification (RT-SIBA) RSV assay, a rapid molecular assay for the detection of respiratory syncytial virus" description="scientific article published on 26 April 2019" id="CM.PROJECT_TEST.25" />
- <entry term="reverse transcription polymerase chain reaction" wikidataID="Q169526" name="reverse transcription polymerase chain reaction" description="method in molecular biology; variant of polymerase chain reaction (PCR), is a technique commonly used in molecular biology to detect RNA expression" id="CM.PROJECT_TEST.26" />
- <entry term="rt-pcr " wikidataID="Q169526" name="reverse transcription polymerase chain reaction" description="method in molecular biology; variant of polymerase chain reaction (PCR), is a technique commonly used in molecular biology to detect RNA expression" id="CM.PROJECT_TEST.27" />
- <entry term="screening" wikidataID="Q1163564" name="screening" description="medical practice of testing a group or population for disease or medical conditions, who may not yet exhibit disease symptoms, enabling earlier intervention and disease management" id="CM.PROJECT_TEST.28" />
- <entry term="social distancing" wikidataID="Q30314010" name="social distancing" description="reduction of human social interaction in an effort to prevent the spread of infectious disease" id="CM.PROJECT_TEST.29" />
- <entry term="testing" wikidataID="Q621977" name="ASTM International" description="standards organization" id="CM.PROJECT_TEST.30" />
- <entry term="tracing" wikidataID="Q1128437" name="contact tracing" description="process of finding and identifying people in close contact with someone who is infected with a transmissible pathogen" id="CM.PROJECT_TEST.31" />
- <entry term="treatment" wikidataID="Q179661" name="treatment" description="attempted medical remediation of a health problem, usually following a diagnosis" id="CM.PROJECT_TEST.32" />
- <entry term="virus detection" wikidataID="Q23055040" name="Zika virus detection" description="diagnostic procedure" id="CM.PROJECT_TEST.33" />
- <entry term="western blot" wikidataID="Q48743" name="western blot" description="analytical technique used in molecular biology" id="CM.PROJECT_TEST.34" />
- <entry term="zika virus detection" wikidataID="Q23055040" name="Zika virus detection" description="diagnostic procedure" id="CM.PROJECT_TEST.35" />
+ <entry term="complement fixation test" wikipediaURL="https://en.wikipedia.org/wiki/Complement_fixation_test" wikidataID="Q904197" wikidataURL="https://www.wikidata.org/wiki/Q904197" name="complement fixation test" description="serologic blood test based on inactivation of complement by the antigen-antibody complex (stage 1)" id="CM.PROJECT_TEST.0" idx="0" />
+ <entry term="contact tracing" name="contact tracing" id="CM.PROJECT_TEST.1" idx="1" />
+ <entry term="counseling" name="counseling" id="CM.PROJECT_TEST.2" idx="2" />
+ <entry term="detection" wikidataID="Q504027" name="LIDAR" description="remote detection instrumentation" id="CM.PROJECT_TEST.3" idx="3" />
+ <entry term="diagnosis" wikidataID="Q177719" name="medical diagnosis" description="process to determine or identify a disease or disorder, which would account for a person's symptoms and signs" id="CM.PROJECT_TEST.4" idx="4" />
+ <entry term="elisa" wikidataID="Q1168432" name="Elisa" description="female given name" id="CM.PROJECT_TEST.5" idx="5" />
+ <entry term="enzyme linked immunosorbent assay" wikidataID="Q332126" name="ELISA" description="assay" id="CM.PROJECT_TEST.6" idx="6" />
+ <entry term="hemagglutination" wikidataID="Q1548862" name="Hemagglutination" description="specific form of agglutination that involves red blood cells" id="CM.PROJECT_TEST.7" idx="7" />
+ <entry term="igm antibody test" name="" description="" id="CM.PROJECT_TEST.8" idx="8" />
+ <entry term="immunoassay" wikidataID="Q759183" name="immunoassay" description="biochemical test" id="CM.PROJECT_TEST.9" idx="9" />
+ <entry term="immunochromatography test" wikidataID="Q91371830" name="[Preparation of anti-human hemoglobin colloidal gold immunochromatography test strip]" description="scientific article published on 01 September 2019" id="CM.PROJECT_TEST.10" idx="10" />
+ <entry term="immunofluorescence" wikidataID="Q592324" name="immunofluorescence microscopy" description="technique used for light microscopy with a fluorescence microscope and is used primarily on microbiological samples" id="CM.PROJECT_TEST.11" idx="11" />
+ <entry term="infection" wikidataID="Q166231" name="infection" description="invasion of and multiplication in a host by disease-causing pathogens or organisms, and the reaction of host tissues" id="CM.PROJECT_TEST.12" idx="12" />
+ <entry term="isolation" wikidataID="Q6010868" name="solitude" description="state of seclusion or isolation of a person" id="CM.PROJECT_TEST.13" idx="13" />
+ <entry term="neutralization assay" wikidataID="Q72417521" name="Plasma thrombin neutralization assay: pharmacokinetic applications" description="scientific article published on 01 January 1994" id="CM.PROJECT_TEST.14" idx="14" />
+ <entry term="neutralization test" wikidataID="Q7201694" name="plaque reduction neutralization test" description="microbiological method regarding viruses" id="CM.PROJECT_TEST.15" idx="15" />
+ <entry term="nucleic acid test" wikidataID="Q348667" name="Nucleic acid test" description="Group of techniques to detect a particular nucleic acid sequence" id="CM.PROJECT_TEST.16" idx="16" />
+ <entry term="['pcr', 'polymerase chain reaction']" wikidataID="Q176996" name="polymerase chain reaction" description="in vitro method for producing large amounts of specific DNA or RNA fragments from small amounts of short oligonucleotide primers" id="['CM.PROJECT_TEST.17', 'CM.PROJECT_TEST.20']" idx="['17', '20']" merged="true" />
+ <entry term="physical distancing" wikidataID="Q96162342" name="Choosing Physical Distancing over Social Distancing in the Era of Technology: Minimizing Risk for Older People" description="scientific article published on 05 June 2020" id="CM.PROJECT_TEST.18" idx="18" />
+ <entry term="['plaque reduction neutralization test', 'neutralization test']" wikidataID="Q7201694" name="plaque reduction neutralization test" description="microbiological method regarding viruses" id="['CM.PROJECT_TEST.19', 'CM.PROJECT_TEST.15']" idx="['19', '15']" merged="true" />
+ <entry term="polymerase chain reaction" wikidataID="Q176996" name="polymerase chain reaction" description="in vitro method for producing large amounts of specific DNA or RNA fragments from small amounts of short oligonucleotide primers" id="CM.PROJECT_TEST.20" idx="20" />
+ <entry term="prevalence" wikidataID="Q719602" name="prevalence" description="Number of disease cases in a given population at a specific time" id="CM.PROJECT_TEST.21" idx="21" />
+ <entry term="quarantine" wikidataID="Q182899" name="quarantine" description="epidemiological intervention of restriction on the movement of people and goods, which is intended to prevent the spread of infectious disease or pests" id="CM.PROJECT_TEST.22" idx="22" />
+ <entry term="rapid antigen test" wikidataID="Q27961635" name="" id="CM.PROJECT_TEST.23" idx="23" />
+ <entry term="rapid influenza diagnostic test" wikidataID="Q6504732" name="" id="CM.PROJECT_TEST.24" idx="24" />
+ <entry term="rapid molecular assay " name="Evaluation of the reverse transcription strand invasion based amplification (RT-SIBA) RSV assay, a rapid molecular assay for the detection of respiratory syncytial virus" description="scientific article published on 26 April 2019" id="CM.PROJECT_TEST.25" idx="25" />
+ <entry term="reverse transcription polymerase chain reaction" wikidataID="Q169526" name="reverse transcription polymerase chain reaction" description="method in molecular biology; variant of polymerase chain reaction (PCR), is a technique commonly used in molecular biology to detect RNA expression" id="CM.PROJECT_TEST.26" idx="26" />
+ <entry term="['rt-pcr ', 'reverse transcription polymerase chain reaction']" wikidataID="Q169526" name="reverse transcription polymerase chain reaction" description="method in molecular biology; variant of polymerase chain reaction (PCR), is a technique commonly used in molecular biology to detect RNA expression" id="['CM.PROJECT_TEST.27', 'CM.PROJECT_TEST.26']" idx="['27', '26']" merged="true" />
+ <entry term="screening" wikidataID="Q1163564" name="screening" description="medical practice of testing a group or population for disease or medical conditions, who may not yet exhibit disease symptoms, enabling earlier intervention and disease management" id="CM.PROJECT_TEST.28" idx="28" />
+ <entry term="social distancing" wikidataID="Q30314010" name="social distancing" description="reduction of human social interaction in an effort to prevent the spread of infectious disease" id="CM.PROJECT_TEST.29" idx="29" />
+ <entry term="testing" wikidataID="Q621977" name="ASTM International" description="standards organization" id="CM.PROJECT_TEST.30" idx="30" />
+ <entry term="tracing" wikidataID="Q1128437" name="contact tracing" description="process of finding and identifying people in close contact with someone who is infected with a transmissible pathogen" id="CM.PROJECT_TEST.31" idx="31" />
+ <entry term="treatment" wikidataID="Q179661" name="treatment" description="attempted medical remediation of a health problem, usually following a diagnosis" id="CM.PROJECT_TEST.32" idx="32" />
+ <entry term="virus detection" wikidataID="Q23055040" name="Zika virus detection" description="diagnostic procedure" id="CM.PROJECT_TEST.33" idx="33" />
+ <entry term="western blot" wikidataID="Q48743" name="western blot" description="analytical technique used in molecular biology" id="CM.PROJECT_TEST.34" idx="34" />
+ <entry term="['zika virus detection', 'virus detection']" wikidataID="Q23055040" name="Zika virus detection" description="diagnostic procedure" id="['CM.PROJECT_TEST.35', 'CM.PROJECT_TEST.33']" idx="['35', '33']" merged="true" />
 </dictionary>

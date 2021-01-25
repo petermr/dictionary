@@ -79,8 +79,21 @@ REGEXES = {
 
 WIKIDATA_ATTRIBUTE_REGEX = re.compile("_([PpQq])\d+_([a-z][a-z0-9]+)")
 
-OPEN_VIRUS_DICT_NAMES = ["country", "disease", "drug", "npi",
-                          "organization", "test_trace", "virus", "zoonosis"]
+OPEN_VIRUS_DICT_NAMES = [
+    "country",
+    "disease",
+    "drug",
+    "npi",
+    "organization",
+    "test_trace",
+    "virus",
+    "zoonosis"
+]
+
+TRANSFORMED_ATTS = {
+    "country" : "_p297_country",
+    "crossrefid" : "_p3153_crossref_funder_id"
+}
 
 def get_resources():
     PYAMIDICT = os.path.normpath(os.path.join(__file__, "..", ".."))
@@ -90,16 +103,16 @@ def get_resources():
     DICTIONARY_VERSION = "openVirus20210120"
     DICTIONARY_TOP = os.path.normpath(os.path.join(PYAMIDICT, "..", ".."))
     DICTIONARY_DIR = os.path.join(DICTIONARY_TOP, DICTIONARY_VERSION)
-    return (PYAMIDICT, RESOURCE_DIR, DICTIONARY_DIR, TEMP_DIR)
+    return (PYAMIDICT, RESOURCE_DIR, DICTIONARY_DIR, TEMP_DIR, DICTIONARY_TOP)
 
 
-PYAMIDICT, RESOURCE_DIR, DICT202011, TEMP_DIR = get_resources()
+PYAMIDICT, RESOURCE_DIR, DICT202011, TEMP_DIR, DICTIONARY_TOP = get_resources()
 
 class Entry():
 
-    def __init__(self, elem=None, dict=None):
+    def __init__(self, elem=None, dictionary=None):
         self.elem = elem
-        self.dict = dict
+        self.dictionary = dictionary
         self.deleted_atts = []
 
     def tidy_entry(self):
@@ -185,7 +198,7 @@ class Entry():
             elif self.check_wikidata_attribute(att_name):
                 pass
             elif att_name not in SUPPORTED_ATTS:
-                self.dict.unknown_atts.add(att_name)
+                self.dictionary.unknown_atts.add(att_name)
 
     def check_entry_children(self):
         children = list(self.elem)
@@ -207,26 +220,61 @@ class Entry():
         if att_name in REGEXES:
             regex = re.compile(REGEXES[att_name])
             if not regex.match(value):
-                if self.err_count < self.max_err:
-                    self.err_count += 1
+                if self.dictionary.err_count < self.dictionary.max_err:
+                    self.dictionary.err_count += 1
                     print(att_name + ":", value, "does not match ", regex)
                 return False
         return True
 
     @classmethod
-    def merge_entries(cls, entrylist):
-        el = [entrylist[0]]
+    def merge_entries_common_wid(cls, entrylist):
+        # how many unique wikidata_ids?
         entry_set = set()
         for i in range(0, len(entrylist)):
             entry_set.add(entrylist[i])
-        print ("len set", len(set))
+        entrylist = list(entry_set)
+
+        if len(entry_set) > 1:
+            deletable_list = []
+            for i in range(1, len(entrylist)):
+                if entrylist[0].get_wikidata_id() == entrylist[i].get_wikidata_id():
+                    # record merge
+                    entrylist[0].elem.attrib["merged"] = "true"
+                    entrylist[0].merge_attributes(entrylist[i])
+                    entrylist[0].merge_children(entrylist[i])
+                    deletable_list.append(entrylist[i]);
+#                    print("deleting", entrylist[i])
+#            print(ET.tostring(entrylist[0].elem))
+
+    #            for xx in entry_set:
+#                print(ET.tostring(xx.elem))
+
+    def merge_attributes(self, other_entry):
+        for attname in other_entry.elem.attrib:
+            other_val = other_entry.elem.attrib[attname]
+            if attname in self.elem.attrib:
+                attvalue = self.elem.attrib[attname]
+                if isinstance(attvalue, list):
+                    # multiple fields, add new one
+                    if other_val not in attvalue:
+                        attvalue.append(other_val)
+
+                elif attvalue != other_val:
+                    # single old field, make list
+                    attvalue = [attvalue, other_val]
+                self.elem.attrib[attname] = attvalue
+
+    def merge_children(self, other_entry):
+        pass
 
     def __hash__(self):
-        return None
+        """this is awful but Element  doesn't have a hash"""
+        # we assume that the string is canonical
+        return hash(ET.canonicalize(xml_data=ET.tostring(self.elem)))
 
     def __eq__(self, other):
         if not isinstance(other, Entry):
-            print("NE")
+#            print("NE")
             return NotImplemented
         if set(self.get_attribute_names()) != set(other.get_attribute_names()):
             print ("unequal attribute names")
@@ -267,9 +315,10 @@ class Dictionary():
         self.root = ET.fromstring(dictionary_text)
         if self.root.tag != DICTIONARY:
             raise Exception ("not a dictionary file")
-        if not os.path.split(file)[-1] == self.root.attrib[TITLE]+".xml":
-            print(os.path.split(file)[-1], "//", self.root.attrib[TITLE]+".xml")
-            print("Dictionary @title should equal filename")
+        title_ = self.root.attrib[TITLE]
+        if not os.path.split(file)[-1] == title_ + ".xml":
+#            print(os.path.split(file)[-1], "//", self.root.attrib[TITLE]+".xml")
+            print("Dictionary @title", title_, "should equal filename", file)
         return self.root
 
     def get_descendant_elements(self, tag):
@@ -279,7 +328,12 @@ class Dictionary():
             raise Exception("No XML Element in dictionary")
 
     def get_entries(self):
-        return [Entry(elem=e, dict=self) for e in self.get_descendant_elements(ENTRY)]
+#        print("get entries***********")
+        entry_list = [Entry(elem=e, dictionary=self) for e in self.get_descendant_elements(ENTRY)]
+        for i in range(len(entry_list)):
+            entry_list[i].elem.attrib["idx"] = str(i)
+#        print(ET.tostring(entry_list[i].elem))
+        return entry_list
 
     def analyze(self):
         entries = self.get_entries()
@@ -299,7 +353,6 @@ class Dictionary():
         outfile = os.path.join(TEMP_DIR, os.path.split(self.file)[-1])
         with open(outfile, "wb") as f:
             f.write(ET.tostring(self.root))
-        print("wrote", outfile,"\n")
 
     def xsl_transform(self, xsl_file, outdir=TEMP_DIR):
         """still struggling with XSLT, will hardcode transforms"""
@@ -311,7 +364,7 @@ class Dictionary():
         outfile = os.path.join(TEMP_DIR, os.path.split(self.file)[-1])
         with open(outfile, "wb") as f:
             f.write(ET.tostring(newdom, pretty_print=True))
-        print("wrote", outfile,"\n")
+        print("wrote transform", outfile,"\n")
 
     def create_entry_list_by_wikidata_id(self):
         self.entry_list_by_wikidata_id = {}
@@ -326,40 +379,52 @@ class Dictionary():
         return self.entry_list_by_wikidata_id
 
     def merge_duplicate_wikidata_ids(self):
-        elid = self.create_entry_list_by_wikidata_id()
-        multiple = [value[0].get_wikidata_id() for k, value in elid.items() if len(value) > 1]
-        print("mult", multiple)
+        entry_list_by_wid = self.create_entry_list_by_wikidata_id()
+        multiple = [entry_lst[0].get_wikidata_id() for k, entry_lst in entry_list_by_wid.items() if len(entry_lst) > 1]
+        if len(multiple) > 1:
+#            print("multiple", multiple)
+            pass
         for w_id in multiple:
-            entrylist = [e for e in elid.get(w_id)]
-            enew = Entry.merge_entries(entrylist)
+            entrylist = [e for e in entry_list_by_wid.get(w_id)]
+            enew = Entry.merge_entries_common_wid(entrylist)
+#        parent_map = {c: p for p in tree.iter() for c in p}
+# https://towardsdatascience.com/processing-xml-in-python-elementtree-c8992941efd2
+# root.findall("./genre/decade/movie/format[@multiple='Yes']..."):
 
 
 
-
-
-
-
-
+# end class Entry
 def get_remote_dictionary_files(dict_dir, dictionary_names):
     return [os.path.join(os.path.join(dict_dir, name), name+".xml") for name in dictionary_names]
 
+def test_merge(dict_file):
+    dictionary = Dictionary(file=dict_file)
+    print("running dictionary", dict_file)
+    dictionary.analyze()
+    dictionary.tidy_old_dictionary()
+    if len(dictionary.unknown_atts) > 0:
+        print("unknown attributes", dictionary.unknown_atts)
+    dictionary.merge_duplicate_wikidata_ids()
+    dictionary.write_outfile()
+
+
 def main():
 
-    dict_files = get_remote_dictionary_files(DICT202011, OPEN_VIRUS_DICT_NAMES)
+    dict_names = OPEN_VIRUS_DICT_NAMES
+ #   dict_names = ["test_trace"]
+    dict_files = get_remote_dictionary_files(DICT202011, dict_names)
+    CEVOPEN_DICT = os.path.join(DICTIONARY_TOP, "cevopen")
+    dict_files = [os.path.join(CEVOPEN_DICT, "activity/eo_activity.xml")]
     for dict_file in dict_files:
-        dictionary = Dictionary(file=dict_file)
-        print("running dictionary", dict_file)
-        dictionary.analyze()
-        dictionary.tidy_old_dictionary()
-        if len(dictionary.unknown_atts) > 0:
-            print("unknown attributes", dictionary.unknown_atts)
-        dictionary.merge_duplicate_wikidata_ids()
+        test_merge(dict_file)
+
+    print("end of transform")
+#    test_merge(os.path.join(RESOURCE_DIR, "test_multiple.xml"))
 
 
 #        xsl_file = os.path.join(RESOURCE_DIR, "clean_dict.xsl")
 #        dictionary.xsl_transform(xsl_file)
 
-    print("end of transform")
 
 if __name__ == "__main__":
     main()

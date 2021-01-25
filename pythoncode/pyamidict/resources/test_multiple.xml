@@ -1,0 +1,10 @@
+<dictionary title="test_trace">
+ <entry term="neutralization assay" wikidataID="Q1" name="Plasma thrombin neutralization assay: pharmacokinetic applications" description="scientific article published on 01 January 1994" id="CM.PROJECT_TEST.1" />
+ <entry term="neutralization test" wikidataID="Q1" name="plaque reduction neutralization test" description="microbiological method regarding viruses" id="CM.PROJECT_TEST.2" />
+ <entry term="nucleic acid test" wikidataID="Q3" name="Nucleic acid test" description="Group of techniques to detect a particular nucleic acid sequence" id="CM.PROJECT_TEST.3" />
+ 
+ <entry term="pcr" wikidataID="Q4" name="polymerase chain reaction" description="in vitro method for producing large amounts of specific DNA or RNA fragments from small amounts of short oligonucleotide primers" id="CM.PROJECT_TEST.4" />
+ <entry term="physical distancing" wikidataID="Q5" name="Choosing Physical Distancing over Social Distancing in the Era of Technology: Minimizing Risk for Older People" description="scientific article published on 05 June 2020" id="CM.PROJECT_TEST.5" />
+ <entry term="plaque reduction neutralization test" wikidataID="Q4" name="plaque reduction neutralization test" description="microbiological method regarding viruses" id="CM.PROJECT_TEST.6" />
+ <entry term="polymerase chain reaction" wikidataID="Q4" name="polymerase chain reaction" description="in vitro method for producing large amounts of specific DNA or RNA fragments from small amounts of short oligonucleotide primers" id="CM.PROJECT_TEST.7" />
+</dictionary>

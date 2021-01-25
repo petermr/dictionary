@@ -1,116 +1,116 @@
 <dictionary title="virus">
- <entry term="adeno-associated_virus" wikipediaURL="https://en.wikipedia.org/wiki/Adeno-associated_virus" wikidataID="Q355989" name="Adeno-associated virus" description="species of virus" id="CM.virus.0" />
- <entry term="aichi_virus" wikipediaURL="https://en.wikipedia.org/wiki/Aichi_virus" wikidataID="Q70915280" name="" id="CM.virus.1" />
- <entry term="australian bat lyssavirus" wikipediaURL="https://en.wikipedia.org/wiki/Australian_bat_lyssavirus" wikidataID="Q3269802" name="Australian bat lyssavirus" description="species of virus" id="CM.virus.2" />
- <entry term="banna_virus" wikidataID="Q16243472" name="Banna virus" description="species of virus" id="CM.virus.3" />
- <entry term="barmah forest_virus" wikidataID="Q3560914" name="Barmah Forest virus" description="species of virus" id="CM.virus.4" />
- <entry term="bk polyomavirus" wikidataID="Q582873" name="BK virus" description="species of virus" id="CM.virus.5" />
- <entry term="bunyamwera_virus" wikipediaURL="https://en.wikipedia.org/wiki/Bunyamwera_virus" wikidataID="Q4997969" name="Bunyamwera virus" description="species of virus" id="CM.virus.6" />
- <entry term="cercopithecine herpesvirus" wikipediaURL="https://en.wikipedia.org/wiki/Cercopithecine_herpesvirus" wikidataID="Q70921835" name="" id="CM.virus.9" />
- <entry term="chandipura_virus" wikipediaURL="https://en.wikipedia.org/wiki/Chandipura_virus" wikidataID="Q5071100" name="Chandipura virus" description="species of virus" id="CM.virus.10" />
- <entry term="chikungunya_virus" wikipediaURL="https://en.wikipedia.org/wiki/Chikungunya_virus" wikidataID="Q15794049" name="Chikungunya virus" description="virus that causes the Chikungunya fever" id="CM.virus.11" />
- <entry term="cosavirus a" wikidataID="Q18965376" name="Cosavirus A" description="species of virus" id="CM.virus.12" />
- <entry term="cowpox_virus" wikipediaURL="https://en.wikipedia.org/wiki/Cowpox_virus" wikidataID="Q12418974" name="Cowpox virus" description="species of virus" id="CM.virus.13" />
- <entry term="coxsackievirus" wikipediaURL="https://en.wikipedia.org/wiki/Coxsackievirus" wikidataID="Q1138287" name="Coxsackievirus" description="virus that causes digestive upset and sometimes heart damage" id="CM.virus.14" />
- <entry term="dengue_virus" wikipediaURL="https://en.wikipedia.org/wiki/Dengue_virus" wikidataID="Q476209" name="Dengue virus" description="cause of dengue fever" id="CM.virus.15" />
- <entry term="dhori_virus" wikipediaURL="https://en.wikipedia.org/wiki/Dhori_virus" wikidataID="Q5269777" name="Dhori virus" description="species of virus" id="CM.virus.16" />
- <entry term="dugbe_virus" wikipediaURL="https://en.wikipedia.org/wiki/Dugbe_virus" wikidataID="Q18967119" name="Dugbe virus" description="species of virus" id="CM.virus.17" />
- <entry term="duvenhage_virus" wikipediaURL="https://en.wikipedia.org/wiki/Duvenhage_virus" wikidataID="Q3560880" name="Duvenhage virus" description="species of virus" id="CM.virus.18" />
- <entry term="eastern equine virus" wikidataID="Q306966" name="Eastern equine encephalitis virus" description="species of virus" id="CM.virus.19" />
- <entry term="ebolavirus" wikipediaURL="https://en.wikipedia.org/wiki/Ebolavirus" wikidataID="Q5331908" name="Ebolavirus" description="genus of viruses" id="CM.virus.20" />
- <entry term="echovirus" wikipediaURL="https://en.wikipedia.org/wiki/Echovirus" wikidataID="Q2271197" name="Echovirus" description="type of RNA virus that belongs to the species Enterovirus B, genus Enterovirus of the Picornaviridae family" id="CM.virus.21" />
- <entry term="encephalomyocarditis_virus" wikipediaURL="https://en.wikipedia.org/wiki/Encephalomyocarditis_virus" wikidataID="Q5375344" name="encephalomyocarditis virus" description="species of virus" id="CM.virus.22" />
- <entry term="epstein-barr_virus" wikipediaURL="https://en.wikipedia.org/wiki/Epstein-barr_virus" wikidataID="Q6900" name="" description="virus of the herpes family" id="CM.virus.23" />
- <entry term="european bat lyssavirus" wikidataID="Q17503540" name="European Bat lyssavirus" description="Wikimedia disambiguation page" id="CM.virus.24" />
- <entry term="hantaan_virus" wikipediaURL="https://en.wikipedia.org/wiki/Hantaan_virus" wikidataID="Q16982722" name="Hantaan River virus" description="species of virus" id="CM.virus.26" />
- <entry term="hendra_virus" wikipediaURL="https://en.wikipedia.org/wiki/Hendra_virus" wikidataID="Q1604979" name="Hendra virus" description="species of virus" id="CM.virus.27" />
- <entry term="hepatitis a_virus" wikipediaURL="https://en.wikipedia.org/wiki/Hepatitis_a_virus" wikidataID="Q4112120" name="Hepatitis A virus" description="species of virus" id="CM.virus.28" />
- <entry term="hepatitis b_virus" wikipediaURL="https://en.wikipedia.org/wiki/Hepatitis_b_virus" wikidataID="Q6844" name="Hepatitis B virus" description="species of the genus Orthohepadnavirus" id="CM.virus.29" />
- <entry term="hepatitis c_virus" wikidataID="Q708693" name="Hepatitis C virus" description="species of virus" id="CM.virus.30" />
- <entry term="hepatitis delta_virus" wikipediaURL="https://en.wikipedia.org/wiki/Hepatitis_delta_virus" wikidataID="Q1607636" name="Hepatitis delta virus" description="virus strain" id="CM.virus.31" />
- <entry term="hepatitis e_virus" wikipediaURL="https://en.wikipedia.org/wiki/Hepatitis_e_virus" wikidataID="Q5731737" name="hepatitis E virus" description="species of virus" id="CM.virus.32" />
- <entry term="horsepox_virus" wikidataID="Q21558569" name="Genome of horsepox virus" description="scientific article" id="CM.virus.33" />
- <entry term="human adenovirus" wikidataID="Q70879216" name="" id="CM.virus.34" />
- <entry term="human astrovirus" wikidataID="Q70920989" name="" id="CM.virus.35" />
- <entry term="human coronavirus" wikipediaURL="https://en.wikipedia.org/wiki/Human_coronavirus" wikidataID="Q90026748" name="" id="CM.virus.36" />
- <entry term="human cytomegalovirus" wikipediaURL="https://en.wikipedia.org/wiki/Human_cytomegalovirus" wikidataID="Q6929" name="human betaherpesvirus 5" description="species of virus" id="CM.virus.37" />
- <entry term="human enterovirus" wikidataID="Q70915157" name="" id="CM.virus.38" />
- <entry term="human herpesvirus 1" wikipediaURL="https://en.wikipedia.org/wiki/Human_herpesvirus_1" wikidataID="Q655331" name="Human herpesvirus 1" description="species of virus" id="CM.virus.39" />
- <entry term="human herpesvirus 2" wikipediaURL="https://en.wikipedia.org/wiki/Human_herpesvirus_2" wikidataID="Q18965147" name="Human herpesvirus 2" description="species of virus" id="CM.virus.40" />
- <entry term="human herpesvirus 6" wikidataID="Q6974" name="Human herpesvirus 6" description="virus which caused human herpesvirus 6 Infection" id="CM.virus.41" />
- <entry term="human herpesvirus 7" wikipediaURL="https://en.wikipedia.org/wiki/Human_herpesvirus_7" wikidataID="Q1169672" name="Human herpesvirus 7" description="species of virus" id="CM.virus.42" />
- <entry term="human herpesvirus 8" wikipediaURL="https://en.wikipedia.org/wiki/Human_herpesvirus_8" wikidataID="Q983850" name="Kaposi's sarcoma-associated herpesvirus" description="species of virus" id="CM.virus.43" />
- <entry term="human immunodeficiency virus" wikipediaURL="https://en.wikipedia.org/wiki/Human_immunodeficiency_virus" wikidataID="Q15787" name="HIV" description="human retrovirus, cause of AIDS" id="CM.virus.44" />
- <entry term="human papillomavirus 1" wikidataID="Q70922869" name="" id="CM.virus.45" />
- <entry term="human papillomavirus 16" wikidataID="Q70922074" name="" id="CM.virus.46" />
- <entry term="human papillomavirus 2" wikidataID="Q70922115" name="" id="CM.virus.47" />
- <entry term="human parainfluenza" wikidataID="Q2051533" name="" id="CM.virus.48" />
- <entry term="human parvovirus b19" wikidataID="Q70880461" name="" id="CM.virus.49" />
- <entry term="human respiratory syncytial_virus" wikipediaURL="https://en.wikipedia.org/wiki/Human_respiratory_syncytial_virus" wikidataID="Q1052913" name="human respiratory syncytial virus" description="hrs virus" id="CM.virus.50" />
- <entry term="human rhinovirus" wikipediaURL="https://en.wikipedia.org/wiki/Human_rhinovirus" wikidataID="Q70060810" name="" id="CM.virus.51" />
- <entry term="human sars coronavirus" wikidataID="Q96436206" name="Evolutionary relationships and sequence-structure determinants in human SARS coronavirus-2 spike proteins for host receptor recognition" description="scientific article published on 16 June 2020" id="CM.virus.52" />
- <entry term="human t-lymphotropic_virus" wikidataID="Q1280388" name="Human T-lymphotropic virus 1" description="human virus" id="CM.virus.54" />
- <entry term="human torovirus" wikidataID="Q18965341" name="Human torovirus" description="species of virus" id="CM.virus.55" />
- <entry term="influenza a_virus" wikipediaURL="https://en.wikipedia.org/wiki/Influenza_a_virus" wikidataID="Q834390" name="influenza A virus" description="species of virus" id="CM.virus.56" />
- <entry term="influenza b_virus" wikipediaURL="https://en.wikipedia.org/wiki/Influenza_b_virus" wikidataID="Q1089532" name="Influenza B virus" description="species of virus" id="CM.virus.57" />
- <entry term="influenza c_virus" wikidataID="Q1059828" name="Influenza C virus" description="species of virus" id="CM.virus.58" />
- <entry term="isfahan_virus" wikidataID="Q18965324" name="Isfahan virus" description="species of virus" id="CM.virus.59" />
- <entry term="japanese encephalitis virus" wikipediaURL="https://en.wikipedia.org/wiki/Japanese_encephalitis_virus" wikidataID="Q19838331" name="Japanese encephalitis virus" description="species of virus" id="CM.virus.60" />
- <entry term="jc polyomavirus" wikidataID="Q1676563" name="JC virus" description="type of human polyomavirus" id="CM.virus.61" />
- <entry term="junin arenavirus" wikidataID="Q80280708" name="Characterization of Junin arenavirus cell entry" description="scientific article published on 01 June 2007" id="CM.virus.62" />
- <entry term="ki polyomavirus" wikidataID="Q25990693" name="KI polyomavirus" description="Human polyomavirus" id="CM.virus.63" />
- <entry term="kunjin_virus" wikipediaURL="https://en.wikipedia.org/wiki/Kunjin_virus" wikidataID="Q6444827" name="" id="CM.virus.64" />
- <entry term="lagos bat_virus" wikipediaURL="https://en.wikipedia.org/wiki/Lagos_bat_virus" wikidataID="Q16984206" name="Lagos bat virus" description="species of virus" id="CM.virus.65" />
- <entry term="langat_virus" wikipediaURL="https://en.wikipedia.org/wiki/Langat_virus" wikidataID="Q6485731" name="Langat virus" description="species of virus" id="CM.virus.66" />
- <entry term="lassa_virus" wikipediaURL="https://en.wikipedia.org/wiki/Lassa_virus" wikidataID="Q1806636" name="Lassa virus" description="species of virus" id="CM.virus.67" />
- <entry term="lordsdale_virus" name="lordsdale_virus" id="CM.virus.68" />
- <entry term="louping ill virus" wikipediaURL="https://en.wikipedia.org/wiki/Louping_ill_virus" wikidataID="Q19838288" name="Louping ill virus" description="species of virus" id="CM.virus.69" />
- <entry term="machupo_virus" wikipediaURL="https://en.wikipedia.org/wiki/Machupo_virus" wikidataID="Q3560886" name="Machupo virus" description="species of virus" id="CM.virus.70" />
- <entry term="mayaro_virus" wikipediaURL="https://en.wikipedia.org/wiki/Mayaro_virus" wikidataID="Q18863953" name="Mayaro virus" description="species of virus" id="CM.virus.71" />
- <entry term="measles_virus" wikipediaURL="https://en.wikipedia.org/wiki/Measles_virus" wikidataID="Q573943" name="Measles virus" description="species of virus" id="CM.virus.72" />
- <entry term="mers coronavirus" wikidataID="Q4902157" name="Middle East respiratory syndrome coronavirus" description="species of virus" id="CM.virus.73" />
- <entry term="mokola_virus" wikipediaURL="https://en.wikipedia.org/wiki/Mokola_virus" wikidataID="Q1943181" name="Mokola virus" description="species of virus" id="CM.virus.74" />
- <entry term="monkeypox_virus" wikipediaURL="https://en.wikipedia.org/wiki/Monkeypox_virus" wikidataID="Q6900886" name="Monkeypox virus" description="species of virus" id="CM.virus.75" />
- <entry term="mumps_virus" wikipediaURL="https://en.wikipedia.org/wiki/Mumps_virus" wikidataID="Q1952649" name="mumps virus" description="species of virus" id="CM.virus.76" />
- <entry term="new york virus" wikidataID="Q16878929" name="New York virus" description="species of virus" id="CM.virus.78" />
- <entry term="nipah_virus" wikipediaURL="https://en.wikipedia.org/wiki/Nipah_virus" wikidataID="Q15928531" name="Nipah virus" description="species of virus" id="CM.virus.79" />
- <entry term="norwalk_virus" wikipediaURL="https://en.wikipedia.org/wiki/Norwalk_virus" wikidataID="Q562082" name="Norwalk virus" description="species of virus" id="CM.virus.80" />
- <entry term="orf_virus" wikipediaURL="https://en.wikipedia.org/wiki/Orf_virus" wikidataID="Q2029700" name="Parapoxvirus ovis" description="species of virus" id="CM.virus.81" />
- <entry term="oropouche_virus" wikipediaURL="https://en.wikipedia.org/wiki/Oropouche_virus" wikidataID="Q3560891" name="Oropouche virus" description="species of virus" id="CM.virus.82" />
- <entry term="o&#65533;nyong-nyong" wikidataID="Q2445625" name="Nyong-et-So'o" description="department of Cameroon" id="CM.virus.83" />
- <entry term="pichinde_virus" wikidataID="Q18966446" name="Pichinde virus" description="species of virus" id="CM.virus.84" />
- <entry term="poliovirus" wikipediaURL="https://en.wikipedia.org/wiki/Poliovirus" wikidataID="Q12438936" name="poliovirus" description="human enterovirus" id="CM.virus.85" />
- <entry term="puumala_virus" wikipediaURL="https://en.wikipedia.org/wiki/Puumala_virus" wikidataID="Q3132458" name="Puumala virus" description="species of virus" id="CM.virus.86" />
- <entry term="rabies_virus" wikipediaURL="https://en.wikipedia.org/wiki/Rabies_virus" wikidataID="Q698976" name="Rabies virus" description="species of virus" id="CM.virus.87" />
- <entry term="rift valley fever" wikipediaURL="https://en.wikipedia.org/wiki/Rift_valley_fever" wikidataID="Q24809101" name="Rift Valley fever phlebovirus" description="species of virus" id="CM.virus.88" />
- <entry term="rosavirus a" wikidataID="Q18965403" name="Rosavirus A" description="species of virus" id="CM.virus.89" />
- <entry term="ross river virus" wikipediaURL="https://en.wikipedia.org/wiki/Ross_river_virus" wikidataID="Q660537" name="Ross River virus" description="Species of virus" id="CM.virus.90" />
- <entry term="rotavirus a" wikidataID="Q18976085" name="Rotavirus A" description="species of virus" id="CM.virus.91" />
- <entry term="rotavirus b" wikidataID="Q18976088" name="Rotavirus B" description="species of virus" id="CM.virus.92" />
- <entry term="rotavirus c" wikidataID="Q18862707" name="Rotavirus C" description="species of virus" id="CM.virus.93" />
- <entry term="rubella_virus" wikipediaURL="https://en.wikipedia.org/wiki/Rubella_virus" wikidataID="Q701609" name="Rubella virus" description="species of virus" id="CM.virus.94" />
- <entry term="sagiyama_virus" wikipediaURL="https://en.wikipedia.org/wiki/Sagiyama_virus" wikidataID="Q7399312" name="Sagiyama virus" description="species of virus" id="CM.virus.95" />
- <entry term="salivirus a" wikidataID="Q18965404" name="Salivirus A" description="species of virus" id="CM.virus.96" />
- <entry term="sandfly fever sicilian virus" wikidataID="Q29887743" name="Sandfly fever Sicilian virus" description="phlebovirus" id="CM.virus.97" />
- <entry term="sapporo_virus" wikidataID="Q18967541" name="Sapporo virus" description="species of virus" id="CM.virus.98" />
- <entry term="semliki forest_virus" wikipediaURL="https://en.wikipedia.org/wiki/Semliki_forest_virus" wikidataID="Q428413" name="Semliki Forest virus" description="species of virus" id="CM.virus.99" />
- <entry term="seoul_virus" wikipediaURL="https://en.wikipedia.org/wiki/Seoul_virus" wikidataID="Q6163830" name="Seoul virus" description="species of virus" id="CM.virus.100" />
- <entry term="simian foamy_virus" wikipediaURL="https://en.wikipedia.org/wiki/Simian_foamy_virus" wikidataID="Q7517772" name="Simian foamy virus" description="species of virus" id="CM.virus.101" />
- <entry term="simian virus 5" wikidataID="Q70920386" name="" id="CM.virus.102" />
- <entry term="sindbis virus" wikipediaURL="https://en.wikipedia.org/wiki/Sindbis_virus" wikidataID="Q2302993" name="Sindbis virus" description="species of virus" id="CM.virus.103" />
- <entry term="st. louis encephalitis virus" wikidataID="Q19838321" name="St. Louis encephalitis virus" description="species of virus" id="CM.virus.105" />
- <entry term="tick-borne powassan virus" wikidataID="Q24457205" name="Update on Powassan virus: emergence of a North American tick-borne flavivirus" description="scientific article" id="CM.virus.106" />
- <entry term="torque teno virus" wikipediaURL="https://en.wikipedia.org/wiki/Torque_teno_virus" wikidataID="Q7834212" name="Torque teno virus" description="species of virus" id="CM.virus.107" />
- <entry term="toscana_virus" wikipediaURL="https://en.wikipedia.org/wiki/Toscana_virus" wikidataID="Q7827576" name="Toscana virus" description="type of arbovirus" id="CM.virus.108" />
- <entry term="uukuniemi_virus" wikipediaURL="https://en.wikipedia.org/wiki/Uukuniemi_virus" wikidataID="Q18967473" name="Uukuniemi virus" description="species of virus" id="CM.virus.109" />
- <entry term="vaccinia_virus" wikipediaURL="https://en.wikipedia.org/wiki/Vaccinia_virus" wikidataID="Q1986297" name="Vaccinia virus" description="species of virus" id="CM.virus.110" />
- <entry term="varicella-zoster_virus" wikipediaURL="https://en.wikipedia.org/wiki/Varicella-zoster_virus" wikidataID="Q6868" name="Human herpesvirus 3" description="herpes virus that causes chickenpox" id="CM.virus.111" />
- <entry term="variola_virus" wikipediaURL="https://en.wikipedia.org/wiki/Variola_virus" wikidataID="Q11877169" name="Variola virus" description="species of virus" id="CM.virus.112" />
- <entry term="vesicular stomatitis virus" wikipediaURL="https://en.wikipedia.org/wiki/Vesicular_stomatitis_virus" wikidataID="Q162762" name="Vesicular stomatitis virus" description="species of virus" id="CM.virus.114" />
- <entry term="west nile_virus" wikipediaURL="https://en.wikipedia.org/wiki/West_nile_virus" wikidataID="Q158856" name="West Nile virus" description="species of virus" id="CM.virus.115" />
- <entry term="western equine encephalitis" wikipediaURL="https://en.wikipedia.org/wiki/Western_equine_encephalitis" wikidataID="Q324467" name="Western equine encephalitis virus" description="species of virus" id="CM.virus.116" />
- <entry term="wu polyomavirus" wikidataID="Q25990691" name="WU polyomavirus" description="Human polyomavirus" id="CM.virus.117" />
- <entry term="yaba monkey tumor_virus" wikipediaURL="https://en.wikipedia.org/wiki/Yaba_monkey_tumor_virus" wikidataID="Q8046343" name="Yaba monkey tumor virus" description="species of virus" id="CM.virus.118" />
- <entry term="yellow fever_virus" wikipediaURL="https://en.wikipedia.org/wiki/Yellow_fever_virus" wikidataID="Q836749" name="yellow fever virus" description="species of virus" id="CM.virus.120" />
- <entry term="zika_virus" wikipediaURL="https://en.wikipedia.org/wiki/Zika_virus" wikidataID="Q202864" name="Zika virus" description="species of virus" id="CM.virus.121" />
+ <entry term="adeno-associated_virus" wikipediaURL="https://en.wikipedia.org/wiki/Adeno-associated_virus" wikidataID="Q355989" name="Adeno-associated virus" description="species of virus" id="CM.virus.0" idx="0" />
+ <entry term="aichi_virus" wikipediaURL="https://en.wikipedia.org/wiki/Aichi_virus" wikidataID="Q70915280" name="" id="CM.virus.1" idx="1" />
+ <entry term="australian bat lyssavirus" wikipediaURL="https://en.wikipedia.org/wiki/Australian_bat_lyssavirus" wikidataID="Q3269802" name="Australian bat lyssavirus" description="species of virus" id="CM.virus.2" idx="2" />
+ <entry term="banna_virus" wikidataID="Q16243472" name="Banna virus" description="species of virus" id="CM.virus.3" idx="3" />
+ <entry term="barmah forest_virus" wikidataID="Q3560914" name="Barmah Forest virus" description="species of virus" id="CM.virus.4" idx="4" />
+ <entry term="bk polyomavirus" wikidataID="Q582873" name="BK virus" description="species of virus" id="CM.virus.5" idx="5" />
+ <entry term="bunyamwera_virus" wikipediaURL="https://en.wikipedia.org/wiki/Bunyamwera_virus" wikidataID="Q4997969" name="Bunyamwera virus" description="species of virus" id="CM.virus.6" idx="6" />
+ <entry term="cercopithecine herpesvirus" wikipediaURL="https://en.wikipedia.org/wiki/Cercopithecine_herpesvirus" wikidataID="Q70921835" name="" id="CM.virus.9" idx="7" />
+ <entry term="chandipura_virus" wikipediaURL="https://en.wikipedia.org/wiki/Chandipura_virus" wikidataID="Q5071100" name="Chandipura virus" description="species of virus" id="CM.virus.10" idx="8" />
+ <entry term="chikungunya_virus" wikipediaURL="https://en.wikipedia.org/wiki/Chikungunya_virus" wikidataID="Q15794049" name="Chikungunya virus" description="virus that causes the Chikungunya fever" id="CM.virus.11" idx="9" />
+ <entry term="cosavirus a" wikidataID="Q18965376" name="Cosavirus A" description="species of virus" id="CM.virus.12" idx="10" />
+ <entry term="cowpox_virus" wikipediaURL="https://en.wikipedia.org/wiki/Cowpox_virus" wikidataID="Q12418974" name="Cowpox virus" description="species of virus" id="CM.virus.13" idx="11" />
+ <entry term="coxsackievirus" wikipediaURL="https://en.wikipedia.org/wiki/Coxsackievirus" wikidataID="Q1138287" name="Coxsackievirus" description="virus that causes digestive upset and sometimes heart damage" id="CM.virus.14" idx="12" />
+ <entry term="dengue_virus" wikipediaURL="https://en.wikipedia.org/wiki/Dengue_virus" wikidataID="Q476209" name="Dengue virus" description="cause of dengue fever" id="CM.virus.15" idx="13" />
+ <entry term="dhori_virus" wikipediaURL="https://en.wikipedia.org/wiki/Dhori_virus" wikidataID="Q5269777" name="Dhori virus" description="species of virus" id="CM.virus.16" idx="14" />
+ <entry term="dugbe_virus" wikipediaURL="https://en.wikipedia.org/wiki/Dugbe_virus" wikidataID="Q18967119" name="Dugbe virus" description="species of virus" id="CM.virus.17" idx="15" />
+ <entry term="duvenhage_virus" wikipediaURL="https://en.wikipedia.org/wiki/Duvenhage_virus" wikidataID="Q3560880" name="Duvenhage virus" description="species of virus" id="CM.virus.18" idx="16" />
+ <entry term="eastern equine virus" wikidataID="Q306966" name="Eastern equine encephalitis virus" description="species of virus" id="CM.virus.19" idx="17" />
+ <entry term="ebolavirus" wikipediaURL="https://en.wikipedia.org/wiki/Ebolavirus" wikidataID="Q5331908" name="Ebolavirus" description="genus of viruses" id="CM.virus.20" idx="18" />
+ <entry term="echovirus" wikipediaURL="https://en.wikipedia.org/wiki/Echovirus" wikidataID="Q2271197" name="Echovirus" description="type of RNA virus that belongs to the species Enterovirus B, genus Enterovirus of the Picornaviridae family" id="CM.virus.21" idx="19" />
+ <entry term="encephalomyocarditis_virus" wikipediaURL="https://en.wikipedia.org/wiki/Encephalomyocarditis_virus" wikidataID="Q5375344" name="encephalomyocarditis virus" description="species of virus" id="CM.virus.22" idx="20" />
+ <entry term="epstein-barr_virus" wikipediaURL="https://en.wikipedia.org/wiki/Epstein-barr_virus" wikidataID="Q6900" name="" description="virus of the herpes family" id="CM.virus.23" idx="21" />
+ <entry term="european bat lyssavirus" wikidataID="Q17503540" name="European Bat lyssavirus" description="Wikimedia disambiguation page" id="CM.virus.24" idx="22" />
+ <entry term="hantaan_virus" wikipediaURL="https://en.wikipedia.org/wiki/Hantaan_virus" wikidataID="Q16982722" name="Hantaan River virus" description="species of virus" id="CM.virus.26" idx="23" />
+ <entry term="hendra_virus" wikipediaURL="https://en.wikipedia.org/wiki/Hendra_virus" wikidataID="Q1604979" name="Hendra virus" description="species of virus" id="CM.virus.27" idx="24" />
+ <entry term="hepatitis a_virus" wikipediaURL="https://en.wikipedia.org/wiki/Hepatitis_a_virus" wikidataID="Q4112120" name="Hepatitis A virus" description="species of virus" id="CM.virus.28" idx="25" />
+ <entry term="hepatitis b_virus" wikipediaURL="https://en.wikipedia.org/wiki/Hepatitis_b_virus" wikidataID="Q6844" name="Hepatitis B virus" description="species of the genus Orthohepadnavirus" id="CM.virus.29" idx="26" />
+ <entry term="hepatitis c_virus" wikidataID="Q708693" name="Hepatitis C virus" description="species of virus" id="CM.virus.30" idx="27" />
+ <entry term="hepatitis delta_virus" wikipediaURL="https://en.wikipedia.org/wiki/Hepatitis_delta_virus" wikidataID="Q1607636" name="Hepatitis delta virus" description="virus strain" id="CM.virus.31" idx="28" />
+ <entry term="hepatitis e_virus" wikipediaURL="https://en.wikipedia.org/wiki/Hepatitis_e_virus" wikidataID="Q5731737" name="hepatitis E virus" description="species of virus" id="CM.virus.32" idx="29" />
+ <entry term="horsepox_virus" wikidataID="Q21558569" name="Genome of horsepox virus" description="scientific article" id="CM.virus.33" idx="30" />
+ <entry term="human adenovirus" wikidataID="Q70879216" name="" id="CM.virus.34" idx="31" />
+ <entry term="human astrovirus" wikidataID="Q70920989" name="" id="CM.virus.35" idx="32" />
+ <entry term="human coronavirus" wikipediaURL="https://en.wikipedia.org/wiki/Human_coronavirus" wikidataID="Q90026748" name="" id="CM.virus.36" idx="33" />
+ <entry term="human cytomegalovirus" wikipediaURL="https://en.wikipedia.org/wiki/Human_cytomegalovirus" wikidataID="Q6929" name="human betaherpesvirus 5" description="species of virus" id="CM.virus.37" idx="34" />
+ <entry term="human enterovirus" wikidataID="Q70915157" name="" id="CM.virus.38" idx="35" />
+ <entry term="human herpesvirus 1" wikipediaURL="https://en.wikipedia.org/wiki/Human_herpesvirus_1" wikidataID="Q655331" name="Human herpesvirus 1" description="species of virus" id="CM.virus.39" idx="36" />
+ <entry term="human herpesvirus 2" wikipediaURL="https://en.wikipedia.org/wiki/Human_herpesvirus_2" wikidataID="Q18965147" name="Human herpesvirus 2" description="species of virus" id="CM.virus.40" idx="37" />
+ <entry term="human herpesvirus 6" wikidataID="Q6974" name="Human herpesvirus 6" description="virus which caused human herpesvirus 6 Infection" id="CM.virus.41" idx="38" />
+ <entry term="human herpesvirus 7" wikipediaURL="https://en.wikipedia.org/wiki/Human_herpesvirus_7" wikidataID="Q1169672" name="Human herpesvirus 7" description="species of virus" id="CM.virus.42" idx="39" />
+ <entry term="human herpesvirus 8" wikipediaURL="https://en.wikipedia.org/wiki/Human_herpesvirus_8" wikidataID="Q983850" name="Kaposi's sarcoma-associated herpesvirus" description="species of virus" id="CM.virus.43" idx="40" />
+ <entry term="human immunodeficiency virus" wikipediaURL="https://en.wikipedia.org/wiki/Human_immunodeficiency_virus" wikidataID="Q15787" name="HIV" description="human retrovirus, cause of AIDS" id="CM.virus.44" idx="41" />
+ <entry term="human papillomavirus 1" wikidataID="Q70922869" name="" id="CM.virus.45" idx="42" />
+ <entry term="human papillomavirus 16" wikidataID="Q70922074" name="" id="CM.virus.46" idx="43" />
+ <entry term="human papillomavirus 2" wikidataID="Q70922115" name="" id="CM.virus.47" idx="44" />
+ <entry term="human parainfluenza" wikidataID="Q2051533" name="" id="CM.virus.48" idx="45" />
+ <entry term="human parvovirus b19" wikidataID="Q70880461" name="" id="CM.virus.49" idx="46" />
+ <entry term="human respiratory syncytial_virus" wikipediaURL="https://en.wikipedia.org/wiki/Human_respiratory_syncytial_virus" wikidataID="Q1052913" name="human respiratory syncytial virus" description="hrs virus" id="CM.virus.50" idx="47" />
+ <entry term="human rhinovirus" wikipediaURL="https://en.wikipedia.org/wiki/Human_rhinovirus" wikidataID="Q70060810" name="" id="CM.virus.51" idx="48" />
+ <entry term="human sars coronavirus" wikidataID="Q96436206" name="Evolutionary relationships and sequence-structure determinants in human SARS coronavirus-2 spike proteins for host receptor recognition" description="scientific article published on 16 June 2020" id="CM.virus.52" idx="49" />
+ <entry term="human t-lymphotropic_virus" wikidataID="Q1280388" name="Human T-lymphotropic virus 1" description="human virus" id="CM.virus.54" idx="50" />
+ <entry term="human torovirus" wikidataID="Q18965341" name="Human torovirus" description="species of virus" id="CM.virus.55" idx="51" />
+ <entry term="influenza a_virus" wikipediaURL="https://en.wikipedia.org/wiki/Influenza_a_virus" wikidataID="Q834390" name="influenza A virus" description="species of virus" id="CM.virus.56" idx="52" />
+ <entry term="influenza b_virus" wikipediaURL="https://en.wikipedia.org/wiki/Influenza_b_virus" wikidataID="Q1089532" name="Influenza B virus" description="species of virus" id="CM.virus.57" idx="53" />
+ <entry term="influenza c_virus" wikidataID="Q1059828" name="Influenza C virus" description="species of virus" id="CM.virus.58" idx="54" />
+ <entry term="isfahan_virus" wikidataID="Q18965324" name="Isfahan virus" description="species of virus" id="CM.virus.59" idx="55" />
+ <entry term="japanese encephalitis virus" wikipediaURL="https://en.wikipedia.org/wiki/Japanese_encephalitis_virus" wikidataID="Q19838331" name="Japanese encephalitis virus" description="species of virus" id="CM.virus.60" idx="56" />
+ <entry term="jc polyomavirus" wikidataID="Q1676563" name="JC virus" description="type of human polyomavirus" id="CM.virus.61" idx="57" />
+ <entry term="junin arenavirus" wikidataID="Q80280708" name="Characterization of Junin arenavirus cell entry" description="scientific article published on 01 June 2007" id="CM.virus.62" idx="58" />
+ <entry term="ki polyomavirus" wikidataID="Q25990693" name="KI polyomavirus" description="Human polyomavirus" id="CM.virus.63" idx="59" />
+ <entry term="kunjin_virus" wikipediaURL="https://en.wikipedia.org/wiki/Kunjin_virus" wikidataID="Q6444827" name="" id="CM.virus.64" idx="60" />
+ <entry term="lagos bat_virus" wikipediaURL="https://en.wikipedia.org/wiki/Lagos_bat_virus" wikidataID="Q16984206" name="Lagos bat virus" description="species of virus" id="CM.virus.65" idx="61" />
+ <entry term="langat_virus" wikipediaURL="https://en.wikipedia.org/wiki/Langat_virus" wikidataID="Q6485731" name="Langat virus" description="species of virus" id="CM.virus.66" idx="62" />
+ <entry term="lassa_virus" wikipediaURL="https://en.wikipedia.org/wiki/Lassa_virus" wikidataID="Q1806636" name="Lassa virus" description="species of virus" id="CM.virus.67" idx="63" />
+ <entry term="lordsdale_virus" name="lordsdale_virus" id="CM.virus.68" idx="64" />
+ <entry term="louping ill virus" wikipediaURL="https://en.wikipedia.org/wiki/Louping_ill_virus" wikidataID="Q19838288" name="Louping ill virus" description="species of virus" id="CM.virus.69" idx="65" />
+ <entry term="machupo_virus" wikipediaURL="https://en.wikipedia.org/wiki/Machupo_virus" wikidataID="Q3560886" name="Machupo virus" description="species of virus" id="CM.virus.70" idx="66" />
+ <entry term="mayaro_virus" wikipediaURL="https://en.wikipedia.org/wiki/Mayaro_virus" wikidataID="Q18863953" name="Mayaro virus" description="species of virus" id="CM.virus.71" idx="67" />
+ <entry term="measles_virus" wikipediaURL="https://en.wikipedia.org/wiki/Measles_virus" wikidataID="Q573943" name="Measles virus" description="species of virus" id="CM.virus.72" idx="68" />
+ <entry term="mers coronavirus" wikidataID="Q4902157" name="Middle East respiratory syndrome coronavirus" description="species of virus" id="CM.virus.73" idx="69" />
+ <entry term="mokola_virus" wikipediaURL="https://en.wikipedia.org/wiki/Mokola_virus" wikidataID="Q1943181" name="Mokola virus" description="species of virus" id="CM.virus.74" idx="70" />
+ <entry term="monkeypox_virus" wikipediaURL="https://en.wikipedia.org/wiki/Monkeypox_virus" wikidataID="Q6900886" name="Monkeypox virus" description="species of virus" id="CM.virus.75" idx="71" />
+ <entry term="mumps_virus" wikipediaURL="https://en.wikipedia.org/wiki/Mumps_virus" wikidataID="Q1952649" name="mumps virus" description="species of virus" id="CM.virus.76" idx="72" />
+ <entry term="new york virus" wikidataID="Q16878929" name="New York virus" description="species of virus" id="CM.virus.78" idx="73" />
+ <entry term="nipah_virus" wikipediaURL="https://en.wikipedia.org/wiki/Nipah_virus" wikidataID="Q15928531" name="Nipah virus" description="species of virus" id="CM.virus.79" idx="74" />
+ <entry term="norwalk_virus" wikipediaURL="https://en.wikipedia.org/wiki/Norwalk_virus" wikidataID="Q562082" name="Norwalk virus" description="species of virus" id="CM.virus.80" idx="75" />
+ <entry term="orf_virus" wikipediaURL="https://en.wikipedia.org/wiki/Orf_virus" wikidataID="Q2029700" name="Parapoxvirus ovis" description="species of virus" id="CM.virus.81" idx="76" />
+ <entry term="oropouche_virus" wikipediaURL="https://en.wikipedia.org/wiki/Oropouche_virus" wikidataID="Q3560891" name="Oropouche virus" description="species of virus" id="CM.virus.82" idx="77" />
+ <entry term="o&#65533;nyong-nyong" wikidataID="Q2445625" name="Nyong-et-So'o" description="department of Cameroon" id="CM.virus.83" idx="78" />
+ <entry term="pichinde_virus" wikidataID="Q18966446" name="Pichinde virus" description="species of virus" id="CM.virus.84" idx="79" />
+ <entry term="poliovirus" wikipediaURL="https://en.wikipedia.org/wiki/Poliovirus" wikidataID="Q12438936" name="poliovirus" description="human enterovirus" id="CM.virus.85" idx="80" />
+ <entry term="puumala_virus" wikipediaURL="https://en.wikipedia.org/wiki/Puumala_virus" wikidataID="Q3132458" name="Puumala virus" description="species of virus" id="CM.virus.86" idx="81" />
+ <entry term="rabies_virus" wikipediaURL="https://en.wikipedia.org/wiki/Rabies_virus" wikidataID="Q698976" name="Rabies virus" description="species of virus" id="CM.virus.87" idx="82" />
+ <entry term="rift valley fever" wikipediaURL="https://en.wikipedia.org/wiki/Rift_valley_fever" wikidataID="Q24809101" name="Rift Valley fever phlebovirus" description="species of virus" id="CM.virus.88" idx="83" />
+ <entry term="rosavirus a" wikidataID="Q18965403" name="Rosavirus A" description="species of virus" id="CM.virus.89" idx="84" />
+ <entry term="ross river virus" wikipediaURL="https://en.wikipedia.org/wiki/Ross_river_virus" wikidataID="Q660537" name="Ross River virus" description="Species of virus" id="CM.virus.90" idx="85" />
+ <entry term="rotavirus a" wikidataID="Q18976085" name="Rotavirus A" description="species of virus" id="CM.virus.91" idx="86" />
+ <entry term="rotavirus b" wikidataID="Q18976088" name="Rotavirus B" description="species of virus" id="CM.virus.92" idx="87" />
+ <entry term="rotavirus c" wikidataID="Q18862707" name="Rotavirus C" description="species of virus" id="CM.virus.93" idx="88" />
+ <entry term="rubella_virus" wikipediaURL="https://en.wikipedia.org/wiki/Rubella_virus" wikidataID="Q701609" name="Rubella virus" description="species of virus" id="CM.virus.94" idx="89" />
+ <entry term="sagiyama_virus" wikipediaURL="https://en.wikipedia.org/wiki/Sagiyama_virus" wikidataID="Q7399312" name="Sagiyama virus" description="species of virus" id="CM.virus.95" idx="90" />
+ <entry term="salivirus a" wikidataID="Q18965404" name="Salivirus A" description="species of virus" id="CM.virus.96" idx="91" />
+ <entry term="sandfly fever sicilian virus" wikidataID="Q29887743" name="Sandfly fever Sicilian virus" description="phlebovirus" id="CM.virus.97" idx="92" />
+ <entry term="sapporo_virus" wikidataID="Q18967541" name="Sapporo virus" description="species of virus" id="CM.virus.98" idx="93" />
+ <entry term="semliki forest_virus" wikipediaURL="https://en.wikipedia.org/wiki/Semliki_forest_virus" wikidataID="Q428413" name="Semliki Forest virus" description="species of virus" id="CM.virus.99" idx="94" />
+ <entry term="seoul_virus" wikipediaURL="https://en.wikipedia.org/wiki/Seoul_virus" wikidataID="Q6163830" name="Seoul virus" description="species of virus" id="CM.virus.100" idx="95" />
+ <entry term="simian foamy_virus" wikipediaURL="https://en.wikipedia.org/wiki/Simian_foamy_virus" wikidataID="Q7517772" name="Simian foamy virus" description="species of virus" id="CM.virus.101" idx="96" />
+ <entry term="simian virus 5" wikidataID="Q70920386" name="" id="CM.virus.102" idx="97" />
+ <entry term="sindbis virus" wikipediaURL="https://en.wikipedia.org/wiki/Sindbis_virus" wikidataID="Q2302993" name="Sindbis virus" description="species of virus" id="CM.virus.103" idx="98" />
+ <entry term="st. louis encephalitis virus" wikidataID="Q19838321" name="St. Louis encephalitis virus" description="species of virus" id="CM.virus.105" idx="99" />
+ <entry term="tick-borne powassan virus" wikidataID="Q24457205" name="Update on Powassan virus: emergence of a North American tick-borne flavivirus" description="scientific article" id="CM.virus.106" idx="100" />
+ <entry term="torque teno virus" wikipediaURL="https://en.wikipedia.org/wiki/Torque_teno_virus" wikidataID="Q7834212" name="Torque teno virus" description="species of virus" id="CM.virus.107" idx="101" />
+ <entry term="toscana_virus" wikipediaURL="https://en.wikipedia.org/wiki/Toscana_virus" wikidataID="Q7827576" name="Toscana virus" description="type of arbovirus" id="CM.virus.108" idx="102" />
+ <entry term="uukuniemi_virus" wikipediaURL="https://en.wikipedia.org/wiki/Uukuniemi_virus" wikidataID="Q18967473" name="Uukuniemi virus" description="species of virus" id="CM.virus.109" idx="103" />
+ <entry term="vaccinia_virus" wikipediaURL="https://en.wikipedia.org/wiki/Vaccinia_virus" wikidataID="Q1986297" name="Vaccinia virus" description="species of virus" id="CM.virus.110" idx="104" />
+ <entry term="varicella-zoster_virus" wikipediaURL="https://en.wikipedia.org/wiki/Varicella-zoster_virus" wikidataID="Q6868" name="Human herpesvirus 3" description="herpes virus that causes chickenpox" id="CM.virus.111" idx="105" />
+ <entry term="variola_virus" wikipediaURL="https://en.wikipedia.org/wiki/Variola_virus" wikidataID="Q11877169" name="Variola virus" description="species of virus" id="CM.virus.112" idx="106" />
+ <entry term="vesicular stomatitis virus" wikipediaURL="https://en.wikipedia.org/wiki/Vesicular_stomatitis_virus" wikidataID="Q162762" name="Vesicular stomatitis virus" description="species of virus" id="CM.virus.114" idx="107" />
+ <entry term="west nile_virus" wikipediaURL="https://en.wikipedia.org/wiki/West_nile_virus" wikidataID="Q158856" name="West Nile virus" description="species of virus" id="CM.virus.115" idx="108" />
+ <entry term="western equine encephalitis" wikipediaURL="https://en.wikipedia.org/wiki/Western_equine_encephalitis" wikidataID="Q324467" name="Western equine encephalitis virus" description="species of virus" id="CM.virus.116" idx="109" />
+ <entry term="wu polyomavirus" wikidataID="Q25990691" name="WU polyomavirus" description="Human polyomavirus" id="CM.virus.117" idx="110" />
+ <entry term="yaba monkey tumor_virus" wikipediaURL="https://en.wikipedia.org/wiki/Yaba_monkey_tumor_virus" wikidataID="Q8046343" name="Yaba monkey tumor virus" description="species of virus" id="CM.virus.118" idx="111" />
+ <entry term="yellow fever_virus" wikipediaURL="https://en.wikipedia.org/wiki/Yellow_fever_virus" wikidataID="Q836749" name="yellow fever virus" description="species of virus" id="CM.virus.120" idx="112" />
+ <entry term="zika_virus" wikipediaURL="https://en.wikipedia.org/wiki/Zika_virus" wikidataID="Q202864" name="Zika virus" description="species of virus" id="CM.virus.121" idx="113" />
 </dictionary>
