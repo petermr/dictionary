@@ -15,10 +15,12 @@ DICTIONARY = "dictionary"
 DESCRIPTION = "description"
 ENTRY = "entry"
 METADATA = "metadata"
+RELATED = "relatedItem"
 SYNONYM = "synonym"
 
 # attributes
 ID = "id"
+IDX = "idx"
 DESCRIPTION_A = "description"
 NAME = "name"
 TERM = "term"
@@ -52,6 +54,7 @@ LANGUAGES = {
 SUPPORTED_ATTS = [
     DESCRIPTION_A,
     ID,
+    IDX,
     NAME,
     TERM,
     TITLE,
@@ -67,6 +70,7 @@ UNWANTED_ATTS = [
 
 SUPPORTED_CHILDREN = [
     DESCRIPTION,
+    RELATED,
     SYNONYM
 ]
 
@@ -179,6 +183,9 @@ class Entry():
 
     def get_descriptions(self):
         return list(self.elem.findall(DESCRIPTION)) if self.elem.tag == ENTRY else None
+
+    def get_relatedItems(self):
+        return list(self.elem.findall(RELATED)) if self.elem.tag == ENTRY else None
 
     def get_wikidata_id(self):
         return self.elem.attrib[WIKIDATA_ID] if WIKIDATA_ID in self.elem.attrib else None
@@ -312,7 +319,11 @@ class Dictionary():
         self.file = file
         with open(file, "r") as f:
             dictionary_text = f.read();
-        self.root = ET.fromstring(dictionary_text)
+        try:
+            self.root = ET.fromstring(dictionary_text)
+        except ET.ParseError as e:
+            print("XML parse error", e)
+            return None
         if self.root.tag != DICTIONARY:
             raise Exception ("not a dictionary file")
         title_ = self.root.attrib[TITLE]
@@ -322,10 +333,11 @@ class Dictionary():
         return self.root
 
     def get_descendant_elements(self, tag):
-        if not self.root is None:
+        if self.root is not None:
             return self.root.findall(tag)
         else:
-            raise Exception("No XML Element in dictionary")
+            print("No XML root in dictionary")
+            return []
 
     def get_entries(self):
 #        print("get entries***********")
@@ -352,7 +364,10 @@ class Dictionary():
     def write_outfile(self):
         outfile = os.path.join(TEMP_DIR, os.path.split(self.file)[-1])
         with open(outfile, "wb") as f:
-            f.write(ET.tostring(self.root))
+            try :
+                f.write(ET.tostring(self.root))
+            except:
+                print("Cannot write tree to", outfile)
 
     def xsl_transform(self, xsl_file, outdir=TEMP_DIR):
         """still struggling with XSLT, will hardcode transforms"""
@@ -416,7 +431,14 @@ def main():
     CEVOPEN_DICT = os.path.join(DICTIONARY_TOP, "cevopen")
     dict_files = [
         os.path.join(CEVOPEN_DICT, "activity/eo_activity.xml"),
-        os.path.join(CEVOPEN_DICT, "plant_part/eo_plant_part.xml")
+        os.path.join(CEVOPEN_DICT, "analysis/eo_analysis_method.xml"),
+        os.path.join(CEVOPEN_DICT, "compound/eo_compound.xml"),
+        os.path.join(CEVOPEN_DICT, "extraction/eo_extraction.xml"),
+        os.path.join(CEVOPEN_DICT, "gene/eo_plant_gene.xml"),
+        os.path.join(CEVOPEN_DICT, "genus/eo_plant_genus.xml"),
+        os.path.join(CEVOPEN_DICT, "plant/eo_plant.xml"),
+        os.path.join(CEVOPEN_DICT, "plant_part/eo_plant_part.xml"),
+        os.path.join(CEVOPEN_DICT, "target/eo_target_organism.xml")
     ]
     for dict_file in dict_files:
         test_merge(dict_file)

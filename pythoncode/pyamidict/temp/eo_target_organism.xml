@@ -1,0 +1,621 @@
+<dictionary title="eo_target_organism">
+<desc>A dictionary of 307 target organisms resolved to wikidataIDs, including genus and species of bacteria, fungi, protist, protozoa, and other microorgnisms.</desc>
+<authors>Emanuel Arruda, President https://www.verriclar.com, https://www.verriclar.com.br/</authors>
+<contributors>Ambarish Kumar</contributors>
+<lastupdate> 2020-03-14 by Emanuel Faria</lastupdate>
+   <entry id="id.TO01" term="francisella tularensis" wikidataID="Q1003460" description="species of bacterium" idx="0">
+<relatedItem role="disease">Tularaemia</relatedItem>
+</entry>
+   <entry id="id.TO02" term="aspergillus brasiliensis" wikidataID="Q10419946" description="species of fungus" idx="1" />
+   <entry id="id.TO03" term="C. lactis-condensi" wikidataID="Q10441553" description="species of fungus" idx="2" />
+   <entry id="['id.TO04', 'id.TO03']" term="['candida lactis-condensi', 'C. lactis-condensi']" wikidataID="Q10441553" description="species of fungus" idx="['3', '2']" merged="true" />
+   <entry id="id.TO05" term="cladophialophora carrionii" wikidataID="Q10454338" description="species of fungus" idx="4">
+<relatedItem role="disease">chromoblastomycosis</relatedItem>
+</entry>
+   <entry id="id.TO06" term="cladosporium sphaerospermum" wikidataID="Q10454504" description="species of fungus" idx="5" />
+   <entry id="id.TO07" term="conidiobolus coronatus" wikidataID="Q10457821" description="species of fungus" idx="6">
+<relatedItem role="disease">Entomophthorales, Zygomycosis</relatedItem>
+</entry>
+   <entry id="id.TO08" term="debaryomyces hansenii" wikidataID="Q10467497" description="species of fungus" idx="7" />
+   <entry id="id.TO09" term="malassezia globosa" wikidataID="Q10575741" description="species of fungus" idx="8" />
+   <entry id="id.TO10" term="malassezia obtusa" wikidataID="Q10575744" description="species of fungus" idx="9" />
+   <entry id="id.TO11" term="malassezia pachydermatis" wikidataID="Q10575745" description="species of fungus" idx="10" />
+   <entry id="id.TO12" term="malassezia restricta" wikidataID="Q10575746" description="species of fungus" idx="11" />
+   <entry id="id.TO13" term="malassezia slooffiae" wikidataID="Q10575747" description="species of fungus" idx="12" />
+   <entry id="id.TO14" term="malassezia sympodialis" wikidataID="Q10575748" description="species of fungus" idx="13" />
+   <entry id="id.TO15" term="M. distortum" wikidataID="Q10584816" description="species of fungus" idx="14">
+<relatedItem role="disease">tinea capitis</relatedItem>
+</entry>
+   <entry id="['id.TO16', 'id.TO15']" term="['microsporum distortum', 'M. distortum']" wikidataID="Q10584816" description="species of fungus" idx="['15', '14']" merged="true">
+<relatedItem role="disease">tinea capitis</relatedItem>
+</entry>
+   <entry id="id.TO17" term="M. ferrugineum" wikidataID="Q10584817" description="species of fungus" idx="16">
+<relatedItem role="disease">tinea capitis, eumycetoma</relatedItem>
+</entry>
+   <entry id="['id.TO18', 'id.TO17']" term="['microsporum ferrugineum', 'M. ferrugineum']" wikidataID="Q10584817" description="species of fungus" idx="['17', '16']" merged="true">
+<relatedItem role="disease">tinea capitis, eumycetoma</relatedItem>
+</entry>
+   <entry id="['id.TO19', 'id.TO20']" term="['M. fulvum', 'microsporum fulvum']" wikidataID="Q10584820" description="species of fungus" idx="['18', '19']" merged="true" />
+   <entry id="id.TO20" term="microsporum fulvum" wikidataID="Q10584820" description="species of fungus" idx="19" />
+   <entry id="id.TO21" term="microsporum gypseum" wikidataID="Q10584822" description="species of fungus" idx="20" />
+   <entry id="id.TO22" term="microsporum langeronii" wikidataID="Q10584823" description="species of fungus" idx="21">
+<relatedItem role="disease">eumycetoma</relatedItem>
+</entry>
+   <entry id="['id.TO23', 'id.TO24']" term="['M. nanum', 'microsporum nanum']" wikidataID="Q10584824" description="species of fungus" idx="['22', '23']" merged="true">
+<relatedItem role="disease">tinea capitis</relatedItem>
+</entry>
+   <entry id="id.TO24" term="microsporum nanum" wikidataID="Q10584824" description="species of fungus" idx="23">
+<relatedItem role="disease">tinea capitis</relatedItem>
+</entry>
+   <entry id="id.TO25" term="neotestudina rosatii" wikidataID="Q10598710" description="species of fungus" idx="24">
+<relatedItem role="disease">eumycetoma</relatedItem>
+</entry>
+   <entry id="id.TO26" term="penicillium citrinum" wikidataID="Q10622902" description="species of fungus" idx="25" />
+   <entry id="id.TO27" term="penicillium corylophilum" wikidataID="Q10622912" description="species of fungus" idx="26" />
+   <entry id="id.TO28" term="penicillium ochrochloron" wikidataID="Q10623007" description="species of fungus" idx="27" />
+   <entry id="id.TO29" term="phaeoannellomyces" wikidataID="Q10625719" description="species of fungus" idx="28">
+<relatedItem role="disease">tinea nigra</relatedItem>
+</entry>
+   <entry id="['id.TO30', 'id.TO31']" term="['medicopsis romeroi', 'pyrenochaeta romeroi']" wikidataID="Q10647261" description="species of fungus" idx="['29', '30']" merged="true">
+<relatedItem role="disease">eumycetoma</relatedItem>
+</entry>
+   <entry id="id.TO31" term="pyrenochaeta romeroi" wikidataID="Q10647261" description="species of fungus" idx="30" />
+   <entry id="id.TO32" term="Ramichloridium cerophilum" wikidataID="Q10652395" description="species of fungus" idx="31">
+<relatedItem role="disease">chromoblastomycosis</relatedItem>
+</entry>
+   <entry id="['id.TO33', 'id.TO32']" term="['Rhinocladiella aquaspersa', 'Ramichloridium cerophilum']" wikidataID="Q10652395" description="species of fungus" idx="['32', '31']" merged="true">
+<relatedItem role="disease">chromoblastomycosis</relatedItem>
+</entry>
+   <entry id="id.TO34" term="rhodotorula mucilaginosa" wikidataID="Q10653339" description="species of fungus" idx="33" />
+   <entry id="id.TO35" term="rhodotorula rubra" wikidataID="Q10653342" description="species of fungus" idx="34" />
+   <entry id="id.TO36" term="T. equinum" wikidataID="Q10703077" description="species of fungus" idx="35" />
+   <entry id="['id.TO37', 'id.TO36']" term="['trichophyton equinum', 'T. equinum']" wikidataID="Q10703077" description="species of fungus" idx="['36', '35']" merged="true" />
+   <entry id="['id.TO38', 'id.TO39']" term="['T. megninii', 'trichophyton megninii']" wikidataID="Q10703089" description="species of fungus" idx="['37', '38']" merged="true">
+<relatedItem role="disease">tinea capitis</relatedItem>
+</entry>
+   <entry id="id.TO39" term="trichophyton megninii" wikidataID="Q10703089" description="species of fungus" idx="38">
+<relatedItem role="disease">tinea capitis</relatedItem>
+</entry>
+   <entry id="id.TO40" term="T. soudanense" wikidataID="Q10703100" description="species of fungus" idx="39">
+<relatedItem role="disease">tinea capitis</relatedItem>
+</entry>
+   <entry id="id.TO41" term="T. yaoundei" wikidataID="Q10703106" description="species of fungus" idx="40">
+<relatedItem role="disease">tinea capitis</relatedItem>
+</entry>
+   <entry id="id.TO42" term="H. ducreyi" wikidataID="Q1114305" description="species of bacterium" idx="41">
+<relatedItem role="disease">chancroid</relatedItem>
+</entry>
+   <entry id="['id.TO43', 'id.TO42']" term="['haemophilus ducreyi', 'H. ducreyi']" wikidataID="Q1114305" description="species of bacterium" idx="['42', '41']" merged="true">
+<relatedItem role="disease">chancroid</relatedItem>
+</entry>
+   <entry id="id.TO44" term="botrytis cinerea" wikidataID="Q1135851" description="species of fungus" idx="43" />
+   <entry id="['id.TO45', 'id.TO46']" term="['H. influenzae', 'haemophilus influenzae']" wikidataID="Q1141979" description="species of bacterium" idx="['44', '45']" merged="true">
+<relatedItem role="disease">cellulitis</relatedItem>
+</entry>
+   <entry id="id.TO46" term="haemophilus influenzae" wikidataID="Q1141979" description="species of bacterium" idx="45">
+<relatedItem role="disease">cellulitis</relatedItem>
+</entry>
+   <entry id="id.TO47" term="salmonella agona" wikidataID="Q12970368" description="species of bacterium" idx="46" />
+   <entry id="id.TO48" term="shigella spP." wikidataID="Q131029" description="genus of bacteria" idx="47" />
+   <entry id="id.TO49" term="N. gonorrhea" wikidataID="Q131129" description="species of bacterium" idx="48">
+<relatedItem role="disease">gonorrhoea </relatedItem>
+</entry>
+   <entry id="['id.TO50', 'id.TO49']" term="['neisseria gonorrhea', 'N. gonorrhea']" wikidataID="Q131129" description="species of bacterium" idx="['49', '48']" merged="true">
+<relatedItem role="disease">gonorrhoea </relatedItem>
+</entry>
+   <entry id="id.TO51" term="bacillus subtilis" wikidataID="Q131238" description="species of bacterium" idx="50" />
+   <entry id="['id.TO52', 'id.TO53']" term="['candida', 'candida spP.']" wikidataID="Q131260" description="genus of fungi" idx="['51', '52']" merged="true">
+<relatedItem role="disease">Candida&#160;general information; napkin&#160;dermatitis&#160;(diaper&#160;rash); non-albicans candida infections, Oral candidiasis&#160;(oral thrush); Vulvovaginal&#160;candidiasis&#160;(vaginal thrush); Candida&#160;intertrigo&#160;(skin fold&#160;infection); paronychia&#160;(nail fold infections); Chronic&#160;mucocutaneous&#160;candidiasis; Cyclic vulvovaginitis&#160;(cyclical symptoms due to vulvovaginal candidiasis)</relatedItem>
+</entry>
+   <entry id="id.TO53" term="candida spP." wikidataID="Q131260" description="genus of fungi" idx="52">
+<relatedItem role="disease">Candida&#160;general information; napkin&#160;dermatitis&#160;(diaper&#160;rash); non-albicans candida infections, Oral candidiasis&#160;(oral thrush); Vulvovaginal&#160;candidiasis&#160;(vaginal thrush); Candida&#160;intertrigo&#160;(skin fold&#160;infection); paronychia&#160;(nail fold infections); Chronic&#160;mucocutaneous&#160;candidiasis; Cyclic vulvovaginitis&#160;(cyclical symptoms due to vulvovaginal candidiasis)</relatedItem>
+</entry>
+   <entry id="id.TO54" term="streptococcus pyogenes" wikidataID="Q131271" description="species of bacterium" idx="53">
+<relatedItem role="disease">Cellulitis, Erysipelas, Impetigo, necrotising&#160;fasciitis, Infectious&#160;gangrene, Scarlet&#160;fever, Rheumatic fever,&#160;erythema&#160;marginatum</relatedItem>
+</entry>
+   <entry id="id.TO55" term="bacillus cereus" wikidataID="Q131307" description="species of bacterium" idx="54" />
+   <entry id="id.TO56" term="streptococcus mutans" wikidataID="Q131452" description="species of bacterium" idx="55" />
+   <entry id="id.TO57" term="agrobacterium tumefaciens" wikidataID="Q131472" description="species of bacterium" idx="56" />
+   <entry id="id.TO58" term="fusarium spP." wikidataID="Q131672" description="genus of fungi" idx="57">
+<relatedItem role="disease">eumycetoma, skin and nail infections</relatedItem>
+</entry>
+   <entry id="['id.TO59', 'id.TO60', 'id.TO61']" term="['S. epidermidis', 'staphylococcus epidermidis', 'staphylococcus Epiedermis']" wikidataID="Q131915" description="species of bacterium" idx="['58', '59', '60']" merged="true" />
+   <entry id="id.TO60" term="staphylococcus epidermidis" wikidataID="Q131915" description="species of bacterium" idx="59" />
+   <entry id="id.TO61" term="staphylococcus Epiedermis" wikidataID="Q131915" description="species of bacterium" idx="60" />
+   <entry id="['id.TO62', 'id.TO63']" term="['C. neoformans', 'cryptococcus neoformans']" wikidataID="Q131924" description="species of fungus" idx="['61', '62']" merged="true">
+<relatedItem role="disease">cryptococcosis</relatedItem>
+</entry>
+   <entry id="id.TO63" term="cryptococcus neoformans" wikidataID="Q131924" description="species of fungus" idx="62">
+<relatedItem role="disease">cryptococcosis</relatedItem>
+</entry>
+   <entry id="id.TO64" term="aspergillus niger" wikidataID="Q132014" description="species of fungus" idx="63">
+<relatedItem role="disease">aspergillosis</relatedItem>
+</entry>
+   <entry id="id.TO65" term="neisseria" wikidataID="Q132209" description="genus of bacteria" idx="64">
+<relatedItem role="disease">gonorrhoea and meningococcal disease</relatedItem>
+</entry>
+   <entry id="['id.TO66', 'id.TO67']" term="['klebsiella pneumonia', 'klebsiella pneumoniae']" wikidataID="Q132592" description="species of bacterium" idx="['65', '66']" merged="true" />
+   <entry id="id.TO67" term="klebsiella pneumoniae" wikidataID="Q132592" description="species of bacterium" idx="66" />
+   <entry id="id.TO68" term="streptococcus agalactiae" wikidataID="Q132949" description="species of bacterium" idx="67" />
+   <entry id="id.TO69" term="alternaria spP." wikidataID="Q133266" description="genus of fungi" idx="68" />
+   <entry id="id.TO70" term="leptospira" wikidataID="Q133841" description="genus of bacteria" idx="69">
+<relatedItem role="disease">leptospirosis, which may cause bleeding into the skin (purpura)</relatedItem>
+</entry>
+   <entry id="id.TO71" term="corynebacterium" wikidataID="Q133976" description="genus of bacteria" idx="70">
+<relatedItem role="disease">Erythrasma, pitted keratolysis, trichomycosis axillaris</relatedItem>
+</entry>
+   <entry id="id.TO72" term="aspergillus fumigatus" wikidataID="Q134359" description="species of fungus" idx="71">
+<relatedItem role="disease">aspergillosis</relatedItem>
+</entry>
+   <entry id="id.TO73" term="pneumocystis jirovecii" wikidataID="Q134478" description="species of fungus" idx="72" />
+   <entry id="id.TO74" term="treponema" wikidataID="Q134745" description="genus of bacteria" idx="73">
+<relatedItem role="disease">syphilis,&#160;yaws,&#160;pinta</relatedItem>
+</entry>
+   <entry id="id.TO75" term="bartonella" wikidataID="Q135006" description="genus of bacteria" idx="74">
+<relatedItem role="disease">cat scratch fever,&#160;bacillary&#160;angiomatosis,&#160;Carrion disease, and bartonellosis</relatedItem>
+</entry>
+   <entry id="id.TO76" term="nocardia" wikidataID="Q135175" description="genus of bacteria" idx="75">
+<relatedItem role="disease">nocardiosis</relatedItem>
+</entry>
+   <entry id="id.TO77" term="yersinia enterocolitica" wikidataID="Q135177" description="species of bacterium" idx="76" />
+   <entry id="id.TO78" term="vibrio vulnificus" wikidataID="Q135183" description="species of bacterium" idx="77">
+<relatedItem role="disease">septic&#160;shock</relatedItem>
+</entry>
+   <entry id="id.TO79" term="burkholderia" wikidataID="Q135239" description="genus of bacteria" idx="78">
+<relatedItem role="disease">melioidosis,&#160;glanders</relatedItem>
+</entry>
+   <entry id="id.TO80" term="trichoderma" wikidataID="Q135322" description="genus of fungi" idx="79" />
+   <entry id="['id.TO81', 'id.TO80']" term="['trichoderma sP.', 'trichoderma']" wikidataID="Q135322" description="genus of fungi" idx="['80', '79']" merged="true" />
+   <entry id="id.TO82" term="aspergillus flavus" wikidataID="Q137096" description="species of fungus" idx="81">
+<relatedItem role="disease">eumycetoma, aspergillosis</relatedItem>
+</entry>
+   <entry id="id.TO83" term="T. rubrum" wikidataID="Q138834" description="species of fungus" idx="82">
+<relatedItem role="disease">tinea capitis, tinea corporis, tinea cruris, tinea faciei, tinea pedis, tinea unguium&#160;(onychomycosis, fungal nail infection), </relatedItem>
+</entry>
+   <entry id="['id.TO84', 'id.TO83']" term="['trichophyton rubrum', 'T. rubrum']" wikidataID="Q138834" description="species of fungus" idx="['83', '82']" merged="true">
+<relatedItem role="disease">tinea capitis, tinea corporis, tinea cruris, tinea faciei, tinea pedis, tinea unguium&#160;(onychomycosis, fungal nail infection), </relatedItem>
+</entry>
+   <entry id="id.TO85" term="C. glabrata" wikidataID="Q139137" description="species of fungus" idx="84">
+<relatedItem role="disease">candidiasis</relatedItem>
+</entry>
+   <entry id="['id.TO86', 'id.TO85']" term="['candida glabrata', 'C. glabrata']" wikidataID="Q139137" description="species of fungus" idx="['85', '84']" merged="true">
+<relatedItem role="disease">candidiasis</relatedItem>
+</entry>
+   <entry id="id.TO87" term="fusarium oxysporum" wikidataID="Q139958" description="species of fungus" idx="86" />
+   <entry id="id.TO88" term="serratia marcescens" wikidataID="Q140004" description="species of bacterium" idx="87">
+<relatedItem role="disease">cellulitis,&#160;abscesses&#160;and ulcers</relatedItem>
+</entry>
+   <entry id="id.TO89" term="enterococcus faecalis" wikidataID="Q140014" description="species of bacterium" idx="88" />
+   <entry id="['id.TO90', 'id.TO91']" term="['M. canis', 'microsporum canis']" wikidataID="Q140376" description="species of fungus" idx="['89', '90']" merged="true">
+<relatedItem role="disease">tinea corporis, tinea faciei, tinea manuum, kerion</relatedItem>
+</entry>
+   <entry id="id.TO91" term="microsporum canis" wikidataID="Q140376" description="species of fungus" idx="90">
+<relatedItem role="disease">tinea corporis, tinea faciei, tinea manuum, kerion</relatedItem>
+</entry>
+   <entry id="id.TO92" term="micrococcus luteus" wikidataID="Q142000" description="species of bacterium" idx="91" />
+   <entry id="['id.TO93', 'id.TO94']" term="['C. tropicalis', 'candida tropicalis']" wikidataID="Q143138" description="species of fungus" idx="['92', '93']" merged="true">
+<relatedItem role="disease">candidiasis</relatedItem>
+</entry>
+   <entry id="id.TO94" term="candida tropicalis" wikidataID="Q143138" description="species of fungus" idx="93" />
+   <entry id="id.TO95" term="histoplasma capsulatum" wikidataID="Q143747" description="species of fungus" idx="94">
+<relatedItem role="disease">Histoplasmosis, systemic&#160;mycoses</relatedItem>
+</entry>
+   <entry id="['id.TO96', 'id.TO97']" term="['C. parapsilosis', 'candida parapsilosis']" wikidataID="Q144068" description="species of fungus" idx="['95', '96']" merged="true" />
+   <entry id="id.TO97" term="candida parapsilosis" wikidataID="Q144068" description="species of fungus" idx="96" />
+   <entry id="id.TO98" term="malassezia" wikidataID="Q14488912" description="genus of fungi" idx="97">
+<relatedItem role="disease">pityriasis&#160;(tinea) versicolor: malassezia (pityrosporum) folliculitis: Seborrhoeic&#160;dermatitis</relatedItem>
+</entry>
+   <entry id="id.TO99" term="penicillium expansum" wikidataID="Q147358" description="species of fungus" idx="98" />
+   <entry id="id.TO100" term="bacillus megaterium" wikidataID="Q148703" description="species of bacterium" idx="99" />
+   <entry id="id.TO101" term="epidermophyton floccosum" wikidataID="Q149541" description="species of fungus" idx="100">
+<relatedItem role="disease">tinea cruris, tinea pedis, majocchi granuloma</relatedItem>
+</entry>
+   <entry id="id.TO102" term="falciformispora senegalensis" wikidataID="Q14954345" description="species of fungus" idx="101">
+<relatedItem role="disease">eumycetoma</relatedItem>
+</entry>
+   <entry id="['id.TO103', 'id.TO102']" term="['leptosphaeria senegalensis', 'falciformispora senegalensis']" wikidataID="Q14954345" description="species of fungus" idx="['102', '101']" merged="true">
+<relatedItem role="disease">eumycetoma</relatedItem>
+</entry>
+   <entry id="id.TO104" term="cryptococcus gattii" wikidataID="Q149791" description="species of fungus" idx="103" />
+   <entry id="id.TO105" term="rhizopus stolonifer" wikidataID="Q1500736" description="species of fungus" idx="104" />
+   <entry id="id.TO106" term="T. violaceum" wikidataID="Q15020872" description="species of fungus" idx="105">
+<relatedItem role="disease">tinea capitis, majocchi granuloma</relatedItem>
+</entry>
+   <entry id="['id.TO107', 'id.TO106']" term="['trichophyton violaceum', 'T. violaceum']" wikidataID="Q15020872" description="species of fungus" idx="['106', '105']" merged="true">
+<relatedItem role="disease">tinea capitis, majocchi granuloma</relatedItem>
+</entry>
+   <entry id="['id.TO108', 'id.TO109']" term="['salmonella', 'salmonella spp']" wikidataID="Q150839" description="genus of bacteria" idx="['107', '108']" merged="true" />
+   <entry id="id.TO109" term="salmonella spp" wikidataID="Q150839" description="genus of bacteria" idx="108" />
+   <entry id="id.TO110" term="Yersinia pestis" wikidataID="Q153875" description="species of bacterium" idx="109">
+<relatedItem role="disease">bubonic&#160;plague, which causes swollen lymph glands and&#160;pustules,&#160;ulcers&#160;and scabs on the skin</relatedItem>
+</entry>
+   <entry id="id.TO111" term="N. meningitidis" wikidataID="Q154625" description="species of bacterium" idx="110">
+<relatedItem role="disease">meningococcal disease</relatedItem>
+</entry>
+   <entry id="['id.TO112', 'id.TO111']" term="['neisseria meningitidis', 'N. meningitidis']" wikidataID="Q154625" description="species of bacterium" idx="['111', '110']" merged="true">
+<relatedItem role="disease">meningococcal disease</relatedItem>
+</entry>
+   <entry id="id.TO113" term="fusicoccum dimidiatum" wikidataID="Q15632444" description="species of fungus" idx="112">
+<relatedItem role="disease">skin and nail infections</relatedItem>
+</entry>
+   <entry id="id.TO114" term="hendersonula toruloidea" wikidataID="Q15632444" description="species of fungus" idx="113">
+<relatedItem role="disease">skin and nail infections</relatedItem>
+</entry>
+   <entry id="id.TO115" term="neofusicoccum dimidiatum" wikidataID="Q15632444" description="species of fungus" idx="114">
+<relatedItem role="disease">skin and nail infections</relatedItem>
+</entry>
+   <entry id="id.TO116" term="neofusicoccum mangiferae" wikidataID="Q15632444" description="species of fungus" idx="115">
+<relatedItem role="disease">skin and nail infections</relatedItem>
+</entry>
+   <entry id="['id.TO117', 'id.TO115', 'id.TO118', 'id.TO114', 'id.TO113', 'id.TO116']" term="['scytalidinum dimidiatum', 'neofusicoccum dimidiatum', 'torula dimidiata', 'hendersonula toruloidea', 'fusicoccum dimidiatum', 'neofusicoccum mangiferae']" wikidataID="Q15632444" description="species of fungus" idx="['116', '114', '117', '113', '112', '115']" merged="true">
+<relatedItem role="disease">skin and nail infections</relatedItem>
+</entry>
+   <entry id="id.TO118" term="torula dimidiata" wikidataID="Q15632444" description="species of fungus" idx="117">
+<relatedItem role="disease">skin and nail infections</relatedItem>
+</entry>
+   <entry id="id.TO119" term="monilinia fructigena" wikidataID="Q1620122" description="species of fungus" idx="118" />
+   <entry id="id.TO120" term="shigella flexneri" wikidataID="Q1644417" description="species of bacterium" idx="119" />
+   <entry id="id.TO121" term="pectobacterium carotovorum" wikidataID="Q164586" description="species of bacterium" idx="120" />
+   <entry id="id.TO122" term="acinetobacter lwoffii" wikidataID="Q17097067" description="species of bacterium" idx="121" />
+   <entry id="id.TO123" term="lactobacillus plantarum" wikidataID="Q1756682" description="species of bacterium" idx="122" />
+   <entry id="id.TO124" term="H. pylori" wikidataID="Q180556" description="species of bacterium" idx="123">
+<relatedItem role="disease">chronic&#160;urticaria,&#160;rosacea</relatedItem>
+</entry>
+   <entry id="['id.TO125', 'id.TO124']" term="['helicobacter pylori', 'H. pylori']" wikidataID="Q180556" description="species of bacterium" idx="['124', '123']" merged="true">
+<relatedItem role="disease">chronic&#160;urticaria,&#160;rosacea</relatedItem>
+</entry>
+   <entry id="id.TO126" term="bacillus firmus" wikidataID="Q18355968" description="species of bacterium" idx="125" />
+   <entry id="id.TO127" term="staphylococcus aureus" wikidataID="Q188121" description="species of bacterium" idx="126">
+<relatedItem role="disease">Folliculitis, Furunculosis&#160;(boils) and&#160;abscesses, Impetigo&#160;(school sores) and&#160;ecthyma, methicillin (meticillin) resistant Staph. aureus, 	Staphylococcal scalded skin&#160;syndrome, toxic&#160;shock syndrome, tropical pyomyositis, Botryomycosis (pyoderma&#160;vegetans)</relatedItem>
+</entry>
+   <entry id="id.TO128" term="streptococci" wikidataID="Q190161" description="genus of bacteria" idx="127" />
+   <entry id="id.TO129" term="streptococcus" wikidataID="Q190161" description="genus of bacteria" idx="128" />
+   <entry id="['id.TO130', 'id.TO128', 'id.TO129']" term="['streptococcus sP.', 'streptococci', 'streptococcus']" wikidataID="Q190161" description="genus of bacteria" idx="['129', '127', '128']" merged="true" />
+   <entry id="id.TO131" term="mycobacterium" wikidataID="Q194309" description="genus of bacteria" idx="130">
+<relatedItem role="disease">tuberculosis,&#160;leprosy&#160;and&#160;atypical&#160;mycobacterial infections&#160;including&#160;Buruli&#160;ulcer</relatedItem>
+</entry>
+   <entry id="id.TO132" term="penicillium funiculosum" wikidataID="Q1948480" description="species of fungus" idx="131" />
+   <entry id="id.TO133" term="leishmania major" wikidataID="Q1950715" description="species of kinetoplastea" idx="132" />
+   <entry id="id.TO134" term="phoma" wikidataID="Q2066891" description="genus of fungi" idx="133">
+<relatedItem role="disease">majocchi granuloma</relatedItem>
+</entry>
+   <entry id="id.TO135" term="stachybotrys chartarum" wikidataID="Q2069249" description="species of fungus" idx="134" />
+   <entry id="id.TO136" term="enterobacter cloacae" wikidataID="Q21102928" description="species of bacterium" idx="135" />
+   <entry id="id.TO137" term="enterococcus faecali" wikidataID="Q21102965" description="species of bacterium" idx="136" />
+   <entry id="id.TO138" term="mycobacterium smegmatis" wikidataID="Q21102986" description="species of bacterium" idx="137" />
+   <entry id="id.TO139" term="bacillus spP." wikidataID="Q212032" description="species of bacterium" idx="138" />
+   <entry id="id.TO140" term="salmonella typhimurium" wikidataID="Q21384413" description="species of bacterium" idx="139" />
+   <entry id="id.TO141" term="paenibacillus ehimensis" wikidataID="Q21399878" description="species of bacterium" idx="140" />
+   <entry id="id.TO142" term="salmonella typhi" wikidataID="Q22111431" description="species of bacterium" idx="141">
+<relatedItem role="disease">typhoid fever</relatedItem>
+</entry>
+   <entry id="id.TO143" term="streptococcus pneumoniae" wikidataID="Q221179" description="species of bacterium" idx="142" />
+   <entry id="id.TO144" term="penicillium viridicatum" wikidataID="Q22285993" description="species of fungus" idx="143" />
+   <entry id="id.TO145" term="salmonella enterica" wikidataID="Q2264864" description="species of bacterium" idx="144" />
+   <entry id="id.TO146" term="monilinia laxa" wikidataID="Q2313186" description="species of fungus" idx="145" />
+   <entry id="id.TO147" term="penicillium marneffei" wikidataID="Q2317277" description="species of fungus" idx="146">
+<relatedItem role="disease">penicilliosis, systemic mycoses</relatedItem>
+</entry>
+   <entry id="['id.TO148', 'id.TO149', 'id.TO150']" term="['E. rhusiopathiae', 'erysipelothrix insidiosa', 'erysipelothrix rhusiopathiae']" wikidataID="Q2346390" description="species of bacterium" idx="['147', '148', '149']" merged="true">
+<relatedItem role="disease">erysipeloid</relatedItem>
+</entry>
+   <entry id="id.TO149" term="erysipelothrix insidiosa" wikidataID="Q2346390" description="species of bacterium" idx="148">
+<relatedItem role="disease">erysipeloid</relatedItem>
+</entry>
+   <entry id="id.TO150" term="erysipelothrix rhusiopathiae" wikidataID="Q2346390" description="species of bacterium" idx="149">
+<relatedItem role="disease">erysipeloid</relatedItem>
+</entry>
+   <entry id="id.TO151" term="eikenella" wikidataID="Q24041581" description="genus of bacteria" idx="150" />
+   <entry id="id.TO152" term="P. acnes" wikidataID="Q2442109" description="species of bacterium" idx="151">
+<relatedItem role="disease">acne</relatedItem>
+</entry>
+   <entry id="id.TO153" term="propionibacterium acne " wikidataID="Q2442109" description="species of fungus" idx="152" />
+   <entry id="['id.TO154', 'id.TO152', 'id.TO153']" term="['propionibacterium Acnes', 'P. acnes', 'propionibacterium acne ']" wikidataID="Q2442109" description="['species of bacterium', 'species of fungus']" idx="['153', '151', '152']" merged="true" />
+   <entry id="id.TO155" term="T. verrucosum" wikidataID="Q2452678" description="species of fungus" idx="154">
+<relatedItem role="disease">tinea barbae, tinea faciei, tinea manuum, kerion</relatedItem>
+</entry>
+   <entry id="['id.TO156', 'id.TO155']" term="['trichophyton verrucosum', 'T. verrucosum']" wikidataID="Q2452678" description="species of fungus" idx="['155', '154']" merged="true">
+<relatedItem role="disease">tinea barbae, tinea faciei, tinea manuum, kerion</relatedItem>
+</entry>
+   <entry id="id.TO157" term="treponema vincenti" wikidataID="Q24975375" description="species of bacterium" idx="156">
+<relatedItem role="disease">tropical ulcer</relatedItem>
+</entry>
+   <entry id="['id.TO158', 'id.TO159']" term="['E. coli', 'escherichia coli']" wikidataID="Q25419" description="species of bacterium" idx="['157', '158']" merged="true" />
+   <entry id="id.TO159" term="escherichia coli" wikidataID="Q25419" description="species of bacterium" idx="158" />
+   <entry id="id.TO160" term="actinomadura madurae" wikidataID="Q25833899" description="species of bacterium" idx="159">
+<relatedItem role="disease">actinomycetoma</relatedItem>
+</entry>
+   <entry id="id.TO161" term="actinomadura pelletieri" wikidataID="Q25833942" description="species of bacterium" idx="160">
+<relatedItem role="disease">actinomycetoma</relatedItem>
+</entry>
+   <entry id="id.TO162" term="bacillus foraminis" wikidataID="Q25840064" description="species of bacterium" idx="161" />
+   <entry id="['id.TO163', 'id.TO164']" term="['nocardia caviae', 'nocardia otitidiscaviarum']" wikidataID="Q26268824" description="species of bacterium" idx="['162', '163']" merged="true">
+<relatedItem role="disease">actinomycetoma</relatedItem>
+</entry>
+   <entry id="id.TO164" term="nocardia otitidiscaviarum" wikidataID="Q26268824" description="species of bacterium" idx="163">
+<relatedItem role="disease">actinomycetoma</relatedItem>
+</entry>
+   <entry id="id.TO165" term="streptomyces somaliensis" wikidataID="Q26292681" description="species of fungus" idx="164">
+<relatedItem role="disease">actinomycetoma</relatedItem>
+</entry>
+   <entry id="id.TO166" term="shigella dysenteriae" wikidataID="Q265094" description="species of bacterium" idx="165" />
+   <entry id="['id.TO167', 'id.TO168']" term="['fusarium moniliforme', 'fusarium verticillioides']" wikidataID="Q26828071" description="species of fungus" idx="['166', '167']" merged="true" />
+   <entry id="id.TO168" term="fusarium verticillioides" wikidataID="Q26828071" description="species of fungus" idx="167" />
+   <entry id="id.TO169" term="aeromonas hydrophila" wikidataID="Q2697755" description="species of bacterium" idx="168">
+<relatedItem role="disease">Folliculitis&#160;(pustules) and&#160;abscesses; Impetigo-like&#160;rash&#160;with&#160;crusting&#160;and&#160;erosions&#160;that leads to&#160;ecthyma gangrenosum; Cellulitis&#160;&#8212; redness and swelling involving deeper skin; Necrotising&#160;fasciitis&#160;&#8212; a rapidly destructive deep soft tissue and muscle infection; Sepsis&#160;(blood-borne infection) &#8212; causing&#160;fever, fast pulse,&#160;malaise&#160;and blood count abnormalities (raised white cells, reduced&#160;platelets).&#160;Aeromonas&#160;sepsis is potentially very dangerous</relatedItem>
+</entry>
+   <entry id="id.TO170" term="verticillium dahliae" wikidataID="Q2699339" description="species of fungus" idx="169" />
+   <entry id="id.TO171" term="proteus vulgaris" wikidataID="Q2701588" description="species of bacterium" idx="170" />
+   <entry id="id.TO172" term="alternaria alternata" wikidataID="Q2704244" description="species of fungus" idx="171" />
+   <entry id="id.TO173" term="fusarium culmorum" wikidataID="Q2712591" description="species of fungus" idx="172" />
+   <entry id="id.TO174" term="trichomonas gallinae" wikidataID="Q2715006" description="species of fungus" idx="173" />
+   <entry id="id.TO175" term="borrelia burgdorferi" wikidataID="Q2723634" description="genus of bacteria" idx="174">
+<relatedItem role="disease">Lyme disease</relatedItem>
+</entry>
+   <entry id="id.TO176" term="bacillus licheniformis" wikidataID="Q2878356" description="species of bacterium" idx="175" />
+   <entry id="id.TO177" term="fusarium graminearum" wikidataID="Q288349" description="species of fungus" idx="176" />
+   <entry id="['id.TO178', 'id.TO177']" term="['gibberella zeae', 'fusarium graminearum']" wikidataID="Q288349" description="species of fungus" idx="['177', '176']" merged="true" />
+   <entry id="['id.TO179', 'id.TO180']" term="['C. krusei', 'candida krusei']" wikidataID="Q289229" description="species of fungus" idx="['178', '179']" merged="true" />
+   <entry id="id.TO180" term="candida krusei" wikidataID="Q289229" description="species of fungus" idx="179" />
+   <entry id="id.TO181" term="S schenckii" wikidataID="Q2914796" description="species of fungus" idx="180">
+<relatedItem role="disease">sporotrichoid lymphocutaneous, sporotrichosis</relatedItem>
+</entry>
+   <entry id="['id.TO182', 'id.TO183', 'id.TO181']" term="['S. schenckii', 'sporothrix schenckii', 'S schenckii']" wikidataID="Q2914796" description="species of fungus" idx="['181', '182', '180']" merged="true">
+<relatedItem role="disease">sporotrichoid lymphocutaneous, sporotrichosis</relatedItem>
+</entry>
+   <entry id="id.TO183" term="sporothrix schenckii" wikidataID="Q2914796" description="species of fungus" idx="182">
+<relatedItem role="disease">sporotrichoid lymphocutaneous, sporotrichosis</relatedItem>
+</entry>
+   <entry id="id.TO184" term="listeria monocytogenes" wikidataID="Q292015" description="species of bacterium" idx="183">
+<relatedItem role="disease">cutaneous&#160;listeriosis</relatedItem>
+</entry>
+   <entry id="id.TO185" term="clavibacter michiganensis" wikidataID="Q2978666" description="species of bacterium" idx="184" />
+   <entry id="id.TO186" term="blastomyces dermatitidis" wikidataID="Q3012311" description="species of fungus" idx="185">
+<relatedItem role="disease">blastomycosis, systemic mycoses</relatedItem>
+</entry>
+   <entry id="id.TO187" term="macrophomina phaseolina" wikidataID="Q3018557" description="species of fungus" idx="186" />
+   <entry id="id.TO188" term="leishmania amazonensis" wikidataID="Q30314626" description="species of protozoa" idx="187" />
+   <entry id="id.TO189" term="clostridium perfringens" wikidataID="Q309465" description="species of bacterium" idx="188">
+<relatedItem role="disease">gas gangrene</relatedItem>
+</entry>
+   <entry id="id.TO190" term="pseudomonas savastanoi" wikidataID="Q309784" description="species of bacterium" idx="189" />
+   <entry id="id.TO191" term="paracoccidioides brasiliensis" wikidataID="Q310186" description="species of fungus" idx="190">
+<relatedItem role="disease">systemic mycoses, paracoccidioidomycosis</relatedItem>
+</entry>
+   <entry id="id.TO192" term="C. albicans" wikidataID="Q310443" description="species of fungus" idx="191">
+<relatedItem role="disease">napkin dermatitis (diaper rash), tinea unguium&#160;(onychomycosis, fungal nail infection), Candidiasis</relatedItem>
+</entry>
+   <entry id="['id.TO193', 'id.TO192']" term="['candida albicans', 'C. albicans']" wikidataID="Q310443" description="species of fungus" idx="['192', '191']" merged="true">
+<relatedItem role="disease">napkin dermatitis (diaper rash), tinea unguium&#160;(onychomycosis, fungal nail infection), Candidiasis</relatedItem>
+</entry>
+   <entry id="id.TO194" term="streptococcus uberis" wikidataID="Q310707" description="species of bacterium" idx="193" />
+   <entry id="id.TO195" term="mycobacterium avium" wikidataID="Q310728" description="species of bacterium" idx="194" />
+   <entry id="['id.TO196', 'id.TO195']" term="['mycobacteriun avium avium', 'mycobacterium avium']" wikidataID="Q310728" description="species of bacterium" idx="['195', '194']" merged="true" />
+   <entry id="id.TO197" term="mycoplasma pneumoniae" wikidataID="Q310904" description="species of bacterium" idx="196">
+<relatedItem role="disease">non-specific erythema,&#160;bullous&#160;eruptions,&#160;urticarial&#160;rashes,&#160;erythema multiforme,&#160;mucositis&#160;and rarely,&#160;SJS/tEn</relatedItem>
+</entry>
+   <entry id="id.TO198" term="trichophyton" wikidataID="Q310925" description="genus of fungi" idx="197" />
+   <entry id="id.TO199" term="trichophyton spP." wikidataID="Q310925" description="genus of fungi" idx="198" />
+   <entry id="['id.TO200', 'id.TO198', 'id.TO199']" term="['trichophytona', 'trichophyton', 'trichophyton spP.']" wikidataID="Q310925" description="genus of fungi" idx="['199', '197', '198']" merged="true" />
+   <entry id="id.TO201" term="pseudomonas syringae" wikidataID="Q311202" description="species of bacterium" idx="200" />
+   <entry id="['id.TO202', 'id.TO203']" term="['malassezia Furfur', 'pityrosporum ovale']" wikidataID="Q311343" description="species of fungus" idx="['201', '202']" merged="true" />
+   <entry id="id.TO203" term="pityrosporum ovale" wikidataID="Q311343" description="species of fungus" idx="202" />
+   <entry id="id.TO204" term="actinomyces" wikidataID="Q312213" description="genus of bacteria" idx="203">
+<relatedItem role="disease">actinomycosis, mycetoma, Actinomycetoma</relatedItem>
+</entry>
+   <entry id="id.TO205" term="brucella" wikidataID="Q313358" description="genus of bacteria" idx="204">
+<relatedItem role="disease">brucellosis</relatedItem>
+</entry>
+   <entry id="id.TO206" term="pseudomonas aeruginosa" wikidataID="Q31856" description="species of bacterium" idx="205">
+<relatedItem role="disease">causes wound infections,&#160;athlete's foot,&#160;gram-negative folliculitis, chronic&#160;paronychia&#160;(green nail syndrome),&#160;spa pool folliculitis&#160;and&#160;ecthyma gangrenosum</relatedItem>
+</entry>
+   <entry id="['id.TO207', 'id.TO206']" term="['pseudomonas aeruginosa ', 'pseudomonas aeruginosa']" wikidataID="Q31856" description="species of bacterium" idx="['206', '205']" merged="true">
+<relatedItem role="disease">causes wound infections,&#160;athlete's foot,&#160;gram-negative folliculitis, chronic&#160;paronychia&#160;(green nail syndrome),&#160;spa pool folliculitis&#160;and&#160;ecthyma gangrenosum</relatedItem>
+</entry>
+   <entry id="['id.TO208', 'id.TO209']" term="['C. dubliniensis', 'candida dubliniensis']" wikidataID="Q3247005" description="species of fungus" idx="['207', '208']" merged="true" />
+   <entry id="id.TO209" term="candida dubliniensis" wikidataID="Q3247005" description="species of fungus" idx="208" />
+   <entry id="id.TO210" term="trypanosoma brucei" wikidataID="Q33244" description="species of kinetoplastea" idx="209" />
+   <entry id="id.TO211" term="aspergillus" wikidataID="Q335130" description="genus of fungi" idx="210">
+<relatedItem role="disease">skin and nail infections, majocchi granuloma</relatedItem>
+</entry>
+   <entry id="['id.TO212', 'id.TO211']" term="['aspergillus spP.', 'aspergillus']" wikidataID="Q335130" description="genus of fungi" idx="['211', '210']" merged="true">
+<relatedItem role="disease">skin and nail infections, majocchi granuloma</relatedItem>
+</entry>
+   <entry id="id.TO213" term="pectobacterium atrosepticum" wikidataID="Q3373933" description="species of bacterium" idx="212" />
+   <entry id="id.TO214" term="zygomycetes" wikidataID="Q3543148" description="order of Actinobacteria" idx="213" />
+   <entry id="id.TO215" term="acetobacter aceti" wikidataID="Q3604286" description="species of bacterium" idx="214" />
+   <entry id="id.TO216" term="brochothrix thermosphacta" wikidataID="Q3645205" description="genus of bacteria" idx="215" />
+   <entry id="id.TO217" term="colletotrichum gloeosporioides" wikidataID="Q3683010" description="species of fungus" idx="216" />
+   <entry id="id.TO218" term="xanthomonas campestris" wikidataID="Q3753551" description="species of bacterium" idx="217" />
+   <entry id="id.TO219" term="enterobacteriaceae" wikidataID="Q380136" description="genus of bacteria" idx="218" />
+   <entry id="id.TO220" term="listeria ivanovii" wikidataID="Q3834924" description="species of bacterium" idx="219" />
+   <entry id="id.TO221" term="T. schoenleinii" wikidataID="Q3998699" description="species of fungus" idx="220">
+<relatedItem role="disease">tinea capitis</relatedItem>
+</entry>
+   <entry id="['id.TO222', 'id.TO221']" term="['trichophyton schoenleinii', 'T. schoenleinii']" wikidataID="Q3998699" description="species of fungus" idx="['221', '220']" merged="true">
+<relatedItem role="disease">favus</relatedItem>
+</entry>
+   <entry id="id.TO223" term="micrococcus flavus" wikidataID="Q4044201" description="species of bacterium" idx="222" />
+   <entry id="id.TO224" term="cryptococcus grubii" wikidataID="Q43888767" description="species of fungus" idx="223" />
+   <entry id="id.TO225" term="nocardia brasiliensis" wikidataID="Q4425574" description="species of fungus" idx="224">
+<relatedItem role="disease">actinomycetoma</relatedItem>
+</entry>
+   <entry id="id.TO226" term="acremonium spP." wikidataID="Q4675103" description="genus of fungi" idx="225">
+<relatedItem role="disease">eumycetoma, skin and nail infections</relatedItem>
+</entry>
+   <entry id="id.TO227" term="aspergillus ochraceus" wikidataID="Q4807897" description="species of fungus" idx="226" />
+   <entry id="id.TO228" term="Bacillus&#160;fusiformis" wikidataID="Q4838964" description="species of bacterium" idx="227">
+<relatedItem role="disease">tropical ulcer</relatedItem>
+</entry>
+   <entry id="id.TO229" term="bacillus halodurans" wikidataID="Q4838967" description="species of bacterium" idx="228" />
+   <entry id="id.TO230" term="basidiobolus ranarum" wikidataID="Q4867065" description="species of fungus" idx="229">
+<relatedItem role="disease">Entomophthorales, Zygomycosis</relatedItem>
+</entry>
+   <entry id="id.TO231" term="shigella boydii" wikidataID="Q4892937" description="species of bacterium" idx="230" />
+   <entry id="id.TO232" term="mycobacterium marinum" wikidataID="Q508803" description="species of bacterium" idx="231">
+<relatedItem role="disease">sporotrichoid lymphocutaneous</relatedItem>
+</entry>
+   <entry id="id.TO233" term="fusarium sporotrichioides" wikidataID="Q5114748" description="species of fungus" idx="232" />
+   <entry id="id.TO234" term="cladosporium cladosporioides" wikidataID="Q5124957" description="species of fungus" idx="233" />
+   <entry id="id.TO235" term="coccidioides immitis" wikidataID="Q5139154" description="species of fungus" idx="234">
+<relatedItem role="disease">systemic mycoses</relatedItem>
+</entry>
+   <entry id="id.TO236" term="colletotrichum acutatum" wikidataID="Q5147068" description="species of fungus" idx="235" />
+   <entry id="id.TO237" term="colletotrichum fragariae" wikidataID="Q5147078" description="species of fungus" idx="236" />
+   <entry id="id.TO238" term="conidiobolus spP." wikidataID="Q5161046" description="genus of fungi" idx="237" />
+   <entry id="id.TO239" term="conidiobolus incongruus" wikidataID="Q5161050" description="species of fungus" idx="238">
+<relatedItem role="disease">Entomophthorales, Zygomycosis</relatedItem>
+</entry>
+   <entry id="['id.TO240', 'id.TO241', 'id.TO242']" term="['C. kefyr', 'candida kefyr', 'kluyveromyces marxianus']" wikidataID="Q5222586" description="species of fungus" idx="['239', '240', '241']" merged="true" />
+   <entry id="id.TO241" term="candida kefyr" wikidataID="Q5222586" description="species of fungus" idx="240" />
+   <entry id="id.TO242" term="kluyveromyces marxianus" wikidataID="Q5222586" description="species of fungus" idx="241" />
+   <entry id="id.TO243" term="leishmania" wikidataID="Q524818" description="genus of protozoa" idx="242" />
+   <entry id="id.TO244" term="dickeya solani" wikidataID="Q5273669" description="species of bacterium" idx="243" />
+   <entry id="id.TO245" term="enterococcus durans" wikidataID="Q5380224" description="species of bacterium" idx="244" />
+   <entry id="id.TO246" term="exophiala dermatitidis" wikidataID="Q5420632" description="species of fungus" idx="245" />
+   <entry id="id.TO247" term="exophiala jeanselmei" wikidataID="Q5420633" description="species of fungus" idx="246">
+<relatedItem role="disease">eumycetoma</relatedItem>
+</entry>
+   <entry id="id.TO248" term="falciformispora" wikidataID="Q5431695" description="genus of fungi" idx="247" />
+   <entry id="id.TO249" term="rhizoctonia solani" wikidataID="Q54363941" description="species of fungus" idx="248" />
+   <entry id="id.TO250" term="curvularia Lunata" wikidataID="Q54366202" description="species of fungus" idx="249">
+<relatedItem role="disease">eumycetoma</relatedItem>
+</entry>
+   <entry id="id.TO251" term="scopulariopsis brevicaulis" wikidataID="Q54370258" description="species of fungus" idx="250">
+<relatedItem role="disease">tinea unguium&#160;(onychomycosis, fungal nail infection), skin and nail infections</relatedItem>
+</entry>
+   <entry id="id.TO252" term="scedosporium apiospermum" wikidataID="Q54371054" description="species of fungus" idx="251">
+<relatedItem role="disease">eumycetoma</relatedItem>
+</entry>
+   <entry id="id.TO253" term="fonsecaea compacta" wikidataID="Q5465070" description="species of fungus" idx="252">
+<relatedItem role="disease">chromoblastomycosis</relatedItem>
+</entry>
+   <entry id="id.TO254" term="fonsecaea pedrosoi" wikidataID="Q5465077" description="species of fungus" idx="253">
+<relatedItem role="disease">chromoblastomycosis</relatedItem>
+</entry>
+   <entry id="['id.TO255', 'id.TO256']" term="['hortaea werneckii', 'phaeoannellomyces werneckii']" wikidataID="Q5906640" description="species of fungus" idx="['254', '255']" merged="true">
+<relatedItem role="disease">tinea nigra</relatedItem>
+</entry>
+   <entry id="id.TO256" term="phaeoannellomyces werneckii" wikidataID="Q5906640" description="species of fungus" idx="255">
+<relatedItem role="disease">tinea nigra</relatedItem>
+</entry>
+   <entry id="['id.TO257', 'id.TO258']" term="['T. tonsurans', 'trichophyton tonsurans']" wikidataID="Q5928559" description="species of fungus" idx="['256', '257']" merged="true">
+<relatedItem role="disease">majocchi granuloma, kerion</relatedItem>
+</entry>
+   <entry id="id.TO258" term="trichophyton tonsurans" wikidataID="Q5928559" description="species of fungus" idx="257">
+<relatedItem role="disease">majocchi granuloma, kerion</relatedItem>
+</entry>
+   <entry id="id.TO259" term="cladosporium werneckii" wikidataID="Q59511965" description="species of fungus" idx="258">
+<relatedItem role="disease">tinea nigra</relatedItem>
+</entry>
+   <entry id="id.TO260" term="bacillus anthracis" wikidataID="Q614156" description="species of bacterium" idx="259">
+<relatedItem role="disease">anthrax</relatedItem>
+</entry>
+   <entry id="['id.TO261', 'id.TO262']" term="['C. Acnes', 'cutibacterium Acnes']" wikidataID="Q62849218" description="species of bacterium" idx="['260', '261']" merged="true">
+<relatedItem role="disease">Acne</relatedItem>
+</entry>
+   <entry id="id.TO262" term="cutibacterium Acnes" wikidataID="Q62849218" description="species of bacterium" idx="261">
+<relatedItem role="disease">Acne</relatedItem>
+</entry>
+   <entry id="id.TO263" term="calymmatobacterium granulomatis" wikidataID="Q62895839" description="species of bacterium" idx="262">
+<relatedItem role="disease">granuloma&#160;inguinale</relatedItem>
+</entry>
+   <entry id="id.TO264" term="klebsiella rhinoscleromatis" wikidataID="Q62896607" description="species of bacterium" idx="263">
+<relatedItem role="disease">rhinoscleroma</relatedItem>
+</entry>
+   <entry id="id.TO265" term="salmonella choleraesuis" wikidataID="Q62897310" description="species of bacterium" idx="264" />
+   <entry id="id.TO266" term="salmonella enteritidis" wikidataID="Q62897324" description="species of bacterium" idx="265" />
+   <entry id="id.TO267" term="salmonella paratyphi" wikidataID="Q62897340" description="species of bacterium" idx="266" />
+   <entry id="id.TO268" term="shigella sonnei" wikidataID="Q6382438" description="species of bacterium" idx="267" />
+   <entry id="id.TO269" term="microsporum spP." wikidataID="Q639799" description="genus of fungi" idx="268">
+<relatedItem role="disease">tinea incognita</relatedItem>
+</entry>
+   <entry id="id.TO270" term="madurella mycetomatis" wikidataID="Q6728855" description="species of fungus" idx="269">
+<relatedItem role="disease">eumycetoma</relatedItem>
+</entry>
+   <entry id="['id.TO271', 'id.TO272']" term="['madurella grisea', 'trematosphaeria grisea']" wikidataID="Q6728856" description="species of fungus" idx="['270', '271']" merged="true">
+<relatedItem role="disease">eumycetoma</relatedItem>
+</entry>
+   <entry id="id.TO272" term="trematosphaeria grisea" wikidataID="Q6728856" description="species of fungus" idx="271">
+<relatedItem role="disease">eumycetoma</relatedItem>
+</entry>
+   <entry id="id.TO273" term="aspergillus nidulans" wikidataID="Q683881" description="species of fungus" idx="272">
+<relatedItem role="disease">eumycetoma</relatedItem>
+</entry>
+   <entry id="['id.TO274', 'id.TO275']" term="['M. audouinii', 'microsporum audouinii']" wikidataID="Q6840331" description="species of fungus" idx="['273', '274']" merged="true">
+<relatedItem role="disease">tinea capitis, eumycetoma</relatedItem>
+</entry>
+   <entry id="id.TO275" term="microsporum audouinii" wikidataID="Q6840331" description="species of fungus" idx="274">
+<relatedItem role="disease">tinea capitis, eumycetoma</relatedItem>
+</entry>
+   <entry id="id.TO276" term="monilinia fructicola" wikidataID="Q6900282" description="species of fungus" idx="275" />
+   <entry id="id.TO277" term="pantoea sP." wikidataID="Q7131869" description="genus of bacteria" idx="276" />
+   <entry id="id.TO278" term="penicillium purpurogenum" wikidataID="Q7162871" description="species of fungus" idx="277" />
+   <entry id="id.TO279" term="phialophora verrucosa" wikidataID="Q7181600" description="species of fungus" idx="278">
+<relatedItem role="disease">chromoblastomycosis</relatedItem>
+</entry>
+   <entry id="id.TO280" term="photobacterium phosphoreum" wikidataID="Q7187716" description="species of bacterium" idx="279" />
+   <entry id="['id.TO281', 'id.TO282']" term="['saccharomyces cerevisiae', 'sacharomyces cerevaceae']" wikidataID="Q719725" description="species of fungus" idx="['280', '281']" merged="true">
+<relatedItem role="disease">crohn's disease</relatedItem>
+</entry>
+   <entry id="id.TO282" term="sacharomyces cerevaceae" wikidataID="Q719725" description="species of fungus" idx="281">
+<relatedItem role="disease">crohn's disease</relatedItem>
+</entry>
+   <entry id="['id.TO283', 'id.TO284']" term="['pseudallescheria boydii', 'scedosporium boydii']" wikidataID="Q7254196" description="species of fungus" idx="['282', '283']" merged="true" />
+   <entry id="id.TO284" term="scedosporium boydii" wikidataID="Q7254196" description="species of fungus" idx="283">
+<relatedItem role="disease">eumycetoma</relatedItem>
+</entry>
+   <entry id="id.TO285" term="sarocladium oryzae" wikidataID="Q7424430" description="species of fungus" idx="284" />
+   <entry id="id.TO286" term="listeria spP." wikidataID="Q746209" description="genus of bacteria" idx="285" />
+   <entry id="id.TO287" term="streptococcus viridans" wikidataID="Q751405" description="species of bacterium" idx="286" />
+   <entry id="id.TO288" term="vibrio" wikidataID="Q753490" description="genus of bacteria" idx="287" />
+   <entry id="['id.TO289', 'id.TO288']" term="['vibrio spp', 'vibrio']" wikidataID="Q753490" description="['species of bacterium', 'genus of bacteria']" idx="['288', '287']" merged="true" />
+   <entry id="id.TO290" term="babesia microti" wikidataID="Q7777786" description="species of protist" idx="289">
+<relatedItem role="disease">Relapsing fever</relatedItem>
+</entry>
+   <entry id="['id.TO291', 'id.TO292']" term="['T. interdigitale', 'trichophyton interdigitale']" wikidataID="Q7840903" description="species of fungus" idx="['290', '291']" merged="true">
+<relatedItem role="disease">tinea pedis</relatedItem>
+</entry>
+   <entry id="id.TO292" term="trichophyton interdigitale" wikidataID="Q7840903" description="species of fungus" idx="291">
+<relatedItem role="disease">tinea pedis</relatedItem>
+</entry>
+   <entry id="id.TO293" term="nannizzia gypsea" wikidataID="Q80869419" description="species of fungus" idx="292">
+<relatedItem role="disease">tinea manuum</relatedItem>
+</entry>
+   <entry id="id.TO294" term="penicillium spP." wikidataID="Q843136" description="genus of fungi" idx="293" />
+   <entry id="id.TO295" term="sclerotium rolfsii" wikidataID="Q84848044" description="species of fungus" idx="294" />
+   <entry id="id.TO296" term="T. mentagrophytes" wikidataID="Q84851010" description="species of fungus" idx="295">
+<relatedItem role="disease">tinea barbae, tinea pedis, kerion, majocchi granuloma</relatedItem>
+</entry>
+   <entry id="['id.TO297', 'id.TO296']" term="['tricophyton mentagrophytes', 'T. mentagrophytes']" wikidataID="Q84851010" description="species of fungus" idx="['296', '295']" merged="true">
+<relatedItem role="disease">tinea barbae, tinea pedis, kerion, majocchi granuloma</relatedItem>
+</entry>
+   <entry id="id.TO298" term="exophiala werneckii" wikidataID="Q87782198" description="species of fungus" idx="297">
+<relatedItem role="disease">tinea nigra</relatedItem>
+</entry>
+   <entry id="id.TO299" term="falciformispora thompkinsii" wikidataID="Q87782203" description="species of fungus" idx="298">
+<relatedItem role="disease">eumycetoma</relatedItem>
+</entry>
+   <entry id="id.TO300" term="leishmania brasiliensis" wikidataID="Q87824366" description="protozoan endoparasite" idx="299">
+<relatedItem role="disease">sporotrichoid lymphocutaneous</relatedItem>
+</entry>
+   <entry id="id.TO301" term="pleurostomophora ochracea" wikidataID="Q87826794" description="species of fungus" idx="300">
+<relatedItem role="disease">actinomycetoma</relatedItem>
+</entry>
+   <entry id="id.TO302" term="scytalidinium hyalinum" wikidataID="Q87827970" description="species of fungus" idx="301">
+<relatedItem role="disease">skin and nail infections</relatedItem>
+</entry>
+   <entry id="id.TO303" term="tiarosporella phaseolina" wikidataID="Q87829561" description="species of fungus" idx="302" />
+   <entry id="id.TO304" term="trichophyton erinacei" wikidataID="Q87835500" description="species of fungus" idx="303">
+<relatedItem role="disease">tinea manuum</relatedItem>
+</entry>
+   <entry id="id.TO305" term="exophiala phaeoannellomyces" wikidataID="Q87902955" description="species of fungus" idx="304">
+<relatedItem role="disease">tinea nigra</relatedItem>
+</entry>
+   <entry id="['id.TO306', 'id.TO307']" term="['C. guilliermondii', 'candida guilliermondii']" wikidataID="Q9694140" description="species of fungus" idx="['305', '306']" merged="true">
+<relatedItem role="disease">candidiasis</relatedItem>
+</entry>
+   <entry id="id.TO307" term="candida guilliermondii" wikidataID="Q9694140" description="species of fungus" idx="306">
+<relatedItem role="disease">candidiasis</relatedItem>
+</entry>
+</dictionary>
