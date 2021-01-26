@@ -40,7 +40,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="metronidazole" term="metronidazole" wikidataURL="http://www.wikidata.org/entity/Q169569" wikipediaURL="https://en.wikipedia.org/wiki/Metronidazole" wikidataID="Q169569" idx="2">
+<entry name="metronidazole" term="metronidazole" wikidataURL="http://www.wikidata.org/entity/Q169569" wikipediaURL="https://en.wikipedia.org/wiki/Metronidazole" wikidataID="Q169569" idx="['2', '3']" merged="true">
   <synonym>Noritate</synonym>
   <synonym>Metronidazole</synonym>
   <synonym>Vandazole</synonym>
@@ -84,7 +84,7 @@
 <description xml:lang="Spanish">compuesto qu&#237;mico</description>
 <synonym xml:lang="Tamil">&#2990;&#3014;&#2975;&#3021;&#2992;&#3019;&#2985;&#3007;&#2975;&#2970;&#3019;&#2994;&#3021;</synonym></entry>
  
-<entry name="metronidazole" term="metronidazole" wikidataURL="http://www.wikidata.org/entity/Q169569" wikipediaURL="https://en.wikipedia.org/wiki/Metronidazole" wikidataID="Q169569" idx="['3', '2']" merged="true">
+<entry name="metronidazole" term="metronidazole" wikidataURL="http://www.wikidata.org/entity/Q169569" wikipediaURL="https://en.wikipedia.org/wiki/Metronidazole" wikidataID="Q169569" idx="3">
   <synonym>Noritate</synonym>
   <synonym>Metronidazole</synonym>
   <synonym>Vandazole</synonym>
@@ -192,7 +192,7 @@
 <synonym xml:lang="Spanish">Triamtereno</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="creatine" term="creatine" wikidataURL="http://www.wikidata.org/entity/Q223600" wikipediaURL="https://en.wikipedia.org/wiki/Creatine" wikidataID="Q223600" idx="7">
+<entry name="creatine" term="creatine" wikidataURL="http://www.wikidata.org/entity/Q223600" wikipediaURL="https://en.wikipedia.org/wiki/Creatine" wikidataID="Q223600" idx="['7', '8']" merged="true">
   <synonym>Creatine</synonym>
   <synonym>((amino(Imino)methyl)(methyl)amino)acetic acid</synonym>
   <synonym>(alpha-Methylguanido)acetic acid</synonym>
@@ -217,7 +217,7 @@
 <synonym xml:lang="Spanish">Creatina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="creatine" term="creatine" wikidataURL="http://www.wikidata.org/entity/Q223600" wikipediaURL="https://en.wikipedia.org/wiki/Creatine" wikidataID="Q223600" idx="['8', '7']" merged="true">
+<entry name="creatine" term="creatine" wikidataURL="http://www.wikidata.org/entity/Q223600" wikipediaURL="https://en.wikipedia.org/wiki/Creatine" wikidataID="Q223600" idx="8">
   <synonym>Creatine</synonym>
   <synonym>((amino(Imino)methyl)(methyl)amino)acetic acid</synonym>
   <synonym>(alpha-Methylguanido)acetic acid</synonym>
@@ -314,7 +314,7 @@
 <synonym xml:lang="Spanish">Fluorocitosina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="fluorouracil" term="fluorouracil" wikidataURL="http://www.wikidata.org/entity/Q238512" wikipediaURL="https://en.wikipedia.org/wiki/Fluorouracil" wikidataID="Q238512" idx="13">
+<entry name="fluorouracil" term="fluorouracil" wikidataURL="http://www.wikidata.org/entity/Q238512" wikipediaURL="https://en.wikipedia.org/wiki/Fluorouracil" wikidataID="Q238512" idx="['13', '14']" merged="true">
   <synonym>FU</synonym>
   <synonym>5-Fluoracil</synonym>
   <synonym>5-Fluoropyrimidine-2</synonym>
@@ -337,7 +337,7 @@
 <synonym xml:lang="Spanish">5-fluorouracilo</synonym>&gt;
 <description xml:lang="Spanish">potente antimetabolito utilizado en algunas formas de c&#225;ncer</description></entry>
  
-<entry name="fluorouracil" term="fluorouracil" wikidataURL="http://www.wikidata.org/entity/Q238512" wikipediaURL="https://en.wikipedia.org/wiki/Fluorouracil" wikidataID="Q238512" idx="['14', '13']" merged="true">
+<entry name="fluorouracil" term="fluorouracil" wikidataURL="http://www.wikidata.org/entity/Q238512" wikipediaURL="https://en.wikipedia.org/wiki/Fluorouracil" wikidataID="Q238512" idx="14">
   <synonym>FU</synonym>
   <synonym>5-Fluoracil</synonym>
   <synonym>5-Fluoropyrimidine-2</synonym>
@@ -1692,7 +1692,7 @@
 <synonym xml:lang="Spanish">Eribulina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="celecoxib" term="celecoxib" wikidataURL="http://www.wikidata.org/entity/Q408801" wikipediaURL="https://en.wikipedia.org/wiki/Celecoxib" wikidataID="Q408801" idx="70">
+<entry name="celecoxib" term="celecoxib" wikidataURL="http://www.wikidata.org/entity/Q408801" wikipediaURL="https://en.wikipedia.org/wiki/Celecoxib" wikidataID="Q408801" idx="['70', '71']" merged="true">
   <synonym>Celecoxib</synonym>
   <synonym>4-[5-(4-methylphenyl)-3-(trifluoromethyl)-1H-pyrazol-1-yl]benzene-1-sulfonamide</synonym>
   <synonym>4-[5-(4-Methylphenyl)-3-trifluoromethyl)-1H-pyrazol-yl]benzenesulfonamide</synonym>
@@ -1710,7 +1710,7 @@
 <synonym xml:lang="Spanish">Celecoxib</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="celecoxib" term="celecoxib" wikidataURL="http://www.wikidata.org/entity/Q408801" wikipediaURL="https://en.wikipedia.org/wiki/Celecoxib" wikidataID="Q408801" idx="['71', '70']" merged="true">
+<entry name="celecoxib" term="celecoxib" wikidataURL="http://www.wikidata.org/entity/Q408801" wikipediaURL="https://en.wikipedia.org/wiki/Celecoxib" wikidataID="Q408801" idx="71">
   <synonym>Celecoxib</synonym>
   <synonym>4-[5-(4-methylphenyl)-3-(trifluoromethyl)-1H-pyrazol-1-yl]benzene-1-sulfonamide</synonym>
   <synonym>4-[5-(4-Methylphenyl)-3-trifluoromethyl)-1H-pyrazol-yl]benzenesulfonamide</synonym>
@@ -1728,7 +1728,7 @@
 <synonym xml:lang="Spanish">Celecoxib</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="thymol" term="thymol" wikidataURL="http://www.wikidata.org/entity/Q408883" wikipediaURL="https://en.wikipedia.org/wiki/Thymol" wikidataID="Q408883" idx="72">
+<entry name="thymol" term="thymol" wikidataURL="http://www.wikidata.org/entity/Q408883" wikipediaURL="https://en.wikipedia.org/wiki/Thymol" wikidataID="Q408883" idx="['72', '73']" merged="true">
   <synonym>IPMP</synonym>
   <synonym>1-hydroxy-5-methyl-2-isopropylbenzene</synonym>
   <synonym>1-Methyl-3-hydroxy-4-isopropylbenzene</synonym>
@@ -1761,7 +1761,7 @@
 <synonym xml:lang="Spanish">Timol</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="thymol" term="thymol" wikidataURL="http://www.wikidata.org/entity/Q408883" wikipediaURL="https://en.wikipedia.org/wiki/Thymol" wikidataID="Q408883" idx="['73', '72']" merged="true">
+<entry name="thymol" term="thymol" wikidataURL="http://www.wikidata.org/entity/Q408883" wikipediaURL="https://en.wikipedia.org/wiki/Thymol" wikidataID="Q408883" idx="73">
   <synonym>IPMP</synonym>
   <synonym>1-hydroxy-5-methyl-2-isopropylbenzene</synonym>
   <synonym>1-Methyl-3-hydroxy-4-isopropylbenzene</synonym>
@@ -2527,7 +2527,7 @@
 <synonym xml:lang="Spanish">sertralina</synonym>&gt;
 <description xml:lang="Spanish">antidepresivo perteneciente al grupo de los ISR</description></entry>
  
-<entry name="buprenorphine" term="buprenorphine" wikidataURL="http://www.wikidata.org/entity/Q407721" wikipediaURL="https://en.wikipedia.org/wiki/Buprenorphine" wikidataID="Q407721" idx="110">
+<entry name="buprenorphine" term="buprenorphine" wikidataURL="http://www.wikidata.org/entity/Q407721" wikipediaURL="https://en.wikipedia.org/wiki/Buprenorphine" wikidataID="Q407721" idx="['110', '111']" merged="true">
   <synonym>Buprenorphine</synonym>
   <synonym>(-)-buprenorphine</synonym>
   <synonym>(&#8722;)-buprenorphine</synonym>
@@ -2572,7 +2572,7 @@
 <synonym xml:lang="Spanish">Buprenorfina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="buprenorphine" term="buprenorphine" wikidataURL="http://www.wikidata.org/entity/Q407721" wikipediaURL="https://en.wikipedia.org/wiki/Buprenorphine" wikidataID="Q407721" idx="['111', '110']" merged="true">
+<entry name="buprenorphine" term="buprenorphine" wikidataURL="http://www.wikidata.org/entity/Q407721" wikipediaURL="https://en.wikipedia.org/wiki/Buprenorphine" wikidataID="Q407721" idx="111">
   <synonym>Buprenorphine</synonym>
   <synonym>(-)-buprenorphine</synonym>
   <synonym>(&#8722;)-buprenorphine</synonym>
@@ -2795,7 +2795,7 @@
 <synonym xml:lang="Spanish">Estramustina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="raubasine" term="raubasine" wikidataURL="http://www.wikidata.org/entity/Q412957" wikipediaURL="https://en.wikipedia.org/wiki/Ajmalicine" wikidataID="Q412957" idx="121">
+<entry name="raubasine" term="raubasine" wikidataURL="http://www.wikidata.org/entity/Q412957" wikipediaURL="https://en.wikipedia.org/wiki/Ajmalicine" wikidataID="Q412957" idx="['121', '122']" merged="true">
   <synonym>delta-yohimbine</synonym>
   <synonym>rauvasan</synonym>
   <synonym>rauwolfia alkaloid</synonym>
@@ -2806,7 +2806,7 @@
 <synonym xml:lang="Spanish">Ajmalicina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="raubasine" term="raubasine" wikidataURL="http://www.wikidata.org/entity/Q412957" wikipediaURL="https://en.wikipedia.org/wiki/Ajmalicine" wikidataID="Q412957" idx="['122', '121']" merged="true">
+<entry name="raubasine" term="raubasine" wikidataURL="http://www.wikidata.org/entity/Q412957" wikipediaURL="https://en.wikipedia.org/wiki/Ajmalicine" wikidataID="Q412957" idx="122">
   <synonym>delta-yohimbine</synonym>
   <synonym>rauvasan</synonym>
   <synonym>rauwolfia alkaloid</synonym>
@@ -2834,7 +2834,7 @@
 <synonym xml:lang="Spanish">Cabazitaxel</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="tetrabenazine" term="tetrabenazine" wikidataURL="http://www.wikidata.org/entity/Q413050" wikipediaURL="https://en.wikipedia.org/wiki/Tetrabenazine" wikidataID="Q413050" idx="['124', '125']" merged="true">
+<entry name="tetrabenazine" term="tetrabenazine" wikidataURL="http://www.wikidata.org/entity/Q413050" wikipediaURL="https://en.wikipedia.org/wiki/Tetrabenazine" wikidataID="Q413050" idx="124">
   <synonym>11b-hexahydro-3-isobutyl-9</synonym>
   <synonym>10-dimethoxy-2H-benzo[a]quinolizin-2-one</synonym>
   <synonym>2-oxo-3-isobutyl-9</synonym>
@@ -2857,7 +2857,7 @@
 <synonym xml:lang="Spanish">Tetrabenazina</synonym>&gt;
 <description xml:lang="Spanish">Neurol&#233;ptico</description></entry>
  
-<entry name="tetrabenazine" term="tetrabenazine" wikidataURL="http://www.wikidata.org/entity/Q413050" wikipediaURL="https://en.wikipedia.org/wiki/Tetrabenazine" wikidataID="Q413050" idx="125">
+<entry name="tetrabenazine" term="tetrabenazine" wikidataURL="http://www.wikidata.org/entity/Q413050" wikipediaURL="https://en.wikipedia.org/wiki/Tetrabenazine" wikidataID="Q413050" idx="['125', '124']" merged="true">
   <synonym>11b-hexahydro-3-isobutyl-9</synonym>
   <synonym>10-dimethoxy-2H-benzo[a]quinolizin-2-one</synonym>
   <synonym>2-oxo-3-isobutyl-9</synonym>
@@ -3374,7 +3374,7 @@
 <synonym xml:lang="Spanish">Tolnaftato</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="altretamine" term="altretamine" wikidataURL="http://www.wikidata.org/entity/Q415242" wikipediaURL="https://en.wikipedia.org/wiki/Altretamine" wikidataID="Q415242" idx="147">
+<entry name="altretamine" term="altretamine" wikidataURL="http://www.wikidata.org/entity/Q415242" wikipediaURL="https://en.wikipedia.org/wiki/Altretamine" wikidataID="Q415242" idx="['147', '148']" merged="true">
   <synonym>Altretamine</synonym>
   <synonym>HMM</synonym>
   <synonym>6-tris(dimethylamino)-1</synonym>
@@ -3392,7 +3392,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="altretamine" term="altretamine" wikidataURL="http://www.wikidata.org/entity/Q415242" wikipediaURL="https://en.wikipedia.org/wiki/Altretamine" wikidataID="Q415242" idx="['148', '147']" merged="true">
+<entry name="altretamine" term="altretamine" wikidataURL="http://www.wikidata.org/entity/Q415242" wikipediaURL="https://en.wikipedia.org/wiki/Altretamine" wikidataID="Q415242" idx="148">
   <synonym>Altretamine</synonym>
   <synonym>HMM</synonym>
   <synonym>6-tris(dimethylamino)-1</synonym>
@@ -4211,7 +4211,7 @@
 <synonym xml:lang="Spanish">Enflurano</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="carisoprodol" term="carisoprodol" wikidataURL="http://www.wikidata.org/entity/Q416905" wikipediaURL="https://en.wikipedia.org/wiki/Carisoprodol" wikidataID="Q416905" idx="180">
+<entry name="carisoprodol" term="carisoprodol" wikidataURL="http://www.wikidata.org/entity/Q416905" wikipediaURL="https://en.wikipedia.org/wiki/Carisoprodol" wikidataID="Q416905" idx="['180', '181']" merged="true">
   <synonym>(+-)-2-methyl-2-propyl-1</synonym>
   <synonym>3-propanediol carbamate isopropylcarbamate</synonym>
   <synonym>(+-)-2-Methyl-2-propyl-1</synonym>
@@ -4247,7 +4247,7 @@
 <synonym xml:lang="Spanish">Carisoprodol</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="carisoprodol" term="carisoprodol" wikidataURL="http://www.wikidata.org/entity/Q416905" wikipediaURL="https://en.wikipedia.org/wiki/Carisoprodol" wikidataID="Q416905" idx="['181', '180']" merged="true">
+<entry name="carisoprodol" term="carisoprodol" wikidataURL="http://www.wikidata.org/entity/Q416905" wikipediaURL="https://en.wikipedia.org/wiki/Carisoprodol" wikidataID="Q416905" idx="181">
   <synonym>(+-)-2-methyl-2-propyl-1</synonym>
   <synonym>3-propanediol carbamate isopropylcarbamate</synonym>
   <synonym>(+-)-2-Methyl-2-propyl-1</synonym>
@@ -5330,7 +5330,7 @@
 <synonym xml:lang="Spanish">metilprednisolona</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="(S)-etiracetam" term="(S)-etiracetam" wikidataURL="http://www.wikidata.org/entity/Q417227" wikipediaURL="https://en.wikipedia.org/wiki/Levetiracetam" wikidataID="Q417227" idx="220">
+<entry name="(S)-etiracetam" term="(S)-etiracetam" wikidataURL="http://www.wikidata.org/entity/Q417227" wikipediaURL="https://en.wikipedia.org/wiki/Levetiracetam" wikidataID="Q417227" idx="['220', '221']" merged="true">
   <synonym>(-)-(s)-.alpha.-ethyl-2-oxo-1-pyrrolidineacetamide</synonym>
   <synonym>1-pyrrolidineacetamide</synonym>
   <synonym>.alpha.-ethyl-2-oxo-</synonym>
@@ -5353,7 +5353,7 @@
 <synonym xml:lang="Spanish">Levetiracetam</synonym>&gt;
 <description xml:lang="Spanish">levetiracitam</description></entry>
  
-<entry name="(S)-etiracetam" term="(S)-etiracetam" wikidataURL="http://www.wikidata.org/entity/Q417227" wikipediaURL="https://en.wikipedia.org/wiki/Levetiracetam" wikidataID="Q417227" idx="['221', '220']" merged="true">
+<entry name="(S)-etiracetam" term="(S)-etiracetam" wikidataURL="http://www.wikidata.org/entity/Q417227" wikipediaURL="https://en.wikipedia.org/wiki/Levetiracetam" wikidataID="Q417227" idx="221">
   <synonym>(-)-(s)-.alpha.-ethyl-2-oxo-1-pyrrolidineacetamide</synonym>
   <synonym>1-pyrrolidineacetamide</synonym>
   <synonym>.alpha.-ethyl-2-oxo-</synonym>
@@ -6069,7 +6069,7 @@
 <synonym xml:lang="Spanish">fisostigmina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="butabarbital" term="butabarbital" wikidataURL="http://www.wikidata.org/entity/Q410608" wikipediaURL="https://en.wikipedia.org/wiki/Butabarbital" wikidataID="Q410608" idx="['252', '253']" merged="true">
+<entry name="butabarbital" term="butabarbital" wikidataURL="http://www.wikidata.org/entity/Q410608" wikipediaURL="https://en.wikipedia.org/wiki/Butabarbital" wikidataID="Q410608" idx="252">
   <synonym>5-ethyl-5-(1-methylpropyl)-2</synonym>
   <synonym>5H)-pyrimidinetrione</synonym>
   <synonym>5-Ethyl-5-(1-methylpropyl)-2</synonym>
@@ -6098,7 +6098,7 @@
 <synonym xml:lang="Spanish">butabarbital</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="butabarbital" term="butabarbital" wikidataURL="http://www.wikidata.org/entity/Q410608" wikipediaURL="https://en.wikipedia.org/wiki/Butabarbital" wikidataID="Q410608" idx="253">
+<entry name="butabarbital" term="butabarbital" wikidataURL="http://www.wikidata.org/entity/Q410608" wikipediaURL="https://en.wikipedia.org/wiki/Butabarbital" wikidataID="Q410608" idx="['253', '252']" merged="true">
   <synonym>5-ethyl-5-(1-methylpropyl)-2</synonym>
   <synonym>5H)-pyrimidinetrione</synonym>
   <synonym>5-Ethyl-5-(1-methylpropyl)-2</synonym>
@@ -6960,7 +6960,7 @@
 <description xml:lang="Spanish">compuesto qu&#237;mico</description>
 <synonym xml:lang="Tamil">&#2965;&#3009;&#2997;&#3006;&#2985;&#3007;&#2975;&#3007;&#2985;&#3021;</synonym></entry>
  
-<entry name="fosfomycin" term="fosfomycin" wikidataURL="http://www.wikidata.org/entity/Q183554" wikipediaURL="https://en.wikipedia.org/wiki/Fosfomycin" wikidataID="Q183554" idx="['290', '291']" merged="true">
+<entry name="fosfomycin" term="fosfomycin" wikidataURL="http://www.wikidata.org/entity/Q183554" wikipediaURL="https://en.wikipedia.org/wiki/Fosfomycin" wikidataID="Q183554" idx="290">
   <synonym>FOSFOMYCIN</synonym>
   <synonym>FCM</synonym>
   <synonym>Fosfomycin</synonym>
@@ -6989,7 +6989,7 @@
 <synonym xml:lang="Spanish">Fosfomicina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="fosfomycin" term="fosfomycin" wikidataURL="http://www.wikidata.org/entity/Q183554" wikipediaURL="https://en.wikipedia.org/wiki/Fosfomycin" wikidataID="Q183554" idx="291">
+<entry name="fosfomycin" term="fosfomycin" wikidataURL="http://www.wikidata.org/entity/Q183554" wikipediaURL="https://en.wikipedia.org/wiki/Fosfomycin" wikidataID="Q183554" idx="['291', '290']" merged="true">
   <synonym>FOSFOMYCIN</synonym>
   <synonym>FCM</synonym>
   <synonym>Fosfomycin</synonym>
@@ -7132,7 +7132,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="nalidixic acid" term="nalidixic acid" wikidataURL="http://www.wikidata.org/entity/Q281082" wikipediaURL="https://en.wikipedia.org/wiki/Nalidixic_acid" wikidataID="Q281082" idx="297">
+<entry name="nalidixic acid" term="nalidixic acid" wikidataURL="http://www.wikidata.org/entity/Q281082" wikipediaURL="https://en.wikipedia.org/wiki/Nalidixic_acid" wikidataID="Q281082" idx="['297', '298']" merged="true">
   <synonym>Nalidixic acid</synonym>
   <synonym>1-Aethyl-7-methyl-1</synonym>
   <synonym>8-naphthyridin-4-on-3-karbonsaeure</synonym>
@@ -7166,7 +7166,7 @@
 <synonym xml:lang="Spanish">&#193;cido nalid&#237;xico</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="nalidixic acid" term="nalidixic acid" wikidataURL="http://www.wikidata.org/entity/Q281082" wikipediaURL="https://en.wikipedia.org/wiki/Nalidixic_acid" wikidataID="Q281082" idx="['298', '297']" merged="true">
+<entry name="nalidixic acid" term="nalidixic acid" wikidataURL="http://www.wikidata.org/entity/Q281082" wikipediaURL="https://en.wikipedia.org/wiki/Nalidixic_acid" wikidataID="Q281082" idx="298">
   <synonym>Nalidixic acid</synonym>
   <synonym>1-Aethyl-7-methyl-1</synonym>
   <synonym>8-naphthyridin-4-on-3-karbonsaeure</synonym>
@@ -7320,7 +7320,7 @@
 <synonym xml:lang="Spanish">Vinblastina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="sodium thiopental" term="sodium thiopental" wikidataURL="http://www.wikidata.org/entity/Q410179" wikipediaURL="https://en.wikipedia.org/wiki/Sodium_thiopental" wikidataID="Q410179" idx="['302', '303']" merged="true">
+<entry name="sodium thiopental" term="sodium thiopental" wikidataURL="http://www.wikidata.org/entity/Q410179" wikipediaURL="https://en.wikipedia.org/wiki/Sodium_thiopental" wikidataID="Q410179" idx="302">
   <synonym>5-Ethyl-5-(1-methyl-butyl)-2-thioxo-dihydro-pyrimidine-4</synonym>
   <synonym>6-dione</synonym>
   <synonym>monosodium 5-ethyl-5-(1-methylbutyl) thiobarbiturate</synonym>
@@ -7341,7 +7341,7 @@
 <synonym xml:lang="Spanish">Tiopentato de sodiolito</synonym>
 <synonym xml:lang="Urdu">&#1578;&#1726;&#1575;&#1740;&#1608;&#1662;&#1740;&#1606;&#1657;&#1575;&#1604; &#1587;&#1608;&#1672;&#1740;&#1574;&#1605;</synonym></entry>
  
-<entry name="sodium thiopental" term="sodium thiopental" wikidataURL="http://www.wikidata.org/entity/Q410179" wikipediaURL="https://en.wikipedia.org/wiki/Sodium_thiopental" wikidataID="Q410179" idx="303">
+<entry name="sodium thiopental" term="sodium thiopental" wikidataURL="http://www.wikidata.org/entity/Q410179" wikipediaURL="https://en.wikipedia.org/wiki/Sodium_thiopental" wikidataID="Q410179" idx="['303', '302']" merged="true">
   <synonym>5-Ethyl-5-(1-methyl-butyl)-2-thioxo-dihydro-pyrimidine-4</synonym>
   <synonym>6-dione</synonym>
   <synonym>monosodium 5-ethyl-5-(1-methylbutyl) thiobarbiturate</synonym>
@@ -7362,7 +7362,7 @@
 <synonym xml:lang="Spanish">Tiopentato de sodiolito</synonym>
 <synonym xml:lang="Urdu">&#1578;&#1726;&#1575;&#1740;&#1608;&#1662;&#1740;&#1606;&#1657;&#1575;&#1604; &#1587;&#1608;&#1672;&#1740;&#1574;&#1605;</synonym></entry>
  
-<entry name="frovatriptan" term="frovatriptan" wikidataURL="http://www.wikidata.org/entity/Q410195" wikipediaURL="https://en.wikipedia.org/wiki/Frovatriptan" wikidataID="Q410195" idx="['304', '305']" merged="true">
+<entry name="frovatriptan" term="frovatriptan" wikidataURL="http://www.wikidata.org/entity/Q410195" wikipediaURL="https://en.wikipedia.org/wiki/Frovatriptan" wikidataID="Q410195" idx="304">
   <synonym>Frova&#174;</synonym>
   <synonym>Frovatriptan</synonym>
   <synonym>SB-209509-AX</synonym>
@@ -7373,7 +7373,7 @@
 <synonym xml:lang="Spanish">Frovatript&#225;n</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="frovatriptan" term="frovatriptan" wikidataURL="http://www.wikidata.org/entity/Q410195" wikipediaURL="https://en.wikipedia.org/wiki/Frovatriptan" wikidataID="Q410195" idx="305">
+<entry name="frovatriptan" term="frovatriptan" wikidataURL="http://www.wikidata.org/entity/Q410195" wikipediaURL="https://en.wikipedia.org/wiki/Frovatriptan" wikidataID="Q410195" idx="['305', '304']" merged="true">
   <synonym>Frova&#174;</synonym>
   <synonym>Frovatriptan</synonym>
   <synonym>SB-209509-AX</synonym>
@@ -7537,7 +7537,7 @@
 <synonym xml:lang="Spanish">Gabapentina</synonym>&gt;
 <description xml:lang="Spanish">medicamento para el dolor neurop&#225;tico</description></entry>
  
-<entry name="salbutamol" term="salbutamol" wikidataURL="http://www.wikidata.org/entity/Q410358" wikipediaURL="https://en.wikipedia.org/wiki/Salbutamol" wikidataID="Q410358" idx="314">
+<entry name="salbutamol" term="salbutamol" wikidataURL="http://www.wikidata.org/entity/Q410358" wikipediaURL="https://en.wikipedia.org/wiki/Salbutamol" wikidataID="Q410358" idx="['314', '315']" merged="true">
   <synonym>Salbutamol</synonym>
   <synonym>Albuterol</synonym>
   <synonym>albuterol</synonym>
@@ -7551,7 +7551,7 @@
 <synonym xml:lang="Spanish">salbutamol</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="salbutamol" term="salbutamol" wikidataURL="http://www.wikidata.org/entity/Q410358" wikipediaURL="https://en.wikipedia.org/wiki/Salbutamol" wikidataID="Q410358" idx="['315', '314']" merged="true">
+<entry name="salbutamol" term="salbutamol" wikidataURL="http://www.wikidata.org/entity/Q410358" wikipediaURL="https://en.wikipedia.org/wiki/Salbutamol" wikidataID="Q410358" idx="315">
   <synonym>Salbutamol</synonym>
   <synonym>Albuterol</synonym>
   <synonym>albuterol</synonym>
@@ -7925,7 +7925,7 @@
 <synonym xml:lang="Spanish">Fenacetina</synonym>&gt;
 <description xml:lang="Spanish">Analg&#233;sico y antipir&#233;tico en medicina humana y veterinaria</description></entry>
  
-<entry name="ergotamine" term="ergotamine" wikidataURL="http://www.wikidata.org/entity/Q419186" wikipediaURL="https://en.wikipedia.org/wiki/Ergotamine" wikidataID="Q419186" idx="333">
+<entry name="ergotamine" term="ergotamine" wikidataURL="http://www.wikidata.org/entity/Q419186" wikipediaURL="https://en.wikipedia.org/wiki/Ergotamine" wikidataID="Q419186" idx="['333', '334']" merged="true">
   <synonym>(5'alpha)-12'-hydroxy-2'-methyl-5'-(phenylmethyl)ergotoman-3'</synonym>
   <synonym>18-trione</synonym>
   <synonym>(5'&#945;)-12'-hydroxy-2'-methyl-5'-(phenylmethyl)ergotoman-3'</synonym>
@@ -7950,7 +7950,7 @@
 <synonym xml:lang="Spanish">Ergotamina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="ergotamine" term="ergotamine" wikidataURL="http://www.wikidata.org/entity/Q419186" wikipediaURL="https://en.wikipedia.org/wiki/Ergotamine" wikidataID="Q419186" idx="['334', '333']" merged="true">
+<entry name="ergotamine" term="ergotamine" wikidataURL="http://www.wikidata.org/entity/Q419186" wikipediaURL="https://en.wikipedia.org/wiki/Ergotamine" wikidataID="Q419186" idx="334">
   <synonym>(5'alpha)-12'-hydroxy-2'-methyl-5'-(phenylmethyl)ergotoman-3'</synonym>
   <synonym>18-trione</synonym>
   <synonym>(5'&#945;)-12'-hydroxy-2'-methyl-5'-(phenylmethyl)ergotoman-3'</synonym>
@@ -8418,7 +8418,7 @@
 <synonym xml:lang="Spanish">Calcifediol</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="cholecalciferol" term="cholecalciferol" wikidataURL="http://www.wikidata.org/entity/Q139347" wikipediaURL="https://en.wikipedia.org/wiki/Cholecalciferol" wikidataID="Q139347" idx="350">
+<entry name="cholecalciferol" term="cholecalciferol" wikidataURL="http://www.wikidata.org/entity/Q139347" wikipediaURL="https://en.wikipedia.org/wiki/Cholecalciferol" wikidataID="Q139347" idx="['350', '351']" merged="true">
   <synonym>CC</synonym>
   <synonym>10-Secocholesta-5</synonym>
   <synonym>10(19)-trien-3-ol</synonym>
@@ -8510,7 +8510,7 @@
 <synonym xml:lang="Spanish">Colecalciferol</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="cholecalciferol" term="cholecalciferol" wikidataURL="http://www.wikidata.org/entity/Q139347" wikipediaURL="https://en.wikipedia.org/wiki/Cholecalciferol" wikidataID="Q139347" idx="['351', '350']" merged="true">
+<entry name="cholecalciferol" term="cholecalciferol" wikidataURL="http://www.wikidata.org/entity/Q139347" wikipediaURL="https://en.wikipedia.org/wiki/Cholecalciferol" wikidataID="Q139347" idx="351">
   <synonym>CC</synonym>
   <synonym>10-Secocholesta-5</synonym>
   <synonym>10(19)-trien-3-ol</synonym>
@@ -8706,7 +8706,7 @@
 <synonym xml:lang="Tamil">&#2949;&#2975;&#3007;&#2985;&#3019;&#2970;&#3007;&#2985;&#3021; &#2990;&#3009;&#2986;&#3021;&#2986;&#3018;&#3000;&#3021;&#2947;&#2986;&#3015;&#2975;&#3021;</synonym>
 <synonym xml:lang="Urdu">&#1575;&#1672;&#1740;&#1606;&#1608;&#1587;&#1740;&#1606;-&#1657;&#1585;&#1575;&#1574; &#1601;&#1608;&#1587;&#1601;&#1740;&#1657;</synonym></entry>
  
-<entry name="methocarbamol" term="methocarbamol" wikidataURL="http://www.wikidata.org/entity/Q411456" wikipediaURL="https://en.wikipedia.org/wiki/Methocarbamol" wikidataID="Q411456" idx="357">
+<entry name="methocarbamol" term="methocarbamol" wikidataURL="http://www.wikidata.org/entity/Q411456" wikipediaURL="https://en.wikipedia.org/wiki/Methocarbamol" wikidataID="Q411456" idx="['357', '358']" merged="true">
   <synonym>(RS)-2-hydroxy-3-(2-methoxyphenoxy)propyl carbamate</synonym>
   <synonym>Delaxin</synonym>
   <synonym>Methocarbamol</synonym>
@@ -8721,7 +8721,7 @@
 <synonym xml:lang="Spanish">Metocarbamol</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="methocarbamol" term="methocarbamol" wikidataURL="http://www.wikidata.org/entity/Q411456" wikipediaURL="https://en.wikipedia.org/wiki/Methocarbamol" wikidataID="Q411456" idx="['358', '357']" merged="true">
+<entry name="methocarbamol" term="methocarbamol" wikidataURL="http://www.wikidata.org/entity/Q411456" wikipediaURL="https://en.wikipedia.org/wiki/Methocarbamol" wikidataID="Q411456" idx="358">
   <synonym>(RS)-2-hydroxy-3-(2-methoxyphenoxy)propyl carbamate</synonym>
   <synonym>Delaxin</synonym>
   <synonym>Methocarbamol</synonym>
@@ -9191,7 +9191,7 @@
 <description xml:lang="Spanish">hormona y neurotransmisor producido por la m&#233;dula suprarrenal</description>
 <synonym xml:lang="Tamil">&#2958;&#2986;&#3007;&#2984;&#3014;&#2986;&#3021;&#2992;&#3007;&#2985;&#3021;</synonym></entry>
  
-<entry name="niacin" term="niacin" wikidataURL="http://www.wikidata.org/entity/Q134658" wikipediaURL="https://en.wikipedia.org/wiki/Niacin" wikidataID="Q134658" idx="['376', '377']" merged="true">
+<entry name="niacin" term="niacin" wikidataURL="http://www.wikidata.org/entity/Q134658" wikipediaURL="https://en.wikipedia.org/wiki/Niacin" wikidataID="Q134658" idx="376">
   <synonym>Niacor</synonym>
   <synonym>3-Carboxylpyridine</synonym>
   <synonym>3-carboxypyridine</synonym>
@@ -9264,7 +9264,7 @@
 <synonym xml:lang="Tamil">&#2984;&#3007;&#2991;&#3006;&#2970;&#3007;&#2985;&#3021;</synonym>
 <synonym xml:lang="Urdu">Niacin</synonym></entry>
  
-<entry name="niacin" term="niacin" wikidataURL="http://www.wikidata.org/entity/Q134658" wikipediaURL="https://en.wikipedia.org/wiki/Niacin" wikidataID="Q134658" idx="377">
+<entry name="niacin" term="niacin" wikidataURL="http://www.wikidata.org/entity/Q134658" wikipediaURL="https://en.wikipedia.org/wiki/Niacin" wikidataID="Q134658" idx="['377', '376']" merged="true">
   <synonym>Niacor</synonym>
   <synonym>3-Carboxylpyridine</synonym>
   <synonym>3-carboxypyridine</synonym>
@@ -9790,7 +9790,7 @@
 <synonym xml:lang="Spanish">Mefobarbital</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="nitroglycerin" term="nitroglycerin" wikidataURL="http://www.wikidata.org/entity/Q162867" wikipediaURL="https://en.wikipedia.org/wiki/Nitroglycerin" wikidataID="Q162867" idx="['392', '393']" merged="true">
+<entry name="nitroglycerin" term="nitroglycerin" wikidataURL="http://www.wikidata.org/entity/Q162867" wikipediaURL="https://en.wikipedia.org/wiki/Nitroglycerin" wikidataID="Q162867" idx="392">
   <synonym>NG</synonym>
   <synonym>Nitroglycerin</synonym>
   <synonym>Nitrostat</synonym>
@@ -9839,7 +9839,7 @@
 <synonym xml:lang="Spanish">nitroglicerina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico usado como explosivo y como medicamento</description></entry>
  
-<entry name="nitroglycerin" term="nitroglycerin" wikidataURL="http://www.wikidata.org/entity/Q162867" wikipediaURL="https://en.wikipedia.org/wiki/Nitroglycerin" wikidataID="Q162867" idx="393">
+<entry name="nitroglycerin" term="nitroglycerin" wikidataURL="http://www.wikidata.org/entity/Q162867" wikipediaURL="https://en.wikipedia.org/wiki/Nitroglycerin" wikidataID="Q162867" idx="['393', '392']" merged="true">
   <synonym>NG</synonym>
   <synonym>Nitroglycerin</synonym>
   <synonym>Nitrostat</synonym>
@@ -9888,7 +9888,7 @@
 <synonym xml:lang="Spanish">nitroglicerina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico usado como explosivo y como medicamento</description></entry>
  
-<entry name="azithromycin" term="azithromycin" wikidataURL="http://www.wikidata.org/entity/Q165399" wikipediaURL="https://en.wikipedia.org/wiki/Azithromycin" wikidataID="Q165399" idx="394">
+<entry name="azithromycin" term="azithromycin" wikidataURL="http://www.wikidata.org/entity/Q165399" wikipediaURL="https://en.wikipedia.org/wiki/Azithromycin" wikidataID="Q165399" idx="['394', '395']" merged="true">
   <synonym>Azithromycin</synonym>
   <synonym>ZMax</synonym>
   <synonym>Zithromax</synonym>
@@ -9915,7 +9915,7 @@
 <synonym xml:lang="Spanish">azitromicina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="azithromycin" term="azithromycin" wikidataURL="http://www.wikidata.org/entity/Q165399" wikipediaURL="https://en.wikipedia.org/wiki/Azithromycin" wikidataID="Q165399" idx="['395', '394']" merged="true">
+<entry name="azithromycin" term="azithromycin" wikidataURL="http://www.wikidata.org/entity/Q165399" wikipediaURL="https://en.wikipedia.org/wiki/Azithromycin" wikidataID="Q165399" idx="395">
   <synonym>Azithromycin</synonym>
   <synonym>ZMax</synonym>
   <synonym>Zithromax</synonym>
@@ -10139,7 +10139,7 @@
 <synonym xml:lang="Spanish">Triazolam</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="pregnenolone" term="pregnenolone" wikidataURL="http://www.wikidata.org/entity/Q412158" wikipediaURL="https://en.wikipedia.org/wiki/Pregnenolone" wikidataID="Q412158" idx="408">
+<entry name="pregnenolone" term="pregnenolone" wikidataURL="http://www.wikidata.org/entity/Q412158" wikipediaURL="https://en.wikipedia.org/wiki/Pregnenolone" wikidataID="Q412158" idx="['408', '409']" merged="true">
   <synonym>(3b)-3-hydroxy-Pregn-5-en-20-one</synonym>
   <synonym>1-[(1S</synonym>
   <synonym>15S)-5-hydroxy-2</synonym>
@@ -10166,7 +10166,7 @@
 <synonym xml:lang="Spanish">Pregnenolona</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="pregnenolone" term="pregnenolone" wikidataURL="http://www.wikidata.org/entity/Q412158" wikipediaURL="https://en.wikipedia.org/wiki/Pregnenolone" wikidataID="Q412158" idx="['409', '408']" merged="true">
+<entry name="pregnenolone" term="pregnenolone" wikidataURL="http://www.wikidata.org/entity/Q412158" wikipediaURL="https://en.wikipedia.org/wiki/Pregnenolone" wikidataID="Q412158" idx="409">
   <synonym>(3b)-3-hydroxy-Pregn-5-en-20-one</synonym>
   <synonym>1-[(1S</synonym>
   <synonym>15S)-5-hydroxy-2</synonym>
@@ -10548,7 +10548,7 @@
 <synonym xml:lang="Spanish">Zopiclona</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="furosemide" term="furosemide" wikidataURL="http://www.wikidata.org/entity/Q388801" wikipediaURL="https://en.wikipedia.org/wiki/Furosemide" wikidataID="Q388801" idx="428">
+<entry name="furosemide" term="furosemide" wikidataURL="http://www.wikidata.org/entity/Q388801" wikipediaURL="https://en.wikipedia.org/wiki/Furosemide" wikidataID="Q388801" idx="['428', '429']" merged="true">
   <synonym>2-Furfurylamino-4-chloro-5-sulfamoylbenzoic acid</synonym>
   <synonym>4-Chloro-5-sulfamoyl-N-furfuryl-anthranilic acid</synonym>
   <synonym>4-Chloro-N-(2-furylmethyl)-5-sulfamoylanthranilic acid</synonym>
@@ -10571,7 +10571,7 @@
 <synonym xml:lang="Spanish">furosemida</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="furosemide" term="furosemide" wikidataURL="http://www.wikidata.org/entity/Q388801" wikipediaURL="https://en.wikipedia.org/wiki/Furosemide" wikidataID="Q388801" idx="['429', '428']" merged="true">
+<entry name="furosemide" term="furosemide" wikidataURL="http://www.wikidata.org/entity/Q388801" wikipediaURL="https://en.wikipedia.org/wiki/Furosemide" wikidataID="Q388801" idx="429">
   <synonym>2-Furfurylamino-4-chloro-5-sulfamoylbenzoic acid</synonym>
   <synonym>4-Chloro-5-sulfamoyl-N-furfuryl-anthranilic acid</synonym>
   <synonym>4-Chloro-N-(2-furylmethyl)-5-sulfamoylanthranilic acid</synonym>
@@ -10629,7 +10629,7 @@
 <description xml:lang="Spanish">compuesto qu&#237;mico</description>
 <synonym xml:lang="Tamil">&#2949;&#2994;&#3009;&#2990;&#3007;&#2985;&#3007;&#2991;&#2990;&#3021; &#2960;&#2980;&#2992;&#3006;&#2965;&#3021;&#2970;&#3016;&#2975;&#3009;</synonym></entry>
  
-<entry name="phenobarbital" term="phenobarbital" wikidataURL="http://www.wikidata.org/entity/Q407241" wikipediaURL="https://en.wikipedia.org/wiki/Phenobarbital" wikidataID="Q407241" idx="['432', '433']" merged="true">
+<entry name="phenobarbital" term="phenobarbital" wikidataURL="http://www.wikidata.org/entity/Q407241" wikipediaURL="https://en.wikipedia.org/wiki/Phenobarbital" wikidataID="Q407241" idx="432">
   <synonym>5-ethyl-5-phenyl-2</synonym>
   <synonym>5H)-pyrimidinetrione</synonym>
   <synonym>5-Ethyl-5-phenyl-pyrimidine-2</synonym>
@@ -10660,7 +10660,7 @@
 <synonym xml:lang="Spanish">fenobarbital</synonym>&gt;
 <description xml:lang="Spanish">barbit&#250;rico anticonvulsivo</description></entry>
  
-<entry name="phenobarbital" term="phenobarbital" wikidataURL="http://www.wikidata.org/entity/Q407241" wikipediaURL="https://en.wikipedia.org/wiki/Phenobarbital" wikidataID="Q407241" idx="433">
+<entry name="phenobarbital" term="phenobarbital" wikidataURL="http://www.wikidata.org/entity/Q407241" wikipediaURL="https://en.wikipedia.org/wiki/Phenobarbital" wikidataID="Q407241" idx="['433', '432']" merged="true">
   <synonym>5-ethyl-5-phenyl-2</synonym>
   <synonym>5H)-pyrimidinetrione</synonym>
   <synonym>5-Ethyl-5-phenyl-pyrimidine-2</synonym>
@@ -10691,7 +10691,7 @@
 <synonym xml:lang="Spanish">fenobarbital</synonym>&gt;
 <description xml:lang="Spanish">barbit&#250;rico anticonvulsivo</description></entry>
  
-<entry name="theophylline" term="theophylline" wikidataURL="http://www.wikidata.org/entity/Q407308" wikipediaURL="https://en.wikipedia.org/wiki/Theophylline" wikidataID="Q407308" idx="['434', '435']" merged="true">
+<entry name="theophylline" term="theophylline" wikidataURL="http://www.wikidata.org/entity/Q407308" wikipediaURL="https://en.wikipedia.org/wiki/Theophylline" wikidataID="Q407308" idx="434">
   <synonym>Aminophylline</synonym>
   <synonym>Theophylline</synonym>
   <synonym>Elixophyllin</synonym>
@@ -10808,7 +10808,7 @@
 <synonym xml:lang="Tamil">nuelin</synonym>&gt;
 <description xml:lang="Tamil">nuelin</description></entry>
  
-<entry name="theophylline" term="theophylline" wikidataURL="http://www.wikidata.org/entity/Q407308" wikipediaURL="https://en.wikipedia.org/wiki/Theophylline" wikidataID="Q407308" idx="435">
+<entry name="theophylline" term="theophylline" wikidataURL="http://www.wikidata.org/entity/Q407308" wikipediaURL="https://en.wikipedia.org/wiki/Theophylline" wikidataID="Q407308" idx="['435', '434']" merged="true">
   <synonym>Aminophylline</synonym>
   <synonym>Theophylline</synonym>
   <synonym>Elixophyllin</synonym>
@@ -11378,7 +11378,7 @@
 <synonym xml:lang="Spanish">Fenprocumon</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="apomorphine" term="apomorphine" wikidataURL="http://www.wikidata.org/entity/Q269111" wikipediaURL="https://en.wikipedia.org/wiki/Apomorphine" wikidataID="Q269111" idx="['453', '454']" merged="true">
+<entry name="apomorphine" term="apomorphine" wikidataURL="http://www.wikidata.org/entity/Q269111" wikipediaURL="https://en.wikipedia.org/wiki/Apomorphine" wikidataID="Q269111" idx="453">
   <synonym>(-)-10</synonym>
   <synonym>11-dihydroxyaporphine</synonym>
   <synonym>(6aR)-6-methyl-5</synonym>
@@ -11403,7 +11403,7 @@
 <synonym xml:lang="Tamil">&#2949;&#2986;&#3019;&#2990;&#3006;&#2992;&#3021;&#2986;&#3007;&#2985;&#3021;</synonym>&gt;
 <description xml:lang="Tamil">&#2990;&#3006;&#2992;&#3021;&#2986;&#3016;&#2985;&#3007;&#2994;&#3007;&#2992;&#3009;&#2984;&#3021;&#2980;&#3009; &#2986;&#3014;&#2993;&#2986;&#3021;&#2986;&#2975;&#3009;&#2990;&#3021; &#2986;&#2975;&#3007;&#2965; &#2997;&#2975;&#3007;&#2997;&#2965;&#3021; &#2965;&#2992;&#3006;&#2990;&#2990;&#3021;. &#2997;&#2994;&#3007; &#2984;&#3008;&#2965;&#3021;&#2965;&#3007;</description></entry>
  
-<entry name="apomorphine" term="apomorphine" wikidataURL="http://www.wikidata.org/entity/Q269111" wikipediaURL="https://en.wikipedia.org/wiki/Apomorphine" wikidataID="Q269111" idx="454">
+<entry name="apomorphine" term="apomorphine" wikidataURL="http://www.wikidata.org/entity/Q269111" wikipediaURL="https://en.wikipedia.org/wiki/Apomorphine" wikidataID="Q269111" idx="['454', '453']" merged="true">
   <synonym>(-)-10</synonym>
   <synonym>11-dihydroxyaporphine</synonym>
   <synonym>(6aR)-6-methyl-5</synonym>
@@ -11502,7 +11502,7 @@
 <synonym xml:lang="Spanish">Idoxuridina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="dapagliflozin" term="dapagliflozin" wikidataURL="http://www.wikidata.org/entity/Q409898" wikipediaURL="https://en.wikipedia.org/wiki/Dapagliflozin" wikidataID="Q409898" idx="458">
+<entry name="dapagliflozin" term="dapagliflozin" wikidataURL="http://www.wikidata.org/entity/Q409898" wikipediaURL="https://en.wikipedia.org/wiki/Dapagliflozin" wikidataID="Q409898" idx="['458', '459']" merged="true">
   <synonym>Dapagliflozin</synonym>
   <synonym>(2S</synonym>
   <synonym>6R)-2-(4-Chloro-3-(4-ethoxybenzyl)phenyl)-6- (hydroxymethyl)tetrahydro-2H-pyran-3</synonym>
@@ -11517,7 +11517,7 @@
 <synonym xml:lang="Spanish">Dapagliflozina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="dapagliflozin" term="dapagliflozin" wikidataURL="http://www.wikidata.org/entity/Q409898" wikipediaURL="https://en.wikipedia.org/wiki/Dapagliflozin" wikidataID="Q409898" idx="['459', '458']" merged="true">
+<entry name="dapagliflozin" term="dapagliflozin" wikidataURL="http://www.wikidata.org/entity/Q409898" wikipediaURL="https://en.wikipedia.org/wiki/Dapagliflozin" wikidataID="Q409898" idx="459">
   <synonym>Dapagliflozin</synonym>
   <synonym>(2S</synonym>
   <synonym>6R)-2-(4-Chloro-3-(4-ethoxybenzyl)phenyl)-6- (hydroxymethyl)tetrahydro-2H-pyran-3</synonym>
@@ -11847,7 +11847,7 @@
 <synonym xml:lang="Spanish">daptomicina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="amisulpride" term="amisulpride" wikidataURL="http://www.wikidata.org/entity/Q418785" wikipediaURL="https://en.wikipedia.org/wiki/Amisulpride" wikidataID="Q418785" idx="475">
+<entry name="amisulpride" term="amisulpride" wikidataURL="http://www.wikidata.org/entity/Q418785" wikipediaURL="https://en.wikipedia.org/wiki/Amisulpride" wikidataID="Q418785" idx="['475', '476']" merged="true">
   <synonym>(&#177;)-amisulpride</synonym>
   <synonym>4-Amino-N-((1-ethyl-2-pyrrolidinyl)methyl)-5-(ethylsulfonyl)-2-methoxybenzamide</synonym>
   <synonym>4-Amino-N-((1-ethyl-2-pyrrolidinyl)methyl)-5-(ethylsulfonyl)-o-anisamide</synonym>
@@ -11859,7 +11859,7 @@
 <synonym xml:lang="Spanish">amisulprida</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="amisulpride" term="amisulpride" wikidataURL="http://www.wikidata.org/entity/Q418785" wikipediaURL="https://en.wikipedia.org/wiki/Amisulpride" wikidataID="Q418785" idx="['476', '475']" merged="true">
+<entry name="amisulpride" term="amisulpride" wikidataURL="http://www.wikidata.org/entity/Q418785" wikipediaURL="https://en.wikipedia.org/wiki/Amisulpride" wikidataID="Q418785" idx="476">
   <synonym>(&#177;)-amisulpride</synonym>
   <synonym>4-Amino-N-((1-ethyl-2-pyrrolidinyl)methyl)-5-(ethylsulfonyl)-2-methoxybenzamide</synonym>
   <synonym>4-Amino-N-((1-ethyl-2-pyrrolidinyl)methyl)-5-(ethylsulfonyl)-o-anisamide</synonym>
@@ -12419,7 +12419,7 @@
 <synonym xml:lang="Spanish">Ezetimiba</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="sertindole" term="sertindole" wikidataURL="http://www.wikidata.org/entity/Q418050" wikipediaURL="https://en.wikipedia.org/wiki/Sertindole" wikidataID="Q418050" idx="['494', '495']" merged="true">
+<entry name="sertindole" term="sertindole" wikidataURL="http://www.wikidata.org/entity/Q418050" wikipediaURL="https://en.wikipedia.org/wiki/Sertindole" wikidataID="Q418050" idx="494">
   <synonym>1-[2-[4-[5-chloro-1-(4-fluorophenyl)-indol-3-yl]-1-piperidyl]ethyl]imidazolidin-2-one</synonym>
   <synonym>1-[2-[4-[5-chloro-1-(4-Fluorophenyl)-indol-3-yl]-1-piperidyl]ethyl]imidazolidin-2-one</synonym>
   <synonym>Serdolect&#174;</synonym>
@@ -12435,7 +12435,7 @@
 <synonym xml:lang="Spanish">Sertindol</synonym>&gt;
 <description xml:lang="Spanish">Antipsic&#243;tico de segunda generaci&#243;n que act&#250;a como antagonista de la dopamina D2</description></entry>
  
-<entry name="sertindole" term="sertindole" wikidataURL="http://www.wikidata.org/entity/Q418050" wikipediaURL="https://en.wikipedia.org/wiki/Sertindole" wikidataID="Q418050" idx="495">
+<entry name="sertindole" term="sertindole" wikidataURL="http://www.wikidata.org/entity/Q418050" wikipediaURL="https://en.wikipedia.org/wiki/Sertindole" wikidataID="Q418050" idx="['495', '494']" merged="true">
   <synonym>1-[2-[4-[5-chloro-1-(4-fluorophenyl)-indol-3-yl]-1-piperidyl]ethyl]imidazolidin-2-one</synonym>
   <synonym>1-[2-[4-[5-chloro-1-(4-Fluorophenyl)-indol-3-yl]-1-piperidyl]ethyl]imidazolidin-2-one</synonym>
   <synonym>Serdolect&#174;</synonym>
@@ -12533,7 +12533,7 @@
 <synonym xml:lang="Spanish">Pindolol</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="dimethyl fumarate" term="dimethyl fumarate" wikidataURL="http://www.wikidata.org/entity/Q418123" wikipediaURL="https://en.wikipedia.org/wiki/Dimethyl_fumarate" wikidataID="Q418123" idx="500">
+<entry name="dimethyl fumarate" term="dimethyl fumarate" wikidataURL="http://www.wikidata.org/entity/Q418123" wikipediaURL="https://en.wikipedia.org/wiki/Dimethyl_fumarate" wikidataID="Q418123" idx="['500', '501']" merged="true">
   <synonym>fumaric acid</synonym>
   <synonym>(E)-But-2-enedioic acid dimethyl ester</synonym>
   <synonym>2-bis(methoxycarbonyl)-trans-ethylene</synonym>
@@ -12553,7 +12553,7 @@
 <synonym xml:lang="Spanish">Dimetilfumarato</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="dimethyl fumarate" term="dimethyl fumarate" wikidataURL="http://www.wikidata.org/entity/Q418123" wikipediaURL="https://en.wikipedia.org/wiki/Dimethyl_fumarate" wikidataID="Q418123" idx="['501', '500']" merged="true">
+<entry name="dimethyl fumarate" term="dimethyl fumarate" wikidataURL="http://www.wikidata.org/entity/Q418123" wikipediaURL="https://en.wikipedia.org/wiki/Dimethyl_fumarate" wikidataID="Q418123" idx="501">
   <synonym>fumaric acid</synonym>
   <synonym>(E)-But-2-enedioic acid dimethyl ester</synonym>
   <synonym>2-bis(methoxycarbonyl)-trans-ethylene</synonym>
@@ -12961,7 +12961,7 @@
 <synonym xml:lang="Spanish">flurbiprofeno</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="tiaprofenic acid" term="tiaprofenic acid" wikidataURL="http://www.wikidata.org/entity/Q419926" wikipediaURL="https://en.wikipedia.org/wiki/Tiaprofenic_acid" wikidataID="Q419926" idx="521">
+<entry name="tiaprofenic acid" term="tiaprofenic acid" wikidataURL="http://www.wikidata.org/entity/Q419926" wikipediaURL="https://en.wikipedia.org/wiki/Tiaprofenic_acid" wikidataID="Q419926" idx="['521', '522']" merged="true">
   <synonym>2-(5-Benzoyl-thiophen-2-yl)-propionic acid</synonym>
   <synonym>2-(5-Benzyl-2-thienyl)propionsaeure</synonym>
   <synonym>5-Benzoyl-alpha-methyl-2-thiopheneacetic acid</synonym>
@@ -12979,7 +12979,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="tiaprofenic acid" term="tiaprofenic acid" wikidataURL="http://www.wikidata.org/entity/Q419926" wikipediaURL="https://en.wikipedia.org/wiki/Tiaprofenic_acid" wikidataID="Q419926" idx="['522', '521']" merged="true">
+<entry name="tiaprofenic acid" term="tiaprofenic acid" wikidataURL="http://www.wikidata.org/entity/Q419926" wikipediaURL="https://en.wikipedia.org/wiki/Tiaprofenic_acid" wikidataID="Q419926" idx="522">
   <synonym>2-(5-Benzoyl-thiophen-2-yl)-propionic acid</synonym>
   <synonym>2-(5-Benzyl-2-thienyl)propionsaeure</synonym>
   <synonym>5-Benzoyl-alpha-methyl-2-thiopheneacetic acid</synonym>
@@ -13174,7 +13174,7 @@
 <synonym xml:lang="Spanish">Moclobemida</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="spironolactone" term="spironolactone" wikidataURL="http://www.wikidata.org/entity/Q422188" wikipediaURL="https://en.wikipedia.org/wiki/Spironolactone" wikidataID="Q422188" idx="['532', '533']" merged="true">
+<entry name="spironolactone" term="spironolactone" wikidataURL="http://www.wikidata.org/entity/Q422188" wikipediaURL="https://en.wikipedia.org/wiki/Spironolactone" wikidataID="Q422188" idx="532">
   <synonym>Aldactone</synonym>
   <synonym>Spironolactone</synonym>
   <synonym>Aldactone&#174;</synonym>
@@ -13194,7 +13194,7 @@
 <synonym xml:lang="Urdu">&#1575;&#1587;&#1662;&#1575;&#1574;&#1585;&#1608;&#1606;&#1608;&#1604;&#1740;&#1705;&#1657;&#1608;&#1606;</synonym>&gt;
 <description xml:lang="Urdu">&#1705;&#1740;&#1605;&#1740;&#1575;&#1574;&#1740; &#1605;&#1585;&#1705;&#1576;</description></entry>
  
-<entry name="spironolactone" term="spironolactone" wikidataURL="http://www.wikidata.org/entity/Q422188" wikipediaURL="https://en.wikipedia.org/wiki/Spironolactone" wikidataID="Q422188" idx="533">
+<entry name="spironolactone" term="spironolactone" wikidataURL="http://www.wikidata.org/entity/Q422188" wikipediaURL="https://en.wikipedia.org/wiki/Spironolactone" wikidataID="Q422188" idx="['533', '532']" merged="true">
   <synonym>Aldactone</synonym>
   <synonym>Spironolactone</synonym>
   <synonym>Aldactone&#174;</synonym>
@@ -13214,7 +13214,7 @@
 <synonym xml:lang="Urdu">&#1575;&#1587;&#1662;&#1575;&#1574;&#1585;&#1608;&#1606;&#1608;&#1604;&#1740;&#1705;&#1657;&#1608;&#1606;</synonym>&gt;
 <description xml:lang="Urdu">&#1705;&#1740;&#1605;&#1740;&#1575;&#1574;&#1740; &#1605;&#1585;&#1705;&#1576;</description></entry>
  
-<entry name="mebendazole" term="mebendazole" wikidataURL="http://www.wikidata.org/entity/Q422194" wikipediaURL="https://en.wikipedia.org/wiki/Mebendazole" wikidataID="Q422194" idx="534">
+<entry name="mebendazole" term="mebendazole" wikidataURL="http://www.wikidata.org/entity/Q422194" wikipediaURL="https://en.wikipedia.org/wiki/Mebendazole" wikidataID="Q422194" idx="['534', '535']" merged="true">
   <synonym>Telmin</synonym>
   <synonym>Vermox</synonym>
   <synonym>(5-benzoyl-1H-benzimidazol-2-yl)-carbamic acid methyl ester</synonym>
@@ -13233,7 +13233,7 @@
 <synonym xml:lang="Spanish">Mebendazol</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="mebendazole" term="mebendazole" wikidataURL="http://www.wikidata.org/entity/Q422194" wikipediaURL="https://en.wikipedia.org/wiki/Mebendazole" wikidataID="Q422194" idx="['535', '534']" merged="true">
+<entry name="mebendazole" term="mebendazole" wikidataURL="http://www.wikidata.org/entity/Q422194" wikipediaURL="https://en.wikipedia.org/wiki/Mebendazole" wikidataID="Q422194" idx="535">
   <synonym>Telmin</synonym>
   <synonym>Vermox</synonym>
   <synonym>(5-benzoyl-1H-benzimidazol-2-yl)-carbamic acid methyl ester</synonym>
@@ -13738,7 +13738,7 @@
 <description xml:lang="Spanish">compuesto qu&#237;mico</description>
 <synonym xml:lang="Urdu">&#1576;&#1606;&#1586;&#1608;&#1705;&#1740;&#1606;</synonym></entry>
  
-<entry name="metamizole sodium" term="metamizole sodium" wikidataURL="http://www.wikidata.org/entity/Q422761" wikipediaURL="https://en.wikipedia.org/wiki/Metamizole" wikidataID="Q422761" idx="['548', '549']" merged="true">
+<entry name="metamizole sodium" term="metamizole sodium" wikidataURL="http://www.wikidata.org/entity/Q422761" wikipediaURL="https://en.wikipedia.org/wiki/Metamizole" wikidataID="Q422761" idx="548">
   <synonym>Algocalmin</synonym>
   <synonym>aminopyrine sodium sulfonate</synonym>
   <synonym>Analgin</synonym>
@@ -13770,7 +13770,7 @@
 <synonym xml:lang="Spanish">Metamizol</synonym>&gt;
 <description xml:lang="Spanish">f&#225;rmaco perteneciente</description></entry>
  
-<entry name="metamizole sodium" term="metamizole sodium" wikidataURL="http://www.wikidata.org/entity/Q422761" wikipediaURL="https://en.wikipedia.org/wiki/Metamizole" wikidataID="Q422761" idx="549">
+<entry name="metamizole sodium" term="metamizole sodium" wikidataURL="http://www.wikidata.org/entity/Q422761" wikipediaURL="https://en.wikipedia.org/wiki/Metamizole" wikidataID="Q422761" idx="['549', '548']" merged="true">
   <synonym>Algocalmin</synonym>
   <synonym>aminopyrine sodium sulfonate</synonym>
   <synonym>Analgin</synonym>
@@ -14670,7 +14670,7 @@
 <description xml:lang="Spanish">compuesto qu&#237;mico</description>
 <synonym xml:lang="Tamil">&#2965;&#3019;&#2994;&#3007;&#2985;&#3021;</synonym></entry>
  
-<entry name="salicylic acid" term="salicylic acid" wikidataURL="http://www.wikidata.org/entity/Q193572" wikipediaURL="https://en.wikipedia.org/wiki/Salicylic_acid" wikidataID="Q193572" idx="['586', '587']" merged="true">
+<entry name="salicylic acid" term="salicylic acid" wikidataURL="http://www.wikidata.org/entity/Q193572" wikipediaURL="https://en.wikipedia.org/wiki/Salicylic_acid" wikidataID="Q193572" idx="586">
   <synonym>2-carboxyphenol</synonym>
   <synonym>2-Carboxyphenol</synonym>
   <synonym>2-Hydroxybenzenecarboxylate</synonym>
@@ -14721,7 +14721,7 @@
 <description xml:lang="Spanish">compuesto qu&#237;mico</description>
 <synonym xml:lang="Urdu">&#1587;&#1575;&#1604;&#1740;&#1587;&#1575;&#1574;&#1604;&#1705; &#1578;&#1740;&#1586;&#1575;&#1576;</synonym></entry>
  
-<entry name="salicylic acid" term="salicylic acid" wikidataURL="http://www.wikidata.org/entity/Q193572" wikipediaURL="https://en.wikipedia.org/wiki/Salicylic_acid" wikidataID="Q193572" idx="587">
+<entry name="salicylic acid" term="salicylic acid" wikidataURL="http://www.wikidata.org/entity/Q193572" wikipediaURL="https://en.wikipedia.org/wiki/Salicylic_acid" wikidataID="Q193572" idx="['587', '586']" merged="true">
   <synonym>2-carboxyphenol</synonym>
   <synonym>2-Carboxyphenol</synonym>
   <synonym>2-Hydroxybenzenecarboxylate</synonym>
@@ -14952,7 +14952,7 @@
 <synonym xml:lang="Spanish">ciclosporina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="calcium cyanamide" term="calcium cyanamide" wikidataURL="http://www.wikidata.org/entity/Q367994" wikipediaURL="https://en.wikipedia.org/wiki/Calcium_cyanamide" wikidataID="Q367994" idx="['599', '600']" merged="true">
+<entry name="calcium cyanamide" term="calcium cyanamide" wikidataURL="http://www.wikidata.org/entity/Q367994" wikipediaURL="https://en.wikipedia.org/wiki/Calcium_cyanamide" wikidataID="Q367994" idx="599">
   <synonym>Calcium carbimide</synonym>
   <synonym>carbimida calcica</synonym>
   <synonym>carbimide calcique</synonym>
@@ -14974,7 +14974,7 @@
 <description xml:lang="Spanish">compuesto qu&#237;mico</description>
 <synonym xml:lang="Tamil">&#2965;&#3006;&#2994;&#3021;&#2970;&#3007;&#2991;&#2990;&#3021; &#2970;&#2991;&#2985;&#2990;&#3016;&#2975;&#3009;</synonym></entry>
  
-<entry name="calcium cyanamide" term="calcium cyanamide" wikidataURL="http://www.wikidata.org/entity/Q367994" wikipediaURL="https://en.wikipedia.org/wiki/Calcium_cyanamide" wikidataID="Q367994" idx="600">
+<entry name="calcium cyanamide" term="calcium cyanamide" wikidataURL="http://www.wikidata.org/entity/Q367994" wikipediaURL="https://en.wikipedia.org/wiki/Calcium_cyanamide" wikidataID="Q367994" idx="['600', '599']" merged="true">
   <synonym>Calcium carbimide</synonym>
   <synonym>carbimida calcica</synonym>
   <synonym>carbimide calcique</synonym>
@@ -15358,7 +15358,7 @@
 <synonym xml:lang="Spanish">metoclopramida</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="captopril" term="captopril" wikidataURL="http://www.wikidata.org/entity/Q421119" wikipediaURL="https://en.wikipedia.org/wiki/Captopril" wikidataID="Q421119" idx="617">
+<entry name="captopril" term="captopril" wikidataURL="http://www.wikidata.org/entity/Q421119" wikipediaURL="https://en.wikipedia.org/wiki/Captopril" wikidataID="Q421119" idx="['617', '619', '618']" merged="true">
   <synonym>CP</synonym>
   <synonym>Captopril</synonym>
   <synonym>(2S)-1-[(2S)-2-methyl-3-sulfanylpropanoyl]pyrrolidine-2-carboxylic acid</synonym>
@@ -15426,7 +15426,7 @@
 <synonym xml:lang="Spanish">Captopril</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="captopril" term="captopril" wikidataURL="http://www.wikidata.org/entity/Q421119" wikipediaURL="https://en.wikipedia.org/wiki/Captopril" wikidataID="Q421119" idx="['619', '617', '618']" merged="true">
+<entry name="captopril" term="captopril" wikidataURL="http://www.wikidata.org/entity/Q421119" wikipediaURL="https://en.wikipedia.org/wiki/Captopril" wikidataID="Q421119" idx="619">
   <synonym>CP</synonym>
   <synonym>Captopril</synonym>
   <synonym>(2S)-1-[(2S)-2-methyl-3-sulfanylpropanoyl]pyrrolidine-2-carboxylic acid</synonym>
@@ -16652,7 +16652,7 @@
 <synonym xml:lang="Spanish">Digitoxina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="methaqualone" term="methaqualone" wikidataURL="http://www.wikidata.org/entity/Q423912" wikipediaURL="https://en.wikipedia.org/wiki/Methaqualone" wikidataID="Q423912" idx="680">
+<entry name="methaqualone" term="methaqualone" wikidataURL="http://www.wikidata.org/entity/Q423912" wikipediaURL="https://en.wikipedia.org/wiki/Methaqualone" wikidataID="Q423912" idx="['680', '681']" merged="true">
   <synonym>Methaqualone</synonym>
   <synonym>CI-705</synonym>
   <synonym>CN-38703</synonym>
@@ -16668,7 +16668,7 @@
 <synonym xml:lang="Spanish">Metacualona</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="methaqualone" term="methaqualone" wikidataURL="http://www.wikidata.org/entity/Q423912" wikipediaURL="https://en.wikipedia.org/wiki/Methaqualone" wikidataID="Q423912" idx="['681', '680']" merged="true">
+<entry name="methaqualone" term="methaqualone" wikidataURL="http://www.wikidata.org/entity/Q423912" wikipediaURL="https://en.wikipedia.org/wiki/Methaqualone" wikidataID="Q423912" idx="681">
   <synonym>Methaqualone</synonym>
   <synonym>CI-705</synonym>
   <synonym>CN-38703</synonym>
@@ -17192,7 +17192,7 @@
 <synonym xml:lang="Spanish">Ertapenem</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="omeprazole" term="omeprazole" wikidataURL="http://www.wikidata.org/entity/Q422210" wikipediaURL="https://en.wikipedia.org/wiki/Omeprazole" wikidataID="Q422210" idx="['702', '703']" merged="true">
+<entry name="omeprazole" term="omeprazole" wikidataURL="http://www.wikidata.org/entity/Q422210" wikipediaURL="https://en.wikipedia.org/wiki/Omeprazole" wikidataID="Q422210" idx="702">
   <synonym>Omeprazole</synonym>
   <synonym>H 168/68</synonym>
   <synonym>Losec&#174;</synonym>
@@ -17207,7 +17207,7 @@
 <synonym xml:lang="Spanish">Omeprazol</synonym>&gt;
 <description xml:lang="Spanish">medicamento</description></entry>
  
-<entry name="omeprazole" term="omeprazole" wikidataURL="http://www.wikidata.org/entity/Q422210" wikipediaURL="https://en.wikipedia.org/wiki/Omeprazole" wikidataID="Q422210" idx="703">
+<entry name="omeprazole" term="omeprazole" wikidataURL="http://www.wikidata.org/entity/Q422210" wikipediaURL="https://en.wikipedia.org/wiki/Omeprazole" wikidataID="Q422210" idx="['703', '702']" merged="true">
   <synonym>Omeprazole</synonym>
   <synonym>H 168/68</synonym>
   <synonym>Losec&#174;</synonym>
@@ -18214,7 +18214,7 @@
 <description xml:lang="Spanish">compuesto qu&#237;mico</description>
 <synonym xml:lang="Tamil">&#2980;&#3006;&#2994;&#3007;&#2975;&#3019;&#2990;&#3016;&#2975;&#3009;</synonym></entry>
  
-<entry name="zimeldine" term="zimeldine" wikidataURL="http://www.wikidata.org/entity/Q203483" wikipediaURL="https://en.wikipedia.org/wiki/Zimelidine" wikidataID="Q203483" idx="['740', '741']" merged="true">
+<entry name="zimeldine" term="zimeldine" wikidataURL="http://www.wikidata.org/entity/Q203483" wikipediaURL="https://en.wikipedia.org/wiki/Zimelidine" wikidataID="Q203483" idx="740">
   <synonym>(Z)-3-(4'-Bromophenyl)-3-(3''-pyridyl)dimethylallylamine</synonym>
   <synonym>(Z)-3-[1-(p-Bromophenyl)-3-(dimethylamino)propenyl]pyridine</synonym>
   <synonym>(z)-zimelidine</synonym>
@@ -18227,7 +18227,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="zimeldine" term="zimeldine" wikidataURL="http://www.wikidata.org/entity/Q203483" wikipediaURL="https://en.wikipedia.org/wiki/Zimelidine" wikidataID="Q203483" idx="741">
+<entry name="zimeldine" term="zimeldine" wikidataURL="http://www.wikidata.org/entity/Q203483" wikipediaURL="https://en.wikipedia.org/wiki/Zimelidine" wikidataID="Q203483" idx="['741', '740']" merged="true">
   <synonym>(Z)-3-(4'-Bromophenyl)-3-(3''-pyridyl)dimethylallylamine</synonym>
   <synonym>(Z)-3-[1-(p-Bromophenyl)-3-(dimethylamino)propenyl]pyridine</synonym>
   <synonym>(z)-zimelidine</synonym>
@@ -18258,7 +18258,7 @@
 <synonym xml:lang="Spanish">Ziprasidona</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="theobromine" term="theobromine" wikidataURL="http://www.wikidata.org/entity/Q206844" wikipediaURL="https://en.wikipedia.org/wiki/Theobromine" wikidataID="Q206844" idx="743">
+<entry name="theobromine" term="theobromine" wikidataURL="http://www.wikidata.org/entity/Q206844" wikipediaURL="https://en.wikipedia.org/wiki/Theobromine" wikidataID="Q206844" idx="['743', '744']" merged="true">
   <synonym>Theobromine</synonym>
   <synonym>6-Dihydroxy-3</synonym>
   <synonym>7-dimethyl-purine</synonym>
@@ -18282,7 +18282,7 @@
 <synonym xml:lang="Spanish">Teobromina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="theobromine" term="theobromine" wikidataURL="http://www.wikidata.org/entity/Q206844" wikipediaURL="https://en.wikipedia.org/wiki/Theobromine" wikidataID="Q206844" idx="['744', '743']" merged="true">
+<entry name="theobromine" term="theobromine" wikidataURL="http://www.wikidata.org/entity/Q206844" wikipediaURL="https://en.wikipedia.org/wiki/Theobromine" wikidataID="Q206844" idx="744">
   <synonym>Theobromine</synonym>
   <synonym>6-Dihydroxy-3</synonym>
   <synonym>7-dimethyl-purine</synonym>
@@ -18874,7 +18874,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="phenylbutazone" term="phenylbutazone" wikidataURL="http://www.wikidata.org/entity/Q421342" wikipediaURL="https://en.wikipedia.org/wiki/Phenylbutazone" wikidataID="Q421342" idx="768">
+<entry name="phenylbutazone" term="phenylbutazone" wikidataURL="http://www.wikidata.org/entity/Q421342" wikipediaURL="https://en.wikipedia.org/wiki/Phenylbutazone" wikidataID="Q421342" idx="['768', '769']" merged="true">
   <synonym>Phenylbutazone</synonym>
   <synonym>2-Diphenyl-3</synonym>
   <synonym>5-dioxo-4-n-butylpyrazoline</synonym>
@@ -18902,7 +18902,7 @@
 <synonym xml:lang="Spanish">Fenilbutazona</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="phenylbutazone" term="phenylbutazone" wikidataURL="http://www.wikidata.org/entity/Q421342" wikipediaURL="https://en.wikipedia.org/wiki/Phenylbutazone" wikidataID="Q421342" idx="['769', '768']" merged="true">
+<entry name="phenylbutazone" term="phenylbutazone" wikidataURL="http://www.wikidata.org/entity/Q421342" wikipediaURL="https://en.wikipedia.org/wiki/Phenylbutazone" wikidataID="Q421342" idx="769">
   <synonym>Phenylbutazone</synonym>
   <synonym>2-Diphenyl-3</synonym>
   <synonym>5-dioxo-4-n-butylpyrazoline</synonym>
@@ -19137,7 +19137,7 @@
 <synonym xml:lang="Spanish">Rimonabant</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="carvedilol" term="carvedilol" wikidataURL="http://www.wikidata.org/entity/Q412534" wikipediaURL="https://en.wikipedia.org/wiki/Carvedilol" wikidataID="Q412534" idx="778">
+<entry name="carvedilol" term="carvedilol" wikidataURL="http://www.wikidata.org/entity/Q412534" wikipediaURL="https://en.wikipedia.org/wiki/Carvedilol" wikidataID="Q412534" idx="['778', '779']" merged="true">
   <synonym>Carvedilol</synonym>
   <synonym>(+-)-1-(carbazol-4-yloxy)-3-((2-(o-methoxyphenoxy)ethyl)amino)-2-propanol</synonym>
   <synonym>(+-)-1-(Carbazol-4-yloxy)-3-((2-(O-methoxyphenoxy)ethyl)amino)-2-propanol</synonym>
@@ -19151,7 +19151,7 @@
 <synonym xml:lang="Spanish">Carvedilol</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="carvedilol" term="carvedilol" wikidataURL="http://www.wikidata.org/entity/Q412534" wikipediaURL="https://en.wikipedia.org/wiki/Carvedilol" wikidataID="Q412534" idx="['779', '778']" merged="true">
+<entry name="carvedilol" term="carvedilol" wikidataURL="http://www.wikidata.org/entity/Q412534" wikipediaURL="https://en.wikipedia.org/wiki/Carvedilol" wikidataID="Q412534" idx="779">
   <synonym>Carvedilol</synonym>
   <synonym>(+-)-1-(carbazol-4-yloxy)-3-((2-(o-methoxyphenoxy)ethyl)amino)-2-propanol</synonym>
   <synonym>(+-)-1-(Carbazol-4-yloxy)-3-((2-(O-methoxyphenoxy)ethyl)amino)-2-propanol</synonym>
@@ -19165,7 +19165,7 @@
 <synonym xml:lang="Spanish">Carvedilol</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="methyldopa" term="methyldopa" wikidataURL="http://www.wikidata.org/entity/Q412621" wikipediaURL="https://en.wikipedia.org/wiki/Methyldopa" wikidataID="Q412621" idx="['780', '781']" merged="true">
+<entry name="methyldopa" term="methyldopa" wikidataURL="http://www.wikidata.org/entity/Q412621" wikipediaURL="https://en.wikipedia.org/wiki/Methyldopa" wikidataID="Q412621" idx="780">
   <synonym>AMD</synonym>
   <synonym>(-)-a-methyldopa</synonym>
   <synonym>(-)-alpha-methyldopa</synonym>
@@ -19287,7 +19287,7 @@
 <synonym xml:lang="Spanish">Metildopa</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="methyldopa" term="methyldopa" wikidataURL="http://www.wikidata.org/entity/Q412621" wikipediaURL="https://en.wikipedia.org/wiki/Methyldopa" wikidataID="Q412621" idx="781">
+<entry name="methyldopa" term="methyldopa" wikidataURL="http://www.wikidata.org/entity/Q412621" wikipediaURL="https://en.wikipedia.org/wiki/Methyldopa" wikidataID="Q412621" idx="['781', '780']" merged="true">
   <synonym>AMD</synonym>
   <synonym>(-)-a-methyldopa</synonym>
   <synonym>(-)-alpha-methyldopa</synonym>
@@ -19499,7 +19499,7 @@
 <description xml:lang="Spanish">compuesto qu&#237;mico</description>
 <synonym xml:lang="Tamil">&#2965;&#3008;&#2993;&#3021;&#2993;&#3019;&#2986;&#3021;&#2992;&#3019;&#2986;&#3014;&#2985;&#3021;</synonym></entry>
  
-<entry name="indomethacin" term="indomethacin" wikidataURL="http://www.wikidata.org/entity/Q409231" wikipediaURL="https://en.wikipedia.org/wiki/Indometacin" wikidataID="Q409231" idx="786">
+<entry name="indomethacin" term="indomethacin" wikidataURL="http://www.wikidata.org/entity/Q409231" wikipediaURL="https://en.wikipedia.org/wiki/Indometacin" wikidataID="Q409231" idx="['786', '787']" merged="true">
   <synonym>{1-[(4-chlorophenyl)carbonyl]-5-methoxy-2-methyl-1H-indol-3-yl}acetic acid</synonym>
   <synonym>1-(p-chlorobenzoyl)-5-methoxy-2-methylindole-3-acetic acid</synonym>
   <synonym>Aconip</synonym>
@@ -19518,7 +19518,7 @@
 <description xml:lang="Spanish">compuesto qu&#237;mico</description>
 <synonym xml:lang="Tamil">&#2951;&#2985;&#3021;&#2975;&#3019;&#2990;&#3014;&#2980;&#3006;&#2970;&#3007;&#2985;&#3021;</synonym></entry>
  
-<entry name="indomethacin" term="indomethacin" wikidataURL="http://www.wikidata.org/entity/Q409231" wikipediaURL="https://en.wikipedia.org/wiki/Indometacin" wikidataID="Q409231" idx="['787', '786']" merged="true">
+<entry name="indomethacin" term="indomethacin" wikidataURL="http://www.wikidata.org/entity/Q409231" wikipediaURL="https://en.wikipedia.org/wiki/Indometacin" wikidataID="Q409231" idx="787">
   <synonym>{1-[(4-chlorophenyl)carbonyl]-5-methoxy-2-methyl-1H-indol-3-yl}acetic acid</synonym>
   <synonym>1-(p-chlorobenzoyl)-5-methoxy-2-methylindole-3-acetic acid</synonym>
   <synonym>Aconip</synonym>
@@ -20381,7 +20381,7 @@
 <synonym xml:lang="Spanish">Nitrito de sodio</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="mifepristone" term="mifepristone" wikidataURL="http://www.wikidata.org/entity/Q411240" wikipediaURL="https://en.wikipedia.org/wiki/Mifepristone" wikidataID="Q411240" idx="['824', '825']" merged="true">
+<entry name="mifepristone" term="mifepristone" wikidataURL="http://www.wikidata.org/entity/Q411240" wikipediaURL="https://en.wikipedia.org/wiki/Mifepristone" wikidataID="Q411240" idx="824">
   <synonym>Mifepristone</synonym>
   <synonym>11-(4-DIMETHYLAMINO-phenyl)-17-hydroxy-13-methyl-17-prop-1-ynyl-1</synonym>
   <synonym>17-dodec ahydro-cyclopenta[a]phenanthren-3-one</synonym>
@@ -20401,7 +20401,7 @@
 <synonym xml:lang="Spanish">Mifepristona</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="mifepristone" term="mifepristone" wikidataURL="http://www.wikidata.org/entity/Q411240" wikipediaURL="https://en.wikipedia.org/wiki/Mifepristone" wikidataID="Q411240" idx="825">
+<entry name="mifepristone" term="mifepristone" wikidataURL="http://www.wikidata.org/entity/Q411240" wikipediaURL="https://en.wikipedia.org/wiki/Mifepristone" wikidataID="Q411240" idx="['825', '824']" merged="true">
   <synonym>Mifepristone</synonym>
   <synonym>11-(4-DIMETHYLAMINO-phenyl)-17-hydroxy-13-methyl-17-prop-1-ynyl-1</synonym>
   <synonym>17-dodec ahydro-cyclopenta[a]phenanthren-3-one</synonym>
@@ -20450,7 +20450,7 @@
 <synonym xml:lang="Spanish">Hesperetin</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="atenolol" term="atenolol" wikidataURL="http://www.wikidata.org/entity/Q411325" wikipediaURL="https://en.wikipedia.org/wiki/Atenolol" wikidataID="Q411325" idx="827">
+<entry name="atenolol" term="atenolol" wikidataURL="http://www.wikidata.org/entity/Q411325" wikipediaURL="https://en.wikipedia.org/wiki/Atenolol" wikidataID="Q411325" idx="['827', '828']" merged="true">
   <synonym>1-p-Carbamoylmethylphenoxy-3-isopropylamino-2-propanol</synonym>
   <synonym>2-(p-(2-Hydroxy-3-(isopropylamino)propoxy)phenyl)acetamide</synonym>
   <synonym>4-(2-Hydroxy-3-((1-methylethyl)amino)propoxy)benzeneacetamide</synonym>
@@ -20569,7 +20569,7 @@
 <synonym xml:lang="Spanish">Atenolol</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="atenolol" term="atenolol" wikidataURL="http://www.wikidata.org/entity/Q411325" wikipediaURL="https://en.wikipedia.org/wiki/Atenolol" wikidataID="Q411325" idx="['828', '827']" merged="true">
+<entry name="atenolol" term="atenolol" wikidataURL="http://www.wikidata.org/entity/Q411325" wikipediaURL="https://en.wikipedia.org/wiki/Atenolol" wikidataID="Q411325" idx="828">
   <synonym>1-p-Carbamoylmethylphenoxy-3-isopropylamino-2-propanol</synonym>
   <synonym>2-(p-(2-Hydroxy-3-(isopropylamino)propoxy)phenyl)acetamide</synonym>
   <synonym>4-(2-Hydroxy-3-((1-methylethyl)amino)propoxy)benzeneacetamide</synonym>
@@ -20953,7 +20953,7 @@
 <synonym xml:lang="Spanish">Rasagilina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="erythromycin" term="erythromycin" wikidataURL="http://www.wikidata.org/entity/Q213511" wikipediaURL="https://en.wikipedia.org/wiki/Erythromycin" wikidataID="Q213511" idx="842">
+<entry name="erythromycin" term="erythromycin" wikidataURL="http://www.wikidata.org/entity/Q213511" wikipediaURL="https://en.wikipedia.org/wiki/Erythromycin" wikidataID="Q213511" idx="['842', '843']" merged="true">
   <synonym>Sansac</synonym>
   <synonym>Ery-Tab</synonym>
   <synonym>Emgel</synonym>
@@ -21027,7 +21027,7 @@
 <synonym xml:lang="Spanish">eritromicina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="erythromycin" term="erythromycin" wikidataURL="http://www.wikidata.org/entity/Q213511" wikipediaURL="https://en.wikipedia.org/wiki/Erythromycin" wikidataID="Q213511" idx="['843', '842']" merged="true">
+<entry name="erythromycin" term="erythromycin" wikidataURL="http://www.wikidata.org/entity/Q213511" wikipediaURL="https://en.wikipedia.org/wiki/Erythromycin" wikidataID="Q213511" idx="843">
   <synonym>Sansac</synonym>
   <synonym>Ery-Tab</synonym>
   <synonym>Emgel</synonym>
@@ -21382,7 +21382,7 @@
 <synonym xml:lang="Spanish">Flecainida</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="nimodipine" term="nimodipine" wikidataURL="http://www.wikidata.org/entity/Q421429" wikipediaURL="https://en.wikipedia.org/wiki/Nimodipine" wikidataID="Q421429" idx="['856', '857']" merged="true">
+<entry name="nimodipine" term="nimodipine" wikidataURL="http://www.wikidata.org/entity/Q421429" wikipediaURL="https://en.wikipedia.org/wiki/Nimodipine" wikidataID="Q421429" idx="856">
   <synonym>6-dimethyl-4-(3'-nitrophenyl)-1</synonym>
   <synonym>4-dihydropyridine-3</synonym>
   <synonym>5-dicarboxylic acid 3-beta-methoxyethyl ester 5-isopropyl ester</synonym>
@@ -21410,7 +21410,7 @@
 <synonym xml:lang="Spanish">Nimodipina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="nimodipine" term="nimodipine" wikidataURL="http://www.wikidata.org/entity/Q421429" wikipediaURL="https://en.wikipedia.org/wiki/Nimodipine" wikidataID="Q421429" idx="857">
+<entry name="nimodipine" term="nimodipine" wikidataURL="http://www.wikidata.org/entity/Q421429" wikipediaURL="https://en.wikipedia.org/wiki/Nimodipine" wikidataID="Q421429" idx="['857', '856']" merged="true">
   <synonym>6-dimethyl-4-(3'-nitrophenyl)-1</synonym>
   <synonym>4-dihydropyridine-3</synonym>
   <synonym>5-dicarboxylic acid 3-beta-methoxyethyl ester 5-isopropyl ester</synonym>
@@ -21521,7 +21521,7 @@
 <synonym xml:lang="Spanish">clobetasol</synonym>&gt;
 <description xml:lang="Spanish">Propionato de clobetasol 0,05</description></entry>
  
-<entry name="vigabatrin" term="vigabatrin" wikidataURL="http://www.wikidata.org/entity/Q421663" wikipediaURL="https://en.wikipedia.org/wiki/Vigabatrin" wikidataID="Q421663" idx="861">
+<entry name="vigabatrin" term="vigabatrin" wikidataURL="http://www.wikidata.org/entity/Q421663" wikipediaURL="https://en.wikipedia.org/wiki/Vigabatrin" wikidataID="Q421663" idx="['861', '862']" merged="true">
   <synonym>Vigabatrin</synonym>
   <synonym>4-Amino-5-hexenoic acid</synonym>
   <synonym>CPP-109</synonym>
@@ -21544,7 +21544,7 @@
 <synonym xml:lang="Spanish">Vigabatrina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="vigabatrin" term="vigabatrin" wikidataURL="http://www.wikidata.org/entity/Q421663" wikipediaURL="https://en.wikipedia.org/wiki/Vigabatrin" wikidataID="Q421663" idx="['862', '861']" merged="true">
+<entry name="vigabatrin" term="vigabatrin" wikidataURL="http://www.wikidata.org/entity/Q421663" wikipediaURL="https://en.wikipedia.org/wiki/Vigabatrin" wikidataID="Q421663" idx="862">
   <synonym>Vigabatrin</synonym>
   <synonym>4-Amino-5-hexenoic acid</synonym>
   <synonym>CPP-109</synonym>
@@ -21751,7 +21751,7 @@
 <synonym xml:lang="Spanish">Aprepitant</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="etoricoxib" term="etoricoxib" wikidataURL="http://www.wikidata.org/entity/Q631202" wikipediaURL="https://en.wikipedia.org/wiki/Etoricoxib" wikidataID="Q631202" idx="871">
+<entry name="etoricoxib" term="etoricoxib" wikidataURL="http://www.wikidata.org/entity/Q631202" wikipediaURL="https://en.wikipedia.org/wiki/Etoricoxib" wikidataID="Q631202" idx="['871', '872']" merged="true">
   <synonym>Etoricoxib</synonym>
   <synonym>5-chloro-2-(6-Methylpyridin-3-yl)-3-(4-(methylsulfonyl)phenyl)pyridine</synonym>
   <synonym>5-Chloro-3-(4-methanesulfonyl-phenyl)-6'-methyl-[2</synonym>
@@ -21772,7 +21772,7 @@
 <synonym xml:lang="Spanish">Etoricoxib</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="etoricoxib" term="etoricoxib" wikidataURL="http://www.wikidata.org/entity/Q631202" wikipediaURL="https://en.wikipedia.org/wiki/Etoricoxib" wikidataID="Q631202" idx="['872', '871']" merged="true">
+<entry name="etoricoxib" term="etoricoxib" wikidataURL="http://www.wikidata.org/entity/Q631202" wikipediaURL="https://en.wikipedia.org/wiki/Etoricoxib" wikidataID="Q631202" idx="872">
   <synonym>Etoricoxib</synonym>
   <synonym>5-chloro-2-(6-Methylpyridin-3-yl)-3-(4-(methylsulfonyl)phenyl)pyridine</synonym>
   <synonym>5-Chloro-3-(4-methanesulfonyl-phenyl)-6'-methyl-[2</synonym>
@@ -22190,7 +22190,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="droxidopa" term="droxidopa" wikidataURL="http://www.wikidata.org/entity/Q907853" wikipediaURL="https://en.wikipedia.org/wiki/Droxidopa" wikidataID="Q907853" idx="['894', '895']" merged="true">
+<entry name="droxidopa" term="droxidopa" wikidataURL="http://www.wikidata.org/entity/Q907853" wikipediaURL="https://en.wikipedia.org/wiki/Droxidopa" wikidataID="Q907853" idx="894">
   <synonym>DOPS</synonym>
   <synonym>(-)-(2S</synonym>
   <synonym>3R)-2-amino-3-hydroxy-3-(3</synonym>
@@ -22213,7 +22213,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="droxidopa" term="droxidopa" wikidataURL="http://www.wikidata.org/entity/Q907853" wikipediaURL="https://en.wikipedia.org/wiki/Droxidopa" wikidataID="Q907853" idx="895">
+<entry name="droxidopa" term="droxidopa" wikidataURL="http://www.wikidata.org/entity/Q907853" wikipediaURL="https://en.wikipedia.org/wiki/Droxidopa" wikidataID="Q907853" idx="['895', '894']" merged="true">
   <synonym>DOPS</synonym>
   <synonym>(-)-(2S</synonym>
   <synonym>3R)-2-amino-3-hydroxy-3-(3</synonym>
@@ -24015,7 +24015,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="cosyntropin" term="cosyntropin" wikidataURL="http://www.wikidata.org/entity/Q560542" wikipediaURL="https://en.wikipedia.org/wiki/Adrenocorticotropic_hormone_(medication)" wikidataID="Q560542" idx="['999', '1000']" merged="true">
+<entry name="cosyntropin" term="cosyntropin" wikidataURL="http://www.wikidata.org/entity/Q560542" wikipediaURL="https://en.wikipedia.org/wiki/Adrenocorticotropic_hormone_(medication)" wikidataID="Q560542" idx="999">
   <synonym>adrenocorticotropic hormone 1-24</synonym>
   <synonym>Adrenocorticotropic hormone 1-24</synonym>
   <synonym>Adrenocorticotropic hormone fragment 1-24 human</synonym>
@@ -24045,7 +24045,7 @@
 <synonym xml:lang="Spanish">Tetracosactida</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="cosyntropin" term="cosyntropin" wikidataURL="http://www.wikidata.org/entity/Q560542" wikipediaURL="https://en.wikipedia.org/wiki/Adrenocorticotropic_hormone_(medication)" wikidataID="Q560542" idx="1000">
+<entry name="cosyntropin" term="cosyntropin" wikidataURL="http://www.wikidata.org/entity/Q560542" wikipediaURL="https://en.wikipedia.org/wiki/Adrenocorticotropic_hormone_(medication)" wikidataID="Q560542" idx="['1000', '999']" merged="true">
   <synonym>adrenocorticotropic hormone 1-24</synonym>
   <synonym>Adrenocorticotropic hormone 1-24</synonym>
   <synonym>Adrenocorticotropic hormone fragment 1-24 human</synonym>
@@ -24442,14 +24442,14 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="manidipine" term="manidipine" wikidataURL="http://www.wikidata.org/entity/Q921133" wikipediaURL="https://en.wikipedia.org/wiki/Manidipine" wikidataID="Q921133" idx="['1024', '1025']" merged="true">
+<entry name="manidipine" term="manidipine" wikidataURL="http://www.wikidata.org/entity/Q921133" wikipediaURL="https://en.wikipedia.org/wiki/Manidipine" wikidataID="Q921133" idx="1024">
   <synonym>Manidipine</synonym>
  &gt;
 <description xml:lang="German">chemische Verbindung</description>&gt;
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="manidipine" term="manidipine" wikidataURL="http://www.wikidata.org/entity/Q921133" wikipediaURL="https://en.wikipedia.org/wiki/Manidipine" wikidataID="Q921133" idx="1025">
+<entry name="manidipine" term="manidipine" wikidataURL="http://www.wikidata.org/entity/Q921133" wikipediaURL="https://en.wikipedia.org/wiki/Manidipine" wikidataID="Q921133" idx="['1025', '1024']" merged="true">
   <synonym>Manidipine</synonym>
  &gt;
 <description xml:lang="German">chemische Verbindung</description>&gt;
@@ -25585,13 +25585,13 @@
 <synonym xml:lang="Spanish">Parametadiona</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="pidotimod" term="pidotimod" wikidataURL="http://www.wikidata.org/entity/Q3902720" wikipediaURL="https://en.wikipedia.org/wiki/Pidotimod" wikidataID="Q3902720" idx="['1102', '1103']" merged="true">&gt;
+<entry name="pidotimod" term="pidotimod" wikidataURL="http://www.wikidata.org/entity/Q3902720" wikipediaURL="https://en.wikipedia.org/wiki/Pidotimod" wikidataID="Q3902720" idx="1102">&gt;
 <description xml:lang="German">chemische Verbindung</description>
 <synonym xml:lang="Portuguese">pidotimod</synonym>&gt;
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="pidotimod" term="pidotimod" wikidataURL="http://www.wikidata.org/entity/Q3902720" wikipediaURL="https://en.wikipedia.org/wiki/Pidotimod" wikidataID="Q3902720" idx="1103">&gt;
+<entry name="pidotimod" term="pidotimod" wikidataURL="http://www.wikidata.org/entity/Q3902720" wikipediaURL="https://en.wikipedia.org/wiki/Pidotimod" wikidataID="Q3902720" idx="['1103', '1102']" merged="true">&gt;
 <description xml:lang="German">chemische Verbindung</description>
 <synonym xml:lang="Portuguese">pidotimod</synonym>&gt;
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
@@ -27460,14 +27460,14 @@
 <synonym xml:lang="Spanish">pridopidina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="quinaprilat" term="quinaprilat" wikidataURL="http://www.wikidata.org/entity/Q7272073" wikipediaURL="https://en.wikipedia.org/wiki/Quinaprilat" wikidataID="Q7272073" idx="1245">
+<entry name="quinaprilat" term="quinaprilat" wikidataURL="http://www.wikidata.org/entity/Q7272073" wikipediaURL="https://en.wikipedia.org/wiki/Quinaprilat" wikidataID="Q7272073" idx="['1245', '1246']" merged="true">
   <synonym>CL-928</synonym>
  &gt;
 <description xml:lang="German">chemische Verbindung</description>&gt;
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="quinaprilat" term="quinaprilat" wikidataURL="http://www.wikidata.org/entity/Q7272073" wikipediaURL="https://en.wikipedia.org/wiki/Quinaprilat" wikidataID="Q7272073" idx="['1246', '1245']" merged="true">
+<entry name="quinaprilat" term="quinaprilat" wikidataURL="http://www.wikidata.org/entity/Q7272073" wikipediaURL="https://en.wikipedia.org/wiki/Quinaprilat" wikidataID="Q7272073" idx="1246">
   <synonym>CL-928</synonym>
  &gt;
 <description xml:lang="German">chemische Verbindung</description>&gt;
@@ -27488,7 +27488,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="regadenoson" term="regadenoson" wikidataURL="http://www.wikidata.org/entity/Q7307897" wikipediaURL="https://en.wikipedia.org/wiki/Regadenoson" wikidataID="Q7307897" idx="['1248', '1249']" merged="true">
+<entry name="regadenoson" term="regadenoson" wikidataURL="http://www.wikidata.org/entity/Q7307897" wikipediaURL="https://en.wikipedia.org/wiki/Regadenoson" wikidataID="Q7307897" idx="1248">
   <synonym>CVT-3146</synonym>
   <synonym>Lexiscan&#174;</synonym>
   <synonym>Rapiscan&#174;</synonym>
@@ -27501,7 +27501,7 @@
 <synonym xml:lang="Spanish">regadenoson</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="regadenoson" term="regadenoson" wikidataURL="http://www.wikidata.org/entity/Q7307897" wikipediaURL="https://en.wikipedia.org/wiki/Regadenoson" wikidataID="Q7307897" idx="1249">
+<entry name="regadenoson" term="regadenoson" wikidataURL="http://www.wikidata.org/entity/Q7307897" wikipediaURL="https://en.wikipedia.org/wiki/Regadenoson" wikidataID="Q7307897" idx="['1249', '1248']" merged="true">
   <synonym>CVT-3146</synonym>
   <synonym>Lexiscan&#174;</synonym>
   <synonym>Rapiscan&#174;</synonym>
@@ -28639,7 +28639,7 @@
 <synonym xml:lang="Spanish">duvelisib</synonym>&gt;
 <description xml:lang="Spanish">PI3K</description></entry>
  
-<entry name="enasidenib" term="enasidenib" wikidataURL="http://www.wikidata.org/entity/Q27077182" wikipediaURL="https://en.wikipedia.org/wiki/Enasidenib" wikidataID="Q27077182" idx="1350">
+<entry name="enasidenib" term="enasidenib" wikidataURL="http://www.wikidata.org/entity/Q27077182" wikipediaURL="https://en.wikipedia.org/wiki/Enasidenib" wikidataID="Q27077182" idx="['1350', '1351']" merged="true">
   <synonym>2-Methyl-1-(4-(6-(trifluoromethyl)pyridin-2-yl)-6-(2-(trifluoromethyl)pyridin-4-ylamino)-1</synonym>
   <synonym>5-triazin-2-ylamino)propan-2-ol</synonym>
   <synonym>AG-221</synonym>
@@ -28650,7 +28650,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="enasidenib" term="enasidenib" wikidataURL="http://www.wikidata.org/entity/Q27077182" wikipediaURL="https://en.wikipedia.org/wiki/Enasidenib" wikidataID="Q27077182" idx="['1351', '1350']" merged="true">
+<entry name="enasidenib" term="enasidenib" wikidataURL="http://www.wikidata.org/entity/Q27077182" wikipediaURL="https://en.wikipedia.org/wiki/Enasidenib" wikidataID="Q27077182" idx="1351">
   <synonym>2-Methyl-1-(4-(6-(trifluoromethyl)pyridin-2-yl)-6-(2-(trifluoromethyl)pyridin-4-ylamino)-1</synonym>
   <synonym>5-triazin-2-ylamino)propan-2-ol</synonym>
   <synonym>AG-221</synonym>
@@ -28918,7 +28918,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="venlafaxine" term="venlafaxine" wikidataURL="http://www.wikidata.org/entity/Q898407" wikipediaURL="https://en.wikipedia.org/wiki/Venlafaxine" wikidataID="Q898407" idx="['1376', '1377']" merged="true">
+<entry name="venlafaxine" term="venlafaxine" wikidataURL="http://www.wikidata.org/entity/Q898407" wikipediaURL="https://en.wikipedia.org/wiki/Venlafaxine" wikidataID="Q898407" idx="1376">
   <synonym>1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl]cyclohexan-1-ol</synonym>
   <synonym>Efectin</synonym>
   <synonym>Efexor</synonym>
@@ -28936,7 +28936,7 @@
 <synonym xml:lang="Spanish">Venlafaxina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="venlafaxine" term="venlafaxine" wikidataURL="http://www.wikidata.org/entity/Q898407" wikipediaURL="https://en.wikipedia.org/wiki/Venlafaxine" wikidataID="Q898407" idx="1377">
+<entry name="venlafaxine" term="venlafaxine" wikidataURL="http://www.wikidata.org/entity/Q898407" wikipediaURL="https://en.wikipedia.org/wiki/Venlafaxine" wikidataID="Q898407" idx="['1377', '1376']" merged="true">
   <synonym>1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl]cyclohexan-1-ol</synonym>
   <synonym>Efectin</synonym>
   <synonym>Efexor</synonym>
@@ -28954,7 +28954,7 @@
 <synonym xml:lang="Spanish">Venlafaxina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="icatibant" term="icatibant" wikidataURL="http://www.wikidata.org/entity/Q902379" wikipediaURL="https://en.wikipedia.org/wiki/Icatibant" wikidataID="Q902379" idx="['1378', '1379']" merged="true">
+<entry name="icatibant" term="icatibant" wikidataURL="http://www.wikidata.org/entity/Q902379" wikipediaURL="https://en.wikipedia.org/wiki/Icatibant" wikidataID="Q902379" idx="1378">
   <synonym>HOE 140</synonym>
   <synonym>HOE-140</synonym>
  <synonym xml:lang="German">Icatibant</synonym>&gt;
@@ -28964,7 +28964,7 @@
 <synonym xml:lang="Spanish">Icatibant</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="icatibant" term="icatibant" wikidataURL="http://www.wikidata.org/entity/Q902379" wikipediaURL="https://en.wikipedia.org/wiki/Icatibant" wikidataID="Q902379" idx="1379">
+<entry name="icatibant" term="icatibant" wikidataURL="http://www.wikidata.org/entity/Q902379" wikipediaURL="https://en.wikipedia.org/wiki/Icatibant" wikidataID="Q902379" idx="['1379', '1378']" merged="true">
   <synonym>HOE 140</synonym>
   <synonym>HOE-140</synonym>
  <synonym xml:lang="German">Icatibant</synonym>&gt;
@@ -29488,7 +29488,7 @@
 <synonym xml:lang="Spanish">mirabegron</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="delorazepam" term="delorazepam" wikidataURL="http://www.wikidata.org/entity/Q3705147" wikipediaURL="https://en.wikipedia.org/wiki/Delorazepam" wikidataID="Q3705147" idx="1406">
+<entry name="delorazepam" term="delorazepam" wikidataURL="http://www.wikidata.org/entity/Q3705147" wikipediaURL="https://en.wikipedia.org/wiki/Delorazepam" wikidataID="Q3705147" idx="['1406', '1407']" merged="true">
   <synonym>Chlordesmethyldiazepam</synonym>
   <synonym>CDDZ</synonym>
   <synonym>Dadumir</synonym>
@@ -29499,7 +29499,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="delorazepam" term="delorazepam" wikidataURL="http://www.wikidata.org/entity/Q3705147" wikipediaURL="https://en.wikipedia.org/wiki/Delorazepam" wikidataID="Q3705147" idx="['1407', '1406']" merged="true">
+<entry name="delorazepam" term="delorazepam" wikidataURL="http://www.wikidata.org/entity/Q3705147" wikipediaURL="https://en.wikipedia.org/wiki/Delorazepam" wikidataID="Q3705147" idx="1407">
   <synonym>Chlordesmethyldiazepam</synonym>
   <synonym>CDDZ</synonym>
   <synonym>Dadumir</synonym>
@@ -29592,7 +29592,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="nitisinone" term="nitisinone" wikidataURL="http://www.wikidata.org/entity/Q3877355" wikipediaURL="https://en.wikipedia.org/wiki/Nitisinone" wikidataID="Q3877355" idx="1412">
+<entry name="nitisinone" term="nitisinone" wikidataURL="http://www.wikidata.org/entity/Q3877355" wikipediaURL="https://en.wikipedia.org/wiki/Nitisinone" wikidataID="Q3877355" idx="['1412', '1413']" merged="true">
   <synonym>2-(alpha</synonym>
   <synonym>alpha</synonym>
   <synonym>alpha-Trifluoro-2-nitro-p-tuluoyl)-1</synonym>
@@ -29604,7 +29604,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="nitisinone" term="nitisinone" wikidataURL="http://www.wikidata.org/entity/Q3877355" wikipediaURL="https://en.wikipedia.org/wiki/Nitisinone" wikidataID="Q3877355" idx="['1413', '1412']" merged="true">
+<entry name="nitisinone" term="nitisinone" wikidataURL="http://www.wikidata.org/entity/Q3877355" wikipediaURL="https://en.wikipedia.org/wiki/Nitisinone" wikidataID="Q3877355" idx="1413">
   <synonym>2-(alpha</synonym>
   <synonym>alpha</synonym>
   <synonym>alpha-Trifluoro-2-nitro-p-tuluoyl)-1</synonym>
@@ -29784,7 +29784,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="canagliflozin" term="canagliflozin" wikidataURL="http://www.wikidata.org/entity/Q5030940" wikipediaURL="https://en.wikipedia.org/wiki/Canagliflozin" wikidataID="Q5030940" idx="['1425', '1426']" merged="true">
+<entry name="canagliflozin" term="canagliflozin" wikidataURL="http://www.wikidata.org/entity/Q5030940" wikipediaURL="https://en.wikipedia.org/wiki/Canagliflozin" wikidataID="Q5030940" idx="1425">
   <synonym>1-(Glucopyranosyl)-4-methyl-3-(5-(4-fluorophenyl)-2-thienylmethyl)benzene</synonym>
   <synonym>Canagliflozin</synonym>
   <synonym>canagliflozin anhydrous</synonym>
@@ -29797,7 +29797,7 @@
 <synonym xml:lang="Spanish">Canagliflozina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="canagliflozin" term="canagliflozin" wikidataURL="http://www.wikidata.org/entity/Q5030940" wikipediaURL="https://en.wikipedia.org/wiki/Canagliflozin" wikidataID="Q5030940" idx="1426">
+<entry name="canagliflozin" term="canagliflozin" wikidataURL="http://www.wikidata.org/entity/Q5030940" wikipediaURL="https://en.wikipedia.org/wiki/Canagliflozin" wikidataID="Q5030940" idx="['1426', '1425']" merged="true">
   <synonym>1-(Glucopyranosyl)-4-methyl-3-(5-(4-fluorophenyl)-2-thienylmethyl)benzene</synonym>
   <synonym>Canagliflozin</synonym>
   <synonym>canagliflozin anhydrous</synonym>
@@ -29945,7 +29945,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="fidaxomicin" term="fidaxomicin" wikidataURL="http://www.wikidata.org/entity/Q5446672" wikipediaURL="https://en.wikipedia.org/wiki/Fidaxomicin" wikidataID="Q5446672" idx="1435">
+<entry name="fidaxomicin" term="fidaxomicin" wikidataURL="http://www.wikidata.org/entity/Q5446672" wikipediaURL="https://en.wikipedia.org/wiki/Fidaxomicin" wikidataID="Q5446672" idx="['1435', '1436']" merged="true">
   <synonym>Dificid</synonym>
   <synonym>Difimicin</synonym>
   <synonym>Lipiarmicin</synonym>
@@ -29961,7 +29961,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="fidaxomicin" term="fidaxomicin" wikidataURL="http://www.wikidata.org/entity/Q5446672" wikipediaURL="https://en.wikipedia.org/wiki/Fidaxomicin" wikidataID="Q5446672" idx="['1436', '1435']" merged="true">
+<entry name="fidaxomicin" term="fidaxomicin" wikidataURL="http://www.wikidata.org/entity/Q5446672" wikipediaURL="https://en.wikipedia.org/wiki/Fidaxomicin" wikidataID="Q5446672" idx="1436">
   <synonym>Dificid</synonym>
   <synonym>Difimicin</synonym>
   <synonym>Lipiarmicin</synonym>
@@ -30074,7 +30074,7 @@
 <synonym xml:lang="Spanish">Pazopanib</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="pomalidomide" term="pomalidomide" wikidataURL="http://www.wikidata.org/entity/Q7227206" wikipediaURL="https://en.wikipedia.org/wiki/Pomalidomide" wikidataID="Q7227206" idx="['1444', '1445']" merged="true">
+<entry name="pomalidomide" term="pomalidomide" wikidataURL="http://www.wikidata.org/entity/Q7227206" wikipediaURL="https://en.wikipedia.org/wiki/Pomalidomide" wikidataID="Q7227206" idx="1444">
   <synonym>Pomalidomide</synonym>
   <synonym>3-Amino-N-(2</synonym>
   <synonym>6-dioxo-3-piperidyl)phthalimide</synonym>
@@ -30093,7 +30093,7 @@
 <synonym xml:lang="Spanish">Pomalidomida</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="pomalidomide" term="pomalidomide" wikidataURL="http://www.wikidata.org/entity/Q7227206" wikipediaURL="https://en.wikipedia.org/wiki/Pomalidomide" wikidataID="Q7227206" idx="1445">
+<entry name="pomalidomide" term="pomalidomide" wikidataURL="http://www.wikidata.org/entity/Q7227206" wikipediaURL="https://en.wikipedia.org/wiki/Pomalidomide" wikidataID="Q7227206" idx="['1445', '1444']" merged="true">
   <synonym>Pomalidomide</synonym>
   <synonym>3-Amino-N-(2</synonym>
   <synonym>6-dioxo-3-piperidyl)phthalimide</synonym>
@@ -30535,7 +30535,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="ethanol" term="ethanol" wikidataURL="http://www.wikidata.org/entity/Q153" wikipediaURL="https://en.wikipedia.org/wiki/Ethanol" wikidataID="Q153" idx="1476">
+<entry name="ethanol" term="ethanol" wikidataURL="http://www.wikidata.org/entity/Q153" wikipediaURL="https://en.wikipedia.org/wiki/Ethanol" wikidataID="Q153" idx="['1476', '1477']" merged="true">
   <synonym>Spirit</synonym>
   <synonym>Lux</synonym>
   <synonym>Tecsol</synonym>
@@ -30605,7 +30605,7 @@
 <description xml:lang="Tamil">&#2997;&#3015;&#2980;&#3007;&#2970;&#3021; &#2970;&#3015;&#2992;&#3021;&#2990;&#2990;&#3021;</description>
 <synonym xml:lang="Urdu">&#1575;&#1740;&#1578;&#1726;&#1606;&#1608;&#1604;</synonym></entry>
  
-<entry name="ethanol" term="ethanol" wikidataURL="http://www.wikidata.org/entity/Q153" wikipediaURL="https://en.wikipedia.org/wiki/Ethanol" wikidataID="Q153" idx="['1477', '1476']" merged="true">
+<entry name="ethanol" term="ethanol" wikidataURL="http://www.wikidata.org/entity/Q153" wikipediaURL="https://en.wikipedia.org/wiki/Ethanol" wikidataID="Q153" idx="1477">
   <synonym>Spirit</synonym>
   <synonym>Lux</synonym>
   <synonym>Tecsol</synonym>
@@ -31239,7 +31239,7 @@
 <description xml:lang="Spanish">vapor para inhalaci&#243;n usado en la anestesia general</description>
 <synonym xml:lang="Urdu">&#1729;&#1575;&#1604;&#1608;&#1578;&#1726;&#1740;&#1606;</synonym></entry>
  
-<entry name="nifedipine" term="nifedipine" wikidataURL="http://www.wikidata.org/entity/Q39111" wikipediaURL="https://en.wikipedia.org/wiki/Nifedipine" wikidataID="Q39111" idx="1497">
+<entry name="nifedipine" term="nifedipine" wikidataURL="http://www.wikidata.org/entity/Q39111" wikipediaURL="https://en.wikipedia.org/wiki/Nifedipine" wikidataID="Q39111" idx="['1497', '1498']" merged="true">
   <synonym>Nifedipine</synonym>
   <synonym>4-(2'-Nitrophenyl)-2</synonym>
   <synonym>6-dimethyl-1</synonym>
@@ -31262,7 +31262,7 @@
 <synonym xml:lang="Spanish">Nifedipina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="nifedipine" term="nifedipine" wikidataURL="http://www.wikidata.org/entity/Q39111" wikipediaURL="https://en.wikipedia.org/wiki/Nifedipine" wikidataID="Q39111" idx="['1498', '1497']" merged="true">
+<entry name="nifedipine" term="nifedipine" wikidataURL="http://www.wikidata.org/entity/Q39111" wikipediaURL="https://en.wikipedia.org/wiki/Nifedipine" wikidataID="Q39111" idx="1498">
   <synonym>Nifedipine</synonym>
   <synonym>4-(2'-Nitrophenyl)-2</synonym>
   <synonym>6-dimethyl-1</synonym>
@@ -32050,7 +32050,7 @@
 <synonym xml:lang="Spanish">clomipramina</synonym>&gt;
 <description xml:lang="Spanish">f&#225;rmaco del grupo de los antidepresivos tric&#237;clicos</description></entry>
  
-<entry name="tolfenamic acid" term="tolfenamic acid" wikidataURL="http://www.wikidata.org/entity/Q59412" wikipediaURL="https://en.wikipedia.org/wiki/Tolfenamic_acid" wikidataID="Q59412" idx="1512">
+<entry name="tolfenamic acid" term="tolfenamic acid" wikidataURL="http://www.wikidata.org/entity/Q59412" wikipediaURL="https://en.wikipedia.org/wiki/Tolfenamic_acid" wikidataID="Q59412" idx="['1512', '1513']" merged="true">
   <synonym>Clotam&#174;</synonym>
   <synonym>N-(2-Methyl-3-chlorophenyl)anthranilic acid</synonym>
   <synonym>N-(3-Chloro-2-methylphenyl)anthranilic acid</synonym>
@@ -32062,7 +32062,7 @@
 <synonym xml:lang="Spanish">&#225;cido tolfen&#225;mico</synonym>&gt;
 <description xml:lang="Spanish">medicamento antinflamatorio no esteroidal</description></entry>
  
-<entry name="tolfenamic acid" term="tolfenamic acid" wikidataURL="http://www.wikidata.org/entity/Q59412" wikipediaURL="https://en.wikipedia.org/wiki/Tolfenamic_acid" wikidataID="Q59412" idx="['1513', '1512']" merged="true">
+<entry name="tolfenamic acid" term="tolfenamic acid" wikidataURL="http://www.wikidata.org/entity/Q59412" wikipediaURL="https://en.wikipedia.org/wiki/Tolfenamic_acid" wikidataID="Q59412" idx="1513">
   <synonym>Clotam&#174;</synonym>
   <synonym>N-(2-Methyl-3-chlorophenyl)anthranilic acid</synonym>
   <synonym>N-(3-Chloro-2-methylphenyl)anthranilic acid</synonym>
@@ -32212,7 +32212,7 @@
 <description xml:lang="Portuguese">composto qu&#237;mico</description>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="S-adenosyl-L-methioninate (deprotonated carboxy group)" term="S-adenosyl-L-methioninate (deprotonated carboxy group)" wikidataURL="http://www.wikidata.org/entity/Q27135598" wikipediaURL="https://en.wikipedia.org/wiki/S-Adenosyl_methionine" wikidataID="Q27135598" idx="1519">
+<entry name="S-adenosyl-L-methioninate (deprotonated carboxy group)" term="S-adenosyl-L-methioninate (deprotonated carboxy group)" wikidataURL="http://www.wikidata.org/entity/Q27135598" wikipediaURL="https://en.wikipedia.org/wiki/S-Adenosyl_methionine" wikidataID="Q27135598" idx="['1519', '1520']" merged="true">
   <synonym>SAM</synonym>
   <synonym>AdoMet</synonym>
   <synonym>S-adenosylmethionine</synonym>
@@ -32234,7 +32234,7 @@
 <synonym xml:lang="Spanish">S-Adenosil metionina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="S-adenosyl-L-methioninate (deprotonated carboxy group)" term="S-adenosyl-L-methioninate (deprotonated carboxy group)" wikidataURL="http://www.wikidata.org/entity/Q27135598" wikipediaURL="https://en.wikipedia.org/wiki/S-Adenosyl_methionine" wikidataID="Q27135598" idx="['1520', '1519']" merged="true">
+<entry name="S-adenosyl-L-methioninate (deprotonated carboxy group)" term="S-adenosyl-L-methioninate (deprotonated carboxy group)" wikidataURL="http://www.wikidata.org/entity/Q27135598" wikipediaURL="https://en.wikipedia.org/wiki/S-Adenosyl_methionine" wikidataID="Q27135598" idx="1520">
   <synonym>SAM</synonym>
   <synonym>AdoMet</synonym>
   <synonym>S-adenosylmethionine</synonym>
@@ -32290,7 +32290,7 @@
 <synonym xml:lang="Spanish">Nortriptilina</synonym>&gt;
 <description xml:lang="Spanish">nortriptilina</description></entry>
  
-<entry name="flunitrazepam" term="flunitrazepam" wikidataURL="http://www.wikidata.org/entity/Q62947" wikipediaURL="https://en.wikipedia.org/wiki/Flunitrazepam" wikidataID="Q62947" idx="['1522', '1523']" merged="true">
+<entry name="flunitrazepam" term="flunitrazepam" wikidataURL="http://www.wikidata.org/entity/Q62947" wikipediaURL="https://en.wikipedia.org/wiki/Flunitrazepam" wikidataID="Q62947" idx="1522">
   <synonym>Flunitrazepam</synonym>
   <synonym>Flunitrazepamum</synonym>
   <synonym>Narcozep&#174;</synonym>
@@ -32304,7 +32304,7 @@
 <description xml:lang="Spanish">compuesto qu&#237;mico</description>
 <synonym xml:lang="Tamil">Rohypnol</synonym></entry>
  
-<entry name="flunitrazepam" term="flunitrazepam" wikidataURL="http://www.wikidata.org/entity/Q62947" wikipediaURL="https://en.wikipedia.org/wiki/Flunitrazepam" wikidataID="Q62947" idx="1523">
+<entry name="flunitrazepam" term="flunitrazepam" wikidataURL="http://www.wikidata.org/entity/Q62947" wikipediaURL="https://en.wikipedia.org/wiki/Flunitrazepam" wikidataID="Q62947" idx="['1523', '1522']" merged="true">
   <synonym>Flunitrazepam</synonym>
   <synonym>Flunitrazepamum</synonym>
   <synonym>Narcozep&#174;</synonym>
@@ -32484,7 +32484,7 @@
 <synonym xml:lang="Spanish">atropina</synonym>&gt;
 <description xml:lang="Spanish">compuesto qu&#237;mico</description></entry>
  
-<entry name="progesterone" term="progesterone" wikidataURL="http://www.wikidata.org/entity/Q26963" wikipediaURL="https://en.wikipedia.org/wiki/Progesterone" wikidataID="Q26963" idx="['1530', '1531']" merged="true">
+<entry name="progesterone" term="progesterone" wikidataURL="http://www.wikidata.org/entity/Q26963" wikipediaURL="https://en.wikipedia.org/wiki/Progesterone" wikidataID="Q26963" idx="1530">
   <synonym>MPA</synonym>
   <synonym>Progestin</synonym>
   <synonym>CIDR</synonym>
@@ -32648,7 +32648,7 @@
 <synonym xml:lang="Tamil">&#2986;&#3009;&#2992;&#3019;&#2972;&#3014;&#3000;&#3021;&#2975;&#3007;&#2992;&#3019;&#2985;&#3021;</synonym>&gt;
 <description xml:lang="Tamil">&#2997;&#3015;&#2980;&#3007;&#2970;&#3021; &#2970;&#3015;&#2992;&#3021;&#2990;&#2990;&#3021;</description></entry>
  
-<entry name="progesterone" term="progesterone" wikidataURL="http://www.wikidata.org/entity/Q26963" wikipediaURL="https://en.wikipedia.org/wiki/Progesterone" wikidataID="Q26963" idx="1531">
+<entry name="progesterone" term="progesterone" wikidataURL="http://www.wikidata.org/entity/Q26963" wikipediaURL="https://en.wikipedia.org/wiki/Progesterone" wikidataID="Q26963" idx="['1531', '1530']" merged="true">
   <synonym>MPA</synonym>
   <synonym>Progestin</synonym>
   <synonym>CIDR</synonym>

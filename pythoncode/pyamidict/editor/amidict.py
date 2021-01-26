@@ -316,6 +316,15 @@ class Dictionary():
             print("empty dictionary")
 
     def read_dictionary_element(self, file) -> ET.Element:
+        """read XML file and parse into XML element
+
+        *file* XML file to read and parse
+
+        raise ParseError if XML is not well-formed
+
+        return Parsed XML as ElementTree element
+        """
+
         self.file = file
         with open(file, "r") as f:
             dictionary_text = f.read();
@@ -422,12 +431,78 @@ def test_merge(dict_file):
     dictionary.merge_duplicate_wikidata_ids()
     dictionary.write_outfile()
 
+def test_query_wikipedia():
+    import wikipedia as wp
+    """# wikipedia search library (many functions)
+    https://wikipedia.readthedocs.io/en/latest/code.html
+    """
+    print("Bear", wp.search("bear"))
+    print("reality_summary", wp.summary("reality checkpoint"))
+#    print("pmr_page", wp.page(title="Peter Murray-Rust", preload=True))
+    page = wp.WikipediaPage(title="Chaffinch", preload=True)
+    print("categories", page.categories,
+          "\n", "content", page.content,
+#          "\n", page.coordinates,
+#          "\n", "html", page.html,
+#          "\n", "images", page.images,
+#          "\n", "links", page.links
+          )
+    pass
+
+"""https://janakiev.com/blog/wikidata-mayors/"""
+def test_wikidata():
+    import requests
+    """https://requests.readthedocs.io/en/master/"""
+    print("WIKIDATA")
+
+    url = 'https://query.wikidata.org/sparql'
+    query = """
+    SELECT 
+      ?countryLabel ?population ?area ?medianIncome ?age
+    WHERE {
+      ?country wdt:P463 wd:Q458.
+      OPTIONAL { ?country wdt:P1082 ?population }
+      OPTIONAL { ?country wdt:P2046 ?area }
+      OPTIONAL { ?country wdt:P3529 ?medianIncome }
+      OPTIONAL { ?country wdt:P571 ?inception. 
+        BIND(year(now()) - year(?inception) AS ?age)
+      }
+      SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+    }
+    """
+    query = """"""
+    r = requests.get(url, params={'format': 'json', 'query': query})
+    data = r.json()
+    print("data", data)
+    r = requests.get(url, params={'format': 'xml', 'query': query})
+    print("r", dir(r))
+
+def test_sparql():
+    """
+    // get label
+    SELECT  *
+    WHERE {
+            wd:Q146190 rdfs:label ?label .
+            FILTER (langMatches( lang(?label), "EN" ) )
+          }
+    # simpl/istic query service
+        from qwikidata.sparql import return_sparql_query_results
+    """
+
 
 def main():
-
+    """
+    test_query_wikipedia()
+    test_wikidata()
+    return
+    """
+    """
     dict_names = OPEN_VIRUS_DICT_NAMES
  #   dict_names = ["test_trace"]
     dict_files = get_remote_dictionary_files(DICT202011, dict_names)
+    
+    """
+
     CEVOPEN_DICT = os.path.join(DICTIONARY_TOP, "cevopen")
     dict_files = [
         os.path.join(CEVOPEN_DICT, "activity/eo_activity.xml"),
@@ -440,6 +515,7 @@ def main():
         os.path.join(CEVOPEN_DICT, "plant_part/eo_plant_part.xml"),
         os.path.join(CEVOPEN_DICT, "target/eo_target_organism.xml")
     ]
+
     for dict_file in dict_files:
         test_merge(dict_file)
 
@@ -461,4 +537,3 @@ else:
 # delete entries
 # add entries from file
 # add metadata records
-
