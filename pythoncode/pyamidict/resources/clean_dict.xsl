@@ -7,6 +7,7 @@
 
     <!-- identity , copyn everything -->
     <xsl:template match="node()|@*">
+        <xsl:junk/>
       <xsl:copy>
         <xsl:apply-templates select="node()|@*"/>
       </xsl:copy>
@@ -25,6 +26,7 @@
      attributes treated separately
      -->
     <xsl:template match="entry">
+        <xsl:junk/>
       <xsl:copy>
         <!-- transfer @description to child with language attribute -->
 <!--        <xsl:apply-templates select="@*[not(name()='description')]"/> -->
@@ -59,6 +61,7 @@
     'Portuguese_description'
     -->
     <xsl:template match="entry/@*">
+        <xsl:junk/>
         <xsl:choose>
             <xsl:when test="name()='id'"><xsl:attribute name="id"><xsl:value-of select="."/></xsl:attribute></xsl:when>
             <xsl:when test="name()='wikipedia'"><xsl:attribute name="wikipediaURL"><xsl:value-of select="."/></xsl:attribute></xsl:when>
@@ -101,6 +104,10 @@
 <!--                <xsl:message>UNKNOWN<xsl:value-of select="name()"/></xsl:message>-->
             </xsl:otherwise>
         </xsl:choose>
+    </xsl:template>
+
+    <xsl:template match="junk">
+        <xsl:junk/>
     </xsl:template>
 
 </xsl:stylesheet>

@@ -1,0 +1,5 @@
+<?xml version="1.0" standalone="yes"?>
+<dictionary title="eo_plant_gene">
+    <desc>dummy plant gene</desc>
+    <entry name="dummy" wikidataID="Q99999999999"></entry>
+</dictionary>

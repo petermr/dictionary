@@ -1,0 +1,293 @@
+<dictionary title="eo_plant_part">
+    <desc>a dictionary of 285 terms relating to plant parts used for essential oil extraction</desc>
+	<authors>Emanuel Arruda, President https://www.verriclar.com, https://www.verriclar.com.br/</authors>
+	<contributors>Ambarish Kumar</contributors>
+    <datasource>http://www.nipgr.ac.in/Essoildb/, wikidata.org, wikipedia.org</datasource>
+	<lastupdate> 2020-03-14 by Emanuel Faria</lastupdate>
+	<metadata date="2021-01-25" author="PMR">removed empty attributes and normalised case</metadata>
+    <entry id="PP01" term="petiole" wikidataID="Q10289985" description="the stalk of a leaf" idx="0" />
+    <entry id="PP02" term="stamen" wikidataID="Q103129" description="The male organ of a flower, consisting (usually) of a stalk called the filament and a pollen-bearing head called the anther." idx="1" />
+    <entry id="PP03" term="bulbil" wikidataID="Q10437539" description="A small, deciduous bulb or tuber formed in the axil of a leaf or pinna; a means of vegetative propagation." idx="2" />
+    <entry id="PP04" term="sepal" wikidataID="Q107216" description="any of the separate parts of the calyx of a flower (excluding the bracts), usually green" idx="3" />
+    <entry id="PP05" term="petal" wikidataID="Q107412" description="any of the separate parts of the corolla of a flower: often brightly coloured" idx="4" />
+    <entry id="PP06" term="carpel" wikidataID="Q1113448" description="The basic female reproductive organ in angiosperms, either consisting of a single sporophyll or a single locule of a compound ovary, with a style and a stigma. The gynoecium is the collective term for all of the carpels of a single flower." idx="5" />
+    <entry id="PP07" term="twig" wikidataID="Q11162356" description="small thin terminal branch of a woody plant" idx="6" />
+    <entry id="PP08" term="placenta" wikidataID="Q1120914" description="the part of the ovary of flowering plants to which the ovules are attached" idx="7" />
+    <entry id="PP09" term="trichome" wikidataID="Q1125215" description="A unicellular or multicellular plant structure that forms a non-sclerified outgrowth from the epidermis" idx="8" />
+    <entry id="PP10" term="spadix" wikidataID="Q1138632" description="a racemose inflorescence having many small sessile flowers borne on a fleshy stem, the whole usually being surrounded by a spathe: typical of aroid plants" idx="9" />
+    <entry id="PP11" term="lenticel" wikidataID="Q1155708" description="a loosely-packed mass of often more or less rounded cork cells occurring especially in the young stem, bark or even leaf of a plant, visible on the surface as a raised, often powdery-appearing spot, through which gaseous exchange occurs" idx="10" />
+    <entry id="PP12" term="dichasium" wikidataID="Q11895190" description="a cymose inflorescence in which each branch bearing a flower gives rise to two other flowering branches, as in the stitchwort" idx="11" />
+    <entry id="PP13" term="needle" wikidataID="Q1192354" description="needle-like leaf of some conifers" idx="12" />
+    <entry id="PP14" term="synergid" wikidataID="Q12057965" description="Cell, usually two in number, in the micropylar end of the embryo sac of angiosperms associated with the egg in the egg apparatus" idx="13" />
+    <entry id="PP15" term="xylem" wikidataID="Q122811" description="one of the two types of transport tissue in vascular plants. xylems transport water from roots to shoots and leaves, but also some nutrients" idx="14" />
+    <entry id="PP16" term="lodicule" wikidataID="Q1271979" description="in a grass floret, one of a pair (or three?) of tiny green or white scales or flaps of tissue between the lemma and palea and the stamens, possibly representing reduced inner perianth members" idx="15" />
+    <entry id="PP17" term="rosette" wikidataID="Q1277215" description="A cluster of leaves arising from a common point resembling the arrangement of petals in a rose, ranging in form from a hemispherical tuft to a flat whorl" idx="16" />
+    <entry id="PP18" term="stem" wikidataID="Q134267" description="the main axis of a plant, which bears the leaves, axillary buds, and flowers and contains a hollow cylinder of vascular tissue" idx="17" />
+    <entry id="PP19" term="epicotyl" wikidataID="Q1347099" description="The first stem internode above the cotyledonary node of a plant embryo or a seedling" idx="18" />
+    <entry id="PP20" term="root hair" wikidataID="Q1351263" description="any of the hollow hairlike outgrowths of the outer cells of a root, just behind the tip, that absorb water and salts from the soil" idx="19" />
+    <entry id="PP21" term="fruit" wikidataID="Q1364" description="the ripened ovary of a flowering plant, containing one or more seeds. It may be dry, as in the poppy, or fleshy, as in the peach" idx="20" />
+    <entry id="PP22" term="root cap" wikidataID="Q1392652" description="a group of cells at the tip of the root, rubbed off by the motion of the root tip through the soil and constantly renewed from within. Covers the apical meristem and protects it, made up of border cells, columella, peripheral root cap, and protoderm" idx="21" />
+    <entry id="PP23" term="glume" wikidataID="Q1421859" description="One of a pair of inflorescence bracts that is part of a spikelet and subtends the two florets. Found in Poaceae and Cyperaceae. Glumes subtend the pair of florets while a lemma or palea subtend the individual florets." idx="22" />
+    <entry id="PP24" term="tracheid" wikidataID="Q1425870" description="capillary tube formed from a series of dead lignified cells in the xylem, or single such cell, water conducting and relatively broad, where at least the primary cell wall remains intact, and the walls are lignified, being variously banded or pitted" idx="23" />
+    <entry id="PP25" term="stigma" wikidataID="Q1427245" description="The pollen-receptive surface of a carpel or group of fused carpels, usually sticky; usually a point or small head at the summit of the style where deposited pollen germinates" idx="24" />
+    <entry id="PP26" term="resin" wikidataID="Q145205" idx="25" />
+    <entry id="PP27" term="hull" wikidataID="Q14524280" description="the outer shell or coating of a seed, also called a husk" idx="26" />
+    <entry id="['PP28', 'PP27']" term="['husk', 'hull']" wikidataID="Q14524280" description="['the outer shell or coating of a seed, also called a hull', 'the outer shell or coating of a seed, also called a husk']" idx="['27', '26']" merged="true" />
+    <entry id="PP29" term="capitula" wikidataID="Q1474699" description="plural of capitulum" idx="28" />
+    <entry id="PP30" term="capitulum" wikidataID="Q1474699" description="a dense cluster of flowers or foliage. a racemose inflorescence in the form of a disc of sessile flowers, the youngest at the centre. It occurs in the daisy and related plants. Commonly called a head." idx="29" />
+    <entry id="['PP31', 'PP30', 'PP29']" term="['head', 'capitulum', 'capitula']" wikidataID="Q1474699" description="['a dense cluster of flowers or foliage. a racemose inflorescence in the form of a disc of sessile flowers, the youngest at the centre. It occurs in the daisy and related plants. Commonly called a head.', 'plural of capitulum']" idx="['30', '29', '28']" merged="true" />
+    <entry id="PP32" term="cyathium" wikidataID="Q148436" description="a form of inflorescence of the type found on the poinsettia" idx="31" />
+    <entry id="PP33" term="anthophore" wikidataID="Q14849087" description="an elongation of the receptacle of a flower between the calyx and corolla" idx="32" />
+    <entry id="PP34" term="ovary" wikidataID="Q148515" description="part of the female reproductive organ of the flower. the hollow basal region of a carpel containing one or more ovules. In some plants the carpels are united to form a single compound ovary" idx="33" />
+    <entry id="PP35" term="panicle" wikidataID="Q148600" description="a compound raceme, occurring esp in grasses" idx="34" />
+    <entry id="PP36" term="gametophore" wikidataID="Q1493115" description="the part of a plant that bears the reproductive organs" idx="35" />
+    <entry id="['PP37', 'PP38']" term="['inflorescence spikelet', 'spikelet']" wikidataID="Q149316" description="A reproductive shoot system that is the ultimate and congested inflorescence, especially in grasses, a racemose unit consisting of one or a few closely-packed florets born along a rachilla and subtended by two glumes" idx="['36', '37']" merged="true" />
+    <entry id="PP38" term="spikelet" wikidataID="Q149316" description="A reproductive shoot system that is the ultimate and congested inflorescence, especially in grasses, a racemose unit consisting of one or a few closely-packed florets born along a rachilla and subtended by two glumes" idx="37" />
+    <entry id="PP39" term="style" wikidataID="Q1546595" description="An elongated part of a carpel or a group of fused carpels between the ovary and the stigma." idx="38" />
+    <entry id="PP40" term="inflorescence" wikidataID="Q156428" description="the part of a plant that consists of the flower-bearing stalks" idx="39" />
+    <entry id="PP41" term="raceme" wikidataID="Q158583" description="an inflorescence in which the flowers are borne along the main stem, with the oldest flowers at the base. It can be simple, as in the foxglove, or compound" idx="40" />
+    <entry id="PP42" term="cyme" wikidataID="Q158967" description="an inflorescence in which the first flower is the terminal bud of the main stem and subsequent flowers develop as terminal buds of lateral stems" idx="41" />
+    <entry id="['PP43', 'PP44']" term="['berries', 'berry']" wikidataID="Q16128920" description="collective noun for plants that grow in the understory and whose berries are eaten as fruit. A fruit which at maturity comprises a fleshy endocarp, fleshy mesocarp, and fleshy exocarp. A type of indehiscent fruit with the seeds immersed in the pulp" idx="['42', '43']" merged="true" />
+    <entry id="PP44" term="berry" wikidataID="Q16128920" description="collective noun for plants that grow in the understory and whose berries are eaten as fruit. A fruit which at maturity comprises a fleshy endocarp, fleshy mesocarp, and fleshy exocarp. A type of indehiscent fruit with the seeds immersed in the pulp" idx="43" />
+    <entry id="PP45" term="caulis" wikidataID="Q16535076" description="the main (aerial) stem of a plant" idx="44" />
+    <entry id="PP46" term="peel" wikidataID="Q171187" description="the outer protective layer of a fruit or vegetable which can be peeled off" idx="45" />
+    <entry id="PP47" term="pedicel" wikidataID="Q1713537" description="the stalk bearing a single flower of an inflorescence" idx="46" />
+    <entry id="PP48" term="balsam" wikidataID="Q1776037" description="resinous exudate (or sap), which forms on certain kinds of trees and shrubs" idx="47" />
+    <entry id="['PP49', 'PP48']" term="['sap', 'balsam']" wikidataID="Q1776037" description="resinous exudate (or sap), which forms on certain kinds of trees and shrubs" idx="['48', '47']" merged="true" />
+    <entry id="PP50" term="monochasium" wikidataID="Q18088308" description="a cymose inflorescence in which each branch gives rise to one other branch only, as in the forget-me-not and buttercup" idx="49" />
+    <entry id="PP51" term="foliage" wikidataID="Q18250160" description="collective name for green leaves of a tree or plant" idx="50" />
+    <entry id="PP52" term="tuber" wikidataID="Q183319" description="a plant's underground storage organ formed by the swelling of an underground stem which produces buds and stores photosynthate metabolites/nutrients, forming a seasonal perennating organ, e.g. a potato" idx="51" />
+    <entry id="PP53" term="corolla" wikidataID="Q1840192" description="the petals of a flower collectively, forming an inner floral envelope" idx="52" />
+    <entry id="PP54" term="rhizome" wikidataID="Q184208" description="Rhizomes are stems that grow horizontally under the surface of the ground. From them roots are born, moving downwards into the ground and other herbaceous stems follow the opposite way searching the air." idx="53" />
+    <entry id="PP55" term="bark" wikidataID="Q184453" description="plant tissue outside the vascular cambium or the xylem; in older trees may be divided into dead outer bark and living inner bark, which consists of secondary phloem. external parenchymal tissue, located just below the epidermis of the stem" idx="54" />
+    <entry id="['PP56', 'PP55']" term="['stem bark', 'bark']" wikidataID="Q184453" idx="['55', '54']" merged="true" />
+    <entry id="PP57" term="phloem" wikidataID="Q185138" description="tissue in higher plants that conducts synthesized food substances to all parts of the plant" idx="56" />
+    <entry id="PP58" term="bulb" wikidataID="Q188748" description="A short, enlarged shoot system that has as parts a short stem in which the shoot internodes do not elongate, and one or more buds enclosed by fleshy leaves or leaf bases. May serve as a storage and/or perennating organ. Usually underground." idx="57" />
+    <entry id="PP59" term="spur" wikidataID="Q1889013" description="botanical term for a slender, tubular appendage extending backward from the base of a sepal or petal" idx="58" />
+    <entry id="PP60" term="sapwood" wikidataID="Q191546" description="the part of living wood where sap flows, as distinct from the heartwood, where it doesn't" idx="59" />
+    <entry id="PP61" term="heartwood" wikidataID="Q191556" description="strong central wood in a trunk or branch. the dead inner portion of the xylem (wood) of a trunk or large root" idx="60" />
+    <entry id="PP62" term="pith" wikidataID="Q192576" description="the central region of a stem, the inner part of the stele that is produced by differentiation of the ground meristem" idx="61" />
+    <entry id="PP63" term="trunk" wikidataID="Q193472" description="main wooden axis of a tree" idx="62" />
+    <entry id="['PP64', 'PP63']" term="['trunk wood', 'trunk']" wikidataID="Q193472" description="['material collected from the main wooden axis of a tree', 'main wooden axis of a tree']" idx="['63', '62']" merged="true" />
+    <entry id="PP65" term="anther" wikidataID="Q1995772" description="the terminal part of a stamen consisting usually of two lobes each containing two sacs in which the pollen matures" idx="64" />
+    <entry id="PP66" term="nucellus" wikidataID="Q2004067" description="the central part of a plant ovule containing the embryo sac" idx="65" />
+    <entry id="PP67" term="thorn" wikidataID="Q201851" description="A branch that is a sclerified, pointed outgrowth. Modified stems, leaves, stipules, or parts of leaves, with sharp, rigid ends (like prickles), that commonly contain vascular tissue (unlike prickles)" idx="66" />
+    <entry id="PP68" term="herb" wikidataID="Q207123" description="plant used for flavoring, food, medicine, or perfume" idx="67" />
+    <entry id="PP69" term="thallus" wikidataID="Q207495" description="A whole plant in the gametophytic phase that has a flat growth form and no distinct organs" idx="68" />
+    <entry id="PP70" term="stoma" wikidataID="Q216635" description="A pore or small hole in the surface of a leaf (or other aerial organ) allowing the exchange of gases between tissues and the atmosphere." idx="69" />
+    <entry id="PP71" term="catkin" wikidataID="Q217753" description="an inflorescence consisting of a spike, usually hanging, of much reduced flowers of either sex: occurs in birch, hazel, etc" idx="70" />
+    <entry id="PP72" term="shoot" wikidataID="Q220869" description="young stem or branch" idx="71" />
+    <entry id="PP73" term="gall" wikidataID="Q224107" description="insect-induced growth on plant. often very distinctive and even species-specific structures developed when insects, fungi or bacteria stimulate abnormal growth of a plant" idx="72" />
+    <entry id="PP74" term="cone" wikidataID="Q22710" description="Organ on plants. A type of fruit, usually woody, ovoid to globular, including scales, bracts, or bracteoles arranged around a central axis, e.g. in gymnosperms, especially conifers and Casuarina." idx="73" />
+    <entry id="PP75" term="corymb" wikidataID="Q2322325" description="an inflorescence in the form of a flat-topped flower cluster with the oldest flowers at the periphery. This type of raceme occurs in the candytuft" idx="74" />
+    <entry id="PP76" term="peduncle" wikidataID="Q2331384" description="the stalk of a plant bearing an inflorescence or solitary flower" idx="75" />
+    <entry id="PP77" term="filament" wikidataID="Q2365301" description="the stalk of a stamen" idx="76" />
+    <entry id="PP78" term="guard cell" wikidataID="Q241368" description="one of a pair of crescent-shaped cells that surround a pore (stoma) in the epidermis. Changes in the turgidity of the cells cause the opening and closing of the stoma" idx="77" />
+    <entry id="PP79" term="photoperiod" wikidataID="Q259028" description="Any process that results in a change in state or activity of an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of detection of, or exposure to, a period of light or dark of a given length, measured re response to: day/night length" idx="78" />
+    <entry id="PP80" term="gemma" wikidataID="Q2746099" description="A gemma (plural gemmae) is a single cell, or a mass of cells, or a modified bud of tissue, that detaches from the parent and develops into a new individual. This type of asexual reproduction is referred to as fragmentation." idx="79" />
+    <entry id="PP81" term="floral organ" wikidataID="Q27505399" description="A plant organ that is part of a flower" idx="80" />
+    <entry id="PP82" term="coleorhiza" wikidataID="Q27506529" description="A sheath-like plant organ that surrounds the radicle of a plant embryo or the emerging root of a seedling." idx="81" />
+    <entry id="PP83" term="pollinium" wikidataID="Q279513" description="a mass of cohering pollen grains, produced by plants such as orchids and transported as a whole during pollination" idx="82" />
+    <entry id="PP84" term="stem wood" wikidataID="Q287" description="fibrous material from trees or other plants. loosely used to refer to the xylem in stems or roots with secondary thickening" idx="83" />
+    <entry id="PP85" term="wood" wikidataID="Q287" description="fibrous material from trees or other plants. loosely used to refer to the xylem in stems or roots with secondary thickening" idx="84" />
+    <entry id="['PP86', 'PP84', 'PP85']" term="['wood chips', 'stem wood', 'wood']" wikidataID="Q287" idx="['85', '83', '84']" merged="true" />
+    <entry id="PP87" term="branch" wikidataID="Q2923673" description="Part of a tree. A shoot axis that develops from an axillary bud meristem or from equal divisions of a meristematic apical cell." idx="86" />
+    <entry id="PP88" term="branches" wikidataID="Q2923673" description="Part of a tree. A shoot axis that develops from an axillary bud meristem or from equal divisions of a meristematic apical cell." idx="87" />
+    <entry id="['PP89', 'PP88', 'PP87']" term="['branchlet', 'branches', 'branch']" wikidataID="Q2923673" description="Part of a tree. A shoot axis that develops from an axillary bud meristem or from equal divisions of a meristematic apical cell." idx="['88', '87', '86']" merged="true" />
+    <entry id="PP90" term="calyx" wikidataID="Q2933965" description="part of a flower. A collective phyllome structure that is composed of one or more sepals, and comprises the outer whorl (floral envelope) of non-reproductive floral organs that protects the developing flower bud" idx="89" />
+    <entry id="PP91" term="stipule" wikidataID="Q304216" description="Paired, modified leaves at the base of the petiole, may be membranous or leaf-like" idx="90" />
+    <entry id="PP92" term="flowering" wikidataID="Q30513971" description="A flower development stage that begins when pollen is released by anther dehiscence and/or the stigma is receptive and ends with the process of pollination and/or floral organ senescence" idx="91" />
+    <entry id="PP93" term="floret" wikidataID="Q30765614" description="individual true flower within an inflorescence. A small flower, esp one of many making up the head of a composite flower." idx="92" />
+    <entry id="PP94" term="leaf blade" wikidataID="Q3087886" description="flat part of a leaf" idx="93" />
+    <entry id="PP95" term="lemma" wikidataID="Q3089146" description="the lower, usually larger, of two bracts enclosing a floret (the other is the palea), in a grass spikelet" idx="94" />
+    <entry id="PP96" term="radicle" wikidataID="Q3129307" description="the basal continuation of the hypocotyl of an embryo or seedling that gives rise to the root system of the adult plant" idx="95" />
+    <entry id="PP97" term="micropyle" wikidataID="Q3312287" description="a small opening in the integuments of a plant ovule through which the male gametes pass" idx="96" />
+    <entry id="PP98" term="leaf" wikidataID="Q33971" description="the main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk" idx="97" />
+    <entry id="PP99" term="hibernaculum" wikidataID="Q3791538" description="A protective case, covering, or structure, such as a plant bud, in which an organism remains dormant for the winter." idx="98" />
+    <entry id="PP100" term="ovule" wikidataID="Q380138" description="a small body in seed-bearing plants that consists of the integument(s), nucellus, and embryosac (containing the egg cell) and develops into the seed after fertilization" idx="99" />
+    <entry id="PP101" term="palea" wikidataID="Q3894544" description="the inner of two bracts surrounding each floret in a grass spikelet" idx="100" />
+    <entry id="PP102" term="seed" wikidataID="Q40763" description="embryonic plant enclosed in a protective outer covering (seed coat)" idx="101" />
+    <entry id="PP103" term="root" wikidataID="Q41500" description="the organ of a higher plant that anchors the rest of the plant in the ground, absorbs water and mineral salts from the soil, and does not bear leaves or buds" idx="102" />
+    <entry id="PP104" term="rachilla" wikidataID="Q46723512" description="The secondary axis of a branched inflorescence" idx="103" />
+    <entry id="PP105" term="commissure" wikidataID="Q489628" description="The seam or face at which two carpels adhere. Any of various joints between parts, as between the carpels, leaf lobes, etc, of a plant." idx="104" />
+    <entry id="PP106" term="receptacle" wikidataID="Q497512" description="A cardinal organ part of lower plants that is the region at the distal end of either a peduncle or a pedicel where the floral appendages (e.g.: sepals, petals, stamens and pistils) are attached" idx="105" />
+    <entry id="['PP107', 'PP108', 'PP106']" term="['thalamus', 'torus', 'receptacle']" wikidataID="Q497512" description="A cardinal organ part of lower plants that is the region at the distal end of either a peduncle or a pedicel where the floral appendages (e.g.: sepals, petals, stamens and pistils) are attached" idx="['106', '107', '105']" merged="true" />
+    <entry id="PP108" term="torus" wikidataID="Q497512" description="A cardinal organ part of lower plants that is the region at the distal end of either a peduncle or a pedicel where the floral appendages (e.g.: sepals, petals, stamens and pistils) are attached" idx="107" />
+    <entry id="['PP109', 'PP110']" term="['floral envelope', 'perianth']" wikidataID="Q504930" description="['the part of a flower that surrounds the stamens and pistil: the calyx and corolla (considered together) or the perianth', 'The collective term for the sepals and petals, or either of them if one is absent. the outer part of a flower, consisting of the calyx and corolla']" idx="['108', '109']" merged="true" />
+    <entry id="PP110" term="perianth" wikidataID="Q504930" description="The collective term for the sepals and petals, or either of them if one is absent. the outer part of a flower, consisting of the calyx and corolla" idx="109" />
+    <entry id="['PP111', 'PP112']" term="['blossom', 'flower']" wikidataID="Q506" description="['the flower or flowers of a plant, esp conspicuous flowers producing edible fruit', 'The sexual reproductive structure of the angiosperms, typically with a gynoecium, androecium, perianth and an axis.']" idx="['110', '111']" merged="true" />
+    <entry id="PP112" term="flower" wikidataID="Q506" description="The sexual reproductive structure of the angiosperms, typically with a gynoecium, androecium, perianth and an axis." idx="111" />
+    <entry id="PP113" term="androecium" wikidataID="Q512249" description="the stamens of a flowering plant collectively" idx="112" />
+    <entry id="PP114" term="coleoptile" wikidataID="Q572097" description="A sheath-like plant organ that surrounds the plumule of a plant embryo or the emerging shoot apex of a seedling. Protects the emerging shoot system as it grows through the soil." idx="113" />
+    <entry id="['PP115', 'PP116']" term="['flowering umbel', 'umbel']" wikidataID="Q577430" description="A type of inflorescence, with a monopodial growth habit, which at anthesis is composed of pedicellate flowers on a first order inflorescence axis with compressed inflorescence axis internodes. Appear as clusters originating from a single point." idx="['114', '115']" merged="true" />
+    <entry id="PP116" term="umbel" wikidataID="Q577430" description="A type of inflorescence, with a monopodial growth habit, which at anthesis is composed of pedicellate flowers on a first order inflorescence axis with compressed inflorescence axis internodes. Appear as clusters originating from a single point." idx="115" />
+    <entry id="PP117" term="root bark" wikidataID="Q59243260" idx="116" />
+    <entry id="PP118" term="oleo-resin" wikidataID="Q60777361" idx="117" />
+    <entry id="PP119" term="taproot" wikidataID="Q609336" description="the large single root of plants such as the dandelion, which grows vertically downwards and bears smaller lateral roots" idx="118" />
+    <entry id="PP120" term="pistil" wikidataID="Q62779" description="the female reproductive part of a flower, consisting of one or more separate or fused carpels; see also gynoecium" idx="119" />
+    <entry id="PP121" term="grass" wikidataID="Q643352" description="type of herbaceous plant" idx="120" />
+    <entry id="PP122" term="perigynium" wikidataID="Q65089222" description="The sac-like or scale-like structure that encloses the ovary in Carex" idx="121" />
+    <entry id="PP123" term="awn" wikidataID="Q655824" description="In botany, an awn is either a hair- or bristle-like appendage on a larger structure, or in the case of the Asteraceae, a stiff needle-like element of the pappus. In grasses awns typically extend from the lemmas of the florets." idx="122" />
+    <entry id="PP124" term="aril" wikidataID="Q661390" description="A membranous or fleshy appendage formed by expansion of the funicle which partly or wholly covers a seed, e.g. the fleshy outer layer of lychee fruit, or that found in members of the Sapindaceae." idx="123" />
+    <entry id="PP125" term="apex" wikidataID="Q66571835" description="anatomical coordinate" idx="124" />
+    <entry id="['PP126', 'PP125']" term="['apical', 'apex']" wikidataID="Q66571835" description="anatomical coordinate" idx="['125', '124']" merged="true" />
+    <entry id="PP127" term="nectary" wikidataID="Q687699" description="any of various glandular structures secreting nectar that occur in the flowers, leaves, stipules, etc, of a plant" idx="126" />
+    <entry id="PP128" term="flowering top" wikidataID="Q70062083" description="top of a plant when in flower, including the stems, leaves and blooms" idx="127" />
+    <entry id="PP129" term="offshoot" wikidataID="Q7079661" description="a shoot or branch growing from the main stem of a plant" idx="128" />
+    <entry id="PP130" term="plantlet" wikidataID="Q7201653" description="Plantlets are young or small clones, produced on the leaf margins or the aerial stems of another plant" idx="129" />
+    <entry id="PP131" term="bract" wikidataID="Q729496" description="modified or specialized leaf, especially one associated with a reproductive structure such as a flower, inflorescence axis or cone scale" idx="130" />
+    <entry id="PP132" term="tepal" wikidataID="Q756954" description="A term for a part of the perianth used when the sepals and petals cannot be distinguished because of similarity in size and shape. Any of the subdivisions of a perianth that is not clearly differentiated into calyx and corolla" idx="131" />
+    <entry id="PP133" term="epicalyx" wikidataID="Q789802" description="A collective phyllome structure composed of two or more phyllomes immediately outside the calyx" idx="132" />
+    <entry id="PP134" term="hydathode" wikidataID="Q794374" description="water-secreting pore or gland, a small glandular structure supplied by tracheids with water-secreting epithem, often associated with a stomata which may be somewhat different in size and/or morphology from the other stomata on the plant" idx="133" />
+    <entry id="PP135" term="epidermis" wikidataID="Q796482" description="the outer protective layer of cells of a plant, which may be thickened by a cuticle" idx="134" />
+    <entry id="['PP136', 'PP137']" term="['pollen', 'pollen grain']" wikidataID="Q79932" description="['a fine powdery substance produced by the anthers of seed-bearing plants, consisting of numerous fine grains containing the male gametes', 'a single granule of pollen']" idx="['135', '136']" merged="true" />
+    <entry id="PP137" term="pollen grain" wikidataID="Q79932" description="a single granule of pollen" idx="136" />
+    <entry id="PP138" term="bud" wikidataID="Q87484743" description="a swelling on a plant stem consisting of overlapping immature leaves or petals" idx="137" />
+    <entry id="PP139" term="axis" wikidataID="Q87485317" description="botanical term for the main stem of a whole plant or inflorescence; also, the line along which this stem extends" idx="138" />
+    <entry id="PP140" term="shoot axis tuber" wikidataID="Q87485325" description="A shoot axis that develops from a branch and is radially enlarged for storage. " idx="139" />
+    <entry id="PP141" term="bracteole" wikidataID="Q87485505" description="a small bract (leaf or leaves) borne singly or two together and more or less opposite on the pedicel, the prophyll(s) of the flower-shoot (pedicel plus flower)" idx="140" />
+    <entry id="PP142" term="cauline leaf" wikidataID="Q87485933" description="A vascular leaf, borne on the stem of a plant" idx="141" />
+    <entry id="PP143" term="chalazal cyst" wikidataID="Q87485935" description="A portion of plant tissue that is the part of the endosperm nearest the chalazal region of the plant ovule and forming a cyst-like structure" idx="142" />
+    <entry id="PP144" term="early wood" wikidataID="Q87486635" description="A portion of secondary xylem that is a part of a growth ring formed during the early part of a growing season, has lower density than late wood of the same growth ring, and has as parts early wood tracheary elements with generally larger lumens than the late wood tracheary elements of the same growth ring" idx="143" />
+    <entry id="PP145" term="endothelium" wikidataID="Q87486641" description="A portion of plant tissue which is composed of cells of the inner epidermis of the inner integument of the ovule that are radially elongated and metabolically very active. See Integument" idx="144" />
+    <entry id="PP146" term="epicalyx bract" wikidataID="Q87486726" description="A flower bract that is part of the epicalyx" idx="145" />
+    <entry id="PP147" term="epidermal cork cell" wikidataID="Q87486867" description="One of the two types of short cells in the epidermis of grasses and bamboos. It is usually paired with silica cell." idx="146" />
+    <entry id="['PP148', 'PP149']" term="['floral bud', 'flower bud']" wikidataID="Q87486986" description="A bud that develops into a flower" idx="['147', '148']" merged="true" />
+    <entry id="PP149" term="flower bud" wikidataID="Q87486986" description="A bud that develops into a flower" idx="148" />
+    <entry id="PP150" term="flower bract" wikidataID="Q87487349" description="A bract that subtends a perianth that is part of a flower" idx="149" />
+    <entry id="PP151" term="flower nectary" wikidataID="Q87487358" description="A nectary occurring on a floral organ or other part of a flower." idx="150" />
+    <entry id="PP152" term="carpophore" wikidataID="Q87487640" description="(in a flower) an elongated axis that raises the stem of the pistil above the stamens. (in a fungus) the stem of the fruiting body." idx="151" />
+    <entry id="PP153" term="caryopsis hull" wikidataID="Q87487715" description="A collective phyllome structure that encloses a fruit of the Poaceae (caryopsis) and develops from a dried lemma and palea." idx="152" />
+    <entry id="PP154" term="chalaza" wikidataID="Q87488025" description="A portion of plant tissue that is the region in a plant ovule where the integuments and the nucellus join with the funicule." idx="153" />
+    <entry id="PP155" term="articulated laticifer" wikidataID="Q87498057" description="A portion of secretory tissue that has as parts articulated laticifer cells." idx="154" />
+    <entry id="PP156" term="clinandrium" wikidataID="Q87499047" description="a cavity in the upper part of the column of an orchid flower that contains the anthers" idx="155" />
+    <entry id="PP157" term="costa" wikidataID="Q87499514" description="a riblike part, such as the midrib of a plant leaf" idx="156" />
+    <entry id="PP158" term="exocarp" wikidataID="Q87500059" description="A portion of plant tissue that is the outer layer of a pericarp, often the skin of fleshy fruits." idx="157" />
+    <entry id="PP159" term="extrafloral nectary" wikidataID="Q87500134" description="A nectary, not occurring on a floral organ or other part of a flower. May occur on vegetative plant structures such as a stem, leaf, petiole, stipule or flower pedicel." idx="158" />
+    <entry id="PP160" term="fruit columella" wikidataID="Q87501280" description="In plants, a portion of plant tissue that forms the central axis of a plant structure such as a fruit or moss capsule (sporangium)." idx="159" />
+    <entry id="PP161" term="fruit placenta" wikidataID="Q87501358" description="A portion of placenta tissue that is part of a fruit and to which seeds are attached." idx="160" />
+    <entry id="PP162" term="glandular trichome" wikidataID="Q87502457" description="A trichome that secretes or sequesters a portion of plant substance." idx="161" />
+    <entry id="PP163" term="gum" wikidataID="Q87502461" description="Gum is a sap or other resinous material associated with certain species of the plant kingdom. This material is often polysaccharide-based and is most frequently associated with woody plants, particularly under the bark or as a seed coating." idx="162" />
+    <entry id="PP164" term="gynoecium" wikidataID="Q87503474" description="The collective term for the female reproductive parts (pistil) of a flower or for the carpels of a flower, whether united or free. Contrast androecium, the collective term for the male reproductive parts (stamen)." idx="163" />
+    <entry id="PP165" term="inflorescence bud" wikidataID="Q87589402" description="A bud that develops into an inflorescence" idx="164" />
+    <entry id="PP166" term="infructescence fruit pedicel" wikidataID="Q87590992" description="A fruit pedicel that bears a fruit in an infructescence." idx="165" />
+    <entry id="PP167" term="integument" wikidataID="Q87591010" description="in general, a covering; specifically one of the layers of tissue that usually cover the ovule, enveloping the nucellus and forming the micropyle where it meets at the apex of the ovule, see endothelium" idx="166" />
+    <entry id="PP168" term="internode" wikidataID="Q87591031" description="a portion of a plant stem between nodes" idx="167" />
+    <entry id="PP169" term="involucel" wikidataID="Q87591194" description="a group of bracts surrounding a secondary inflorescence such as the base of a compound umbel, or of bracteoles surrounding an individual flower" idx="168" />
+    <entry id="PP170" term="involucral bract" wikidataID="Q87591759" description="An inflorescence bract of an involucre. Involucre are found in plant families such as Asteraceae or Compositeae." idx="169" />
+    <entry id="PP171" term="involucre" wikidataID="Q87592050" description="A collective phyllome structure composed of two or more involucral bracts at the base of a cluster of flowers, as found in Asteraceae or Compositae" idx="170" />
+    <entry id="PP172" term="joint" wikidataID="Q87592301" description="the part of a plant stem from which a branch or leaf grows" idx="171" />
+    <entry id="PP173" term="keel" wikidataID="Q87592700" description="the relatively large paired abaxial petals (in a papilionoid flower), or a single petal (in some other plants) that together or singly are more or less concave and with an abaxial ridge, usually more or less enclosing the stamens" idx="172" />
+    <entry id="PP174" term="lamina" wikidataID="Q87592986" description="A cardinal part of multi-tissue plant structure that is thin and flat. the blade of a leaf or the expanded upper part of a petal, sepal or bract." idx="173" />
+    <entry id="PP175" term="late wood" wikidataID="Q87592994" description="wood, strictly speaking xylem, produced later in the growing season, often darker in colour and with narrower xylem elements" idx="174" />
+    <entry id="PP176" term="latex" wikidataID="Q87593008" description="a viscous fluid exuded from the cut surfaces of the leaves and stems, in the strict sense referring to polymers made up of isoprene units in the cis- configuration (gutta has those same units in the trans configuration), borne in laticifers" idx="175" />
+    <entry id="PP177" term="labellum" wikidataID="Q87594836" description="In botany, the labellum (or lip) is either of the 2 parts of a bilabiate corolla or calyx of an orchid or Canna, that serves to attract insects, which pollinate the flower, and acts as a landing platform for them." idx="176" />
+    <entry id="['PP178', 'PP177']" term="['lip', 'labellum']" wikidataID="Q87594836" description="In botany, the labellum (or lip) is either of the 2 parts of a bilabiate corolla or calyx of an orchid or Canna, that serves to attract insects, which pollinate the flower, and acts as a landing platform for them." idx="['177', '176']" merged="true" />
+    <entry id="PP179" term="oil gland" wikidataID="Q87606844" description="A gland or a cavity lined with cells that secrete oils" idx="178" />
+    <entry id="PP180" term="periblem" wikidataID="Q87608261" description="A portion of meristem tissue that forms the cortex." idx="179" />
+    <entry id="PP181" term="pericyclic lateral root" wikidataID="Q87608372" description="lateral root that develops from a pericyclic lateral root primordium" idx="180" />
+    <entry id="PP182" term="petal spur" wikidataID="Q87608694" description="A cardinal organ part that is a slender, hollow extension of a petal" idx="181" />
+    <entry id="PP183" term="pistillode" wikidataID="Q87608919" description="A sterile pistil, often rudimentary" idx="182" />
+    <entry id="PP184" term="plerome" wikidataID="Q87609332" description="the central core of primary meristem of a plant or plant part that according to the histogen theory gives rise to the stele. The stelar region in a root tip." idx="183" />
+    <entry id="PP185" term="plumule" wikidataID="Q87609728" description="the young shoot above the cotyledon(s) of an embryo or seedling" idx="184" />
+    <entry id="PP186" term="pod" wikidataID="Q87609996" description="the fruit of any leguminous plant, consisting of a long two-valved case that contains seeds and splits along both sides when ripe" idx="185" />
+    <entry id="PP187" term="rachis" wikidataID="Q87610596" description="the main axis or stem of an inflorescence or compound leaf" idx="186" />
+    <entry id="PP188" term="raphe" wikidataID="Q87610912" description="A cardinal organ part that is a ridge on a plant ovule where a funicle is or was fused to the ovule." idx="187" />
+    <entry id="PP189" term="rosette leaf" wikidataID="Q87612280" description="A vascular leaf born in a circular pattern around a stem with compressed stem internodes." idx="188" />
+    <entry id="PP190" term="salt gland" wikidataID="Q87612659" description="a plant structure which secretes salt. May be located on or near the plant surface and secrete externally, or be internal to the plant and secrete into a canal or reservoir. " idx="189" />
+    <entry id="PP191" term="secundine" wikidataID="Q87612806" description="one of the two integuments surrounding the ovule of a plant" idx="190" />
+    <entry id="PP192" term="seed pod" wikidataID="Q87612861" description="a carpel or pistil enclosing the seeds of a plant, esp a flowering plant" idx="191" />
+    <entry id="PP193" term="seed trichome" wikidataID="Q87612938" description="A trichome that develops from seed coat epidermis" idx="192" />
+    <entry id="PP194" term="septum" wikidataID="Q87613121" description="A collective organ part structure composed of two or more layers of various tissues that is a partition that divides a cavity formed by the fusion of two or more organs" idx="193" />
+    <entry id="PP195" term="sheath" wikidataID="Q87613201" description="an enclosing or protective structure, such as a leaf base encasing the stem of a plant" idx="194" />
+    <entry id="PP196" term="shoot culture" wikidataID="Q87614021" description="One of three common pathways of plant tissue culture regeneration are propagation from preexisting meristems (shoot culture or nodal culture), organogenesis and non-zygotic embryogenesis." idx="195" />
+    <entry id="PP197" term="silk" wikidataID="Q87622342" description="A collective organ part structure that has as parts an elongated stigma with stigma papilla, and an elongated style" idx="196" />
+    <entry id="PP198" term="spathe" wikidataID="Q87622668" description="a large bract, often coloured, that surrounds the inflorescence of aroid plants and palms" idx="197" />
+    <entry id="PP199" term="spike" wikidataID="Q87622862" description="an unbranched inflorescence consisting of a raceme of sessile flowers on a main axis, as in the gladiolus and sedges" idx="198" />
+    <entry id="PP200" term="flower stalk" wikidataID="Q87623367" description="The supporting structure of an organ, usually narrower in diameter than the organ itself." idx="199" />
+    <entry id="['PP201', 'PP200']" term="['stalk', 'flower stalk']" wikidataID="Q87623367" description="The supporting structure of an organ, usually narrower in diameter than the organ itself." idx="['200', '199']" merged="true" />
+    <entry id="PP202" term="pericarp" wikidataID="Q876445" description="the wall of a fruit, developed from the ovary/carpel wall" idx="201" />
+    <entry id="PP203" term="stipel" wikidataID="Q87648435" description="Stipule-like appendage(s) at the base of a leaflet (in unifoliolate or simple leaves, found at the top of the petiole" idx="202" />
+    <entry id="PP204" term="stolon" wikidataID="Q87648445" description="Paired, modified leaves at the base of the petiole, may be membranous or leaf-like" idx="203" />
+    <entry id="PP205" term="tassel" wikidataID="Q87648476" description="anything resembling the tuft of stamens at the tip of a staminate inflorescence in corn" idx="204" />
+    <entry id="PP206" term="tassel branch" wikidataID="Q87648478" description="The long branch that arise from the central spike of tassel in maize" idx="205" />
+    <entry id="PP207" term="tuberous root" wikidataID="Q87648498" description="A root that is radially enlarged relative to other lateral roots or shoot-borne roots on the same plant, but not as enlarged as a tuberous root tuber." idx="206" />
+    <entry id="PP208" term="tuberous root tuber" wikidataID="Q87648517" description="A root that develops from a tuberous root and is further radially enlarged for storage" idx="207" />
+    <entry id="PP209" term="umbel ray" wikidataID="Q87648548" description="A compound umbel" idx="208" />
+    <entry id="PP210" term="vascular leaf" wikidataID="Q87648554" description="A leaf in a vascular plant" idx="209" />
+    <entry id="PP211" term="vegetative bud" wikidataID="Q87648558" description="A bud that develops into a vegetative shoot system" idx="210" />
+    <entry id="PP212" term="aerial part" wikidataID="Q87648580" description="any part of a plant that develops above ground" idx="211" />
+    <entry id="PP213" term="apical hook" wikidataID="Q87648628" description="a hook-like structure which develops at the apical part of the of an hypocotyl in dark-grown seedlings of broad-leaved angiosperms with epigeal germination" idx="212" />
+    <entry id="PP214" term="anther wall" wikidataID="Q87648640" description="A microsporangium wall that is part of an anther" idx="213" />
+    <entry id="PP215" term="apices" wikidataID="Q87648664" description="the apical meristem or its remnant on a flower." idx="214" />
+    <entry id="PP216" term="leaf base" wikidataID="Q87648669" description="A phyllome base that is part of a leaf" idx="215" />
+    <entry id="PP217" term="leaf lamina" wikidataID="Q87648681" description="A phyllome lamina that is the part of a leaf exclusive of the petiole or leaf sheath if either is present." idx="216" />
+    <entry id="PP218" term="stem base" wikidataID="Q87648700" description="The basal part of stem" idx="217" />
+    <entry id="PP219" term="ripe" wikidataID="Q87648799" description="having arrived at such a stage of growth or development as to be ready for reaping, gathering, eating, or use, as grain or fruit; completely matured" idx="218" />
+    <entry id="['PP220', 'PP219']" term="['semi-ripe', 'ripe']" wikidataID="Q87648799" description="having arrived at such a stage of growth or development as to be ready for reaping, gathering, eating, or use, as grain or fruit; completely matured" idx="['219', '218']" merged="true" />
+    <entry id="PP221" term="unripe" wikidataID="Q87648863" description="NOT having arrived at such a stage of growth or development as to be ready for reaping, gathering, eating, or use, as grain or fruit; completely matured" idx="220" />
+    <entry id="['PP222', 'PP223', 'PP221']" term="['unripe fruit', 'unripe seed', 'unripe']" wikidataID="Q87648863" description="NOT having arrived at such a stage of growth or development as to be ready for reaping, gathering, eating, or use, as grain or fruit; completely matured" idx="['221', '222', '220']" merged="true" />
+    <entry id="PP223" term="unripe seed" wikidataID="Q87648863" description="NOT having arrived at such a stage of growth or development as to be ready for reaping, gathering, eating, or use, as grain or fruit; completely matured" idx="222" />
+    <entry id="PP224" term="leaf trace" wikidataID="Q87649544" description="in nodal anatomy, a vascular bundle that diverges from an axial bundle or another leaf trace and that supplies a leaf" idx="223" />
+    <entry id="PP225" term="ligule" wikidataID="Q882214" description="A membranous or hairy appendage on the adaxial/upper surface of a leaf, at the junction between sheath and blade, especially in grasses" idx="224" />
+    <entry id="PP226" term="leaf sheath" wikidataID="Q882246" description="A cardinal organ part that is the lower part of a vascular leaf, and which more or less encases the stem." idx="225" />
+    <entry id="PP227" term="leaflet" wikidataID="Q887004" description="the ultimate unit of a compound leaf." idx="226" />
+    <entry id="PP228" term="hypanthium" wikidataID="Q887231" description="A cup- or tube-shaped cardinal organ part, bearing perianth and stamens on its rim, so these arise above the base, and often above the top, of the ovary" idx="227" />
+    <entry id="PP229" term="pulvinus" wikidataID="Q913294" description="thickening at the base of a plant leaf" idx="228" />
+    <entry id="PP230" term="pomace" wikidataID="Q927202" description="the solid remains of grapes, olives, or other fruit after pressing for juice or oil. It contains the skins, pulp, seeds, and stems of the fruit" idx="229" />
+    <entry id="PP231" term="vascular bundle" wikidataID="Q987774" description="a longitudinal strand of vascular tissue in the stems and leaves of higher plants" idx="230" />
+    <entry id="PP232" term="above ground" idx="231" />
+    <entry id="PP233" term="aboveground" idx="232" />
+    <entry id="PP234" term="bark wood" idx="233" />
+    <entry id="PP235" term="below ground" idx="234" />
+    <entry id="PP236" term="belowground" idx="235" />
+    <entry id="PP237" term="buttwood" idx="236" />
+    <entry id="PP238" term="complete darkness" idx="237" />
+    <entry id="PP239" term="cut" idx="238" />
+    <entry id="PP240" term="dark" idx="239" />
+    <entry id="PP241" term="dried" idx="240" />
+    <entry id="PP242" term="dry" idx="241" />
+    <entry id="PP243" term="female flower" idx="242" />
+    <entry id="PP244" term="feminine cone" idx="243" />
+    <entry id="PP245" term="fertile" idx="244" />
+    <entry id="PP246" term="fine" idx="245" />
+    <entry id="PP247" term="flowering aerial part" idx="246" />
+    <entry id="PP248" term="flowering bud" idx="247" />
+    <entry id="PP249" term="flowering shoot" idx="248" />
+    <entry id="PP250" term="fresh" idx="249" />
+    <entry id="PP251" term="fresh material" idx="250" />
+    <entry id="PP252" term="full" idx="251" />
+    <entry id="PP253" term="green" idx="252" />
+    <entry id="PP254" term="hairy root" description="Hairy roots in plants are the manifestation of infection caused by Agrobacterium rhizogenes, a gram negative soil bacterium." idx="253" />
+    <entry id="PP255" term="herbal parts" idx="254" />
+    <entry id="PP256" term="immature seeds" idx="255" />
+    <entry id="PP257" term="infertile" idx="256" />
+    <entry id="PP258" term="inflorescence stem" idx="257" />
+    <entry id="PP259" term="intact" idx="258" />
+    <entry id="PP260" term="lab-dried" idx="259" />
+    <entry id="PP261" term="light" idx="260" />
+    <entry id="PP262" term="male flower" idx="261" />
+    <entry id="PP263" term="mature" idx="262" />
+    <entry id="PP264" term="oleo-gum resin" idx="263" />
+    <entry id="PP265" term="parent roots" idx="264" />
+    <entry id="PP266" term="root wood" idx="265" />
+    <entry id="PP267" term="seed (commercial plants)" idx="266" />
+    <entry id="PP268" term="seed (fresh)" idx="267" />
+    <entry id="PP269" term="seed (market)" idx="268" />
+    <entry id="PP270" term="seed (wild plants)" idx="269" />
+    <entry id="PP271" term="soaked" idx="270" />
+    <entry id="PP272" term="stem wood chips" idx="271" />
+    <entry id="PP273" term="subterranean" idx="272" />
+    <entry id="PP274" term="terminal branch (non-woody)" idx="273" />
+    <entry id="PP275" term="terminal branch (woody)" idx="274" />
+    <entry id="PP276" term="thin" idx="275" />
+    <entry id="PP277" term="top" description="uppermost part of shoot" idx="276" />
+    <entry id="PP278" term="unfertile" idx="277" />
+    <entry id="PP279" term="vegetative material" idx="278" />
+    <entry id="PP280" term="whole fruit" idx="279" />
+    <entry id="PP281" term="whole herb" idx="280" />
+    <entry id="PP282" term="whole plant" description="A plant structure which is a whole organism" idx="281" />
+    <entry id="PP283" term="whole plant biomass" idx="282" />
+    <entry id="PP284" term="yellow" idx="283" />
+    <entry id="PP285" term="young" idx="284" />
+</dictionary>
