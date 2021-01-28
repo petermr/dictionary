@@ -5,10 +5,8 @@ No subclassing
 """
 import xml.etree.ElementTree as ET
 #from typing import hints
-import copy
 import os
 import re
-import sys
 
 # elements
 DICTIONARY = "dictionary"
@@ -36,18 +34,18 @@ ALLOWED_WIKIDATA_REGEX = "_"
 XML_LANG = "xml:lang"
 LANG_EN = "en"
 LANGUAGES = {
-    "Chinese"    : "ZH",
-    "English"    : "EN",
-    "French"     : "FR",
-    "German"     : "DE",
-    "Hindi"      : "HI",
-    "Kannada"    : "KN",
-    "Malayalam"  : "ML",
-    "Portuguese" : "PT",
-    "Sanskrit"   : "SA",
-    "Spanish"    : "ES",
-    "Tamil"      : "TA",
-    "Urdu"       : "UR",
+    "Chinese":     "ZH",
+    "English":     "EN",
+    "French":      "FR",
+    "German":      "DE",
+    "Hindi":       "HI",
+    "Kannada":     "KN",
+    "Malayalam":   "ML",
+    "Portuguese":  "PT",
+    "Sanskrit":    "SA",
+    "Spanish":     "ES",
+    "Tamil":       "TA",
+    "Urdu":        "UR",
 }
 
 
@@ -75,9 +73,10 @@ SUPPORTED_CHILDREN = [
 ]
 
 REGEXES = {
-    WIKIDATA_ID : "(Q|P)\d+",
-    WIKIDATA_URL : "https?://www\.wikidata\.org/(wiki|entity)/(Q|P)\d+",
-    WIKIPEDIA_EN_PAGE: "(https?://en\.wikipedia\.org/wiki/)?(%[A-F0-9][A-F0-9]|[A-Z0-9])[^\s]+", # we are undecided on this attribute
+    WIKIDATA_ID: "(Q|P)\d+",
+    WIKIDATA_URL: "https?://www\.wikidata\.org/(wiki|entity)/(Q|P)\d+",
+    # we are undecided on this attribute
+    WIKIPEDIA_EN_PAGE: "(https?://en\.wikipedia\.org/wiki/)?(%[A-F0-9][A-F0-9]|[A-Z0-9])[^\s]+",
     WIKIPEDIA_EN_URL: "https?://en\.wikipedia\.org/wiki/(%[A-F0-9][A-F0-9]|[A-Z0-9])[^\s]+",
 }
 
@@ -95,8 +94,8 @@ OPEN_VIRUS_DICT_NAMES = [
 ]
 
 TRANSFORMED_ATTS = {
-    "country" : "_p297_country",
-    "crossrefid" : "_p3153_crossref_funder_id"
+    "country": "_p297_country",
+    "crossrefid": "_p3153_crossref_funder_id"
 }
 
 def get_resources_base():
@@ -256,7 +255,7 @@ class Entry():
                     entrylist[0].elem.attrib["merged"] = "true"
                     entrylist[0].merge_attributes(entrylist[i])
                     entrylist[0].merge_children(entrylist[i])
-                    deletable_list.append(entrylist[i]);
+                    deletable_list.append(entrylist[i])
 #                    print("deleting", entrylist[i])
 #            print(ET.tostring(entrylist[0].elem))
 
@@ -307,8 +306,8 @@ class Dictionary():
     """
 
     def __init__(self, elem=None, file=None):
-        self.err_count = 0;
-        self.max_err = 2;
+        self.err_count = 0
+        self.max_err = 2
         self.unknown_atts = set()
         self.entry_list_by_wikidata_id = {}
 
@@ -329,12 +328,12 @@ class Dictionary():
 
         raise ParseError if XML is not well-formed
 
-        return Parsed XML as ElementTree element
+        return Parsed XML as ElementTree element or None
         """
 
         self.file = file
         with open(file, "r") as f:
-            dictionary_text = f.read();
+            dictionary_text = f.read()
         try:
             self.root = ET.fromstring(dictionary_text)
         except ET.ParseError as e:
@@ -399,7 +398,7 @@ class Dictionary():
 
     def create_entry_list_by_wikidata_id(self):
         self.entry_list_by_wikidata_id = {}
-        entries = self.get_entries();
+        entries = self.get_entries()
         for entry in entries:
             id = entry.get_wikidata_id()
             if id is not None:
