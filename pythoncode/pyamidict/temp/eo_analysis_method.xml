@@ -19,15 +19,15 @@
   <entry id="id.AM08" term="Cavity ring-down spectroscopy" wikidataID="Q1051896" description="highly sensitive optical spectroscopic technique that enables measurement of absolute optical extinction by samples that scatter and absorb light" idx="7">
      <synonym role="acronym">CRDS</synonym>
   </entry>
-  <entry id="id.AM09" term="Chiral chromatography" wikidataID="Q5101828" description="the separation of enantiomers using a chiral HPLC column, an HPLC column that is packed with a chiral stationary phase (CSP)." idx="8" />
-  <entry id="['id.AM10', 'id.AM09']" term="['Chiral column chromatography', 'Chiral chromatography']" wikidataID="Q5101828" description="the separation of enantiomers using a chiral HPLC column, an HPLC column that is packed with a chiral stationary phase (CSP)." idx="['9', '8']" merged="true" />
+  <entry id="['id.AM09', 'id.AM10']" term="['Chiral chromatography', 'Chiral column chromatography']" wikidataID="Q5101828" description="the separation of enantiomers using a chiral HPLC column, an HPLC column that is packed with a chiral stationary phase (CSP)." idx="['8', '9']" merged="true" />
+  <entry id="id.AM10" term="Chiral column chromatography" wikidataID="Q5101828" description="the separation of enantiomers using a chiral HPLC column, an HPLC column that is packed with a chiral stationary phase (CSP)." idx="9" />
   <entry id="id.AM11" term="Circular Dichroism spectroscopy" wikidataID="Q899102" description="Circular dichroism (CD) spectroscopy is a form of light absorption spectroscopy that measures the difference in absorbance of right- and left-circularly polarized light (rather than the commonly used absorbance of isotropic light) by a substance" idx="10">
      <synonym role="acronym">CD</synonym>
   </entry>
-  <entry id="id.AM12" term="Coherent anti-Stokes Raman scattering spectroscopy" wikidataID="Q903528" description="CARS is a third-order nonlinear optical process involving three laser beams: a pump beam of frequency ?p, a Stokes beam of frequency ?S and a probe beam at frequency ?pr" idx="11">
+  <entry id="['id.AM12', 'id.AM13']" term="['Coherent anti-Stokes Raman scattering spectroscopy', 'Coherent anti-Stokes Raman spectroscopy']" wikidataID="Q903528" description="['CARS is a third-order nonlinear optical process involving three laser beams: a pump beam of frequency ?p, a Stokes beam of frequency ?S and a probe beam at frequency ?pr', 'has high sensitivity and powerful applications for in vivo spectroscopy and imaging.']" idx="['11', '12']" merged="true">
      <synonym role="acronym">CARS</synonym>
   </entry>
-  <entry id="['id.AM13', 'id.AM12']" term="['Coherent anti-Stokes Raman spectroscopy', 'Coherent anti-Stokes Raman scattering spectroscopy']" wikidataID="Q903528" description="['has high sensitivity and powerful applications for in vivo spectroscopy and imaging.', 'CARS is a third-order nonlinear optical process involving three laser beams: a pump beam of frequency ?p, a Stokes beam of frequency ?S and a probe beam at frequency ?pr']" idx="['12', '11']" merged="true">
+  <entry id="id.AM13" term="Coherent anti-Stokes Raman spectroscopy" wikidataID="Q903528" description="has high sensitivity and powerful applications for in vivo spectroscopy and imaging." idx="12">
      <synonym role="acronym">CAR</synonym>
   </entry>
   <entry id="id.AM14" term="Cold vapour atomic fluorescence spectroscopy" wikidataID="Q5142484" description="Used in the measurement of trace amounts of volatile heavy metals such as mercury, cold vapour AFS makes use of the unique characteristic of mercury that allows vapour measurement at room temperature" idx="13" />
@@ -75,7 +75,7 @@
   <entry id="id.AM34" term="Gas-Liquid Chromatography-Mass Spectrometry (GLC-MS)" idx="33">
 	  <synonym role="acronym">GLC-MS</synonym>
   </entry>
-  <entry id="['id.AM35', 'id.AM32', 'id.AM33']" term="['GC analysis', 'gas chromatography', 'gas-liquid chromatography']" wikidataID="Q677065" idx="['34', '31', '32']" merged="true" />
+  <entry id="['id.AM35', 'id.AM33', 'id.AM32']" term="['GC analysis', 'gas-liquid chromatography', 'gas chromatography']" wikidataID="Q677065" idx="['34', '32', '31']" merged="true" />
   <entry id="id.AM36" term="GC-FID analysis" idx="35" />
   <entry id="id.AM37" term="GC-MS analysis" idx="36" />
   <entry id="id.AM38" term="GC-MS/FID Analysis" idx="37" />
@@ -83,22 +83,22 @@
   <entry id="id.AM40" term="GC/FID and GC/MS analysis" idx="39" />
   <entry id="id.AM41" term="Hadron spectroscopy" wikidataID="Q87921247" description="studies the energy/mass spectrum of hadrons according to spin, parity, and other particle properties. Baryon spectroscopy and meson spectroscopy are types of hadron spectroscopy." idx="40" />
   <entry id="id.AM42" term="Headspace gas chromatography" wikidataID="Q25111203" description="Headspace gas chromatography uses headspace gas &#8212; from the top or head of a sealed container containing a liquid or solid brought to equilibrium &#8212; injected directly onto a gas chromatographic column for separation and analysis. In this process, only the most volatile (most readily existing as a vapor) substances make it to the column. The technique is commonly applied to the analysis of polymers, food and beverages, blood alcohol levels, environmental variables, cosmetics, and pharmaceutical ingredients." idx="41" />
-  <entry id="['id.AM43', 'id.AM17', 'id.AM46']" term="['High Performance Counter current chromatography', 'Counter current chromatography', 'High Speed Counter current chromatography']" wikidataID="Q87927550" description="a type of liquid-liquid chromatography, where both the stationary and mobile phases are liquids." idx="['42', '16', '45']" merged="true">
+  <entry id="id.AM43" term="High Performance Counter current chromatography" wikidataID="Q87927550" description="a type of liquid-liquid chromatography, where both the stationary and mobile phases are liquids." idx="42">
      <synonym role="acronym">HPCCC</synonym>
   </entry>
-  <entry id="id.AM44" term="High performance liquid chromatography" wikidataID="Q381233" idx="43">
+  <entry id="['id.AM44', 'id.AM48', 'id.AM47']" term="['High performance liquid chromatography', 'high-pressure liquid chromatography', 'High-performance liquid chromatography']" wikidataID="Q381233" idx="['43', '47', '46']" merged="true">
 .   <synonym role="acronym">HPLC</synonym>
 </entry>
   <entry id="id.AM45" term="High Resolution Gas Chromatograph with Flame ionization detector" idx="44">
 	  <synonym role="acronym">HRGC-FID</synonym>
   </entry>
-  <entry id="id.AM46" term="High Speed Counter current chromatography" wikidataID="Q87927550" description="a type of liquid-liquid chromatography, where both the stationary and mobile phases are liquids." idx="45">
+  <entry id="['id.AM46', 'id.AM17', 'id.AM43']" term="['High Speed Counter current chromatography', 'Counter current chromatography', 'High Performance Counter current chromatography']" wikidataID="Q87927550" description="a type of liquid-liquid chromatography, where both the stationary and mobile phases are liquids." idx="['45', '16', '42']" merged="true">
      <synonym role="acronym">HSCCC</synonym>
   </entry>
   <entry id="id.AM47" term="High-performance liquid chromatography" wikidataID="Q381233" description="a technique in analytical chemistry used to separate, identify, and quantify each component in a mixture" idx="46">
      <synonym role="acronym">HPLC-MS</synonym>
   </entry>
-  <entry id="['id.AM48', 'id.AM47', 'id.AM44']" term="['high-pressure liquid chromatography', 'High-performance liquid chromatography', 'High performance liquid chromatography']" wikidataID="Q381233" description="a technique in analytical chemistry used to separate, identify, and quantify each component in a mixture" idx="['47', '46', '43']" merged="true">
+  <entry id="id.AM48" term="high-pressure liquid chromatography" wikidataID="Q381233" description="a technique in analytical chemistry used to separate, identify, and quantify each component in a mixture" idx="47">
      <synonym role="acronym">HPLC</synonym>
   </entry>
   <entry id="id.AM49" term="high-resolution gas chromatography with high-resolution mass spectrometry" idx="48">
@@ -106,7 +106,7 @@
   </entry>
   <entry id="id.AM50" term="HPLC-UV-ESI-MS" idx="49" />
   <entry id="id.AM51" term="HRGC-MS Analysis" idx="50" />
-  <entry id="['id.AM52', 'id.AM53', 'id.AM91']" term="['hydrophobic chromatography', 'Hydrophobic interaction chromatography', 'Reversed-phase chromatography']" wikidataID="Q645497" idx="['51', '52', '90']" merged="true" />
+  <entry id="['id.AM52', 'id.AM91', 'id.AM53']" term="['hydrophobic chromatography', 'Reversed-phase chromatography', 'Hydrophobic interaction chromatography']" wikidataID="Q645497" idx="['51', '90', '52']" merged="true" />
   <entry id="id.AM53" term="Hydrophobic interaction chromatography" wikidataID="Q645497" idx="52">
 .   <synonym role="acronym">HIC</synonym>
 </entry>
@@ -121,10 +121,10 @@
      <synonym role="acronym">IR</synonym>
   </entry>
   <entry id="id.AM60" term="Laser spectroscopy" wikidataID="Q59435245" description="uses tunable lasers[6] and other types of coherent emission sources, such as optical parametric oscillators,[7] for selective excitation of atomic or molecular species." idx="59" />
-  <entry id="id.AM61" term="Laser-induced breakdown spectroscopy" wikidataID="Q2654990" description="also called laser-induced plasma spectrometry" idx="60">
+  <entry id="['id.AM61', 'id.AM62']" term="['Laser-induced breakdown spectroscopy', 'laser-induced plasma spectrometry']" wikidataID="Q2654990" description="['also called laser-induced plasma spectrometry', 'also called Laser-induced breakdown spectroscopy']" idx="['60', '61']" merged="true">
      <synonym role="acronym">LIBS</synonym>
   </entry>
-  <entry id="['id.AM62', 'id.AM61']" term="['laser-induced plasma spectrometry', 'Laser-induced breakdown spectroscopy']" wikidataID="Q2654990" description="['also called Laser-induced breakdown spectroscopy', 'also called laser-induced plasma spectrometry']" idx="['61', '60']" merged="true" />
+  <entry id="id.AM62" term="laser-induced plasma spectrometry" wikidataID="Q2654990" description="also called Laser-induced breakdown spectroscopy" idx="61" />
   <entry id="id.AM63" term="Liquid chromatography" wikidataID="Q901688" idx="62">
 .   <synonym role="acronym">LC</synonym>
 </entry>
@@ -144,7 +144,7 @@
   </entry>
   <entry id="id.AM70" term="Multivariate optical computing" wikidataID="Q5642505" description="an all optical compressed sensing spectroscopic technique, generally used in harsh environments, that directly calculates chemical information from a spectrum as analogue output." idx="69" />
   <entry id="id.AM71" term="Neutron spin echo spectroscopy" wikidataID="Q3492917" description="measures internal dynamics in proteins and other soft matter systems." idx="70" />
-  <entry id="['id.AM72', 'id.AM69', 'id.AM73', 'id.AM74']" term="['NMR Measurements', 'MR spectroscopy', 'nuclear magnetic resonance', 'Nuclear magnetic resonance spectroscopy']" wikidataID="Q10359898" description="a spectroscopic technique to observe local magnetic fields around atomic nuclei" idx="['71', '68', '72', '73']" merged="true" />
+  <entry id="['id.AM72', 'id.AM74', 'id.AM69', 'id.AM73']" term="['NMR Measurements', 'Nuclear magnetic resonance spectroscopy', 'MR spectroscopy', 'nuclear magnetic resonance']" wikidataID="Q10359898" description="a spectroscopic technique to observe local magnetic fields around atomic nuclei" idx="['71', '73', '68', '72']" merged="true" />
   <entry id="id.AM73" term="nuclear magnetic resonance" wikidataID="Q10359898" description="a spectroscopic technique to observe local magnetic fields around atomic nuclei" idx="72">
      <synonym role="acronym">NMR</synonym>
   </entry>
@@ -208,20 +208,20 @@
   <entry id="id.AM107" term="Transient grating spectroscopy" wikidataID="Q28406979" description="measures quasiparticle propagation. It can track changes in metallic materials as they are irradiated." idx="106" />
   <entry id="id.AM108" term="Two-dimensional chromatography" wikidataID="Q7858694" description="a type of chromatographic technique in which the injected sample is separated by passing through two different separation stages" idx="107" />
   <entry id="id.AM109" term="Ultraviolet photoelectron spectroscopy" wikidataID="Q602144" description="refers to the measurement of kinetic energy spectra of photoelectrons emitted by molecules which have absorbed ultraviolet photons, in order to determine molecular orbital energies in the valence region." idx="108" />
-  <entry id="id.AM110" term="Ultraviolet Spectroscopy" wikidataID="Q898426" description="refers to absorption spectroscopy or reflectance spectroscopy in part of the ultraviolet and the full, adjacent visible spectral regions" idx="109">
+  <entry id="['id.AM110', 'id.AM111', 'id.AM112']" term="['Ultraviolet Spectroscopy', 'ultraviolet&#8211;visible spectrophotometry', 'Ultraviolet&#8211;visible spectroscopy']" wikidataID="Q898426" description="refers to absorption spectroscopy or reflectance spectroscopy in part of the ultraviolet and the full, adjacent visible spectral regions" idx="['109', '110', '111']" merged="true">
      <synonym role="acronym">UV</synonym>
   </entry>
   <entry id="id.AM111" term="ultraviolet&#8211;visible spectrophotometry" wikidataID="Q898426" description="refers to absorption spectroscopy or reflectance spectroscopy in part of the ultraviolet and the full, adjacent visible spectral regions" idx="110">
      <synonym role="acronym">UV/Vis</synonym>
   </entry>
-  <entry id="['id.AM112', 'id.AM110', 'id.AM111']" term="['Ultraviolet&#8211;visible spectroscopy', 'Ultraviolet Spectroscopy', 'ultraviolet&#8211;visible spectrophotometry']" wikidataID="Q898426" description="refers to absorption spectroscopy or reflectance spectroscopy in part of the ultraviolet and the full, adjacent visible spectral regions" idx="['111', '109', '110']" merged="true">
+  <entry id="id.AM112" term="Ultraviolet&#8211;visible spectroscopy" wikidataID="Q898426" description="refers to absorption spectroscopy or reflectance spectroscopy in part of the ultraviolet and the full, adjacent visible spectral regions" idx="111">
      <synonym role="acronym">UV&#8211;Vis</synonym>
   </entry>
   <entry id="id.AM113" term="Vibrational circular dichroism spectroscopy" wikidataID="Q87922577" description="detects differences in attenuation of left and right circularly polarized light passing through a sample. It is the extension of circular dichroism spectroscopy into the infrared and near infrared ranges" idx="112" />
   <entry id="id.AM114" term="Video spectroscopy" wikidataID="Q17126755" description="combines spectroscopic measurements with video technique" idx="113" />
-  <entry id="id.AM115" term="visible Spectroscopy" wikidataID="Q17126755" description="refers to absorption spectroscopy or reflectance spectroscopy in part of the ultraviolet and the full, adjacent visible spectral regions" idx="114">
+  <entry id="['id.AM115', 'id.AM114', 'id.AM116']" term="['visible Spectroscopy', 'Video spectroscopy', 'Visible/Ultraviolet (UV)']" wikidataID="Q17126755" description="['refers to absorption spectroscopy or reflectance spectroscopy in part of the ultraviolet and the full, adjacent visible spectral regions', 'combines spectroscopic measurements with video technique']" idx="['114', '113', '115']" merged="true">
      <synonym role="acronym">Vis</synonym>
   </entry>
-  <entry id="['id.AM116', 'id.AM114', 'id.AM115']" term="['Visible/Ultraviolet (UV)', 'Video spectroscopy', 'visible Spectroscopy']" wikidataID="Q17126755" description="['refers to absorption spectroscopy or reflectance spectroscopy in part of the ultraviolet and the full, adjacent visible spectral regions', 'combines spectroscopic measurements with video technique']" idx="['115', '113', '114']" merged="true" />
+  <entry id="id.AM116" term="Visible/Ultraviolet (UV)" wikidataID="Q17126755" description="refers to absorption spectroscopy or reflectance spectroscopy in part of the ultraviolet and the full, adjacent visible spectral regions" idx="115" />
   <entry id="id.AM117" term="X-ray photoelectron spectroscopy" wikidataID="Q899559" description="a surface-sensitive quantitative spectroscopic technique that measures the elemental composition at the parts per thousand range, empirical formula, chemical state and electronic state of the elements that exist within a material." idx="116" />
 </dictionary>

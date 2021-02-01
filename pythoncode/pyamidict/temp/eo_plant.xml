@@ -31,7 +31,7 @@
 <entry id="EP26" term="Achillea goniocephala" wikidataID="Q15584736" idx="24" />
 <entry id="EP27" term="Achillea holosericea" wikidataID="Q15586077" idx="25" />
 <entry id="EP28" term="Achillea lingulata" wikidataID="Q15585943" idx="26" />
-<entry id="['EP29', 'EP39']" term="['Achillea millefolium', 'Achillea tanacetifolia']" wikidataID="Q25408" idx="['27', '36']" merged="true" />
+<entry id="EP29" term="Achillea millefolium" wikidataID="Q25408" idx="27" />
 <entry id="EP31" term="Achillea nobilis" wikidataID="Q1285422" idx="28" />
 <entry id="EP32" term="Achillea oligocephala" wikidataID="Q12234011" idx="29" />
 <entry id="EP33" term="Achillea pseudoaleppica" wikidataID="Q15585297" idx="30" />
@@ -40,7 +40,7 @@
 <entry id="EP36" term="Achillea sieheana" wikidataID="Q15586950" idx="33" />
 <entry id="EP37" term="Achillea stricta" wikidataID="Q38699594" idx="34" />
 <entry id="EP38" term="Achillea talagonica" wikidataID="Q15587094" idx="35" />
-<entry id="EP39" term="Achillea tanacetifolia" wikidataID="Q25408" idx="36" />
+<entry id="['EP39', 'EP29']" term="['Achillea tanacetifolia', 'Achillea millefolium']" wikidataID="Q25408" idx="['36', '27']" merged="true" />
 <entry id="EP40" term="Achillea tenuifolia" wikidataID="Q15587699" idx="37" />
 <entry id="EP41" term="Achillea vermicularis" wikidataID="Q15590859" idx="38" />
 <entry id="EP42" term="Acinos hungaricus" idx="39" />
@@ -132,11 +132,11 @@
 <entry id="EP133" term="Artemisia armeniaca" wikidataID="Q15471012" idx="125" />
 <entry id="EP134" term="Artemisia aucheri" wikidataID="Q38778328" idx="126" />
 <entry id="EP135" term="Artemisia barrelieri" wikidataID="Q14947448" idx="127" />
-<entry id="EP136" term="Artemisia caerulescens" wikidataID="Q15696794" idx="128" />
+<entry id="['EP136', 'EP141']" term="Artemisia caerulescens" wikidataID="Q15696794" idx="['128', '132']" merged="true" />
 <entry id="EP138" term="Artemisia campestris" wikidataID="Q783863" idx="129" />
 <entry id="EP139" term="Artemisia chamaemelifolia" wikidataID="Q13560518" idx="130" />
 <entry id="EP140" term="Artemisia ciniformis" wikidataID="Q15469652" idx="131" />
-<entry id="['EP141', 'EP136']" term="Artemisia caerulescens" wikidataID="Q15696794" idx="['132', '128']" merged="true" />
+<entry id="EP141" term="Artemisia caerulescens" wikidataID="Q15696794" idx="132" />
 <entry id="EP143" term="Artemisia copa" wikidataID="Q15470405" idx="133" />
 <entry id="EP144" term="Artemisia densiflora" idx="134" />
 <entry id="EP145" term="Artemisia deserti" wikidataID="Q15469526" idx="135" />
@@ -307,8 +307,8 @@
 <entry id="EP322" term="Cassytha pubescens" wikidataID="Q5049527" idx="300" />
 <entry id="EP323" term="Cayratia japonica" wikidataID="Q1023841" idx="301" />
 <entry id="EP324" term="Cedrela odorata" wikidataID="Q163004" idx="302" />
-<entry id="EP325" term="Cedrus libani" wikidataID="Q61105" idx="303" />
-<entry id="['EP326', 'EP325']" term="Cedrus libani" wikidataID="Q61105" idx="['304', '303']" merged="true" />
+<entry id="['EP325', 'EP326']" term="Cedrus libani" wikidataID="Q61105" idx="['303', '304']" merged="true" />
+<entry id="EP326" term="Cedrus libani" wikidataID="Q61105" idx="304" />
 <entry id="EP327" term="Centaurea aphrodisea" wikidataID="Q15562713" idx="305" />
 <entry id="EP328" term="Centaurea athoa" wikidataID="Q15563733" idx="306" />
 <entry id="EP329" term="Centaurea calcitrapa" wikidataID="Q1763537" idx="307" />
@@ -361,7 +361,7 @@
 <entry id="EP379" term="Citrus clementina" wikidataID="Q460517" idx="354" />
 <entry id="EP380" term="Citrus latifolia" wikidataID="Q1520920" idx="355" />
 <entry id="EP381" term="Citrus latifolia Tanaka x Citrus aurantifolia Swingle " idx="356" />
-<entry id="EP382" term="Citrus limon" wikidataID="Q500" idx="357" />
+<entry id="['EP382', 'EP400']" term="Citrus limon" wikidataID="Q500" idx="['357', '367']" merged="true" />
 <entry id="EP385" term="Citrus madurensis" wikidataID="Q849387" idx="358" />
 <entry id="EP386" term="Citrus maxima" wikidataID="Q80024" idx="359" />
 <entry id="EP387" term="Citrus paradisii" idx="360" />
@@ -371,7 +371,7 @@
 <entry id="['EP391', 'EP401', 'EP390']" term="Citrus sinensis" wikidataID="Q3355098" idx="['364', '368', '363']" merged="true" />
 <entry id="EP397" term="Citrus tangerina" wikidataID="Q516494" idx="365" />
 <entry id="EP398" term="Citrus unshiu" wikidataID="Q875262" idx="366" />
-<entry id="['EP400', 'EP382']" term="Citrus limon" wikidataID="Q500" idx="['367', '357']" merged="true" />
+<entry id="EP400" term="Citrus limon" wikidataID="Q500" idx="367" />
 <entry id="EP401" term="Citrus sinensis" wikidataID="Q3355098" idx="368" />
 <entry id="EP402" term="Cleome coluteoides" wikidataID="Q15516860" idx="369" />
 <entry id="EP403" term="Clinopodium vulgare" wikidataID="Q163952" idx="370" />
@@ -384,8 +384,8 @@
 <entry id="EP410" term="Colquhounia coccinea" wikidataID="Q11153450" idx="377" />
 <entry id="EP411" term="Commiphora myrrha" wikidataID="Q164609" idx="378" />
 <entry id="EP412" term="Conyza albida" wikidataID="Q14905792" idx="379" />
-<entry id="['EP413', 'EP414']" term="Conyza canadensis" wikidataID="Q794305" idx="['380', '381']" merged="true" />
-<entry id="EP414" term="Conyza canadensis" wikidataID="Q794305" idx="381" />
+<entry id="EP413" term="Conyza canadensis" wikidataID="Q794305" idx="380" />
+<entry id="['EP414', 'EP413']" term="Conyza canadensis" wikidataID="Q794305" idx="['381', '380']" merged="true" />
 <entry id="EP415" term="Conyza bonariensis" wikidataID="Q2453589" idx="382" />
 <entry id="EP416" term="Copaifera langsdorffii" wikidataID="Q311446" idx="383" />
 <entry id="EP418" term="Copaifera reticulata" wikidataID="Q15529789" idx="384" />
@@ -437,9 +437,9 @@
 <entry id="EP466" term="Cyclotrichium leucotrichum" wikidataID="Q15314243" idx="430" />
 <entry id="EP467" term="Cyclotrichium straussii" wikidataID="Q15314023" idx="431" />
 <entry id="EP469" term="Cymbocarpum wiedemannii" wikidataID="Q15570317" idx="432" />
-<entry id="['EP470', 'EP472']" term="Cymbopogon citratus" wikidataID="Q33913" idx="['433', '435']" merged="true" />
+<entry id="EP470" term="Cymbopogon citratus" wikidataID="Q33913" idx="433" />
 <entry id="EP471" term="Cymbopogon afronardus" wikidataID="Q50832830" idx="434" />
-<entry id="EP472" term="Cymbopogon citratus" wikidataID="Q33913" idx="435" />
+<entry id="['EP472', 'EP470']" term="Cymbopogon citratus" wikidataID="Q33913" idx="['435', '433']" merged="true" />
 <entry id="EP473" term="Cymbopogon distans" wikidataID="Q15514822" idx="436" />
 <entry id="EP474" term="Cymbopogon flexuosus" wikidataID="Q6331754" idx="437" />
 <entry id="EP476" term="Cymbopogon giganteus" wikidataID="Q15515143" idx="438" />
@@ -644,8 +644,8 @@
 <entry id="EP690" term="Flaveria linearis" wikidataID="Q15596900" idx="637" />
 <entry id="EP691" term="Flourensia cernua" wikidataID="Q5462023" idx="638" />
 <entry id="EP692" term="Foeniculum vulgare" wikidataID="Q43511" idx="639" />
-<entry id="['EP694', 'EP695']" term="['Fortunella japonica', 'Fortunella margarita']" wikidataID="Q486951" idx="['640', '641']" merged="true" />
-<entry id="EP695" term="Fortunella margarita" wikidataID="Q486951" idx="641" />
+<entry id="EP694" term="Fortunella japonica" wikidataID="Q486951" idx="640" />
+<entry id="['EP695', 'EP694']" term="['Fortunella margarita', 'Fortunella japonica']" wikidataID="Q486951" idx="['641', '640']" merged="true" />
 <entry id="EP696" term="Fragaria vesca" wikidataID="Q146684" idx="642" />
 <entry id="EP697" term="Fritillaria eduardii" wikidataID="Q28834571" idx="643" />
 <entry id="EP698" term="Fritillaria imperialis" wikidataID="Q161939" idx="644" />
@@ -682,8 +682,8 @@
 <entry id="EP733" term="Hedychium coccineum" wikidataID="Q3926743" idx="675" />
 <entry id="EP735" term="Hedychium coronarium" wikidataID="Q1994229" idx="676" />
 <entry id="EP736" term="Hedychium flavescens" wikidataID="Q3926753" idx="677" />
-<entry id="EP737" term="Hedychium gardnerianum" wikidataID="Q3142116" idx="678" />
-<entry id="['EP738', 'EP737']" term="Hedychium gardnerianum" wikidataID="Q3142116" idx="['679', '678']" merged="true" />
+<entry id="['EP737', 'EP738']" term="Hedychium gardnerianum" wikidataID="Q3142116" idx="['678', '679']" merged="true" />
+<entry id="EP738" term="Hedychium gardnerianum" wikidataID="Q3142116" idx="679" />
 <entry id="EP739" term="Hedychium larsenii" wikidataID="Q15329023" idx="680" />
 <entry id="EP740" term="Hedychium spicatum" wikidataID="Q3628042" idx="681" />
 <entry id="EP741" term="Helenium amarum" wikidataID="Q5703935" idx="682" />
@@ -837,9 +837,9 @@
 <entry id="EP897" term="Lavandula angustifolia" wikidataID="Q42081" idx="830" />
 <entry id="EP900" term="Lavandula coronopifolia" wikidataID="Q6559588" idx="831" />
 <entry id="EP901" term="Lavandula dentata" wikidataID="Q1450735" idx="832" />
-<entry id="EP902" term="Lavandula hybrida" wikidataID="Q905916" idx="833" />
+<entry id="['EP902', 'EP904']" term="['Lavandula hybrida', 'Lavandula latifolia']" wikidataID="Q905916" idx="['833', '835']" merged="true" />
 <entry id="EP903" term="Lavandula intermedia" wikidataID="Q3828025" idx="834" />
-<entry id="['EP904', 'EP902']" term="['Lavandula latifolia', 'Lavandula hybrida']" wikidataID="Q905916" idx="['835', '833']" merged="true" />
+<entry id="EP904" term="Lavandula latifolia" wikidataID="Q905916" idx="835" />
 <entry id="EP905" term="Lavandula luisieri" wikidataID="Q39284412" idx="836" />
 <entry id="EP907" term="Lavandula officinalis" wikidataID="Q50844455" idx="837" />
 <entry id="EP908" term="Lavandula stoechas" wikidataID="Q1342976" idx="838" />
@@ -909,8 +909,8 @@
 <entry id="EP977" term="Marrubium propinquum" wikidataID="Q4520032" idx="902" />
 <entry id="EP978" term="Marrubium vulgare" wikidataID="Q157631" idx="903" />
 <entry id="EP979" term="Marsypianthes chamaedrys" wikidataID="Q15340680" idx="904" />
-<entry id="['EP980', 'EP981']" term="Melaleuca alternifolia" wikidataID="Q782073" idx="['905', '906']" merged="true" />
-<entry id="EP981" term="Melaleuca alternifolia" wikidataID="Q782073" idx="906" />
+<entry id="EP980" term="Melaleuca alternifolia" wikidataID="Q782073" idx="905" />
+<entry id="['EP981', 'EP980']" term="Melaleuca alternifolia" wikidataID="Q782073" idx="['906', '905']" merged="true" />
 <entry id="EP982" term="Melaleuca armillaris" wikidataID="Q145525" idx="907" />
 <entry id="EP983" term="Melaleuca atroviridis" wikidataID="Q6810988" idx="908" />
 <entry id="EP984" term="Melaleuca bracteata" wikidataID="Q15369918" idx="909" />
@@ -953,11 +953,11 @@
 <entry id="EP1027" term="Mentha longifolia" wikidataID="Q161924" idx="946" />
 <entry id="EP1032" term="Mentha microphylla" idx="947" />
 <entry id="EP1033" term="Mentha mozaffarianii" idx="948" />
-<entry id="['EP1034', 'EP1044']" term="Mentha piperita" wikidataID="Q156037" idx="['949', '953']" merged="true" />
+<entry id="EP1034" term="Mentha piperita" wikidataID="Q156037" idx="949" />
 <entry id="EP1035" term="Mentha rotundifolia" wikidataID="Q2494758" idx="950" />
 <entry id="EP1036" term="Mentha sachalinensis" wikidataID="Q6817552" idx="951" />
 <entry id="EP1037" term="Mentha spicata" wikidataID="Q160114" idx="952" />
-<entry id="EP1044" term="Mentha piperita" wikidataID="Q156037" idx="953" />
+<entry id="['EP1044', 'EP1034']" term="Mentha piperita" wikidataID="Q156037" idx="['953', '949']" merged="true" />
 <entry id="EP1046" term="Meriandra bengalensis" wikidataID="Q50985244" idx="954" />
 <entry id="EP1047" term="Messerschmidia sibirica" idx="955" />
 <entry id="EP1048" term="Meum athamanticum" wikidataID="Q1019275" idx="956" />
@@ -1020,21 +1020,21 @@
 <entry id="EP1106" term="Myrothamnus moschatus" wikidataID="Q18112874" idx="1013" />
 <entry id="EP1107" term="Myrrhis odorata" wikidataID="Q1137175" idx="1014" />
 <entry id="EP1108" term="Myrrhoides nodosa" wikidataID="Q28936012" idx="1015" />
-<entry id="EP1109" term="Myrtus communis" wikidataID="Q6122027" idx="1016" />
+<entry id="['EP1109', 'EP1110', 'EP1111']" term="Myrtus communis" wikidataID="Q6122027" idx="['1016', '1017', '1018']" merged="true" />
 <entry id="EP1110" term="Myrtus communis" wikidataID="Q6122027" idx="1017" />
-<entry id="['EP1111', 'EP1110', 'EP1109']" term="Myrtus communis" wikidataID="Q6122027" idx="['1018', '1017', '1016']" merged="true" />
+<entry id="EP1111" term="Myrtus communis" wikidataID="Q6122027" idx="1018" />
 <entry id="EP1112" term="Nashia inaguensis" wikidataID="Q6966840" idx="1019" />
 <entry id="EP1113" term="Nasturtium officinale" wikidataID="Q150452" idx="1020" />
 <entry id="EP1114" term="Neofinetia falcata" wikidataID="Q1037607" idx="1021" />
 <entry id="EP1115" term="Neolitsea brassii" wikidataID="Q18075538" idx="1022" />
 <entry id="EP1116" term="Neolitsea australiensis" wikidataID="Q6993212" idx="1023" />
-<entry id="['EP1117', 'EP1118']" term="Neolitsea dealbata" wikidataID="Q13861083" idx="['1024', '1025']" merged="true" />
-<entry id="EP1118" term="Neolitsea dealbata" wikidataID="Q13861083" idx="1025" />
+<entry id="EP1117" term="Neolitsea dealbata" wikidataID="Q13861083" idx="1024" />
+<entry id="['EP1118', 'EP1117']" term="Neolitsea dealbata" wikidataID="Q13861083" idx="['1025', '1024']" merged="true" />
 <entry id="EP1119" term="Neolitsea fischeri" wikidataID="Q5460342" idx="1026" />
 <entry id="EP1120" term="Neomitranthes obscura" wikidataID="Q15377755" idx="1027" />
-<entry id="EP1121" term="Nepeta betonicifolia" wikidataID="Q15345051" idx="1028" />
+<entry id="['EP1121', 'EP1123']" term="Nepeta betonicifolia" wikidataID="Q15345051" idx="['1028', '1030']" merged="true" />
 <entry id="EP1122" term="Nepeta asterotricha" idx="1029" />
-<entry id="['EP1123', 'EP1121']" term="Nepeta betonicifolia" wikidataID="Q15345051" idx="['1030', '1028']" merged="true" />
+<entry id="EP1123" term="Nepeta betonicifolia" wikidataID="Q15345051" idx="1030" />
 <entry id="EP1124" term="Nepeta bornmuelleri" wikidataID="Q15345822" idx="1031" />
 <entry id="EP1125" term="Nepeta bracteata" wikidataID="Q15344754" idx="1032" />
 <entry id="EP1126" term="Nepeta cataria" wikidataID="Q161139" idx="1033" />
@@ -1069,7 +1069,7 @@
 <entry id="EP1157" term="Ochrosperma lineare" wikidataID="Q15380270" idx="1062" />
 <entry id="EP1158" term="Ocimum adscendens" idx="1063" />
 <entry id="EP1159" term="Ocimum americanum" wikidataID="Q3240154" idx="1064" />
-<entry id="['EP1160', 'EP1188']" term="Ocimum basilicum" wikidataID="Q38859" idx="['1065', '1082']" merged="true" />
+<entry id="EP1160" term="Ocimum basilicum" wikidataID="Q38859" idx="1065" />
 <entry id="EP1168" term="Ocimum ciliatum" wikidataID="Q50860665" idx="1066" />
 <entry id="EP1169" term="Ocimum gratissimum" wikidataID="Q2355390" idx="1067" />
 <entry id="EP1173" term="Ocimum kilimandscharicum" wikidataID="Q4689983" idx="1068" />
@@ -1086,7 +1086,7 @@
 <entry id="EP1185" term="Origanum acutidens" wikidataID="Q15349366" idx="1079" />
 <entry id="EP1186" term="Origanum adanense" wikidataID="Q15349571" idx="1080" />
 <entry id="EP1187" term="Origanum bargyli" wikidataID="Q12242088" idx="1081" />
-<entry id="EP1188" term="Ocimum basilicum" wikidataID="Q38859" idx="1082" />
+<entry id="['EP1188', 'EP1160']" term="Ocimum basilicum" wikidataID="Q38859" idx="['1082', '1065']" merged="true" />
 <entry id="EP1189" term="Origanum bastetanum" wikidataID="Q15347824" idx="1083" />
 <entry id="EP1190" term="Origanum boissieri" wikidataID="Q15348479" idx="1084" />
 <entry id="EP1191" term="Origanum calcaratum" wikidataID="Q1476895" idx="1085" />
@@ -1298,9 +1298,9 @@
 <entry id="EP1425" term="Rosa foetida" wikidataID="Q134801" idx="1291" />
 <entry id="EP1426" term="Rosmarinus officinalis" wikidataID="Q122679" idx="1292" />
 <entry id="EP1427" term="Rosmarinus eriocalyx" wikidataID="Q9070818" idx="1293" />
-<entry id="EP1428" term="Rosmarinus officinalis" wikidataID="Q122679" idx="1294" />
+<entry id="['EP1428', 'EP1426', 'EP1429', 'EP1430']" term="Rosmarinus officinalis" wikidataID="Q122679" idx="['1294', '1292', '1295', '1296']" merged="true" />
 <entry id="EP1429" term="Rosmarinus officinalis" wikidataID="Q122679" idx="1295" />
-<entry id="['EP1430', 'EP1428', 'EP1426', 'EP1429']" term="Rosmarinus officinalis" wikidataID="Q122679" idx="['1296', '1294', '1292', '1295']" merged="true" />
+<entry id="EP1430" term="Rosmarinus officinalis" wikidataID="Q122679" idx="1296" />
 <entry id="EP1431" term="Rubus ulmifolius" wikidataID="Q59843" idx="1297" />
 <entry id="EP1432" term="Russowia sogdiana" wikidataID="Q15231440" idx="1298" />
 <entry id="EP1433" term="Ruta chalepensis" wikidataID="Q2714490" idx="1299" />
@@ -1313,8 +1313,8 @@
 <entry id="EP1440" term="Salvia apiana" wikidataID="Q899812" idx="1306" />
 <entry id="EP1441" term="Salvia atropatana" wikidataID="Q15358644" idx="1307" />
 <entry id="EP1442" term="Salvia aucheri" wikidataID="Q15358113" idx="1308" />
-<entry id="['EP1443', 'EP1442', 'EP1444']" term="Salvia aucheri" wikidataID="Q15358113" idx="['1309', '1308', '1310']" merged="true" />
-<entry id="EP1444" term="Salvia aucheri" wikidataID="Q15358113" idx="1310" />
+<entry id="EP1443" term="Salvia aucheri" wikidataID="Q15358113" idx="1309" />
+<entry id="['EP1444', 'EP1443', 'EP1442']" term="Salvia aucheri" wikidataID="Q15358113" idx="['1310', '1309', '1308']" merged="true" />
 <entry id="EP1445" term="Salvia aytachii" wikidataID="Q15358508" idx="1311" />
 <entry id="EP1446" term="Salvia ballsiana" wikidataID="Q15358218" idx="1312" />
 <entry id="EP1447" term="Salvia brachyodon" wikidataID="Q15358708" idx="1313" />
@@ -1325,8 +1325,8 @@
 <entry id="EP1452" term="Salvia cyanescens" wikidataID="Q4818142" idx="1318" />
 <entry id="EP1453" term="Salvia divaricata" wikidataID="Q15359483" idx="1319" />
 <entry id="EP1454" term="Salvia eremophila" wikidataID="Q15359263" idx="1320" />
-<entry id="['EP1455', 'EP1456']" term="Salvia euphratica" wikidataID="Q12233107" idx="['1321', '1322']" merged="true" />
-<entry id="EP1456" term="Salvia euphratica" wikidataID="Q12233107" idx="1322" />
+<entry id="EP1455" term="Salvia euphratica" wikidataID="Q12233107" idx="1321" />
+<entry id="['EP1456', 'EP1455']" term="Salvia euphratica" wikidataID="Q12233107" idx="['1322', '1321']" merged="true" />
 <entry id="EP1457" term="Salvia fruticosa" wikidataID="Q864698" idx="1323" />
 <entry id="EP1458" term="Salvia glutinosa" wikidataID="Q158374" idx="1324" />
 <entry id="EP1459" term="Salvia hydrangea" wikidataID="Q15359492" idx="1325" />
@@ -1355,14 +1355,14 @@
 <entry id="EP1483" term="Salvia ringens" wikidataID="Q4519773" idx="1348" />
 <entry id="EP1484" term="Salvia russellii" wikidataID="Q15362555" idx="1349" />
 <entry id="EP1485" term="Salvia sahendica" wikidataID="Q15361680" idx="1350" />
-<entry id="['EP1486', 'EP1494']" term="Salvia sclarea" wikidataID="Q157872" idx="['1351', '1358']" merged="true" />
+<entry id="EP1486" term="Salvia sclarea" wikidataID="Q157872" idx="1351" />
 <entry id="EP1488" term="Salvia sclareopsis" wikidataID="Q15362063" idx="1352" />
 <entry id="EP1489" term="Salvia tomentosa" wikidataID="Q15362282" idx="1353" />
 <entry id="EP1490" term="Salvia verbascifolia" wikidataID="Q4519763" idx="1354" />
 <entry id="EP1491" term="Salvia verbenaca" wikidataID="Q1313052" idx="1355" />
 <entry id="EP1492" term="Salvia verticillata" wikidataID="Q129775" idx="1356" />
 <entry id="EP1493" term="Salvia xanthocheila" wikidataID="Q15362466" idx="1357" />
-<entry id="EP1494" term="Salvia sclarea" wikidataID="Q157872" idx="1358" />
+<entry id="['EP1494', 'EP1486']" term="Salvia sclarea" wikidataID="Q157872" idx="['1358', '1351']" merged="true" />
 <entry id="EP1495" term="Santalum album" wikidataID="Q210858" idx="1359" />
 <entry id="EP1496" term="Santalum insulare" wikidataID="Q18079007" idx="1360" />
 <entry id="EP1497" term="Santalum macgregorii" wikidataID="Q5478532" idx="1361" />
@@ -1431,8 +1431,8 @@
 <entry id="EP1567" term="Sideritis hololeuca" wikidataID="Q15366802" idx="1424" />
 <entry id="EP1568" term="Sideritis montana" wikidataID="Q819184" idx="1425" />
 <entry id="EP1569" term="Sideritis pusilla" wikidataID="Q15366633" idx="1426" />
-<entry id="EP1577" term="Sideritis raeseri" wikidataID="Q15366701" idx="1427" />
-<entry id="['EP1578', 'EP1577']" term="Sideritis raeseri" wikidataID="Q15366701" idx="['1428', '1427']" merged="true" />
+<entry id="['EP1577', 'EP1578']" term="Sideritis raeseri" wikidataID="Q15366701" idx="['1427', '1428']" merged="true" />
+<entry id="EP1578" term="Sideritis raeseri" wikidataID="Q15366701" idx="1428" />
 <entry id="EP1579" term="Sideritis scardica" wikidataID="Q15367189" idx="1429" />
 <entry id="EP1580" term="Sideritis sipylea" wikidataID="Q15367590" idx="1430" />
 <entry id="EP1581" term="Sideritis stricta" wikidataID="Q15366785" idx="1431" />
@@ -1449,9 +1449,9 @@
 <entry id="EP1594" term="Solidago puberula" wikidataID="Q15567835" idx="1442" />
 <entry id="EP1595" term="Solidago virgaurea" wikidataID="Q599435" idx="1443" />
 <entry id="EP1596" term="Sphaeranthus indicus" wikidataID="Q15231437" idx="1444" />
-<entry id="EP1597" term="Sphaerantia discolor" wikidataID="Q15382075" idx="1445" />
+<entry id="['EP1597', 'EP1599']" term="Sphaerantia discolor" wikidataID="Q15382075" idx="['1445', '1447']" merged="true" />
 <entry id="EP1598" term="Sphaerantia chartacea" wikidataID="Q15381940" idx="1446" />
-<entry id="['EP1599', 'EP1597']" term="Sphaerantia discolor" wikidataID="Q15382075" idx="['1447', '1445']" merged="true" />
+<entry id="EP1599" term="Sphaerantia discolor" wikidataID="Q15382075" idx="1447" />
 <entry id="EP1600" term="Sphagneticola trilobata" wikidataID="Q2707027" idx="1448" />
 <entry id="EP1601" term="Spilanthes acmella" wikidataID="Q3493480" idx="1449" />
 <entry id="EP1602" term="Stachys corsica" wikidataID="Q1784781" idx="1450" />
@@ -1520,15 +1520,15 @@
 <entry id="EP1666" term="Teucrium atratum" wikidataID="Q15370745" idx="1513" />
 <entry id="EP1667" term="Teucrium botrys" wikidataID="Q159060" idx="1514" />
 <entry id="EP1668" term="Teucrium carolipaui" wikidataID="Q15371037" idx="1515" />
-<entry id="EP1669" term="Teucrium chamaedrys" wikidataID="Q161937" idx="1516" />
-<entry id="['EP1670', 'EP1669']" term="Teucrium chamaedrys" wikidataID="Q161937" idx="['1517', '1516']" merged="true" />
+<entry id="['EP1669', 'EP1670']" term="Teucrium chamaedrys" wikidataID="Q161937" idx="['1516', '1517']" merged="true" />
+<entry id="EP1670" term="Teucrium chamaedrys" wikidataID="Q161937" idx="1517" />
 <entry id="EP1671" term="Teucrium creticum" wikidataID="Q3104241" idx="1518" />
 <entry id="EP1672" term="Teucrium flavum" wikidataID="Q1553939" idx="1519" />
 <entry id="EP1673" term="Teucrium mascatense" wikidataID="Q15371125" idx="1520" />
 <entry id="EP1674" term="Teucrium massiliense" wikidataID="Q15371190" idx="1521" />
 <entry id="EP1675" term="Teucrium melissoides" wikidataID="Q15371347" idx="1522" />
-<entry id="['EP1676', 'EP1677']" term="Teucrium montanum" wikidataID="Q159340" idx="['1523', '1524']" merged="true" />
-<entry id="EP1677" term="Teucrium montanum" wikidataID="Q159340" idx="1524" />
+<entry id="EP1676" term="Teucrium montanum" wikidataID="Q159340" idx="1523" />
+<entry id="['EP1677', 'EP1676']" term="Teucrium montanum" wikidataID="Q159340" idx="['1524', '1523']" merged="true" />
 <entry id="EP1678" term="Teucrium multicaule" wikidataID="Q15372279" idx="1525" />
 <entry id="EP1679" term="Teucrium orientale" wikidataID="Q15372062" idx="1526" />
 <entry id="EP1680" term="Teucrium persicum" wikidataID="Q15373665" idx="1527" />
@@ -1619,14 +1619,14 @@
 <entry id="EP1771" term="Valeriana alpestris" wikidataID="Q17435436" idx="1612" />
 <entry id="EP1772" term="Valeriana hardwickii" wikidataID="Q15232254" idx="1613" />
 <entry id="EP1773" term="Valeriana jatamansi" wikidataID="Q912252" idx="1614" />
-<entry id="['EP1774', 'EP1775']" term="Valeriana officinalis" wikidataID="Q157819" idx="['1615', '1616']" merged="true" />
-<entry id="EP1775" term="Valeriana officinalis" wikidataID="Q157819" idx="1616" />
+<entry id="EP1774" term="Valeriana officinalis" wikidataID="Q157819" idx="1615" />
+<entry id="['EP1775', 'EP1774']" term="Valeriana officinalis" wikidataID="Q157819" idx="['1616', '1615']" merged="true" />
 <entry id="EP1776" term="Vanillosmopsis erythropappa" idx="1617" />
 <entry id="EP1777" term="Varthemia persica" wikidataID="Q15562292" idx="1618" />
 <entry id="EP1778" term="Vernonia migeodii" wikidataID="Q15567823" idx="1619" />
 <entry id="EP1779" term="Vernonia perrottetii" wikidataID="Q15568521" idx="1620" />
-<entry id="EP1780" term="Vetiveria zizanioides" wikidataID="Q378568" idx="1621" />
-<entry id="['EP1781', 'EP1780']" term="Vetiveria zizanioides" wikidataID="Q378568" idx="['1622', '1621']" merged="true" />
+<entry id="['EP1780', 'EP1781']" term="Vetiveria zizanioides" wikidataID="Q378568" idx="['1621', '1622']" merged="true" />
+<entry id="EP1781" term="Vetiveria zizanioides" wikidataID="Q378568" idx="1622" />
 <entry id="EP1782" term="Viguiera dentata" wikidataID="Q15570649" idx="1623" />
 <entry id="EP1783" term="Vitex agnus-castus" wikidataID="Q259318" idx="1624" />
 <entry id="EP1784" term="Viticipremna queenslandica" wikidataID="Q15375889" idx="1625" />

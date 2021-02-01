@@ -48,6 +48,32 @@ TEST_QUERY = """
         }
 #        LIMIT 3
         """
+
+# this fails - bad syntax
+TEST_QUERY1 = """
+        SELECT 
+         ?item ?itemLabel ?GRINid ?itemAltLabel
+        WHERE {
+          ?item wdt:P31 wd:Q16521.
+          ?item wdt:P105 wd:Q34740.
+          ?item wdt:P1421 ?GRINid.
+          }
+          SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+        }
+#        LIMIT 3
+        """
+TEST_QUERY2 = """
+        SELECT 
+         ?item ?itemLabel ?GRINid ?itemAltLabel
+        WHERE {
+          ?item wdt:P31 wd:Q16521.
+          ?item wdt:P105 wd:Q34740.
+          ?item wdt:P1421 ?GRINid.
+        
+          SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+        }
+        LIMIT 20
+        """
 PYAMIDICT, RESOURCE_DIR, DICT202011, TEMP_DIR, DICTIONARY_TOP = Resources().get_resources()
 
 class WikimediaLib():
@@ -121,8 +147,12 @@ class WikimediaLib():
             return None
         try:
             req = requests.get(url, params={FORMAT: format, QUERY: query})
-            print("req", req)
-            return req.json() if format == JSON else None
+            print("req", req, req.status_code)
+            if str(req.status_code) != "200":
+                print("HTTP error: ", req.status_code)
+                return
+            else:
+                return req.json() if format == JSON else None
         except requests.exceptions.ConnectionError:
             print("Cannot connect")
             return None
@@ -169,6 +199,7 @@ class WikimediaLib():
         # "head' dict with "vars" child dict as list of column names
         head_dict = query_results_dict[HEAD]
         colhead_array = head_dict[VARS]
+        print("column headings", colhead_array)
         # second "results" with "bindings" child list of row dictionaries
         results_dict = query_results_dict[RESULTS]
         bindings = results_dict[BINDINGS]
@@ -179,16 +210,20 @@ class WikimediaLib():
         for row_dict in bindings:
             new_row_dict = {}
             for colhead in colhead_array:
-                cell_dict = row_dict[colhead]
-                datatype_ = cell_dict.get(DATATYPE, None)
-                type_ = cell_dict.get(TYPE, None)
-                # there may be other types of output - don't know
-                if XSD_DEC == datatype_ and LITERAL == type_:
-                    val = float(cell_dict.get(VALUE))
-                elif type_ == LITERAL:
+                val = None
+                if colhead in row_dict:
+                    cell_dict = row_dict[colhead]
+                    datatype_ = cell_dict.get(DATATYPE, None)
+                    type_ = cell_dict.get(TYPE, None)
+                    # there may be other types of output - don't know
                     val = cell_dict.get(VALUE, None)
-                else:
-                    print("Cannot parse", cell_dict)
+                    if type_ == LITERAL:
+                        if XSD_DEC == datatype_ :
+                           val = float(cell_dict.get(VALUE))
+                    elif type_ == URI:
+                        pass
+                    else:
+                        print("Cannot parse type = ", type_, cell_dict)
                 new_row_dict[colhead] = val
             rowdata.append(new_row_dict)
         return pd.DataFrame(rowdata)
@@ -221,7 +256,8 @@ def main():
     """
     wm = WikimediaLib()
     wm.help()
-    df0 = wm.submit_process_sparql(query=TEST_QUERY)
+    print("running query2")
+    df0 = wm.submit_process_sparql(query=TEST_QUERY2)
     print("cevspql_df", df0)
 
     sparql_xml_file = os.path.join(DICTIONARY_TOP, "openVirus202011/country/work/sparql_final_dict.xml")
