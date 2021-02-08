@@ -358,7 +358,7 @@
 	<entry id="ACT192" term="anti aging"/>
 	<entry id="ACT193" term="anti alzheimer agent"/>
 	<entry id="ACT194" term="anti alzheimeran"/>
-	<entry id="ACT195" term="anti anxiety"/>
+	<entry id="ACT195" term="anti anxiety" wikidataID="Q62903" description="medication or other intervention that inhibits anxiety"/>
 	<entry id="ACT196" term="anti arachidonate"/>
 	<entry id="ACT197" term="anti arthritic"/>
 	<entry id="ACT198" term="anti atherosclerotic"/>
