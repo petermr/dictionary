@@ -5,7 +5,7 @@ collection of existing Python tools and Wikimedia/Data endpoints
 import os
 import pandas as pd
 import xml.etree.ElementTree as ET
-from amidict import Resources
+import resources
 
 # SPARQL keywords
 WIKIDATA_QUERY_URL = 'https://query.wikidata.org/sparql'
@@ -74,7 +74,6 @@ TEST_QUERY2 = """
         }
         LIMIT 20
         """
-PYAMIDICT, RESOURCE_DIR, DICT202011, TEMP_DIR, DICTIONARY_TOP = Resources().get_resources()
 
 class WikimediaLib():
 
@@ -159,14 +158,13 @@ class WikimediaLib():
 
     def test_query_wikipedia(self):
         """for experimenting"""
-        import wikipedia as wp
         """# wikipedia search library (many functions)
         https://wikipedia.readthedocs.io/en/latest/code.html
         """
-        print("Bear", wp.search("bear"))
+        print("Bear", wikipedia.search("bear"))
         print("reality_summary", wp.summary("reality checkpoint"))
     #    print("pmr_page", wp.page(title="Peter Murray-Rust", preload=True))
-        page = wp.WikipediaPage(title="Ocimum_kilimandscharicum", preload=True)
+        page = wikipedia.WikipediaPage(title="Ocimum_kilimandscharicum", preload=True)
         print("categories", page.categories,
 ## these are quite large
               "\n", "content", page.content,
@@ -188,7 +186,6 @@ class WikimediaLib():
 
         return DataFrame (columns from SPARQL SELECT) or None if failed
         """
-        import pandas as pd
 
         wm = WikimediaLib();
         query_results_dict = wm.post_sparql(query)
@@ -203,7 +200,8 @@ class WikimediaLib():
         # second "results" with "bindings" child list of row dictionaries
         results_dict = query_results_dict[RESULTS]
         bindings = results_dict[BINDINGS]
-        return self.create_data_frame_from_bindings(bindings, colhead_array)
+        df = self.create_data_frame_from_bindings(bindings, colhead_array)
+        return df, query
 
     def create_data_frame_from_bindings(self, bindings, colhead_array):
         rowdata = []
@@ -257,10 +255,11 @@ def main():
     wm = WikimediaLib()
     wm.help()
     print("running query2")
-    df0 = wm.submit_process_sparql(query=TEST_QUERY2)
-    print("cevspql_df", df0)
+    df, query = wm.submit_process_sparql(query=TEST_QUERY2)
 
-    sparql_xml_file = os.path.join(DICTIONARY_TOP, "openVirus202011/country/work/sparql_final_dict.xml")
+    print("cevspql_df", df)
+
+    sparql_xml_file = os.path.join(Resources.get(Resources.DICTIONARY_TOP), "openVirus202011/country/work/sparql_final_dict.xml")
     wm.analyze(sparql_xml_file)
 
 

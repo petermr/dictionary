@@ -7,6 +7,7 @@ import xml.etree.ElementTree as ET
 #from typing import hints
 import os
 import re
+from wikimedia import WikimediaLib
 
 # elements
 DICTIONARY = "dictionary"
@@ -97,26 +98,6 @@ TRANSFORMED_ATTS = {
     "country": "_p297_country",
     "crossrefid": "_p3153_crossref_funder_id"
 }
-
-def get_resources_base():
-    PYAMIDICT = os.path.normpath(os.path.join(__file__, "..", ".."))
-    RESOURCE_DIR = os.path.join(PYAMIDICT, "resources")
-    TEMP_DIR = os.path.join(PYAMIDICT, "temp")
-    DICTIONARY_VERSION = "openVirus202011"
-    DICTIONARY_VERSION = "openVirus20210120"
-    DICTIONARY_TOP = os.path.normpath(os.path.join(PYAMIDICT, "..", ".."))
-    DICTIONARY_DIR = os.path.join(DICTIONARY_TOP, DICTIONARY_VERSION)
-    return (PYAMIDICT, RESOURCE_DIR, DICTIONARY_DIR, TEMP_DIR, DICTIONARY_TOP)
-
-
-PYAMIDICT, RESOURCE_DIR, DICT202011, TEMP_DIR, DICTIONARY_TOP = get_resources_base()
-
-class Resources():
-    def __init__(self):
-        pass
-
-    def get_resources(self):
-        return get_resources_base()
 
 class Entry():
 
@@ -421,6 +402,13 @@ class Dictionary():
 # https://towardsdatascience.com/processing-xml-in-python-elementtree-c8992941efd2
 # root.findall("./genre/decade/movie/format[@multiple='Yes']..."):
 
+    def create_from_WM_SPARQL(self):
+        wm = WikimediaLib()
+        df, query = wm.submit_process_sparql(query=TEST_QUERY2)
+
+
+#    wm.test_query_wikipedia()
+    print("end of wikipedia main")
 
 
 # end class Entry
