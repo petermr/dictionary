@@ -23,6 +23,65 @@ class getpapersall:
         print("*/Building the Query*/")
         return {'headers': headers, 'payload': payload}
 
+    def webscrapepmc(self, query, sizeo):
+        from selenium import webdriver
+        import time
+        from selenium import webdriver
+        from selenium.webdriver.common.by import By
+        from selenium.webdriver.support import expected_conditions as EC
+        from selenium.webdriver.common.keys import Keys
+        from selenium.webdriver.support.ui import WebDriverWait
+        from selenium.common.exceptions import NoSuchElementException, ElementNotVisibleException
+        from selenium.webdriver.common.alert import Alert
+        from selenium.webdriver.common.action_chains import ActionChains
+        from selenium.common.exceptions import TimeoutException
+        from selenium.webdriver.chrome.options import Options
+        from selenium import webdriver
+        import chromedriver_autoinstaller
+
+        chromedriver_autoinstaller.install()
+        pmcdict = {}
+        size = int(sizeo)
+
+        options = webdriver.ChromeOptions()
+        options.add_argument('--ignore-certificate-errors-spki-list')
+        options.add_argument('--ignore-ssl-errors')
+        webdriver = webdriver.Chrome(
+            chrome_options=options
+        )
+        a = 0
+        url = f'https://europepmc.org/search?query={query}%20%28IN_EPMC%3Ay%29%20AND%20%28OPEN_ACCESS%3Ay%29&page=1'
+        webdriver.get(url)
+
+        while len(pmcdict) <= size:
+            time.sleep(2)
+            # retrive url in headless browser
+            # time.sleep(3)
+            results = webdriver.find_elements_by_xpath(
+                "//ul[@class='separated-list']/li/div/p[3]/span")
+            for i in results:
+                ahref = i.text
+                pmcid = ahref
+                if 'PMC' in pmcid:
+                    a += 1
+                    if len(pmcdict) < size:
+                        print('Scraping paper no.', a)
+                        name = pmcid.split()
+                        pmcdict[name[-1]] = {}
+                        pmcdict[name[-1]]["downloaded"] = False
+                    else:
+                        break
+            if a < size:
+                webdriver.find_element_by_xpath(
+                    "//span[contains(text(), 'Next')]").click()
+            else:
+                webdriver.quit()
+
+                break
+            time.sleep(2)
+
+        return pmcdict
+
     def europepmc(self, size, query, synonym=True, externalfile=True, fulltext=True):
         import requests
         import xmltodict
@@ -47,26 +106,18 @@ class getpapersall:
             q = size//1000
             r = size % 1000
             i = 0
-            nextCursorMark = []
+            nextCursorMark = ['*', ]
             content = []
             for i in range(q):
-                if i == 0:
-                    queryparams = self.buildquery(
-                        '*', q, query, synonym=synonym)
-                    builtquery = self.makequery(
-                        queryparams['headers'], queryparams['payload'])
-                    nextCursorMark.append(
-                        builtquery["responseWrapper"]["nextCursorMark"])
-                    content.append(builtquery)
-                else:
-                    queryparams = self.buildquery(
-                        nextCursorMark[-1], 1000, query, synonym=synonym)
-                    builtquery = self.makequery(
-                        queryparams['headers'], queryparams['payload'])
 
-                    nextCursorMark.append(
-                        builtquery["responseWrapper"]["nextCursorMark"])
-                    content.append(builtquery)
+                queryparams = self.buildquery(
+                    nextCursorMark[-1], 1000, query, synonym=synonym)
+                builtquery = self.makequery(
+                    queryparams['headers'], queryparams['payload'])
+
+                nextCursorMark.append(
+                    builtquery["responseWrapper"]["nextCursorMark"])
+                content.append(builtquery)
             if r > 0:
                 queryparams = self.buildquery(
                     nextCursorMark[-1], r, query, synonym=synonym)
@@ -96,9 +147,10 @@ class getpapersall:
             output_dict = json.loads(json.dumps(papers))
 
             for i in output_dict["responseWrapper"]["resultList"]["result"]:
-                an += 1
-                print("Reading Dictionary for paper", an)
-                if i["isOpenAccess"] == 'Y' and "pmcid" in i:
+
+                if "pmcid" in i:
+                    an += 1
+                    print("Reading Dictionary for paper", an)
                     pdfurl = []
                     htmlurl = []
                     for x in i["fullTextUrlList"]["fullTextUrl"]:
@@ -200,6 +252,6 @@ class getpapersall:
 
 
 a = getpapersall()
-b = a.europepmc(2000, "ai")
-c = a.makecsv(b)
+c = a.webscrapepmc('ai', 100)
 a.makexmlfiles(c)
+print(len(c))
