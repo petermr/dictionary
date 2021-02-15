@@ -5,7 +5,7 @@ class getpapersall:
     def __init__(self, **kwargs):
         pass
 
-    def makequery(self, headers, payload):
+    def postquery(self, headers, payload):
         import xmltodict
         import requests
         print("*/Making the Request to get all hits*/")
@@ -13,7 +13,6 @@ class getpapersall:
         r = requests.post(
             'https://www.ebi.ac.uk/europepmc/webservices/rest/searchPOST', data=payload, headers=headers)
         print("*/Got the Content*/")
-
         return xmltodict.parse(r.content)
 
     def buildquery(self, cursormark, pageSize, query, synonym=True,):
@@ -23,7 +22,7 @@ class getpapersall:
         print("*/Building the Query*/")
         return {'headers': headers, 'payload': payload}
 
-    def webscrapepmc(self, query, sizeo):
+    def webscrapepmc(self, query, sizeo,):
         from selenium import webdriver
         import time
         from selenium import webdriver
@@ -50,7 +49,9 @@ class getpapersall:
             chrome_options=options
         )
         a = 0
+
         url = f'https://europepmc.org/search?query={query}%20%28IN_EPMC%3Ay%29%20AND%20%28OPEN_ACCESS%3Ay%29&page=1'
+
         webdriver.get(url)
 
         while len(pmcdict) <= size:
@@ -80,7 +81,7 @@ class getpapersall:
                 break
             time.sleep(2)
 
-        return pmcdict
+        return dict(pmcdict)
 
     def europepmc(self, size, query, synonym=True, externalfile=True, fulltext=True):
         import requests
@@ -94,7 +95,7 @@ class getpapersall:
         if size <= 1000:
             queryparams = self.buildquery(
                 '*', size, query, synonym=synonym)
-            builtquery = self.makequery(
+            builtquery = self.postquery(
                 queryparams['headers'], queryparams['payload'])
 
             content = []
@@ -112,7 +113,7 @@ class getpapersall:
 
                 queryparams = self.buildquery(
                     nextCursorMark[-1], 1000, query, synonym=synonym)
-                builtquery = self.makequery(
+                builtquery = self.postquery(
                     queryparams['headers'], queryparams['payload'])
 
                 nextCursorMark.append(
@@ -121,7 +122,7 @@ class getpapersall:
             if r > 0:
                 queryparams = self.buildquery(
                     nextCursorMark[-1], r, query, synonym=synonym)
-                builtquery = self.makequery(
+                builtquery = self.postquery(
                     queryparams['headers'], queryparams['payload'])
                 xmlschema_doc = lxml.etree.XML(builtquery)
                 cursor = xmlschema_doc.xpath('//nextCursorMark')
@@ -184,6 +185,8 @@ class getpapersall:
             print('Wrote the pickle to memory')
 
             pickle.dump(resultantdict, f, pickle.HIGHEST_PROTOCOL)
+        df = pd.DataFrame.from_dict(resultantdict)
+        df.to_csv('europe_pmc.csv')
         return resultantdict
 
     def getxml(self, pmcid):
@@ -207,6 +210,7 @@ class getpapersall:
         import lxml.etree
         import lxml
         import pickle
+        import pandas as pd
         import os
         print("*/Writing the xml papers to memory*/")
         papernumber = 0
@@ -229,6 +233,10 @@ class getpapersall:
                         pickle.dump(finalxmldict[paper],
                                     f, pickle.HIGHEST_PROTOCOL)
 
+                    df = pd.Series(finalxmldict[paper]).to_frame('ColumnName')
+                    df.to_csv(os.path.join(
+                        str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pickle"))
+
                 else:
                     with open(os.path.join(
                             str(os.getcwd()), 'papers', pmcid, f"{pmcid}.xml"), 'wb') as f:
@@ -241,8 +249,13 @@ class getpapersall:
                         pickle.dump(finalxmldict[paper],
                                     f, pickle.HIGHEST_PROTOCOL)
 
+                    df = pd.Series(finalxmldict[paper]).to_frame('ColumnName')
+                    df.to_csv(os.path.join(
+                        str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pickle"))
+
                 with open('europe_pmc.pickle', 'wb') as f:
                     pickle.dump(finalxmldict, f, pickle.HIGHEST_PROTOCOL)
+
                 print(f"*/Updating the pickle*/")
 
     def readpickleddata(self, path):
@@ -252,6 +265,14 @@ class getpapersall:
 
 
 a = getpapersall()
-c = a.webscrapepmc('ai', 100)
+myquery = "plant parts"
+mynumberofpapers = 200
+c = a.webscrapepmc(myquery, mynumberofpapers)
 a.makexmlfiles(c)
-print(len(c))
+
+'''
+c = a.europepmc(mynumberofpapers, myquery)
+a.makecsv(c)
+d = a.readpickleddata("europe_pmc.pickle")
+a.makexmlfiles(d)
+'''
