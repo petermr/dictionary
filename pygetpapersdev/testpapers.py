@@ -1,9 +1,6 @@
-import json
-
-
 class getpapersall:
     def __init__(self, **kwargs):
-        pass
+        import json
 
     def postquery(self, headers, payload):
         import xmltodict
@@ -83,7 +80,7 @@ class getpapersall:
 
         return dict(pmcdict)
 
-    def europepmc(self, size, query, synonym=True, externalfile=True, fulltext=True):
+    def europepmc(self, query, size, synonym=True, externalfile=True, fulltext=True):
         import requests
         import xmltodict
         import lxml.etree
@@ -263,16 +260,17 @@ class getpapersall:
         object = pd.read_pickle(f'{path}')
         return object
 
+    def apipaperdownload(self, query, size):
+        c = self.europepmc(query, size)
+        self.makecsv(c)
+        d = self.readpickleddata("europe_pmc.pickle")
+        self.makexmlfiles(d)
+
+    def scrapingpaperdownload(self, query, size):
+        c = self.webscrapepmc(query, size)
+        self.makexmlfiles(c)
+
 
 a = getpapersall()
-myquery = "plant parts"
-mynumberofpapers = 200
-c = a.webscrapepmc(myquery, mynumberofpapers)
-a.makexmlfiles(c)
-
-'''
-c = a.europepmc(mynumberofpapers, myquery)
-a.makecsv(c)
-d = a.readpickleddata("europe_pmc.pickle")
-a.makexmlfiles(d)
-'''
+a.apipaperdownload('ai', 200)
+a.scrapingpaperdownload('ai', 200)
