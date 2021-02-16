@@ -6,7 +6,6 @@ class getpapersall:
         import xmltodict
         import requests
         print("*/Making the Request to get all hits*/")
-
         r = requests.post(
             'https://www.ebi.ac.uk/europepmc/webservices/rest/searchPOST', data=payload, headers=headers)
         print("*/Got the Content*/")
@@ -70,8 +69,13 @@ class getpapersall:
                     else:
                         break
             if a < size:
-                webdriver.find_element_by_xpath(
-                    "//span[contains(text(), 'Next')]").click()
+                try:
+                    webdriver.find_element_by_xpath(
+                        "//span[contains(text(), 'Next')]").click()
+                except:
+                    print("Only found so many papers.")
+                    webdriver.quit()
+
             else:
                 webdriver.quit()
 
@@ -182,8 +186,9 @@ class getpapersall:
             print('Wrote the pickle to memory')
 
             pickle.dump(resultantdict, f, pickle.HIGHEST_PROTOCOL)
-        df = pd.DataFrame.from_dict(resultantdict)
-        df.to_csv('europe_pmc.csv')
+        df = pd.DataFrame.from_dict(resultantdict,)
+        df_transposed = df.T
+        df_transposed.to_csv('europe_pmc.csv')
         return resultantdict
 
     def getxml(self, pmcid):
@@ -261,16 +266,18 @@ class getpapersall:
         return object
 
     def apipaperdownload(self, query, size):
-        c = self.europepmc(query, size)
-        self.makecsv(c)
-        d = self.readpickleddata("europe_pmc.pickle")
-        self.makexmlfiles(d)
+        queryresult = self.europepmc(query, size)
+        self.makecsv(queryresult)
+        readpickled = self.readpickleddata("europe_pmc.pickle")
+        self.makexmlfiles(readpickled)
 
     def scrapingpaperdownload(self, query, size):
-        c = self.webscrapepmc(query, size)
-        self.makexmlfiles(c)
+        queryresult = self.webscrapepmc(query, size)
+        self.makexmlfiles(queryresult)
 
 
 a = getpapersall()
 a.apipaperdownload('ai', 200)
+'''
 a.scrapingpaperdownload('ai', 200)
+'''
