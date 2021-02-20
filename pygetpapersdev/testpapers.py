@@ -212,39 +212,27 @@ class getpapersall:
             if finalxmldict[paper]["downloaded"] == False:
                 pmcid = paper
                 tree = self.getxml(pmcid)
-                if not os.path.isdir(os.path.join(str(os.getcwd()), 'papers', pmcid)):
+                destinationurl = os.path.join(str(os.getcwd()),
+                                              'papers', pmcid, "fulltext.xml")
+                directoryurl = os.path.join(str(os.getcwd()), 'papers', pmcid)
+                if not os.path.isdir(directoryurl):
                     os.makedirs(os.path.join(
                         str(os.getcwd()), 'papers', pmcid))
-                    with open(os.path.join(
-                            str(os.getcwd()), 'papers', pmcid, "fulltext.xml"), 'wb') as f:
-                        f.write(tree)
-                    print(f"*/Wrote the xml paper {papernumber}*/")
+                with open(destinationurl, 'wb') as f:
+                    f.write(tree)
+                print(
+                    f"*/Wrote the xml paper {papernumber} at {destinationurl}/")
 
-                    finalxmldict[paper]["downloaded"] = True
-                    with open(os.path.join(
-                            str(os.getcwd()), 'papers', pmcid, "fulltext.xml"), 'wb') as f:
-                        pickle.dump(finalxmldict[paper],
-                                    f, pickle.HIGHEST_PROTOCOL)
+                finalxmldict[paper]["downloaded"] = True
+                with open(os.path.join(
+                        str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pickle"), 'wb') as f:
+                    pickle.dump(finalxmldict[paper],
+                                f, pickle.HIGHEST_PROTOCOL)
 
-                    df = pd.Series(finalxmldict[paper]).to_frame('ColumnName')
-                    df.to_csv(os.path.join(
-                        str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pickle"))
-
-                else:
-                    with open(os.path.join(
-                            str(os.getcwd()), 'papers', pmcid, "fulltext.xml"), 'wb') as f:
-                        f.write(tree)
-                    print(f"*/Wrote the xml paper {papernumber}*/")
-
-                    finalxmldict[paper]["downloaded"] = True
-                    with open(os.path.join(
-                            str(os.getcwd()), 'papers', pmcid, "fulltext.xml"), 'wb') as f:
-                        pickle.dump(finalxmldict[paper],
-                                    f, pickle.HIGHEST_PROTOCOL)
-
-                    df = pd.Series(finalxmldict[paper]).to_frame('ColumnName')
-                    df.to_csv(os.path.join(
-                        str(os.getcwd()), 'papers', pmcid, "fulltext.xml"))
+                df = pd.Series(finalxmldict[paper]).to_frame(
+                    'Info_By_EuropePMC_Api')
+                df.to_csv(os.path.join(
+                    str(os.getcwd()), 'papers', pmcid, f"{pmcid}.csv"))
 
                 with open('europe_pmc.pickle', 'wb') as f:
                     pickle.dump(finalxmldict, f, pickle.HIGHEST_PROTOCOL)
@@ -270,5 +258,4 @@ class getpapersall:
 callgetpapers = getpapersall()
 query = "artificial intelligence"
 numberofpapers = 10
-callgetpapers.scrapingpaperdownload(query, numberofpapers)
 callgetpapers.apipaperdownload(query, numberofpapers)
