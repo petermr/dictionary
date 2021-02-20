@@ -90,46 +90,36 @@ class getpapersall:
         import lxml.etree
         import lxml
         import os
+        import json
         size = int(size)
+        content = [[]]
+        nextCursorMark = ['*', ]
+        morepapers = True
+        numberofpapersthere = 0
+        numberofpages = 0
         # change synonym to no otherwise yes is the default
         # The code regarding the size of the query currently only works till 100 terms. This is on purpose and I will add Function to access next cursormark which is basically next page of the resultant of the query once I have enough permision and knowledge
-        if size <= 1000:
+
+        while numberofpapersthere <= size and morepapers == True:
             queryparams = self.buildquery(
-                '*', size, query, synonym=synonym)
+                nextCursorMark[-1], 1000, query, synonym=synonym)
             builtquery = self.postquery(
                 queryparams['headers'], queryparams['payload'])
-
-            content = []
-
-            content.append(builtquery)
-
-            return content
-        if size > 1000:
-            q = size//1000
-            r = size % 1000
-            i = 0
-            nextCursorMark = ['*', ]
-            content = []
-            for i in range(q):
-
-                queryparams = self.buildquery(
-                    nextCursorMark[-1], 1000, query, synonym=synonym)
-                builtquery = self.postquery(
-                    queryparams['headers'], queryparams['payload'])
-
+            if "nextCursorMark" in builtquery["responseWrapper"]:
                 nextCursorMark.append(
                     builtquery["responseWrapper"]["nextCursorMark"])
-                content.append(builtquery)
-            if r > 0:
-                queryparams = self.buildquery(
-                    nextCursorMark[-1], r, query, synonym=synonym)
-                builtquery = self.postquery(
-                    queryparams['headers'], queryparams['payload'])
-                xmlschema_doc = lxml.etree.XML(builtquery)
-                cursor = xmlschema_doc.xpath('//nextCursorMark')
-                nextCursorMark.append(
-                    builtquery["responseWrapper"]["nextCursorMark"])
-                content.append(builtquery)
+                output_dict = json.loads(json.dumps(builtquery))
+                for i in output_dict["responseWrapper"]["resultList"]["result"]:
+                    if "pmcid" in i:
+                        if numberofpapersthere <= size:
+                            content[0].append(i)
+                            numberofpapersthere += 1
+
+            else:
+                morepapers = False
+        if numberofpapersthere > size:
+
+            content[0] = content[0][0:size]
         return content
 
     # this is the function that will the the result from search and will download and save the files.
@@ -148,7 +138,7 @@ class getpapersall:
 
             output_dict = json.loads(json.dumps(papers))
 
-            for i in output_dict["responseWrapper"]["resultList"]["result"]:
+            for i in output_dict:
 
                 if "pmcid" in i:
                     an += 1
