@@ -66,8 +66,7 @@ class pygetpapers:
             results = webdriver.find_elements_by_xpath(
                 "//ul[@class='separated-list']/li/div/p[3]/span")
             for i in results:
-                ahref = i.text
-                pmcid = ahref
+                pmcid = i.text
                 if 'PMC' in pmcid:
                     a += 1
                     if len(pmcdict) < size:
