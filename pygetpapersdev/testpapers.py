@@ -41,6 +41,7 @@ class getpapersall:
         options = webdriver.ChromeOptions()
         options.add_argument('--ignore-certificate-errors-spki-list')
         options.add_argument('--ignore-ssl-errors')
+
         webdriver = webdriver.Chrome(
             chrome_options=options
         )
@@ -215,13 +216,13 @@ class getpapersall:
                     os.makedirs(os.path.join(
                         str(os.getcwd()), 'papers', pmcid))
                     with open(os.path.join(
-                            str(os.getcwd()), 'papers', pmcid, f"{pmcid}.xml"), 'wb') as f:
+                            str(os.getcwd()), 'papers', pmcid, "fulltext.xml"), 'wb') as f:
                         f.write(tree)
                     print(f"*/Wrote the xml paper {papernumber}*/")
 
                     finalxmldict[paper]["downloaded"] = True
                     with open(os.path.join(
-                            str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pickle"), 'wb') as f:
+                            str(os.getcwd()), 'papers', pmcid, "fulltext.xml"), 'wb') as f:
                         pickle.dump(finalxmldict[paper],
                                     f, pickle.HIGHEST_PROTOCOL)
 
@@ -231,19 +232,19 @@ class getpapersall:
 
                 else:
                     with open(os.path.join(
-                            str(os.getcwd()), 'papers', pmcid, f"{pmcid}.xml"), 'wb') as f:
+                            str(os.getcwd()), 'papers', pmcid, "fulltext.xml"), 'wb') as f:
                         f.write(tree)
                     print(f"*/Wrote the xml paper {papernumber}*/")
 
                     finalxmldict[paper]["downloaded"] = True
                     with open(os.path.join(
-                            str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pickle"), 'wb') as f:
+                            str(os.getcwd()), 'papers', pmcid, "fulltext.xml"), 'wb') as f:
                         pickle.dump(finalxmldict[paper],
                                     f, pickle.HIGHEST_PROTOCOL)
 
                     df = pd.Series(finalxmldict[paper]).to_frame('ColumnName')
                     df.to_csv(os.path.join(
-                        str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pickle"))
+                        str(os.getcwd()), 'papers', pmcid, "fulltext.xml"))
 
                 with open('europe_pmc.pickle', 'wb') as f:
                     pickle.dump(finalxmldict, f, pickle.HIGHEST_PROTOCOL)
@@ -266,8 +267,8 @@ class getpapersall:
         self.makexmlfiles(queryresult)
 
 
-a = getpapersall()
-a.apipaperdownload('ai', 200)
-'''
-a.scrapingpaperdownload('ai', 200)
-'''
+callgetpapers = getpapersall()
+query = "artificial intelligence"
+numberofpapers = 10
+callgetpapers.scrapingpaperdownload(query, numberofpapers)
+callgetpapers.apipaperdownload(query, numberofpapers)
