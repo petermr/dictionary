@@ -1,4 +1,4 @@
-class getpapersall:
+class pygetpapers:
     def __init__(self, **kwargs):
         import json
 
@@ -255,7 +255,7 @@ class getpapersall:
         self.makexmlfiles(queryresult)
 
 
-callgetpapers = getpapersall()
+callgetpapers = pygetpapers()
 query = "artificial intelligence"
 numberofpapers = 10
 callgetpapers.apipaperdownload(query, numberofpapers)
