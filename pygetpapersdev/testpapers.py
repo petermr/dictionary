@@ -18,7 +18,7 @@ class pygetpapers:
         print("*/Building the Query*/")
         return {'headers': headers, 'payload': payload}
 
-    def webscrapepmc(self, query, sizeo,):
+    def webscrapepmc(self, query, sizeo, onlyresearcharticles=False, onlypreprints=False, onlyreviews=False):
         from selenium import webdriver
         import time
         from selenium import webdriver
@@ -33,7 +33,7 @@ class pygetpapers:
         from selenium.webdriver.chrome.options import Options
         from selenium import webdriver
         import chromedriver_autoinstaller
-
+        didquit = False
         chromedriver_autoinstaller.install()
         pmcdict = {}
         size = int(sizeo)
@@ -47,7 +47,14 @@ class pygetpapers:
         )
         a = 0
 
-        url = f'https://europepmc.org/search?query={query}%20%28IN_EPMC%3Ay%29%20AND%20%28OPEN_ACCESS%3Ay%29&page=1'
+        if onlyresearcharticles:
+            url = f"https://europepmc.org/search?query=%28%22{query}%22%20AND%20%28%28HAS_FT%3AY%20AND%20OPEN_ACCESS%3AY%29%29%20AND%20%28%28%28SRC%3AMED%20OR%20SRC%3APMC%20OR%20SRC%3AAGR%20OR%20SRC%3ACBA%29%20NOT%20%28PUB_TYPE%3A%22Review%22%29%29%29%29%20AND%20%28%28%28SRC%3AMED%20OR%20SRC%3APMC%20OR%20SRC%3AAGR%20OR%20SRC%3ACBA%29%20NOT%20%28PUB_TYPE%3A%22Review%22%29%29%29"
+        elif onlypreprints:
+            url = f"https://europepmc.org/search?query={query}%20AND%20%28SRC%3APPR%29&page=1"
+        elif onlyreviews:
+            url = f"https://europepmc.org/search?query={query}%20%20AND%20%28PUB_TYPE%3AREVIEW%29&page=1"
+        else:
+            url = f'https://europepmc.org/search?query={query}%20%28IN_EPMC%3Ay%29%20AND%20%28OPEN_ACCESS%3Ay%29&page=1'
 
         webdriver.get(url)
 
@@ -55,6 +62,7 @@ class pygetpapers:
             time.sleep(2)
             # retrive url in headless browser
             # time.sleep(3)
+
             results = webdriver.find_elements_by_xpath(
                 "//ul[@class='separated-list']/li/div/p[3]/span")
             for i in results:
@@ -71,15 +79,17 @@ class pygetpapers:
                         break
             if a < size:
                 try:
+                    time.sleep(2)
                     webdriver.find_element_by_xpath(
                         "//span[contains(text(), 'Next')]").click()
                 except:
-                    print("Only found so many papers.")
+                    if size > 25:
+                        print("Only found so many papers.")
                     webdriver.quit()
-
-            else:
+                    didquit = True
+                    break
+            elif not(didquit):
                 webdriver.quit()
-
                 break
             time.sleep(2)
 
@@ -250,12 +260,22 @@ class pygetpapers:
         readpickled = self.readpickleddata("europe_pmc.pickle")
         self.makexmlfiles(readpickled)
 
-    def scrapingpaperdownload(self, query, size):
-        queryresult = self.webscrapepmc(query, size)
+    def scrapingpaperdownload(self, query, size, onlyresearcharticles=False, onlypreprints=False, onlyreviews=False):
+        queryresult = self.webscrapepmc(
+            query, size, onlyresearcharticles=onlyresearcharticles, onlypreprints=onlypreprints, onlyreviews=onlyreviews)
         self.makexmlfiles(queryresult)
 
 
 callgetpapers = pygetpapers()
 query = "artificial intelligence"
-numberofpapers = 10
+numberofpapers = 21
+
+
+'''
+callgetpapers.scrapingpaperdownload(
+    query, numberofpapers, onlyresearcharticles=True)
+callgetpapers.scrapingpaperdownload(query, numberofpapers, onlyreviews=True)
+
+callgetpapers.scrapingpaperdownload(query, numberofpapers)
 callgetpapers.apipaperdownload(query, numberofpapers)
+'''
