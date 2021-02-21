@@ -135,14 +135,14 @@ class pygetpapers:
         import pickle
 
         resultant_dict = {}
-        for an, papers in enumerate(searchvariable):
+        for paper_number, papers in enumerate(searchvariable):
             output_dict = json.loads(json.dumps(papers))
 
             for paper in output_dict:
 
                 if "pmcid" in paper:
-                    an += 1
-                    print("Reading Dictionary for paper", an)
+                    paper_number += 1
+                    print("Reading Dictionary for paper", paper_number)
                     pdfurl = []
                     htmlurl = []
                     for x in paper["fullTextUrlList"]["fullTextUrl"]:
@@ -152,24 +152,31 @@ class pygetpapers:
                         if x["documentStyle"] == "html" and x["availability"] == "Open access":
                             htmlurl.append(x["url"])
                     resultant_dict[paper["pmcid"]] = {}
-                    resultant_dict[paper["pmcid"]]["htmllinks"] = htmlurl
-                    resultant_dict[paper["pmcid"]]["pdflinks"] = pdfurl
                     try:
                         resultant_dict[paper["pmcid"]
-                                       ]["journaltitle"] = paper["journalInfo"]
+                                       ]["htmllinks"] = htmlurl[0]
                     except:
-                        print("journalInfo not found for paper", an)
+                        pass
+
+                    try:
+                        resultant_dict[paper["pmcid"]]["pdflinks"] = pdfurl[0]
+                    except:
+                        pass
                     try:
                         resultant_dict[paper["pmcid"]
-                                       ]["authorinfo"] = paper["authorList"]
+                                       ]["journaltitle"] = paper["journalInfo"]["journal"]["title"]
                     except:
-                        print("Author list not found for paper", an)
+                        print("journalInfo not found for paper", paper_number)
+                    try:
+                        resultant_dict[paper["pmcid"]
+                                       ]["authorinfo"] = paper["authorList"]["author"][0]['fullName']
+                    except:
+                        print("Author list not found for paper", paper_number)
                     try:
                         resultant_dict[paper["pmcid"]
                                        ]["title"] = paper["title"]
                     except:
-                        print("Title not found for paper", an)
-                    resultant_dict[paper["pmcid"]]["downloaded"] = False
+                        print("Title not found for paper", paper_number)
                     print('Wrote the important Attrutes to a dictionary')
 
         with open('europe_pmc.pickle', 'wb') as f:
