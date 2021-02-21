@@ -99,7 +99,6 @@ class pygetpapers:
         nextCursorMark = ['*', ]
         morepapers = True
         number_of_papers_there = 0
-        number_of_pages = 0
         # change synonym to no otherwise yes is the default
         # The code regarding the size of the query currently only works till 100 terms. This is on purpose and I will add Function to access next cursormark which is basically next page of the resultant of the query once I have enough permision and knowledge
 
@@ -138,48 +137,52 @@ class pygetpapers:
             output_dict = json.loads(json.dumps(papers))
 
             for paper in output_dict:
+                resultant_dict[paper["pmcid"]
+                               ]["downloaded"] = False
+                try:
+                    if "pmcid" in paper:
+                        paper_number += 1
+                        print("Reading Dictionary for paper", paper_number)
+                        pdfurl = []
+                        htmlurl = []
+                        for x in paper["fullTextUrlList"]["fullTextUrl"]:
+                            if x["documentStyle"] == "pdf" and x["availability"] == "Open access":
+                                pdfurl.append(x["url"])
 
-                if "pmcid" in paper:
-                    paper_number += 1
-                    print("Reading Dictionary for paper", paper_number)
-                    pdfurl = []
-                    htmlurl = []
-                    for x in paper["fullTextUrlList"]["fullTextUrl"]:
-                        if x["documentStyle"] == "pdf" and x["availability"] == "Open access":
-                            pdfurl.append(x["url"])
+                            if x["documentStyle"] == "html" and x["availability"] == "Open access":
+                                htmlurl.append(x["url"])
+                        resultant_dict[paper["pmcid"]] = {}
+                        try:
+                            resultant_dict[paper["pmcid"]
+                                           ]["htmllinks"] = htmlurl[0]
+                        except:
+                            pass
 
-                        if x["documentStyle"] == "html" and x["availability"] == "Open access":
-                            htmlurl.append(x["url"])
-                    resultant_dict[paper["pmcid"]] = {}
-                    try:
-                        resultant_dict[paper["pmcid"]
-                                       ]["htmllinks"] = htmlurl[0]
-                    except:
-                        pass
+                        try:
+                            resultant_dict[paper["pmcid"]
+                                           ]["pdflinks"] = pdfurl[0]
+                        except:
+                            pass
+                        try:
+                            resultant_dict[paper["pmcid"]
+                                           ]["journaltitle"] = paper["journalInfo"]["journal"]["title"]
+                        except:
+                            print("journalInfo not found for paper", paper_number)
+                        try:
+                            resultant_dict[paper["pmcid"]
+                                           ]["authorinfo"] = paper["authorList"]["author"][0]['fullName']
+                        except:
+                            print("Author list not found for paper", paper_number)
+                        try:
+                            resultant_dict[paper["pmcid"]
+                                           ]["title"] = paper["title"]
+                        except:
+                            print("Title not found for paper", paper_number)
 
-                    try:
-                        resultant_dict[paper["pmcid"]]["pdflinks"] = pdfurl[0]
-                    except:
-                        pass
-                    try:
-                        resultant_dict[paper["pmcid"]
-                                       ]["journaltitle"] = paper["journalInfo"]["journal"]["title"]
-                    except:
-                        print("journalInfo not found for paper", paper_number)
-                    try:
-                        resultant_dict[paper["pmcid"]
-                                       ]["authorinfo"] = paper["authorList"]["author"][0]['fullName']
-                    except:
-                        print("Author list not found for paper", paper_number)
-                    try:
-                        resultant_dict[paper["pmcid"]
-                                       ]["title"] = paper["title"]
-                    except:
-                        print("Title not found for paper", paper_number)
+                        print('Wrote the important Attrutes to a dictionary')
 
-                    resultant_dict[paper["pmcid"]
-                                   ]["downloaded"] = False
-                    print('Wrote the important Attrutes to a dictionary')
+                except:
+                    pass
         pickleurl = os.path.join(
             str(os.getcwd()), 'papers', 'europe_pmc.pickle')
         directory_url = os.path.join(
@@ -281,6 +284,8 @@ class pygetpapers:
     def scrapingpaperdownload(self, query, size, onlyresearcharticles=False, onlypreprints=False, onlyreviews=False, onlymakepickle=False):
         query_result = self.webscrapepmc(
             query, size, onlyresearcharticles=onlyresearcharticles, onlypreprints=onlypreprints, onlyreviews=onlyreviews)
+        self.makecsv(query_result)
+
         if not(onlymakepickle):
             self.makexmlfiles(query_result)
 
