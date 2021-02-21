@@ -274,7 +274,8 @@ class pygetpapers:
 
     def handlecli(self):
         import argparse
-        parser = argparse.ArgumentParser(description="Welcome to Pygetpapers")
+        parser = argparse.ArgumentParser(
+            description="Welcome to Pygetpapers. -h or --help for help")
         parser.add_argument("-q", "--query", required=True,
                             type=str, help="Add the query you want to search for. Enclose the query in quotes.")
         parser.add_argument("-k", "--limit", default=100,
