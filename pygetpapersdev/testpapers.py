@@ -1,6 +1,3 @@
-import os
-
-
 class pygetpapers:
     def __init__(self, **kwargs):
         import json
@@ -273,10 +270,10 @@ callgetpapers = pygetpapers()
 query = "artificial intelligence"
 numberofpapers = 210
 callgetpapers.apipaperdownload(query, numberofpapers)
+
 '''
 callgetpapers.scrapingpaperdownload(
     query, numberofpapers, onlyresearcharticles=True)
 callgetpapers.scrapingpaperdownload(query, numberofpapers, onlyreviews=True)
-
 callgetpapers.scrapingpaperdownload(query, numberofpapers)
 '''
