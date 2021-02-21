@@ -133,7 +133,6 @@ class pygetpapers:
         import lxml.etree
         import json
         import pickle
-
         resultant_dict = {}
         for paper_number, papers in enumerate(searchvariable):
             output_dict = json.loads(json.dumps(papers))
@@ -177,14 +176,19 @@ class pygetpapers:
                                        ]["title"] = paper["title"]
                     except:
                         print("Title not found for paper", paper_number)
+
+                    resultant_dict[paper["pmcid"]
+                                   ]["downloaded"] = False
                     print('Wrote the important Attrutes to a dictionary')
 
         with open('europe_pmc.pickle', 'wb') as f:
             # Pickle the 'data' dictionary using the highest protocol available.
             print('Wrote the pickle to memory')
-
             pickle.dump(resultant_dict, f, pickle.HIGHEST_PROTOCOL)
-        df = pd.DataFrame.from_dict(resultant_dict,)
+        resultant_dict_for_csv = resultant_dict
+        for paper in resultant_dict_for_csv:
+            resultant_dict_for_csv[paper].pop("downloaded")
+        df = pd.DataFrame.from_dict(resultant_dict_for_csv,)
         df_transposed = df.T
         df_transposed.to_csv('europe_pmc.csv')
         return resultant_dict
