@@ -137,6 +137,7 @@ class pygetpapers:
             output_dict = json.loads(json.dumps(papers))
 
             for paper in output_dict:
+                resultant_dict[paper["pmcid"]] = {}
                 resultant_dict[paper["pmcid"]
                                ]["downloaded"] = False
                 try:
@@ -151,7 +152,6 @@ class pygetpapers:
 
                             if x["documentStyle"] == "html" and x["availability"] == "Open access":
                                 htmlurl.append(x["url"])
-                        resultant_dict[paper["pmcid"]] = {}
                         try:
                             resultant_dict[paper["pmcid"]
                                            ]["htmllinks"] = htmlurl[0]
