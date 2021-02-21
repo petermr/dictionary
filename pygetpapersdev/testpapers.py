@@ -99,12 +99,12 @@ class pygetpapers:
         content = [[]]
         nextCursorMark = ['*', ]
         morepapers = True
-        numberofpapersthere = 0
-        numberofpages = 0
+        number_of_papers_there = 0
+        number_of_pages = 0
         # change synonym to no otherwise yes is the default
         # The code regarding the size of the query currently only works till 100 terms. This is on purpose and I will add Function to access next cursormark which is basically next page of the resultant of the query once I have enough permision and knowledge
 
-        while numberofpapersthere <= size and morepapers == True:
+        while number_of_papers_there <= size and morepapers == True:
             queryparams = self.buildquery(
                 nextCursorMark[-1], 1000, query, synonym=synonym)
             builtquery = self.postquery(
@@ -115,13 +115,13 @@ class pygetpapers:
                 output_dict = json.loads(json.dumps(builtquery))
                 for paper in output_dict["responseWrapper"]["resultList"]["result"]:
                     if "pmcid" in paper:
-                        if numberofpapersthere <= size:
+                        if number_of_papers_there <= size:
                             content[0].append(paper)
-                            numberofpapersthere += 1
+                            number_of_papers_there += 1
 
             else:
                 morepapers = False
-        if numberofpapersthere > size:
+        if number_of_papers_there > size:
             content[0] = content[0][0:size]
         return content
 
@@ -134,11 +134,8 @@ class pygetpapers:
         import json
         import pickle
 
-        resultantdict = {}
-        an = -1
-        for papers in searchvariable:
-            an += 1
-
+        resultant_dict = {}
+        for an, papers in enumerate(searchvariable):
             output_dict = json.loads(json.dumps(papers))
 
             for paper in output_dict:
@@ -154,35 +151,36 @@ class pygetpapers:
 
                         if x["documentStyle"] == "html" and x["availability"] == "Open access":
                             htmlurl.append(x["url"])
-                    resultantdict[paper["pmcid"]] = {}
-                    resultantdict[paper["pmcid"]]["htmllinks"] = htmlurl
-                    resultantdict[paper["pmcid"]]["pdflinks"] = pdfurl
+                    resultant_dict[paper["pmcid"]] = {}
+                    resultant_dict[paper["pmcid"]]["htmllinks"] = htmlurl
+                    resultant_dict[paper["pmcid"]]["pdflinks"] = pdfurl
                     try:
-                        resultantdict[paper["pmcid"]
-                                      ]["journaltitle"] = paper["journalInfo"]
+                        resultant_dict[paper["pmcid"]
+                                       ]["journaltitle"] = paper["journalInfo"]
                     except:
                         print("journalInfo not found for paper", an)
                     try:
-                        resultantdict[paper["pmcid"]
-                                      ]["authorinfo"] = paper["authorList"]
+                        resultant_dict[paper["pmcid"]
+                                       ]["authorinfo"] = paper["authorList"]
                     except:
                         print("Author list not found for paper", an)
                     try:
-                        resultantdict[paper["pmcid"]]["title"] = paper["title"]
+                        resultant_dict[paper["pmcid"]
+                                       ]["title"] = paper["title"]
                     except:
                         print("Title not found for paper", an)
-                    resultantdict[paper["pmcid"]]["downloaded"] = False
+                    resultant_dict[paper["pmcid"]]["downloaded"] = False
                     print('Wrote the important Attrutes to a dictionary')
 
         with open('europe_pmc.pickle', 'wb') as f:
             # Pickle the 'data' dictionary using the highest protocol available.
             print('Wrote the pickle to memory')
 
-            pickle.dump(resultantdict, f, pickle.HIGHEST_PROTOCOL)
-        df = pd.DataFrame.from_dict(resultantdict,)
+            pickle.dump(resultant_dict, f, pickle.HIGHEST_PROTOCOL)
+        df = pd.DataFrame.from_dict(resultant_dict,)
         df_transposed = df.T
         df_transposed.to_csv('europe_pmc.csv')
-        return resultantdict
+        return resultant_dict
 
     def getxml(self, pmcid):
         import requests
@@ -190,7 +188,7 @@ class pygetpapers:
 
         r = requests.get(
             f"https://www.ebi.ac.uk/europepmc/webservices/rest/{pmcid}/fullTextXML")
-        print("*/Done*/")
+        print("*/Done*/", '\n')
 
         return r.content
 
@@ -200,11 +198,11 @@ class pygetpapers:
             f"https://www.ebi.ac.uk/europepmc/webservices/rest/{pmcid}/supplementaryFiles")
         return r
 
-    def writexml(self, directoryurl, destinationurl, content):
+    def writexml(self, directory_url, destination_url, content):
         import os
-        if not os.path.isdir(directoryurl):
-            os.makedirs(directoryurl)
-        with open(destinationurl, 'wb') as f:
+        if not os.path.isdir(directory_url):
+            os.makedirs(directory_url)
+        with open(destination_url, 'wb') as f:
             f.write(content)
 
     def writepickle(self, destination, content):
@@ -213,7 +211,7 @@ class pygetpapers:
         with open(destination, 'wb') as f:
             pickle.dump(content, f, pickle.HIGHEST_PROTOCOL)
 
-    def makexmlfiles(self, finalxmldict):
+    def makexmlfiles(self, final_xml_dict):
         import requests
         import lxml.etree
         import lxml
@@ -221,31 +219,30 @@ class pygetpapers:
         import pandas as pd
         import os
         print("*/Writing the xml papers to memory*/")
-        papernumber = 0
-        for paper in finalxmldict:
-            papernumber += 1
-            if finalxmldict[paper]["downloaded"] == False:
+        for paper_number, paper in enumerate(final_xml_dict):
+            paper_number += 1
+            if final_xml_dict[paper]["downloaded"] == False:
                 pmcid = paper
                 tree = self.getxml(pmcid)
-                destinationurl = os.path.join(str(os.getcwd()),
-                                              'papers', pmcid, "fulltext.xml")
-                directoryurl = os.path.join(str(os.getcwd()), 'papers', pmcid)
-                pickleurl = os.path.join(
+                destination_url = os.path.join(str(os.getcwd()),
+                                               'papers', pmcid, "fulltext.xml")
+                directory_url = os.path.join(str(os.getcwd()), 'papers', pmcid)
+                pickle_url = os.path.join(
                     str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pickle")
-                self.writexml(directoryurl, destinationurl, tree)
+                self.writexml(directory_url, destination_url, tree)
                 print(
-                    f"*/Wrote the xml paper {papernumber} at {destinationurl}/")
+                    f"*/Wrote the xml paper {paper_number} at {destination_url}/")
 
-                finalxmldict[paper]["downloaded"] = True
+                final_xml_dict[paper]["downloaded"] = True
 
-                self.writepickle(pickleurl, finalxmldict[paper])
+                self.writepickle(pickle_url, final_xml_dict[paper])
 
-                df = pd.Series(finalxmldict[paper]).to_frame(
+                df = pd.Series(final_xml_dict[paper]).to_frame(
                     'Info_By_EuropePMC_Api')
                 df.to_csv(os.path.join(
                     str(os.getcwd()), 'papers', pmcid, f"{pmcid}.csv"))
 
-                self.writepickle('europe_pmc.pickle', finalxmldict)
+                self.writepickle('europe_pmc.pickle', final_xml_dict)
 
                 print(f"*/Updating the pickle*/")
 
@@ -255,15 +252,15 @@ class pygetpapers:
         return object
 
     def apipaperdownload(self, query, size):
-        queryresult = self.europepmc(query, size)
-        self.makecsv(queryresult)
-        readpickled = self.readpickleddata("europe_pmc.pickle")
-        self.makexmlfiles(readpickled)
+        query_result = self.europepmc(query, size)
+        self.makecsv(query_result)
+        read_pickled = self.readpickleddata("europe_pmc.pickle")
+        self.makexmlfiles(read_pickled)
 
     def scrapingpaperdownload(self, query, size, onlyresearcharticles=False, onlypreprints=False, onlyreviews=False):
-        queryresult = self.webscrapepmc(
+        query_result = self.webscrapepmc(
             query, size, onlyresearcharticles=onlyresearcharticles, onlypreprints=onlypreprints, onlyreviews=onlyreviews)
-        self.makexmlfiles(queryresult)
+        self.makexmlfiles(query_result)
 
 
 callgetpapers = pygetpapers()
