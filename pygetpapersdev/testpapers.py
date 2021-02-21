@@ -132,6 +132,7 @@ class pygetpapers:
         import lxml.etree
         import json
         import pickle
+        import os
         resultant_dict = {}
         for paper_number, papers in enumerate(searchvariable):
             output_dict = json.loads(json.dumps(papers))
@@ -179,17 +180,21 @@ class pygetpapers:
                     resultant_dict[paper["pmcid"]
                                    ]["downloaded"] = False
                     print('Wrote the important Attrutes to a dictionary')
+        pickleurl = os.path.join(
+            str(os.getcwd()), 'papers', 'europe_pmc.pickle')
+        directory_url = os.path.join(
+            str(os.getcwd()), 'papers')
 
-        with open('europe_pmc.pickle', 'wb') as f:
-            # Pickle the 'data' dictionary using the highest protocol available.
-            print('Wrote the pickle to memory')
-            pickle.dump(resultant_dict, f, pickle.HIGHEST_PROTOCOL)
+        if not os.path.isdir(directory_url):
+            os.makedirs(directory_url)
+        self.writepickle(pickleurl, resultant_dict)
         resultant_dict_for_csv = resultant_dict
         for paper in resultant_dict_for_csv:
             resultant_dict_for_csv[paper].pop("downloaded")
         df = pd.DataFrame.from_dict(resultant_dict_for_csv,)
         df_transposed = df.T
-        df_transposed.to_csv('europe_pmc.csv')
+        df_transposed.to_csv(os.path.join(
+            str(os.getcwd()), 'papers', 'europe_pmc.csv'))
         return resultant_dict
 
     def getxml(self, pmcid):
@@ -252,7 +257,8 @@ class pygetpapers:
                 df.to_csv(os.path.join(
                     str(os.getcwd()), 'papers', pmcid, f"{pmcid}.csv"))
 
-                self.writepickle('europe_pmc.pickle', final_xml_dict)
+                self.writepickle(os.path.join(
+                    str(os.getcwd()), 'papers', 'europe_pmc.pickle'), final_xml_dict)
 
                 print(f"*/Updating the pickle*/", '\n')
 
@@ -262,9 +268,11 @@ class pygetpapers:
         return object
 
     def apipaperdownload(self, query, size):
+        import os
         query_result = self.europepmc(query, size)
         self.makecsv(query_result)
-        read_pickled = self.readpickleddata("europe_pmc.pickle")
+        read_pickled = self.readpickleddata(os.path.join(
+            str(os.getcwd()), 'papers', 'europe_pmc.pickle'))
         self.makexmlfiles(read_pickled)
 
     def scrapingpaperdownload(self, query, size, onlyresearcharticles=False, onlypreprints=False, onlyreviews=False):
