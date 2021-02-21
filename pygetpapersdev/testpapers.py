@@ -267,18 +267,22 @@ class pygetpapers:
         object = pd.read_pickle(f'{path}')
         return object
 
-    def apipaperdownload(self, query, size):
+    def apipaperdownload(self, query, size, onlymakepickle=False):
         import os
+
         query_result = self.europepmc(query, size)
         self.makecsv(query_result)
-        read_pickled = self.readpickleddata(os.path.join(
-            str(os.getcwd()), 'papers', 'europe_pmc.pickle'))
-        self.makexmlfiles(read_pickled)
 
-    def scrapingpaperdownload(self, query, size, onlyresearcharticles=False, onlypreprints=False, onlyreviews=False):
+        if not(onlymakepickle):
+            read_pickled = self.readpickleddata(os.path.join(
+                str(os.getcwd()), 'papers', 'europe_pmc.pickle'))
+            self.makexmlfiles(read_pickled)
+
+    def scrapingpaperdownload(self, query, size, onlyresearcharticles=False, onlypreprints=False, onlyreviews=False, onlymakepickle=False):
         query_result = self.webscrapepmc(
             query, size, onlyresearcharticles=onlyresearcharticles, onlypreprints=onlypreprints, onlyreviews=onlyreviews)
-        self.makexmlfiles(query_result)
+        if not(onlymakepickle):
+            self.makexmlfiles(query_result)
 
     def handlecli(self):
         import argparse
@@ -291,11 +295,16 @@ class pygetpapers:
                             type=int, help="Add the number of papers you want. Default =100")
         parser.add_argument("-o", "--output",
                             type=str, help="Add the output directory url. Default is the current working directory", default=os.getcwd())
+        parser.add_argument("-v", "--onlyquery", action='store_true',
+                            help="Only makes the query and stores the result.")
+        parser.add_argument("-p", "--frompickle", default=False,
+                            type=str, help="Reads the picke and makes the xml files. Takes the path to the pickle as the input")
         group = parser.add_mutually_exclusive_group()
         group.add_argument('--api', action='store_true',
                            help="Get papers using the official EuropePMC api")
         group.add_argument('--webscraping', action='store_true',
                            help="Get papers using the scraping EuropePMC. Also supports getting only research papers, preprints or review papers.")
+
         cogroup = parser.add_mutually_exclusive_group()
         cogroup.add_argument('--onlyresearcharticles',
                              action='store_true', help="Get only research papers (Only works with --webscraping)")
@@ -307,11 +316,15 @@ class pygetpapers:
 
         os.chdir(args.output)
 
-        if args.webscraping:
+        if args.frompickle:
+            read_pickled = self.readpickleddata(args.frompickle)
+            self.makexmlfiles(read_pickled)
+        elif args.webscraping:
             self.scrapingpaperdownload(args.query, args.limit, onlyresearcharticles=args.onlyresearcharticles,
-                                       onlypreprints=args.onlypreprints, onlyreviews=args.onlyreviews)
+                                       onlypreprints=args.onlypreprints, onlyreviews=args.onlyreviews, onlymakepickle=args.onlyquery)
         else:
-            self.apipaperdownload(args.query, args.limit)
+            self.apipaperdownload(args.query, args.limit,
+                                  onlymakepickle=args.onlyquery)
 
 
 '''
