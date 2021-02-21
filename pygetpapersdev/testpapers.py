@@ -282,12 +282,15 @@ class pygetpapers:
 
     def handlecli(self):
         import argparse
+        import os
         parser = argparse.ArgumentParser(
             description="Welcome to Pygetpapers. -h or --help for help")
         parser.add_argument("-q", "--query", required=True,
                             type=str, help="Add the query you want to search for. Enclose the query in quotes.")
         parser.add_argument("-k", "--limit", default=100,
                             type=int, help="Add the number of papers you want. Default =100")
+        parser.add_argument("-o", "--output",
+                            type=str, help="Add the output directory url. Default is the current working directory", default=os.getcwd())
         group = parser.add_mutually_exclusive_group()
         group.add_argument('--api', action='store_true',
                            help="Get papers using the official EuropePMC api")
@@ -301,6 +304,8 @@ class pygetpapers:
         cogroup.add_argument(
             '--onlyreviews', action='store_true', help="Get only review papers  (Only works with --webscraping)")
         args = parser.parse_args()
+
+        os.chdir(args.output)
 
         if args.webscraping:
             self.scrapingpaperdownload(args.query, args.limit, onlyresearcharticles=args.onlyresearcharticles,
