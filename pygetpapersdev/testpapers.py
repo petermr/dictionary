@@ -22,7 +22,6 @@ class pygetpapers:
         from selenium import webdriver
         import time
         from selenium import webdriver
-        from selenium.webdriver.common.by import Byf
         from selenium.webdriver.support import expected_conditions as EC
         from selenium.webdriver.common.keys import Keys
         from selenium.webdriver.support.ui import WebDriverWait
@@ -273,15 +272,46 @@ class pygetpapers:
             query, size, onlyresearcharticles=onlyresearcharticles, onlypreprints=onlypreprints, onlyreviews=onlyreviews)
         self.makexmlfiles(query_result)
 
+    def handlecli(self):
+        import argparse
+        parser = argparse.ArgumentParser(description="Welcome to Pygetpapers")
+        parser.add_argument("-q", "--query", required=True,
+                            type=str, help="Add the query you want to search for. Enclose the query in quotes.")
+        parser.add_argument("-k", "--limit", default=100,
+                            type=int, help="Add the number of papers you want. Default =100")
+        group = parser.add_mutually_exclusive_group()
+        group.add_argument('--api', action='store_true',
+                           help="Get papers using the official EuropePMC api")
+        group.add_argument('--webscraping', action='store_true',
+                           help="Get papers using the scraping EuropePMC. Also supports getting only research papers, preprints or review papers.")
+        cogroup = parser.add_mutually_exclusive_group()
+        cogroup.add_argument('--onlyresearcharticles',
+                             action='store_true', help="Get only research papers (Only works with --webscraping)")
+        cogroup.add_argument(
+            '--onlypreprints', action='store_true', help="Get only preprints  (Only works with --webscraping)")
+        cogroup.add_argument(
+            '--onlyreviews', action='store_true', help="Get only review papers  (Only works with --webscraping)")
+        args = parser.parse_args()
 
+        if args.webscraping:
+            self.scrapingpaperdownload(args.query, args.limit, onlyresearcharticles=args.onlyresearcharticles,
+                                       onlypreprints=args.onlypreprints, onlyreviews=args.onlyreviews)
+        else:
+            self.apipaperdownload(args.query, args.limit)
+
+
+'''
 callgetpapers = pygetpapers()
 query = "artificial intelligence"
 numberofpapers = 210
 callgetpapers.apipaperdownload(query, numberofpapers)
 
-'''
 callgetpapers.scrapingpaperdownload(
     query, numberofpapers, onlyresearcharticles=True)
 callgetpapers.scrapingpaperdownload(query, numberofpapers, onlyreviews=True)
 callgetpapers.scrapingpaperdownload(query, numberofpapers)
 '''
+
+if __name__ == "__main__":
+    callgetpapers = pygetpapers()
+    callgetpapers.handlecli()
