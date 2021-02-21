@@ -1,6 +1,6 @@
 class pygetpapers:
     def __init__(self, **kwargs):
-        import json
+        print("Welcome to pygetpapers")
 
     def postquery(self, headers, payload):
         import xmltodict
