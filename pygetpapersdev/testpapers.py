@@ -1,3 +1,6 @@
+import os
+
+
 class pygetpapers:
     def __init__(self, **kwargs):
         import json
@@ -18,11 +21,11 @@ class pygetpapers:
         print("*/Building the Query*/")
         return {'headers': headers, 'payload': payload}
 
-    def webscrapepmc(self, query, sizeo, onlyresearcharticles=False, onlypreprints=False, onlyreviews=False):
+    def webscrapepmc(self, query, pmccount, onlyresearcharticles=False, onlypreprints=False, onlyreviews=False):
         from selenium import webdriver
         import time
         from selenium import webdriver
-        from selenium.webdriver.common.by import By
+        from selenium.webdriver.common.by import Byf
         from selenium.webdriver.support import expected_conditions as EC
         from selenium.webdriver.common.keys import Keys
         from selenium.webdriver.support.ui import WebDriverWait
@@ -36,17 +39,14 @@ class pygetpapers:
         didquit = False
         chromedriver_autoinstaller.install()
         pmcdict = {}
-        size = int(sizeo)
-
+        size = int(pmccount)
         options = webdriver.ChromeOptions()
         options.add_argument('--ignore-certificate-errors-spki-list')
         options.add_argument('--ignore-ssl-errors')
-
         webdriver = webdriver.Chrome(
             chrome_options=options
         )
         a = 0
-
         if onlyresearcharticles:
             url = f"https://europepmc.org/search?query=%28%22{query}%22%20AND%20%28%28HAS_FT%3AY%20AND%20OPEN_ACCESS%3AY%29%29%20AND%20%28%28%28SRC%3AMED%20OR%20SRC%3APMC%20OR%20SRC%3AAGR%20OR%20SRC%3ACBA%29%20NOT%20%28PUB_TYPE%3A%22Review%22%29%29%29%29%20AND%20%28%28%28SRC%3AMED%20OR%20SRC%3APMC%20OR%20SRC%3AAGR%20OR%20SRC%3ACBA%29%20NOT%20%28PUB_TYPE%3A%22Review%22%29%29%29"
         elif onlypreprints:
@@ -55,18 +55,15 @@ class pygetpapers:
             url = f"https://europepmc.org/search?query={query}%20%20AND%20%28PUB_TYPE%3AREVIEW%29&page=1"
         else:
             url = f'https://europepmc.org/search?query={query}%20%28IN_EPMC%3Ay%29%20AND%20%28OPEN_ACCESS%3Ay%29&page=1'
-
         webdriver.get(url)
-
         while len(pmcdict) <= size:
             time.sleep(2)
             # retrive url in headless browser
             # time.sleep(3)
-
             results = webdriver.find_elements_by_xpath(
                 "//ul[@class='separated-list']/li/div/p[3]/span")
-            for i in results:
-                pmcid = i.text
+            for result in results:
+                pmcid = result.text
                 if 'PMC' in pmcid:
                     a += 1
                     if len(pmcdict) < size:
@@ -119,16 +116,15 @@ class pygetpapers:
                 nextCursorMark.append(
                     builtquery["responseWrapper"]["nextCursorMark"])
                 output_dict = json.loads(json.dumps(builtquery))
-                for i in output_dict["responseWrapper"]["resultList"]["result"]:
-                    if "pmcid" in i:
+                for paper in output_dict["responseWrapper"]["resultList"]["result"]:
+                    if "pmcid" in paper:
                         if numberofpapersthere <= size:
-                            content[0].append(i)
+                            content[0].append(paper)
                             numberofpapersthere += 1
 
             else:
                 morepapers = False
         if numberofpapersthere > size:
-
             content[0] = content[0][0:size]
         return content
 
@@ -148,37 +144,37 @@ class pygetpapers:
 
             output_dict = json.loads(json.dumps(papers))
 
-            for i in output_dict:
+            for paper in output_dict:
 
-                if "pmcid" in i:
+                if "pmcid" in paper:
                     an += 1
                     print("Reading Dictionary for paper", an)
                     pdfurl = []
                     htmlurl = []
-                    for x in i["fullTextUrlList"]["fullTextUrl"]:
+                    for x in paper["fullTextUrlList"]["fullTextUrl"]:
                         if x["documentStyle"] == "pdf" and x["availability"] == "Open access":
                             pdfurl.append(x["url"])
 
                         if x["documentStyle"] == "html" and x["availability"] == "Open access":
                             htmlurl.append(x["url"])
-                    resultantdict[i["pmcid"]] = {}
-                    resultantdict[i["pmcid"]]["htmllinks"] = htmlurl
-                    resultantdict[i["pmcid"]]["pdflinks"] = pdfurl
+                    resultantdict[paper["pmcid"]] = {}
+                    resultantdict[paper["pmcid"]]["htmllinks"] = htmlurl
+                    resultantdict[paper["pmcid"]]["pdflinks"] = pdfurl
                     try:
-                        resultantdict[i["pmcid"]
-                                      ]["journaltitle"] = i["journalInfo"]
+                        resultantdict[paper["pmcid"]
+                                      ]["journaltitle"] = paper["journalInfo"]
                     except:
                         print("journalInfo not found for paper", an)
                     try:
-                        resultantdict[i["pmcid"]
-                                      ]["authorinfo"] = i["authorList"]
+                        resultantdict[paper["pmcid"]
+                                      ]["authorinfo"] = paper["authorList"]
                     except:
                         print("Author list not found for paper", an)
                     try:
-                        resultantdict[i["pmcid"]]["title"] = i["title"]
+                        resultantdict[paper["pmcid"]]["title"] = paper["title"]
                     except:
                         print("Title not found for paper", an)
-                    resultantdict[i["pmcid"]]["downloaded"] = False
+                    resultantdict[paper["pmcid"]]["downloaded"] = False
                     print('Wrote the important Attrutes to a dictionary')
 
         with open('europe_pmc.pickle', 'wb') as f:
@@ -207,6 +203,19 @@ class pygetpapers:
             f"https://www.ebi.ac.uk/europepmc/webservices/rest/{pmcid}/supplementaryFiles")
         return r
 
+    def writexml(self, directoryurl, destinationurl, content):
+        import os
+        if not os.path.isdir(directoryurl):
+            os.makedirs(directoryurl)
+        with open(destinationurl, 'wb') as f:
+            f.write(content)
+
+    def writepickle(self, destination, content):
+        import pickle
+        import os
+        with open(destination, 'wb') as f:
+            pickle.dump(content, f, pickle.HIGHEST_PROTOCOL)
+
     def makexmlfiles(self, finalxmldict):
         import requests
         import lxml.etree
@@ -224,27 +233,22 @@ class pygetpapers:
                 destinationurl = os.path.join(str(os.getcwd()),
                                               'papers', pmcid, "fulltext.xml")
                 directoryurl = os.path.join(str(os.getcwd()), 'papers', pmcid)
-                if not os.path.isdir(directoryurl):
-                    os.makedirs(os.path.join(
-                        str(os.getcwd()), 'papers', pmcid))
-                with open(destinationurl, 'wb') as f:
-                    f.write(tree)
+                pickleurl = os.path.join(
+                    str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pickle")
+                self.writexml(directoryurl, destinationurl, tree)
                 print(
                     f"*/Wrote the xml paper {papernumber} at {destinationurl}/")
 
                 finalxmldict[paper]["downloaded"] = True
-                with open(os.path.join(
-                        str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pickle"), 'wb') as f:
-                    pickle.dump(finalxmldict[paper],
-                                f, pickle.HIGHEST_PROTOCOL)
+
+                self.writepickle(pickleurl, finalxmldict[paper])
 
                 df = pd.Series(finalxmldict[paper]).to_frame(
                     'Info_By_EuropePMC_Api')
                 df.to_csv(os.path.join(
                     str(os.getcwd()), 'papers', pmcid, f"{pmcid}.csv"))
 
-                with open('europe_pmc.pickle', 'wb') as f:
-                    pickle.dump(finalxmldict, f, pickle.HIGHEST_PROTOCOL)
+                self.writepickle('europe_pmc.pickle', finalxmldict)
 
                 print(f"*/Updating the pickle*/")
 
@@ -267,14 +271,12 @@ class pygetpapers:
 
 callgetpapers = pygetpapers()
 query = "artificial intelligence"
-numberofpapers = 21
-
-
+numberofpapers = 210
+callgetpapers.apipaperdownload(query, numberofpapers)
 '''
 callgetpapers.scrapingpaperdownload(
     query, numberofpapers, onlyresearcharticles=True)
 callgetpapers.scrapingpaperdownload(query, numberofpapers, onlyreviews=True)
 
 callgetpapers.scrapingpaperdownload(query, numberofpapers)
-callgetpapers.apipaperdownload(query, numberofpapers)
 '''
