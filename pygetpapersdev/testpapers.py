@@ -85,8 +85,13 @@ class pygetpapers:
                 webdriver.quit()
                 break
             time.sleep(2)
+
+        directory_url = os.path.join(
+            str(os.getcwd()), 'papers')
+        if not os.path.isdir(directory_url):
+            os.makedirs(directory_url)
         self.writepickle(os.path.join(
-            str(os.getcwd()), 'papers', 'europe_pmc.pickle'), final_xml_dict)
+            str(os.getcwd()), 'papers', 'europe_pmc.pickle'),  dict(pmcdict))
         return dict(pmcdict)
 
     def europepmc(self, query, size, synonym=True, externalfile=True, fulltext=True):
@@ -293,7 +298,7 @@ class pygetpapers:
         import os
         parser = argparse.ArgumentParser(
             description="Welcome to Pygetpapers. -h or --help for help")
-        parser.add_argument("-q", "--query", required=True,
+        parser.add_argument("-q", "--query",
                             type=str, help="Add the query you want to search for. Enclose the query in quotes.")
         parser.add_argument("-k", "--limit", default=100,
                             type=int, help="Add the number of papers you want. Default =100")
