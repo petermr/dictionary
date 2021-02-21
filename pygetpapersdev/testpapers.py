@@ -199,7 +199,7 @@ class pygetpapers:
 
         r = requests.get(
             f"https://www.ebi.ac.uk/europepmc/webservices/rest/{pmcid}/fullTextXML")
-        print("*/Done*/", '\n')
+        print("*/Done*/")
 
         return r.content
 
@@ -255,7 +255,7 @@ class pygetpapers:
 
                 self.writepickle('europe_pmc.pickle', final_xml_dict)
 
-                print(f"*/Updating the pickle*/")
+                print(f"*/Updating the pickle*/", '\n')
 
     def readpickleddata(self, path):
         import pandas as pd
