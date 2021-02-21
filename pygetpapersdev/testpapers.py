@@ -21,6 +21,7 @@ class pygetpapers:
     def webscrapepmc(self, query, pmccount, onlyresearcharticles=False, onlypreprints=False, onlyreviews=False):
         from selenium import webdriver
         import time
+        import os
         from selenium import webdriver
         from selenium.webdriver.support import expected_conditions as EC
         from selenium.webdriver.common.keys import Keys
@@ -84,7 +85,8 @@ class pygetpapers:
                 webdriver.quit()
                 break
             time.sleep(2)
-
+        self.writepickle(os.path.join(
+            str(os.getcwd()), 'papers', 'europe_pmc.pickle'), final_xml_dict)
         return dict(pmcdict)
 
     def europepmc(self, query, size, synonym=True, externalfile=True, fulltext=True):
@@ -137,52 +139,50 @@ class pygetpapers:
             output_dict = json.loads(json.dumps(papers))
 
             for paper in output_dict:
-                resultant_dict[paper["pmcid"]] = {}
-                resultant_dict[paper["pmcid"]
-                               ]["downloaded"] = False
-                try:
-                    if "pmcid" in paper:
-                        paper_number += 1
-                        print("Reading Dictionary for paper", paper_number)
-                        pdfurl = []
-                        htmlurl = []
-                        for x in paper["fullTextUrlList"]["fullTextUrl"]:
-                            if x["documentStyle"] == "pdf" and x["availability"] == "Open access":
-                                pdfurl.append(x["url"])
 
-                            if x["documentStyle"] == "html" and x["availability"] == "Open access":
-                                htmlurl.append(x["url"])
-                        try:
-                            resultant_dict[paper["pmcid"]
-                                           ]["htmllinks"] = htmlurl[0]
-                        except:
-                            pass
+                if "pmcid" in paper:
+                    paper_number += 1
+                    print("Reading Dictionary for paper", paper_number)
+                    pdfurl = []
+                    htmlurl = []
+                    for x in paper["fullTextUrlList"]["fullTextUrl"]:
+                        if x["documentStyle"] == "pdf" and x["availability"] == "Open access":
+                            pdfurl.append(x["url"])
 
-                        try:
-                            resultant_dict[paper["pmcid"]
-                                           ]["pdflinks"] = pdfurl[0]
-                        except:
-                            pass
-                        try:
-                            resultant_dict[paper["pmcid"]
-                                           ]["journaltitle"] = paper["journalInfo"]["journal"]["title"]
-                        except:
-                            print("journalInfo not found for paper", paper_number)
-                        try:
-                            resultant_dict[paper["pmcid"]
-                                           ]["authorinfo"] = paper["authorList"]["author"][0]['fullName']
-                        except:
-                            print("Author list not found for paper", paper_number)
-                        try:
-                            resultant_dict[paper["pmcid"]
-                                           ]["title"] = paper["title"]
-                        except:
-                            print("Title not found for paper", paper_number)
+                        if x["documentStyle"] == "html" and x["availability"] == "Open access":
+                            htmlurl.append(x["url"])
+                    resultant_dict[paper["pmcid"]] = {}
+                    resultant_dict[paper["pmcid"]
+                                   ]["downloaded"] = False
+                    try:
+                        resultant_dict[paper["pmcid"]
+                                       ]["htmllinks"] = htmlurl[0]
+                    except:
+                        pass
 
-                        print('Wrote the important Attrutes to a dictionary')
+                    try:
+                        resultant_dict[paper["pmcid"]
+                                       ]["pdflinks"] = pdfurl[0]
+                    except:
+                        pass
+                    try:
+                        resultant_dict[paper["pmcid"]
+                                       ]["journaltitle"] = paper["journalInfo"]["journal"]["title"]
+                    except:
+                        print("journalInfo not found for paper", paper_number)
+                    try:
+                        resultant_dict[paper["pmcid"]
+                                       ]["authorinfo"] = paper["authorList"]["author"][0]['fullName']
+                    except:
+                        print("Author list not found for paper", paper_number)
+                    try:
+                        resultant_dict[paper["pmcid"]
+                                       ]["title"] = paper["title"]
+                    except:
+                        print("Title not found for paper", paper_number)
 
-                except:
-                    pass
+                    print('Wrote the important Attrutes to a dictionary')
+
         pickleurl = os.path.join(
             str(os.getcwd()), 'papers', 'europe_pmc.pickle')
         directory_url = os.path.join(
@@ -284,7 +284,6 @@ class pygetpapers:
     def scrapingpaperdownload(self, query, size, onlyresearcharticles=False, onlypreprints=False, onlyreviews=False, onlymakepickle=False):
         query_result = self.webscrapepmc(
             query, size, onlyresearcharticles=onlyresearcharticles, onlypreprints=onlypreprints, onlyreviews=onlyreviews)
-        self.makecsv(query_result)
 
         if not(onlymakepickle):
             self.makexmlfiles(query_result)
@@ -337,7 +336,6 @@ callgetpapers = pygetpapers()
 query = "artificial intelligence"
 numberofpapers = 210
 callgetpapers.apipaperdownload(query, numberofpapers)
-
 callgetpapers.scrapingpaperdownload(
     query, numberofpapers, onlyresearcharticles=True)
 callgetpapers.scrapingpaperdownload(query, numberofpapers, onlyreviews=True)
