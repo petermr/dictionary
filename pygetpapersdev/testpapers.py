@@ -1,6 +1,6 @@
 class pygetpapers:
     def __init__(self, **kwargs):
-        print("Welcome to pygetpapers")
+        pass
 
     def postquery(self, headers, payload):
         import xmltodict
@@ -228,13 +228,19 @@ class pygetpapers:
         with open(destination_url, 'wb') as f:
             f.write(content)
 
+    def writepdf(self, url, destination):
+        import requests
+        with open(destination, "wb") as file:
+            response = requests.get(url)
+            file.write(response.content)
+
     def writepickle(self, destination, content):
         import pickle
         import os
         with open(destination, 'wb') as f:
             pickle.dump(content, f, pickle.HIGHEST_PROTOCOL)
 
-    def makexmlfiles(self, final_xml_dict):
+    def makexmlfiles(self, final_xml_dict, getpdf=False):
         import requests
         import lxml.etree
         import lxml
@@ -267,6 +273,14 @@ class pygetpapers:
 
                 self.writepickle(os.path.join(
                     str(os.getcwd()), 'papers', 'europe_pmc.pickle'), final_xml_dict)
+                pdf_destination = os.path.join(
+                    str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pdf")
+                if getpdf:
+                    if len(final_xml_dict[paper]["pdflinks"]) > 0:
+                        self.writepdf(
+                            final_xml_dict[paper]["pdflinks"], pdf_destination)
+                        print(
+                            f"Wrote the pdf file for {paper_number} at {pdf_destination}")
 
                 print(f"*/Updating the pickle*/", '\n')
 
@@ -275,7 +289,7 @@ class pygetpapers:
         object = pd.read_pickle(f'{path}')
         return object
 
-    def apipaperdownload(self, query, size, onlymakepickle=False):
+    def apipaperdownload(self, query, size, onlymakepickle=False, getpdf=False):
         import os
 
         query_result = self.europepmc(query, size)
@@ -284,7 +298,7 @@ class pygetpapers:
         if not(onlymakepickle):
             read_pickled = self.readpickleddata(os.path.join(
                 str(os.getcwd()), 'papers', 'europe_pmc.pickle'))
-            self.makexmlfiles(read_pickled)
+            self.makexmlfiles(read_pickled, getpdf=getpdf)
 
     def scrapingpaperdownload(self, query, size, onlyresearcharticles=False, onlypreprints=False, onlyreviews=False, onlymakepickle=False):
         query_result = self.webscrapepmc(
@@ -308,6 +322,8 @@ class pygetpapers:
                             help="Only makes the query and stores the result.")
         parser.add_argument("-p", "--frompickle", default=False,
                             type=str, help="Reads the picke and makes the xml files. Takes the path to the pickle as the input")
+        parser.add_argument("-m", "--makepdf", default=False, action='store_true',
+                            help="Also makes pdf files for the papers. Works only with --api method.")
         group = parser.add_mutually_exclusive_group()
         group.add_argument('--api', action='store_true',
                            help="Get papers using the official EuropePMC api")
@@ -333,7 +349,7 @@ class pygetpapers:
                                        onlypreprints=args.onlypreprints, onlyreviews=args.onlyreviews, onlymakepickle=args.onlyquery)
         else:
             self.apipaperdownload(args.query, args.limit,
-                                  onlymakepickle=args.onlyquery)
+                                  onlymakepickle=args.onlyquery, getpdf=args.makepdf)
 
 
 '''
@@ -348,5 +364,5 @@ callgetpapers.scrapingpaperdownload(query, numberofpapers)
 '''
 
 if __name__ == "__main__":
-    callgetpapers = pygetpapers()
-    callgetpapers.handlecli()
+    callpygetpapers = pygetpapers()
+    callpygetpapers.handlecli()
