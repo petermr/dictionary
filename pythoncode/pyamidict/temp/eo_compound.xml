@@ -7,7 +7,7 @@
     <entry name="(-)-alpha-bisabolol" term="(-)-alpha-bisabolol" idx="1" />
     <entry name="(-)-alpha-bisabolol oxide a" term="(-)-alpha-bisabolol oxide a" idx="2" />
     <entry name="(-)-alpha-bisabolol oxide b" term="(-)-alpha-bisabolol oxide b" idx="3" />
-    <entry name="(-)-alpha-pinene" term="(-)-alpha-pinene" wikidataID="Q300852" idx="4" />
+    <entry name="['(-)-alpha-pinene', '(+)-alpha-pinene']" term="['(-)-alpha-pinene', '(+)-alpha-pinene']" wikidataID="Q300852" idx="['4', '20']" merged="true" />
     <entry name="(-)-alpha-selinene" term="(-)-alpha-selinene" idx="5" />
     <entry name="(-)-alpha-terpineol" term="(-)-alpha-terpineol" wikidataID="Q27109437" idx="6" />
     <entry name="(-)-alpha-thujene" term="(-)-alpha-thujene" idx="7" />
@@ -23,7 +23,7 @@
     <entry name="(-)-sabinene" term="(-)-sabinene" idx="17" />
     <entry name="(-)-spathulenol" term="(-)-spathulenol" wikidataID="Q1376658" idx="18" />
     <entry name="(-) italicene ether" term="(-) italicene ether" idx="19" />
-    <entry name="['(+)-alpha-pinene', '(-)-alpha-pinene']" term="['(+)-alpha-pinene', '(-)-alpha-pinene']" wikidataID="Q300852" idx="['20', '4']" merged="true" />
+    <entry name="(+)-alpha-pinene" term="(+)-alpha-pinene" wikidataID="Q300852" idx="20" />
     <entry name="(+)-alpha-terpineol" term="(+)-alpha-terpineol" wikidataID="Q27109437" idx="21" />
     <entry name="(+)-alpha-thujene" term="(+)-alpha-thujene" idx="22" />
     <entry name="(+)-aromadendrene" term="(+)-aromadendrene" idx="23" />
@@ -34,7 +34,7 @@
     <entry name="(+)-sabinene" term="(+)-sabinene" idx="28" />
     <entry name="(+)-terpinen-4-ol" term="(+)-terpinen-4-ol" wikidataID="Q416114" idx="29" />
     <entry name="(3e)-hexenyl acetate" term="(3e)-hexenyl acetate" wikidataID="Q27276882" idx="30" />
-    <entry name="(3z)-hexenol" term="(3z)-hexenol" wikidataID="Q300850" idx="31" />
+    <entry name="['(3z)-hexenol', '(e)-2-hexen-1-ol', '3-hexen-1-ol']" term="['(3z)-hexenol', '(e)-2-hexen-1-ol', '3-hexen-1-ol']" wikidataID="Q300850" idx="['31', '43', '466']" merged="true" />
     <entry name="(e)-1-propenyl propyl disulfide" term="(e)-1-propenyl propyl disulfide" wikidataID="Q27262621" idx="32" />
     <entry name="(e)-1-propenyl propyl trisulfide" term="(e)-1-propenyl propyl trisulfide" idx="33" />
     <entry name="(e)-1-propenyl sec-butyl disulfide" term="(e)-1-propenyl sec-butyl disulfide" idx="34" />
@@ -62,11 +62,11 @@
     <entry name="(e)-2-octenyl acetate" term="(e)-2-octenyl acetate" idx="56" />
     <entry name="(e)-2-pentadecenal" term="(e)-2-pentadecenal" idx="57" />
     <entry name="(e)-2-pentenal" term="(e)-2-pentenal" wikidataID="Q27162130" idx="58" />
-    <entry name="['(e)-2-pentenol', '(z)-2-pentenol', '3-pentenol']" term="['(e)-2-pentenol', '(z)-2-pentenol', '3-pentenol']" wikidataID="Q27162125" idx="['59', '140', '530']" merged="true" />
+    <entry name="(e)-2-pentenol" term="(e)-2-pentenol" wikidataID="Q27162125" idx="59" />
     <entry name="(e)-2-tetradecenal" term="(e)-2-tetradecenal" wikidataID="Q27291250" idx="60" />
     <entry name="(e)-2-tridecenal" term="(e)-2-tridecenal" idx="61" />
     <entry name="(e)-2-undecenal" term="(e)-2-undecenal" idx="62" />
-    <entry name="(e)-3-hepten-2-one" term="(e)-3-hepten-2-one" wikidataID="Q27291021" idx="63" />
+    <entry name="['(e)-3-hepten-2-one', '6-methyl-3-hepten-2-one']" term="['(e)-3-hepten-2-one', '6-methyl-3-hepten-2-one']" wikidataID="Q27291021" idx="['63', '630']" merged="true" />
     <entry name="(e)-3-hexenol" term="(e)-3-hexenol" idx="64" />
     <entry name="(e)-3-nonene" term="(e)-3-nonene" wikidataID="Q15687205" idx="65" />
     <entry name="(e)-3-octen-2-one" term="(e)-3-octen-2-one" wikidataID="Q27161905" idx="66" />
@@ -91,7 +91,7 @@
     <entry name="(e)-beta-ocimene epoxide" term="(e)-beta-ocimene epoxide" idx="85" />
     <entry name="(e)-beta-santalol" term="(e)-beta-santalol" idx="86" />
     <entry name="(e)-beta-terpineol" term="(e)-beta-terpineol" idx="87" />
-    <entry name="(e)-carveol" term="(e)-carveol" wikidataID="Q2920205" idx="88" />
+    <entry name="['(e)-carveol', 'carveol']" term="['(e)-carveol', 'carveol']" wikidataID="Q2920205" idx="['88', '984']" merged="true" />
     <entry name="(e)-cinnamaldehyde" term="(e)-cinnamaldehyde" wikidataID="Q204036" idx="89" />
     <entry name="(e)-cinnamic acid" term="(e)-cinnamic acid" wikidataID="Q164785" idx="90" />
     <entry name="(e)-cinnamyl acetate" term="(e)-cinnamyl acetate" wikidataID="Q10878628" idx="91" />
@@ -101,7 +101,7 @@
     <entry name="(e)-ethyl cinnamate" term="(e)-ethyl cinnamate" wikidataID="Q204182" idx="95" />
     <entry name="(e)-farnesol" term="(e)-farnesol" wikidataID="Q420449" idx="96" />
     <entry name="(e)-gamma-bisabolene" term="(e)-gamma-bisabolene" idx="97" />
-    <entry name="['(e)-geraniol', 'geranyl geraniol']" term="['(e)-geraniol', 'geranyl geraniol']" wikidataID="Q410836" idx="['98', '1376']" merged="true" />
+    <entry name="(e)-geraniol" term="(e)-geraniol" wikidataID="Q410836" idx="98" />
     <entry name="(e)-geranyl acetone" term="(e)-geranyl acetone" idx="99" />
     <entry name="(e)-isoelemicin" term="(e)-isoelemicin" idx="100" />
     <entry name="(e)-isoeugenol" term="(e)-isoeugenol" wikidataID="Q27889971" idx="101" />
@@ -143,7 +143,7 @@
     <entry name="(z)-2-hexenol" term="(z)-2-hexenol" idx="137" />
     <entry name="(z)-2-nonenal" term="(z)-2-nonenal" idx="138" />
     <entry name="(z)-2-octenal" term="(z)-2-octenal" wikidataID="Q27269343" idx="139" />
-    <entry name="(z)-2-pentenol" term="(z)-2-pentenol" wikidataID="Q27162125" idx="140" />
+    <entry name="['(z)-2-pentenol', '3-pentenol', '(e)-2-pentenol']" term="['(z)-2-pentenol', '3-pentenol', '(e)-2-pentenol']" wikidataID="Q27162125" idx="['140', '530', '59']" merged="true" />
     <entry name="(z)-2-undecene" term="(z)-2-undecene" wikidataID="Q27160456" idx="141" />
     <entry name="(z)-3-butylidenephthalide" term="(z)-3-butylidenephthalide" wikidataID="Q27136726" idx="142" />
     <entry name="(z)-3-dodecenoic acid" term="(z)-3-dodecenoic acid" wikidataID="Q27117072" idx="143" />
@@ -161,7 +161,7 @@
     <entry name="(z)-3-hexenyl propanoate" term="(z)-3-hexenyl propanoate" idx="155" />
     <entry name="(z)-3-hexenyl valerate" term="(z)-3-hexenyl valerate" wikidataID="Q27278050" idx="156" />
     <entry name="(z)-3-nonenol" term="(z)-3-nonenol" idx="157" />
-    <entry name="(z)-3-octenoic acid" term="(z)-3-octenoic acid" wikidataID="Q27278231" idx="158" />
+    <entry name="['(z)-3-octenoic acid', '(z)-5-octenoic acid']" term="['(z)-3-octenoic acid', '(z)-5-octenoic acid']" wikidataID="Q27278231" idx="['158', '166']" merged="true" />
     <entry name="(z)-4-decenal" term="(z)-4-decenal" wikidataID="Q27162280" idx="159" />
     <entry name="(z)-4-decenol" term="(z)-4-decenol" wikidataID="Q27280371" idx="160" />
     <entry name="(z)-4-heptenal" term="(z)-4-heptenal" wikidataID="Q27237245" idx="161" />
@@ -169,7 +169,7 @@
     <entry name="(z)-4-octenyl acetate" term="(z)-4-octenyl acetate" idx="163" />
     <entry name="(z)-4-octenyl butyrate" term="(z)-4-octenyl butyrate" idx="164" />
     <entry name="(z)-5-decenyl acetate" term="(z)-5-decenyl acetate" idx="165" />
-    <entry name="['(z)-5-octenoic acid', '(z)-3-octenoic acid']" term="['(z)-5-octenoic acid', '(z)-3-octenoic acid']" wikidataID="Q27278231" idx="['166', '158']" merged="true" />
+    <entry name="(z)-5-octenoic acid" term="(z)-5-octenoic acid" wikidataID="Q27278231" idx="166" />
     <entry name="(z)-6-octadecenoic acid" term="(z)-6-octadecenoic acid" wikidataID="Q2080732" idx="167" />
     <entry name="(z)-6-pentadecen-2-one" term="(z)-6-pentadecen-2-one" idx="168" />
     <entry name="(z)-7-dodecenol" term="(z)-7-dodecenol" idx="169" />
@@ -177,7 +177,7 @@
     <entry name="(z)-9-hexadecenol" term="(z)-9-hexadecenol" idx="171" />
     <entry name="(z)-9-octadecenamide" term="(z)-9-octadecenamide" wikidataID="Q4370" idx="172" />
     <entry name="(z)-9-tetradecenal" term="(z)-9-tetradecenal" idx="173" />
-    <entry name="['(z)-abienol', 'abienol']" term="['(z)-abienol', 'abienol']" wikidataID="Q27137053" idx="['174', '665']" merged="true" />
+    <entry name="(z)-abienol" term="(z)-abienol" wikidataID="Q27137053" idx="174" />
     <entry name="(z)-alpha-bisabolene" term="(z)-alpha-bisabolene" wikidataID="Q27121555" idx="175" />
     <entry name="(z)-alpha-ocimene" term="(z)-alpha-ocimene" idx="176" />
     <entry name="(z)-alpha-santalol" term="(z)-alpha-santalol" wikidataID="Q27108619" idx="177" />
@@ -197,9 +197,9 @@
     <entry name="(z)-citral" term="(z)-citral" wikidataID="Q27104033" idx="191" />
     <entry name="(z)-dihydrocarvone" term="(z)-dihydrocarvone" wikidataID="Q27105262" idx="192" />
     <entry name="(z)-ethyl cinnamate" term="(z)-ethyl cinnamate" idx="193" />
-    <entry name="(z)-farnesol" term="(z)-farnesol" wikidataID="Q27116653" idx="194" />
+    <entry name="['(z)-farnesol', 'cis-farnesol']" term="['(z)-farnesol', 'cis-farnesol']" wikidataID="Q27116653" idx="['194', '1032']" merged="true" />
     <entry name="(z)-gamma-bisabolene" term="(z)-gamma-bisabolene" idx="195" />
-    <entry name="(z)-isoeugenol" term="(z)-isoeugenol" wikidataID="Q27122111" idx="196" />
+    <entry name="['(z)-isoeugenol', '(z)-methyl isoeugenol']" term="['(z)-isoeugenol', '(z)-methyl isoeugenol']" wikidataID="Q27122111" idx="['196', '204']" merged="true" />
     <entry name="(z)-isomyristicin" term="(z)-isomyristicin" idx="197" />
     <entry name="(z)-jasmone" term="(z)-jasmone" wikidataID="Q418077" idx="198" />
     <entry name="(z)-lachnophyllum ester" term="(z)-lachnophyllum ester" idx="199" />
@@ -207,7 +207,7 @@
     <entry name="(z)-ligustilide" term="(z)-ligustilide" idx="201" />
     <entry name="(z)-linalool oxide (furanoid)" term="(z)-linalool oxide (furanoid)" wikidataID="Q27160941" idx="202" />
     <entry name="(z)-methyl cinnamate" term="(z)-methyl cinnamate" wikidataID="Q27275326" idx="203" />
-    <entry name="['(z)-methyl isoeugenol', '(z)-isoeugenol']" term="['(z)-methyl isoeugenol', '(z)-isoeugenol']" wikidataID="Q27122111" idx="['204', '196']" merged="true" />
+    <entry name="(z)-methyl isoeugenol" term="(z)-methyl isoeugenol" wikidataID="Q27122111" idx="204" />
     <entry name="(z)-methyl jasmonate" term="(z)-methyl jasmonate" wikidataID="Q26840883" idx="205" />
     <entry name="(z)-myroxide" term="(z)-myroxide" idx="206" />
     <entry name="(z)-nerolidol" term="(z)-nerolidol" wikidataID="Q27236395" idx="207" />
@@ -256,7 +256,7 @@
     <entry name="1-menthone" term="1-menthone" idx="250" />
     <entry name="1-methoxy-4-propylbenzene" term="1-methoxy-4-propylbenzene" wikidataID="Q27160351" idx="251" />
     <entry name="1-methoxynaphthalene" term="1-methoxynaphthalene" idx="252" />
-    <entry name="['1-methyl-3-(1-methylethyl)-benzene', 'cymene']" term="['1-methyl-3-(1-methylethyl)-benzene', 'cymene']" wikidataID="Q284072" idx="['253', '1111']" merged="true" />
+    <entry name="1-methyl-3-(1-methylethyl)-benzene" term="1-methyl-3-(1-methylethyl)-benzene" wikidataID="Q284072" idx="253" />
     <entry name="1-methyl-4-acetyl-1-cyclohexene" term="1-methyl-4-acetyl-1-cyclohexene" idx="254" />
     <entry name="1-naphthalenol" term="1-naphthalenol" idx="255" />
     <entry name="1-nonadecanol" term="1-nonadecanol" idx="256" />
@@ -273,7 +273,7 @@
     <entry name="1-octen-3-yl acetate" term="1-octen-3-yl acetate" wikidataID="Q15927659" idx="267" />
     <entry name="1-octene" term="1-octene" wikidataID="Q161664" idx="268" />
     <entry name="1-octenyl acetate" term="1-octenyl acetate" idx="269" />
-    <entry name="['1-octyl acetate', '3-octanol acetate']" term="['1-octyl acetate', '3-octanol acetate']" wikidataID="Q2173897" idx="['270', '522']" merged="true" />
+    <entry name="1-octyl acetate" term="1-octyl acetate" wikidataID="Q2173897" idx="270" />
     <entry name="1-pentacosene" term="1-pentacosene" wikidataID="Q27147831" idx="271" />
     <entry name="1-pentadecene" term="1-pentadecene" wikidataID="Q3374882" idx="272" />
     <entry name="1-pentadecyne" term="1-pentadecyne" idx="273" />
@@ -352,14 +352,14 @@
     <entry name="2-ethylhexenol" term="2-ethylhexenol" idx="346" />
     <entry name="2-ethylhexyl hydrogen phthalate" term="2-ethylhexyl hydrogen phthalate" wikidataID="Q26841225" idx="347" />
     <entry name="2-ethylphenol" term="2-ethylphenol" idx="348" />
-    <entry name="['2-formylfuran', '3-furfural']" term="['2-formylfuran', '3-furfural']" wikidataID="Q412429" idx="['349', '461']" merged="true" />
+    <entry name="2-formylfuran" term="2-formylfuran" wikidataID="Q412429" idx="349" />
     <entry name="2-furanmethanol" term="2-furanmethanol" wikidataID="Q27335" idx="350" />
-    <entry name="2-heptadecanol" term="2-heptadecanol" wikidataID="Q20054528" idx="351" />
+    <entry name="['2-heptadecanol', 'heptadecanol']" term="['2-heptadecanol', 'heptadecanol']" wikidataID="Q20054528" idx="['351', '1413']" merged="true" />
     <entry name="2-heptadecanone" term="2-heptadecanone" wikidataID="Q27231437" idx="352" />
     <entry name="2-heptanol" term="2-heptanol" wikidataID="Q2720011" idx="353" />
     <entry name="2-heptanone" term="2-heptanone" wikidataID="Q517266" idx="354" />
     <entry name="2-heptenol" term="2-heptenol" wikidataID="Q27287134" idx="355" />
-    <entry name="2-heptyl acetate" term="2-heptyl acetate" wikidataID="Q2823832" idx="356" />
+    <entry name="['2-heptyl acetate', 'heptyl acetate']" term="['2-heptyl acetate', 'heptyl acetate']" wikidataID="Q2823832" idx="['356', '1418']" merged="true" />
     <entry name="2-hexadecanol" term="2-hexadecanol" wikidataID="Q161632" idx="357" />
     <entry name="2-hexadecanone" term="2-hexadecanone" idx="358" />
     <entry name="2-hexanal" term="2-hexanal" wikidataID="Q420698" idx="359" />
@@ -382,7 +382,7 @@
     <entry name="2-methyl-2-butenol" term="2-methyl-2-butenol" wikidataID="Q425512" idx="376" />
     <entry name="2-methyl-2-pentenoic acid" term="2-methyl-2-pentenoic acid" wikidataID="Q27258744" idx="377" />
     <entry name="2-methyl-3-buten-2-ol" term="2-methyl-3-buten-2-ol" idx="378" />
-    <entry name="['2-methyl-4-heptanone', '4-heptanone']" term="['2-methyl-4-heptanone', '4-heptanone']" wikidataID="Q2416556" idx="['379', '548']" merged="true" />
+    <entry name="2-methyl-4-heptanone" term="2-methyl-4-heptanone" wikidataID="Q2416556" idx="379" />
     <entry name="2-methyl-6-propylphenol" term="2-methyl-6-propylphenol" idx="380" />
     <entry name="2-methyl octane" term="2-methyl octane" wikidataID="Q41576" idx="381" />
     <entry name="2-methylbenzaldehyde" term="2-methylbenzaldehyde" wikidataID="Q26828655" idx="382" />
@@ -392,7 +392,7 @@
     <entry name="2-methylbutyl-3-methyl butyrate" term="2-methylbutyl-3-methyl butyrate" idx="386" />
     <entry name="2-methylbutylacetate" term="2-methylbutylacetate" idx="387" />
     <entry name="2-methylbutylpropionate" term="2-methylbutylpropionate" idx="388" />
-    <entry name="['2-methylbutyrate', 'butyl-2-methylbutyrate']" term="['2-methylbutyrate', 'butyl-2-methylbutyrate']" wikidataID="Q27161059" idx="['389', '941']" merged="true" />
+    <entry name="2-methylbutyrate" term="2-methylbutyrate" wikidataID="Q27161059" idx="389" />
     <entry name="['2-methylcrotonaldehyde', '3-methyl-3-butenal']" term="['2-methylcrotonaldehyde', '3-methyl-3-butenal']" wikidataID="Q27160277" idx="['390', '488']" merged="true" />
     <entry name="2-methylcrotonic acid" term="2-methylcrotonic acid" wikidataID="Q27116830" idx="391" />
     <entry name="2-methyldecane" term="2-methyldecane" idx="392" />
@@ -429,7 +429,7 @@
     <entry name="2-pentanol" term="2-pentanol" idx="423" />
     <entry name="2-pentylpyridine" term="2-pentylpyridine" wikidataID="Q27272774" idx="424" />
     <entry name="2-phenethyl alcohol" term="2-phenethyl alcohol" wikidataID="Q209463" idx="425" />
-    <entry name="2-phenoxy-ethanol" term="2-phenoxy-ethanol" wikidataID="Q7107372" idx="426" />
+    <entry name="['2-phenoxy-ethanol', 'phenoxy ethanol']" term="['2-phenoxy-ethanol', 'phenoxy ethanol']" wikidataID="Q7107372" idx="['426', '1869']" merged="true" />
     <entry name="2-phenyl ethyl acetate" term="2-phenyl ethyl acetate" idx="427" />
     <entry name="2-phenylacetaldehyde" term="2-phenylacetaldehyde" wikidataID="Q424998" idx="428" />
     <entry name="2-phenylbenzaldehyde" term="2-phenylbenzaldehyde" idx="429" />
@@ -448,7 +448,7 @@
     <entry name="2-pyrrolidinone" term="2-pyrrolidinone" wikidataID="Q285640" idx="442" />
     <entry name="2-tetradecanone" term="2-tetradecanone" wikidataID="Q27162006" idx="443" />
     <entry name="2-tridecanol" term="2-tridecanol" idx="444" />
-    <entry name="['2-tridecanone', '3-tridecanone', '5-tridecanone']" term="['2-tridecanone', '3-tridecanone', '5-tridecanone']" wikidataID="Q27147536" idx="['445', '540', '617']" merged="true" />
+    <entry name="2-tridecanone" term="2-tridecanone" wikidataID="Q27147536" idx="445" />
     <entry name="2-undecanol" term="2-undecanol" wikidataID="Q27147537" idx="446" />
     <entry name="['2-undecanone', '4-undecanone']" term="['2-undecanone', '4-undecanone']" wikidataID="Q2024187" idx="['447', '592']" merged="true" />
     <entry name="3-acetylanisole" term="3-acetylanisole" wikidataID="Q229995" idx="448" />
@@ -464,12 +464,12 @@
     <entry name="3-ethenylpyridine" term="3-ethenylpyridine" idx="458" />
     <entry name="3-ethyl-4-methylpentanol" term="3-ethyl-4-methylpentanol" idx="459" />
     <entry name="3-ethylphenol" term="3-ethylphenol" wikidataID="Q4634135" idx="460" />
-    <entry name="3-furfural" term="3-furfural" wikidataID="Q412429" idx="461" />
+    <entry name="['3-furfural', '2-formylfuran']" term="['3-furfural', '2-formylfuran']" wikidataID="Q412429" idx="['461', '349']" merged="true" />
     <entry name="3-heptanol" term="3-heptanol" wikidataID="Q4634146" idx="462" />
     <entry name="3-heptanone" term="3-heptanone" wikidataID="Q1287838" idx="463" />
     <entry name="3-hexanol" term="3-hexanol" wikidataID="Q83763" idx="464" />
     <entry name="3-hexanone" term="3-hexanone" wikidataID="Q223076" idx="465" />
-    <entry name="['3-hexen-1-ol', '(3z)-hexenol', '(e)-2-hexen-1-ol']" term="['3-hexen-1-ol', '(3z)-hexenol', '(e)-2-hexen-1-ol']" wikidataID="Q300850" idx="['466', '31', '43']" merged="true" />
+    <entry name="3-hexen-1-ol" term="3-hexen-1-ol" wikidataID="Q300850" idx="466" />
     <entry name="3-hexenal" term="3-hexenal" idx="467" />
     <entry name="3-hexenyl butyrate" term="3-hexenyl butyrate" wikidataID="Q223077" idx="468" />
     <entry name="3-hexenyl formate" term="3-hexenyl formate" wikidataID="Q27272497" idx="469" />
@@ -525,7 +525,7 @@
     <entry name="3-nonanone" term="3-nonanone" wikidataID="Q27231338" idx="519" />
     <entry name="3-nonen-2-one" term="3-nonen-2-one" wikidataID="Q27278142" idx="520" />
     <entry name="3-octanol" term="3-octanol" idx="521" />
-    <entry name="3-octanol acetate" term="3-octanol acetate" wikidataID="Q2173897" idx="522" />
+    <entry name="['3-octanol acetate', '1-octyl acetate']" term="['3-octanol acetate', '1-octyl acetate']" wikidataID="Q2173897" idx="['522', '270']" merged="true" />
     <entry name="3-octanone" term="3-octanone" wikidataID="Q18349104" idx="523" />
     <entry name="3-octen-1-ol" term="3-octen-1-ol" idx="524" />
     <entry name="3-oxo-alpha-ionol" term="3-oxo-alpha-ionol" idx="525" />
@@ -543,20 +543,20 @@
     <entry name="3-thujanone" term="3-thujanone" idx="537" />
     <entry name="3-thujene" term="3-thujene" wikidataID="Q27121796" idx="538" />
     <entry name="3-thujopsanone" term="3-thujopsanone" idx="539" />
-    <entry name="3-tridecanone" term="3-tridecanone" wikidataID="Q27147536" idx="540" />
+    <entry name="['3-tridecanone', '2-tridecanone', '5-tridecanone']" term="['3-tridecanone', '2-tridecanone', '5-tridecanone']" wikidataID="Q27147536" idx="['540', '445', '617']" merged="true" />
     <entry name="3-undecanone" term="3-undecanone" wikidataID="Q63396315" idx="541" />
     <entry name="3-undecen-2-one" term="3-undecen-2-one" wikidataID="Q27136198" idx="542" />
-    <entry name="4-(4-methoxyphenyl)-2-butanone" term="4-(4-methoxyphenyl)-2-butanone" wikidataID="Q1064625" idx="543" />
+    <entry name="['4-(4-methoxyphenyl)-2-butanone', 'zingerone']" term="['4-(4-methoxyphenyl)-2-butanone', 'zingerone']" wikidataID="Q1064625" idx="['543', '2107']" merged="true" />
     <entry name="4-epi-cubebol" term="4-epi-cubebol" idx="544" />
     <entry name="4-ethylguaiacol" term="4-ethylguaiacol" idx="545" />
     <entry name="4-ethylphenol" term="4-ethylphenol" wikidataID="Q409853" idx="546" />
     <entry name="4-heptanol" term="4-heptanol" wikidataID="Q15298225" idx="547" />
-    <entry name="4-heptanone" term="4-heptanone" wikidataID="Q2416556" idx="548" />
+    <entry name="['4-heptanone', '2-methyl-4-heptanone']" term="['4-heptanone', '2-methyl-4-heptanone']" wikidataID="Q2416556" idx="['548', '379']" merged="true" />
     <entry name="4-hydroxy-4-methyl-2-pentanone" term="4-hydroxy-4-methyl-2-pentanone" wikidataID="Q421486" idx="549" />
     <entry name="4-hydroxy-beta-ionone" term="4-hydroxy-beta-ionone" idx="550" />
     <entry name="4-hydroxyphenethyl alcohol" term="4-hydroxyphenethyl alcohol" wikidataID="Q402607" idx="551" />
     <entry name="['4-hydroxypiperitone', '2-hydroxypiperitone']" term="['4-hydroxypiperitone', '2-hydroxypiperitone']" wikidataID="Q21546974" idx="['552', '365']" merged="true" />
-    <entry name="['4-isopropyl phenol', 'carvacrol']" term="['4-isopropyl phenol', 'carvacrol']" wikidataID="Q225543" idx="['553', '980']" merged="true" />
+    <entry name="4-isopropyl phenol" term="4-isopropyl phenol" wikidataID="Q225543" idx="553" />
     <entry name="4-isopropylheptane" term="4-isopropylheptane" wikidataID="Q5652290" idx="554" />
     <entry name="4-isopropylsalicylaldehyde" term="4-isopropylsalicylaldehyde" idx="555" />
     <entry name="4-ketoisophorone" term="4-ketoisophorone" idx="556" />
@@ -570,7 +570,7 @@
     <entry name="4-methyl-1-hexanol" term="4-methyl-1-hexanol" idx="564" />
     <entry name="4-methyl-3-heptanone" term="4-methyl-3-heptanone" idx="565" />
     <entry name="4-methyl-3-penten-2-one" term="4-methyl-3-penten-2-one" wikidataID="Q425668" idx="566" />
-    <entry name="['4-methyl-4-hepten-3-one', '5-methyl-5-hepten-2-one', '6-methyl-5-hepten-2-one']" term="['4-methyl-4-hepten-3-one', '5-methyl-5-hepten-2-one', '6-methyl-5-hepten-2-one']" wikidataID="Q3209146" idx="['567', '611', '632']" merged="true" />
+    <entry name="4-methyl-4-hepten-3-one" term="4-methyl-4-hepten-3-one" wikidataID="Q3209146" idx="567" />
     <entry name="4-methyl-5h-furan-2-one" term="4-methyl-5h-furan-2-one" idx="568" />
     <entry name="4-methylacetophenone" term="4-methylacetophenone" idx="569" />
     <entry name="4-methylbenzaldehyde" term="4-methylbenzaldehyde" wikidataID="Q3266675" idx="570" />
@@ -633,9 +633,9 @@
     <entry name="6-methyl-2-heptanol" term="6-methyl-2-heptanol" idx="627" />
     <entry name="6-methyl-2-heptanone" term="6-methyl-2-heptanone" idx="628" />
     <entry name="6-methyl-3-heptanol" term="6-methyl-3-heptanol" wikidataID="Q27282706" idx="629" />
-    <entry name="['6-methyl-3-hepten-2-one', '(e)-3-hepten-2-one']" term="['6-methyl-3-hepten-2-one', '(e)-3-hepten-2-one']" wikidataID="Q27291021" idx="['630', '63']" merged="true" />
+    <entry name="6-methyl-3-hepten-2-one" term="6-methyl-3-hepten-2-one" wikidataID="Q27291021" idx="630" />
     <entry name="6-methyl-5-hepten-2-ol" term="6-methyl-5-hepten-2-ol" idx="631" />
-    <entry name="6-methyl-5-hepten-2-one" term="6-methyl-5-hepten-2-one" wikidataID="Q3209146" idx="632" />
+    <entry name="['6-methyl-5-hepten-2-one', '4-methyl-4-hepten-3-one', '5-methyl-5-hepten-2-one']" term="['6-methyl-5-hepten-2-one', '4-methyl-4-hepten-3-one', '5-methyl-5-hepten-2-one']" wikidataID="Q3209146" idx="['632', '567', '611']" merged="true" />
     <entry name="6-methyl-7-octen-2-one" term="6-methyl-7-octen-2-one" wikidataID="Q27256728" idx="633" />
     <entry name="6-methylheptadecane" term="6-methylheptadecane" idx="634" />
     <entry name="6-methylheptanol" term="6-methylheptanol" idx="635" />
@@ -660,7 +660,7 @@
     <entry name="9-dodecenol" term="9-dodecenol" idx="654" />
     <entry name="9-epi-(e)-caryophyllene" term="9-epi-(e)-caryophyllene" wikidataID="Q27137093" idx="655" />
     <entry name="9-heptacosene" term="9-heptacosene" idx="656" />
-    <entry name="['9-hexacosene', 'hexacosene']" term="['9-hexacosene', 'hexacosene']" wikidataID="Q27284213" idx="['657', '1428']" merged="true" />
+    <entry name="9-hexacosene" term="9-hexacosene" wikidataID="Q27284213" idx="657" />
     <entry name="9-methylnonadecane" term="9-methylnonadecane" idx="658" />
     <entry name="9-nonacosene" term="9-nonacosene" idx="659" />
     <entry name="9-octadecenal" term="9-octadecenal" wikidataID="Q27266333" idx="660" />
@@ -668,7 +668,7 @@
     <entry name="9-octadecenol" term="9-octadecenol" wikidataID="Q7086489" idx="662" />
     <entry name="9-pentacosene" term="9-pentacosene" idx="663" />
     <entry name="9-tetracosene" term="9-tetracosene" wikidataID="Q27291532" idx="664" />
-    <entry name="abienol" term="abienol" wikidataID="Q27137053" idx="665" />
+    <entry name="['abienol', '(z)-abienol']" term="['abienol', '(z)-abienol']" wikidataID="Q27137053" idx="['665', '174']" merged="true" />
     <entry name="abietadiene" term="abietadiene" idx="666" />
     <entry name="abietal" term="abietal" wikidataID="Q27104073" idx="667" />
     <entry name="abietatriene" term="abietatriene" wikidataID="Q27158870" idx="668" />
@@ -707,7 +707,7 @@
     <entry name="alpha-barbatene" term="alpha-barbatene" idx="701" />
     <entry name="alpha-bergamotene" term="alpha-bergamotene" idx="702" />
     <entry name="alpha-bourbonene" term="alpha-bourbonene" wikidataID="Q22162855" idx="703" />
-    <entry name="alpha-bulnesene" term="alpha-bulnesene" wikidataID="Q27132629" idx="704" />
+    <entry name="['alpha-bulnesene', 'bulnesene']" term="['alpha-bulnesene', 'bulnesene']" wikidataID="Q27132629" idx="['704', '938']" merged="true" />
     <entry name="alpha-cadinene" term="alpha-cadinene" wikidataID="Q27134263" idx="705" />
     <entry name="alpha-cadinol" term="alpha-cadinol" wikidataID="Q4734900" idx="706" />
     <entry name="alpha-calacorene" term="alpha-calacorene" wikidataID="Q27160655" idx="707" />
@@ -724,10 +724,10 @@
     <entry name="alpha-copaen-8-ol" term="alpha-copaen-8-ol" idx="718" />
     <entry name="alpha-copaene" term="alpha-copaene" idx="719" />
     <entry name="['alpha-corocalene', 'alpha-calacorene']" term="['alpha-corocalene', 'alpha-calacorene']" wikidataID="Q27160655" idx="['720', '707']" merged="true" />
-    <entry name="alpha-cubebene" term="alpha-cubebene" wikidataID="Q27108605" idx="721" />
-    <entry name="['alpha-cubenene', 'alpha-cubebene']" term="['alpha-cubenene', 'alpha-cubebene']" wikidataID="Q27108605" idx="['722', '721']" merged="true" />
+    <entry name="['alpha-cubebene', 'alpha-cubenene']" term="['alpha-cubebene', 'alpha-cubenene']" wikidataID="Q27108605" idx="['721', '722']" merged="true" />
+    <entry name="alpha-cubenene" term="alpha-cubenene" wikidataID="Q27108605" idx="722" />
     <entry name="alpha-curcumene" term="alpha-curcumene" wikidataID="Q27108606" idx="723" />
-    <entry name="alpha-cyclocitral" term="alpha-cyclocitral" wikidataID="Q27124011" idx="724" />
+    <entry name="['alpha-cyclocitral', 'beta-cyclocitral']" term="['alpha-cyclocitral', 'beta-cyclocitral']" wikidataID="Q27124011" idx="['724', '878']" merged="true" />
     <entry name="alpha-cyclocostunolide" term="alpha-cyclocostunolide" wikidataID="Q27108607" idx="725" />
     <entry name="alpha-cyclogeraniol" term="alpha-cyclogeraniol" idx="726" />
     <entry name="alpha-cyperone" term="alpha-cyperone" idx="727" />
@@ -764,7 +764,7 @@
     <entry name="alpha-selinene" term="alpha-selinene" idx="758" />
     <entry name="alpha-sinensal" term="alpha-sinensal" wikidataID="Q27108620" idx="759" />
     <entry name="alpha-teresantalic acid" term="alpha-teresantalic acid" idx="760" />
-    <entry name="alpha-terpinen" term="alpha-terpinen" wikidataID="Q416114" idx="761" />
+    <entry name="['alpha-terpinen', 'p-menth-1(7)-en-9-ol', '4-terpineol', '(e)-p-menth-2-en-1-ol', '(+)-terpinen-4-ol', 'p-menth-1-en-7-ol']" term="['alpha-terpinen', 'p-menth-1(7)-en-9-ol', '4-terpineol', '(e)-p-menth-2-en-1-ol', '(+)-terpinen-4-ol', 'p-menth-1-en-7-ol']" wikidataID="Q416114" idx="['761', '1828', '591', '118', '29', '1823']" merged="true" />
     <entry name="alpha-terpinen-7-al" term="alpha-terpinen-7-al" idx="762" />
     <entry name="alpha-terpinolene" term="alpha-terpinolene" wikidataID="Q2405051" idx="763" />
     <entry name="alpha-terpinyl acetate" term="alpha-terpinyl acetate" idx="764" />
@@ -784,7 +784,7 @@
     <entry name="amyl cinnamate" term="amyl cinnamate" idx="778" />
     <entry name="amyl hexanoate" term="amyl hexanoate" wikidataID="Q7165332" idx="779" />
     <entry name="amyl isobutyrate" term="amyl isobutyrate" wikidataID="Q27268865" idx="780" />
-    <entry name="amyl isovalerate" term="amyl isovalerate" wikidataID="Q27161914" idx="781" />
+    <entry name="['amyl isovalerate', 'pentyl 2-methylbutyrate']" term="['amyl isovalerate', 'pentyl 2-methylbutyrate']" wikidataID="Q27161914" idx="['781', '1855']" merged="true" />
     <entry name="amyl propionate" term="amyl propionate" wikidataID="Q3050158" idx="782" />
     <entry name="amyl valerate" term="amyl valerate" idx="783" />
     <entry name="anastreptene" term="anastreptene" idx="784" />
@@ -866,8 +866,8 @@
     <entry name="beta-bergamotene" term="beta-bergamotene" idx="860" />
     <entry name="beta-bisabolene" term="beta-bisabolene" wikidataID="Q11595687" idx="861" />
     <entry name="beta-bisabolol" term="beta-bisabolol" idx="862" />
-    <entry name="beta-bourbenene" term="beta-bourbenene" wikidataID="Q27160892" idx="863" />
-    <entry name="['beta-bourbonene', 'beta-bourbenene']" term="['beta-bourbonene', 'beta-bourbenene']" wikidataID="Q27160892" idx="['864', '863']" merged="true" />
+    <entry name="['beta-bourbenene', 'beta-bourbonene']" term="['beta-bourbenene', 'beta-bourbonene']" wikidataID="Q27160892" idx="['863', '864']" merged="true" />
+    <entry name="beta-bourbonene" term="beta-bourbonene" wikidataID="Q27160892" idx="864" />
     <entry name="beta-bulnesene" term="beta-bulnesene" idx="865" />
     <entry name="beta-cadinene" term="beta-cadinene" wikidataID="Q27103285" idx="866" />
     <entry name="beta-cadinol" term="beta-cadinol" idx="867" />
@@ -881,7 +881,7 @@
     <entry name="beta-costol" term="beta-costol" idx="875" />
     <entry name="beta-cubebene" term="beta-cubebene" idx="876" />
     <entry name="beta-curcumene" term="beta-curcumene" idx="877" />
-    <entry name="['beta-cyclocitral', 'alpha-cyclocitral']" term="['beta-cyclocitral', 'alpha-cyclocitral']" wikidataID="Q27124011" idx="['878', '724']" merged="true" />
+    <entry name="beta-cyclocitral" term="beta-cyclocitral" wikidataID="Q27124011" idx="878" />
     <entry name="beta-cyclocostunolide" term="beta-cyclocostunolide" wikidataID="Q27108625" idx="879" />
     <entry name="beta-elemene" term="beta-elemene" wikidataID="Q27132237" idx="880" />
     <entry name="beta-elemenone" term="beta-elemenone" idx="881" />
@@ -918,7 +918,7 @@
     <entry name="beta-vetivenene" term="beta-vetivenene" idx="912" />
     <entry name="beta-vetivone" term="beta-vetivone" wikidataID="Q27108643" idx="913" />
     <entry name="beta-ylangene" term="beta-ylangene" idx="914" />
-    <entry name="['beta farnesene', 'cis-beta-farnesene']" term="['beta farnesene', 'cis-beta-farnesene']" wikidataID="Q27119785" idx="['915', '1021']" merged="true" />
+    <entry name="beta farnesene" term="beta farnesene" wikidataID="Q27119785" idx="915" />
     <entry name="beyerene" term="beyerene" idx="916" />
     <entry name="bicycloelemene" term="bicycloelemene" idx="917" />
     <entry name="bicyclogermacrene" term="bicyclogermacrene" idx="918" />
@@ -941,10 +941,10 @@
     <entry name="bornylene" term="bornylene" wikidataID="Q27277780" idx="935" />
     <entry name="bourbon-11-ene" term="bourbon-11-ene" idx="936" />
     <entry name="brevifolin" term="brevifolin" wikidataID="Q18210424" idx="937" />
-    <entry name="['bulnesene', 'alpha-bulnesene']" term="['bulnesene', 'alpha-bulnesene']" wikidataID="Q27132629" idx="['938', '704']" merged="true" />
+    <entry name="bulnesene" term="bulnesene" wikidataID="Q27132629" idx="938" />
     <entry name="bulnesol" term="bulnesol" idx="939" />
     <entry name="butanal" term="butanal" wikidataID="Q410603" idx="940" />
-    <entry name="butyl-2-methylbutyrate" term="butyl-2-methylbutyrate" wikidataID="Q27161059" idx="941" />
+    <entry name="['butyl-2-methylbutyrate', '2-methylbutyrate']" term="['butyl-2-methylbutyrate', '2-methylbutyrate']" wikidataID="Q27161059" idx="['941', '389']" merged="true" />
     <entry name="butyl angelate" term="butyl angelate" idx="942" />
     <entry name="butyl benzoate" term="butyl benzoate" wikidataID="Q27115765" idx="943" />
     <entry name="butyl butyrate" term="butyl butyrate" wikidataID="Q2212471" idx="944" />
@@ -983,11 +983,11 @@
     <entry name="caranone" term="caranone" idx="977" />
     <entry name="carissone" term="carissone" idx="978" />
     <entry name="carotol" term="carotol" wikidataID="Q5045553" idx="979" />
-    <entry name="carvacrol" term="carvacrol" wikidataID="Q225543" idx="980" />
+    <entry name="['carvacrol', '4-isopropyl phenol']" term="['carvacrol', '4-isopropyl phenol']" wikidataID="Q225543" idx="['980', '553']" merged="true" />
     <entry name="carvacrol acetate" term="carvacrol acetate" idx="981" />
     <entry name="carvacrol methyl ether" term="carvacrol methyl ether" wikidataID="Q27291819" idx="982" />
     <entry name="carvenone" term="carvenone" idx="983" />
-    <entry name="['carveol', '(e)-carveol']" term="['carveol', '(e)-carveol']" wikidataID="Q2920205" idx="['984', '88']" merged="true" />
+    <entry name="carveol" term="carveol" wikidataID="Q2920205" idx="984" />
     <entry name="carvol" term="carvol" wikidataID="Q416800" idx="985" />
     <entry name="['carvone', 'carvol']" term="['carvone', 'carvol']" wikidataID="Q416800" idx="['986', '985']" merged="true" />
     <entry name="carvone oxide" term="carvone oxide" wikidataID="Q27288773" idx="987" />
@@ -1024,7 +1024,7 @@
     <entry name="cis-anhydro linalool oxide" term="cis-anhydro linalool oxide" idx="1018" />
     <entry name="cis-arbusculone" term="cis-arbusculone" idx="1019" />
     <entry name="cis-bejarol" term="cis-bejarol" idx="1020" />
-    <entry name="cis-beta-farnesene" term="cis-beta-farnesene" wikidataID="Q27119785" idx="1021" />
+    <entry name="['cis-beta-farnesene', 'beta farnesene']" term="['cis-beta-farnesene', 'beta farnesene']" wikidataID="Q27119785" idx="['1021', '915']" merged="true" />
     <entry name="cis-cadin-4-en-7-ol" term="cis-cadin-4-en-7-ol" idx="1022" />
     <entry name="cis-calamenen-10-ol" term="cis-calamenen-10-ol" idx="1023" />
     <entry name="cis-carvotanacetol" term="cis-carvotanacetol" idx="1024" />
@@ -1035,7 +1035,7 @@
     <entry name="cis-dihydroagarofuran" term="cis-dihydroagarofuran" wikidataID="Q27268716" idx="1029" />
     <entry name="cis-dihydrocarveol" term="cis-dihydrocarveol" idx="1030" />
     <entry name="cis-farnesal" term="cis-farnesal" idx="1031" />
-    <entry name="['cis-farnesol', '(z)-farnesol']" term="['cis-farnesol', '(z)-farnesol']" wikidataID="Q27116653" idx="['1032', '194']" merged="true" />
+    <entry name="cis-farnesol" term="cis-farnesol" wikidataID="Q27116653" idx="1032" />
     <entry name="cis-geraniol" term="cis-geraniol" wikidataID="Q415359" idx="1033" />
     <entry name="cis-geranyl acetate" term="cis-geranyl acetate" idx="1034" />
     <entry name="cis-isopulegone" term="cis-isopulegone" idx="1035" />
@@ -1114,12 +1114,12 @@
     <entry name="cyclosativene" term="cyclosativene" idx="1108" />
     <entry name="cycloseychellene" term="cycloseychellene" idx="1109" />
     <entry name="cymen-8-ol" term="cymen-8-ol" wikidataID="Q27265496" idx="1110" />
-    <entry name="cymene" term="cymene" wikidataID="Q284072" idx="1111" />
+    <entry name="['cymene', '1-methyl-3-(1-methylethyl)-benzene']" term="['cymene', '1-methyl-3-(1-methylethyl)-benzene']" wikidataID="Q284072" idx="['1111', '253']" merged="true" />
     <entry name="cyperene" term="cyperene" wikidataID="Q27155098" idx="1112" />
     <entry name="cyperol" term="cyperol" wikidataID="Q27149854" idx="1113" />
     <entry name="cyperotundone" term="cyperotundone" wikidataID="Q27155094" idx="1114" />
     <entry name="cyprotene" term="cyprotene" idx="1115" />
-    <entry name="['d-cadinene', 'delta-amorphene']" term="['d-cadinene', 'delta-amorphene']" wikidataID="Q27089406" idx="['1116', '1145']" merged="true" />
+    <entry name="d-cadinene" term="d-cadinene" wikidataID="Q27089406" idx="1116" />
     <entry name="d-fenchone" term="d-fenchone" wikidataID="Q27067421" idx="1117" />
     <entry name="d-germacrene" term="d-germacrene" idx="1118" />
     <entry name="damascenine" term="damascenine" wikidataID="Q1158234" idx="1119" />
@@ -1136,7 +1136,7 @@
     <entry name="decyl acetate" term="decyl acetate" idx="1130" />
     <entry name="decyl isobutyrate" term="decyl isobutyrate" wikidataID="Q27272938" idx="1131" />
     <entry name="decylbenzene" term="decylbenzene" wikidataID="Q27282268" idx="1132" />
-    <entry name="dehydro-p-cymene" term="dehydro-p-cymene" wikidataID="Q27162104" idx="1133" />
+    <entry name="['dehydro-p-cymene', 'isopropenyl toluene']" term="['dehydro-p-cymene', 'isopropenyl toluene']" wikidataID="Q27162104" idx="['1133', '1533']" merged="true" />
     <entry name="dehydro-sesquicineole" term="dehydro-sesquicineole" idx="1134" />
     <entry name="dehydroabietal" term="dehydroabietal" wikidataID="Q27123469" idx="1135" />
     <entry name="dehydroabietol" term="dehydroabietol" wikidataID="Q27123468" idx="1136" />
@@ -1148,8 +1148,8 @@
     <entry name="dehydrotremetone" term="dehydrotremetone" wikidataID="Q27106357" idx="1142" />
     <entry name="dehydrovomifoliol" term="dehydrovomifoliol" wikidataID="Q27103073" idx="1143" />
     <entry name="delta-9-tetrahydrocannabinol" term="delta-9-tetrahydrocannabinol" wikidataID="Q190067" idx="1144" />
-    <entry name="delta-amorphene" term="delta-amorphene" wikidataID="Q27089406" idx="1145" />
-    <entry name="['delta-cadinol', 'torreyol']" term="['delta-cadinol', 'torreyol']" wikidataID="Q5254530" idx="['1146', '2016']" merged="true" />
+    <entry name="['delta-amorphene', 'd-cadinene']" term="['delta-amorphene', 'd-cadinene']" wikidataID="Q27089406" idx="['1145', '1116']" merged="true" />
+    <entry name="delta-cadinol" term="delta-cadinol" wikidataID="Q5254530" idx="1146" />
     <entry name="delta-cuprenene" term="delta-cuprenene" idx="1147" />
     <entry name="delta-decalactone" term="delta-decalactone" wikidataID="Q27159530" idx="1148" />
     <entry name="delta-dodecalactone" term="delta-dodecalactone" idx="1149" />
@@ -1316,9 +1316,9 @@
     <entry name="eudesm-3-en-7-ol" term="eudesm-3-en-7-ol" idx="1310" />
     <entry name="eudesm-4(15)-ene-6-ol" term="eudesm-4(15)-ene-6-ol" idx="1311" />
     <entry name="eudesm-7(11)-en-4-ol" term="eudesm-7(11)-en-4-ol" idx="1312" />
-    <entry name="eugenol" term="eugenol" wikidataID="Q423357" idx="1313" />
+    <entry name="['eugenol', 'eugenol methyl ether']" term="['eugenol', 'eugenol methyl ether']" wikidataID="Q423357" idx="['1313', '1315']" merged="true" />
     <entry name="eugenol isobutyrate" term="eugenol isobutyrate" idx="1314" />
-    <entry name="['eugenol methyl ether', 'eugenol']" term="['eugenol methyl ether', 'eugenol']" wikidataID="Q423357" idx="['1315', '1313']" merged="true" />
+    <entry name="eugenol methyl ether" term="eugenol methyl ether" wikidataID="Q423357" idx="1315" />
     <entry name="eugenyl isovalerate" term="eugenyl isovalerate" wikidataID="Q27277902" idx="1316" />
     <entry name="euparin" term="euparin" wikidataID="Q27135902" idx="1317" />
     <entry name="exo-2-hydroxycineole acetate" term="exo-2-hydroxycineole acetate" idx="1318" />
@@ -1379,7 +1379,7 @@
     <entry name="geranyl benzoate" term="geranyl benzoate" wikidataID="Q27274360" idx="1373" />
     <entry name="geranyl butyrate" term="geranyl butyrate" idx="1374" />
     <entry name="geranyl caproate" term="geranyl caproate" wikidataID="Q27269023" idx="1375" />
-    <entry name="geranyl geraniol" term="geranyl geraniol" wikidataID="Q410836" idx="1376" />
+    <entry name="['geranyl geraniol', '(e)-geraniol']" term="['geranyl geraniol', '(e)-geraniol']" wikidataID="Q410836" idx="['1376', '98']" merged="true" />
     <entry name="geranyl isobutyrate" term="geranyl isobutyrate" wikidataID="Q27286284" idx="1377" />
     <entry name="geranyl isovalerate" term="geranyl isovalerate" wikidataID="Q27285778" idx="1378" />
     <entry name="geranyl linalool" term="geranyl linalool" idx="1379" />
@@ -1416,12 +1416,12 @@
     <entry name="heptadecanal" term="heptadecanal" wikidataID="Q27266306" idx="1410" />
     <entry name="heptadecane" term="heptadecane" idx="1411" />
     <entry name="heptadecanoic acid" term="heptadecanoic acid" wikidataID="Q902204" idx="1412" />
-    <entry name="['heptadecanol', '2-heptadecanol']" term="['heptadecanol', '2-heptadecanol']" wikidataID="Q20054528" idx="['1413', '351']" merged="true" />
+    <entry name="heptadecanol" term="heptadecanol" wikidataID="Q20054528" idx="1413" />
     <entry name="heptanal" term="heptanal" wikidataID="Q425827" idx="1414" />
     <entry name="heptane" term="heptane" idx="1415" />
     <entry name="heptanoic acid" term="heptanoic acid" wikidataID="Q297592" idx="1416" />
     <entry name="hepten-2-ol" term="hepten-2-ol" idx="1417" />
-    <entry name="['heptyl acetate', '2-heptyl acetate']" term="['heptyl acetate', '2-heptyl acetate']" wikidataID="Q2823832" idx="['1418', '356']" merged="true" />
+    <entry name="heptyl acetate" term="heptyl acetate" wikidataID="Q2823832" idx="1418" />
     <entry name="['heptyl butyrate', 'butyl butyrate']" term="['heptyl butyrate', 'butyl butyrate']" wikidataID="Q2212471" idx="['1419', '944']" merged="true" />
     <entry name="heptyl hexanoate" term="heptyl hexanoate" idx="1420" />
     <entry name="heptyl isobutyrate" term="heptyl isobutyrate" wikidataID="Q27277945" idx="1421" />
@@ -1431,7 +1431,7 @@
     <entry name="hex-3-enyl benzoate" term="hex-3-enyl benzoate" idx="1425" />
     <entry name="hexacosane" term="hexacosane" wikidataID="Q151016" idx="1426" />
     <entry name="hexacosanol" term="hexacosanol" wikidataID="Q4545790" idx="1427" />
-    <entry name="hexacosene" term="hexacosene" wikidataID="Q27284213" idx="1428" />
+    <entry name="['hexacosene', '9-hexacosene']" term="['hexacosene', '9-hexacosene']" wikidataID="Q27284213" idx="['1428', '657']" merged="true" />
     <entry name="hexadecanal" term="hexadecanal" idx="1429" />
     <entry name="hexadecanamide" term="hexadecanamide" idx="1430" />
     <entry name="hexadecane" term="hexadecane" wikidataID="Q150843" idx="1431" />
@@ -1536,7 +1536,7 @@
     <entry name="isopiperitenone" term="isopiperitenone" idx="1530" />
     <entry name="isopiperitone" term="isopiperitone" idx="1531" />
     <entry name="isopropanol" term="isopropanol" wikidataID="Q16392" idx="1532" />
-    <entry name="['isopropenyl toluene', 'dehydro-p-cymene']" term="['isopropenyl toluene', 'dehydro-p-cymene']" wikidataID="Q27162104" idx="['1533', '1133']" merged="true" />
+    <entry name="isopropenyl toluene" term="isopropenyl toluene" wikidataID="Q27162104" idx="1533" />
     <entry name="isopropyl butyrate" term="isopropyl butyrate" wikidataID="Q27161909" idx="1534" />
     <entry name="isopropyl dodecanoate" term="isopropyl dodecanoate" wikidataID="Q27160509" idx="1535" />
     <entry name="isopropyl heptanoate" term="isopropyl heptanoate" idx="1536" />
@@ -1545,7 +1545,7 @@
     <entry name="isopropyl isobutyrate" term="isopropyl isobutyrate" wikidataID="Q27280641" idx="1539" />
     <entry name="isopropyl isothiocyanate" term="isopropyl isothiocyanate" wikidataID="Q27258900" idx="1540" />
     <entry name="isopropyl isovalerate" term="isopropyl isovalerate" wikidataID="Q27268172" idx="1541" />
-    <entry name="isopropyl myristate" term="isopropyl myristate" wikidataID="Q416222" idx="1542" />
+    <entry name="['isopropyl myristate', 'propyl tetradecanoate']" term="['isopropyl myristate', 'propyl tetradecanoate']" wikidataID="Q416222" idx="['1542', '1905']" merged="true" />
     <entry name="isopropyl octanoate" term="isopropyl octanoate" idx="1543" />
     <entry name="isopulegol" term="isopulegol" wikidataID="Q2103922" idx="1544" />
     <entry name="isopulegone" term="isopulegone" wikidataID="Q27117020" idx="1545" />
@@ -1564,7 +1564,7 @@
     <entry name="italicene epoxide" term="italicene epoxide" idx="1558" />
     <entry name="junenol" term="junenol" wikidataID="Q27294925" idx="1559" />
     <entry name="junicedranol" term="junicedranol" idx="1560" />
-    <entry name="junipene" term="junipene" wikidataID="Q6673936" idx="1561" />
+    <entry name="['junipene', 'longifolene']" term="['junipene', 'longifolene']" wikidataID="Q6673936" idx="['1561', '1606']" merged="true" />
     <entry name="juniper camphor" term="juniper camphor" idx="1562" />
     <entry name="karahanaenone" term="karahanaenone" idx="1563" />
     <entry name="kaurene" term="kaurene" idx="1564" />
@@ -1575,7 +1575,7 @@
     <entry name="khusimol" term="khusimol" wikidataID="Q27289660" idx="1569" />
     <entry name="khusimone" term="khusimone" idx="1570" />
     <entry name="khusinol acetate" term="khusinol acetate" idx="1571" />
-    <entry name="l-(-)-menthol" term="l-(-)-menthol" wikidataID="Q407418" idx="1572" />
+    <entry name="['l-(-)-menthol', 'menthol']" term="['l-(-)-menthol', 'menthol']" wikidataID="Q407418" idx="['1572', '1626']" merged="true" />
     <entry name="lantadene a" term="lantadene a" wikidataID="Q27273075" idx="1573" />
     <entry name="lantadene b" term="lantadene b" wikidataID="Q27273646" idx="1574" />
     <entry name="lantadene c" term="lantadene c" idx="1575" />
@@ -1609,7 +1609,7 @@
     <entry name="longicamphenylone" term="longicamphenylone" idx="1603" />
     <entry name="longicyclene" term="longicyclene" idx="1604" />
     <entry name="longifolenaldehyde" term="longifolenaldehyde" idx="1605" />
-    <entry name="['longifolene', 'junipene']" term="['longifolene', 'junipene']" wikidataID="Q6673936" idx="['1606', '1561']" merged="true" />
+    <entry name="longifolene" term="longifolene" wikidataID="Q6673936" idx="1606" />
     <entry name="longifolol" term="longifolol" idx="1607" />
     <entry name="longipinene epoxide" term="longipinene epoxide" idx="1608" />
     <entry name="lyral" term="lyral" idx="1609" />
@@ -1629,7 +1629,7 @@
     <entry name="mellein" term="mellein" wikidataID="Q6813065" idx="1623" />
     <entry name="menth-1-en-9-ol" term="menth-1-en-9-ol" wikidataID="Q27261954" idx="1624" />
     <entry name="menthofuran" term="menthofuran" wikidataID="Q6817554" idx="1625" />
-    <entry name="['menthol', 'l-(-)-menthol']" term="['menthol', 'l-(-)-menthol']" wikidataID="Q407418" idx="['1626', '1572']" merged="true" />
+    <entry name="menthol" term="menthol" wikidataID="Q407418" idx="1626" />
     <entry name="menthyl acetate" term="menthyl acetate" wikidataID="Q6817577" idx="1627" />
     <entry name="menthyl chavicol" term="menthyl chavicol" idx="1628" />
     <entry name="menthyl isovalerate" term="menthyl isovalerate" wikidataID="Q12831520" idx="1629" />
@@ -1638,7 +1638,7 @@
     <entry name="methanethiol" term="methanethiol" wikidataID="Q409309" idx="1632" />
     <entry name="methyl-2-methyl butyrate" term="methyl-2-methyl butyrate" wikidataID="Q420701" idx="1633" />
     <entry name="methyl-3-phenylpropionate" term="methyl-3-phenylpropionate" wikidataID="Q27162059" idx="1634" />
-    <entry name="['methyl-o-methyl benzoate', 'methyl benzoate']" term="['methyl-o-methyl benzoate', 'methyl benzoate']" wikidataID="Q417328" idx="['1635', '1656']" merged="true" />
+    <entry name="methyl-o-methyl benzoate" term="methyl-o-methyl benzoate" wikidataID="Q417328" idx="1635" />
     <entry name="methyl-p-anisate" term="methyl-p-anisate" wikidataID="Q6823933" idx="1636" />
     <entry name="methyl-p-hydroxybenzoate" term="methyl-p-hydroxybenzoate" wikidataID="Q229987" idx="1637" />
     <entry name="methyl-p-methoxycinnamate" term="methyl-p-methoxycinnamate" wikidataID="Q27159285" idx="1638" />
@@ -1659,7 +1659,7 @@
     <entry name="methyl allyl trisulfide" term="methyl allyl trisulfide" idx="1653" />
     <entry name="['methyl anisole', 'p-cresyl methyl ether']" term="['methyl anisole', 'p-cresyl methyl ether']" wikidataID="Q15726084" idx="['1654', '1818']" merged="true" />
     <entry name="methyl anthranilate" term="methyl anthranilate" wikidataID="Q420894" idx="1655" />
-    <entry name="methyl benzoate" term="methyl benzoate" wikidataID="Q417328" idx="1656" />
+    <entry name="['methyl benzoate', 'methyl-o-methyl benzoate']" term="['methyl benzoate', 'methyl-o-methyl benzoate']" wikidataID="Q417328" idx="['1656', '1635']" merged="true" />
     <entry name="methyl butanoate" term="methyl butanoate" idx="1657" />
     <entry name="methyl citronellate" term="methyl citronellate" idx="1658" />
     <entry name="methyl cyclohexadiene" term="methyl cyclohexadiene" idx="1659" />
@@ -1675,7 +1675,7 @@
     <entry name="methyl heptanoate" term="methyl heptanoate" idx="1669" />
     <entry name="methyl hexadecadienoate" term="methyl hexadecadienoate" wikidataID="Q27262697" idx="1670" />
     <entry name="methyl hexadecanoate" term="methyl hexadecanoate" wikidataID="Q16676086" idx="1671" />
-    <entry name="methyl hexadecenoate" term="methyl hexadecenoate" wikidataID="Q27157517" idx="1672" />
+    <entry name="['methyl hexadecenoate', 'methyl palmitoleate']" term="['methyl hexadecenoate', 'methyl palmitoleate']" wikidataID="Q27157517" idx="['1672', '1690']" merged="true" />
     <entry name="methyl hexanoate" term="methyl hexanoate" idx="1673" />
     <entry name="methyl isobutyl ketone" term="methyl isobutyl ketone" wikidataID="Q418104" idx="1674" />
     <entry name="methyl isobutyrate" term="methyl isobutyrate" wikidataID="Q27143856" idx="1675" />
@@ -1693,7 +1693,7 @@
     <entry name="methyl nonanoate" term="methyl nonanoate" wikidataID="Q3343334" idx="1687" />
     <entry name="['methyl octadecanoate', 'octadecanoic acid']" term="['methyl octadecanoate', 'octadecanoic acid']" wikidataID="Q27137527" idx="['1688', '1791']" merged="true" />
     <entry name="methyl octanoate" term="methyl octanoate" wikidataID="Q3348789" idx="1689" />
-    <entry name="['methyl palmitoleate', 'methyl hexadecenoate']" term="['methyl palmitoleate', 'methyl hexadecenoate']" wikidataID="Q27157517" idx="['1690', '1672']" merged="true" />
+    <entry name="methyl palmitoleate" term="methyl palmitoleate" wikidataID="Q27157517" idx="1690" />
     <entry name="methyl pentadecanoate" term="methyl pentadecanoate" wikidataID="Q27270652" idx="1691" />
     <entry name="methyl perillate" term="methyl perillate" idx="1692" />
     <entry name="methyl phenylacetate" term="methyl phenylacetate" wikidataID="Q390681" idx="1693" />
@@ -1826,14 +1826,14 @@
     <entry name="p-cymen-9-ol" term="p-cymen-9-ol" wikidataID="Q27116059" idx="1820" />
     <entry name="p-diethylbenzene" term="p-diethylbenzene" wikidataID="Q27115785" idx="1821" />
     <entry name="p-menth-1-en-7-al" term="p-menth-1-en-7-al" idx="1822" />
-    <entry name="['p-menth-1-en-7-ol', '(+)-terpinen-4-ol', '(e)-p-menth-2-en-1-ol', '4-terpineol', 'p-menth-1(7)-en-9-ol', 'alpha-terpinen']" term="['p-menth-1-en-7-ol', '(+)-terpinen-4-ol', '(e)-p-menth-2-en-1-ol', '4-terpineol', 'p-menth-1(7)-en-9-ol', 'alpha-terpinen']" wikidataID="Q416114" idx="['1823', '29', '118', '591', '1828', '761']" merged="true" />
+    <entry name="p-menth-1-en-7-ol" term="p-menth-1-en-7-ol" wikidataID="Q416114" idx="1823" />
     <entry name="p-menth-1-en-9-al" term="p-menth-1-en-9-al" idx="1824" />
     <entry name="p-menth-1-en-9-yl acetate" term="p-menth-1-en-9-yl acetate" wikidataID="Q27114893" idx="1825" />
     <entry name="p-menth-1-ene" term="p-menth-1-ene" idx="1826" />
     <entry name="['p-menth-1(7)-en-2-one', 'p-menth-6-en-2-one']" term="['p-menth-1(7)-en-2-one', 'p-menth-6-en-2-one']" wikidataID="Q27109809" idx="['1827', '1832']" merged="true" />
     <entry name="p-menth-1(7)-en-9-ol" term="p-menth-1(7)-en-9-ol" wikidataID="Q416114" idx="1828" />
     <entry name="p-menth-2-en-8-ol" term="p-menth-2-en-8-ol" wikidataID="Q27134539" idx="1829" />
-    <entry name="['p-menth-3-en-8-ol', '1-alpha-terpineol', '1-terpineol', '(+)-alpha-terpineol', '(-)-alpha-terpineol']" term="['p-menth-3-en-8-ol', '1-alpha-terpineol', '1-terpineol', '(+)-alpha-terpineol', '(-)-alpha-terpineol']" wikidataID="Q27109437" idx="['1830', '221', '281', '21', '6']" merged="true" />
+    <entry name="['p-menth-3-en-8-ol', '(+)-alpha-terpineol', '1-terpineol', '1-alpha-terpineol', '(-)-alpha-terpineol']" term="['p-menth-3-en-8-ol', '(+)-alpha-terpineol', '1-terpineol', '1-alpha-terpineol', '(-)-alpha-terpineol']" wikidataID="Q27109437" idx="['1830', '21', '281', '221', '6']" merged="true" />
     <entry name="['p-menth-4-en-3-one', 'p-menth-6-en-3-one']" term="['p-menth-4-en-3-one', 'p-menth-6-en-3-one']" wikidataID="Q2041498" idx="['1831', '1833']" merged="true" />
     <entry name="p-menth-6-en-2-one" term="p-menth-6-en-2-one" wikidataID="Q27109809" idx="1832" />
     <entry name="p-menth-6-en-3-one" term="p-menth-6-en-3-one" wikidataID="Q2041498" idx="1833" />
@@ -1858,7 +1858,7 @@
     <entry name="pentanoic acid" term="pentanoic acid" wikidataID="Q173670" idx="1852" />
     <entry name="pentatriacontane" term="pentatriacontane" idx="1853" />
     <entry name="pentyl 2-methyl-2-butenoate" term="pentyl 2-methyl-2-butenoate" idx="1854" />
-    <entry name="['pentyl 2-methylbutyrate', 'amyl isovalerate']" term="['pentyl 2-methylbutyrate', 'amyl isovalerate']" wikidataID="Q27161914" idx="['1855', '781']" merged="true" />
+    <entry name="pentyl 2-methylbutyrate" term="pentyl 2-methylbutyrate" wikidataID="Q27161914" idx="1855" />
     <entry name="pentyl benzene" term="pentyl benzene" idx="1856" />
     <entry name="pentyl butyrate" term="pentyl butyrate" wikidataID="Q419484" idx="1857" />
     <entry name="perfluorotributylamine" term="perfluorotributylamine" wikidataID="Q15296722" idx="1858" />
@@ -1872,7 +1872,7 @@
     <entry name="phenanthrene" term="phenanthrene" idx="1866" />
     <entry name="phenol" term="phenol" wikidataID="Q130336" idx="1867" />
     <entry name="phenoprene" term="phenoprene" idx="1868" />
-    <entry name="['phenoxy ethanol', '2-phenoxy-ethanol']" term="['phenoxy ethanol', '2-phenoxy-ethanol']" wikidataID="Q7107372" idx="['1869', '426']" merged="true" />
+    <entry name="phenoxy ethanol" term="phenoxy ethanol" wikidataID="Q7107372" idx="1869" />
     <entry name="phenyl acetate" term="phenyl acetate" wikidataID="Q419645" idx="1870" />
     <entry name="phenyl acetic acid" term="phenyl acetic acid" wikidataID="Q663909" idx="1871" />
     <entry name="phenyl ethyl butyrate" term="phenyl ethyl butyrate" wikidataID="Q27274890" idx="1872" />
@@ -1908,7 +1908,7 @@
     <entry name="propyl hexanoate" term="propyl hexanoate" wikidataID="Q3135041" idx="1902" />
     <entry name="propyl isobutyrate" term="propyl isobutyrate" wikidataID="Q27162039" idx="1903" />
     <entry name="propyl methacrylate" term="propyl methacrylate" idx="1904" />
-    <entry name="['propyl tetradecanoate', 'isopropyl myristate']" term="['propyl tetradecanoate', 'isopropyl myristate']" wikidataID="Q416222" idx="['1905', '1542']" merged="true" />
+    <entry name="propyl tetradecanoate" term="propyl tetradecanoate" wikidataID="Q416222" idx="1905" />
     <entry name="propyl tiglate" term="propyl tiglate" idx="1906" />
     <entry name="propyl valerate" term="propyl valerate" wikidataID="Q3374902" idx="1907" />
     <entry name="propylacetate" term="propylacetate" idx="1908" />
@@ -2019,7 +2019,7 @@
     <entry name="toluene" term="toluene" wikidataID="Q15779" idx="2013" />
     <entry name="torilenol" term="torilenol" idx="2014" />
     <entry name="torquatone" term="torquatone" idx="2015" />
-    <entry name="torreyol" term="torreyol" wikidataID="Q5254530" idx="2016" />
+    <entry name="['torreyol', 'delta-cadinol']" term="['torreyol', 'delta-cadinol']" wikidataID="Q5254530" idx="['2016', '1146']" merged="true" />
     <entry name="torulosol" term="torulosol" idx="2017" />
     <entry name="trans-3-caren-2-ol" term="trans-3-caren-2-ol" idx="2018" />
     <entry name="trans-4-thujanol" term="trans-4-thujanol" idx="2019" />
@@ -2072,8 +2072,8 @@
     <entry name="umbellulone" term="umbellulone" wikidataID="Q7881242" idx="2066" />
     <entry name="undecanal" term="undecanal" wikidataID="Q7883008" idx="2067" />
     <entry name="undecanoic acid" term="undecanoic acid" wikidataID="Q425988" idx="2068" />
-    <entry name="undecanol" term="undecanol" wikidataID="Q161686" idx="2069" />
-    <entry name="['undecanol-3', 'undecanol']" term="['undecanol-3', 'undecanol']" wikidataID="Q161686" idx="['2070', '2069']" merged="true" />
+    <entry name="['undecanol', 'undecanol-3']" term="['undecanol', 'undecanol-3']" wikidataID="Q161686" idx="['2069', '2070']" merged="true" />
+    <entry name="undecanol-3" term="undecanol-3" wikidataID="Q161686" idx="2070" />
     <entry name="valencene" term="valencene" wikidataID="Q289496" idx="2071" />
     <entry name="valeranone" term="valeranone" wikidataID="Q27149801" idx="2072" />
     <entry name="valerenal" term="valerenal" idx="2073" />
@@ -2094,8 +2094,8 @@
     <entry name="viridiflorol" term="viridiflorol" wikidataID="Q27280014" idx="2088" />
     <entry name="viridine" term="viridine" idx="2089" />
     <entry name="vitamin e" term="vitamin e" idx="2090" />
-    <entry name="['vitispirane', 'vitispirane a']" term="['vitispirane', 'vitispirane a']" wikidataID="Q27251997" idx="['2091', '2092']" merged="true" />
-    <entry name="vitispirane a" term="vitispirane a" wikidataID="Q27251997" idx="2092" />
+    <entry name="vitispirane" term="vitispirane" wikidataID="Q27251997" idx="2091" />
+    <entry name="['vitispirane a', 'vitispirane']" term="['vitispirane a', 'vitispirane']" wikidataID="Q27251997" idx="['2092', '2091']" merged="true" />
     <entry name="vulgarol b" term="vulgarol b" idx="2093" />
     <entry name="vulgarone" term="vulgarone" idx="2094" />
     <entry name="vulgarone a" term="vulgarone a" idx="2095" />
@@ -2110,7 +2110,7 @@
     <entry name="z-nerolidyl acetate" term="z-nerolidyl acetate" idx="2104" />
     <entry name="zedoarol" term="zedoarol" wikidataID="Q27155086" idx="2105" />
     <entry name="zerumbone" term="zerumbone" idx="2106" />
-    <entry name="['zingerone', '4-(4-methoxyphenyl)-2-butanone']" term="['zingerone', '4-(4-methoxyphenyl)-2-butanone']" wikidataID="Q1064625" idx="['2107', '543']" merged="true" />
+    <entry name="zingerone" term="zingerone" wikidataID="Q1064625" idx="2107" />
     <entry name="zingiberene" term="zingiberene" wikidataID="Q4117486" idx="2108" />
     <entry name="zingiberenol" term="zingiberenol" idx="2109" />
     <entry name="zizaene" term="zizaene" idx="2110" />
