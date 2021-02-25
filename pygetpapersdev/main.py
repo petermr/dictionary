@@ -276,6 +276,7 @@ class pygetpapers:
                 pdf_destination = os.path.join(
                     str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pdf")
                 if getpdf:
+
                     if "pdflinks" in final_xml_dict[paper]:
                         if len(final_xml_dict[paper]["pdflinks"]) > 0:
                             self.writepdf(
