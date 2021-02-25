@@ -276,11 +276,12 @@ class pygetpapers:
                 pdf_destination = os.path.join(
                     str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pdf")
                 if getpdf:
-                    if len(final_xml_dict[paper]["pdflinks"]) > 0:
-                        self.writepdf(
-                            final_xml_dict[paper]["pdflinks"], pdf_destination)
-                        print(
-                            f"Wrote the pdf file for {paper_number} at {pdf_destination}")
+                    if "pdflinks" in final_xml_dict[paper]:
+                        if len(final_xml_dict[paper]["pdflinks"]) > 0:
+                            self.writepdf(
+                                final_xml_dict[paper]["pdflinks"], pdf_destination)
+                            print(
+                                f"Wrote the pdf file for {paper_number} at {pdf_destination}")
 
                 print(f"*/Updating the pickle*/", '\n')
 
