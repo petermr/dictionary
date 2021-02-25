@@ -40,6 +40,7 @@ class pygetpapers:
         options = webdriver.ChromeOptions()
         options.add_argument('--ignore-certificate-errors-spki-list')
         options.add_argument('--ignore-ssl-errors')
+        options.add_argument('log-level=3')
         webdriver = webdriver.Chrome(
             chrome_options=options
         )
