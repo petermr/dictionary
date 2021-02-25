@@ -341,7 +341,11 @@ class pygetpapers:
             '--onlyreviews', action='store_true', help="Get only review papers  (Only works with --webscraping)")
         args = parser.parse_args()
 
-        os.chdir(args.output)
+        if os.path.exists(args.output):
+            os.chdir(args.output)
+        else:
+            os.makedirs(args.output)
+            os.chdir(args.output)
 
         if args.frompickle:
             read_pickled = self.readpickleddata(args.frompickle)
