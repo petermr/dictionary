@@ -5,10 +5,14 @@ class pygetpapers:
     def postquery(self, headers, payload):
         import xmltodict
         import requests
+        import time
         print("*/Making the Request to get all hits*/")
+        start = time.time()
         r = requests.post(
             'https://www.ebi.ac.uk/europepmc/webservices/rest/searchPOST', data=payload, headers=headers)
-        print("*/Got the Content*/")
+        stop = time.time()
+        print("*/Got the Content */")
+        print(f"Time elapsed: {stop-start}")
         return xmltodict.parse(r.content)
 
     def buildquery(self, cursormark, pageSize, query, synonym=True,):
@@ -40,7 +44,6 @@ class pygetpapers:
         options = webdriver.ChromeOptions()
         options.add_argument('--ignore-certificate-errors-spki-list')
         options.add_argument('--ignore-ssl-errors')
-        options.add_argument('log-level=3')
         webdriver = webdriver.Chrome(
             chrome_options=options
         )
@@ -132,7 +135,7 @@ class pygetpapers:
         return content
 
     # this is the function that will the the result from search and will download and save the files.
-    def makecsv(self, searchvariable):
+    def makecsv(self, searchvariable, makecsv=False, makejson=False):
         import pandas_read_xml as pdx
         import xmltodict
         import pandas as pd
@@ -160,6 +163,7 @@ class pygetpapers:
                     resultant_dict[paper["pmcid"]] = {}
                     resultant_dict[paper["pmcid"]
                                    ]["downloaded"] = False
+                    resultant_dict[paper["pmcid"]]["full"] = paper
                     try:
                         resultant_dict[paper["pmcid"]
                                        ]["htmllinks"] = htmlurl[0]
@@ -202,9 +206,13 @@ class pygetpapers:
             resultant_dict_for_csv[paper].pop("downloaded")
         df = pd.DataFrame.from_dict(resultant_dict_for_csv,)
         df_transposed = df.T
-        df_transposed.to_csv(os.path.join(
-            str(os.getcwd()), 'papers', 'europe_pmc.csv'))
-        return resultant_dict
+        if makecsv:
+            df_transposed.to_csv(os.path.join(
+                str(os.getcwd()), 'papers', 'europe_pmc.csv'))
+        if makejson:
+            self.makejson(os.path.join(
+                str(os.getcwd()), 'papers', 'europe_pmc.json'), searchvariable)
+        return searchvariable
 
     def getxml(self, pmcid):
         import requests
@@ -241,15 +249,22 @@ class pygetpapers:
         with open(destination, 'wb') as f:
             pickle.dump(content, f, pickle.HIGHEST_PROTOCOL)
 
-    def makexmlfiles(self, final_xml_dict, getpdf=False):
+    def makejson(self, path, final_xml_dict):
+        import json
+        with open(path, 'w') as fp:
+            json.dump(final_xml_dict, fp)
+
+    def makexmlfiles(self, final_xml_dict, getpdf=False, makejson=False, makecsv=False):
         import requests
         import lxml.etree
         import lxml
         import pickle
         import pandas as pd
         import os
+        import time
         print("*/Writing the xml papers to memory*/")
         for paper_number, paper in enumerate(final_xml_dict):
+            start = time.time()
             paper_number += 1
             if final_xml_dict[paper]["downloaded"] == False:
                 pmcid = paper
@@ -259,6 +274,8 @@ class pygetpapers:
                 directory_url = os.path.join(str(os.getcwd()), 'papers', pmcid)
                 pickle_url = os.path.join(
                     str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pickle")
+                jsonurl = os.path.join(
+                    str(os.getcwd()), 'papers', pmcid, f"{pmcid}.json")
                 self.writexml(directory_url, destination_url, tree)
                 print(
                     f"*/Wrote the xml paper {paper_number} at {destination_url}/")
@@ -267,24 +284,32 @@ class pygetpapers:
 
                 self.writepickle(pickle_url, final_xml_dict[paper])
 
-                df = pd.Series(final_xml_dict[paper]).to_frame(
-                    'Info_By_EuropePMC_Api')
-                df.to_csv(os.path.join(
-                    str(os.getcwd()), 'papers', pmcid, f"{pmcid}.csv"))
+                if makejson:
+                    self.makejson(jsonurl, final_xml_dict[paper])
+
+                if makecsv:
+                    df = pd.Series(final_xml_dict[paper]).to_frame(
+                        'Info_By_EuropePMC_Api')
+                    df.to_csv(os.path.join(
+                        str(os.getcwd()), 'papers', pmcid, f"{pmcid}.csv"))
 
                 self.writepickle(os.path.join(
                     str(os.getcwd()), 'papers', 'europe_pmc.pickle'), final_xml_dict)
+
+                if makejson:
+                    self.makejson(os.path.join(
+                        str(os.getcwd()), 'papers', 'europe_pmc.json'), final_xml_dict)
                 pdf_destination = os.path.join(
                     str(os.getcwd()), 'papers', pmcid, f"{pmcid}.pdf")
                 if getpdf:
-
                     if "pdflinks" in final_xml_dict[paper]:
                         if len(final_xml_dict[paper]["pdflinks"]) > 0:
                             self.writepdf(
                                 final_xml_dict[paper]["pdflinks"], pdf_destination)
                             print(
                                 f"Wrote the pdf file for {paper_number} at {pdf_destination}")
-
+                stop = time.time()
+                print(f"Time elapsed: {stop-start}")
                 print(f"*/Updating the pickle*/", '\n')
 
     def readpickleddata(self, path):
@@ -292,16 +317,17 @@ class pygetpapers:
         object = pd.read_pickle(f'{path}')
         return object
 
-    def apipaperdownload(self, query, size, onlymakepickle=False, getpdf=False):
+    def apipaperdownload(self, query, size, onlymakepickle=False, getpdf=False, makejson=False, makecsv=False):
         import os
 
         query_result = self.europepmc(query, size)
-        self.makecsv(query_result)
+        self.makecsv(query_result, makecsv=makecsv, makejson=makejson)
 
         if not(onlymakepickle):
             read_pickled = self.readpickleddata(os.path.join(
                 str(os.getcwd()), 'papers', 'europe_pmc.pickle'))
-            self.makexmlfiles(read_pickled, getpdf=getpdf)
+            self.makexmlfiles(read_pickled, getpdf=getpdf,
+                              makejson=makejson, makecsv=makecsv)
 
     def scrapingpaperdownload(self, query, size, onlyresearcharticles=False, onlypreprints=False, onlyreviews=False, onlymakepickle=False):
         query_result = self.webscrapepmc(
@@ -327,6 +353,10 @@ class pygetpapers:
                             type=str, help="Reads the picke and makes the xml files. Takes the path to the pickle as the input")
         parser.add_argument("-m", "--makepdf", default=False, action='store_true',
                             help="Also makes pdf files for the papers. Works only with --api method.")
+        parser.add_argument("-j", "--makejson", default=False, action='store_true',
+                            help="Also makes json files for the papers. Works only with --api method.")
+        parser.add_argument("-c", "--makecsv", default=False, action='store_true',
+                            help="Also makes csv files for the papers. Works only with --api method.")
         group = parser.add_mutually_exclusive_group()
         group.add_argument('--api', action='store_true',
                            help="Get papers using the official EuropePMC api")
@@ -356,7 +386,7 @@ class pygetpapers:
                                        onlypreprints=args.onlypreprints, onlyreviews=args.onlyreviews, onlymakepickle=args.onlyquery)
         else:
             self.apipaperdownload(args.query, args.limit,
-                                  onlymakepickle=args.onlyquery, getpdf=args.makepdf)
+                                  onlymakepickle=args.onlyquery, getpdf=args.makepdf, makejson=args.makejson, makecsv=args.makecsv)
 
 
 '''
