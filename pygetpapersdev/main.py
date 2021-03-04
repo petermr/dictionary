@@ -122,14 +122,20 @@ class pygetpapers:
                 nextCursorMark.append(
                     builtquery["responseWrapper"]["nextCursorMark"])
                 output_dict = json.loads(json.dumps(builtquery))
-                for paper in output_dict["responseWrapper"]["resultList"]["result"]:
-                    if "pmcid" in paper:
-                        if number_of_papers_there <= size:
-                            content[0].append(paper)
-                            number_of_papers_there += 1
+                try:
+                    for paper in output_dict["responseWrapper"]["resultList"]["result"]:
+                        if "pmcid" in paper:
+                            if number_of_papers_there <= size:
+                                content[0].append(paper)
+                                number_of_papers_there += 1
+                except:
+                    morepapers = False
+                    print("Could not find more papers")
+                    break
 
             else:
                 morepapers = False
+                print("Could not find more papers")
         if number_of_papers_there > size:
             content[0] = content[0][0:size]
         return content
