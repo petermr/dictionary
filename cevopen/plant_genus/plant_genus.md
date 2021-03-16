@@ -20,6 +20,12 @@ https://query.wikidata.org/#%23Plant%20Genera%0ASELECT%20%3Fplant_genus%20%3Fpla
 ```
 amidict -vv --dictionary plant_genus --directory plant_genus_dictionary --input plant_genus_sparql.xml create --informat wikisparqlxml --sparqlmap wikidataURL=plant_genus,term=plant_genusLabel,GRINid=GRINid,wikidataURL=plant_genus --transformName wikidataID=EXTRACT(wikidataURL,.*/(.*)) --synonyms=wikidataAltLabel
 ```
+
+# Validating dictionary
+```
+amidict --dictionary plant_genus --directory plant_genus_dictionary_20210211  display --validate
+
+```
 # No. of Terms
 The dictionary contains ~25,000 terms
 
@@ -28,4 +34,3 @@ The dictionary contains ~25,000 terms
   - dictionary owner
   - date of creation
   - Restful URL of the query
-- Add property id to the dictionary (P1421)
