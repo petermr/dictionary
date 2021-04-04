@@ -129,7 +129,7 @@ class Entry():
         self.transfer_description_atts_to_child()
         self.remove_deleted_atts(UNWANTED_ATTS)
         if self.change:
-#            print(ET.tostring(self.elem))
+            print("changed", ET.tostring(self.elem))
             pass
 
     def add_lang_child(self, tag, lang, attname, deleted_atts):
@@ -144,19 +144,25 @@ class Entry():
         deleted_atts = []
         for attname in self.elem.attrib:
             if "_description" in attname:
-                lang = attname.split("_")[0]
-                if lang in LANGUAGES:
-                    self.add_lang_child(DESCRIPTION, lang, attname, deleted_atts)
-                else:
-                    print("UNKNOWN lang:", lang)
+                self.transfer_att_language_desc_to_child(attname, deleted_atts)
             elif attname in LANGUAGES:
-                value = self.elem.attrib[attname]
-                if WIKIDATA_ATTRIBUTE_REGEX.match(value):
-                    print("rejected untranslated name")
-                else:
-                    lang = attname
-                    self.add_lang_child(SYNONYM, lang, attname, deleted_atts)
+                self.transfer_lang_att_to_child_synonym(attname, deleted_atts)
         self.remove_deleted_atts(UNWANTED_ATTS)
+
+    def transfer_lang_att_to_child_synonym(self, attname, deleted_atts):
+        value = self.elem.attrib[attname]
+        if WIKIDATA_ATTRIBUTE_REGEX.match(value):
+            print("rejected untranslated name")
+        else:
+            lang = attname
+            self.add_lang_child(SYNONYM, lang, attname, deleted_atts)
+
+    def transfer_att_language_desc_to_child(self, attname, deleted_atts):
+        lang = attname.split("_")[0]
+        if lang in LANGUAGES:
+            self.add_lang_child(DESCRIPTION, lang, attname, deleted_atts)
+        else:
+            print("UNKNOWN lang:", lang)
 
     def remove_deleted_atts(self, deleted_atts):
         self.change = False
@@ -378,6 +384,7 @@ class Dictionary():
 
     def write_outfile(self):
         outfile = os.path.join(TEMP_DIR, os.path.split(self.file)[-1])
+        print("writing to", outfile)
         with open(outfile, "wb") as f:
             try :
                 f.write(ET.tostring(self.root))
@@ -427,7 +434,7 @@ class Dictionary():
 def get_remote_dictionary_files(dict_dir, dictionary_names):
     return [os.path.join(os.path.join(dict_dir, name), name+".xml") for name in dictionary_names]
 
-def test_merge(dict_file):
+def test_browse(dict_file):
     dictionary = Dictionary(file=dict_file)
     print("running dictionary", dict_file)
     dictionary.analyze()
@@ -436,6 +443,12 @@ def test_merge(dict_file):
         print("unknown attributes", dictionary.unknown_atts)
     dictionary.merge_duplicate_wikidata_ids()
     dictionary.write_outfile()
+
+def test1():
+    TEST_DICT = os.path.join(DICTIONARY_TOP, "test")
+    test_file = os.path.join(TEST_DICT, "eo_test1.xml")
+    print("testing", test_file)
+    test_browse(test_file)
 
 
 def main():
@@ -446,23 +459,27 @@ def main():
     
     """
 
+#    test_browse_current_dicts()
+    test1()
+
+
+def test_browse_current_dicts():
     CEVOPEN_DICT = os.path.join(DICTIONARY_TOP, "cevopen")
     dict_files = [
-        os.path.join(CEVOPEN_DICT, "activity/eo_activity.xml"),
-        os.path.join(CEVOPEN_DICT, "analysis/eo_analysis_method.xml"),
-        os.path.join(CEVOPEN_DICT, "compound/eo_compound.xml"),
-        os.path.join(CEVOPEN_DICT, "extraction/eo_extraction.xml"),
-        os.path.join(CEVOPEN_DICT, "gene/eo_plant_gene.xml"),
-        os.path.join(CEVOPEN_DICT, "genus/eo_plant_genus.xml"),
-        os.path.join(CEVOPEN_DICT, "plant/eo_plant.xml"),
-        os.path.join(CEVOPEN_DICT, "plant_part/eo_plant_part.xml"),
-        os.path.join(CEVOPEN_DICT, "target/eo_target_organism.xml")
+        os.path.join(CEVOPEN_DICT, "activity", "eo_activity.xml"),
+        os.path.join(CEVOPEN_DICT, "analysis", "eo_analysis_method.xml"),
+        os.path.join(CEVOPEN_DICT, "compound", "eo_compound.xml"),
+        os.path.join(CEVOPEN_DICT, "extraction", "eo_extraction.xml"),
+        os.path.join(CEVOPEN_DICT, "gene", "eo_plant_gene.xml"),
+        os.path.join(CEVOPEN_DICT, "genus", "eo_plant_genus.xml"),
+        os.path.join(CEVOPEN_DICT, "plant", "eo_plant.xml"),
+        os.path.join(CEVOPEN_DICT, "plant_part", "eo_plant_part.xml"),
+        os.path.join(CEVOPEN_DICT, "target", "eo_target_organism.xml")
     ]
-
     for dict_file in dict_files:
-        test_merge(dict_file)
+        test_browse(dict_file)
 
-    print("end of transform")
+
 #    test_merge(os.path.join(RESOURCE_DIR, "test_multiple.xml"))
 
 
