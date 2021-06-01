@@ -1,0 +1,214 @@
+11:05:05.794 INFO  org.contentmine.ami.tools.AMIDict - args: [-v, --dictionary, ethics_statement, --directory, rake, --input, rake/keywords.txt, create, --informat, list, --outformats, xml,html]
+11:05:05.818 DEBUG org.contentmine.ami.tools.AMIDict - Version: amidict 2020.08.09_09.54-NEXT-SNAPSHOT
+(jar:file:/C:/Users/shweata/ami3/target/ami3-2020.08.09_09.54-NEXT-SNAPSHOT-distribution/ami3-2020.08.09_09.54-NEXT-SNAPSHOT/repo/ami3-2020.08.09_09.54-NEXT-SNAPSHOT.jar)
+JVM: 15 (Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 15+36-1562)
+OS: Windows 10 10.0 amd64
+
+11:05:05.886 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - dictionaryName ethics_statement must match [a-z][a-z0-9]+
+11:05:05.945 INFO  org.contentmine.ami.tools.dictionary.DictionaryCreationTool - dictionaryName: ethics_statement
+11:05:05.957 DEBUG org.contentmine.ami.tools.dictionary.DictionaryCreationTool - readTerms
+11:05:05.962 INFO  org.contentmine.ami.tools.dictionary.DictionaryCreationTool - names 83; terms 83
+11:05:05.968 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/animal_ethics
+11:05:08.185 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/animal_ethics_committee
+11:05:09.379 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Animal_ethics_committee
+11:05:09.379 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: animal ethics committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Animal_ethics_committee
+11:05:09.382 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/approval_number
+11:05:11.015 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Approval_number
+11:05:11.015 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: approval number; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Approval_number
+11:05:11.018 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/clinical_research
+11:05:12.566 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/consent_form
+11:05:13.805 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Consent_form
+11:05:13.805 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: consent form; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Consent_form
+11:05:13.808 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethic_committe
+11:05:15.217 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Ethic_committe
+11:05:15.218 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: ethic committe; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Ethic_committe
+11:05:15.220 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethical_approval
+11:05:17.268 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethical_committee
+11:05:19.126 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Ethical_committee
+11:05:19.127 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: ethical committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Ethical_committee
+11:05:19.130 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethical_conduct
+11:05:20.846 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethical_guidelines
+11:05:21.992 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Ethical_guidelines
+11:05:21.992 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: ethical guidelines; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Ethical_guidelines
+11:05:21.993 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethical_principles
+11:05:23.648 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Ethical_principles
+11:05:23.648 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: ethical principles; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Ethical_principles
+11:05:23.651 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethical_review
+11:05:25.201 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Ethical_review
+11:05:25.202 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: ethical review; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Ethical_review
+11:05:25.205 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethical_review_board
+11:05:27.461 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethical_review_committee
+11:05:28.881 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Ethical_review_committee
+11:05:28.882 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: ethical review committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Ethical_review_committee
+11:05:28.885 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethical_standards
+11:05:30.972 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethics_approval
+11:05:32.842 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Ethics_approval
+11:05:32.843 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: ethics approval; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Ethics_approval
+11:05:32.845 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethics_board
+11:05:34.626 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Ethics_board
+11:05:34.627 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: ethics board; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Ethics_board
+11:05:34.628 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethics_commission
+11:05:35.940 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethics_committee
+11:05:36.835 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethics_committees
+11:05:38.262 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethics_review
+11:05:39.424 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Ethics_review
+11:05:39.425 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: ethics review; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Ethics_review
+11:05:39.428 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethics_review_board
+11:05:41.020 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Ethics_review_board
+11:05:41.021 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: ethics review board; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Ethics_review_board
+11:05:41.024 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethics_review_committee
+11:05:42.592 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Ethics_review_committee
+11:05:42.592 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: ethics review committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Ethics_review_committee
+11:05:42.594 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/ethics_review_committees
+11:05:44.165 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Ethics_review_committees
+11:05:44.166 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: ethics review committees; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Ethics_review_committees
+11:05:44.168 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/food_ethics
+11:05:46.415 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/good_clinical_practice
+11:05:47.268 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/good_clinical_practice_guidelines
+11:05:48.656 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Good_clinical_practice_guidelines
+11:05:48.656 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: good clinical practice guidelines; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Good_clinical_practice_guidelines
+11:05:48.659 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/health_research
+11:05:50.439 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/health_research_ethics
+11:05:52.677 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Health_research_ethics
+11:05:52.678 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: health research ethics; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Health_research_ethics
+11:05:52.680 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/helsinki_declaration
+11:05:54.538 ERROR org.contentmine.graphics.html.HtmlFactory - unknown tag please
+11:05:54.566 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/hospital_ethics_committee
+11:05:55.933 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Hospital_ethics_committee
+11:05:55.935 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: hospital ethics committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Hospital_ethics_committee
+11:05:55.937 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/human_ethics_committee
+11:05:57.335 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Human_ethics_committee
+11:05:57.336 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: human ethics committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Human_ethics_committee
+11:05:57.339 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/human_experimentation
+11:05:59.077 ERROR org.contentmine.graphics.html.HtmlFactory - unknown tag video
+11:05:59.078 ERROR org.contentmine.graphics.html.HtmlFactory - unknown tag source
+11:05:59.104 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/human_participants
+11:06:00.961 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Human_participants
+11:06:00.961 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: human participants; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Human_participants
+11:06:00.962 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/human_research
+11:06:02.821 ERROR org.contentmine.graphics.html.HtmlFactory - unknown tag video
+11:06:02.821 ERROR org.contentmine.graphics.html.HtmlFactory - unknown tag source
+11:06:02.838 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/human_research_ethics_committee
+11:06:04.018 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Human_research_ethics_committee
+11:06:04.019 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: human research ethics committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Human_research_ethics_committee
+11:06:04.023 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/human_research_ethics_committees
+11:06:05.346 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Human_research_ethics_committees
+11:06:05.346 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: human research ethics committees; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Human_research_ethics_committees
+11:06:05.349 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/human_subjects
+11:06:06.657 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Human_subjects
+11:06:06.658 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: human subjects; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Human_subjects
+11:06:06.660 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/implied_consent
+11:06:07.863 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/informed_consent
+11:06:09.079 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/informed_consent_form
+11:06:10.520 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Informed_consent_form
+11:06:10.521 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: informed consent form; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Informed_consent_form
+11:06:10.523 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/informed_written_consent
+11:06:11.911 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Informed_written_consent
+11:06:11.912 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: informed written consent; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Informed_written_consent
+11:06:11.914 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/institutional_animal_care
+11:06:13.316 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Institutional_animal_care
+11:06:13.317 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: institutional animal care; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Institutional_animal_care
+11:06:13.319 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/institutional_ethics_committee
+11:06:14.874 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Institutional_ethics_committee
+11:06:14.874 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: institutional ethics committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Institutional_ethics_committee
+11:06:14.876 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/institutional_requirements
+11:06:16.255 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Institutional_requirements
+11:06:16.256 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: institutional requirements; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Institutional_requirements
+11:06:16.258 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/institutional_review
+11:06:17.820 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Institutional_review
+11:06:17.821 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: institutional review; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Institutional_review
+11:06:17.824 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/institutional_review_board
+11:06:19.042 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/involving_human_participants
+11:06:20.140 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Involving_human_participants
+11:06:20.141 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: involving human participants; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Involving_human_participants
+11:06:20.143 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/irb_approval
+11:06:21.486 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Irb_approval
+11:06:21.487 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: irb approval; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Irb_approval
+11:06:21.489 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/irb_log
+11:06:23.050 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Irb_log
+11:06:23.050 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: irb log; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Irb_log
+11:06:23.052 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/legal_guardian
+11:06:24.228 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/local_ethics_committee
+11:06:25.391 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Local_ethics_committee
+11:06:25.391 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: local ethics committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Local_ethics_committee
+11:06:25.394 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/local_ethics_committees
+11:06:26.748 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Local_ethics_committees
+11:06:26.749 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: local ethics committees; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Local_ethics_committees
+11:06:26.752 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/medical_ethics
+11:06:28.201 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/medical_ethics_committee
+11:06:29.735 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Medical_ethics_committee
+11:06:29.736 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: medical ethics committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Medical_ethics_committee
+11:06:29.738 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/medical_research
+11:06:30.917 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/medical_university
+11:06:33.120 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/national_guidelines
+11:06:34.241 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/National_guidelines
+11:06:34.242 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: national guidelines; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/National_guidelines
+11:06:34.245 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/national_legislation
+11:06:36.633 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/National_legislation
+11:06:36.634 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: national legislation; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/National_legislation
+11:06:36.636 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/national_research_ethics_committee
+11:06:38.232 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/National_research_ethics_committee
+11:06:38.233 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: national research ethics committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/National_research_ethics_committee
+11:06:38.236 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/oral_consent
+11:06:39.591 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Oral_consent
+11:06:39.592 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: oral consent; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Oral_consent
+11:06:39.594 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/oral_informed_consent
+11:06:40.939 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Oral_informed_consent
+11:06:40.941 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: oral informed consent; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Oral_informed_consent
+11:06:40.943 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/protocol_number
+11:06:42.350 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Protocol_number
+11:06:42.350 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: protocol number; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Protocol_number
+11:06:42.353 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/provided_written_informed_consent
+11:06:43.739 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Provided_written_informed_consent
+11:06:43.740 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: provided written informed consent; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Provided_written_informed_consent
+11:06:43.742 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/reference_number
+11:06:45.342 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Reference_number
+11:06:45.344 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: reference number; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Reference_number
+11:06:45.347 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/regional_committee
+11:06:46.765 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Regional_committee
+11:06:46.766 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: regional committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Regional_committee
+11:06:46.768 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/regional_ethics_committee
+11:06:48.092 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Regional_ethics_committee
+11:06:48.093 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: regional ethics committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Regional_ethics_committee
+11:06:48.097 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/research_ethics
+11:06:50.306 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/research_ethics_board
+11:06:51.919 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/research_ethics_committee
+11:06:53.210 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/research_ethics_committees
+11:06:54.881 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/research_ethics_review_committee
+11:06:56.271 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Research_ethics_review_committee
+11:06:56.272 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: research ethics review committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Research_ethics_review_committee
+11:06:56.274 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/research_protocol
+11:06:58.647 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Research_protocol
+11:06:58.648 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: research protocol; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Research_protocol
+11:06:58.653 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/review_board
+11:07:00.028 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Review_board
+11:07:00.028 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: review board; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Review_board
+11:07:00.030 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/review_committee
+11:07:01.637 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Review_committee
+11:07:01.638 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: review committee; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Review_committee
+11:07:01.642 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/signed_informed_consent
+11:07:03.192 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Signed_informed_consent
+11:07:03.193 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: signed informed consent; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Signed_informed_consent
+11:07:03.195 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/studies_involving_human_participants
+11:07:05.227 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Studies_involving_human_participants
+11:07:05.228 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: studies involving human participants; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Studies_involving_human_participants
+11:07:05.230 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/study_participants
+11:07:06.811 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Study_participants
+11:07:06.812 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: study participants; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Study_participants
+11:07:06.814 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/study_protocol
+11:07:08.338 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Study_protocol
+11:07:08.339 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: study protocol; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Study_protocol
+11:07:08.346 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/verbal_consent
+11:07:09.964 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Verbal_consent
+11:07:09.965 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: verbal consent; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Verbal_consent
+11:07:09.967 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/written_consent
+11:07:11.510 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Written_consent
+11:07:11.511 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: written consent; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Written_consent
+11:07:11.513 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/written_consent_form
+11:07:13.107 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Written_consent_form
+11:07:13.108 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: written consent form; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Written_consent_form
+11:07:13.110 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/written_informed_consent
+11:07:14.489 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Written_informed_consent
+11:07:14.489 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: written informed consent; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Written_informed_consent
+11:07:14.506 INFO  org.contentmine.ami.tools.dictionary.DictionaryCreationTool - writing dictionary to C:\Users\shweata\ethics_statement_corpus_1000\results\rake\ethics_statement.xml
+11:07:14.517 INFO  org.contentmine.ami.tools.dictionary.DictionaryCreationTool - writing dictionary to C:\Users\shweata\ethics_statement_corpus_1000\results\rake\ethics_statement.html
