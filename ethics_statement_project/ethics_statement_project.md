@@ -26,3 +26,8 @@ Our next task would be:
 -  to convert narrower terms into synonymns (as child) under an a broader entry term. 
 -  add Wikidata Ids and Wikipedia links to entries, wherever applicable. 
 -  refine our initial query used to create the mini-corpus, to reduce the false-positives.
+
+## Update from 2021-05-04 meeting:
+- We have added the dictionary terms as lexemes to Wikidata
+- Our next focus would be to retrieve the Ethics Committees involved in the approval process. -> Named entity recognition
+- Find more interesting terms related to Ethics Statement using TF-IDF
