@@ -31,3 +31,10 @@ Our next task would be:
 - We have added the dictionary terms as lexemes to Wikidata
 - Our next focus would be to retrieve the Ethics Committees involved in the approval process. -> Named entity recognition
 - Find more interesting terms related to Ethics Statement using TF-IDF
+
+## 4. Entity Recognition using spaCy
+The [notebook I've written](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/Ethics_Statement_Entity_Recognition.ipynb) does Entity Recogintion with which I've been able to pull out names of Ethics Committee. 
+- I manually scrapped roughly 20 Ethics_Statements from a corpus on clinical trials and used spaCY for entity recognition. It is still a prototype, and I hope to extend it to a lot more papers. 
+- I have not used any models to do named entity recognition. ML would be useful in this case. 
+
+
