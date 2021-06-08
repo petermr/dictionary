@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="ethics_statement">
+ <entry term="animal ethics" name="animal ethics" wikipedia="animal ethics" id="CM.ethics_statement.0"/>
+ <entry term="animal ethics committee" name="animal ethics committee" id="CM.ethics_statement.1"/>
+ <entry term="approval number" name="approval number" id="CM.ethics_statement.2"/>
+ <entry term="clinical research" name="clinical research" wikipedia="clinical research" id="CM.ethics_statement.3"/>
+ <entry term="consent form" name="consent form" id="CM.ethics_statement.4"/>
+ <entry term="ethic committe" name="ethic committe" id="CM.ethics_statement.5"/>
+ <entry term="ethical approval" name="ethical approval" wikipedia="ethical approval" id="CM.ethics_statement.6"/>
+ <entry term="ethical committee" name="ethical committee" id="CM.ethics_statement.7"/>
+ <entry term="ethical conduct" name="ethical conduct" wikipedia="ethical conduct" id="CM.ethics_statement.8"/>
+ <entry term="ethical guidelines" name="ethical guidelines" id="CM.ethics_statement.9"/>
+ <entry term="ethical principles" name="ethical principles" id="CM.ethics_statement.10"/>
+ <entry term="ethical review" name="ethical review" id="CM.ethics_statement.11"/>
+ <entry term="ethical review board" name="ethical review board" wikipedia="ethical review board" id="CM.ethics_statement.12"/>
+ <entry term="ethical review committee" name="ethical review committee" id="CM.ethics_statement.13"/>
+ <entry term="ethical standards" name="ethical standards" wikipedia="ethical standards" id="CM.ethics_statement.14"/>
+ <entry term="ethics approval" name="ethics approval" id="CM.ethics_statement.15"/>
+ <entry term="ethics board" name="ethics board" id="CM.ethics_statement.16"/>
+ <entry term="ethics commission" name="ethics commission" wikipedia="ethics commission" id="CM.ethics_statement.17"/>
+ <entry term="ethics committee" name="ethics committee" wikipedia="ethics committee" id="CM.ethics_statement.18"/>
+ <entry term="ethics committees" name="ethics committees" wikipedia="ethics committees" id="CM.ethics_statement.19"/>
+ <entry term="ethics review" name="ethics review" id="CM.ethics_statement.20"/>
+ <entry term="ethics review board" name="ethics review board" id="CM.ethics_statement.21"/>
+ <entry term="ethics review committee" name="ethics review committee" id="CM.ethics_statement.22"/>
+ <entry term="ethics review committees" name="ethics review committees" id="CM.ethics_statement.23"/>
+ <entry term="food ethics" name="food ethics" wikipedia="food ethics" id="CM.ethics_statement.24"/>
+ <entry term="good clinical practice" name="good clinical practice" wikipedia="good clinical practice" id="CM.ethics_statement.25"/>
+ <entry term="good clinical practice guidelines" name="good clinical practice guidelines" id="CM.ethics_statement.26"/>
+ <entry term="health research" name="health research" wikipedia="health research" id="CM.ethics_statement.27"/>
+ <entry term="health research ethics" name="health research ethics" id="CM.ethics_statement.28"/>
+ <entry term="helsinki declaration" name="helsinki declaration" wikipedia="helsinki declaration" id="CM.ethics_statement.29"/>
+ <entry term="hospital ethics committee" name="hospital ethics committee" id="CM.ethics_statement.30"/>
+ <entry term="human ethics committee" name="human ethics committee" id="CM.ethics_statement.31"/>
+ <entry term="human experimentation" name="human experimentation" wikipedia="human experimentation" id="CM.ethics_statement.32"/>
+ <entry term="human participants" name="human participants" id="CM.ethics_statement.33"/>
+ <entry term="human research" name="human research" wikipedia="human research" id="CM.ethics_statement.34"/>
+ <entry term="human research ethics committee" name="human research ethics committee" id="CM.ethics_statement.35"/>
+ <entry term="human research ethics committees" name="human research ethics committees" id="CM.ethics_statement.36"/>
+ <entry term="human subjects" name="human subjects" id="CM.ethics_statement.37"/>
+ <entry term="implied consent" name="implied consent" wikipedia="implied consent" id="CM.ethics_statement.38"/>
+ <entry term="informed consent" name="informed consent" wikipedia="informed consent" id="CM.ethics_statement.39"/>
+ <entry term="informed consent form" name="informed consent form" id="CM.ethics_statement.40"/>
+ <entry term="informed written consent" name="informed written consent" id="CM.ethics_statement.41"/>
+ <entry term="institutional animal care" name="institutional animal care" id="CM.ethics_statement.42"/>
+ <entry term="institutional ethics committee" name="institutional ethics committee" id="CM.ethics_statement.43"/>
+ <entry term="institutional requirements" name="institutional requirements" id="CM.ethics_statement.44"/>
+ <entry term="institutional review" name="institutional review" id="CM.ethics_statement.45"/>
+ <entry term="institutional review board" name="institutional review board" wikipedia="institutional review board" id="CM.ethics_statement.46"/>
+ <entry term="involving human participants" name="involving human participants" id="CM.ethics_statement.47"/>
+ <entry term="irb approval" name="irb approval" id="CM.ethics_statement.48"/>
+ <entry term="irb log" name="irb log" id="CM.ethics_statement.49"/>
+ <entry term="legal guardian" name="legal guardian" wikipedia="legal guardian" id="CM.ethics_statement.50"/>
+ <entry term="local ethics committee" name="local ethics committee" id="CM.ethics_statement.51"/>
+ <entry term="local ethics committees" name="local ethics committees" id="CM.ethics_statement.52"/>
+ <entry term="medical ethics" name="medical ethics" wikipedia="medical ethics" id="CM.ethics_statement.53"/>
+ <entry term="medical ethics committee" name="medical ethics committee" id="CM.ethics_statement.54"/>
+ <entry term="medical research" name="medical research" wikipedia="medical research" id="CM.ethics_statement.55"/>
+ <entry term="medical university" name="medical university" wikipedia="medical university" id="CM.ethics_statement.56"/>
+ <entry term="national guidelines" name="national guidelines" id="CM.ethics_statement.57"/>
+ <entry term="national legislation" name="national legislation" id="CM.ethics_statement.58"/>
+ <entry term="national research ethics committee" name="national research ethics committee" id="CM.ethics_statement.59"/>
+ <entry term="oral consent" name="oral consent" id="CM.ethics_statement.60"/>
+ <entry term="oral informed consent" name="oral informed consent" id="CM.ethics_statement.61"/>
+ <entry term="protocol number" name="protocol number" id="CM.ethics_statement.62"/>
+ <entry term="provided written informed consent" name="provided written informed consent" id="CM.ethics_statement.63"/>
+ <entry term="reference number" name="reference number" id="CM.ethics_statement.64"/>
+ <entry term="regional committee" name="regional committee" id="CM.ethics_statement.65"/>
+ <entry term="regional ethics committee" name="regional ethics committee" id="CM.ethics_statement.66"/>
+ <entry term="research ethics" name="research ethics" wikipedia="research ethics" id="CM.ethics_statement.67"/>
+ <entry term="research ethics board" name="research ethics board" wikipedia="research ethics board" id="CM.ethics_statement.68"/>
+ <entry term="research ethics committee" name="research ethics committee" wikipedia="research ethics committee" id="CM.ethics_statement.69"/>
+ <entry term="research ethics committees" name="research ethics committees" wikipedia="research ethics committees" id="CM.ethics_statement.70"/>
+ <entry term="research ethics review committee" name="research ethics review committee" id="CM.ethics_statement.71"/>
+ <entry term="research protocol" name="research protocol" id="CM.ethics_statement.72"/>
+ <entry term="review board" name="review board" id="CM.ethics_statement.73"/>
+ <entry term="review committee" name="review committee" id="CM.ethics_statement.74"/>
+ <entry term="signed informed consent" name="signed informed consent" id="CM.ethics_statement.75"/>
+ <entry term="studies involving human participants" name="studies involving human participants" id="CM.ethics_statement.76"/>
+ <entry term="study participants" name="study participants" id="CM.ethics_statement.77"/>
+ <entry term="study protocol" name="study protocol" id="CM.ethics_statement.78"/>
+ <entry term="verbal consent" name="verbal consent" id="CM.ethics_statement.79"/>
+ <entry term="written consent" name="written consent" id="CM.ethics_statement.80"/>
+ <entry term="written consent form" name="written consent form" id="CM.ethics_statement.81"/>
+ <entry term="written informed consent" name="written informed consent" id="CM.ethics_statement.82"/>
+</dictionary>
