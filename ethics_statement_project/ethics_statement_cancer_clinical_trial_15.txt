@@ -1,0 +1,39 @@
+The institutional ethical committee has approved the study protocol (Protocol version 3.0[June 2020])
+The trial has been prospectively registered in Clinical Trial Registry – India (ICMR- NIMS):
+Reference no. CTRI/2020/07/026791 (registered on 25 July 2020)
+
+The study protocol complies with the Declaration of Helsinki and the Ethics Guidelines for Clinical Research published by the Ministry of Health, Labor, and Welfare, Japan. Patients and the public were not involved in the study design. We obtained approval for this study from the Ethics Committee of Yokohama City University Hospital on December 22, 2016.
+The protocol and informed consent form were approved by the institutional ethics committee at Yokohama City University Hospital. This trial has been registered in the University Hospital Medical Information Network (UMIN) Clinical Trials Registry as UMIN000028259.
+Written informed consent for participation in the study will be obtained from all participating patients. The trial results will be reported in conformity with the Consolidated Standards of Reporting Trials (CONSORT) 2010 guidelines.
+
+This study will be conducted in accordance with the ethical principles that have their origin in the Declaration of Helsinki and that are consistent with the Good Clinical Practice and the applicable regulatory requirements.
+The Clinical Trial Protocol, including the Participant Information Sheet and Consent Form, has been approved by the SingHealth Centralised Institutional Review Board No. 2019/2407 prior to enrolment of any patient into the study.
+Only the study team radiation oncology investigators will be allowed to take inform consent from potential trial participants.
+
+The study protocol and informed consent were approved by the ethics committees of the Center for Disease Control and Prevention (CDC) Jiangsu Province and the Cancer Foundation of China. Before the study-specific procedures, written informed consent was obtained from each participant.
+
+The study protocol V.1.0 was approved by Clinical Research Review Board of Saitama Medical University in September 2019 (No. 192002) and will be approved by each institutional review board of all participating institutions before patient enrolment. This study complies with the latest version of the Declaration of Helsinki, Clinical Trial Act and related notifications. Written informed consent will be obtained from all patients before registration. Personal information will remain confidential, and data will be de-identified using participant numbers.
+
+The experiment was granted through the Research Ethics Committee of Jinan Central Hospital (no.08847765) and recorded in research registry (researchregistry6168). Before the registration, the patients who are recruited receive written informed consent.
+
+The trial will comply with the General Data Protection Regulation. Relevant approval by the Danish Data Protection Agency has been obtained. The trial is exempt from approval by the National Committee on Health Ethics Research (http://en.nvk.dk/how-to-notify/whatto-notify). The trial is registered at ClinicalTrials.gov.
+Participants will be assured that their personal data, data on questionnaires and audio recordings will remain anonymous during analysis and reporting. The participants will be asked to respect the confidentiality of their observations about colleagues’ participation in the CBL session.
+
+This protocol has been approved by the Institutional Review Boards of Kyoto Prefectural University of Medicine and all participating hospitals in August 30, 2019 (Number: CRB5180001). Written informed consent will be obtained from all patients before their registration, which is in accordance with the Declaration of Helsinki. The results of the present study will be disseminated via publication in peer-reviewed journals.
+
+It was approved by the Ethics Committee of People's Hospital of Chengyang District (03982790).
+
+This experiment is implemented as the randomized clinical study which will be conducted from December 2020 to October 2021. After obtained approval from the Ethics Committee of People's Hospital of Chengyang District (03982790), we registered it in research registry (researchregistry6243). This study includes 90 patients with advanced lung cancer. With the use of the random number table, all patients will be assigned the random number, and the distribution results will be hidden in the random envelope. All the patients are randomly assigned to the control and intervention group, each group is assigned 45 patients
+
+
+This clinical trial will be carried out in accordance with the ethical principles of the most recent revision of the Declaration of Helsinki and current legislation. The original and revised versions of the protocol, information sheet and informed consent form have been approved by the clinical research ethics committee (CREC) of University Hospital La Princesa and the Spanish Agency of Medicines and Medical Devices (AEMPS) (approval of the latest version being granted on 28 August 2020, reference number: 17092020_08400, locator: QFSS36Q6C5). For further information, the following link to the public listing of the ethical approval is available: 
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://localizador.aemps.es/localizador/localizador.do" ext-link-type="uri">https://localizador.aemps.es/localizador/localizador.do</ext-link> 
+The researchers certify that this trial has received ethical approval from the appropriate ethical committee as described above. 
+The researchers will be in charge of providing each patient or their legal representative with the patient information sheet and informed consent form. Individuals participating in the trial or their legal representative will be asked to sign and date the informed consent form prior to inclusion in the study, that is, before the performance of any intervention.
+
+Written informed consent is obtained from all patients before enrollment, patients consented with the anonymous use of their data for study purposes. The study has been approved by the Institutional Review Board at the Cancer Hospital of the University of Chinese Academy of Sciences (accepted number: 2019–139), and was undertaken in accordance with the Helsinki declaration and the Chinese Good Clinical Practice Guidelines. Ethics approval will be sought from each participating center prior to the study beginning at the site.
+
+This trial has received ethical approval from the Institutional Review Board at the Nepal Health Research Council (NHRC), Nepal (Reg.no. 43/2019) on 20 February 2019. Written informed consent will be obtained from study participants and FCHVs prior to enrollment.
+
+This trial conformed to the Declaration of Helsinki and was approved by the institutional review boards of the participating institutions.
+
