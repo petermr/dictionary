@@ -6,8 +6,9 @@
   - [3.2. Mini-Corpus #2](#32-mini-corpus-2)
 - [4. `ami` dictionary - Ontology](#4-ami-dictionary---ontology)
 - [5. Updates](#5-updates)
-  - [5.1. Entity Recognition using spaCy (2021-06-06)](#51-entity-recognition-using-spacy-2021-06-06)
-  - [5.2. Ethics Statment Prototype dictionary (2021-06-01)](#52-ethics-statment-prototype-dictionary-2021-06-01)
+  - [5.1. Entity Recognition using spaCy with automatic scraping (2021-06-09)](#51-entity-recognition-using-spacy-with-automatic-scraping-2021-06-09)
+  - [5.2. Entity Recognition using spaCy (2021-06-06)](#52-entity-recognition-using-spacy-2021-06-06)
+  - [5.3. Ethics Statment Prototype dictionary (2021-06-01)](#53-ethics-statment-prototype-dictionary-2021-06-01)
 - [6. Meeting Records](#6-meeting-records)
   - [6.1. 2021-06-03](#61-2021-06-03)
   - [6.2. 2021-05-27](#62-2021-05-27)
@@ -52,11 +53,18 @@ C:\Users\shweata\ethics_statement_corpus_1000\results>amidict -v --dictionary et
 The prototype dictionary is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/results/rake/ethics_statement.xml). 
 
 # 5. Updates
-##  5.1. Entity Recognition using spaCy (2021-06-06)
+## 5.1. Entity Recognition using spaCy with automatic scraping (2021-06-09)
+  I have now created a [new notebook](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/Ethics_statement_project_scraping_txt_file_containing_ethics.ipynb) which,
+-  globs sections of papers in CProject with the word 'ethic' in it.
+-  writes the paragraphs in the globbed section to a `.txt` file.
+-  does Named Entity-Recognition using spaCy
+-  The entities with ORG label retrieves Ethics Committee names. 
+@Daniel and @PMR: There is a lot of noise because I don't have control over which paragraphs I write. The spaCy model isn't accurate either. Any directions would be helpful. 
+##  5.2. Entity Recognition using spaCy (2021-06-06)
 The [notebook I've written](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/Ethics_Statement_Entity_Recognition_spacy.ipynb) does Entity Recognition with which I've been able to pull out names of Ethics Committee. 
 - I manually scraped roughly 20 Ethics_Statements from a corpus on clinical trials and used spaCY for entity recognition. It is still a prototype, and I hope to extend it to a lot more papers. 
 - I have not used any models to do named entity recognition. ML would be useful in this case. 
-## 5.2. Ethics Statment Prototype dictionary (2021-06-01)
+## 5.3. Ethics Statment Prototype dictionary (2021-06-01)
 I have created a prototype dictionary after analysing the Ethics Statement section of Mini-Corpus #1 using [`ami_gui.py`](https://github.com/petermr/openDiagram/blob/master/physchem/python/ami_gui.py). It is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/results/rake/ethics_statement.xml).
 # 6. Meeting Records
 ## 6.1. 2021-06-03
