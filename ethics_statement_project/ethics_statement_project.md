@@ -53,7 +53,7 @@ The prototype dictionary is available, [here](https://github.com/petermr/diction
 
 # 5. Updates
 ##  5.1. Entity Recognition using spaCy (2021-06-06)
-The [notebook I've written](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/Ethics_Statement_Entity_Recognition.ipynb) does Entity Recognition with which I've been able to pull out names of Ethics Committee. 
+The [notebook I've written](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/Ethics_Statement_Entity_Recognition_spacy.ipynb) does Entity Recognition with which I've been able to pull out names of Ethics Committee. 
 - I manually scraped roughly 20 Ethics_Statements from a corpus on clinical trials and used spaCY for entity recognition. It is still a prototype, and I hope to extend it to a lot more papers. 
 - I have not used any models to do named entity recognition. ML would be useful in this case. 
 ## 5.2. Ethics Statment Prototype dictionary (2021-06-01)
@@ -91,6 +91,6 @@ Our next task would be:
 
 # 8. Previous Documentation
 ## 8.1. Intial Exploration
-Exploratory work at the beginning of the project is documented on the Ethics Statement Project Wiki page of this repository
+Exploratory work at the beginning of the project is documented on the [Ethics Statement Project](https://github.com/petermr/dictionary/wiki/Ethics-Statement-Project) Wiki page of this repository
 ## 8.2. Ideas
-You can also look at Daniel's Issue thread which details his previous work on Ethics Statements. 
+You can also look at Daniel's [Issue](https://github.com/Daniel-Mietchen/ideas/issues/499) thread which details his previous work on Ethics Statements. 
