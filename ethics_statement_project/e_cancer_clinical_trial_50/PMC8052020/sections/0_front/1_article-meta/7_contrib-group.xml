@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Rongyun</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shi</surname>
+   <given-names>Yanan</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xie</surname>
+   <given-names>Xiaohong</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ge</surname>
+   <given-names>Qinling</given-names>
+  </name>
+  <degrees>BS</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Jingming</given-names>
+  </name>
+  <degrees>MM</degrees>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sun</surname>
+   <given-names>Qiuhua</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>∗</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Xiaohong</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+</contrib-group>

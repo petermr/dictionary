@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R9">
+ <label>9</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>McGowan</surname>
+    <given-names>J</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Sampson</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Salzwedel</surname>
+    <given-names>DM</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>PRESS Peer Review of Electronic Search Strategies: 2015 Guideline Statement</article-title>. 
+  <source>J Clin Epidemiol</source>
+  <year>2016</year>;
+  <volume>75</volume>:
+  <fpage>40</fpage>–
+  <lpage>6</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.jclinepi.2016.01.021</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/27005575?>
+  <pub-id pub-id-type="pmid">27005575</pub-id>
+ </mixed-citation>
+</ref>

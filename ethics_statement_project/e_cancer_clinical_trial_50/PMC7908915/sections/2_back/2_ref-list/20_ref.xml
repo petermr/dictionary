@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R20">
+ <label>20</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Kim</surname>
+    <given-names>M-Y</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Oskarsson</surname>
+    <given-names>T</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Acharyya</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Tumor self-seeding by circulating cancer cells</article-title>. 
+  <source>Cell</source>
+  <year>2009</year>;
+  <volume>139</volume>:
+  <fpage>1315</fpage>–
+  <lpage>26</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.cell.2009.11.025</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/20064377?>
+  <pub-id pub-id-type="pmid">20064377</pub-id>
+ </mixed-citation>
+</ref>

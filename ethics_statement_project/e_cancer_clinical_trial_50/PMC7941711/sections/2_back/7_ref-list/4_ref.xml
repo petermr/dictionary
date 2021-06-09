@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bai</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Song</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Cui</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Neoadjuvant and adjuvant immunotherapy: opening new horizons for patients with early-stage non-small cell lung Cancer</article-title>
+  <source>Front Oncol</source>
+  <year>2020</year>
+  <volume>10</volume>
+  <fpage>1</fpage>
+  <lpage>10</lpage>
+  <pub-id pub-id-type="doi">10.3389/fonc.2020.00001</pub-id>
+  <pub-id pub-id-type="pmid">32076595</pub-id>
+ </element-citation>
+</ref>

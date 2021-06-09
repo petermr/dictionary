@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Board illustration</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <tbody>
+   <tr>
+    <td>
+     <p>Important facts:</p>
+     <p>This we know</p>
+    </td>
+    <td>
+     <p>Problems:</p>
+     <p>This we are not satisfied with</p>
+    </td>
+    <td>Possible explanations:</td>
+    <td>Additional information required:</td>
+    <td>Suggestions for procedures, treatment, etc.:</td>
+    <td>Study questions:</td>
+   </tr>
+   <tr>
+    <td/>
+    <td/>
+    <td>Prognosis if nothing is done:</td>
+    <td/>
+    <td>Anticipated effect of measures and procedures:</td>
+    <td/>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

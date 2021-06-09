@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR36">
+ <label>36.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McClure</surname>
+    <given-names>NS</given-names>
+   </name>
+   <name>
+    <surname>Sayah</surname>
+    <given-names>FA</given-names>
+   </name>
+   <name>
+    <surname>Xie</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Instrument-defined estimates of the minimally important difference for EQ-5D-5L index scores</article-title>
+  <source>Value Health</source>
+  <year>2017</year>
+  <volume>20</volume>
+  <issue>4</issue>
+  <fpage>644</fpage>
+  <lpage>650</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jval.2016.11.015</pub-id>
+  <?supplied-pmid 28408007?>
+  <pub-id pub-id-type="pmid">28408007</pub-id>
+ </element-citation>
+</ref>

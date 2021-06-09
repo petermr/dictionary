@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R3">
+ <label>3</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Abraham</surname>
+    <given-names>NE</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Mendhiratta</surname>
+    <given-names>N</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Taneja</surname>
+    <given-names>SS</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Patterns of repeat prostate biopsy in contemporary clinical practice</article-title>. 
+  <source>J Urol</source>
+  <year>2015</year>;
+  <volume>193</volume>:
+  <fpage>1178</fpage>–
+  <lpage>84</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.juro.2014.10.084</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/25444971?>
+  <pub-id pub-id-type="pmid">25444971</pub-id>
+ </mixed-citation>
+</ref>

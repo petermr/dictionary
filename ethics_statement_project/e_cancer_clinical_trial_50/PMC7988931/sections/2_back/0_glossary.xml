@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>HCC</term>
+   <def>
+    <p id="Par5">Hepatocellular carcinoma</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LR</term>
+   <def>
+    <p id="Par6">Liver resection</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ORR</term>
+   <def>
+    <p id="Par7">Objective response rate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BCLC</term>
+   <def>
+    <p id="Par8">Barcelona clinic liver cancer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TACE</term>
+   <def>
+    <p id="Par9">Trans-arterial chemoembolization</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PD-1</term>
+   <def>
+    <p id="Par10">Programmed death-1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PD-L1</term>
+   <def>
+    <p id="Par11">Programmed death-ligand 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CTLA-4</term>
+   <def>
+    <p id="Par12">Cytotoxic T-lymphocyte-associated protein 4</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PFS</term>
+   <def>
+    <p id="Par13">Progression free survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OS</term>
+   <def>
+    <p id="Par14">Overall survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TRAEs</term>
+   <def>
+    <p id="Par15">Treatment related adverse events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NSCLC</term>
+   <def>
+    <p id="Par16">Non-small cell lung cancer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>US</term>
+   <def>
+    <p id="Par17">United States</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EU</term>
+   <def>
+    <p id="Par18">European union</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AASLD</term>
+   <def>
+    <p id="Par19">American association for the study of the liver</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IDSMC</term>
+   <def>
+    <p id="Par20">Independent safety data monitoring committee</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FU1</term>
+   <def>
+    <p id="Par21">Follow-up visit 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FU2</term>
+   <def>
+    <p id="Par22">Follow-up visit 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par23">Computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MRI</term>
+   <def>
+    <p id="Par24">Magnetic resonance imaging</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SPIRIT</term>
+   <def>
+    <p id="Par25">Standard protocol items: recommendations for interventional trials</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IMP</term>
+   <def>
+    <p id="Par26">Investigational medicinal product</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NCI CTCAE</term>
+   <def>
+    <p id="Par27">National cancer institute common terminology criteria for adverse events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IrAEs</term>
+   <def>
+    <p id="Par28">Immune-related adverse events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ITT</term>
+   <def>
+    <p id="Par29">Intent to treat</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

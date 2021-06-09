@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par112">Patients will be followed at 3 monthly intervals. At each visit, the investigator will assess the patient for the following: 
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par113">ECOG Performance status.</p>
+  </list-item>
+  <list-item>
+   <p id="Par114">Tumour Evaluation: 
+    <list list-type="bullet">
+     <list-item>
+      <p id="Par115">◦ CT Chest, Abdomen and Pelvis OR FDG PET/CT (Investigator to keep imaging consistent for each patient).</p>
+     </list-item>
+     <list-item>
+      <p id="Par116">◦ For patients who have had a bone scan showing progressive disease without CT changes, FDG PET/CT is recommended to confirm progression.</p>
+     </list-item>
+     <list-item>
+      <p id="Par117">◦ High contrast CT or MRI brain (if clinically indicated).</p>
+     </list-item>
+     <list-item>
+      <p id="Par118">◦ MRI spine (if clinically indicated).</p>
+     </list-item>
+    </list>
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par119">Treatment related toxicity assessment as per NCI CTCAE v5.0</p>
+  </list-item>
+ </list>
+</p>

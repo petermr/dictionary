@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <title>Abstract</title>
+ <sec sec-type="background">
+  <title>Background:</title>
+  <p>Lung cancer screening in high-risk population increases the proportion of patients diagnosed at a resectable stage.</p>
+ </sec>
+ <sec>
+  <title>Aims:</title>
+  <p>To optimize the selection criteria and quality indicators for lung cancer screening by low-dose CT (LDCT) in the Czech population of high-risk individuals. To compare the influence of screening on the stage of lung cancer at the time of the diagnosis with the stage distribution in an unscreened population. To estimate the impact on life-years lost according to the stage-specific cancer survival and stage distribution in the screened population. To calculate the cost-effectiveness of the screening program.</p>
+ </sec>
+ <sec sec-type="methods">
+  <title>Methods:</title>
+  <p>Based on the evidence from large national trials - the National Lung Screening Trial in the USA (NLST), the NELSON study, the recent recommendations of the Fleischner society, the American College of Radiology, and I-ELCAP action group, we developed a protocol for a single-arm prospective study in the Czech Republic for the screening of high-risk asymptomatic individuals. The study commenced in August 2020.</p>
+ </sec>
+ <sec sec-type="results">
+  <title>Results:</title>
+  <p>The inclusion criteria are: age 55 to 74 years; smoking: ≥30 pack-years; smoker or ex-smoker &lt;15 years; performance status (0–1). The screening timepoints are at baseline and 1 year. The LDCT acquisition has a target CTDIvol ≤0.5mGy and effective dose ≤0.2mSv for a standard-size patient. The interpretation of findings is primarily based on nodule volumetry, volume doubling time (and related risk of malignancy). The management includes follow-up LDCT, contrast enhanced CT, PET/CT, tissue sampling. The primary outcome is the number of cancers detected at a resectable stage, secondary outcomes include the average cost per diagnosis of lung cancer, the number, cost, complications of secondary examinations, and the number of potentially important secondary findings.</p>
+ </sec>
+ <sec sec-type="conclusion">
+  <title>Conclusions:</title>
+  <p>A study protocol for early detection of lung cancer in Czech high-risk asymptomatic individuals (ELEGANCE) study using LDCT has been described.</p>
+ </sec>
+</abstract>

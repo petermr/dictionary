@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R4">
+ <label>4</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>van der Sluis</surname>
+    <given-names>PC</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>van der Horst</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>May</surname>
+    <given-names>AM</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Robot-Assisted minimally invasive Thoracolaparoscopic esophagectomy versus open transthoracic esophagectomy for resectable esophageal cancer: a randomized controlled trial</article-title>. 
+  <source>Ann Surg</source>
+  <year>2019</year>;
+  <volume>269</volume>:
+  <fpage>621</fpage>–
+  <lpage>30</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/SLA.0000000000003031</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30308612?>
+  <pub-id pub-id-type="pmid">30308612</pub-id>
+ </mixed-citation>
+</ref>

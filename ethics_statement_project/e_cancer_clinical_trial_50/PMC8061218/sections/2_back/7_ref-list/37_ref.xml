@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dornfeld</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Simmons</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Karnell</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Karnell</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Funk</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Yao</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Wacha</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Zimmerman</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Buatti</surname>
+    <given-names>JM</given-names>
+   </name>
+  </person-group>
+  <article-title>Radiation doses to structures within and adjacent to the larynx are correlated with long-term diet- and speech-related quality of life</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>2007</year>
+  <volume>68</volume>
+  <issue>3</issue>
+  <fpage>750</fpage>
+  <lpage>757</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2007.01.047</pub-id>
+  <?supplied-pmid 17418971?>
+  <pub-id pub-id-type="pmid">17418971</pub-id>
+ </element-citation>
+</ref>

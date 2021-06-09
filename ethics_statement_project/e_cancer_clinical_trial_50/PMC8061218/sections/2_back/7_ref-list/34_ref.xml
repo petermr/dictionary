@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <label>34.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sjogren</surname>
+    <given-names>EV</given-names>
+   </name>
+   <name>
+    <surname>van Rossum</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Langeveld</surname>
+    <given-names>TP</given-names>
+   </name>
+   <name>
+    <surname>Voerman</surname>
+    <given-names>MS</given-names>
+   </name>
+   <name>
+    <surname>van de Kamp</surname>
+    <given-names>VA</given-names>
+   </name>
+   <name>
+    <surname>Friebel</surname>
+    <given-names>MO</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Voice outcome in T1a midcord glottic carcinoma: laser surgery vs radiotherapy</article-title>
+  <source>Arch Otolaryngol Head Neck Surg</source>
+  <year>2008</year>
+  <volume>134</volume>
+  <issue>9</issue>
+  <fpage>965</fpage>
+  <lpage>972</lpage>
+  <pub-id pub-id-type="doi">10.1001/archotol.134.9.965</pub-id>
+  <?supplied-pmid 18794442?>
+  <pub-id pub-id-type="pmid">18794442</pub-id>
+ </element-citation>
+</ref>

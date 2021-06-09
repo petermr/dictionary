@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Benamouzig</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Uzzan</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Deyra</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Martin</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Girard</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Little</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Prevention by daily soluble aspirin of colorectal adenoma recurrence: 4-year results of the APACC randomised trial</article-title>
+  <source>Gut.</source>
+  <year>2012</year>
+  <volume>61</volume>
+  <issue>2</issue>
+  <fpage>255</fpage>
+  <lpage>261</lpage>
+  <pub-id pub-id-type="doi">10.1136/gutjnl-2011-300113</pub-id>
+  <pub-id pub-id-type="pmid">21890814</pub-id>
+ </element-citation>
+</ref>

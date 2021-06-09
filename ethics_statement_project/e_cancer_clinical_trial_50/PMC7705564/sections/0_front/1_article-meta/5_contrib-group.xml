@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="author-66953834" contrib-type="author">
+  <name>
+   <surname>Sakamaki</surname>
+   <given-names>Kentaro</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-79106626" contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8898-0370</contrib-id>
+  <name>
+   <surname>Watanabe</surname>
+   <given-names>Katsuya</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-79108685" contrib-type="author">
+  <name>
+   <surname>Woo</surname>
+   <given-names>Tetsukan</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+ <contrib id="author-79108618" contrib-type="author">
+  <name>
+   <surname>Masuda</surname>
+   <given-names>Munetaka</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">4</xref>
+ </contrib>
+</contrib-group>

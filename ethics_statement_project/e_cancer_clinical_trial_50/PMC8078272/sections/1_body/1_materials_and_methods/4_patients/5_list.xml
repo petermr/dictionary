@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="simple">
+ <list-item>
+  <label>1)</label>
+  <p>patients with unstable vital signs;</p>
+ </list-item>
+ <list-item>
+  <label>2)</label>
+  <p>patients with severe stress state, intractable vomiting, and severe diarrhea;</p>
+ </list-item>
+ <list-item>
+  <label>3)</label>
+  <p>patients with severe malabsorption syndrome;</p>
+ </list-item>
+ <list-item>
+  <label>4)</label>
+  <p>patients with mental or consciousness disorders that could not communicate;</p>
+ </list-item>
+ <list-item>
+  <label>5)</label>
+  <p>unable to understand the study plan or unwilling participants after explanation.</p>
+ </list-item>
+</list>

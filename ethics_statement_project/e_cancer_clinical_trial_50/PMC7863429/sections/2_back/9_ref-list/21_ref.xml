@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Costa</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Demers</surname>
+    <given-names>LM</given-names>
+   </name>
+   <name>
+    <surname>Gouveia-Oliveira</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Schaller</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Costa</surname>
+    <given-names>EB</given-names>
+   </name>
+   <name>
+    <surname>de Moura</surname>
+    <given-names>MC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Prospective evaluation of the peptide-bound collagen type I cross-links N-telopeptide and C-telopeptide in predicting bone metastases status</article-title>
+  <source>J Clin Oncol Off J Am Soc Clin Oncol</source>
+  <year>2002</year>
+  <volume>20</volume>
+  <issue>3</issue>
+  <fpage>850</fpage>
+  <lpage>856</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2002.20.3.850</pub-id>
+ </element-citation>
+</ref>

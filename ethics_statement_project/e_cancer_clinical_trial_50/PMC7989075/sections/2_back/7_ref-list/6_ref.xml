@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Versteijne</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Vogel</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Besselink</surname>
+    <given-names>MG</given-names>
+   </name>
+   <name>
+    <surname>Busch</surname>
+    <given-names>ORC</given-names>
+   </name>
+   <name>
+    <surname>Wilmink</surname>
+    <given-names>JW</given-names>
+   </name>
+   <name>
+    <surname>Daams</surname>
+    <given-names>JG</given-names>
+   </name>
+   <name>
+    <surname>van Eijck</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Groot Koerkamp</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Rasch</surname>
+    <given-names>CRN</given-names>
+   </name>
+   <name>
+    <surname>van Tienhoven</surname>
+    <given-names>G</given-names>
+   </name>
+   <collab>Dutch Pancreatic Cancer Group</collab>
+  </person-group>
+  <article-title>Meta-analysis comparing upfront surgery with neoadjuvant treatment in patients with resectable or borderline resectable pancreatic cancer</article-title>
+  <source>Br J Surg</source>
+  <year>2018</year>
+  <volume>105</volume>
+  <issue>8</issue>
+  <fpage>946</fpage>
+  <lpage>958</lpage>
+  <pub-id pub-id-type="doi">10.1002/bjs.10870</pub-id>
+  <?supplied-pmid 29708592?>
+  <pub-id pub-id-type="pmid">29708592</pub-id>
+ </element-citation>
+</ref>

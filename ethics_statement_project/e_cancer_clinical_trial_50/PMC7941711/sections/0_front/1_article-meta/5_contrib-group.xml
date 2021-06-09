@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8419-1478</contrib-id>
+  <name>
+   <surname>Tsuchiya</surname>
+   <given-names>Tomoshi</given-names>
+  </name>
+  <address>
+   <email>tomoshi@nagasaki-u.ac.jp</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Matsumoto</surname>
+   <given-names>Keitaro</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Miyazaki</surname>
+   <given-names>Takuro</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Doi</surname>
+   <given-names>Ryoichiro</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tokunaga</surname>
+   <given-names>Shoji</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yamaguchi</surname>
+   <given-names>Hiroyuki</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tomoshige</surname>
+   <given-names>Koichi</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Watanabe</surname>
+   <given-names>Hironosuke</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nagayasu</surname>
+   <given-names>Takeshi</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sugio</surname>
+   <given-names>Kenji</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.174567.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 8902 2273</institution-id>
+   <institution>Department of Surgical Oncology, </institution>
+   <institution>Nagasaki University Graduate School of Biomedical Sciences, </institution>
+  </institution-wrap>1-7-1 Sakamoto, Nagasaki City, 852-8501 Japan 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.411248.a</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0404 8415</institution-id>
+   <institution>Medical Information Center, </institution>
+   <institution>Kyushu University Hospital, </institution>
+  </institution-wrap>Kyushu, Japan 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.411873.8</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0616 1585</institution-id>
+   <institution>Second department of Internal medicine, </institution>
+   <institution>Nagasaki University Hospital, </institution>
+  </institution-wrap>Nagasaki, Japan 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.412334.3</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0665 3553</institution-id>
+   <institution>Department of Thoracic and Breast Surgery, </institution>
+   <institution>Oita University, </institution>
+  </institution-wrap>Oita, Japan 
+ </aff>
+</contrib-group>

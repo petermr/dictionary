@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R28">
+ <label>28</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Postow</surname>
+    <given-names>MA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Callahan</surname>
+    <given-names>MK</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Barker</surname>
+    <given-names>CA</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Immunologic correlates of the abscopal effect in a patient with melanoma</article-title>. 
+  <source>N Engl J Med</source>
+  <year>2012</year>;
+  <volume>366</volume>:
+  <fpage>925</fpage>–
+  <lpage>31</lpage>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1112824</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/22397654?>
+  <pub-id pub-id-type="pmid">22397654</pub-id>
+ </mixed-citation>
+</ref>

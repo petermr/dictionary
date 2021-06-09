@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R56">
+ <label>56</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Ost</surname>
+    <given-names>P</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Reynders</surname>
+    <given-names>D</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Decaestecker</surname>
+    <given-names>K</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Surveillance or metastasis-directed therapy for oligometastatic prostate cancer recurrence: a prospective, randomized, multicenter phase II trial</article-title>. 
+  <source>J Clin Oncol</source>
+  <year>2018</year>;
+  <volume>36</volume>:
+  <fpage>446</fpage>–
+  <lpage>53</lpage>. 
+  <pub-id pub-id-type="doi">10.1200/JCO.2017.75.4853</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/29240541?>
+  <pub-id pub-id-type="pmid">29240541</pub-id>
+ </mixed-citation>
+</ref>

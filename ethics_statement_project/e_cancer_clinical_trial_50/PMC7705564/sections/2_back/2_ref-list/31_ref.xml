@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R31">
+ <label>31</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Forget</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Vandenhende</surname>
+    <given-names>J</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Berliere</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Do intraoperative analgesics influence breast cancer recurrence after mastectomy? A retrospective analysis</article-title>. 
+  <source>Anesth Analg</source>
+  <year>2010</year>;
+  <volume>110</volume>:
+  <fpage>1630</fpage>–
+  <lpage>5</lpage>. 
+  <pub-id pub-id-type="doi">10.1213/ANE.0b013e3181d2ad07</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/20435950?>
+  <pub-id pub-id-type="pmid">20435950</pub-id>
+ </mixed-citation>
+</ref>

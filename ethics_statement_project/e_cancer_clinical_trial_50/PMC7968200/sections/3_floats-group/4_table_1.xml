@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Baseline Characteristics of included Patients (total 44 patients)</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left"/>
+    <th align="left">Control Group
+     <break/>(
+     <italic>n</italic> = 14)
+    </th>
+    <th align="left">Test Group 1
+     <break/>(
+     <italic>n</italic> = 15)
+    </th>
+    <th align="left">Test Group 2
+     <break/>(
+     <italic>n</italic> = 15)
+    </th>
+    <th align="left">
+     <italic>p-value</italic>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" colspan="5">Age(yr)</td>
+   </tr>
+   <tr>
+    <td align="left">&lt;30</td>
+    <td align="left">0 (0.0%)</td>
+    <td align="left">0 (0.0%)</td>
+    <td align="left">3 (20.0%)</td>
+    <td align="left">
+     <italic>0.143</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">30≤ &lt;40</td>
+    <td align="left">1 (7.1%)</td>
+    <td align="left">2 (13.3%)</td>
+    <td align="left">1 (6.7%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">40≤ &lt;50</td>
+    <td align="left">5 (35.7%)</td>
+    <td align="left">9 (60.0%)</td>
+    <td align="left">7 (46.7%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">50≤</td>
+    <td align="left">8 (57.1%)</td>
+    <td align="left">4 (26.7%)</td>
+    <td align="left">4 (26.7%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">mean(range,yr)</td>
+    <td align="left">52.2(39-68)</td>
+    <td align="left">47.4(37-57)</td>
+    <td align="left">442.(26-76)</td>
+    <td align="left">
+     <italic>0.112</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">Pathology</td>
+   </tr>
+   <tr>
+    <td align="left">Fibroadenoma</td>
+    <td align="left">4 (28.6%)</td>
+    <td align="left">6 (40.0%)</td>
+    <td align="left">7 (46.7%)</td>
+    <td align="left">
+     <italic>0.384</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Phyllodes tumor</td>
+    <td align="left">0 (0.0%)</td>
+    <td align="left">1 (6.7%)</td>
+    <td align="left">1 (6.7%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">Atypical ductal hyperplasia</td>
+    <td align="left">4 (28.6%)</td>
+    <td align="left">0 (0.0%)</td>
+    <td align="left">0 (0.0%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">Intraductal papilloma</td>
+    <td align="left">2 (14.3%)</td>
+    <td align="left">3 (20.0%)</td>
+    <td align="left">4 (26.7%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">Malignancy</td>
+    <td align="left">1 (7.1%)</td>
+    <td align="left">2 (13.3%)</td>
+    <td align="left">2 (13.2%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">Others</td>
+    <td align="left">3 (21.4%)</td>
+    <td align="left">3 (20.0%)</td>
+    <td align="left">1 (6.7%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">the longest length on pre OP-US (cm)</td>
+   </tr>
+   <tr>
+    <td align="left">&lt;1</td>
+    <td align="left">8 (57.1%)</td>
+    <td align="left">5 (33.3%)</td>
+    <td align="left">7 (46.7%)</td>
+    <td align="left">
+     <italic>0.500</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">1≤ &lt;2</td>
+    <td align="left">5 (35.7%)</td>
+    <td align="left">9 (60.0%)</td>
+    <td align="left">6 (40.0%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">2≤</td>
+    <td align="left">1 (7.1%)</td>
+    <td align="left">1 (6.7%)</td>
+    <td align="left">2 (13.3%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">mean(range,cm)</td>
+    <td align="left">1.0(0.4-2.7)</td>
+    <td align="left">1.2(0.6-2.8)</td>
+    <td align="left">1.3(0.6-2.7)</td>
+    <td align="left">
+     <italic>0.379</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">the longest length of excised specimen (cm)</td>
+   </tr>
+   <tr>
+    <td align="left">&lt;1</td>
+    <td align="left">0 (0.0%)</td>
+    <td align="left">1 (6.7%)</td>
+    <td align="left">1 (6.7%)</td>
+    <td align="left">
+     <italic>0.253</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">1≤ &lt;2</td>
+    <td align="left">1 (7.1%)</td>
+    <td align="left">3 (20.0%)</td>
+    <td align="left">2 (13.3%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">2≤ &lt;3</td>
+    <td align="left">6 (42.9%)</td>
+    <td align="left">7 (46.7%)</td>
+    <td align="left">7 (46.7%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">3≤ &lt;4</td>
+    <td align="left">5 (35.7%)</td>
+    <td align="left">1 (6.7%)</td>
+    <td align="left">4 (26.7%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">4≤</td>
+    <td align="left">2 (14.3%)</td>
+    <td align="left">3 (20.0%)</td>
+    <td align="left">1 (6.7%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">mean(range,cm)</td>
+    <td align="left">3.0(1.5-8.0)</td>
+    <td align="left">2.4(0.8-4.0)</td>
+    <td align="left">2.5(0.6-6.2)</td>
+    <td align="left">
+     <italic>0.247</italic>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>yr.</italic> year, 
+   <italic>OP</italic> operation, 
+   <italic>US</italic> ultra sound
+  </p>
+ </table-wrap-foot>
+</table-wrap>

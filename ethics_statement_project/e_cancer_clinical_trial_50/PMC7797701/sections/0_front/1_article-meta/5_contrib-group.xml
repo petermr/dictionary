@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2769-0676</contrib-id>
+  <name>
+   <surname>Les Bujanda</surname>
+   <given-names>Iñigo</given-names>
+  </name>
+  <address>
+   <email>ilesbujanda@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Loureiro-Amigo</surname>
+   <given-names>Jose</given-names>
+  </name>
+  <address>
+   <email>ahores@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bastons</surname>
+   <given-names>Ferran Capdevila</given-names>
+  </name>
+  <address>
+   <email>ferran.capdevila.bastons@navarra.es</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Guerra</surname>
+   <given-names>Iñaki Elejalde</given-names>
+  </name>
+  <address>
+   <email>ji.elejalde.guerra@navarra.es</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sánchez</surname>
+   <given-names>Javier Anniccherico</given-names>
+  </name>
+  <address>
+   <email>javier.anniccherico.sanchez@navarra.es</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Murgadella-Sancho</surname>
+   <given-names>Anna</given-names>
+  </name>
+  <address>
+   <email>anna.murgadella@sanitatintegral.org</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rey</surname>
+   <given-names>Ruth García</given-names>
+  </name>
+  <address>
+   <email>ruth.garcia.rey@navarra.es</email>
+  </address>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>López</surname>
+   <given-names>Julián Librero</given-names>
+  </name>
+  <address>
+   <email>julian.librero.lopez@navarra.es</email>
+  </address>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Álvarez</surname>
+   <given-names>Julio Sánchez</given-names>
+  </name>
+  <address>
+   <email>julio.sanchez.alvarez@navarra.es</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.497559.3</institution-id>
+   <institution>Internal Medicine Department, </institution>
+   <institution>Complejo Hospitalario de Navarra, </institution>
+  </institution-wrap>Pamplona, Spain 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>Internal Medicine Department, Hospital Moisès Broggi, Consorci Sanitari Integral, Sant Joan Despí, Barcelona, Spain 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.497559.3</institution-id>
+   <institution>Hospital Pharmacy Department, </institution>
+   <institution>Complejo Hospitalario de Navarra, </institution>
+  </institution-wrap>Pamplona, Spain 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>Hospital Pharmacy Department, Hospital Moisès Broggi, Consorci Sanitari Integral, Sant Joan Despí, Barcelona, Spain 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.410476.0</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2174 6440</institution-id>
+   <institution>Clinical Trials Platform, Navarrabiomed, Complejo Hospitalario de Navarra, </institution>
+   <institution>Universidad Pública de Navarra, Instituto de Investigación Sanitaria de Navarra, </institution>
+  </institution-wrap>Pamplona, Spain 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.410476.0</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2174 6440</institution-id>
+   <institution>Methodology Unit, Navarrabiomed, Complejo Hospitalario de Navarra, </institution>
+   <institution>Universidad Pública de Navarra, Instituto de Investigación Sanitaria de Navarra, </institution>
+  </institution-wrap>Pamplona, Spain 
+ </aff>
+</contrib-group>

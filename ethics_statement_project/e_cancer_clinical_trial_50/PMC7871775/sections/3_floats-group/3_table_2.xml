@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl0002">
+ <label>Table 2</label>
+ <caption>
+  <p>PREVENT-HD inclusion/exclusion criteria</p>
+ </caption>
+ <alt-text id="alt0006">Table II</alt-text>
+ <table frame="hsides" rules="groups">
+  <tbody>
+   <tr>
+    <td valign="top">
+     <bold>Inclusion criteria</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top">1. Male or female (according to their reproductive organs and functions assigned by chromosomal complement)</td>
+   </tr>
+   <tr>
+    <td valign="top">2. 18 years of age or older</td>
+   </tr>
+   <tr>
+    <td valign="top">3. COVID-19 positive diagnosis by locally obtained viral diagnostic test (eg, PCR). This may be nasal swab or saliva test or other available technology to demonstrate current infection. (Note: this is not an antibody test or serology test that just indicate prior exposure to the disease. In the case of multiple positive COVID-19 PCR tests, only the date of the first test may be used).</td>
+   </tr>
+   <tr>
+    <td valign="top">4. Confirm that participant is known to health system, with at least 1 contact in EMR prior to screening</td>
+   </tr>
+   <tr>
+    <td valign="top">5. Symptoms attributable to COVID-19 (eg, fever, cough, loss of taste or smell, muscle aches, shortness of breath, and fatigue)</td>
+   </tr>
+   <tr>
+    <td valign="top">6. Initial treatment plan does not include hospitalization</td>
+   </tr>
+   <tr>
+    <td valign="top">7. Presence of at least 1 additional risk factor:</td>
+   </tr>
+   <tr>
+    <td valign="top"> i. Age ≥60 years</td>
+   </tr>
+   <tr>
+    <td valign="top"> ii. Prior history of venous thromboembolism (VTE)</td>
+   </tr>
+   <tr>
+    <td valign="top"> iii. History of thrombophilia</td>
+   </tr>
+   <tr>
+    <td valign="top"> iv. History of coronary artery disease (CAD)</td>
+   </tr>
+   <tr>
+    <td valign="top"> v. History of peripheral artery disease (PAD)</td>
+   </tr>
+   <tr>
+    <td valign="top"> vi. History of cerebrovascular disease or ischemic stroke</td>
+   </tr>
+   <tr>
+    <td valign="top"> vii. History of cancer (other than basal cell carcinoma)</td>
+   </tr>
+   <tr>
+    <td valign="top"> viii. History of diabetes requiring medication</td>
+   </tr>
+   <tr>
+    <td valign="top"> ix. History of heart failure</td>
+   </tr>
+   <tr>
+    <td valign="top"> x. Body mass index ≥35 kg/m
+     <sup>2</sup>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top"> xi. D-dimer &gt; upper limit of normal for local laboratory (within 2 weeks of the date of the COVID-19 test and prior to randomization)</td>
+   </tr>
+   <tr>
+    <td valign="top">8. Must provide consent via eConsent indicating that he or she understands the purpose of, and procedures required for, the study and is willing to participate in the study, including follow up</td>
+   </tr>
+   <tr>
+    <td valign="top">9. Willing and able to adhere to the lifestyle restrictions specified in the protocol  </td>
+   </tr>
+   <tr>
+    <td valign="top">
+     <bold>Exclusion criteria</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top">1. Increased risk of bleeding such as i) significant bleeding in the last 3 months, ii) active gastroduodenal ulcer in the last 3 months, iii) history of bronchiectasis or pulmonary cavitation, iv) need for dual antiplatelet therapy or anticoagulation, v) prior intracranial hemorrhage, vi) known severe thrombocytopenia (platelet count &lt;50 × 109/L), or vii) active cancer and undergoing treatment</td>
+   </tr>
+   <tr>
+    <td valign="top">2. Any illness or condition that in the opinion of the investigator would significantly increase the risk of bleeding (eg, recent trauma, recent surgery, severe uncontrolled hypertension, gastrointestinal cancer, renal failure requiring dialysis, severe liver disease, known bleeding diathesis)</td>
+   </tr>
+   <tr>
+    <td valign="top">3. Known allergies, hypersensitivity, or intolerance to rivaroxaban or its excipients</td>
+   </tr>
+   <tr>
+    <td valign="top">4. Positive COVID-19 antibody or serology test after 2-week period of acute, symptomatic COVID-19 infection</td>
+   </tr>
+   <tr>
+    <td valign="top">5. Known diagnosis of triple positive (ie, positive for lupus anticoagulant, anticardiolipin, and anti-beta 2-glycoprotein I antibodies) antiphospholipid syndrome</td>
+   </tr>
+   <tr>
+    <td valign="top">6. Recently taken, or required to take, any disallowed therapies as noted in the protocol (Disallowed Concomitant Therapy) before the planned first dose of study intervention or required during the study. For example, the need for the use of strong cytochrome P450 (CYP) 3A4 inhibitor or inducer per local prescribing information</td>
+   </tr>
+   <tr>
+    <td valign="top">7. Received an investigational intervention (including investigational vaccines) or used an invasive investigational medical device within 30 days before the planned first dose of study intervention or is currently enrolled in an experimental, investigational study (Note: participation in an observational registry is allowed)</td>
+   </tr>
+   <tr>
+    <td valign="top">8. Women who are pregnant or breastfeeding and women of childbearing potential without proper contraceptive measures</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

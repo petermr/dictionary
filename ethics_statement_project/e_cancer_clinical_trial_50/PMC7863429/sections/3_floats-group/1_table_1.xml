@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Timeline and follow up of the study</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="2"/>
+    <th rowspan="2">Screening</th>
+    <th rowspan="2">Randomization</th>
+    <th rowspan="2">Treatment</th>
+    <th colspan="5">Follow up</th>
+   </tr>
+   <tr>
+    <th>M3</th>
+    <th>M6</th>
+    <th>Y1</th>
+    <th>Y2</th>
+    <th>Y3</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>
+     <bold>History &amp; physical</bold>
+    </td>
+    <td>X</td>
+    <td rowspan="13"/>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>
+     <bold>Brain CT or MRI</bold>
+    </td>
+    <td>X</td>
+    <td/>
+    <td/>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>
+     <bold>TAP CT</bold>
+    </td>
+    <td>X</td>
+    <td/>
+    <td/>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>
+     <bold>FDG PET or F-Choline PET</bold>
+    </td>
+    <td>X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td>X</td>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>
+     <bold>PET or SPECT-CT</bold>
+    </td>
+    <td>X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td>X</td>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>
+     <bold>Spinal MRI (if spinal bone metastases)</bold>
+    </td>
+    <td>X</td>
+    <td/>
+    <td/>
+    <td>X</td>
+    <td>X</td>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>
+     <bold>Mammography (breast cancer)</bold>
+    </td>
+    <td>X</td>
+    <td/>
+    <td/>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>
+     <bold>Histological confirmation</bold>
+    </td>
+    <td>X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>
+     <bold>Quality of Life</bold>
+    </td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>
+     <bold>Toxicity Assessment</bold>
+    </td>
+    <td/>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>
+     <bold>Pain Assessment</bold>
+    </td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>
+     <bold>Economic Study</bold>
+    </td>
+    <td/>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>
+     <bold>sCTX/ bALP Evaluation</bold>
+    </td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td/>
+    <td/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>MRI</italic> Magnetic Resonance Imaging; 
+   <italic>TAP-CT</italic> Computed tomography thorax-abdomen-pelvis; 
+   <italic>FDG-PET</italic> Fluorodesoxyglucose-Positron Emission Tomography; 
+   <italic>F-Choline-PET</italic> Fluor-Choline-Positron Emission Tomography; 
+   <italic>PET</italic> Positron Emission Tomography; 
+   <italic>SPECT-CT</italic> Single Photon Emission Tomography-Computed Tomography; 
+   <italic>sCTX</italic> serum C-Telopeptide cross-link of type 1 collagen; 
+   <italic>bALP</italic> bone ALkaline Phosphatase
+  </p>
+ </table-wrap-foot>
+</table-wrap>

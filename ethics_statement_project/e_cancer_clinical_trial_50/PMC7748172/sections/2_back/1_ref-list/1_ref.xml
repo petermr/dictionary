@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>[1]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gouvinhas</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>De Mello</surname>
+    <given-names>RA</given-names>
+   </name>
+   <name>
+    <surname>Oliveira</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Lung cancer: a brief review of epidemiology and screening</article-title>. 
+  <source>Future Oncol</source>
+  <year>2018</year>;
+  <volume>14</volume>:
+  <fpage>567</fpage>–
+  <lpage>75</lpage>.
+  <pub-id pub-id-type="pmid">29417838</pub-id>
+ </mixed-citation>
+</ref>

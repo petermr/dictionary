@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR33">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wahl</surname>
+    <given-names>RL</given-names>
+   </name>
+   <name>
+    <surname>Jacene</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Kasamon</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Lodge</surname>
+    <given-names>MA</given-names>
+   </name>
+  </person-group>
+  <article-title>From RECIST to PERCIST: evolving considerations for PET response criteria in solid tumors</article-title>
+  <source>J Nucl Med</source>
+  <year>2009</year>
+  <volume>50</volume>
+  <issue>Suppl 1</issue>
+  <fpage>122S</fpage>
+  <lpage>150S</lpage>
+  <pub-id pub-id-type="doi">10.2967/jnumed.108.057307</pub-id>
+  <?supplied-pmid 19403881?>
+  <pub-id pub-id-type="pmid">19403881</pub-id>
+ </element-citation>
+</ref>

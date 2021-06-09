@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R22">
+ <label>[22]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Huber</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Landau</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Ebner</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Performance of ultralow-dose CT with iterative reconstruction in lung cancer screening: limiting radiation exposure to the equivalent of conventional chest X-ray imaging</article-title>. 
+  <source>Eur Radiol</source>
+  <year>2016</year>;
+  <volume>26</volume>:
+  <fpage>3643</fpage>–
+  <lpage>52</lpage>.
+  <pub-id pub-id-type="pmid">26813670</pub-id>
+ </mixed-citation>
+</ref>

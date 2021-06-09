@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bos</surname>
+    <given-names>CL</given-names>
+   </name>
+   <name>
+    <surname>Kodach</surname>
+    <given-names>LL</given-names>
+   </name>
+   <name>
+    <surname>van den Brink</surname>
+    <given-names>GR</given-names>
+   </name>
+   <name>
+    <surname>Diks</surname>
+    <given-names>SH</given-names>
+   </name>
+   <name>
+    <surname>van Santen</surname>
+    <given-names>MM</given-names>
+   </name>
+   <name>
+    <surname>Richel</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Effect of aspirin on the Wnt/beta-catenin pathway is mediated via protein phosphatase 2A</article-title>
+  <source>Oncogene.</source>
+  <year>2006</year>
+  <volume>25</volume>
+  <issue>49</issue>
+  <fpage>6447</fpage>
+  <lpage>6456</lpage>
+  <pub-id pub-id-type="doi">10.1038/sj.onc.1209658</pub-id>
+  <pub-id pub-id-type="pmid">16878161</pub-id>
+ </element-citation>
+</ref>

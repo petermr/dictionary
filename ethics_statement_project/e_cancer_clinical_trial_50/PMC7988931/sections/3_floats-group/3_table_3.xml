@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Summary of the physicians’ guidelines for IMP’s temporary interruption and permanent discontinuation in case of immune-related adverse events. PI: principal Investigator</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Toxicity</th>
+    <th>Hold treatment for grade</th>
+    <th>Timing for restarting treatment</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="2">
+     <p>Diarrhoea/</p>
+     <p>Colitis</p>
+    </td>
+    <td>2–3</td>
+    <td>Toxicity resolves to Grade 0–1</td>
+   </tr>
+   <tr>
+    <td>4</td>
+    <td>Permanently discontinue</td>
+   </tr>
+   <tr>
+    <td rowspan="2">AST, ALT, or Increased Bilirubin</td>
+    <td>2</td>
+    <td>Toxicity resolves to Grade 0–1</td>
+   </tr>
+   <tr>
+    <td>3–4</td>
+    <td>Permanently discontinue (see exception below)
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>Type 1 diabetes mellitus (if new onset) or Hyperglycaemia</td>
+    <td>
+     <p>T1DM or</p>
+     <p>3–4</p>
+    </td>
+    <td>Hold the IMP for new onset Type 1 diabetes mellitus or Grade 3–4 hyperglycemia associated with evidence of beta cell failure</td>
+   </tr>
+   <tr>
+    <td>Hypophysitis</td>
+    <td>2–4</td>
+    <td>Toxicity resolves to Grade 0–1. Therapy with IMP can be continued while endocrine replacement therapy is instituted</td>
+   </tr>
+   <tr>
+    <td rowspan="2">Hyperthyroidism</td>
+    <td>3</td>
+    <td>Toxicity resolves to Grade 0–1</td>
+   </tr>
+   <tr>
+    <td>4</td>
+    <td>Permanently discontinue</td>
+   </tr>
+   <tr>
+    <td>Hypothyroidism</td>
+    <td>N/A</td>
+    <td>Therapy with IMP can be continued while thyroid replacement therapy is instituted</td>
+   </tr>
+   <tr>
+    <td rowspan="2">Infusion Reaction</td>
+    <td>2
+     <sup>b</sup>
+    </td>
+    <td>Toxicity resolves to Grade 0–1</td>
+   </tr>
+   <tr>
+    <td>3–4</td>
+    <td>Permanently discontinue</td>
+   </tr>
+   <tr>
+    <td rowspan="2">Pneumonitis</td>
+    <td>2</td>
+    <td>Toxicity resolves to Grade 0–1</td>
+   </tr>
+   <tr>
+    <td>3–4</td>
+    <td>Permanently discontinue</td>
+   </tr>
+   <tr>
+    <td rowspan="2">Renal Failure or Nephritis</td>
+    <td>2</td>
+    <td>Toxicity resolves to Grade 0–1</td>
+   </tr>
+   <tr>
+    <td>3–4</td>
+    <td>Permanently discontinue</td>
+   </tr>
+   <tr>
+    <td rowspan="2">All Other Drug-Related Toxicity
+     <sup>c</sup>
+    </td>
+    <td>3 or Severe</td>
+    <td>Toxicity resolves to Grade 0–1</td>
+   </tr>
+   <tr>
+    <td>4</td>
+    <td>Permanently discontinue</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Note: Permanently discontinue for any severe or Grade 3 drug-related AE that recurs or any life-threatening event</p>
+  <p>
+   <sup>a</sup> For participants who begin treatment with Grade 2 AST or ALT at Cycle 1 Day 1 of treatment, if AST or ALT increases by greater than or equal to 50% relative to baseline and lasts for at least 1 week then participants should be discontinued
+  </p>
+  <p>
+   <sup>b</sup> If symptoms resolve within one hour of stopping IMP infusion, the infusion may be restarted at 50% of the original infusion rate (e.g., from 100 mL/hr. to 50 mL/hr). Otherwise dosing will be held until symptoms resolve and the participant should be pre-medicated for the next scheduled dose
+  </p>
+  <p>
+   <sup>c</sup> Participants with intolerable or persistent Grade 2 drug-related AE may hold study medication at PI/delegate discretion
+  </p>
+ </table-wrap-foot>
+</table-wrap>

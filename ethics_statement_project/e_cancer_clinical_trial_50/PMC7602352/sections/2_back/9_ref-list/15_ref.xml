@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhong</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Waldman</surname>
+    <given-names>AD</given-names>
+   </name>
+   <name>
+    <surname>Kandula</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Eaton</surname>
+    <given-names>BR</given-names>
+   </name>
+   <name>
+    <surname>Prabhu</surname>
+    <given-names>RS</given-names>
+   </name>
+   <name>
+    <surname>Huff</surname>
+    <given-names>SB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Outcomes of whole-brain radiation with simultaneous in-field boost (SIB) for the treatment of brain metastases</article-title>
+  <source>J Neuro-Oncol</source>
+  <year>2020</year>
+  <volume>147</volume>
+  <fpage>117</fpage>
+  <lpage>123</lpage>
+  <pub-id pub-id-type="doi">10.1007/s11060-020-03405-y</pub-id>
+ </element-citation>
+</ref>

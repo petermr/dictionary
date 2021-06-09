@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR61">
+ <label>61.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brouwer</surname>
+    <given-names>CL</given-names>
+   </name>
+   <name>
+    <surname>Steenbakkers</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Bourhis</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Budach</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Grau</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Gregoire</surname>
+    <given-names>V</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>CT-based delineation of organs at risk in the head and neck region: DAHANCA, EORTC, GORTEC, HKNPCSG, NCIC CTG, NCRI, NRG oncology and TROG consensus guidelines</article-title>
+  <source>Radiother Oncol</source>
+  <year>2015</year>
+  <volume>117</volume>
+  <issue>1</issue>
+  <fpage>83</fpage>
+  <lpage>90</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.radonc.2015.07.041</pub-id>
+  <?supplied-pmid 26277855?>
+  <pub-id pub-id-type="pmid">26277855</pub-id>
+ </element-citation>
+</ref>

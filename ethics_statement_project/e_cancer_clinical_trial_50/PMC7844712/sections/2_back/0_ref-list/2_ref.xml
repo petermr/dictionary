@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib2">
+ <label>2</label>
+ <element-citation publication-type="journal" id="sbref20">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gleeson</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Counsell</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Cunningham</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Central nervous system relapse of diffuse large B-cell lymphoma in the rituximab era: results of the UK NCRI R-CHOP-14 versus 21 trial</article-title>
+  <source>Ann Oncol</source>
+  <volume>28</volume>
+  <year>2017</year>
+  <fpage>2511</fpage>
+  <lpage>2516</lpage>
+  <pub-id pub-id-type="pmid">28961838</pub-id>
+ </element-citation>
+</ref>

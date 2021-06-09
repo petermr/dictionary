@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">Interprofessional education in childhood cancer is a multifaceted field involving multiple healthcare professionals with general and specialised knowledge and skills. Complex treatment, care and rehabilitation require continuous professional development and maintenance of healthcare professionals’ competencies in their field of expertise. However, limited knowledge exists in comparing interprofessional and monoprofessional education. Only a few randomised studies have evaluated the effectiveness and efficiency of interprofessional education.</p>
+  <p id="Par2">The objective of this single-centre, investigator-initiated cluster randomised trial is to study the effect of interprofessional versus monoprofessional case-based learning on healthcare professionals’ knowledge of gastrointestinal side effects and attitudes towards team collaboration.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par3">This study will randomise healthcare professionals to participate in either the experimental interprofessional group or the control monoprofessional group of case-based learning. The topic of the case-based intervention will be gastrointestinal side effects, one of six categories identified in a three-round Scandinavian Delphi study as relevant for interprofessional education in childhood cancer.</p>
+  <p id="Par4">The primary outcome is the self-reported questionnaire Assessment of Interprofessional Team Collaboration Scale. Secondary outcomes are measured by the self-reported questionnaires Readiness for Interprofessional Learning Scale Questionnaire, Safety Attitudes Questionnaire, and knowledge will be evaluated using a multiple-choice quiz.</p>
+  <p id="Par5">Participants will receive the self-reported questionnaires about 2 weeks before and 1 month after the intervention. On the day of the intervention, participants will answer a multiple-choice quiz before and after the case-based learning.</p>
+  <p id="Par6">Linear mixed models will be used to compare differences between the two groups in mean scores postintervention, adjusting for preintervention scores.</p>
+ </sec>
+ <sec>
+  <title>Discussion</title>
+  <p id="Par7">This study will provide insight into the differences between interprofessional and monoprofessional case-based learning and how it affects healthcare professionals’ knowledge of gastrointestinal side effects and attitudes towards team collaboration.</p>
+ </sec>
+ <sec>
+  <title>Trial registration</title>
+  <p id="Par8">The intervention was registered at Clinical 
+   <ext-link ext-link-type="uri" xlink:href="http://trials.gov" xmlns:xlink="http://www.w3.org/1999/xlink">Trials.gov</ext-link>: 
+   <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT04204109" xmlns:xlink="http://www.w3.org/1999/xlink">NCT04204109</ext-link> on December 102,019 and with the National Committee on Health Research Ethics: H-19087506 December 112,019 and the Danish Data Protection Agency: P-2019-637 October 152,019.
+  </p>
+ </sec>
+ <sec>
+  <title>Supplementary Information</title>
+  <p>The online version contains supplementary material available at 10.1186/s12913-020-05980-2.</p>
+ </sec>
+</abstract>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit0012">
+ <label>12.</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Bender</surname>
+   <given-names>SP</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Anderson</surname>
+   <given-names>EP</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hieronimus</surname>
+   <given-names>RI</given-names>
+  </string-name>, et al. 
+  <article-title>One-lung ventilation and acute lung injury</article-title>. 
+  <source>
+   <italic toggle="yes">Int Anesthesiol Clin</italic>
+  </source>. 
+  <year>2018</year>;
+  <volume>56</volume>(
+  <issue>1</issue>):
+  <fpage>88</fpage>–
+  <lpage>106</lpage>. doi:
+  <pub-id pub-id-type="doi">10.1097/AIA.0000000000000172</pub-id>
+  <pub-id pub-id-type="pmid">29227314</pub-id>
+ </mixed-citation>
+</ref>

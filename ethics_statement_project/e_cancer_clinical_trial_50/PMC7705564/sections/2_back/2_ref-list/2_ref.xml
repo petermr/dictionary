@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R2">
+ <label>2</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Sawabata</surname>
+    <given-names>N</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Miyaoka</surname>
+    <given-names>E</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Asamura</surname>
+    <given-names>H</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Japanese lung cancer registry study of 11,663 surgical cases in 2004: demographic and prognosis changes over decade</article-title>. 
+  <source>J Thorac Oncol</source>
+  <year>2011</year>;
+  <volume>6</volume>:
+  <fpage>1229</fpage>–
+  <lpage>35</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/JTO.0b013e318219aae2</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/21610521?>
+  <pub-id pub-id-type="pmid">21610521</pub-id>
+ </mixed-citation>
+</ref>

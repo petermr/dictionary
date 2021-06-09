@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R47">
+ <label>47</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Rusthoven</surname>
+    <given-names>CG</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Jones</surname>
+    <given-names>BL</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Flaig</surname>
+    <given-names>TW</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Improved survival with prostate radiation in addition to androgen deprivation therapy for men with newly diagnosed metastatic prostate cancer</article-title>. 
+  <source>J Clin Oncol</source>
+  <year>2016</year>;
+  <volume>34</volume>:
+  <fpage>2835</fpage>–
+  <lpage>42</lpage>. 
+  <pub-id pub-id-type="doi">10.1200/JCO.2016.67.4788</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/27325855?>
+  <pub-id pub-id-type="pmid">27325855</pub-id>
+ </mixed-citation>
+</ref>

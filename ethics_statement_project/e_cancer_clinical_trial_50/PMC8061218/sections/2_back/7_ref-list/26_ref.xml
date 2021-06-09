@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kinshuck</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>Shenoy</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Jones</surname>
+    <given-names>TM</given-names>
+   </name>
+  </person-group>
+  <article-title>Voice outcomes for early laryngeal cancer</article-title>
+  <source>Curr Opin Otolaryngol Head Neck Surg</source>
+  <year>2017</year>
+  <volume>25</volume>
+  <issue>3</issue>
+  <fpage>211</fpage>
+  <lpage>216</lpage>
+  <pub-id pub-id-type="doi">10.1097/MOO.0000000000000363</pub-id>
+  <?supplied-pmid 28277333?>
+  <pub-id pub-id-type="pmid">28277333</pub-id>
+ </element-citation>
+</ref>

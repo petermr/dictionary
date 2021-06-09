@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hoffmann</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Ganten</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Gotthardtp</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Radeleff</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Settmacher</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Kollmar</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Nadalin</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Karapanagiotou-Schenkel</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>von Kalle</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Jäger</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Büchler</surname>
+    <given-names>MW</given-names>
+   </name>
+   <name>
+    <surname>Schemmer</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>Impact of neo-adjuvant Sorafenib treatment on liver transplantation in HCC patients - a prospective, randomized, double-blind, phase III trial</article-title>
+  <source>BMC Cancer</source>
+  <year>2015</year>
+  <volume>15</volume>
+  <fpage>392</fpage>
+  <pub-id pub-id-type="doi">10.1186/s12885-015-1373-z</pub-id>
+  <?supplied-pmid 25957784?>
+  <pub-id pub-id-type="pmid">25957784</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>ICG</term>
+   <def>
+    <p id="Par6">Indocyanine green</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>US</term>
+   <def>
+    <p id="Par7">Ultrasound</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EKG</term>
+   <def>
+    <p id="Par8">Endocardiogram</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MMG</term>
+   <def>
+    <p id="Par9">Mammography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>hCG</term>
+   <def>
+    <p id="Par10">Human chorionic gonadotropin</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Exam</term>
+   <def>
+    <p id="Par11">Examination</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AE</term>
+   <def>
+    <p id="Par12">Adverse events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>pre-OP</term>
+   <def>
+    <p id="Par13">Preoperative</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ICGR15</term>
+   <def>
+    <p id="Par14">The indocyanine green retention rate at 15 min</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

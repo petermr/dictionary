@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">The introduction of programmed cell death protein 1 (PD-1) blockers (i.e. nivolumab and pembrolizumab) has significantly improved the prognosis of patients with advanced melanoma. However, the long treatment duration (i.e. two years or longer) has a high impact on patients and healthcare systems in terms of (severe) toxicity, health-related quality of life (HRQoL), resource use, and healthcare costs. While durable tumour responses have been observed and PD-1 blockade is discontinued on an individual basis, no consensus has been reached on the optimal treatment duration. The objective of the Safe Stop trial is to evaluate whether early discontinuation of first-line PD-1 blockade is safe in patients with advanced and metastatic melanoma who achieve a radiological response.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par2">The Safe Stop trial is a nationwide, multicentre, prospective, single-arm, interventional study in the Netherlands. A total of 200 patients with advanced and metastatic cutaneous melanoma and a confirmed complete response (CR) or partial response (PR) according to response evaluation criteria in solid tumours (RECIST) v1.1 will be included to early discontinue first-line monotherapy with nivolumab or pembrolizumab. The primary objective is the rate of ongoing responses at 24 months after discontinuation of PD-1 blockade. Secondary objectives include best overall and duration of response, need and outcome of rechallenge with PD-1 blockade, and changes in (serious) adverse events and HRQoL. The impact of treatment discontinuation on healthcare resource use, productivity losses, and hours of informal care will also be assessed. Results will be compared to those from patients with CR or PR who completed 24 months of treatment with PD-1 blockade and had an ongoing response at treatment discontinuation. It is hypothesised that it is safe to early stop first-line nivolumab or pembrolizumab at confirmed tumour response while improving HRQoL and reducing costs.</p>
+ </sec>
+ <sec>
+  <title>Discussion</title>
+  <p id="Par3">From a patient, healthcare, and economic perspective, shorter treatment duration is preferred and overtreatment should be prevented. If early discontinuation of first-line PD-1 blockade appears to be safe, early discontinuation of PD-1 blockade may be implemented as the standard of care in a selected group of patients.</p>
+ </sec>
+ <sec>
+  <title>Trial registration</title>
+  <p id="Par4">The Safe Stop trial has been registered in the Netherlands Trial Register (NTR), Trial NL7293 (old NTR ID: 7502), 
+   <ext-link ext-link-type="uri" xlink:href="https://www.trialregister.nl/trial/7293" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.trialregister.nl/trial/7293</ext-link>. Date of registration September 30, 2018.
+  </p>
+ </sec>
+</abstract>

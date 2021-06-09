@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>AE</term>
+   <def>
+    <p id="Par5">Adverse events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AI</term>
+   <def>
+    <p id="Par6">Aromatase inhibitor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ALK</term>
+   <def>
+    <p id="Par7">Anaplastic lymphoma kinase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BED</term>
+   <def>
+    <p id="Par8">Biologically Effective Dose</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CDK</term>
+   <def>
+    <p id="Par9">Cyclin-dependent kinase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par10">Computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ECOG</term>
+   <def>
+    <p id="Par11">Eastern Cooperative Oncology Group</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EGFR</term>
+   <def>
+    <p id="Par12">Epidermal growth factor receptor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ER</term>
+   <def>
+    <p id="Par13">Estrogen receptor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FDG</term>
+   <def>
+    <p id="Par14">Fluorodeoxyglucose</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HER2</term>
+   <def>
+    <p id="Par15">Human epidermal growth factor receptor 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HREC</term>
+   <def>
+    <p id="Par16">Human Research Ethics Committee</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RGO</term>
+   <def>
+    <p id="Par17">Research Governance Office</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MRI</term>
+   <def>
+    <p id="Par18">Magnetic resonance imaging</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MIP</term>
+   <def>
+    <p id="Par19">Maximum Intensity Projection</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OPD</term>
+   <def>
+    <p id="Par20">Oligoprogressive disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OS</term>
+   <def>
+    <p id="Par21">Overall survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PERCIST</term>
+   <def>
+    <p id="Par22">Positron Emission tomography Response Criteria In Solid Tumours</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PET</term>
+   <def>
+    <p id="Par23">Positron emission tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PFS</term>
+   <def>
+    <p id="Par24">Progress free survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RECIST</term>
+   <def>
+    <p id="Par25">Response Evaluation Criteria in Solid Tumours</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SRT</term>
+   <def>
+    <p id="Par26">Stereotactic radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SUV</term>
+   <def>
+    <p id="Par27">Standardized uptake value</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TNBC</term>
+   <def>
+    <p id="Par28">Triple negative breast cancer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TKI</term>
+   <def>
+    <p id="Par29">Tyrosine kinase inhibitor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TROG</term>
+   <def>
+    <p id="Par30">The Trans Tasman Radiation Oncology Group</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

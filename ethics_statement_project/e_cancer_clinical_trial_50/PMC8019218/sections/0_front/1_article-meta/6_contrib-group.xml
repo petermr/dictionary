@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="cas14841-cr-0001" contrib-type="author">
+  <name>
+   <surname>Takahashi</surname>
+   <given-names>Shin</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6695-3099</contrib-id>
+  <xref ref-type="aff" rid="cas14841-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="cas14841-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0002" contrib-type="author">
+  <name>
+   <surname>Sakamoto</surname>
+   <given-names>Yasuhiro</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0003">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0003" contrib-type="author">
+  <name>
+   <surname>Denda</surname>
+   <given-names>Tadamichi</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0004">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0004" contrib-type="author">
+  <name>
+   <surname>Takashima</surname>
+   <given-names>Atsuo</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0005">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0005" contrib-type="author">
+  <name>
+   <surname>Komatsu</surname>
+   <given-names>Yoshito</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0006">
+   <sup>6</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0006" contrib-type="author">
+  <name>
+   <surname>Nakamura</surname>
+   <given-names>Masato</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0007">
+   <sup>7</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0007" contrib-type="author">
+  <name>
+   <surname>Ohori</surname>
+   <given-names>Hisatsugu</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0008">
+   <sup>8</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0008" contrib-type="author">
+  <name>
+   <surname>Yamaguchi</surname>
+   <given-names>Tatsuro</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0009">
+   <sup>9</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0009" contrib-type="author">
+  <name>
+   <surname>Kobayashi</surname>
+   <given-names>Yoshimitsu</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0010">
+   <sup>10</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0010" contrib-type="author">
+  <name>
+   <surname>Baba</surname>
+   <given-names>Hideo</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3474-2550</contrib-id>
+  <xref ref-type="aff" rid="cas14841-aff-0011">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0011" contrib-type="author">
+  <name>
+   <surname>Kotake</surname>
+   <given-names>Masanori</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0012">
+   <sup>12</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0012" contrib-type="author">
+  <name>
+   <surname>Amagai</surname>
+   <given-names>Kenji</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0013">
+   <sup>13</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0013" contrib-type="author">
+  <name>
+   <surname>Kondo</surname>
+   <given-names>Hitoshi</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0014">
+   <sup>14</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0014" contrib-type="author">
+  <name>
+   <surname>Shimada</surname>
+   <given-names>Ken</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0015">
+   <sup>15</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0015" contrib-type="author">
+  <name>
+   <surname>Sato</surname>
+   <given-names>Atsushi</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0016">
+   <sup>16</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0016" contrib-type="author">
+  <name>
+   <surname>Yuki</surname>
+   <given-names>Satoshi</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0017">
+   <sup>17</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0017" contrib-type="author">
+  <name>
+   <surname>Okita</surname>
+   <given-names>Akira</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="cas14841-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0018" contrib-type="author">
+  <name>
+   <surname>Ouchi</surname>
+   <given-names>Kota</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="cas14841-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0019" contrib-type="author">
+  <name>
+   <surname>Komine</surname>
+   <given-names>Keigo</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="cas14841-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0020" contrib-type="author">
+  <name>
+   <surname>Watanabe</surname>
+   <given-names>Mika</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0018">
+   <sup>18</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0021" contrib-type="author">
+  <name>
+   <surname>Morita</surname>
+   <given-names>Satoshi</given-names>
+  </name>
+  <xref ref-type="aff" rid="cas14841-aff-0019">
+   <sup>19</sup>
+  </xref>
+ </contrib>
+ <contrib id="cas14841-cr-0022" contrib-type="author" corresp="yes">
+  <name>
+   <surname>Ishioka</surname>
+   <given-names>Chikashi</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3023-1227</contrib-id>
+  <xref ref-type="aff" rid="cas14841-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="cas14841-aff-0002">
+   <sup>2</sup>
+  </xref>
+  <address>
+   <email>chikashi@tohoku.ac.jp</email>
+  </address>
+ </contrib>
+</contrib-group>

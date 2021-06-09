@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Preliminary search strategy for Medline (Ovid).</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <bold>#</bold>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <bold>Searches</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">((esophag* or oesophag*) adj5 (cancer* or neoplas* or carcino* or tumor* or tumour* or malign* or adenocarcin* or adeno-carcin*)).ti, ab, kf.</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">esophageal neoplasms/ or esophageal squamous cell carcinoma/</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">3</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 or 2</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">4</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(chemoradi* or radiochemo* or chemo-radi* or radio-chemo* or chemotherap* or Radiation or radiotherap*).ti, ab, kf.</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">5</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">exp Chemoradiotherapy/ or (Chemotherapy, Adjuvant/ and Radiotherapy, Adjuvant/)</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">6</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4 or 5</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">7</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(((watch* or see) adj3 wait*) or (active* adj3 surveil*) or ((selective* or needed or necessar* or unnecessar* or declin* or avoid* or on-demand) adj6 (resect* or surg* or esophagectom* or oesophagectom*)) or (chemoradiation alone or chemoradiation only or chemo-radiation alone or chemo-radiation only)).ti, ab, kf.</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">8</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Watchful Waiting/</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">9</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">7 or 8</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">10</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(surg* or standard treatment or standard therapy or standard surgical resection or tri-modal* or trimodal* or esophagectom* or oesophagectom*).ti, ab, kf.</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">11</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">exp Esophagectomy/</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">12</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">10 or 11</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">13</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 and 6 and 9 and 12</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">14</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">exp animals/ not exp humans/</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">15</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">editorial/ or letter/ or Congress/</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">16</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">13 not 14</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">17</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">16 not 15</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">18</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">limit 17 to (english or german)</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">19</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">randomized controlled trial.pt.</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">20</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">controlled clinical trial.pt.</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">21</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">randomized.ab.</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">22</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">placebo.ab.</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">23</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">drug therapy.fs.</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">24</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">randomly.ab.</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">25</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">trial.ab.</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">26</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">groups.ab.</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">27</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">19 or 20 or 21 or 22 or 23 or 24 or 25 or 26</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">28</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 and 9 and 27</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">29</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">28 not 14</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">30</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">28 not 15</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">31</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">limit 30 to (english or german)</td>
+   </tr>
+   <tr>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">32</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">18 or 31</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

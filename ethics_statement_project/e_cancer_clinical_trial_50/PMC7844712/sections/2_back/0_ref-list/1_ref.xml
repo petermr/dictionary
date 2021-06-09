@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib1">
+ <label>1</label>
+ <element-citation publication-type="journal" id="sbref10">
+  <person-group person-group-type="author">
+   <name>
+    <surname>El-Galaly</surname>
+    <given-names>TC</given-names>
+   </name>
+   <name>
+    <surname>Cheah</surname>
+    <given-names>CY</given-names>
+   </name>
+   <name>
+    <surname>Bendtsen</surname>
+    <given-names>MD</given-names>
+   </name>
+  </person-group>
+  <article-title>Treatment strategies, outcomes and prognostic factors in 291 patients with secondary CNS involvement by diffuse large B-cell lymphoma</article-title>
+  <source>Eur J Cancer</source>
+  <volume>93</volume>
+  <year>2018</year>
+  <fpage>57</fpage>
+  <lpage>68</lpage>
+  <pub-id pub-id-type="pmid">29477102</pub-id>
+ </element-citation>
+</ref>

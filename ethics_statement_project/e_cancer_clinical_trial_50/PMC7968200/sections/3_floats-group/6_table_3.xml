@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Variables for Secondary End Points and Adverse Events in each Group</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left"/>
+    <th align="left">Control group
+     <break/>(
+     <italic>n</italic> = 14)
+    </th>
+    <th align="left">Test Group 1
+     <break/>(
+     <italic>n</italic> = 15)
+    </th>
+    <th align="left">Test Group 2
+     <break/>(
+     <italic>n</italic> = 15)
+    </th>
+    <th align="left">
+     <italic>p-value</italic>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" colspan="5">Marking on breast lesion</td>
+   </tr>
+   <tr>
+    <td align="left">Yes</td>
+    <td align="left">13 (92.9%)</td>
+    <td align="left">13 (86.7%)</td>
+    <td align="left">14 (93.3%)</td>
+    <td align="left">
+     <italic>0.954</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">No</td>
+    <td align="left">1 (7.1%)</td>
+    <td align="left">2 (13.3%)</td>
+    <td align="left">1 (6.7%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">Marking on excised specimen</td>
+   </tr>
+   <tr>
+    <td align="left">Yes</td>
+    <td align="left">13 (92.9%)</td>
+    <td align="left">14 (93.3%)</td>
+    <td align="left">15 (100.0%)</td>
+    <td align="left">
+     <italic>0.357</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">No</td>
+    <td align="left">1 (7.1%)</td>
+    <td align="left">1 (6.7%)</td>
+    <td align="left">0 (0.0%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">Skin pigmentation</td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">Yes</td>
+    <td align="left">9 (64.3%)</td>
+    <td align="left">0 (0.0%)</td>
+    <td align="left">0 (0.0%)</td>
+    <td align="left">
+     <italic>0.000</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">No</td>
+    <td align="left">4 (28.6%)</td>
+    <td align="left">15 (100.0%)</td>
+    <td align="left">15 (100.0%)</td>
+    <td align="left"> U</td>
+   </tr>
+   <tr>
+    <td align="left">Unknown</td>
+    <td align="left">1 (7.1%)</td>
+    <td align="left">0 (0.0%)</td>
+    <td align="left">0 (0.0%)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">Histopathological accuracy</td>
+   </tr>
+   <tr>
+    <td align="left">Mean (±sd)</td>
+    <td align="left">0.3 (±0.1)</td>
+    <td align="left">0.4 (±0.1)</td>
+    <td align="left">0.4 (±0.1)</td>
+    <td align="left">
+     <p>
+      <italic>0.331(group1-2)</italic>
+     </p>
+     <p>
+      <italic>0.389(group2-3)</italic>
+     </p>
+     <p>
+      <italic>0.914(group1-3)</italic>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">Adverse events (AEs)</td>
+   </tr>
+   <tr>
+    <td align="left">Yes</td>
+    <td align="left">0(0.0%)</td>
+    <td align="left">0(0.0%)</td>
+    <td align="left">0(0.0%)</td>
+    <td align="left">
+     <italic>1.000</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">No</td>
+    <td align="left">14(100.0%)</td>
+    <td align="left">15(100.0%)</td>
+    <td align="left">15(100.0%)</td>
+    <td align="left"/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>sd</italic> standard deviation
+  </p>
+ </table-wrap-foot>
+</table-wrap>

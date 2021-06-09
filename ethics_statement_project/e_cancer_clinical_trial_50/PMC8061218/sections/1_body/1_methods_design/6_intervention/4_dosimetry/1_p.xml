@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par78">Use of either IMRT or protons (passive scattering or intensity modulated proton therapy) will be mandatory for all plans. Treatment plans will be normalised so that 95% of the PTV volume be covered with the prescription dose. The maximal dose to the PTV cannot exceed 110% of the prescribed dose and the dose to 99% of PTV should be above 95% of the prescribed dose (D99 &gt; 95% of prescribed dose). Heterogeneity correction will be required for dose calculation.</p>

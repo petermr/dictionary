@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R13">
+ <label>13</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Selth</surname>
+    <given-names>LA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Townley</surname>
+    <given-names>SL</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Bert</surname>
+    <given-names>AG</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Circulating microRNAs predict biochemical recurrence in prostate cancer patients</article-title>. 
+  <source>Br J Cancer</source>
+  <year>2013</year>;
+  <volume>109</volume>:
+  <elocation-id>641</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1038/bjc.2013.369</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/23846169?>
+  <pub-id pub-id-type="pmid">23846169</pub-id>
+ </mixed-citation>
+</ref>

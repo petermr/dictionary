@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R63">
+ <label>63</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Köllermann</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Caprano</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Budde</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Follow-Up of nondetectable prostate carcinoma (pT0) after prolonged PSA-monitored neoadjuvant hormonal therapy followed by radical prostatectomy</article-title>. 
+  <source>Urology</source>
+  <year>2003</year>;
+  <volume>62</volume>:
+  <fpage>476</fpage>–
+  <lpage>80</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S0090-4295(03)00351-0</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/12946750?>
+  <pub-id pub-id-type="pmid">12946750</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2">
+ <label>Figure 2</label>
+ <caption>
+  <p>Kaplan-Meier curves of progression-free survival</p>
+  <p>(A) Progression-free survival of the assessable population. (B) Progression-free survival of the 37 transplanted patients. (C) Progression-free survival of the assessable population, according to disease status at trial registration.</p>
+ </caption>
+ <graphic xlink:href="gr2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

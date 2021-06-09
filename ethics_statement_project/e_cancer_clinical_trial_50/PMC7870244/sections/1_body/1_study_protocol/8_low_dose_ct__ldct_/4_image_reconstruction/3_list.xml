@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="simple">
+ <list-item>
+  <label>-</label>
+  <p>5 mm axial contiguous</p>
+ </list-item>
+ <list-item>
+  <label>-</label>
+  <p>5 mm coronal contiguous</p>
+ </list-item>
+ <list-item>
+  <label>-</label>
+  <p>5 mm sagittal contiguous</p>
+ </list-item>
+</list>

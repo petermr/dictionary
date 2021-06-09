@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="t0004" orientation="portrait" position="float">
+ <label>Table 4</label>
+ <caption>
+  <p>Secondary Outcomes (n=81)</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="2" colspan="1"/>
+    <th rowspan="1" colspan="1">TG</th>
+    <th rowspan="1" colspan="1">CG</th>
+   </tr>
+   <tr>
+    <th rowspan="1" colspan="1">(n=41)</th>
+    <th rowspan="1" colspan="1">(n=40) 
+     <italic>P</italic>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">Time of first flatus (h)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">&lt;0.001 
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Mean±SD</td>
+    <td rowspan="1" colspan="1">55.63±16.74</td>
+    <td rowspan="1" colspan="1">72.60±20.92</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Time of first defecation (h)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">&lt;0.001 
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Mean±SD</td>
+    <td rowspan="1" colspan="1">72.20±16.24</td>
+    <td rowspan="1" colspan="1">95.78±17.75</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Nausea, n (%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">0.441 
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">16 (39.0)</td>
+    <td rowspan="1" colspan="1">19 (47.5)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Vomiting, n (%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">1.00 
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">0 (0.00)</td>
+    <td rowspan="1" colspan="1">0 (0.00)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Distension, n (%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">0.051 
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">10 (24.4)</td>
+    <td rowspan="1" colspan="1">18 (45.0)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Diarrhea, n (%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">0.054 
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">3 (7.30)</td>
+    <td rowspan="1" colspan="1">9 (22.5)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Fever, n (%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">0.753 
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">36 (87.8)</td>
+    <td rowspan="1" colspan="1">36 (90.0)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Frequency of nausea</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">0.029 
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Mean±SD</td>
+    <td rowspan="1" colspan="1">1.88±1.09</td>
+    <td rowspan="1" colspan="1">2.58±0.77</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Frequency of vomiting</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">1.00 
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Mean±SD</td>
+    <td rowspan="1" colspan="1">0</td>
+    <td rowspan="1" colspan="1">0</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Frequency of distension</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">0.213 
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Mean±SD</td>
+    <td rowspan="1" colspan="1">2.60±1.27</td>
+    <td rowspan="1" colspan="1">3.50±2.01</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Frequency of diarrhea</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">0.727 
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Mean±SD</td>
+    <td rowspan="1" colspan="1">2.00±1.00</td>
+    <td rowspan="1" colspan="1">2.33±1.12</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Frequency of fever</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">0.419 
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Mean±SD</td>
+    <td rowspan="1" colspan="1">6.35±4.03</td>
+    <td rowspan="1" colspan="1">7.61±6.13</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Comfort of semi-fluid</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">&lt;0.001 
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Mean±SD</td>
+    <td rowspan="1" colspan="1">7.63±0.63</td>
+    <td rowspan="1" colspan="1">6.93±0.69</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">C-D grade, n (%)•</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">0.292 
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Grade 0</td>
+    <td rowspan="1" colspan="1">1 (2.40)</td>
+    <td rowspan="1" colspan="1">2 (5.00)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Grade 1</td>
+    <td rowspan="1" colspan="1">39 (95.1)</td>
+    <td rowspan="1" colspan="1">34 (85.0)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Grade 2</td>
+    <td rowspan="1" colspan="1">1 (2.40)</td>
+    <td rowspan="1" colspan="1">4 (10.0)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Length of postoperative stay (d)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">0.478 
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Mean±SD</td>
+    <td rowspan="1" colspan="1">6.12±1.29</td>
+    <td rowspan="1" colspan="1">6.45±1.68</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tfn0006">
+   <p>
+    <bold>Notes:</bold>
+    <sup>a</sup>Chi-squared test (
+    <italic>Χ</italic>
+    <sup>2</sup>); 
+    <sup>b</sup>Wilcoxon rank sum test; •The C-D grade was used for postoperative complications grade; Patients with a grade&gt;2 met the withdrawal criteria and were not included in the analysis.
+   </p>
+  </fn>
+  <fn id="tfn0007">
+   <p>
+    <bold>Abbreviation:</bold> C-D grade, Clavien-Dindo grade.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

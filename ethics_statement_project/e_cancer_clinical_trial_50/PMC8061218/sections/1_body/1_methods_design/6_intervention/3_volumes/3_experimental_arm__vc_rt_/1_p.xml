@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par74">The RT volume would include the entire ipsilateral vocal cord in stage T1a disease, or both vocal cords in T1b disease. An internal target volume (ITV) consisting in an isotropic 6 mm margin will be added to account for respiratory motion. An additional margin of 2–3 mm margin will be added for setup uncertainty (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>). 
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par75">CTV
+    <sub>VC-RT</sub> = GTV plus a manual expansion to include the entire ipsilateral vocal cord in stage T1a disease, or both vocal cords in stage T1b disease. In cases where the GTV is not visualized, only a CTV (comprising the entire involved vocal cord in T1a or both vocal cords in T1b) will be contoured.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par76">An internal target volume (ITV) will be added and will consist in an isotropic margin of 6 mm around the CTV
+    <sub>VC-RT</sub> to account for respiratory motion.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par77">PTV 
+    <sub>VC-RT</sub> = ITV plus a 2–3 mm margin. This is smaller than in Arm 1, because internal motion is already accounted for in the ITV.
+   </p>
+  </list-item>
+ </list>
+</p>

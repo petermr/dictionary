@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lutz</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Balboni</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Jones</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Lo</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Petit</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Rich</surname>
+    <given-names>SE</given-names>
+   </name>
+   <name>
+    <surname>Wong</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Hahn</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Palliative radiation therapy for bone metastases: update of an ASTRO evidence-based guideline</article-title>
+  <source>Pract Radiat Oncol.</source>
+  <year>2017</year>
+  <volume>7</volume>
+  <issue>1</issue>
+  <fpage>4</fpage>
+  <lpage>12</lpage>
+  <pub-id pub-id-type="doi">10.1016/J.PRRO.2016.08.001</pub-id>
+  <?supplied-pmid 27663933?>
+  <pub-id pub-id-type="pmid">27663933</pub-id>
+ </element-citation>
+</ref>

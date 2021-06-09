@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The CT settings for screening protocols varied between 80 and 140 kVp with a minimum of 20 mAs tube time-current product.
+ <sup>[
+  <xref rid="R15" ref-type="bibr">15</xref>]
+ </sup> The reported effective doses ranged from &lt;0.4 mSv in lean patients to 2mSv. More recent trials adopted automated kV selection and mAs modulation based on the attenuation profile of the patient. Sufficient image quality and diagnostic performance of ultra-low-dose protocols (&lt;0.2 mSv) for the detection of pulmonary nodules and even ground-glass lesions with the use of model-based iterative reconstruction technique has been confirmed in phantom and clinical studies.
+ <sup>[
+  <xref rid="R22" ref-type="bibr">22</xref>,
+  <xref rid="R23" ref-type="bibr">23</xref>]
+ </sup> For a standard-size patient, this corresponds to a CTDIvol &lt;0.6 mGy for a 25 cm scan.
+ <sup>[
+  <xref rid="R13" ref-type="bibr">13</xref>,
+  <xref rid="R18" ref-type="bibr">18</xref>]
+ </sup>
+</p>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R3">
+ <label>3</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Taioli</surname>
+    <given-names>E</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Schwartz</surname>
+    <given-names>RM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Lieberman-Cribbin</surname>
+    <given-names>W</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Quality of life after open or minimally invasive esophagectomy in patients with esophageal cancer-a systematic review</article-title>. 
+  <source>Semin Thorac Cardiovasc Surg</source>
+  <year>2017</year>;
+  <volume>29</volume>:
+  <fpage>377</fpage>–
+  <lpage>90</lpage>. 
+  <pub-id pub-id-type="doi">10.1053/j.semtcvs.2017.08.013</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/28939239?>
+  <pub-id pub-id-type="pmid">28939239</pub-id>
+ </mixed-citation>
+</ref>

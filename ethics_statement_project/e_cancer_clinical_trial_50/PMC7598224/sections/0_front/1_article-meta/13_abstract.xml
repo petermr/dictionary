@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Objectives</title>
+  <p id="Par1">To assess the impact of adding statin (atorvastatin) and/or aspirin on clinical deterioration in patients infected with SARS-CoV-2 who require hospitalisation. The safety of these drugs in COVID-19 patients will also be evaluated.</p>
+ </sec>
+ <sec>
+  <title>Trial design</title>
+  <p id="Par2">This is a single-centre, prospective, four-arm parallel design, open-label, randomized control trial.</p>
+ </sec>
+ <sec>
+  <title>Participants</title>
+  <p id="Par3">The study will be conducted at National Cancer Institute (NCI), Jhajjar, Haryana, which is a part of All India Institute of Medical Sciences (AIIMS), New Delhi, and has been converted into a dedicated COVID-19 management centre since the outbreak of the pandemic. All RT-PCR confirmed cases of SARS-CoV-2 infection with age ≥ 40 years and &lt; 75 years requiring hospital admission (patients with WHO clinical improvement ordinal score 3 to 5) will be included in the trial. Written informed consent will be taken for all recruited patients. Patients with a critical illness (WHO clinical improvement ordinal score &gt; 5), documented significant liver disease/dysfunction (aspartate transaminase [AST] / alanine aminotransferase [ALT] &gt; 240), myopathy and rhabdomyolysis (creatine phosphokinase [CPK] &gt; 5x normal), allergy or intolerance to statins or aspirin, prior statin or aspirin use within 30 days, history of active gastrointestinal bleeding in past three months, coagulopathy, thrombocytopenia (platelet count &lt; 100000/ dl), pregnancy, active breastfeeding, or inability to take oral or nasogastric medications will be excluded. Patients refusing to give written consent and taking drugs that are known to have a significant drug interaction with statin or aspirin [including cyclosporine, HIV protease inhibitors, hepatitis C protease inhibitor, telaprevir, fibric acid derivatives (gemfibrozil), niacin, azole antifungals (itraconazole, ketoconazole), clarithromycin and colchicine] will also be excluded from the trial.</p>
+ </sec>
+ <sec>
+  <title>Intervention and comparator</title>
+  <p id="Par4">In this study, the benefit and safety of atorvastatin (statin) and/or aspirin as adjuvant therapy will be compared with the control group receiving usual care for management of COVID-19. Atorvastatin will be prescribed as 40 mg oral tablets once daily for ten days or until discharge, whichever is earlier. The dose of aspirin will be 75 mg once daily for ten days or until discharge, whichever is earlier. All other therapies will be administered according to the institute’s COVID-19 treatment protocol and the treating physician’s clinical judgment.</p>
+ </sec>
+ <sec>
+  <title>Main outcomes</title>
+  <p id="Par5">All study participants will be prospectively followed up for ten days or until hospital discharge, whichever is longer for outcomes. The primary outcome will be clinical deterioration characterized by progression to WHO clinical improvement ordinal score ≥ 6 (i.e., endotracheal intubation, non-invasive mechanical ventilation, pressor agents, renal replacement therapy, ECMO requirement, and mortality). The secondary outcomes will be change in serum inflammatory markers (C-reactive protein and Interleukin-6), Troponin I, and creatine phosphokinase (CPK) from time zero to 5th day of study enrolment or 7th day after symptom onset, whichever is later. Other clinical outcomes that will be assessed include progression to Acute Respiratory Distress Syndrome (ARDS), shock, ICU admission, length of ICU admission, length of hospital admission, and in-hospital mortality. Adverse drug effects like myalgia, myopathy, rhabdomyolysis, hepatotoxicity, and bleeding will also be examined in the trial to assess the safety of the interventions.</p>
+ </sec>
+ <sec>
+  <title>Randomisation</title>
+  <p id="Par6">The study will use a four-arm parallel-group design. A computer-generated permuted block randomization with mixed block size will be used to randomize the participants in a 1:1:1:1 ratio to group A (atorvastatin with conventional therapy), group B (aspirin with conventional therapy), group C (aspirin + atorvastatin with conventional therapy), and group D (control; only conventional therapy).</p>
+ </sec>
+ <sec>
+  <title>Blinding (masking)</title>
+  <p id="Par7">The study will be an open-label trial.</p>
+ </sec>
+ <sec>
+  <title>Numbers to be randomised (sample size)</title>
+  <p id="Par8">As there is no existing study that has evaluated the role of aspirin and atorvastatin in COVID-19 patients, formal sample size calculation has not been done. Patients satisfying the inclusion and exclusion criteria will be recruited during six months of study period. Once the first 200 patients are included in each arm (i.e., total 800 patients), the final sample size calculation will be done on the basis of the interim analysis of the collected data.</p>
+ </sec>
+ <sec>
+  <title>Trial Status</title>
+  <p id="Par9">The institutional ethical committee has approved the study protocol (
+   <italic>Protocol version 3.0</italic> [June 2020]).
+  </p>
+  <p id="Par10">Participant recruitment starting date: 28
+   <sup>th</sup> July 2020
+  </p>
+  <p id="Par11">Participant recruitment ending date: 27
+   <sup>th</sup> January 2021
+  </p>
+  <p id="Par12">Trial duration: 6 months</p>
+ </sec>
+ <sec>
+  <title>Trial registration</title>
+  <p id="Par13">The trial has been prospectively registered in 
+   <bold>
+    <italic>Clinical Trial Registry – India</italic>
+   </bold> (ICMR- NIMS): Reference no. 
+   <ext-link ext-link-type="uri" xlink:href="http://ctri.nic.in/Clinicaltrials/showallp.php?mid1=44814&amp;EncHid=&amp;userName=Dr%20Deepti%20Siddharthan" xmlns:xlink="http://www.w3.org/1999/xlink">CTRI/2020/07/026791</ext-link> (registered on 25 July 2020)].
+  </p>
+ </sec>
+ <sec>
+  <title>Full protocol</title>
+  <p id="Par14">The full protocol is attached as an additional file, accessible from the Trials website (Additional file 
+   <xref rid="MOESM1" ref-type="media">1</xref>). In the interest of expediting dissemination of this material, the familiar formatting has been eliminated; this Letter serves as a summary of the key elements of the full protocol.
+  </p>
+ </sec>
+ <sec>
+  <title>Supplementary Information</title>
+  <p>The online version contains supplementary material available at 10.1186/s13063-020-04840-y.</p>
+ </sec>
+</abstract>

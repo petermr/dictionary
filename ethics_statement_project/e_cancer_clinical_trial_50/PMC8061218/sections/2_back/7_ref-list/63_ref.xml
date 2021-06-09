@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR63">
+ <label>63.</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gelman AaH</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <source>Data analysis using regression and multilevel/hierarchical models</source>
+  <year>2007</year>
+  <publisher-loc>Cambridge</publisher-loc>
+  <publisher-name>Cambridge University Press</publisher-name>
+ </element-citation>
+</ref>

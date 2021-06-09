@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R7">
+ <label>7</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Siddiqui</surname>
+    <given-names>MM</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Rais-Bahrami</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Turkbey</surname>
+    <given-names>B</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Comparison of MR/ultrasound fusion-guided biopsy with ultrasound-guided biopsy for the diagnosis of prostate cancer</article-title>. 
+  <source>JAMA</source>
+  <year>2015</year>;
+  <volume>313</volume>:
+  <fpage>390</fpage>. 
+  <pub-id pub-id-type="doi">10.1001/jama.2014.17942</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/25626035?>
+  <pub-id pub-id-type="pmid">25626035</pub-id>
+ </mixed-citation>
+</ref>

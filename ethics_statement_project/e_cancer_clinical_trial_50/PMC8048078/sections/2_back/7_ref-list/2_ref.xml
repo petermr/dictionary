@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Urruticoechea</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Alemany</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Balart</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Villanueva</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Vinals</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Capella</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>Recent advances in Cancer therapy: an overview</article-title>
+  <source>Curr Pharm Des</source>
+  <year>2010</year>
+  <volume>16</volume>
+  <issue>1</issue>
+  <fpage>3</fpage>
+  <lpage>10</lpage>
+  <pub-id pub-id-type="doi">10.2174/138161210789941847</pub-id>
+  <?supplied-pmid 20214614?>
+  <pub-id pub-id-type="pmid">20214614</pub-id>
+ </element-citation>
+</ref>

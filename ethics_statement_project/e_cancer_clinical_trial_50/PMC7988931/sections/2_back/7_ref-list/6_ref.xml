@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>El-Khoueiry</surname>
+    <given-names>AB</given-names>
+   </name>
+   <name>
+    <surname>Sangro</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Yau</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Crocenzi</surname>
+    <given-names>TS</given-names>
+   </name>
+   <name>
+    <surname>Kudo</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Hsu</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Nivolumab in patients with advanced hepatocellular carcinoma (CheckMate 040): an open-label, non-comparative, phase 1/2 dose escalation and expansion trial</article-title>
+  <source>Lancet</source>
+  <year>2017</year>
+  <volume>389</volume>
+  <issue>10088</issue>
+  <fpage>2492</fpage>
+  <lpage>2502</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(17)31046-2</pub-id>
+  <?supplied-pmid 28434648?>
+  <pub-id pub-id-type="pmid">28434648</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="bullet">
+ <list-item>
+  <p>Demographic data (age)</p>
+ </list-item>
+ <list-item>
+  <p>Initial diagnosis of TNBC (date of diagnosis, histological characteristics of the tumor, hormone receptor and HER2 expression, TNM classification)</p>
+ </list-item>
+ <list-item>
+  <p>Cancer treatment and response to the treatment</p>
+ </list-item>
+ <list-item>
+  <p>Clinical characteristics of the tumor in the surgical specimen</p>
+ </list-item>
+ <list-item>
+  <p>Blood test results at the time of diagnosis, before surgery, before the onset of RT, and 6 months post-RT</p>
+ </list-item>
+ <list-item>
+  <p>TIL amount in the biopsy and in the surgical specimen</p>
+ </list-item>
+</list>

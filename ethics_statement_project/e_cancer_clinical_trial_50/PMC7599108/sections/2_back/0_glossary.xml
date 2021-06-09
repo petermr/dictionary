@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>CRC</term>
+   <def>
+    <p id="Par6">Colorectal cancer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NSAIDs</term>
+   <def>
+    <p id="Par7">non-steroidal anti-inflammatory drugs</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>COX-2</term>
+   <def>
+    <p id="Par8">cyclooxygenase-2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ACF</term>
+   <def>
+    <p id="Par9">Aberrant crypt foci</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AMPK</term>
+   <def>
+    <p id="Par10">AMP-activated protein kinase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>UMIN</term>
+   <def>
+    <p id="Par11">University hospital Medical Information Network</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CONSORT</term>
+   <def>
+    <p id="Par12">Consolidated Standards of Reporting Trials</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

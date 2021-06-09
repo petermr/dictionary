@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Isaac</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Choi</surname>
+   <given-names>Hee Jun</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ryu</surname>
+   <given-names>Jai Min</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lee</surname>
+   <given-names>Se Kyung</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yu</surname>
+   <given-names>Jong Han</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lee</surname>
+   <given-names>Jeong Eon</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nam</surname>
+   <given-names>Seok Jin</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shin</surname>
+   <given-names>Hyuk Jai</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6130-7570</contrib-id>
+  <name>
+   <surname>Kim</surname>
+   <given-names>Seok Won</given-names>
+  </name>
+  <address>
+   <email>seokwon1.kim@samsung.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.452398.1</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0570 1076</institution-id>
+   <institution>Department of Surgery, </institution>
+   <institution>Bundang CHA Medical Center, CHA University School of Medicine, </institution>
+  </institution-wrap>59 Yatap-ro, Bundang-gu, Seongnam-si, Gyeonggi, Republic of Korea 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>Division of Breast Surgery, Department of Surgery, Samsung Medical Center, Sungkyunkwan University School of Medicine, 81 Irwon-ro, Gangnam-gu, Seoul, 06351 Republic of Korea 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.49606.3d</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1364 9317</institution-id>
+   <institution>Department of Surgery, </institution>
+   <institution>Myongji Hospital, Hanyang University College of Medicine, </institution>
+  </institution-wrap>Gyeonggi, Republic of Korea 
+ </aff>
+</contrib-group>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab5">
+ <label>Table 5</label>
+ <caption>
+  <p>Example from MCQ and example from course evaluation</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <tbody>
+   <tr>
+    <td colspan="5">Lesley 11 years old is in the hospital school while waiting to the results on blood samples. With her she has her medication box from home. Suddenly Lesley has a bit of a stomach-ache and would like her pain killer that she can take when she needs it. She just does not remember what it looks like.</td>
+   </tr>
+   <tr>
+    <td colspan="5">Who should the teacher contact:</td>
+   </tr>
+   <tr>
+    <td colspan="5">1. The nurse from the outpatient clinic</td>
+   </tr>
+   <tr>
+    <td colspan="5">2. The doctor from the outpatient clinic</td>
+   </tr>
+   <tr>
+    <td colspan="5">3. Lesley’s mom</td>
+   </tr>
+   <tr>
+    <td colspan="5">The professional content of the course was overall (only one mark):</td>
+   </tr>
+   <tr>
+    <td>Very poor</td>
+    <td>Poor</td>
+    <td>Acceptabel</td>
+    <td>Good</td>
+    <td>Very good</td>
+   </tr>
+   <tr>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

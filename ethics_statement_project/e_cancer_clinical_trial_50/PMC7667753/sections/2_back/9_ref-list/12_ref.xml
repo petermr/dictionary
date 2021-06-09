@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ghelardi</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Parazzini</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Martella</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Pieralli</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Bay</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Tonetti</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>SPERANZA project: HPV vaccination after treatment for CIN2</article-title>
+  <source>Gynecol Oncol</source>
+  <year>2018</year>
+  <volume>151</volume>
+  <issue>2</issue>
+  <fpage>229</fpage>
+  <lpage>234</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ygyno.2018.08.033</pub-id>
+  <?supplied-pmid 30197061?>
+  <pub-id pub-id-type="pmid">30197061</pub-id>
+ </element-citation>
+</ref>

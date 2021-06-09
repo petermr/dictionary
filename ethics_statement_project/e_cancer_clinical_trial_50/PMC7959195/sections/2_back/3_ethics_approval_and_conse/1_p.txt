@@ -1,0 +1,4 @@
+0: This trial was conducted in accordance with the Declaration of Helsinki.
+1: The study was approved by Research Ethics Committee of Cancer Hospital, Chinese Academy of Medical Sciences and Beijing Chaoyang Hospital, Capital Medical University.
+2: All the patients in this study provided written informed consent.
+3: Each enrolled patient provided written informed consent.

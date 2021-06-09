@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R64">
+ <label>64</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Bream</surname>
+    <given-names>MJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Dahmoush</surname>
+    <given-names>L</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Brown</surname>
+    <given-names>JA</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>pT0 prostate cancer: predictive clinicopathologic features in an American population</article-title>. 
+  <source>Curr Urol</source>
+  <year>2013</year>;
+  <volume>7</volume>:
+  <elocation-id>14</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1159/000343546</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/24917750?>
+  <pub-id pub-id-type="pmid">24917750</pub-id>
+ </mixed-citation>
+</ref>

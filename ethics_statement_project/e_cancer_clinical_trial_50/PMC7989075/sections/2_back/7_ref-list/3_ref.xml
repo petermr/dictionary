@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Oettle</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Neuhaus</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Hochhaus</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Hartmann</surname>
+    <given-names>JT</given-names>
+   </name>
+   <name>
+    <surname>Gellert</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Ridwelski</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Niedergethmann</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Zülke</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Fahlke</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Arning</surname>
+    <given-names>MB</given-names>
+   </name>
+   <name>
+    <surname>Sinn</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Hinke</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Riess</surname>
+    <given-names>H</given-names>
+   </name>
+  </person-group>
+  <article-title>Adjuvant chemotherapy with gemcitabine and long-term outcomes among patients with resected pancreatic cancer: the CONKO-001 randomized trial</article-title>
+  <source>Jama.</source>
+  <year>2013</year>
+  <volume>310</volume>
+  <issue>14</issue>
+  <fpage>1473</fpage>
+  <lpage>1481</lpage>
+  <pub-id pub-id-type="doi">10.1001/jama.2013.279201</pub-id>
+  <?supplied-pmid 24104372?>
+  <pub-id pub-id-type="pmid">24104372</pub-id>
+ </element-citation>
+</ref>

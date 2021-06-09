@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McQuay</surname>
+    <given-names>HJ</given-names>
+   </name>
+   <name>
+    <surname>Carroll</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Moore</surname>
+    <given-names>RA</given-names>
+   </name>
+  </person-group>
+  <article-title>Radiotherapy for painful bone metastases: a systematic review</article-title>
+  <source>Clin Oncol R Coll Radiol G B</source>
+  <year>1997</year>
+  <volume>9</volume>
+  <issue>3</issue>
+  <fpage>150</fpage>
+  <lpage>154</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0936-6555(97)80070-2</pub-id>
+ </element-citation>
+</ref>

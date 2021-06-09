@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>App</term>
+   <def>
+    <p id="Par5">Software applications</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AR</term>
+   <def>
+    <p id="Par6">Action Research</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DIS-A</term>
+   <def>
+    <p id="Par7">The NCCN Distress Thermometer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>eHLQ</term>
+   <def>
+    <p id="Par8">The eHealth Literacy Questionnaire</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GSES</term>
+   <def>
+    <p id="Par9">The Swedish version of the General Self-efficacy Scale</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>M</term>
+   <def>
+    <p id="Par10">Mean</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>QoL</term>
+   <def>
+    <p id="Par11">Quality of Life</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RCT</term>
+   <def>
+    <p id="Par12">Randomised Control Trial</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RT</term>
+   <def>
+    <p id="Par13">Radiation Therapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SD</term>
+   <def>
+    <p id="Par14">Standard deviation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VR</term>
+   <def>
+    <p id="Par15">Virtual reality</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit0008">
+ <label>8.</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Ljungqvist</surname>
+   <given-names>O</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Scott</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Fearon</surname>
+   <given-names>KC</given-names>
+  </string-name>. 
+  <article-title>Enhanced recovery after surgery: a review</article-title>. 
+  <source>
+   <italic toggle="yes">JAMA Surg</italic>
+  </source>. 
+  <year>2017</year>;
+  <volume>152</volume>:
+  <fpage>292</fpage>–
+  <lpage>298</lpage>. doi:
+  <pub-id pub-id-type="doi">10.1001/jamasurg.2016.4952</pub-id>
+  <pub-id pub-id-type="pmid">28097305</pub-id>
+ </mixed-citation>
+</ref>

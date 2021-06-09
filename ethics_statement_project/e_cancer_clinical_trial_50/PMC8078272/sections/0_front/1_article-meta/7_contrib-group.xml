@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Yunxia</given-names>
+  </name>
+  <degrees>MB</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Xiancui</given-names>
+  </name>
+  <degrees>MB</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wei</surname>
+   <given-names>Xiaowei</given-names>
+  </name>
+  <degrees>MD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Li</given-names>
+  </name>
+  <degrees>MB</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ren</surname>
+   <given-names>Xiuqin</given-names>
+  </name>
+  <degrees>MM</degrees>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>∗</sup>
+  </xref>
+ </contrib>
+</contrib-group>

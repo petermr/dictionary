@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>cRCT</term>
+   <def>
+    <p id="Par5">Cluster randomized controlled trial</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FHD</term>
+   <def>
+    <p id="Par6">Family Health Division</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FCHVs</term>
+   <def>
+    <p id="Par7">Female community health volunteers</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LMICs</term>
+   <def>
+    <p id="Par8">Low- and middle-income countries</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>UNFPA</term>
+   <def>
+    <p id="Par9">United Nations Population Fund</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WHO</term>
+   <def>
+    <p id="Par10">World Health Organization</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

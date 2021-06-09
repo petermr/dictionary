@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref20">
+ <label>20.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Hosoda</surname>  
+    <given-names>K</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Azuma</surname>  
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Katada</surname>  
+    <given-names>C</given-names>
+   </string-name>, 
+   <etal>et al.</etal>
+  </person-group>  
+  <article-title>A phase II study of neoadjuvant chemotherapy with docetaxel, cisplatin, and S-1, followed by gastrectomy with D2 lymph node dissection for high-risk advanced gastric cancer: results of the KDOG1001 trial</article-title>. 
+  <source>Gastric Cancer</source>  
+  <year>2019</year>;
+  <volume>22</volume>:
+  <fpage>598</fpage>–
+  <lpage>606</lpage>.
+  <pub-id pub-id-type="pmid">30284080</pub-id>
+ </mixed-citation>
+</ref>

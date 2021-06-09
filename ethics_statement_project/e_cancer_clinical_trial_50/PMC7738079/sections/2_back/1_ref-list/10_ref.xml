@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R10">
+ <label>[10]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Coombes</surname>
+    <given-names>RC</given-names>
+   </name>
+   <name>
+    <surname>Page</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Salari</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Personalized detection of circulating tumor DNA antedates breast cancer metastatic recurrence</article-title>. 
+  <source>Clin Cancer Res Off J Am Assoc Cancer Res</source>
+  <year>2019</year>;
+  <volume>25</volume>:
+  <fpage>4255</fpage>–
+  <lpage>63</lpage>. 
+  <comment>Published online April 16, doi: 10.1158/1078-0432.CCR-18-3663</comment>.
+ </mixed-citation>
+</ref>

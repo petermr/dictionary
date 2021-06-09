@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Paniccia</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Hosokawa</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Henderson</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Schulick</surname>
+    <given-names>RD</given-names>
+   </name>
+   <name>
+    <surname>Edil</surname>
+    <given-names>BH</given-names>
+   </name>
+   <name>
+    <surname>McCarter</surname>
+    <given-names>MD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Characteristics of 10-year survivors of pancreatic ductal adenocarcinoma</article-title>
+  <source>JAMA Surg</source>
+  <year>2015</year>
+  <volume>150</volume>
+  <issue>8</issue>
+  <fpage>701</fpage>
+  <lpage>710</lpage>
+  <pub-id pub-id-type="doi">10.1001/jamasurg.2015.0668</pub-id>
+  <?supplied-pmid 26062046?>
+  <pub-id pub-id-type="pmid">26062046</pub-id>
+ </element-citation>
+</ref>

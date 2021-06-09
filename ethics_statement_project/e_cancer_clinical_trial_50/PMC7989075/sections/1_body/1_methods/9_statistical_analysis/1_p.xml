@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par49">Sample size calculation was performed for the primary endpoint of OS. The median OS of 17 months for the chemoradiotherapy arm of the PREOPANC-1 trial (preliminary results, 149/176 events) was used as estimate for the comparator arm [
+ <xref ref-type="bibr" rid="CR25">25</xref>]. In order to detect a hazard ratio (HR) of 0.70 with 80% power (2-sided significance level alpha = 0.05), a total of 252 events (deaths) need to be observed. This HR translates into a median OS of about 24 months in the intervention arm, which is consistent with a large patient-level meta-analysis on neoadjuvant FOLFIRINOX treatment for borderline resectable pancreatic cancer [
+ <xref ref-type="bibr" rid="CR16">16</xref>]. The number of events is expected to be reached after inclusion of 368 eligible patients assuming an accrual rate of 10 patients per month with an accrual period of 3 years and an additional follow up of 1.5 years after the last patient has been randomized. Dropouts were rare in PREOPANC-1 and are therefore not accounted for. No interim analysis for the primary outcome is planned.
+</p>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Finn</surname>
+    <given-names>RS</given-names>
+   </name>
+   <name>
+    <surname>Martin</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Rugo</surname>
+    <given-names>HS</given-names>
+   </name>
+   <name>
+    <surname>Jones</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Im</surname>
+    <given-names>S-A</given-names>
+   </name>
+   <name>
+    <surname>Gelmon</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Harbeck</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Lipatov</surname>
+    <given-names>ON</given-names>
+   </name>
+   <name>
+    <surname>Walshe</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Moulder</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Gauthier</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>DR</given-names>
+   </name>
+   <name>
+    <surname>Randolph</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Diéras</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Slamon</surname>
+    <given-names>DJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Palbociclib and letrozole in advanced breast cancer</article-title>
+  <source>N Engl J Med</source>
+  <year>2016</year>
+  <volume>375</volume>
+  <issue>20</issue>
+  <fpage>1925</fpage>
+  <lpage>1936</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1607303</pub-id>
+  <?supplied-pmid 27959613?>
+  <pub-id pub-id-type="pmid">27959613</pub-id>
+ </element-citation>
+</ref>

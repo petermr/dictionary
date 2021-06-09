@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl1">
+ <label>Table 1</label>
+ <caption>
+  <p>Baseline characteristics</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th/>
+    <th align="left">
+     <bold>Patients (n=79)</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="2" align="left">Eligible patients (study population)</td>
+    <td align="left">75</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Age, years</td>
+    <td align="left">58 (50–66; 23–70)</td>
+   </tr>
+   <tr>
+    <td colspan="3" align="left">Sex</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Male</td>
+    <td align="left">38 (51%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Female</td>
+    <td align="left">37 (49%)</td>
+   </tr>
+   <tr>
+    <td colspan="3" align="left">Disease at enrolment</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">CNS involvement at presentation</td>
+    <td align="left">32 (43%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Isolated CNS relapse</td>
+    <td align="left">15 (20%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Concomitant CNS–systemic localisation</td>
+    <td align="left">28 (37%)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">HBV or HCV seropositivity</td>
+    <td align="left">2 (3%)</td>
+   </tr>
+   <tr>
+    <td colspan="3" align="left">Symptoms at enrolment</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">B symptoms
+     <xref rid="tbl1fn1" ref-type="table-fn">*</xref>
+    </td>
+    <td align="left">6 (8%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Motor impairment</td>
+    <td align="left">37 (49%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Sensorial impairment</td>
+    <td align="left">25 (33%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Language impairment</td>
+    <td align="left">7 (9%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Cognitive impairment</td>
+    <td align="left">15 (20%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Sensorial impairment</td>
+    <td align="left">12 (16%)</td>
+   </tr>
+   <tr>
+    <td colspan="3" align="left">CNS sites of disease</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Brain parenchyma</td>
+    <td align="left">34 (45%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Cerebrospinal fluid or meninges</td>
+    <td align="left">8 (11%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Spinal cord</td>
+    <td align="left">2 (3%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Eyes</td>
+    <td align="left">2 (3%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Brain and cerebrospinal fluid or meninges</td>
+    <td align="left">13 (17%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Brain and eyes</td>
+    <td align="left">10 (13%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Brain, cerebrospinal fluid, and eyes</td>
+    <td align="left">6 (8%)</td>
+   </tr>
+   <tr>
+    <td colspan="3" align="left">Extra-CNS sites of disease at enrolment</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">None</td>
+    <td align="left">15 (20%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Nodal disease (only lymphadenopathies)</td>
+    <td align="left">18 (24%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Extranodal disease (other than CNS)</td>
+    <td align="left">18 (24%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Nodal and extranodal disease</td>
+    <td align="left">24 (32%)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Extranodal disease at initial lymphoma diagnosis
+     <xref rid="tbl1fn2" ref-type="table-fn">†</xref>
+    </td>
+    <td align="left">59 (79%)</td>
+   </tr>
+   <tr>
+    <td colspan="3" align="left">IPI</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Age &gt;60 years</td>
+    <td align="left">32 (43%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">ECOG-PS &gt;1
+     <xref rid="tbl1fn3" ref-type="table-fn">‡</xref>
+    </td>
+    <td align="left">28 (37%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Number of extranodal organs involved &gt;1 (other than CNS)</td>
+    <td align="left">23 (31%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">High LDH serum concentration</td>
+    <td align="left">37 (49%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Advanced stage</td>
+    <td align="left">60 (80%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Low IPI risk</td>
+    <td align="left">14 (19%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Low–intermediate IPI risk</td>
+    <td align="left">18 (24%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">High–intermediate IPI risk</td>
+    <td align="left">26 (35%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">High IPI risk</td>
+    <td align="left">17 (23%)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Previous treatment</td>
+    <td align="left">43 (57%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">R-CHOP</td>
+    <td align="left">40 (93%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Other doxorubicin–rituximab (DA-R-EPOCH, R-VACOP)</td>
+    <td align="left">2 (5%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Rituximab–bendamustine</td>
+    <td align="left">1 (2%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Previous CNS prophylaxis (only intrathecal chemotherapy)</td>
+    <td align="left">7 (16%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Refractory to previous treatment (n=43)</td>
+    <td align="left">20 (47%)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>Data are median (IQR; range) or n (%). DA-R-EPOCH=dose-adjusted rituximab, etoposide, prednisolone, vincristine, cyclophosphamide, and doxorubicin. ECOG-PS=Eastern Cooperative Oncology Group Performance Status. HBV=hepatitis B virus. HCV=hepatitis C virus. IPI=International Prognostic Index. LDH=lactate dehydrogenase. R-CHOP=rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone. R-VACOP=rituximab, etoposide, doxorubicin, cyclophosphamide, vincristine, and prednisone.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fn1">
+   <label>*</label>
+   <p id="cenpara10">B symptoms are systemic symptoms—ie, fever of unknown origin, night sweats, and weight loss.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fn2">
+   <label>†</label>
+   <p id="cenpara20">Details on involved extranodal organs are provided in the 
+    <xref rid="sec1" ref-type="sec">appendix (p 6)</xref>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fn3">
+   <label>‡</label>
+   <p id="cenpara30">Median ECOG-PS was 1, with score 0 in 15 (20%) patients, 1 in 32 (43%) patients, 2 in 20 (27%) patients, and 3 in eight (11%) patients.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

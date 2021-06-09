@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R10">
+ <label>10</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Grant</surname>
+    <given-names>MJ</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Booth</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>A typology of reviews: an analysis of 14 review types and associated methodologies</article-title>. 
+  <source>Health Info Libr J</source>
+  <year>2009</year>;
+  <volume>26</volume>:
+  <fpage>91</fpage>–
+  <lpage>108</lpage>. 
+  <pub-id pub-id-type="doi">10.1111/j.1471-1842.2009.00848.x</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/19490148?>
+  <pub-id pub-id-type="pmid">19490148</pub-id>
+ </mixed-citation>
+</ref>

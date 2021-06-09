@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cox</surname>
+    <given-names>BW</given-names>
+   </name>
+   <name>
+    <surname>Spratt</surname>
+    <given-names>DE</given-names>
+   </name>
+   <name>
+    <surname>Lovelock</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Bilsky</surname>
+    <given-names>MH</given-names>
+   </name>
+   <name>
+    <surname>Lis</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Ryu</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>International spine radiosurgery consortium consensus guidelines for target volume definition in spinal stereotactic radiosurgery</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>2012</year>
+  <volume>83</volume>
+  <issue>5</issue>
+  <fpage>e597</fpage>
+  <lpage>e605</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2012.03.009</pub-id>
+  <pub-id pub-id-type="pmid">22608954</pub-id>
+ </element-citation>
+</ref>

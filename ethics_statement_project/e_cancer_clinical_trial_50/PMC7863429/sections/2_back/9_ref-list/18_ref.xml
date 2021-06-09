@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lutz</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Berk</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Chang</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Chow</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Hahn</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Hoskin</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Palliative radiotherapy for bone metastases: an ASTRO evidence-based guideline</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>2011</year>
+  <volume>79</volume>
+  <issue>4</issue>
+  <fpage>965</fpage>
+  <lpage>976</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2010.11.026</pub-id>
+  <pub-id pub-id-type="pmid">21277118</pub-id>
+ </element-citation>
+</ref>

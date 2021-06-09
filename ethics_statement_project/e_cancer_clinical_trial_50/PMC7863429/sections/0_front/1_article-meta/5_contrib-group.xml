@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Thureau</surname>
+   <given-names>Sébastien</given-names>
+  </name>
+  <address>
+   <email>sebastien.thureau@chb.unicancer.fr</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Marchesi</surname>
+   <given-names>Vincent</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vieillard</surname>
+   <given-names>Marie-Hélène</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Perrier</surname>
+   <given-names>Lionel</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lisbona</surname>
+   <given-names>Albert</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Leheurteur</surname>
+   <given-names>Marianne</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tredaniel</surname>
+   <given-names>Jean</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Culine</surname>
+   <given-names>Stéphane</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+  <xref ref-type="aff" rid="Aff10">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dubray</surname>
+   <given-names>Bernard</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bonnet</surname>
+   <given-names>Naïma</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff11">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Asselain</surname>
+   <given-names>Bernard</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff11">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Salleron</surname>
+   <given-names>Julia</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff12">12</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2617-3562</contrib-id>
+  <name>
+   <surname>Faivre</surname>
+   <given-names>Jean-Christophe</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.418189.d</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2175 1768</institution-id>
+   <institution>Radiation Oncology &amp; Medical Physics Department, </institution>
+   <institution>Henri-Becquerel Comprehensive Cancer Center, </institution>
+  </institution-wrap>rue d’Amiens, F-76 000 Rouen, France 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.10400.35</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2108 3034</institution-id>
+   <institution>EA4108 QuantIf Litis, University of Rouen, </institution>
+  </institution-wrap>22 boulevard Gambetta, 76000 Rouen, France 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>Academic Radiation Oncology &amp; Brachytherapy Department, Lorraine Institute of Cancerology - Alexis-Vautrin Comprehensive Cancer Center, 6 avenue de Bourgogne, 54519 Vandœuvre-lès-Nancy, France 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.410463.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0471 8845</institution-id>
+   <institution>Rheumatology Department, </institution>
+   <institution>University Hospital of Lille, </institution>
+  </institution-wrap>2 avenue Oscar Lambret, 59 000 Lille, France 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>UMR CNRS 5824, Léon Bérard Comprehensive Cancer Center, 28 rue laennec, 69 373 Lyon, France 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>Academic Radiation Oncology &amp; Brachytherapy Department, Institut de Cancérologie de l’Ouest – René Gauducheau Comprehensive Cancer Center, Boulevard Professeur Jacques Monod, 44805 Saint-Herblain, France 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.418189.d</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2175 1768</institution-id>
+   <institution>Medical Oncology Department, </institution>
+   <institution>Henri-Becquerel Comprehensive Cancer Center, </institution>
+  </institution-wrap>rue d’Amiens, 76000 Rouen, France 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.414363.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0274 7763</institution-id>
+   <institution>Pneumology Department, </institution>
+   <institution>University Hospital of Paris (Groupe hospitalier Paris Saint-Joseph), </institution>
+  </institution-wrap>185 Rue Raymond Losserand, 75014 Paris, France 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.50550.35</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2175 4109</institution-id>
+   <institution>Medical Oncology Department, </institution>
+   <institution>University Hospital of Paris (Saint-Louis Hospital), </institution>
+  </institution-wrap>1 avenue Claude Vellefaux, 75010 Paris, France 
+ </aff>
+ <aff id="Aff10">
+  <label>10</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.508487.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 7885 7602</institution-id>
+   <institution>Paris Diderot University, </institution>
+  </institution-wrap>16 rue Huchard, 75018 Paris, France 
+ </aff>
+ <aff id="Aff11">
+  <label>11</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.418189.d</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2175 1768</institution-id>
+   <institution>Unicancer, </institution>
+  </institution-wrap>101, rue de Tolbiac, F-75654 Paris, France 
+ </aff>
+ <aff id="Aff12">
+  <label>12</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.452436.2</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 8775 4825</institution-id>
+   <institution>Biostatistics Department, </institution>
+   <institution>Institut de Cancérologie de Lorraine - Alexis-Vautrin Comprehensive Cancer Center, </institution>
+  </institution-wrap>6 avenue de Bourgogne, F-54519 Vandœuvre-lès-Nancy, France 
+ </aff>
+</contrib-group>

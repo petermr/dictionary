@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="author-70923665" contrib-type="author" equal-contrib="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8400-7290</contrib-id>
+  <name>
+   <surname>He</surname>
+   <given-names>Biming</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1"/>
+ </contrib>
+ <contrib id="author-76447718" contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Li</surname>
+   <given-names>Rongbing</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1"/>
+ </contrib>
+ <contrib id="author-76447742" contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Dongyang</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1"/>
+ </contrib>
+ <contrib id="author-76447754" contrib-type="author">
+  <name>
+   <surname>Huang</surname>
+   <given-names>Liqun</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1"/>
+ </contrib>
+ <contrib id="author-76447771" contrib-type="author">
+  <name>
+   <surname>Wen</surname>
+   <given-names>Xiaofei</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1"/>
+ </contrib>
+ <contrib id="author-76447760" contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Guosheng</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1"/>
+ </contrib>
+ <contrib id="author-71268427" contrib-type="author" corresp="yes">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Haifeng</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1"/>
+ </contrib>
+</contrib-group>

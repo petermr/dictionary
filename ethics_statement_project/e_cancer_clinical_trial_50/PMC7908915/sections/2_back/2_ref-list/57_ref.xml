@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R57">
+ <label>57</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Connor</surname>
+    <given-names>MJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Smith</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Miah</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Targeting oligometastasis with stereotactic ablative radiation therapy or surgery in metastatic hormone-sensitive prostate cancer: a systematic review of prospective clinical trials</article-title>. 
+  <source>Eur Urol Oncol</source>
+  <year>2020</year>;
+  <volume>3</volume>:
+  <fpage>582</fpage>–
+  <lpage>93</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.euo.2020.07.004</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32891600?>
+  <pub-id pub-id-type="pmid">32891600</pub-id>
+ </mixed-citation>
+</ref>

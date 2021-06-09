@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Douillard</surname>
+    <given-names>J-Y</given-names>
+   </name>
+   <name>
+    <surname>Tribodet</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Aubert</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Shepherd</surname>
+    <given-names>FA</given-names>
+   </name>
+   <name>
+    <surname>Rosell</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Ding</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Adjuvant Cisplatin and Vinorelbine for completely resected non-small cell lung Cancer: subgroup analysis of the lung adjuvant Cisplatin evaluation</article-title>
+  <source>J Thorac Oncol</source>
+  <year>2010</year>
+  <volume>5</volume>
+  <fpage>220</fpage>
+  <lpage>228</lpage>
+  <pub-id pub-id-type="doi">10.1097/JTO.0b013e3181c814e7</pub-id>
+  <pub-id pub-id-type="pmid">20027124</pub-id>
+ </element-citation>
+</ref>

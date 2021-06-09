@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R31">
+ <label>31</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Sabel</surname>
+    <given-names>MS</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Cryo-immunology: a review of the literature and proposed mechanisms for stimulatory versus suppressive immune responses</article-title>. 
+  <source>Cryobiology</source>
+  <year>2009</year>;
+  <volume>58</volume>:
+  <fpage>1</fpage>–
+  <lpage>11</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.cryobiol.2008.10.126</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/19007768?>
+  <pub-id pub-id-type="pmid">19007768</pub-id>
+ </mixed-citation>
+</ref>

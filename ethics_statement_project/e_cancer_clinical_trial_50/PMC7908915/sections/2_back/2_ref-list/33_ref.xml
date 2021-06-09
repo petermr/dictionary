@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R33">
+ <label>33</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Benzon</surname>
+    <given-names>B</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Glavaris</surname>
+    <given-names>SA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Simons</surname>
+    <given-names>BW</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Combining immune check-point blockade and cryoablation in an immunocompetent hormone sensitive murine model of prostate cancer</article-title>. 
+  <source>Prostate Cancer Prostatic Dis</source>
+  <year>2018</year>;
+  <volume>21</volume>:
+  <fpage>126</fpage>–
+  <lpage>36</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/s41391-018-0035-z</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/29556048?>
+  <pub-id pub-id-type="pmid">29556048</pub-id>
+ </mixed-citation>
+</ref>

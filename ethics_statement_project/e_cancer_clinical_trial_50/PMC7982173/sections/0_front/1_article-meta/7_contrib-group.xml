@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1358-1572</contrib-id>
+  <name>
+   <surname>Liu</surname>
+   <given-names>Chao</given-names>
+  </name>
+  <degrees>MB</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Jing</given-names>
+  </name>
+  <degrees>MM</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dong</surname>
+   <given-names>Weiwei</given-names>
+  </name>
+  <degrees>MB</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yuan</surname>
+   <given-names>Jinyan</given-names>
+  </name>
+  <degrees>MB</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>∗</sup>
+  </xref>
+ </contrib>
+</contrib-group>

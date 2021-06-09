@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-3739-160X</contrib-id>
+  <name>
+   <surname>Shiozaki</surname>
+   <given-names>Atsushi</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>∗</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kudou</surname>
+   <given-names>Michihiro</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fujiwara</surname>
+   <given-names>Hitoshi</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Konishi</surname>
+   <given-names>Hirotaka</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shimizu</surname>
+   <given-names>Hiroki</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Arita</surname>
+   <given-names>Tomohiro</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kosuga</surname>
+   <given-names>Toshiyuki</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yamamoto</surname>
+   <given-names>Yusuke</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Morimura</surname>
+   <given-names>Ryo</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ikoma</surname>
+   <given-names>Hisashi</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kuriu</surname>
+   <given-names>Yoshiaki</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kubota</surname>
+   <given-names>Takeshi</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Okamoto</surname>
+   <given-names>Kazuma</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Otsuji</surname>
+   <given-names>Eigo</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+</contrib-group>

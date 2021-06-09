@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au10">
+  <name>
+   <surname>Ferreri</surname>
+   <given-names>Andrés J M</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <email>ferreri.andres@hsr.it</email>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="cor1" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au20">
+  <name>
+   <surname>Doorduijn</surname>
+   <given-names>Jeanette K</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff2" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au30">
+  <name>
+   <surname>Re</surname>
+   <given-names>Alessandro</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff4" ref-type="aff">d</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au40">
+  <name>
+   <surname>Cabras</surname>
+   <given-names>Maria Giuseppina</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff5" ref-type="aff">e</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au50">
+  <name>
+   <surname>Smith</surname>
+   <given-names>Jeffery</given-names>
+  </name>
+  <degrees>MBChB</degrees>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au60">
+  <name>
+   <surname>Ilariucci</surname>
+   <given-names>Fiorella</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff7" ref-type="aff">g</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au70">
+  <name>
+   <surname>Luppi</surname>
+   <given-names>Mario</given-names>
+  </name>
+  <degrees>Prof</degrees>
+  <degrees>PhD</degrees>
+  <xref rid="aff8" ref-type="aff">h</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au80">
+  <name>
+   <surname>Calimeri</surname>
+   <given-names>Teresa</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au90">
+  <name>
+   <surname>Cattaneo</surname>
+   <given-names>Chiara</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff4" ref-type="aff">d</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au100">
+  <name>
+   <surname>Khwaja</surname>
+   <given-names>Jahanzaib</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff9" ref-type="aff">i</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au110">
+  <name>
+   <surname>Botto</surname>
+   <given-names>Barbara</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff10" ref-type="aff">j</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au120">
+  <name>
+   <surname>Cellini</surname>
+   <given-names>Claudia</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff11" ref-type="aff">k</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au130">
+  <name>
+   <surname>Nassi</surname>
+   <given-names>Luca</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff12" ref-type="aff">l</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au140">
+  <name>
+   <surname>Linton</surname>
+   <given-names>Kim</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff13" ref-type="aff">m</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au150">
+  <name>
+   <surname>McKay</surname>
+   <given-names>Pam</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff14" ref-type="aff">n</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au160">
+  <name>
+   <surname>Olivieri</surname>
+   <given-names>Jacopo</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff15" ref-type="aff">o</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au170">
+  <name>
+   <surname>Patti</surname>
+   <given-names>Caterina</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff16" ref-type="aff">p</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au180">
+  <name>
+   <surname>Re</surname>
+   <given-names>Francesca</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff17" ref-type="aff">q</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au190">
+  <name>
+   <surname>Fanni</surname>
+   <given-names>Alessandro</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff5" ref-type="aff">e</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au200">
+  <name>
+   <surname>Singh</surname>
+   <given-names>Vikram</given-names>
+  </name>
+  <degrees>MRCP</degrees>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au210">
+  <name>
+   <surname>Bromberg</surname>
+   <given-names>Jacoline E C</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff3" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au220">
+  <name>
+   <surname>Cozens</surname>
+   <given-names>Kelly</given-names>
+  </name>
+  <degrees>MS</degrees>
+  <xref rid="aff18" ref-type="aff">r</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au230">
+  <name>
+   <surname>Gastaldi</surname>
+   <given-names>Elisabetta</given-names>
+  </name>
+  <degrees>MS</degrees>
+  <xref rid="aff20" ref-type="aff">t</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au240">
+  <name>
+   <surname>Bernardi</surname>
+   <given-names>Massimo</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au250">
+  <name>
+   <surname>Cascavilla</surname>
+   <given-names>Nicola</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff21" ref-type="aff">u</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au260">
+  <name>
+   <surname>Davies</surname>
+   <given-names>Andrew</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff19" ref-type="aff">s</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au270">
+  <name>
+   <surname>Fox</surname>
+   <given-names>Christopher P</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff22" ref-type="aff">v</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au280">
+  <name>
+   <surname>Frezzato</surname>
+   <given-names>Maurizio</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff23" ref-type="aff">w</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au290">
+  <name>
+   <surname>Osborne</surname>
+   <given-names>Wendy</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff24" ref-type="aff">x</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au300">
+  <name>
+   <surname>Liberati</surname>
+   <given-names>Anna Marina</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff25" ref-type="aff">y</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au310">
+  <name>
+   <surname>Novak</surname>
+   <given-names>Urban</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff26" ref-type="aff">z</xref>
+  <xref rid="aff29" ref-type="aff">ac</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au320">
+  <name>
+   <surname>Zambello</surname>
+   <given-names>Renato</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff27" ref-type="aff">aa</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au330">
+  <name>
+   <surname>Zucca</surname>
+   <given-names>Emanuele</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff20" ref-type="aff">t</xref>
+  <xref rid="aff26" ref-type="aff">z</xref>
+  <xref rid="aff28" ref-type="aff">ab</xref>
+  <xref rid="aff29" ref-type="aff">ac</xref>
+  <xref rid="aff30" ref-type="aff">ad</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au340">
+  <name>
+   <surname>Cwynarski</surname>
+   <given-names>Kate</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff9" ref-type="aff">i</xref>
+ </contrib>
+ <on-behalf-of>for the International Extranodal Lymphoma Study Group (IELSG)</on-behalf-of>
+ <aff id="aff1">
+  <label>a</label>Lymphoma Unit, Department of Onco-Hematology, IRCCS San Raffaele Scientific Institute, Milan, Italy
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Department of Hematology, Erasmus MC Cancer Institute, Rotterdam, Netherlands
+ </aff>
+ <aff id="aff3">
+  <label>c</label>Department of Neurology, Erasmus MC Cancer Institute, Rotterdam, Netherlands
+ </aff>
+ <aff id="aff4">
+  <label>d</label>Spedali Civili, Brescia, Italy
+ </aff>
+ <aff id="aff5">
+  <label>e</label>Ospedale Oncologico Businco, Cagliari, Italy
+ </aff>
+ <aff id="aff6">
+  <label>f</label>Department of Haematology, Aintree Hospital, Liverpool, UK
+ </aff>
+ <aff id="aff7">
+  <label>g</label>Division of Hematology, Azienda USL-IRCCS Reggio Emilia, Reggio Emilia, Italy
+ </aff>
+ <aff id="aff8">
+  <label>h</label>Azienda Ospedaliera Universitaria, UNIMORE, Modena, Italy
+ </aff>
+ <aff id="aff9">
+  <label>i</label>Department of Haematology, University College Hospital, London, UK
+ </aff>
+ <aff id="aff10">
+  <label>j</label>AOU Città della salute e della Scienza, Turin, Italy
+ </aff>
+ <aff id="aff11">
+  <label>k</label>Ospedale di Ravenna, IRST, Ravenna, Italy
+ </aff>
+ <aff id="aff12">
+  <label>l</label>Division of Hematology, Department of Translational Medicine, University of Eastern Piedmont and AOU Maggiore della Carità, Novara, Italy
+ </aff>
+ <aff id="aff13">
+  <label>m</label>Department of Haemato-Oncology, The Christie Hospital, Manchester, UK
+ </aff>
+ <aff id="aff14">
+  <label>n</label>Beatson Cancer Centre, Glasgow, UK
+ </aff>
+ <aff id="aff15">
+  <label>o</label>AOU Santa Maria della Misericordia, Udine, Italy
+ </aff>
+ <aff id="aff16">
+  <label>p</label>Division of Hematology, Azienda Villa Sofia-Cervello, Palermo, Italy
+ </aff>
+ <aff id="aff17">
+  <label>q</label>AO Parma, Parma, Italy
+ </aff>
+ <aff id="aff18">
+  <label>r</label>Southampton Clinical Trials Unit, University of Southampton, Southampton, UK
+ </aff>
+ <aff id="aff19">
+  <label>s</label>Cancer Research UK Centre, University of Southampton, Southampton, UK
+ </aff>
+ <aff id="aff20">
+  <label>t</label>International Extranodal Lymphoma Study Group Coordinating Center, Institute of Oncology Research, Università della Svizzera Italiana, Bellinzona, Switzerland
+ </aff>
+ <aff id="aff21">
+  <label>u</label>Casa Sollievo della Sofferenza Hospital, IRCCS, San Giovanni Rotondo, Italy
+ </aff>
+ <aff id="aff22">
+  <label>v</label>Department of Clinical Haematology, Nottingham University Hospitals NHS Trust, Nottingham, UK
+ </aff>
+ <aff id="aff23">
+  <label>w</label>San Bortolo Hospital, Vicenza, Italy
+ </aff>
+ <aff id="aff24">
+  <label>x</label>Department of Haematology, Newcastle Upon Tyne Hospitals NHS Foundation Trust, Newcastle, UK
+ </aff>
+ <aff id="aff25">
+  <label>y</label>Università Degli Studi di Perugia—AO Santa Maria, Terni, Italy
+ </aff>
+ <aff id="aff26">
+  <label>z</label>Department of Medical Oncology, Inselspital, Bern University Hospital, Bern, Switzerland
+ </aff>
+ <aff id="aff27">
+  <label>aa</label>Azienda Ospedaliera di Padova, Padua, Italy
+ </aff>
+ <aff id="aff28">
+  <label>ab</label>Medical Oncology Clinic, Oncology Institute of Southern Switzerland, Ente Ospedaliero Cantonale, Bellinzona, Switzerland
+ </aff>
+ <aff id="aff29">
+  <label>ac</label>Swiss Group for Clinical Cancer Research, Bern, Switzerland
+ </aff>
+ <aff id="aff30">
+  <label>ad</label>Faculty of Biomedical Sciences, Università della Svizzera Italiana, Lugano, Switzerland
+ </aff>
+</contrib-group>

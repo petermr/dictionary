@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Grant</surname>
+    <given-names>DG</given-names>
+   </name>
+   <name>
+    <surname>Salassa</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Hinni</surname>
+    <given-names>ML</given-names>
+   </name>
+   <name>
+    <surname>Pearson</surname>
+    <given-names>BW</given-names>
+   </name>
+   <name>
+    <surname>Hayden</surname>
+    <given-names>RE</given-names>
+   </name>
+   <name>
+    <surname>Perry</surname>
+    <given-names>WC</given-names>
+   </name>
+  </person-group>
+  <article-title>Transoral laser microsurgery for carcinoma of the supraglottic larynx</article-title>
+  <source>Otolaryngol Head Neck Surg</source>
+  <year>2007</year>
+  <volume>136</volume>
+  <issue>6</issue>
+  <fpage>900</fpage>
+  <lpage>906</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.otohns.2006.12.015</pub-id>
+  <?supplied-pmid 17547977?>
+  <pub-id pub-id-type="pmid">17547977</pub-id>
+ </element-citation>
+</ref>

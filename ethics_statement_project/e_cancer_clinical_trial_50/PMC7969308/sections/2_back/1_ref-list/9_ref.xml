@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R9">
+ <label>[9]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gilliam</surname>
+    <given-names>LAA</given-names>
+   </name>
+   <name>
+    <surname>Fisher-Wellman</surname>
+    <given-names>KH</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>CT</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>The anticancer agent doxorubicin disrupts mitochondrial energy metabolism and redox balance in skeletal muscle</article-title>. 
+  <source>Free Radic Biol Med</source>
+  <year>2013</year>;
+  <volume>65</volume>:
+  <fpage>988</fpage>–
+  <lpage>96</lpage>.
+  <pub-id pub-id-type="pmid">24017970</pub-id>
+ </mixed-citation>
+</ref>

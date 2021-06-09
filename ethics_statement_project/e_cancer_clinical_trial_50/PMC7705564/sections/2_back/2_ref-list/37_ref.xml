@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R37">
+ <label>37</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Mauguen</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Pignon</surname>
+    <given-names>J-P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Burdett</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Surrogate endpoints for overall survival in chemotherapy and radiotherapy trials in operable and locally advanced lung cancer: a re-analysis of meta-analyses of individual patients' data</article-title>. 
+  <source>Lancet Oncol</source>
+  <year>2013</year>;
+  <volume>14</volume>:
+  <fpage>619</fpage>–
+  <lpage>26</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(13)70158-X</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/23680111?>
+  <pub-id pub-id-type="pmid">23680111</pub-id>
+ </mixed-citation>
+</ref>

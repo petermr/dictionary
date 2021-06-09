@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Strandberg</surname>
+   <given-names>Emelie</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>∗</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vassbakk-Svindland</surname>
+   <given-names>Karianne</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Henriksson</surname>
+   <given-names>Anna</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Johansson</surname>
+   <given-names>Birgitta</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vikmoen</surname>
+   <given-names>Olav</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kudrén</surname>
+   <given-names>David</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Schauer</surname>
+   <given-names>Tim</given-names>
+  </name>
+  <degrees>MSc</degrees>
+  <xref ref-type="aff" rid="aff4">
+   <sup>d</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lindman</surname>
+   <given-names>Henrik</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff5">
+   <sup>e</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wärnberg</surname>
+   <given-names>Fredrik</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff6">
+   <sup>f</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Berntsen</surname>
+   <given-names>Sveinung</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff7">
+   <sup>g</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Demmelmaier</surname>
+   <given-names>Ingrid</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nordin</surname>
+   <given-names>Karin</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Raastad</surname>
+   <given-names>Truls</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff7">
+   <sup>g</sup>
+  </xref>
+ </contrib>
+</contrib-group>

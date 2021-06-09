@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R53">
+ <label>53</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Sheng</surname>
+    <given-names>M-X</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Wan</surname>
+    <given-names>L-L</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Liu</surname>
+    <given-names>C-M</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Cytoreductive cryosurgery in patients with bone metastatic prostate cancer: a retrospective analysis</article-title>. 
+  <source>Kaohsiung J Med Sci</source>
+  <year>2017</year>;
+  <volume>33</volume>:
+  <fpage>609</fpage>–
+  <lpage>15</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.kjms.2017.07.002</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/29132550?>
+  <pub-id pub-id-type="pmid">29132550</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yano</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Yamazaki</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Maruyama</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Tokunaga</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Shoji</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Higashi</surname>
+    <given-names>H</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Feasibility study of postoperative adjuvant chemotherapy with S-1 (tegaful, gimeracil, oteracil potassium) for non-small cell lung cancer-LOGIK 0601 study</article-title>
+  <source>Lung Cancer</source>
+  <year>2010</year>
+  <volume>67</volume>
+  <fpage>184</fpage>
+  <lpage>187</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.lungcan.2009.03.028</pub-id>
+  <pub-id pub-id-type="pmid">19409643</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Papanicolaou</surname>
+    <given-names>AC</given-names>
+   </name>
+   <name>
+    <surname>Simos</surname>
+    <given-names>PG</given-names>
+   </name>
+   <name>
+    <surname>Castillo</surname>
+    <given-names>EM</given-names>
+   </name>
+   <name>
+    <surname>Breier</surname>
+    <given-names>JI</given-names>
+   </name>
+   <name>
+    <surname>Katz</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Wright</surname>
+    <given-names>AA</given-names>
+   </name>
+  </person-group>
+  <article-title>The hippocampus and memory of verbal and pictorial material</article-title>
+  <source>Learn Mem</source>
+  <year>2002</year>
+  <volume>9</volume>
+  <fpage>99</fpage>
+  <lpage>104</lpage>
+  <pub-id pub-id-type="doi">10.1101/lm.44302</pub-id>
+  <?supplied-pmid 182590?>
+  <pub-id pub-id-type="pmid">12074997</pub-id>
+ </element-citation>
+</ref>

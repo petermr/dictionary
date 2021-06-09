@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Dose prescription and fractionation to be used for patients on the AVATAR study</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Preferred dose (Gy)</th>
+    <th>Number of fractions</th>
+    <th>BED
+     <sub>
+      <bold>4</bold>
+     </sub> (Gy)
+    </th>
+    <th>Acceptable range Doses (Gy)</th>
+    <th>BED
+     <sub>
+      <bold>4</bold>
+     </sub> (Gy)
+    </th>
+    <th>Frequency</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>20</td>
+    <td>1</td>
+    <td>120</td>
+    <td>16–24</td>
+    <td>80–168</td>
+    <td>–</td>
+   </tr>
+   <tr>
+    <td>30</td>
+    <td>3</td>
+    <td>105</td>
+    <td>24–33</td>
+    <td>72–123.75</td>
+    <td>Daily</td>
+   </tr>
+   <tr>
+    <td>35</td>
+    <td>5</td>
+    <td>96.25</td>
+    <td>25–40</td>
+    <td>56.25–120</td>
+    <td>Daily</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

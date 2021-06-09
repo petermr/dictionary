@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R41">
+ <label>41</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Thompson</surname>
+    <given-names>IM</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Tangen</surname>
+    <given-names>C</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Basler</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Impact of previous local treatment for prostate cancer on subsequent metastatic disease</article-title>. 
+  <source>J Urol</source>
+  <year>2002</year>;
+  <volume>168</volume>:
+  <fpage>1008</fpage>–
+  <lpage>12</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S0022-5347(05)64562-4</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/12187210?>
+  <pub-id pub-id-type="pmid">12187210</pub-id>
+ </mixed-citation>
+</ref>

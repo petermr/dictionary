@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par44">Patients are eligible for this study when the following inclusion criteria are met: 
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par45">age ≥ 18 year</p>
+  </list-item>
+  <list-item>
+   <p id="Par46">advanced or metastatic cutaneous melanoma</p>
+  </list-item>
+  <list-item>
+   <p id="Par47">current monotherapy with first-line nivolumab or pembrolizumab for advanced or metastatic melanoma; previous systemic treatment, including immunotherapy, in (neo) adjuvant setting for resectable melanoma is allowed</p>
+  </list-item>
+  <list-item>
+   <p id="Par48">documented diagnostic CT or MRI at the start of PD-1 blockade with nivolumab or pembrolizumab 
+    <list list-type="bullet">
+     <list-item>
+      <p id="Par49">for patients with CR on a diagnostic CT at response evaluation, a low-dose CT (i.e. usually included for positron emission tomography [PET] using fluorine-18 fluorodeoxyglucose [
+       <sup>18</sup>F-FDG]) is allowed at baseline
+      </p>
+     </list-item>
+     <list-item>
+      <p id="Par50">for patients with PR on a diagnostic CT at response evaluation, a low-dose CT (i.e. usually included for 
+       <sup>18</sup>F-FDG PET) is allowed at baseline if sufficient target lesions are measurable for response evaluation according to RECIST v1.1 criteria [
+       <xref ref-type="bibr" rid="CR34">34</xref>]; in this specific case, the sponsor should be consulted
+      </p>
+     </list-item>
+    </list>
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par51">documented tumour response evaluation every 12 ± 1 weeks according to RECIST v1.1 [
+    <xref ref-type="bibr" rid="CR34">34</xref>] using a diagnostic CT and/or MRI as per standard clinical practice
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par52">having confirmed CR (with an interval of 6–12 [+ 1] weeks after first documentation) or an ongoing PR (with an interval of 12 [±1] weeks after first documentation) according to RECIST v1.1 [
+    <xref ref-type="bibr" rid="CR34">34</xref>] using a diagnostic CT and/or MRI
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par53">presence of MRI brain for the screening of brain metastases (prior to first start or discontinuation of PD-1 blockade)</p>
+  </list-item>
+  <list-item>
+   <p id="Par54">planned and willing to discontinue nivolumab or pembrolizumab within 6 (+ 1) weeks after first confirmation of CR or PR and within 2 years from initiation of treatment</p>
+  </list-item>
+  <list-item>
+   <p id="Par55">signed and dated informed consent form</p>
+  </list-item>
+ </list>
+</p>

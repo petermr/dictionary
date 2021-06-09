@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cas14841-bib-0001">
+ <label>1</label>
+ <mixed-citation publication-type="journal" id="cas14841-cit-0001">
+  <string-name>
+   <surname>Van Cutsem</surname>
+   <given-names>E</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Cervantes</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Adam</surname>
+   <given-names>R</given-names>
+  </string-name>, et al. 
+  <article-title>ESMO consensus guidelines for the management of patients with metastatic colorectal cancer</article-title>. 
+  <source xml:lang="en">Ann Oncol</source>. 
+  <year>2016</year>;
+  <volume>27</volume>(
+  <issue>8</issue>):
+  <fpage>1386</fpage>‐
+  <lpage>1422</lpage>.
+  <pub-id pub-id-type="pmid">27380959</pub-id>
+ </mixed-citation>
+</ref>

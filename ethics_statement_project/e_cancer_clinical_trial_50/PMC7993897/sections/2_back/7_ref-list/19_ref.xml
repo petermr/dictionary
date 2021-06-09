@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hamid</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Robert</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Daud</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Five-year survival outcomes for patients with advanced melanoma treated with pembrolizumab in KEYNOTE-001</article-title>
+  <source>Ann Oncol</source>
+  <year>2019</year>
+  <volume>30</volume>
+  <issue>4</issue>
+  <fpage>582</fpage>
+  <lpage>588</lpage>
+  <pub-id pub-id-type="doi">10.1093/annonc/mdz011</pub-id>
+  <?supplied-pmid 30715153?>
+  <pub-id pub-id-type="pmid">30715153</pub-id>
+ </element-citation>
+</ref>

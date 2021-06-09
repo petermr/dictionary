@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Bahig</surname>
+   <given-names>Houda</given-names>
+  </name>
+  <address>
+   <email>Houda.bahig.chum@ssss.gouv.qc.ca</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Rosenthal</surname>
+   <given-names>David I.</given-names>
+  </name>
+  <address>
+   <email>dirosenthal@mdanderson.org</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nguyen-Tan</surname>
+   <given-names>Félix-Phuc</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fuller</surname>
+   <given-names>David C.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yuan</surname>
+   <given-names>Ying</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hutcheson</surname>
+   <given-names>Katherine A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Christopoulos</surname>
+   <given-names>Apostolos</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nichols</surname>
+   <given-names>Anthony C.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fung</surname>
+   <given-names>Kevin</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ballivy</surname>
+   <given-names>Olivier</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Filion</surname>
+   <given-names>Edith</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ng</surname>
+   <given-names>Sweet Ping</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lambert</surname>
+   <given-names>Louise</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dorth</surname>
+   <given-names>Jennifer</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hu</surname>
+   <given-names>Kenneth S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff10">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Palma</surname>
+   <given-names>David</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff11">11</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.410559.c</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0743 2111</institution-id>
+   <institution>Radiation Oncology Department, </institution>
+   <institution>Centre Hospitalier de l’Université de Montréal, </institution>
+  </institution-wrap>1051 Sanguinet, Montreal, QC H2X 3E4 Canada 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.240145.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2291 4776</institution-id>
+   <institution>Radiation Oncology Department, </institution>
+   <institution>University of Texas MD Anderson Cancer Center, </institution>
+  </institution-wrap>1515 Holcombe, Houston, TX 77030 USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.240145.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2291 4776</institution-id>
+   <institution>Biostatistics Department, </institution>
+   <institution>University of Texas MD Anderson Cancer Center, </institution>
+  </institution-wrap>Houston, USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.240145.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2291 4776</institution-id>
+   <institution>Head and Neck Surgery Department, </institution>
+   <institution>University of Texas MD Anderson Cancer Center, </institution>
+  </institution-wrap>Houston, USA 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.410559.c</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0743 2111</institution-id>
+   <institution>Head and Neck Surgery Department, </institution>
+   <institution>Centre Hospitalier de l’Université de Montréal, </institution>
+  </institution-wrap>Montreal, Canada 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.39381.30</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8884</institution-id>
+   <institution>Department of Otolaryngology - Head and Neck Surgery, </institution>
+   <institution>Western University, </institution>
+  </institution-wrap>London, Ontario Canada 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.1055.1</institution-id>
+   <institution-id institution-id-type="ISNI">0000000403978434</institution-id>
+   <institution>Radiation Oncology Department, </institution>
+   <institution>Peter MacCallum Cancer Centre, </institution>
+  </institution-wrap>Melbourne, Australia 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>Radiation Oncology Department, Centre Intégré de Cancérologie de Laval, Laval, Canada 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.67105.35</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2164 3847</institution-id>
+   <institution>Radiation Oncology Department, </institution>
+   <institution>Case Western Reserve University, </institution>
+  </institution-wrap>Cleveland, USA 
+ </aff>
+ <aff id="Aff10">
+  <label>10</label>Radiation Oncology Department, NYU Langone Health, Newyork, USA 
+ </aff>
+ <aff id="Aff11">
+  <label>11</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.39381.30</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8884</institution-id>
+   <institution>Radiation Oncology Department, </institution>
+   <institution>Western University, </institution>
+  </institution-wrap>London, Ontario Canada 
+ </aff>
+</contrib-group>

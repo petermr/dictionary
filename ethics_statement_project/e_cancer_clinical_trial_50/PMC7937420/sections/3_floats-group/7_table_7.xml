@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="TB7" orientation="portrait" position="float">
+ <label>Table 7</label>
+ <caption>
+  <p>Pathological findings according to the 14th edition of Japanese classification of gastric carcinoma</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <colgroup span="1">
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+  </colgroup>
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">Characteristic</th>
+    <th align="left" rowspan="1" colspan="1">Variable</th>
+    <th align="left" rowspan="1" colspan="1">Number of patients (
+     <italic>n</italic> = 30)
+    </th>
+    <th align="left" rowspan="1" colspan="1">(%)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">Pathological T factor</td>
+    <td rowspan="1" colspan="1">ypT0</td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">3.3</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypT1</td>
+    <td rowspan="1" colspan="1">4</td>
+    <td rowspan="1" colspan="1">13.3</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypT2</td>
+    <td rowspan="1" colspan="1">2</td>
+    <td rowspan="1" colspan="1">6.7</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypT3</td>
+    <td rowspan="1" colspan="1">12</td>
+    <td rowspan="1" colspan="1">40.0</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypT4a</td>
+    <td rowspan="1" colspan="1">11</td>
+    <td rowspan="1" colspan="1">36.7</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypT4b</td>
+    <td rowspan="1" colspan="1">0</td>
+    <td rowspan="1" colspan="1">0.0</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Pathological N factor</td>
+    <td rowspan="1" colspan="1">ypN0</td>
+    <td rowspan="1" colspan="1">10</td>
+    <td rowspan="1" colspan="1">33.3</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypN1</td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">3.3</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypN2</td>
+    <td rowspan="1" colspan="1">9</td>
+    <td rowspan="1" colspan="1">30.0</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypN3a</td>
+    <td rowspan="1" colspan="1">7</td>
+    <td rowspan="1" colspan="1">23.3</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypN3b</td>
+    <td rowspan="1" colspan="1">3</td>
+    <td rowspan="1" colspan="1">10.0</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Number of resected lymph nodes</td>
+    <td rowspan="1" colspan="1">Median</td>
+    <td rowspan="1" colspan="1">38</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Range</td>
+    <td rowspan="1" colspan="1">22–72</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">CY factor</td>
+    <td rowspan="1" colspan="1">CY0</td>
+    <td rowspan="1" colspan="1">30</td>
+    <td rowspan="1" colspan="1">100.0</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">CY1</td>
+    <td rowspan="1" colspan="1">0</td>
+    <td rowspan="1" colspan="1">0.0</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Pathological M factor</td>
+    <td rowspan="1" colspan="1">M0</td>
+    <td rowspan="1" colspan="1">30</td>
+    <td rowspan="1" colspan="1">100.0</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">M1</td>
+    <td rowspan="1" colspan="1">0</td>
+    <td rowspan="1" colspan="1">0.0</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Pathological stage</td>
+    <td rowspan="1" colspan="1">ypStage 0</td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">3.3</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypStage IA</td>
+    <td rowspan="1" colspan="1">3</td>
+    <td rowspan="1" colspan="1">10.0</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypStage IB</td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">3.3</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypStage IIA</td>
+    <td rowspan="1" colspan="1">6</td>
+    <td rowspan="1" colspan="1">20.0</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypStage IIB</td>
+    <td rowspan="1" colspan="1">2</td>
+    <td rowspan="1" colspan="1">6.7</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypStage IIIA</td>
+    <td rowspan="1" colspan="1">7</td>
+    <td rowspan="1" colspan="1">23.3</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypStage IIIB</td>
+    <td rowspan="1" colspan="1">4</td>
+    <td rowspan="1" colspan="1">13.3</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypStage IIIC</td>
+    <td rowspan="1" colspan="1">6</td>
+    <td rowspan="1" colspan="1">20.0</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">ypStage IV</td>
+    <td rowspan="1" colspan="1">0</td>
+    <td rowspan="1" colspan="1">0.0</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>CY: peritoneal lavage cytology</p>
+ </table-wrap-foot>
+</table-wrap>

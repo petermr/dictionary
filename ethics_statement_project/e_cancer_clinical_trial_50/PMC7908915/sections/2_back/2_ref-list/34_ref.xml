@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R34">
+ <label>34</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Ross</surname>
+    <given-names>AE</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Hurley</surname>
+    <given-names>PJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Tran</surname>
+    <given-names>PT</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>A pilot trial of pembrolizumab plus prostatic cryotherapy for men with newly diagnosed oligometastatic hormone-sensitive prostate cancer</article-title>. 
+  <source>Prostate Cancer Prostatic Dis</source>
+  <year>2020</year>;
+  <volume>23</volume>:
+  <fpage>184</fpage>–
+  <lpage>93</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/s41391-019-0176-8</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/31611635?>
+  <pub-id pub-id-type="pmid">31611635</pub-id>
+ </mixed-citation>
+</ref>

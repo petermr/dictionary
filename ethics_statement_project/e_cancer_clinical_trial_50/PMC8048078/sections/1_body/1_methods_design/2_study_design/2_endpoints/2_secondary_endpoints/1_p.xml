@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par41">
+ <list list-type="order">
+  <list-item>
+   <p id="Par42">The patient is successfully able to be planned at the assigned dose level.</p>
+  </list-item>
+  <list-item>
+   <p id="Par43">Quality of life, assessed with the Functional Assessment of Cancer Therapy: General (FACT-G) and the EuroQol 5 Dimension, 5 Level (EQ-5D-5L)</p>
+  </list-item>
+  <list-item>
+   <p id="Par44">Time to development of new metastatic lesions</p>
+  </list-item>
+  <list-item>
+   <p id="Par45">Progression-free survival, defined as time from randomization to disease progression at any site or death</p>
+  </list-item>
+  <list-item>
+   <p id="Par46">Overall survival, defined as time from randomization to death from any cause</p>
+  </list-item>
+ </list>
+</p>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R30">
+ <label>30</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Hiller</surname>
+    <given-names>JG</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Perry</surname>
+    <given-names>NJ</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Poulogiannis</surname>
+    <given-names>G</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Perioperative events influence cancer recurrence risk after surgery</article-title>. 
+  <source>Nat Rev Clin Oncol</source>
+  <year>2018</year>;
+  <volume>15</volume>:
+  <fpage>205</fpage>–
+  <lpage>18</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nrclinonc.2017.194</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/29283170?>
+  <pub-id pub-id-type="pmid">29283170</pub-id>
+ </mixed-citation>
+</ref>

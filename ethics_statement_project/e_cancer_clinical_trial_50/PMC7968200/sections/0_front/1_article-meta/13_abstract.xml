@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">Increasing rates of breast cancer screening have been associated with an increasing frequency of non-palpable breast lesions detection. Preoperative breast lesion localization is essential for optimizing excision accuracy. This study aimed to evaluate the efficacy and safety of indocyanine green (ICG) hyaluronic acid injection as a novel mixture for localization.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par2">We performed a prospective clinical trial with female patients who underwent surgery for non-palpable breast lesions. All patients were sequentially assigned to the control group (localization with activated charcoal), Test Group 1 (ICG-hyaluronic acid mixture 0.1 mL), or Test Group 2 (ICG-hyaluronic acid mixture 0.2 mL) by 1:1:1 ratio.</p>
+ </sec>
+ <sec>
+  <title>Results</title>
+  <p id="Par3">A total of 44 patients were eligible for this study (Control Group = 14, Test Group 1 = 15, Test Group 2 = 15 patients). Fibroadenoma (n = 17, 38.6%) accounted for the largest proportion of diagnoses, and five patients (11.4%) were diagnosed with malignancies. There were no statistically significant differences in baseline characteristics among the three groups. The marking rate was over 86% in all groups, with no significant intergroup differences. Skin pigmentation was only observed in the control group. The mean accuracy of resection (the greatest diameter of the excised specimen divided by the greatest diameter of the preoperative lesion as observed using ultrasonography, with values closer to 1 reflecting a higher accuracy) was 3.7 in the control group, 2.2 in Test Group 1, and 2.1 in Test Group 2 (p = 0.037 between Controls and Test Group 1, p = 0.744 between Test Group 1 and Test Group 2, and p = 0.026 between Controls and Test Group 2).</p>
+ </sec>
+ <sec>
+  <title>Conclusion</title>
+  <p id="Par4">ICG-hyaluronic acid injection is a novel method that was shown to accurately localize non-palpable breast lesions and was associated with no skin pigmentation. Further research is required to apply this method to malignant breast lesions.</p>
+  <p id="Par5">
+   <italic>Trial registration</italic> “A Multicenter Open-label, Parallel, Phase 2 Clinical Trial to Evaluate the Efficacy and Safety of LuminoMark™ Inj. (Conc. for Fluorescence) Localization in Patients with Non-palpable Breast Lesions” was prospectively registered as a trial (ClinicalTrials. gov Identifier: NCT03743259, date of registration: May 29, 2018, 
+   <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03743259" xmlns:xlink="http://www.w3.org/1999/xlink">https://clinicaltrials.gov/ct2/show/NCT03743259</ext-link>)
+  </p>
+ </sec>
+</abstract>

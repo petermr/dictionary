@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R36">
+ <label>36</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Tosoian</surname>
+    <given-names>JJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Gorin</surname>
+    <given-names>MA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Ross</surname>
+    <given-names>AE</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Oligometastatic prostate cancer: definitions, clinical outcomes, and treatment considerations</article-title>. 
+  <source>Nat Rev Urol</source>
+  <year>2017</year>;
+  <volume>14</volume>:
+  <fpage>15</fpage>–
+  <lpage>25</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nrurol.2016.175</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/27725639?>
+  <pub-id pub-id-type="pmid">27725639</pub-id>
+ </mixed-citation>
+</ref>

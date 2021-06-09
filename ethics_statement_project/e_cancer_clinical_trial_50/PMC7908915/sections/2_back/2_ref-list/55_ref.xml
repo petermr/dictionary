@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R55">
+ <label>55</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Siva</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Bressel</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Murphy</surname>
+    <given-names>DG</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Stereotactic abative body radiotherapy (SABR) for oligometastatic prostate cancer: a prospective clinical trial</article-title>. 
+  <source>Eur Urol</source>
+  <year>2018</year>;
+  <volume>74</volume>:
+  <fpage>455</fpage>–
+  <lpage>62</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.eururo.2018.06.004</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30227924?>
+  <pub-id pub-id-type="pmid">30227924</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R10">
+ <label>10</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Arriagada</surname>
+    <given-names>R</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Bergman</surname>
+    <given-names>B</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Dunant</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Cisplatin-based adjuvant chemotherapy in patients with completely resected non-small-cell lung cancer</article-title>. 
+  <source>N Engl J Med</source>
+  <year>2004</year>;
+  <volume>350</volume>:
+  <fpage>351</fpage>–
+  <lpage>60</lpage>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMoa031644</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/14736927?>
+  <pub-id pub-id-type="pmid">14736927</pub-id>
+ </mixed-citation>
+</ref>

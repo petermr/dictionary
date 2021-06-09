@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>[1]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Libson</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Lippman</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>A review of clinical aspects of breast cancer</article-title>. 
+  <source>Int Rev Psychiatry</source>
+  <year>2014</year>;
+  <volume>26</volume>:
+  <fpage>4</fpage>–
+  <lpage>15</lpage>.
+  <pub-id pub-id-type="pmid">24716497</pub-id>
+ </mixed-citation>
+</ref>

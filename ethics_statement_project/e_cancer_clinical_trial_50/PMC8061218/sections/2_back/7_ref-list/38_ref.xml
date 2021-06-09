@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR38">
+ <label>38.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rancati</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Schwarz</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Allen</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Feng</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Popovtzer</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Mittal</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Eisbruch</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Radiation dose-volume effects in the larynx and pharynx</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>2010</year>
+  <volume>76</volume>
+  <issue>3 Suppl</issue>
+  <fpage>S64</fpage>
+  <lpage>S69</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2009.03.079</pub-id>
+  <?supplied-pmid 20171520?>
+  <pub-id pub-id-type="pmid">20171520</pub-id>
+ </element-citation>
+</ref>

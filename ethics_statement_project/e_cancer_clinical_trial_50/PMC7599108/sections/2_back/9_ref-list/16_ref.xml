@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Higurashi</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Hosono</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Takahashi</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Komiya</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Umezawa</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Sakai</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Metformin for chemoprevention of metachronous colorectal adenoma or polyps in post-polypectomy patients without diabetes: a multicentre double-blind, placebo-controlled, randomised phase 3 trial</article-title>
+  <source>Lancet Oncol</source>
+  <year>2016</year>
+  <volume>17</volume>
+  <issue>4</issue>
+  <fpage>475</fpage>
+  <lpage>483</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(15)00565-3</pub-id>
+  <pub-id pub-id-type="pmid">26947328</pub-id>
+ </element-citation>
+</ref>

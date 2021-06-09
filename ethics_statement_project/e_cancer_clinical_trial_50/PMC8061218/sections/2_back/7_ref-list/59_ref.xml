@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR59">
+ <label>59.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Osman</surname>
+    <given-names>SO</given-names>
+   </name>
+   <name>
+    <surname>Astreinidou</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>de Boer</surname>
+    <given-names>HC</given-names>
+   </name>
+   <name>
+    <surname>Keskin-Cambay</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Breedveld</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Voet</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>IMRT for image-guided single vocal cord irradiation</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>2012</year>
+  <volume>82</volume>
+  <issue>2</issue>
+  <fpage>989</fpage>
+  <lpage>997</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2010.12.022</pub-id>
+  <?supplied-pmid 21300449?>
+  <pub-id pub-id-type="pmid">21300449</pub-id>
+ </element-citation>
+</ref>

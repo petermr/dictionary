@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fn-group>
+ <fn fn-type="abbr">
+  <p>Abbreviations: ACR = American College of Radiology, CMS = Centers for Medicare &amp; Medicaid Services, CTDIvol = CT Dose Index, DLCST trial = Danish Lung Cancer Screening Trial, ELCAP = Early Lung and Cardiac Action Program, ELEGANCE = Early Detection of Lung Cancer in Czech High-risk Asymptomatic Individuals (study acronym), FEV-1 = Forced Expiratory Volume in 1 second, ICMJE = International Committee of Medical Journal Editors, I-ELCAP = International Early Lung and Cardiac Action Program, LDCT = Low-Dose CT, NELSON = Dutch-Belgian Randomized Lung Cancer Screening Trial (Dutch acronym), NLST = National Lung Screening Trial, PLuSS = The Pittsburgh Lung Screening Study, VDT = Volume Doubling Time.</p>
+ </fn>
+ <fn fn-type="other">
+  <p>How to cite this article: Lambert L, Janouskova L, Novak M, Bircakova B, Meckova Z, Votruba J, Michalek P, Burgetova A. Early detection of lung cancer in Czech high-risk asymptomatic individuals (ELEGANCE): a study protocol. 
+   <italic>Medicine</italic>. 2021;100:5(e23878).
+  </p>
+ </fn>
+ <fn fn-type="supported-by">
+  <p>This project is supported by the Ministry of Health, Czech Republic – conceptual development of research organization (General University Hospital in Prague: VFN, 00064165).</p>
+ </fn>
+ <fn fn-type="other">
+  <p>General University Hospital in Prague, U Nemocnice 2, 128 08 Prague 2, Czech Republic. The sponsor does not exercise authority over the conduct of the study.</p>
+ </fn>
+ <fn fn-type="other">
+  <p>ClinicalTrials.gov ID: NCT04627350.</p>
+ </fn>
+ <fn fn-type="other">
+  <p>Protocol: version 1.1.1, 14-NOV-2020.</p>
+ </fn>
+ <fn fn-type="COI-statement">
+  <p>The authors reported no conflict of interest regarding this study.</p>
+ </fn>
+ <fn fn-type="other" id="T1fn1">
+  <label>∗</label>
+  <p>Normal or benign findings (examples): Nodule (s) with specific calcifications: complete, central, popcorn, concentric rings; fat containing nodules; typical inflammation or post-inflammatory changes; pachypleuritis, fibrous bands, scars.</p>
+ </fn>
+ <fn fn-type="other" id="T1fn2">
+  <label>∗∗</label>
+  <p>Typical perifissural nodules: solid, homogeneous, smooth margin, oval / rounded / lentiform / triangular, entirely within 15 mm of the pleura or septum.</p>
+ </fn>
+ <fn fn-type="other" id="T1fn3">
+  <label>∗∗∗</label>
+  <p>Bronchoscopy, transparietal biopsy, thoracoscopy.</p>
+ </fn>
+ <fn fn-type="other">
+  <p>The stability of high-risk nodules with negative verification should be confirmed by 3 month low-dose CT (LDCT).</p>
+ </fn>
+ <fn fn-type="other">
+  <p>Growing solid part – volume doubling time (VDT) &lt;600 days.</p>
+ </fn>
+ <fn fn-type="other" id="T2fn1">
+  <label>∗</label>
+  <p>Bronchoscopy, transparietal biopsy, thoracoscopy.The stability of high-risk nodules with negative verification should be confirmed by 3 month low-dose CT (LDCT).</p>
+ </fn>
+ <fn fn-type="other">
+  <p>Growing solid part – volume doubling time (VDT) &lt;600 days.</p>
+ </fn>
+ <fn fn-type="other" id="T3fn1">
+  <label>∗</label>
+  <p>Bronchoscopy, transparietal biopsy, thoracoscopy.</p>
+ </fn>
+ <fn fn-type="other">
+  <p>The stability of high-risk nodules with negative verification should be confirmed by a 3 month low-dose CT (LDCT).</p>
+ </fn>
+ <fn fn-type="other">
+  <p>VDT = volume doubling time.</p>
+ </fn>
+</fn-group>

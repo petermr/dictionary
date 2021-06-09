@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Parker</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>James</surname>
+    <given-names>ND</given-names>
+   </name>
+   <name>
+    <surname>Brawley</surname>
+    <given-names>CD</given-names>
+   </name>
+   <name>
+    <surname>Clarke</surname>
+    <given-names>NW</given-names>
+   </name>
+   <name>
+    <surname>Hoyle</surname>
+    <given-names>AP</given-names>
+   </name>
+   <name>
+    <surname>Ali</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Radiotherapy to the primary tumour for newly diagnosed, metastatic prostate cancer (STAMPEDE): a randomised controlled phase 3 trial</article-title>
+  <source>Lancet (London, England)</source>
+  <year>2018</year>
+  <volume>392</volume>
+  <fpage>2353</fpage>
+  <lpage>2366</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(18)32486-3</pub-id>
+ </element-citation>
+</ref>

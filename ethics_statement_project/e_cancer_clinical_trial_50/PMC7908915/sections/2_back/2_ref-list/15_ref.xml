@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R15">
+ <label>15</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Lorente</surname>
+    <given-names>D</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Olmos</surname>
+    <given-names>D</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Mateo</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Decline in circulating tumor cell count and treatment outcome in advanced prostate cancer</article-title>. 
+  <source>Eur Urol</source>
+  <year>2016</year>;
+  <volume>70</volume>:
+  <fpage>985</fpage>–
+  <lpage>92</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.eururo.2016.05.023</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/27289566?>
+  <pub-id pub-id-type="pmid">27289566</pub-id>
+ </mixed-citation>
+</ref>

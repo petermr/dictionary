@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="zoi201035t2" orientation="portrait" position="float">
+ <label>Table 2. </label>
+ <caption>
+  <title>Breast Cancer NAC Response and Accuracy of MRI-Guided Biopsy Results for Diagnosing a pCR</title>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col width="40.62%" span="1"/>
+  <col width="29.2%" span="1"/>
+  <col width="30.18%" span="1"/>
+  <thead>
+   <tr>
+    <th valign="top" align="left" scope="col" rowspan="1" colspan="1"/>
+    <th valign="top" align="left" scope="col" rowspan="1" colspan="1">Definition 1
+     <xref ref-type="table-fn" rid="zoi201035t2n1">
+      <sup>a</sup>
+     </xref>
+    </th>
+    <th valign="top" align="left" scope="col" rowspan="1" colspan="1">Definition 2
+     <xref ref-type="table-fn" rid="zoi201035t2n1">
+      <sup>a</sup>
+     </xref>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" scope="col" rowspan="1" colspan="1">No. (%) of patients</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> pCR</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">13 (65)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">12 (60)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> No pCR</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">7 (35)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">8 (40)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="col" rowspan="1" colspan="1">Parameter, estimate, % (95% CI)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> NPV</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">92.8 (66.2-99.8)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">85.8 (57.2-98.1)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Specificity</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">100 (NA)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">100 (NA)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> PPV</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">100 (NA)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">100 (NA)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Sensitivity</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">85.8 (42.0-99.6)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">75.0 (35.0-96.8)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Accuracy</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">95.0 (75.1-99.9)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">90.0 (68.3-98.7)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Abbreviations: MRI, magnetic resonance imaging; NA, not applicable; NPV, negative predictive value; pCR, pathologic complete response; PPV, positive predictive value.</p>
+  <fn id="zoi201035t2n1">
+   <label>
+    <sup>a</sup>
+   </label>
+   <p>Definition 1 defined a pCR as no residual invasive cancer; definition 2 defined a pCR as no residual invasive or in situ cancer.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

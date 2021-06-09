@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes>
+ <p content-type="self-citation">
+  <mixed-citation publication-type="journal" id="cas14811-cit-1001">
+   <string-name>
+    <surname>Kobayashi</surname>
+    <given-names>N</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Takeda</surname>
+    <given-names>Y</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Okubo</surname>
+    <given-names>N</given-names>
+   </string-name>, et al. 
+   <article-title>Phase II study of temozolomide monotherapy in patients with extrapulmonary neuroendocrine carcinoma</article-title>. 
+   <source xml:lang="en">Cancer Sci</source>. 
+   <year>2021</year>;
+   <volume>112</volume>:
+   <fpage>1936</fpage>–
+   <lpage>1942</lpage>. 
+   <pub-id pub-id-type="doi">10.1111/cas.14811</pub-id>
+  </mixed-citation>
+ </p>
+ <fn-group id="cas14811-ntgp-0001">
+  <fn id="cas14811-note-0001">
+   <p>Trial registration: Registered 20 April 2013. Registry number: UMIN000010549.</p>
+  </fn>
+ </fn-group>
+</notes>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sankaranarayanan</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Nene</surname>
+    <given-names>BM</given-names>
+   </name>
+   <name>
+    <surname>Shastri</surname>
+    <given-names>SS</given-names>
+   </name>
+  </person-group>
+  <article-title>HPV screening for cervical cancer in rural India</article-title>
+  <source>N Engl J Med</source>
+  <year>2009</year>
+  <volume>360</volume>
+  <issue>14</issue>
+  <fpage>1385</fpage>
+  <lpage>1394</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa0808516</pub-id>
+  <pub-id pub-id-type="pmid">19339719</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cas14841-bib-0003">
+ <label>3</label>
+ <mixed-citation publication-type="journal" id="cas14841-cit-0003">
+  <string-name>
+   <surname>Parikh</surname>
+   <given-names>AR</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lee</surname>
+   <given-names>FC</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Yau</surname>
+   <given-names>L</given-names>
+  </string-name>, et al. 
+  <article-title>MAVERICC, a randomized, biomarker‐stratified, Phase II Study of mFOLFOX6‐Bevacizumab versus FOLFIRI‐Bevacizumab as First‐line Chemotherapy in Metastatic Colorectal Cancer</article-title>. 
+  <source xml:lang="en">Clin Cancer Res</source>. 
+  <year>2019</year>;
+  <volume>25</volume>(
+  <issue>10</issue>):
+  <fpage>2988</fpage>‐
+  <lpage>2995</lpage>.
+  <pub-id pub-id-type="pmid">30224341</pub-id>
+ </mixed-citation>
+</ref>

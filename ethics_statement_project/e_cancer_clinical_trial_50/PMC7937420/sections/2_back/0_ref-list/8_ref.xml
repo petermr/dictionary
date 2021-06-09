@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref8">
+ <label>8.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Uemura</surname>  
+    <given-names>N</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Kikuchi</surname>  
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Sato</surname>  
+    <given-names>Y</given-names>
+   </string-name>, 
+   <etal>et al.</etal>
+  </person-group>  
+  <article-title>A phase II study of modified docetaxel, cisplatin, and S-1 (mDCS) chemotherapy for unresectable advanced gastric cancer</article-title>. 
+  <source>Chemother Pharmacol</source>  
+  <year>2017</year>;
+  <volume>80</volume>:
+  <fpage>707</fpage>–
+  <lpage>13</lpage>.
+ </mixed-citation>
+</ref>

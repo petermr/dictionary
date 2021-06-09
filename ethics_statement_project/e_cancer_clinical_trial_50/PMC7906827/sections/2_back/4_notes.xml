@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes notes-type="ethics">
+ <title>Compliance with ethical standards</title>
+ <notes id="FPar1" notes-type="COI-statement">
+  <title>Conflict of interest</title>
+  <p id="Par20">Authors declare no conflicts of interests.</p>
+ </notes>
+ <notes id="FPar2">
+  <title>Ethical approval</title>
+  <p id="Par21">The Rotterdam Study has been approved by the Medical Ethics Committee of the Erasmus MC (registration number MEC 02.1015) and by the Dutch Ministry of Health, Welfare and Sport (Population Screening Act WBO, license number 1071272-159521-PG). The Rotterdam Study Personal Registration Data collection is filed with the Erasmus MC Data Protection Officer under registration number EMC1712001. The Rotterdam Study has been entered into the Netherlands National Trial Register (NTR; 
+   <ext-link ext-link-type="uri" xlink:href="http://www.trialregister.nl" xmlns:xlink="http://www.w3.org/1999/xlink">www.trialregister.nl</ext-link>) and into the WHO International Clinical Trials Registry Platform (ICTRP; 
+   <ext-link ext-link-type="uri" xlink:href="http://www.who.int/ictrp/network/primary/en/" xmlns:xlink="http://www.w3.org/1999/xlink">www.who.int/ictrp/network/primary/en/</ext-link>) under shared catalogue number NTR6831. All participants provided written informed consent to participate in the study and to have their information obtained from treating physicians.
+  </p>
+ </notes>
+</notes>

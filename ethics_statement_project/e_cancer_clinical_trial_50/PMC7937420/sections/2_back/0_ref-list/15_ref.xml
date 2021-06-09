@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref15">
+ <label>15.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Therasse</surname>  
+    <given-names>P</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Arbuck</surname>  
+    <given-names>SG</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Eisenhauer</surname>  
+    <given-names>EA</given-names>
+   </string-name>, 
+   <etal>et al.</etal>
+  </person-group>  
+  <article-title>New guidelines to evaluate the response to treatment in solid tumors</article-title>. 
+  <source>J Natl Cancer Inst</source>  
+  <year>2000</year>;
+  <volume>92</volume>:
+  <fpage>205</fpage>–
+  <lpage>16</lpage>.
+  <pub-id pub-id-type="pmid">10655437</pub-id>
+ </mixed-citation>
+</ref>

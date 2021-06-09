@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R32">
+ <label>32</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Alblin</surname>
+    <given-names>RJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Soanes</surname>
+    <given-names>WA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Gonder</surname>
+    <given-names>MJ</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Prospects for cryo-immunotherapy in cases of metastasizing carcinoma of the prostate</article-title>. 
+  <source>Cryobiology</source>
+  <year>1971</year>;
+  <volume>8</volume>:
+  <fpage>271</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/0011-2240(71)90050-2</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/5570410?>
+  <pub-id pub-id-type="pmid">5570410</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref6">
+ <label>6.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Cunningham</surname>  
+    <given-names>D</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Allum</surname>  
+    <given-names>WH</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Stenning</surname>  
+    <given-names>SP</given-names>
+   </string-name>, 
+   <etal>et al.</etal>
+  </person-group>  
+  <article-title>Perioperative chemotherapy versus surgery alone for resectable gastroesophageal cancer</article-title>. 
+  <source>N Engl J Med</source>  
+  <year>2006</year>;
+  <volume>355</volume>:
+  <fpage>11</fpage>–
+  <lpage>20</lpage>.
+  <pub-id pub-id-type="pmid">16822992</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>[1]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jemal</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Bray</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Center</surname>
+    <given-names>MM</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Global cancer statistics</article-title>. 
+  <source>CA Cancer J Clin</source>
+  <year>2011</year>;
+  <volume>61</volume>:
+  <fpage>69</fpage>–
+  <lpage>90</lpage>.
+  <pub-id pub-id-type="pmid">21296855</pub-id>
+ </mixed-citation>
+</ref>

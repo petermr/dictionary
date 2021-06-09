@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Meng-yue</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sung</surname>
+   <given-names>Lai</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liao</surname>
+   <given-names>Yan-Sen</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jiao</surname>
+   <given-names>Yi-fei</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sun</surname>
+   <given-names>Chang-sheng</given-names>
+  </name>
+  <degrees>BS</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Peng</surname>
+   <given-names>Xiao-dong</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>∗</sup>
+  </xref>
+ </contrib>
+</contrib-group>

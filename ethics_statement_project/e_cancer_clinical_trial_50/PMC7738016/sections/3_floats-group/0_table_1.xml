@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Protocol treatment schedule for preoperative adjuvant chemotherapy (1 cycle).</p>
+ </caption>
+ <table frame="hsides" rules="groups" border="0">
+  <thead>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Drug</td>
+    <td align="center" rowspan="1" colspan="1">Dose</td>
+    <td align="center" rowspan="1" colspan="1">Administration method</td>
+    <td align="center" rowspan="1" colspan="1">Administration day</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">CDDP</td>
+    <td align="left" rowspan="1" colspan="1">80 mg/m
+     <sup>2</sup>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Intravenous drip</td>
+    <td align="left" rowspan="1" colspan="1">Day 1</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">5-FU</td>
+    <td align="left" rowspan="1" colspan="1">800 mg/m
+     <sup>2</sup>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Intravenous drip</td>
+    <td align="left" rowspan="1" colspan="1">Days 1–5</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Tranilast</td>
+    <td align="left" rowspan="1" colspan="1">200–600 mg/body</td>
+    <td align="left" rowspan="1" colspan="1">Oral administration</td>
+    <td align="left" rowspan="1" colspan="1">Days 1-21</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn fn-type="other">
+   <p>5-FU = 5-fluorouracil; CDDP = cisplatin.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

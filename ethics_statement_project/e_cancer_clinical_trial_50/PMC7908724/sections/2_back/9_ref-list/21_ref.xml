@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bandura</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Social cognitive theory: an agentic perspective</article-title>
+  <source>Annu Rev Psychol</source>
+  <year>2001</year>
+  <volume>52</volume>
+  <fpage>1</fpage>
+  <lpage>26</lpage>
+  <pub-id pub-id-type="doi">10.1146/annurev.psych.52.1</pub-id>
+  <?supplied-pmid 11148297?>
+  <pub-id pub-id-type="pmid">11148297</pub-id>
+ </element-citation>
+</ref>

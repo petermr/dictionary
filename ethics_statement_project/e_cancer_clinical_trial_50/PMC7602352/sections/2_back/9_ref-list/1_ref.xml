@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tallet</surname>
+    <given-names>AV</given-names>
+   </name>
+   <name>
+    <surname>Azria</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Barlesi</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Spano</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Carpentier</surname>
+    <given-names>AF</given-names>
+   </name>
+   <name>
+    <surname>Gonçalves</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Neurocognitive function impairment after whole brain radiotherapy for brain metastases: actual assessment</article-title>
+  <source>Radiat Oncol</source>
+  <year>2012</year>
+  <volume>7</volume>
+  <fpage>77</fpage>
+  <pub-id pub-id-type="doi">10.1186/1748-717X-7-77</pub-id>
+  <?supplied-pmid 3403847?>
+  <pub-id pub-id-type="pmid">22640600</pub-id>
+ </element-citation>
+</ref>

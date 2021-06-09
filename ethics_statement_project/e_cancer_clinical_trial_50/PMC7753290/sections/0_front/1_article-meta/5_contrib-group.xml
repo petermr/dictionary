@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="bjh17168-cr-0001" contrib-type="author" corresp="yes">
+  <name>
+   <surname>Camilleri</surname>
+   <given-names>Marquita</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4161-8275</contrib-id>
+  <xref ref-type="aff" rid="bjh17168-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="bjh17168-aff-0004">
+   <sup>4</sup>
+  </xref>
+  <address>
+   <email>marquita.camilleri@nhs.net</email>
+  </address>
+ </contrib>
+ <contrib id="bjh17168-cr-0002" contrib-type="author">
+  <name>
+   <surname>Sive</surname>
+   <given-names>Jonathan</given-names>
+  </name>
+  <xref ref-type="aff" rid="bjh17168-aff-0001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0003" contrib-type="author">
+  <name>
+   <surname>Wilson</surname>
+   <given-names>William</given-names>
+  </name>
+  <xref ref-type="aff" rid="bjh17168-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0004" contrib-type="author">
+  <name>
+   <surname>Pang</surname>
+   <given-names>Gavin</given-names>
+  </name>
+  <xref ref-type="aff" rid="bjh17168-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0005" contrib-type="author">
+  <name>
+   <surname>Jenner</surname>
+   <given-names>Richard</given-names>
+  </name>
+  <xref ref-type="aff" rid="bjh17168-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0006" contrib-type="author">
+  <name>
+   <surname>Phillips</surname>
+   <given-names>Elizabeth</given-names>
+  </name>
+  <xref ref-type="aff" rid="bjh17168-aff-0003">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0007" contrib-type="author">
+  <name>
+   <surname>Popat</surname>
+   <given-names>Rakesh</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6553-4618</contrib-id>
+  <xref ref-type="aff" rid="bjh17168-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="bjh17168-aff-0004">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0008" contrib-type="author">
+  <name>
+   <surname>Ramasamy</surname>
+   <given-names>Karthik</given-names>
+  </name>
+  <xref ref-type="aff" rid="bjh17168-aff-0005">
+   <sup>5</sup>
+  </xref>
+  <xref ref-type="aff" rid="bjh17168-aff-0006">
+   <sup>6</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0009" contrib-type="author">
+  <name>
+   <surname>Bygrave</surname>
+   <given-names>Ceri</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1571-0692</contrib-id>
+  <xref ref-type="aff" rid="bjh17168-aff-0007">
+   <sup>7</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0010" contrib-type="author">
+  <name>
+   <surname>Dadaga</surname>
+   <given-names>Tushhar</given-names>
+  </name>
+  <xref ref-type="aff" rid="bjh17168-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0011" contrib-type="author">
+  <name>
+   <surname>Streetly</surname>
+   <given-names>Matthew</given-names>
+  </name>
+  <xref ref-type="aff" rid="bjh17168-aff-0008">
+   <sup>8</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0012" contrib-type="author">
+  <name>
+   <surname>Cavenagh</surname>
+   <given-names>James</given-names>
+  </name>
+  <xref ref-type="aff" rid="bjh17168-aff-0009">
+   <sup>9</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0013" contrib-type="author">
+  <name>
+   <surname>Chapman</surname>
+   <given-names>Mike</given-names>
+  </name>
+  <xref ref-type="aff" rid="bjh17168-aff-0010">
+   <sup>10</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0014" contrib-type="author">
+  <name>
+   <surname>Barrington</surname>
+   <given-names>Sally</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2516-5288</contrib-id>
+  <xref ref-type="aff" rid="bjh17168-aff-0011">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0015" contrib-type="author">
+  <name>
+   <surname>Pike</surname>
+   <given-names>Lucy</given-names>
+  </name>
+  <xref ref-type="aff" rid="bjh17168-aff-0011">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0016" contrib-type="author">
+  <name>
+   <surname>Owen</surname>
+   <given-names>Roger</given-names>
+  </name>
+  <xref ref-type="aff" rid="bjh17168-aff-0012">
+   <sup>12</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0017" contrib-type="author">
+  <name>
+   <surname>Clifton‐Hadley</surname>
+   <given-names>Laura</given-names>
+  </name>
+  <xref ref-type="aff" rid="bjh17168-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="bjh17168-cr-0018" contrib-type="author">
+  <name>
+   <surname>Yong</surname>
+   <given-names>Kwee</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6487-276X</contrib-id>
+  <xref ref-type="aff" rid="bjh17168-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="bjh17168-aff-0004">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+</contrib-group>

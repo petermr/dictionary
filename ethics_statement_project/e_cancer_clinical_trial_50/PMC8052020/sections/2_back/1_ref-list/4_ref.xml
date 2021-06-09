@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R4">
+ <label>[4]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McDonald</surname>
+    <given-names>ES</given-names>
+   </name>
+   <name>
+    <surname>Clark</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Tchou</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Clinical diagnosis and management of breast cancer</article-title>. 
+  <source>J Nucl Med</source>
+  <year>2016</year>;
+  <volume>57 Suppl 1</volume>:
+  <fpage>9S</fpage>–
+  <lpage>16S</lpage>.
+  <pub-id pub-id-type="pmid">26834110</pub-id>
+ </mixed-citation>
+</ref>

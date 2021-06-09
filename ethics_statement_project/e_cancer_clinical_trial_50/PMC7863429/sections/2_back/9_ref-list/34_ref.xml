@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <label>34.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Radwan</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Phillips</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Ross</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Rowe</surname>
+    <given-names>SP</given-names>
+   </name>
+   <name>
+    <surname>Gorin</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Antonarakis</surname>
+    <given-names>ES</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A phase II randomized trial of observation versus stereotactic ablative RadiatIon for OLigometastatic prostate CancEr (ORIOLE)</article-title>
+  <source>BMC Cancer</source>
+  <year>2017</year>
+  <volume>17</volume>
+  <issue>1</issue>
+  <fpage>453</fpage>
+  <pub-id pub-id-type="doi">10.1186/s12885-017-3455-6</pub-id>
+  <pub-id pub-id-type="pmid">28662647</pub-id>
+ </element-citation>
+</ref>

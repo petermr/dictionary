@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Winton</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Livingston</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Johnson</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Rigas</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Johnston</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Butts</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Vinorelbine plus cisplatin vs. observation in resected non-small-cell lung cancer</article-title>
+  <source>N Engl J Med</source>
+  <year>2005</year>
+  <volume>352</volume>
+  <fpage>2589</fpage>
+  <lpage>2597</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa043623</pub-id>
+  <pub-id pub-id-type="pmid">15972865</pub-id>
+ </element-citation>
+</ref>

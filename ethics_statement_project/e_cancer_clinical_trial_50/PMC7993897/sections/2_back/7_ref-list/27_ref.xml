@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <label>27.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Larkin</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Lao</surname>
+    <given-names>CD</given-names>
+   </name>
+   <name>
+    <surname>Urba</surname>
+    <given-names>WJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Efficacy and safety of nivolumab in patients with braf v600 mutant and braf wild-type advanced melanoma: a pooled analysis of 4 clinical trials</article-title>
+  <source>JAMA Oncology</source>
+  <year>2015</year>
+  <volume>1</volume>
+  <issue>4</issue>
+  <fpage>433</fpage>
+  <lpage>440</lpage>
+  <pub-id pub-id-type="doi">10.1001/jamaoncol.2015.1184</pub-id>
+  <?supplied-pmid 26181250?>
+  <pub-id pub-id-type="pmid">26181250</pub-id>
+ </element-citation>
+</ref>

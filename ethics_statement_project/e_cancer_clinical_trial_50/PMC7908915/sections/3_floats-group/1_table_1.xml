@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Study primary and secondary endpoints</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <tbody>
+   <tr>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Primary endpoint: Embedded feasibility pilot</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">
+     <list list-type="order">
+      <list-item>
+       <p>Recruitment, randomisation and compliance to allocation</p>
+      </list-item>
+      <list-item>
+       <p>Adverse events</p>
+      </list-item>
+      <list-item>
+       <p>Proportion of patients with pathological complete response on post-systemic therapy prostate biopsy at 6–9 months</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Primary endpoint: Phase II</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="order">
+      <list-item>
+       <p> Progression-free survival (PFS)</p>
+      </list-item>
+     </list> Defined as a composite outcome of biochemical failure; local progression; lymph node progression or bone metastases progression (new sites); or progression or development of new distant metastases, defined as lymph nodes outside the pelvis, bone or organ involvement or skeletal-related events confirmed as progression as in the STAMPEDE randomised study (Assessment of Progression; 
+     <xref ref-type="supplementary-material" rid="SP1">online supplemental material</xref>).
+     <xref rid="R42" ref-type="bibr">42</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Secondary endpoint: Phase II</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="order">
+      <list-item>
+       <p> Adverse events and side-effect profile</p>
+      </list-item>
+      <list-item>
+       <p> Predictive factors for PFS and OS in each arm</p>
+      </list-item>
+      <list-item>
+       <p> Effect on PFS or OS from varying radiotherapy dosage and schedules</p>
+      </list-item>
+      <list-item>
+       <p> Effect on PFS and OS stratified by volume and site for local and metastatic disease</p>
+      </list-item>
+      <list-item>
+       <p> Effect on PFS and OS stratified by the use of metastases-directed therapy</p>
+      </list-item>
+      <list-item>
+       <p> Effect on PFS using an alternative definition of failure, defined as a PSA increase of &gt;/=25% and &gt;/=2 ng/mL if PSA was &gt;/=2 ng/mL from baseline, or a PSA increase of &gt;/=25% if PSA was &lt;2 ng/mL at random assignment</p>
+      </list-item>
+      <list-item>
+       <p> Effect on PFS using an alternative definition of local progression of a soft tissue metastatic lesion: defined as an increase of &gt;/=20% in the largest tumour dimension with a minimum absolute increase of 5 mm. Local progression of bone metastases to be assessed using MD Anderson Cancer Centre criteria with a &gt;/=25% increase in the size of a measurable lesion on CT or a &gt;/=25% increase in the size of ill-defined lesions on CT considered to be progression (1, 2).</p>
+      </list-item>
+      <list-item>
+       <p> Costs and resource utilisation for future cost-effectiveness analyses</p>
+      </list-item>
+      <list-item>
+       <p> In those men undergoing repeat biopsies after 6–9 months of standard of care systemic therapy, the proportion of patients with negative biopsies</p>
+      </list-item>
+      <list-item>
+       <p> In those men undergoing repeat prostate/pelvic MRI after 6–9 months of standard of care systemic therapy, the proportion of patients with a negative prostate MRI for local tumour</p>
+      </list-item>
+      <list-item>
+       <p> In those men undergoing repeat imaging (local prostate/pelvic and/or other body areas) after 6–9 months of standard of care systemic therapy, the proportion of patients with reduction on imaging of metastatic tumour deposits</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

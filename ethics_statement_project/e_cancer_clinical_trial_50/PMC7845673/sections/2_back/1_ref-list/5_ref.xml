@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R5">
+ <label>5</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Al-Batran</surname>
+    <given-names>S-E</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Hofheinz</surname>
+    <given-names>RD</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Pauligk</surname>
+    <given-names>C</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Histopathological regression after neoadjuvant docetaxel, oxaliplatin, fluorouracil, and leucovorin versus epirubicin, cisplatin, and fluorouracil or capecitabine in patients with resectable gastric or gastro-oesophageal junction adenocarcinoma (FLOT4-AIO): results from the phase 2 part of a multicentre, open-label, randomised phase 2/3 trial</article-title>. 
+  <source>Lancet Oncol</source>
+  <year>2016</year>;
+  <volume>17</volume>:
+  <fpage>1697</fpage>–
+  <lpage>708</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(16)30531-9</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/27776843?>
+  <pub-id pub-id-type="pmid">27776843</pub-id>
+ </mixed-citation>
+</ref>

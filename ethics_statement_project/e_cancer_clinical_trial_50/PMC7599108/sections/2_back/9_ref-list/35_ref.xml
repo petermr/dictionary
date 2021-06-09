@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dixon</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Tolley</surname>
+    <given-names>ND</given-names>
+   </name>
+   <name>
+    <surname>Bemis-Standoli</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Martinez</surname>
+    <given-names>ML</given-names>
+   </name>
+   <name>
+    <surname>Weyrich</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Morrow</surname>
+    <given-names>JD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Expression of COX-2 in platelet-monocyte interactions occurs via combinatorial regulation involving adhesion and cytokine signaling</article-title>
+  <source>J Clin Invest</source>
+  <year>2006</year>
+  <volume>116</volume>
+  <issue>10</issue>
+  <fpage>2727</fpage>
+  <lpage>2738</lpage>
+  <pub-id pub-id-type="doi">10.1172/JCI27209.</pub-id>
+  <pub-id pub-id-type="pmid">16998585</pub-id>
+ </element-citation>
+</ref>

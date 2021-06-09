@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We performed comprehensive gene‐expression analysis using the Whole Human Genome 4 x 44K Microarray (Agilent Technologies, Santa Clara, CA, USA). Briefly, we collected tumor cells by macrodissection and performed comprehensive gene‐expression analysis, as previously described.
+ <xref rid="cas14841-bib-0012" ref-type="ref">
+  <sup>12</sup>
+ </xref> Microarray data are available from 
+ <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147571" xmlns:xlink="http://www.w3.org/1999/xlink">GSE147571</ext-link>. Gene‐expression data were analyzed and imaged using GeneSpring GX version 14.5 (Agilent Technologies). The patients with aCRCS were classified into 4 subtypes, A1, A2, B1, and B2, as previously described.
+ <xref rid="cas14841-bib-0012" ref-type="ref">
+  <sup>12</sup>
+ </xref> The numbers of patients in subtype A1 were 39 (12.7%); A2, 107 (34.7%); B1, 105 (34.0%), and B2, 57 (18.5%). CMS analysis
+ <xref rid="cas14841-bib-0011" ref-type="ref">
+  <sup>11</sup>
+ </xref> was performed, as previously described.
+ <xref rid="cas14841-bib-0015" ref-type="ref">
+  <sup>15</sup>
+ </xref> Finally, principal component analysis (PCA) was performed using GeneSpring GX version 14.5 (Agilent Technologies) using the aCRCS gene set.
+</p>

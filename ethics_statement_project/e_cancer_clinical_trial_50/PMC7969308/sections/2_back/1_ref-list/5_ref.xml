@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R5">
+ <label>[5]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jones</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Courneya</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Mackey</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Cardiopulmonary function and age-related decline across the breast cancer survivorship continuum</article-title>. 
+  <source>J Clin Oncol</source>
+  <year>2012</year>;
+  <volume>30</volume>:
+  <fpage>2530</fpage>–
+  <lpage>7</lpage>.
+  <pub-id pub-id-type="pmid">22614980</pub-id>
+ </mixed-citation>
+</ref>

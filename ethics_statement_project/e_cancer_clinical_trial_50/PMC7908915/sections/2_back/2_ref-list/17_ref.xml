@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R17">
+ <label>17</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Morgan</surname>
+    <given-names>TM</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Lange</surname>
+    <given-names>PH</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Porter</surname>
+    <given-names>MP</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Disseminated tumor cells in prostate cancer patients after radical prostatectomy and without evidence of disease predicts biochemical recurrence</article-title>. 
+  <source>Clin Cancer Res</source>
+  <year>2009</year>;
+  <volume>15</volume>:
+  <fpage>677</fpage>–
+  <lpage>83</lpage>. 
+  <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-08-1754</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/19147774?>
+  <pub-id pub-id-type="pmid">19147774</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="simple">
+ <list-item>
+  <label>1.</label>
+  <p>women diagnosed with stage I-III breast cancer,</p>
+ </list-item>
+ <list-item>
+  <label>2.</label>
+  <p>&gt;18 years old,</p>
+ </list-item>
+ <list-item>
+  <label>3.</label>
+  <p>literate in Swedish,</p>
+ </list-item>
+ <list-item>
+  <label>4.</label>
+  <p>scheduled to undergo (neo-)adjuvant chemotherapy with a combination of taxanes and anthracyclines or only 1 of these treatments.</p>
+ </list-item>
+</list>

@@ -1,0 +1,5 @@
+0: This protocol conforms to the Helsinki Declaration and has been approved by the Clinical Research Ethics Committee of our hospital.
+1: This experiment has already been registered (OSF)(registration number: DOI 10.17605/OSF.IO/QHW86).
+2: We will fully inform patients and their families about the potential risks of this study.
+3: Patients or their families are required to sign a written informed consent form.
+4: Patients are free to choose whether to continue the trial at any time during the study.

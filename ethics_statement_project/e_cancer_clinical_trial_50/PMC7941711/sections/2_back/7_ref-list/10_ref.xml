@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tsukahara</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Kubota</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Hasegawa</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Takemura</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Terada</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Taguchi</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Randomized phase III trial of adjuvant chemotherapy with S-1 after curative treatment in patients with squamous-cell carcinoma of the head and neck (ACTS-HNC)</article-title>
+  <source>PLoS One</source>
+  <year>2015</year>
+  <volume>10</volume>
+  <fpage>1</fpage>
+  <lpage>15</lpage>
+ </element-citation>
+</ref>

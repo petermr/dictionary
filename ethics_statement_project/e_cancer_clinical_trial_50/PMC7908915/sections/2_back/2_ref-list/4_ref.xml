@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R4">
+ <label>4</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Miyake</surname>
+    <given-names>H</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Matsushita</surname>
+    <given-names>Y</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Watanabe</surname>
+    <given-names>H</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Prognostic significance of time to castration resistance in patients with metastatic castration-sensitive prostate cancer</article-title>. 
+  <source>Anticancer Res</source>
+  <year>2019</year>;
+  <volume>39</volume>:
+  <fpage>1391</fpage>–
+  <lpage>6</lpage>. 
+  <pub-id pub-id-type="doi">10.21873/anticanres.13253</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30842173?>
+  <pub-id pub-id-type="pmid">30842173</pub-id>
+ </mixed-citation>
+</ref>

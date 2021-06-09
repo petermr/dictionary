@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lein</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Wirth</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Miller</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Eickenberg</surname>
+    <given-names>H-U</given-names>
+   </name>
+   <name>
+    <surname>Weissbach</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Schmidt</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Serial markers of bone turnover in men with metastatic prostate cancer treated with zoledronic acid for detection of bone metastases progression</article-title>
+  <source>Eur Urol</source>
+  <year>2007</year>
+  <volume>52</volume>
+  <issue>5</issue>
+  <fpage>1381</fpage>
+  <lpage>1387</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.eururo.2007.02.033</pub-id>
+  <pub-id pub-id-type="pmid">17321667</pub-id>
+ </element-citation>
+</ref>

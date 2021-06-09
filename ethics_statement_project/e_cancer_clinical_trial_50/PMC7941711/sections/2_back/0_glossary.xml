@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>NSCLC</term>
+   <def>
+    <p id="Par5">Non-small cell lung cancer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>QOL</term>
+   <def>
+    <p id="Par6">Quality of life</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RFS</term>
+   <def>
+    <p id="Par7">Relapse free survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OS</term>
+   <def>
+    <p id="Par8">Overall survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>QALY</term>
+   <def>
+    <p id="Par9">Quality of adjusted life years</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CDDP</term>
+   <def>
+    <p id="Par10">Cisplatin</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VNR</term>
+   <def>
+    <p id="Par11">Vinorelbine</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AST</term>
+   <def>
+    <p id="Par12">Aspartate aminotransferase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CDHP</term>
+   <def>
+    <p id="Par13">5-chloro-2,4-dihydroxypyridine</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Oxo</term>
+   <def>
+    <p id="Par14">Potassium oxonate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EQ-5D-5L</term>
+   <def>
+    <p id="Par15">Euro QoL 5 dimensions</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WPAI</term>
+   <def>
+    <p id="Par16">Work productivity and activity impairment</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

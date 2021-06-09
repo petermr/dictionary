@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R14">
+ <label>14</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Noordman</surname>
+    <given-names>BJ</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Spaander</surname>
+    <given-names>MCW</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Valkema</surname>
+    <given-names>R</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Detection of residual disease after neoadjuvant chemoradiotherapy for oesophageal cancer (preSANO): a prospective multicentre, diagnostic cohort study</article-title>. 
+  <source>Lancet Oncol</source>
+  <year>2018</year>;
+  <volume>19</volume>:
+  <fpage>965</fpage>–
+  <lpage>74</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(18)30201-8</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/29861116?>
+  <pub-id pub-id-type="pmid">29861116</pub-id>
+ </mixed-citation>
+</ref>

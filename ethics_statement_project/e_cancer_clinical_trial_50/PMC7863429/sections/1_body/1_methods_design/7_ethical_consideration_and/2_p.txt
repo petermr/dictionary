@@ -1,0 +1,3 @@
+0: Patient information and informed consent from the patient must be handled in accordance with the French regulation.
+1: Prior to the participation of a patient in the trial, this patient will be informed both verbally and in writing about the objectives of the trial, its methods, anticipated benefits and potential risks and the discomfort to which they may be exposed.
+2: The informed consent form for study and ancillaries studies, must be personally dated and signed by the patient and investigator.

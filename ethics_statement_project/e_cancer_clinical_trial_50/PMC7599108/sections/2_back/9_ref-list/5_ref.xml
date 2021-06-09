@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zauber</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>Winawer</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>O'Brien</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Lansdorp-Vogelaar</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>van Ballegooijen</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Hankey</surname>
+    <given-names>BF</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Colonoscopic polypectomy and long-term prevention of colorectal-cancer deaths</article-title>
+  <source>N Engl J Med</source>
+  <year>2012</year>
+  <volume>366</volume>
+  <issue>8</issue>
+  <fpage>687</fpage>
+  <lpage>696</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1100370</pub-id>
+  <pub-id pub-id-type="pmid">22356322</pub-id>
+ </element-citation>
+</ref>

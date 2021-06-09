@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <sec id="ab-zoi201035-4">
+  <title>Importance</title>
+  <p>After neoadjuvant chemotherapy (NAC), pathologic complete response (pCR) is an optimal outcome and a surrogate end point for improved disease-free and overall survival. To date, surgical resection remains the only reliable method for diagnosing pCR.</p>
+ </sec>
+ <sec id="ab-zoi201035-5">
+  <title>Objective</title>
+  <p>To evaluate the accuracy of magnetic resonance imaging (MRI)–guided biopsy for diagnosing a pCR after NAC compared with reference-standard surgical resection.</p>
+ </sec>
+ <sec id="ab-zoi201035-6">
+  <title>Design, Setting, and Participants</title>
+  <p>Single-arm, phase 1, nonrandomized controlled trial in a single tertiary care cancer center from September 26, 2017, to July 29, 2019. The median follow-up was 1.26 years (interquartile range, 0.85-1.59 years). Data analysis was performed in November 2019. Eligible patients had (1) stage IA to IIIC biopsy-proven operable invasive breast cancer; (2) standard-of-care NAC; (3) MRI before and after NAC, with imaging complete response defined as no residual enhancement on post-NAC MRI; and (4) definitive surgery. Patients were excluded if they were younger than 18 years, had a medical reason precluding study participation, or had a prior history of breast cancer.</p>
+ </sec>
+ <sec id="ab-zoi201035-7">
+  <title>Interventions</title>
+  <p>Post-NAC MRI-guided biopsy without the use of intravenous contrast of the tumor bed before definitive surgery.</p>
+ </sec>
+ <sec id="ab-zoi201035-8">
+  <title>Main Outcomes and Measures</title>
+  <p>The primary end point was the negative predictive value of MRI-guided biopsy, with true-negative defined as negative results of the biopsy (ie, no residual cancer) corresponding to a surgical pCR. Accuracy, sensitivity, positive predictive value, and specificity were also calculated. Two clinical definitions of pCR were independently evaluated: definition 1 was no residual invasive cancer; definition 2, no residual invasive or in situ cancer.</p>
+ </sec>
+ <sec id="ab-zoi201035-9">
+  <title>Results</title>
+  <p>Twenty of 23 patients (87%) had evaluable data (median [interquartile range] age, 51.5 [39.0-57.5] years; 20 women [100%]; 13 White patients [65%]). Of the 20 patients, pre-NAC median tumor size on MRI was 3.0 cm (interquartile range, 2.0-5.0 cm). Nineteen of 20 patients (95%) had invasive ductal carcinoma; 15 of 20 (75%) had stage II cancer; 11 of 20 (55%) had 
+   <italic>ERBB2</italic> (formerly 
+   <italic>HER2</italic> or 
+   <italic>HER2/</italic>neu)–positive cancer; and 6 of 20 (30%) had triple-negative cancer. Surgical pathology demonstrated a pCR in 13 of 20 (65%) patients and no pCR in 7 of 20 patients (35%) when pCR definition 1 was used. Results of MRI-guided biopsy had a negative predictive value of 92.8% (95% CI, 66.2%-99.8%), with accuracy of 95% (95% CI, 75.1%-99.9%), sensitivity of 85.8% (95% CI, 42.0%-99.6%), positive predictive value of 100%, and specificity of 100% for pCR definition 1. Only 1 patient had a false-negative MRI-guided biopsy result (surgical pathology showed &lt;0.02 cm of residual invasive cancer).
+  </p>
+ </sec>
+ <sec id="ab-zoi201035-10">
+  <title>Conclusions and Relevance</title>
+  <p>This study’s results suggest that the accuracy of MRI-guided biopsy to diagnose a post-NAC pCR approaches that of reference-standard surgical resection. MRI-guided biopsy may be a viable alternative to surgical resection for this population after NAC, which supports the need for further investigation.</p>
+ </sec>
+ <sec id="ab-zoi201035-11">
+  <title>Trial Registration</title>
+  <p>ClinicalTrials.gov Identifier: 
+   <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03289195" xmlns:xlink="http://www.w3.org/1999/xlink">NCT03289195</ext-link>
+  </p>
+ </sec>
+</abstract>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Topalian</surname>
+    <given-names>SL</given-names>
+   </name>
+   <name>
+    <surname>Sznol</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>McDermott</surname>
+    <given-names>DF</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Survival, durable tumor remission, and long-term safety in patients with advanced melanoma receiving nivolumab</article-title>
+  <source>J Clin Oncol</source>
+  <year>2014</year>
+  <volume>32</volume>
+  <issue>10</issue>
+  <fpage>1020</fpage>
+  <lpage>1030</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2013.53.0105</pub-id>
+  <?supplied-pmid 24590637?>
+  <pub-id pub-id-type="pmid">24590637</pub-id>
+ </element-citation>
+</ref>

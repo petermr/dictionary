@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="B1" position="float" orientation="portrait">
+ <label>Box 1</label>
+ <caption>
+  <title>Outcome variables.</title>
+ </caption>
+ <p>Outcomes (list will be completed depending on outcomes reported in the available study pool)</p>
+ <list list-type="bullet">
+  <list-item>
+   <p>Overall survival.</p>
+  </list-item>
+  <list-item>
+   <p>Progression-free survival.</p>
+  </list-item>
+  <list-item>
+   <p>Proportion of radical resection margin.</p>
+  </list-item>
+  <list-item>
+   <p>Postoperative complications. (frequency and severity).</p>
+  </list-item>
+  <list-item>
+   <p>Rate and timing of distant dissemination.</p>
+  </list-item>
+  <list-item>
+   <p>Disease recurrence rate.</p>
+  </list-item>
+ </list>
+</boxed-text>

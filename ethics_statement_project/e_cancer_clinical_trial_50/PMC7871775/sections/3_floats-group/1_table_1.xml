@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl0001">
+ <label>Table 1</label>
+ <caption>
+  <p>Innovative aspects of PREVENT-HD trial conduct</p>
+ </caption>
+ <alt-text id="alt0005">Table I</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top">Objective</th>
+    <th valign="top">Tactic</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top">Reduce exposure of health care providers to SARS Co-V-2</td>
+    <td valign="top">• Remote, electronic consent
+     <break/>• No physical examinations
+     <break/>• No in-person visits
+     <break/>• No study-required laboratory testing
+     <break/>• Study medication couriered/shipped from central depot to participant's home
+     <break/>• 100% remote site monitoring  
+    </td>
+   </tr>
+   <tr>
+    <td valign="top">Monitor safety of study participants</td>
+    <td valign="top">• Structured remote interview by trained coordinators to identify potential endpoints, adverse events
+     <break/>• Study personnel contact information to participants; 24/7 availability of a site physician
+     <break/>• Messaging to primary care providers of randomized subjects with information about the study and contact information for study personnel  
+    </td>
+   </tr>
+   <tr>
+    <td valign="top">Enhance the efficiency of study conduct</td>
+    <td valign="top">• Identify potential eligible patients by daily (real time) electronic medical records (EMR) data extraction
+     <break/>• Use of advanced informatics system exchange for extraction or integration of specified variables (eg, clinical laboratory values and visit information) from subjects’ EMR records into a parallel clinical database; this data integration will facilitate recruitment and monitoring of participant safety and outcomes
+     <break/>• Site-level classification of endpoints, based on EMR review, by centrally trained adjudicators, without a centralized adjudication committee
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

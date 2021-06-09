@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R11">
+ <label>11</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Wegelin</surname>
+    <given-names>O</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Exterkate</surname>
+    <given-names>L</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>van der Leest</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>The future trial: a multicenter randomised controlled trial on target biopsy techniques based on magnetic resonance imaging in the diagnosis of prostate cancer in patients with prior negative biopsies</article-title>. 
+  <source>Eur Urol</source>
+  <year>2019</year>;
+  <volume>75</volume>:
+  <fpage>582</fpage>–
+  <lpage>90</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.eururo.2018.11.040</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30522912?>
+  <pub-id pub-id-type="pmid">30522912</pub-id>
+ </mixed-citation>
+</ref>

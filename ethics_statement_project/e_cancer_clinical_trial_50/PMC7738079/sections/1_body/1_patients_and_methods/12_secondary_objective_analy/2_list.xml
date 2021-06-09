@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="bullet">
+ <list-item>
+  <p>The relationship between the other blood counts and the TILs at different times will be assessed through a correlation analysis as for the main objective.</p>
+ </list-item>
+ <list-item>
+  <p>The relationship between the absolute blood counts and the derived ratios (NLR, PLR), and the response to NACT will be evaluated by analyses of variance (or Kruskal–Wallis tests) and logistic regressions. A subgroup analysis will be performed based on the length of the period between the last cycle of NACT and surgery. A mixed model will also be considered to account for repeated measures and the time lag between the end of NACT and surgery.</p>
+ </list-item>
+ <list-item>
+  <p>The relationship between the presence of ctDNA after the end of treatment and the relapse of TNBC will be analyzed by Fisher's exact test. Patients treated with NACT and first-line surgery will be analyzed separately.</p>
+ </list-item>
+ <list-item>
+  <p>The elements of blood will be assessed as early markers of TNBC relapse using logistic regressions, possibly penalized (the LASSO method). Patients treated with NACT and first-line surgery will be analyzed separately.</p>
+ </list-item>
+</list>

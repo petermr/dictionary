@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Luvisetto</surname>
+   <given-names>Federico</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shamali</surname>
+   <given-names>Awad</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rutgers</surname>
+   <given-names>Marieke L. W.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Flashman</surname>
+   <given-names>Karen</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Khan</surname>
+   <given-names>Jim S.</given-names>
+  </name>
+  <address>
+   <email>jim.khan@porthosp.nhs.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.418709.3</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0456 1761</institution-id>
+   <institution>Department of Colorectal Surgery, </institution>
+   <institution>Portsmouth Hospitals NHS Trust, </institution>
+  </institution-wrap>Southwick Hill, Portsmouth, PO6 3LY UK 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5115.0</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2299 5510</institution-id>
+   <institution>Honorary Associate Professor, School of Health, Education, Medicine and Social Care, </institution>
+   <institution>Anglia Ruskin University, </institution>
+  </institution-wrap>Cambridge, UK 
+ </aff>
+</contrib-group>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Eligibility Criteria</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Inclusion Criteria</th>
+    <th>Exclusion Criteria</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>
+     <p>• 21–80 years old patients</p>
+     <p>• Radiological confirmed brain metastases (4–25 lesions)</p>
+     <p>• Histologically proven malignancy</p>
+     <p>• ECOG performance status ≤2</p>
+     <p>• Maximum lesion or cavity size ≤5 cm</p>
+     <p> o For patients with large (≥3 cm) lesions, a neurosurgical consult is recommended due to the increased risk of cerebral oedema</p>
+     <p> o If brain surgery or other invasive procedures are performed, the treatment should begin at least 2-weeks post-procedure</p>
+     <p>• Life expectancy of at least 6 months</p>
+     <p>• Negative serum pregnancy test within 14 days prior to registration for women of childbearing potential</p>
+     <p>• Women of childbearing potential and male participants who are sexually active must agree to use a medically effective means of birth control throughout protocol treatment</p>
+     <p>• Not suitable for or does not want SRS</p>
+     <p>• Agrees to be randomised to either HA-WBRT or HA-SIB-WBRT</p>
+    </td>
+    <td>
+     <p>• Prior whole brain radiotherapy.</p>
+     <p>o Prior SRS is not an exclusion. Details of treatment must be recorded.</p>
+     <p>• Diffuse leptomeningeal disease</p>
+     <p>• Extensive extracranial disease, not controlled by systemic treatment</p>
+     <p>• Major medical or psychiatric illness, which in the investigator’s opinion would interfere with the completion of therapy and follow up</p>
+     <p>• Dementia, ongoing psychotic episodes or moderate-severe depression (PHQ-9).</p>
+     <p>• Recent stroke in the past 3 months</p>
+     <p>• Symptomatic brain metastases limiting ADLs</p>
+     <p>• Rapid progression of brain lesion</p>
+     <p>• Patients unable to give informed consent</p>
+     <p>• Total tumour planning target volume (PTV) &gt; 60 cc</p>
+     <p>• Radiological evidence of hydrocephalus</p>
+     <p>• Contraindication to Gadolinium contrast-enhanced MRI brain</p>
+     <p>• Patients with diagnoses of small cell carcinoma, lymphoma or primary brain tumour</p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

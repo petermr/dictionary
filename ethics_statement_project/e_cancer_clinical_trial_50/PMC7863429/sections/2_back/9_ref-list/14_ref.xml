@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rabin</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>de Charro</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>
+  <article-title>EQ-5D: a measure of health status from the EuroQol group</article-title>
+  <source>Ann Med</source>
+  <year>2001</year>
+  <volume>33</volume>
+  <issue>5</issue>
+  <fpage>337</fpage>
+  <lpage>343</lpage>
+  <pub-id pub-id-type="pmid">11491192</pub-id>
+ </element-citation>
+</ref>

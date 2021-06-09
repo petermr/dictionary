@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dolladille</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Ederhy</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Sassier</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Immune checkpoint inhibitor Rechallenge after immune-related adverse events in patients with Cancer</article-title>
+  <source>JAMA Oncol</source>
+  <year>2020</year>
+  <volume>6</volume>
+  <issue>6</issue>
+  <fpage>1</fpage>
+  <lpage>7</lpage>
+  <pub-id pub-id-type="doi">10.1001/jamaoncol.2020.0726</pub-id>
+ </element-citation>
+</ref>

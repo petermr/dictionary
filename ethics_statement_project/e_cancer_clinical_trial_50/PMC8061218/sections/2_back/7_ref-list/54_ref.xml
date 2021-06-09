@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR54">
+ <label>54.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bradley</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Paulson</surname>
+    <given-names>ES</given-names>
+   </name>
+   <name>
+    <surname>Ahunbay</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Schultz</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>XA</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Dynamic MRI analysis of tumor and organ motion during rest and deglutition and margin assessment for radiotherapy of head-and-neck cancer</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>2011</year>
+  <volume>81</volume>
+  <issue>5</issue>
+  <fpage>e803</fpage>
+  <lpage>e812</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2010.12.015</pub-id>
+  <?supplied-pmid 21300480?>
+  <pub-id pub-id-type="pmid">21300480</pub-id>
+ </element-citation>
+</ref>

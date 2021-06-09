@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="zoi201035r10">
+ <label>10</label>
+ <mixed-citation publication-type="journal">
+  <person-group>
+   <name name-style="western">
+    <surname>Pinker</surname>
+    <given-names>K</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Bogner</surname>
+    <given-names>W</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Baltzer</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <etal/>
+  </person-group>
+  <article-title>Improved diagnostic accuracy with multiparametric magnetic resonance imaging of the breast using dynamic contrast-enhanced magnetic resonance imaging, diffusion-weighted imaging, and 3-dimensional proton magnetic resonance spectroscopic imaging</article-title>. 
+  <source>Invest Radiol</source>. 
+  <year>2014</year>;
+  <volume>49</volume>(
+  <issue>6</issue>):
+  <fpage>421</fpage>-
+  <lpage>430</lpage>. doi:
+  <pub-id pub-id-type="doi">10.1097/RLI.0000000000000029</pub-id>
+  <?supplied-pmid 24566292?>
+  <pub-id pub-id-type="pmid">24566292</pub-id>
+ </mixed-citation>
+</ref>

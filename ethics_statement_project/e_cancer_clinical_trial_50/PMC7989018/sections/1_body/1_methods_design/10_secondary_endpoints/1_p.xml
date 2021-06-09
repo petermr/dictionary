@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par60">
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par61">OS assessed from date of commencement of SRT to the date of death from any cause.</p>
+  </list-item>
+  <list-item>
+   <p id="Par62">PFS assessed from date of commencement of SRT to date of first evidence of progression or death by any cause. Progression is defined as: 
+    <list list-type="alpha-lower">
+     <list-item>
+      <p id="Par63">Clinically symptomatic progression requiring tumour specific palliative intervention e.g. change or cessation of anti-cancer systemic treatment, palliative radiotherapy as determined by treating doctor.</p>
+     </list-item>
+     <list-item>
+      <p id="Par64">Development of new lesions or progression of existing lesions.</p>
+     </list-item>
+    </list>
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par65">Treatment related toxicity using the NCI Common Terminology for Adverse Events Version 5.0 (CTCAE v5.0).</p>
+  </list-item>
+ </list>
+</p>

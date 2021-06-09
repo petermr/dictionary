@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R10">
+ <label>10</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Weichselbaum</surname>
+    <given-names>RR</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Hellman</surname>
+    <given-names>S</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Oligometastases revisited</article-title>. 
+  <source>Nat Rev Clin Oncol</source>
+  <year>2011</year>;
+  <volume>8</volume>:
+  <fpage>378</fpage>–
+  <lpage>82</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nrclinonc.2011.44</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/21423255?>
+  <pub-id pub-id-type="pmid">21423255</pub-id>
+ </mixed-citation>
+</ref>

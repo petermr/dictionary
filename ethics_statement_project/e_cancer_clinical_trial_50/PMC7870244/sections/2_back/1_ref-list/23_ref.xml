@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R23">
+ <label>[23]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Messerli</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Kluckert</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Knitel</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Computer-aided detection (CAD) of solid pulmonary nodules in chest x-ray equivalent ultralow dose chest CT - first in-vivo results at dose levels of 0.13 mSv</article-title>. 
+  <source>Eur J Radiol</source>
+  <year>2016</year>;
+  <volume>85</volume>:
+  <fpage>2217</fpage>–
+  <lpage>24</lpage>.
+  <pub-id pub-id-type="pmid">27842670</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par71">The RT volume in the standard arm is based on expected fields from conventional CL-RT volume, with the planning target volume (PTV) extending from the top of thyroid cartilage lamina superiorly, to the bottom of the cricoid inferiorly. The volumes below are defined to lead to traditional volumes from conventional CL-RT (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>). 
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par72">CTV
+    <sub>CL-RT</sub> = GTV plus a manual expansion superiorly to include the cranial arytenoid cartilage, inferiorly to include 1–1.5 cm below true vocal cords, anteriorly to include the anterior commissure, posteriorly to include posterior commissure and arytenoid cartilage.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par73">PTV 
+    <sub>CL-RT</sub> = 1 cm circumferential expansion around CTV 
+    <sub>CL-RT</sub> in all directions, except posteriorly where the margin will be 0.5 cm. As the PTV of CL-RT is based on previous fields of conventional RT, after the addition of a 1 cm margin, the PTV 
+    <sub>CL-RT</sub> should extend to the top of the thyroid cartilage lamina superiorly and to the bottom of the cricoid inferiorly; alternatively, the PTV 
+    <sub>CL-RT</sub> should be manually expanded.
+   </p>
+  </list-item>
+ </list>
+</p>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" orientation="portrait" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>Incidence rate of C34 (Malignant neoplasm of bronchus and lung) by age in 2017 in the Czech Republic. Data from the National Oncology Registry.
+   <sup>[
+    <xref rid="R1" ref-type="bibr">1</xref>]
+   </sup>
+  </p>
+ </caption>
+ <graphic xlink:href="medi-100-e23878-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

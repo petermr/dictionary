@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref2">
+ <label>2.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Smyth</surname>  
+    <given-names>EC</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Vertheij</surname>  
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Allum</surname>  
+    <given-names>W</given-names>
+   </string-name>, 
+   <etal>et al.</etal>
+  </person-group>  
+  <article-title>Gastric cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up</article-title>. 
+  <source>Ann Oncol</source>  
+  <year>2016</year>;
+  <volume>27</volume>:
+  <fpage>v38</fpage>–
+  <lpage>49</lpage>.
+  <pub-id pub-id-type="pmid">27664260</pub-id>
+ </mixed-citation>
+</ref>

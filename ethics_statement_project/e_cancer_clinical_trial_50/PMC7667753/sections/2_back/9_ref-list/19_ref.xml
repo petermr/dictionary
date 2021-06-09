@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Garland</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Paavonen</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Jaisamrarn</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Naud</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Salmerón</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Chow</surname>
+    <given-names>SN</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Prior human papillomavirus (HPV)-16/18 AS04-adjuvanted vaccination prevents recurrent high grade cervical intraepithelial neoplasia after definitive surgical therapy: post-hoc analysis from a randomized controlled trial</article-title>
+  <source>Int J Cancer</source>
+  <year>2016</year>
+  <volume>139</volume>
+  <issue>12</issue>
+  <fpage>2812</fpage>
+  <lpage>2826</lpage>
+  <pub-id pub-id-type="doi">10.1002/ijc.30391</pub-id>
+  <?supplied-pmid 27541373?>
+  <pub-id pub-id-type="pmid">27541373</pub-id>
+ </element-citation>
+</ref>

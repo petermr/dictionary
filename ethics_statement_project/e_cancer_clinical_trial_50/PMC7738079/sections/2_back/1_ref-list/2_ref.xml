@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R2">
+ <label>[2]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dent</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Trudeau</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Pritchard</surname>
+    <given-names>KI</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Triple-negative breast cancer: clinical features and patterns of recurrence</article-title>. 
+  <source>Clin Cancer Res</source>
+  <year>2007</year>;
+  <volume>13</volume>:
+  <fpage>4429</fpage>–
+  <lpage>34</lpage>. 
+  <comment>doi: 10.1158/1078-0432.CCR-06-3045</comment>.
+  <pub-id pub-id-type="pmid">17671126</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par87">SABR in will be delivered with three major guiding principles: 
+ <list list-type="order">
+  <list-item>
+   <p id="Par88">
+    <bold>Minimization of Toxicity</bold>. The radiotherapy doses used herein are lower than those used for radical treatments, and normal tissue tolerance doses will never be exceeded. Concurrent chemotherapy or targeted therapy at the time of radiotherapy (other than conventional hormone-based therapies which may continue) is not permitted. The starting dose for this trial will by 12Gy in 2 fractions with each fraction given weekly, a dose expected to be safe and well-tolerated based on prior clinical experience with hemi-body radiation.
+   </p>
+  </list-item>
+ </list>
+ <list list-type="simple">
+  <list-item>
+   <label>2.</label>
+   <p id="Par89">
+    <bold>Minimization of Treatment Burden</bold>. To avoid excessive treatment delivery time and treatment burden, radiotherapy is to be delivered using a limited number of isocentres. Given the volumes to be treated, a given “fraction” may require treatment over 1–3 days to keep daily treatment times tolerable. The smallest number of isocentres will be used and will be limited to three isocentres treated per treatment day. A maximum of three treatment days are to be utilized per dose level (i.e. three treatment days per week maximum) for a maximum of 9 isocentres per fraction. For example, a patient requiring treatment of polymetastatic disease involving the brain, lung and abdomen might require a given fraction to be delivered over 3 consecutive days: day 1, up to 3 isocentres to cover head, neck and upper thorax; day 2, up to 3 isocentres to cover lower thorax and upper abdomen; day 3, up to 3 isocentres to cover lower abdomen and pelvis.
+   </p>
+  </list-item>
+ </list>
+ <list list-type="simple">
+  <list-item>
+   <label>3.</label>
+   <p id="Par90">
+    <bold>Strict adherence to dose constraints</bold>. If a patient undergoes planning but cannot be treated at the current dose level they will receive treatment at the next highest dose level that can be safely planned. These patients will still be followed as per the clinical trial, and toxicity will be recorded. The phase 1 3 + 3 dose escalation evaluation will only apply to those who can have a safe radiotherapy treatment plan created at the target dose level. For example, a patient who fails planning at 30Gy in 5 fractions but who has a radiation plan meeting dose constraints at 18gy in 3 fractions will be treated at the lower dose level (and counted as a treatment planning failure at the higher dose level)
+   </p>
+  </list-item>
+ </list>
+</p>

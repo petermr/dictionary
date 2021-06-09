@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ritter</surname>
+    <given-names>TA</given-names>
+   </name>
+   <name>
+    <surname>Matuszak</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Chetty</surname>
+    <given-names>IJ</given-names>
+   </name>
+   <name>
+    <surname>Mayo</surname>
+    <given-names>CS</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Iyengar</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Weldon</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Robinson</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Xiao</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Timmerman</surname>
+    <given-names>RD</given-names>
+   </name>
+  </person-group>
+  <article-title>Application of critical volume-dose constraints for stereotactic body radiation therapy in NRG radiation therapy trials</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>2017</year>
+  <volume>98</volume>
+  <issue>1</issue>
+  <fpage>34</fpage>
+  <lpage>36</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2017.01.204</pub-id>
+  <?supplied-pmid 28587050?>
+  <pub-id pub-id-type="pmid">28587050</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We performed genome‐wide methylation analysis using the Infinium Methylation EPIC BeadChip (Illumina, San Diego, CA, USA), as previously described.
+ <xref rid="cas14841-bib-0016" ref-type="ref">
+  <sup>16</sup>
+ </xref> In addition, we evaluated the methylation state of the CpG site by the 
+ <italic>β</italic>‐value (intensity of methylated probe/[intensity of methylated probe + intensity of unmethylated probe]). 
+ <italic>β</italic> ≥ 0.5 was defined as methylation positive. After excluding probes on the X and Y chromosomes, we selected probes with a standard deviation of 
+ <italic>β</italic> ≥ 0.25 across all cases. Using the selected probes, we used unsupervised hierarchical clustering to classify patients into HMCC or LMCC. In CIMP analysis, cases in which 3 or more of the 5 promoter regions of 
+ <italic>CACNA1G</italic>, 
+ <italic>IGF2</italic>, 
+ <italic>NEUROG1</italic>, 
+ <italic>RUNX3</italic>, and 
+ <italic>SOCS1</italic> were methylated were deemed CIMP positive.
+ <xref rid="cas14841-bib-0010" ref-type="ref">
+  <sup>10</sup>
+ </xref>
+</p>

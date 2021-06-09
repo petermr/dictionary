@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aff id="aff2">
+ <label>2</label>
+ <institution content-type="department">Center for Surgery, Department of General and Visceral Surgery</institution>, 
+ <institution>Medical Center - University of Freiburg, Faculty of Medicine, University of Freiburg</institution>, 
+ <addr-line content-type="city">Freiburg</addr-line>, 
+ <addr-line content-type="state">Baden-Württemberg</addr-line>, 
+ <country>Germany</country>
+</aff>

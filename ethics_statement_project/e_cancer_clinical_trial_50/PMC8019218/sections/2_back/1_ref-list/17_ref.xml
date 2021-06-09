@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cas14841-bib-0017">
+ <label>17</label>
+ <mixed-citation publication-type="journal" id="cas14841-cit-0017">
+  <string-name>
+   <surname>Subramanian</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Tamayo</surname>
+   <given-names>P</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Mootha</surname>
+   <given-names>VK</given-names>
+  </string-name>, et al. 
+  <article-title>Gene set enrichment analysis: a knowledge‐based approach for interpreting genome‐wide expression profiles</article-title>. 
+  <source xml:lang="en">Proc Natl Acad Sci USA</source>. 
+  <year>2005</year>;
+  <volume>102</volume>(
+  <issue>43</issue>):
+  <fpage>15545</fpage>‐
+  <lpage>15550</lpage>.
+  <pub-id pub-id-type="pmid">16199517</pub-id>
+ </mixed-citation>
+</ref>

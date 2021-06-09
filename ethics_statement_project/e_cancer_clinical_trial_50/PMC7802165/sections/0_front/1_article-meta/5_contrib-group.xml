@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Cheng</surname>
+   <given-names>Xiangdong</given-names>
+  </name>
+  <address>
+   <email>abdsurg@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Dan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Nong</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Luchuan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yan</surname>
+   <given-names>Zhilong</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Ping</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhou</surname>
+   <given-names>Lei</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yu</surname>
+   <given-names>Jianfa</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cui</surname>
+   <given-names>Jiuwei</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Wei</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Chang</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Feng</surname>
+   <given-names>Wenming</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff10">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wei</surname>
+   <given-names>Yunhai</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff11">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yu</surname>
+   <given-names>Pengfei</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Du</surname>
+   <given-names>Yian</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ying</surname>
+   <given-names>Jieer</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Zhiyuan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Litao</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Yunli</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.417397.f</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1808 0985</institution-id>
+   <institution>Department of Abdominal Surgery, </institution>
+   <institution>Zhejiang Cancer Hospital (University of Chinese Academy of Sciences Cancer Hospital), </institution>
+  </institution-wrap>Zhejiang, China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.13402.34</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1759 700X</institution-id>
+   <institution>Department of General Surgery, </institution>
+   <institution>Second Affiliated Hospital of Medical College of Zhejiang University, </institution>
+  </institution-wrap>Zhejiang, China 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.13402.34</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1759 700X</institution-id>
+   <institution>Department of Oncology, </institution>
+   <institution>First Affiliated Hospital of Medical College of Zhejiang University, </institution>
+  </institution-wrap>Zhejiang, China 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.415110.0</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0605 1140</institution-id>
+   <institution>Department of Gastrointestinal Oncology Surgery, </institution>
+   <institution>Fujian Provincial Cancer Hospital, </institution>
+  </institution-wrap>Fuzhou, Fujian China 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.416271.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0639 0580</institution-id>
+   <institution>Department of Gastrointestinal Surgery, </institution>
+   <institution>Ningbo First Hospital, </institution>
+  </institution-wrap>Zhejiang, China 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>Department of Gastrointestinal Surgery, Ningbo Second Hospital, Zhejiang, China 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.415954.8</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1771 3349</institution-id>
+   <institution>Department of General Surgery, </institution>
+   <institution>China-Japan Friendship Hospital, </institution>
+  </institution-wrap>Beijing, China 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.417400.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1799 0055</institution-id>
+   <institution>Department of Gastrointestinal Surgery, </institution>
+   <institution>Zhejiang Provincial Hospital of Traditional Chinese Medicine, </institution>
+  </institution-wrap>Zhejiang, China 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.430605.4</institution-id>
+   <institution>Oncology Central, </institution>
+   <institution>First Hospital of Jilin University, </institution>
+  </institution-wrap>Jilin, China 
+ </aff>
+ <aff id="Aff10">
+  <label>10</label>Department of Hepatobiliary Pancreatic Surgery, Huzhou First People’s Hospital, Zhejiang, China 
+ </aff>
+ <aff id="Aff11">
+  <label>11</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.413679.e</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0517 0981</institution-id>
+   <institution>Department of Hepatobiliary Pancreatic Surgery, </institution>
+   <institution>Huzhou Central Hospital (Zhejiang University Huzhou Hospital), </institution>
+  </institution-wrap>Zhejiang, China 
+ </aff>
+</contrib-group>

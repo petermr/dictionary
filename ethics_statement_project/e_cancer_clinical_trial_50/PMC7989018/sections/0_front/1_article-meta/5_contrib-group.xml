@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Alomran</surname>
+   <given-names>Reem</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>White</surname>
+   <given-names>Michelle</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bruce</surname>
+   <given-names>Melissa</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bressel</surname>
+   <given-names>Mathias</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Roache</surname>
+   <given-names>Susan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Karroum</surname>
+   <given-names>Lama</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hanna</surname>
+   <given-names>Gerard G.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Siva</surname>
+   <given-names>Shankar</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Goel</surname>
+   <given-names>Shom</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>David</surname>
+   <given-names>Steven</given-names>
+  </name>
+  <address>
+   <email>steven.david@petermac.org</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.1055.1</institution-id>
+   <institution-id institution-id-type="ISNI">0000000403978434</institution-id>
+   <institution>Peter MacCallum Cancer Centre, </institution>
+  </institution-wrap>305 Grattan St, Melbourne, Victoria 3000 Australia 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.415277.2</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0593 1832</institution-id>
+   <institution>Department of Radiation Oncology, </institution>
+   <institution>Comprehensive Cancer Centre, King Fahad Medical City, </institution>
+  </institution-wrap>Riyadh, Saudi Arabia 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.416060.5</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0390 1496</institution-id>
+   <institution>Monash Medical Centre, </institution>
+  </institution-wrap>Melbourne, Australia 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.1008.9</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2179 088X</institution-id>
+   <institution>The Sir Peter MacCallum Department of Oncology, </institution>
+   <institution>The University of Melbourne, </institution>
+  </institution-wrap>Parkville, Victoria 3010 Australia 
+ </aff>
+</contrib-group>

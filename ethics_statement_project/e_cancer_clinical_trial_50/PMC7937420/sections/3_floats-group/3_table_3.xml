@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="TB3" orientation="portrait" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Adverse events related to preoperative chemotherapy</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <colgroup span="1">
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+  </colgroup>
+  <thead>
+   <tr>
+    <th rowspan="2" align="left" colspan="1">Adverse event</th>
+    <th colspan="2" align="center" rowspan="1">Grade 3/4</th>
+    <th colspan="2" align="center" rowspan="1">All grade</th>
+   </tr>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">Number of patients</th>
+    <th align="left" rowspan="1" colspan="1">(%)</th>
+    <th align="left" rowspan="1" colspan="1">Number of patients</th>
+    <th align="left" rowspan="1" colspan="1">(%)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Hematological</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Leukopenia</td>
+    <td align="left" rowspan="1" colspan="1">7</td>
+    <td align="left" rowspan="1" colspan="1">22.5</td>
+    <td align="left" rowspan="1" colspan="1">20</td>
+    <td align="left" rowspan="1" colspan="1">64.5</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Neutropenia</td>
+    <td align="left" rowspan="1" colspan="1">13</td>
+    <td align="left" rowspan="1" colspan="1">41.9</td>
+    <td align="left" rowspan="1" colspan="1">23</td>
+    <td align="left" rowspan="1" colspan="1">74.2</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Anemia</td>
+    <td align="left" rowspan="1" colspan="1">4</td>
+    <td align="left" rowspan="1" colspan="1">12.9</td>
+    <td align="left" rowspan="1" colspan="1">21</td>
+    <td align="left" rowspan="1" colspan="1">67.7</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Thrombocytopenia</td>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">3.2</td>
+    <td align="left" rowspan="1" colspan="1">3</td>
+    <td align="left" rowspan="1" colspan="1">9.7</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Febrile neutropenia</td>
+    <td align="left" rowspan="1" colspan="1">2</td>
+    <td align="left" rowspan="1" colspan="1">6.5</td>
+    <td align="left" rowspan="1" colspan="1">2</td>
+    <td align="left" rowspan="1" colspan="1">6.5</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">No hematological</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Elevated AST</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0.0</td>
+    <td align="left" rowspan="1" colspan="1">7</td>
+    <td align="left" rowspan="1" colspan="1">22.6</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Elevated ALT</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0.0</td>
+    <td align="left" rowspan="1" colspan="1">9</td>
+    <td align="left" rowspan="1" colspan="1">29.0</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Elevated serum Bil</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0.0</td>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">3.2</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Elevated creatine</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0.0</td>
+    <td align="left" rowspan="1" colspan="1">11</td>
+    <td align="left" rowspan="1" colspan="1">35.5</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Nausea/Vomiting</td>
+    <td rowspan="1" colspan="1">10</td>
+    <td rowspan="1" colspan="1">32.3</td>
+    <td rowspan="1" colspan="1">29</td>
+    <td rowspan="1" colspan="1">93.5</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Diarrhea</td>
+    <td align="left" rowspan="1" colspan="1">3</td>
+    <td align="left" rowspan="1" colspan="1">9.7</td>
+    <td align="left" rowspan="1" colspan="1">14</td>
+    <td align="left" rowspan="1" colspan="1">45.2</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Rash</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0.0</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0.0</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Fatigue</td>
+    <td align="left" rowspan="1" colspan="1">3</td>
+    <td align="left" rowspan="1" colspan="1">9.7</td>
+    <td align="left" rowspan="1" colspan="1">26</td>
+    <td align="left" rowspan="1" colspan="1">83.9</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Alopecia</td>
+    <td rowspan="1" colspan="1">0</td>
+    <td rowspan="1" colspan="1">0.0</td>
+    <td rowspan="1" colspan="1">26</td>
+    <td rowspan="1" colspan="1">83.9</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Thromboembolism</td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">3.2</td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">3.2</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Infusion related reaction</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0.0</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0.0</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Paresthesia</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0.0</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0.0</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>AST: Aspartate transaminases; ALT: Alanine aminotransferase; Bil: Bilirubin.</p>
+ </table-wrap-foot>
+</table-wrap>

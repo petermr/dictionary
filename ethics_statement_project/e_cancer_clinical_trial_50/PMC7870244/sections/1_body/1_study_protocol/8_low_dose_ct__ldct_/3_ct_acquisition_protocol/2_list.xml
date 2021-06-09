@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="bullet">
+ <list-item>
+  <p>≥64 slice scanner</p>
+ </list-item>
+ <list-item>
+  <p>Axial and longitudinal current modulation</p>
+ </list-item>
+ <list-item>
+  <p>Iterative reconstruction – hybrid or model-based</p>
+ </list-item>
+ <list-item>
+  <p>Tube voltage: 80–120 kV – automated selection (auto kV)</p>
+ </list-item>
+ <list-item>
+  <p>Tube current: ref. 10 mAs (automated modulation) – target CTDIvol≤0.6 mGy (standard-size patient), effective dose ≤0.2 mSv</p>
+ </list-item>
+ <list-item>
+  <p>Extent: lung apices – costophrenic angles</p>
+ </list-item>
+ <list-item>
+  <p>Command: “Take a deep breath and hold it”.</p>
+ </list-item>
+</list>

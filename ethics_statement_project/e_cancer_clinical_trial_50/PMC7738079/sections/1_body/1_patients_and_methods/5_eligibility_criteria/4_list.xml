@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="simple">
+ <list-item>
+  <label>-</label>
+  <p>Patient decision</p>
+ </list-item>
+ <list-item>
+  <label>-</label>
+  <p>Investigator decision</p>
+ </list-item>
+ <list-item>
+  <label>-</label>
+  <p>Patient death</p>
+ </list-item>
+ <list-item>
+  <label>-</label>
+  <p>Patient lost to follow-up</p>
+ </list-item>
+</list>

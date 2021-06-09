@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R14">
+ <label>[14]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Salgado</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Denkert</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Demaria</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The evaluation of tumor-infiltrating lymphocytes (TILs) in breast cancer: recommendations by an International TILs Working Group 2014</article-title>. 
+  <source>Ann Oncol</source>
+  <year>2015</year>;
+  <volume>26</volume>:
+  <fpage>259</fpage>–
+  <lpage>71</lpage>. 
+  <comment>doi: 10.1093/annonc/mdu450</comment>.
+  <pub-id pub-id-type="pmid">25214542</pub-id>
+ </mixed-citation>
+</ref>

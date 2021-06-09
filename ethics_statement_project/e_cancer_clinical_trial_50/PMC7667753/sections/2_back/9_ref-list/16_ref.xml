@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kavanagh</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Pollock</surname>
+    <given-names>KG</given-names>
+   </name>
+   <name>
+    <surname>Cuschieri</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Palmer</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Cameron</surname>
+    <given-names>RL</given-names>
+   </name>
+   <name>
+    <surname>Watt</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Changes in the prevalence of human papillomavirus following a national bivalent human papillomavirus vaccination programme in Scotland: a 7-year cross-sectional study</article-title>
+  <source>Lancet Infect Dis</source>
+  <year>2017</year>
+  <volume>17</volume>
+  <issue>12</issue>
+  <fpage>1293</fpage>
+  <lpage>1302</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1473-3099(17)30468-1</pub-id>
+  <?supplied-pmid 28965955?>
+  <pub-id pub-id-type="pmid">28965955</pub-id>
+ </element-citation>
+</ref>

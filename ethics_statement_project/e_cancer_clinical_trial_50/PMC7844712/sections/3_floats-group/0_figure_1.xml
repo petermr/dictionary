@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1">
+ <label>Figure 1</label>
+ <caption>
+  <p>Trial profile</p>
+  <p>HSCT=high-dose chemotherapy supported by autologous haematopoietic stem-cell transplantation. MATRix=rituximab, methotrexate, cytarabine, and thiotepa. RICE=rituximab, ifosfamide, carboplatin, and etoposide. WBRT=whole-brain radiotherapy. Adjuvant radiotherapy is radiotherapy used in patients in complete remission after autologous HSCT. Complementary radiotherapy is irradiation of residual lesions in patients in partial response after autologous HSCT. *Four patients were excluded because of unrelated laboratory abnormalities (n=2), disease only at flow cytometry examination of the cerebrospinal fluid (n=1), and death at the same time as registration (n=1). †Per protocol, MATRix was preceded by debulking R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone) in nine (28%) of the 32 patients enrolled at original lymphoma diagnosis. ‡Protocol deviations. §Patients still had progressive disease after the WBRT.</p>
+ </caption>
+ <graphic xlink:href="gr1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

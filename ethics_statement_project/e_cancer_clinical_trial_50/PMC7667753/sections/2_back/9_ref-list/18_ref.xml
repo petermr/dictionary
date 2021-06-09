@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Abramson</surname>
+    <given-names>JH</given-names>
+   </name>
+   <name>
+    <surname>Gahlinger</surname>
+    <given-names>PM</given-names>
+   </name>
+  </person-group>
+  <source>Computer programs for epidemiologists: PEPI. Version 4.0</source>
+  <year>2001</year>
+  <publisher-loc>Salt Lake City</publisher-loc>
+  <publisher-name>UT: Sagebrush Press</publisher-name>
+ </element-citation>
+</ref>

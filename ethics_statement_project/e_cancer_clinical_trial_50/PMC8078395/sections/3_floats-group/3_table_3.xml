@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T3" orientation="portrait" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Changes of EORTC QLQ-H&amp;N35 scores, mean (SE).</p>
+ </caption>
+ <table frame="hsides" rules="groups" border="0">
+  <thead>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="center" colspan="4" rowspan="1">Experimental group (n = 31)</td>
+    <td align="center" colspan="4" rowspan="1">Control group (n = 30)</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>P</italic>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1">Before radiotherapy</td>
+    <td align="center" rowspan="1" colspan="1">Immediate after radiotherapy</td>
+    <td align="center" rowspan="1" colspan="1">3 months after radiotherapy</td>
+    <td align="center" rowspan="1" colspan="1">6 months after radiotherapy</td>
+    <td align="center" rowspan="1" colspan="1">Before radiotherapy</td>
+    <td align="center" rowspan="1" colspan="1">Immediate after radiotherapy</td>
+    <td align="center" rowspan="1" colspan="1">3 months after radiotherapy</td>
+    <td align="center" rowspan="1" colspan="1">6 months after radiotherapy</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Pain</td>
+    <td align="center" rowspan="1" colspan="1">19.57 (18.35)</td>
+    <td align="center" rowspan="1" colspan="1">49.24 (26.09)</td>
+    <td align="center" rowspan="1" colspan="1">24.88 (21.33)</td>
+    <td align="center" rowspan="1" colspan="1">16.67 (8.74)</td>
+    <td align="center" rowspan="1" colspan="1">18.52 (13.82)</td>
+    <td align="center" rowspan="1" colspan="1">46.82 (32.77)</td>
+    <td align="center" rowspan="1" colspan="1">21.62 (18.91)</td>
+    <td align="center" rowspan="1" colspan="1">26.23 (28.65)</td>
+    <td align="center" rowspan="1" colspan="1">.328</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Swallowing</td>
+    <td align="center" rowspan="1" colspan="1">19.05 (23.10)</td>
+    <td align="center" rowspan="1" colspan="1">47.34 (27.07)</td>
+    <td align="center" rowspan="1" colspan="1">18.11 (21.53)</td>
+    <td align="center" rowspan="1" colspan="1">13.23 (12.88)</td>
+    <td align="center" rowspan="1" colspan="1">12.04 (15.80)</td>
+    <td align="center" rowspan="1" colspan="1">34.12 (32.96)</td>
+    <td align="center" rowspan="1" colspan="1">21.62 (16.15)</td>
+    <td align="center" rowspan="1" colspan="1">22.43 (26.80)</td>
+    <td align="center" rowspan="1" colspan="1">.035</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Senses problems</td>
+    <td align="center" rowspan="1" colspan="1">14.28 (23.15)</td>
+    <td align="center" rowspan="1" colspan="1">46.97 (21.60)</td>
+    <td align="center" rowspan="1" colspan="1">27.53 (17.84)</td>
+    <td align="center" rowspan="1" colspan="1">16.67 (16.67)</td>
+    <td align="center" rowspan="1" colspan="1">13.89 (24.07)</td>
+    <td align="center" rowspan="1" colspan="1">59.52 (30.46)</td>
+    <td align="center" rowspan="1" colspan="1">32.61 (23.29)</td>
+    <td align="center" rowspan="1" colspan="1">29.01 (29.45)</td>
+    <td align="center" rowspan="1" colspan="1">.251</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Speech problems</td>
+    <td align="center" rowspan="1" colspan="1">17.57 (21.58)</td>
+    <td align="center" rowspan="1" colspan="1">36.36 (26.15)</td>
+    <td align="center" rowspan="1" colspan="1">14.49 (20.50)</td>
+    <td align="center" rowspan="1" colspan="1">12.70 (15.43)</td>
+    <td align="center" rowspan="1" colspan="1">18.83 (20.71)</td>
+    <td align="center" rowspan="1" colspan="1">27.78 (31.04)</td>
+    <td align="center" rowspan="1" colspan="1">27.02 (24.98)</td>
+    <td align="center" rowspan="1" colspan="1">29.22 (29.09)</td>
+    <td align="center" rowspan="1" colspan="1">.034</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Social eating</td>
+    <td align="center" rowspan="1" colspan="1">23.90 (28.03)</td>
+    <td align="center" rowspan="1" colspan="1">39.01 (17.51)</td>
+    <td align="center" rowspan="1" colspan="1">15.15 (14.69)</td>
+    <td align="center" rowspan="1" colspan="1">20.24 (21.34)</td>
+    <td align="center" rowspan="1" colspan="1">19.44 (25.59)</td>
+    <td align="center" rowspan="1" colspan="1">42.26 (35.27)</td>
+    <td align="center" rowspan="1" colspan="1">29.71 (21.44)</td>
+    <td align="center" rowspan="1" colspan="1">37.03 (34.15)</td>
+    <td align="center" rowspan="1" colspan="1">.064</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Social contact</td>
+    <td align="center" rowspan="1" colspan="1">15.66 (20.63)</td>
+    <td align="center" rowspan="1" colspan="1">27.27 (26.50)</td>
+    <td align="center" rowspan="1" colspan="1">8.55 (12.34)</td>
+    <td align="center" rowspan="1" colspan="1">13.65 (19.26)</td>
+    <td align="center" rowspan="1" colspan="1">19.63 (23.25)</td>
+    <td align="center" rowspan="1" colspan="1">23.33 (31.78)</td>
+    <td align="center" rowspan="1" colspan="1">19.70 (22.30)</td>
+    <td align="center" rowspan="1" colspan="1">26.17 (31.64)</td>
+    <td align="center" rowspan="1" colspan="1">.470</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Less sexuality</td>
+    <td align="center" rowspan="1" colspan="1">20.24 (32.20)</td>
+    <td align="center" rowspan="1" colspan="1">38.59 (31.94)</td>
+    <td align="center" rowspan="1" colspan="1">12.32 (16.06)</td>
+    <td align="center" rowspan="1" colspan="1">15.87 (17.85)</td>
+    <td align="center" rowspan="1" colspan="1">12.38 (17.78)</td>
+    <td align="center" rowspan="1" colspan="1">27.38 (35.57)</td>
+    <td align="center" rowspan="1" colspan="1">23.48 (27.53)</td>
+    <td align="center" rowspan="1" colspan="1">29.48 (34.09)</td>
+    <td align="center" rowspan="1" colspan="1">.005</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Teeth</td>
+    <td align="center" rowspan="1" colspan="1">27.90 (31.64)</td>
+    <td align="center" rowspan="1" colspan="1">30.16 (29.63)</td>
+    <td align="center" rowspan="1" colspan="1">26.08 (28.35)</td>
+    <td align="center" rowspan="1" colspan="1">23.81 (30.08)</td>
+    <td align="center" rowspan="1" colspan="1">37.14 (36.84)</td>
+    <td align="center" rowspan="1" colspan="1">30.95 (27.62)</td>
+    <td align="center" rowspan="1" colspan="1">39.39 (40.67)</td>
+    <td align="center" rowspan="1" colspan="1">38.46 (34.88)</td>
+    <td align="center" rowspan="1" colspan="1">.672</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Opening mouth</td>
+    <td align="center" rowspan="1" colspan="1">24.03 (33.59)</td>
+    <td align="center" rowspan="1" colspan="1">43.94 (40.35)</td>
+    <td align="center" rowspan="1" colspan="1">23.19 (32.46)</td>
+    <td align="center" rowspan="1" colspan="1">25.39 (31.45)</td>
+    <td align="center" rowspan="1" colspan="1">25.92 (32.96)</td>
+    <td align="center" rowspan="1" colspan="1">33.33 (32.02)</td>
+    <td align="center" rowspan="1" colspan="1">34.85 (34.85)</td>
+    <td align="center" rowspan="1" colspan="1">48.71 (35.56)</td>
+    <td align="center" rowspan="1" colspan="1">.062</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Dry mouth</td>
+    <td align="center" rowspan="1" colspan="1">31.74 (30.31)</td>
+    <td align="center" rowspan="1" colspan="1">57.57 (31.17)</td>
+    <td align="center" rowspan="1" colspan="1">49.27 (24.35)</td>
+    <td align="center" rowspan="1" colspan="1">53.96 (28.82)</td>
+    <td align="center" rowspan="1" colspan="1">33.33 (29.81)</td>
+    <td align="center" rowspan="1" colspan="1">59.52 (32.50)</td>
+    <td align="center" rowspan="1" colspan="1">65.21 (29.26)</td>
+    <td align="center" rowspan="1" colspan="1">51.85 (31.12)</td>
+    <td align="center" rowspan="1" colspan="1">.347</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Sticky saliva</td>
+    <td align="center" rowspan="1" colspan="1">23.01 (29.89)</td>
+    <td align="center" rowspan="1" colspan="1">61.90 (26.42)</td>
+    <td align="center" rowspan="1" colspan="1">43.47 (23.43)</td>
+    <td align="center" rowspan="1" colspan="1">44.44 (33.88)</td>
+    <td align="center" rowspan="1" colspan="1">22.22 (26.42)</td>
+    <td align="center" rowspan="1" colspan="1">45.23 (42.58)</td>
+    <td align="center" rowspan="1" colspan="1">49.27 (29.93)</td>
+    <td align="center" rowspan="1" colspan="1">39.50 (30.71)</td>
+    <td align="center" rowspan="1" colspan="1">.217</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Coughing</td>
+    <td align="center" rowspan="1" colspan="1">20.15 (23.16)</td>
+    <td align="center" rowspan="1" colspan="1">37.88 (29.63)</td>
+    <td align="center" rowspan="1" colspan="1">20.29 (24.07)</td>
+    <td align="center" rowspan="1" colspan="1">25.39 (29.63)</td>
+    <td align="center" rowspan="1" colspan="1">19.44 (18.47)</td>
+    <td align="center" rowspan="1" colspan="1">43.59 (39.40)</td>
+    <td align="center" rowspan="1" colspan="1">20.29 (19.43)</td>
+    <td align="center" rowspan="1" colspan="1">18.52 (26.69)</td>
+    <td align="center" rowspan="1" colspan="1">.683</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Weight loss</td>
+    <td align="center" rowspan="1" colspan="1">51.16 (50.58)</td>
+    <td align="center" rowspan="1" colspan="1">54.55 (50.96)</td>
+    <td align="center" rowspan="1" colspan="1">30.43 (47.05)</td>
+    <td align="center" rowspan="1" colspan="1">33.33 (48.30)</td>
+    <td align="center" rowspan="1" colspan="1">41.18 (49.96)</td>
+    <td align="center" rowspan="1" colspan="1">50.00 (51.89)</td>
+    <td align="center" rowspan="1" colspan="1">50.00 (51.18)</td>
+    <td align="center" rowspan="1" colspan="1">44.44 (50.64)</td>
+    <td align="center" rowspan="1" colspan="1">.384</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Weight gain</td>
+    <td align="center" rowspan="1" colspan="1">13.95 (35.06)</td>
+    <td align="center" rowspan="1" colspan="1">23.81 (43.64)</td>
+    <td align="center" rowspan="1" colspan="1">42.86 (50.71)</td>
+    <td align="center" rowspan="1" colspan="1">28.57 (46.29)</td>
+    <td align="center" rowspan="1" colspan="1">14.29 (35.50)</td>
+    <td align="center" rowspan="1" colspan="1">21.43 (42.58)</td>
+    <td align="center" rowspan="1" colspan="1">19.05 (40.24)</td>
+    <td align="center" rowspan="1" colspan="1">22.22 (42.37)</td>
+    <td align="center" rowspan="1" colspan="1">.462</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Nutritional supplements</td>
+    <td align="center" rowspan="1" colspan="1">34.88 (48.22)</td>
+    <td align="center" rowspan="1" colspan="1">22.73 (42.89)</td>
+    <td align="center" rowspan="1" colspan="1">47.83 (51.08)</td>
+    <td align="center" rowspan="1" colspan="1">52.38 (51.18)</td>
+    <td align="center" rowspan="1" colspan="1">34.29 (48.16)</td>
+    <td align="center" rowspan="1" colspan="1">35.71 (49.72)</td>
+    <td align="center" rowspan="1" colspan="1">27.27 (45.58)</td>
+    <td align="center" rowspan="1" colspan="1">29.63 (46.53)</td>
+    <td align="center" rowspan="1" colspan="1">.332</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Feeding tube</td>
+    <td align="center" rowspan="1" colspan="1">16.28 (37.35)</td>
+    <td align="center" rowspan="1" colspan="1">9.52 (30.08)</td>
+    <td align="center" rowspan="1" colspan="1">8.70 (28.81)</td>
+    <td align="center" rowspan="1" colspan="1">4.76 (21.82)</td>
+    <td align="center" rowspan="1" colspan="1">17.14 (38.24)</td>
+    <td align="center" rowspan="1" colspan="1">15.38 (37.55)</td>
+    <td align="center" rowspan="1" colspan="1">4.55 (21.32)</td>
+    <td align="center" rowspan="1" colspan="1">14.81 (36.20)</td>
+    <td align="center" rowspan="1" colspan="1">.734</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Pain killers</td>
+    <td align="center" rowspan="1" colspan="1">55.81 (50.25)</td>
+    <td align="center" rowspan="1" colspan="1">54.55 (50.96)</td>
+    <td align="center" rowspan="1" colspan="1">26.09 (44.90)</td>
+    <td align="center" rowspan="1" colspan="1">9.52 (30.08)</td>
+    <td align="center" rowspan="1" colspan="1">60.00 (49.71)</td>
+    <td align="center" rowspan="1" colspan="1">50.00 (51.89)</td>
+    <td align="center" rowspan="1" colspan="1">27.27 (45.58)</td>
+    <td align="center" rowspan="1" colspan="1">44.44 (50.64)</td>
+    <td align="center" rowspan="1" colspan="1">.060</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Felt ill</td>
+    <td align="center" rowspan="1" colspan="1">21.43 (30.19)</td>
+    <td align="center" rowspan="1" colspan="1">33.33 (32.53)</td>
+    <td align="center" rowspan="1" colspan="1">17.39 (22.18)</td>
+    <td align="center" rowspan="1" colspan="1">12.70 (16.59)</td>
+    <td align="center" rowspan="1" colspan="1">16.67 (23.23)</td>
+    <td align="center" rowspan="1" colspan="1">38.46 (35.60)</td>
+    <td align="center" rowspan="1" colspan="1">19.70 (24.47)</td>
+    <td align="center" rowspan="1" colspan="1">25.92 (33.75)</td>
+    <td align="center" rowspan="1" colspan="1">.302</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

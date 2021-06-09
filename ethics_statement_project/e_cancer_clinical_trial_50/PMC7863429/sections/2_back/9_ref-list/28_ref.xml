@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Claxton</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Sculpher</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>McCabe</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Briggs</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Akehurst</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Buxton</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Probabilistic sensitivity analysis for NICE technology assessment: not an optional extra</article-title>
+  <source>Health Econ</source>
+  <year>2005</year>
+  <volume>14</volume>
+  <issue>4</issue>
+  <fpage>339</fpage>
+  <lpage>347</lpage>
+  <pub-id pub-id-type="doi">10.1002/hec.985</pub-id>
+  <pub-id pub-id-type="pmid">15736142</pub-id>
+ </element-citation>
+</ref>

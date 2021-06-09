@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Terzikhan</surname>
+   <given-names>Natalie</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hofman</surname>
+   <given-names>Albert</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Goudsmit</surname>
+   <given-names>Jaap</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Ikram</surname>
+   <given-names>Mohammad Arfan</given-names>
+  </name>
+  <address>
+   <email>m.a.ikram@erasmusmc.nl</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5645.2</institution-id>
+   <institution-id institution-id-type="ISNI">000000040459992X</institution-id>
+   <institution>Department of Epidemiology, </institution>
+   <institution>Erasmus University Medical Center, </institution>
+  </institution-wrap>Wytemaweg 80, 3015 CN Rotterdam, the Netherlands 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.38142.3c</institution-id>
+   <institution-id institution-id-type="ISNI">000000041936754X</institution-id>
+   <institution>Department of Epidemiology, </institution>
+   <institution>Harvard T.H. Chan School of Public Health, </institution>
+  </institution-wrap>Boston, MA USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.38142.3c</institution-id>
+   <institution-id institution-id-type="ISNI">000000041936754X</institution-id>
+   <institution>Human Immunomics Initiative, Department of Epidemiology, </institution>
+   <institution>Harvard T.H. Chan School of Public Health and Human Vaccines Project, </institution>
+  </institution-wrap>Boston, MA USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.38142.3c</institution-id>
+   <institution-id institution-id-type="ISNI">000000041936754X</institution-id>
+   <institution>Department of Immunology and Infectious Diseases, </institution>
+   <institution>Harvard T.H. Chan School of Public Health, </institution>
+  </institution-wrap>Boston, MA USA 
+ </aff>
+</contrib-group>

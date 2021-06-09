@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The data will be statistically analyzed by SPSS 16.0. The counting data will be expressed by rate, 
+ <inline-formula id="FI1">
+  <math id="M1">
+   <mrow>
+    <msup>
+     <mi>χ</mi>
+     <mn>2</mn>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula> test will be used, and the measurement data will be expressed by 
+ <inline-formula id="FI2">
+  <math id="M2">
+   <mrow>
+    <mover accent="true">
+     <mi>x</mi>
+     <mo>¯</mo>
+    </mover>
+    <mo>±</mo>
+    <mi>s</mi>
+   </mrow>
+  </math>
+ </inline-formula>. A 
+ <italic>t</italic> test will be used for comparison between groups. The difference is statistically significant when 
+ <italic>P</italic> &lt; .05.
+</p>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">The enhanced knowledge of cancer biology has led to considerable advancement in systemic therapy for advanced breast cancer. Recently, studies showed that cyclin-dependent kinase (CDK) 4/6 inhibitor, when added to endocrine therapy, had improved the outcomes of patients with advanced ER-positive HER2-negative breast cancer. However, the disease often progresses following a period of treatment response. In a subset of patients, disease progression may occur at limited sites, i.e., oligoprogressive disease (OPD). In the past few years, stereotactic radiotherapy (SRT) has emerged as a safe and effective treatment for advanced cancer when delivered to limited metastatic sites. Hence, it is worth investigating the role of SRT in the setting of oligoprogressive breast cancer.</p>
+ </sec>
+ <sec>
+  <title>Method</title>
+  <p id="Par2">AVATAR is a multicentre phase II registry trial of SRT with endocrine therapy and CDK 4/6 inhibitor for the management of advanced ER-positive HER2-negative breast cancer. The study aims to enrol 32 patients with OPD limited to 5 lesions. The primary endpoint of the study is time to change systemic therapy measured from the commencement of SRT to change in systemic therapy. Secondary objectives include overall survival, progression free survival and treatment related toxicity. The exploratory objective is to describe the time to change in systemic therapy by the site (bone only vs. non-bone lesions) and number (1 vs. &gt; 1) of OPD.</p>
+ </sec>
+ <sec>
+  <title>Discussion</title>
+  <p id="Par3">This study aims to explore the effect of SRT in maximising the benefit of systemic therapy in patients with oligoprogressive ER-positive HER2-negative breast cancer. This approach might help reduce the burden of disease and improve the life quality in these patients.</p>
+ </sec>
+ <sec>
+  <title>Trial registration</title>
+  <p id="Par4">ACTRN, 
+   <ext-link ext-link-type="uri" xlink:href="https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=1262000121294" xmlns:xlink="http://www.w3.org/1999/xlink">ACTRN12620001212943</ext-link>. Date of registration 16 November 2020- Retrospectively registered.
+  </p>
+ </sec>
+</abstract>

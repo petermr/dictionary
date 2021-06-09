@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Walboomers</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Jacobs</surname>
+    <given-names>MV</given-names>
+   </name>
+   <name>
+    <surname>Manos</surname>
+    <given-names>MM</given-names>
+   </name>
+   <name>
+    <surname>Bosch</surname>
+    <given-names>FX</given-names>
+   </name>
+   <name>
+    <surname>Kummer</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Shah</surname>
+    <given-names>KV</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Human papillomavirus is a necessary cause of invasive cervical cancer worldwide</article-title>
+  <source>J Pathol</source>
+  <year>1999</year>
+  <volume>189</volume>
+  <issue>1</issue>
+  <fpage>12</fpage>
+  <lpage>19</lpage>
+  <pub-id pub-id-type="doi">10.1002/(SICI)1096-9896(199909)189:1&lt;12::AID-PATH431&gt;3.0.CO;2-F</pub-id>
+  <pub-id pub-id-type="pmid">10451482</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Popp</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Rau</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Hintz</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Schneider</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Bilger</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Fennell</surname>
+    <given-names>JT</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Hippocampus-avoidance whole-brain radiation therapy with a simultaneous integrated boost for multiple brain metastases</article-title>
+  <source>Cancer</source>
+  <year>2020</year>
+  <volume>126</volume>
+  <fpage>2694</fpage>
+  <lpage>2703</lpage>
+  <pub-id pub-id-type="doi">10.1002/cncr.32787</pub-id>
+  <?supplied-pmid 32142171?>
+  <pub-id pub-id-type="pmid">32142171</pub-id>
+ </element-citation>
+</ref>

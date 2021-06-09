@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R4">
+ <label>4</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Ahmed</surname>
+    <given-names>HU</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>El-Shater Bosaily</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Brown</surname>
+    <given-names>LC</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Diagnostic accuracy of multi-parametric MRI and TRUS biopsy in prostate cancer (PROMIS): a paired validating confirmatory study</article-title>. 
+  <source>Lancet</source>
+  <year>2017</year>;
+  <volume>389</volume>:
+  <elocation-id>815</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(16)32401-1</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/28110982?>
+  <pub-id pub-id-type="pmid">28110982</pub-id>
+ </mixed-citation>
+</ref>

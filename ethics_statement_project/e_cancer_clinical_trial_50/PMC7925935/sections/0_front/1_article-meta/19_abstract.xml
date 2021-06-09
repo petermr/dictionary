@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <sec>
+  <title>Introduction</title>
+  <p>The classical pathway for diagnosing prostate cancer is systematic 12-core biopsy under the guidance of transrectal ultrasound, which tends to underdiagnose the clinically significant tumour and overdiagnose the insignificant disease. Another pathway named targeted biopsy is using multiparametric MRI to localise the tumour precisely and then obtain the samples from the suspicious lesions. Targeted biopsy, which is mainly divided into cognitive fusion method and software-based fusion method, is getting prevalent for its good performance in detecting significant cancer. However, the preferred targeted biopsy technique in detecting clinically significant prostate cancer between cognitive fusion and software-based fusion is still beyond consensus.</p>
+ </sec>
+ <sec>
+  <title>Methods and analysis</title>
+  <p>This trial is a prospective, single-centre, randomised controlled and non-inferiority study in which all men suspicious to have clinically significant prostate cancer are included. This study aims to determine whether a novel three-dimensional matrix positioning cognitive fusion-targeted biopsy is non-inferior to software-based fusion-targeted biopsy in the detection rate of clinically significant cancer in men without a prior biopsy. The main inclusion criteria are men with elevated serum prostate-specific antigen above 4–20 ng/mL or with an abnormal digital rectal examination and have never had a biopsy before. A sample size of 602 participants allowing for a 10% loss will be recruited. All patients will undergo a multiparametric MRI examination, and those who fail to be found with a suspicious lesion, with the anticipation of half of the total number, will be dropped. The remaining participants will be randomly allocated to cognitive fusion-targeted biopsy (n=137) and software-based fusion-targeted biopsy (n=137). The primary outcome is the detection rate of clinically significant prostate cancer for cognitive fusion-targeted biopsy and software-based fusion-targeted biopsy in men without a prior biopsy. The clinically significant prostate cancer will be defined as the International Society of Urological Pathology grade group 2 or higher.</p>
+ </sec>
+ <sec>
+  <title>Ethics and dissemination</title>
+  <p>Ethical approval was obtained from the ethics committee of Shanghai East Hospital, Tongji University School of Medicine, Shanghai, China. The results of the study will be disseminated and published in international peer-reviewed journals.</p>
+ </sec>
+ <sec>
+  <title>Trial registration number</title>
+  <p>ClinicalTrials.gov Registry (
+   <ext-link ext-link-type="uri" xlink:href="NCT04271527" xmlns:xlink="http://www.w3.org/1999/xlink">NCT04271527</ext-link>).
+  </p>
+ </sec>
+</abstract>

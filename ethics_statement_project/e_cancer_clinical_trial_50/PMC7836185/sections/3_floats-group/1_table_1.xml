@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Session plan for FCHV training</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Day</th>
+    <th>Session</th>
+    <th>Main contents</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="3">
+     <bold>Day 1</bold>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td>Introduction to non-communicable diseases (NCD)</td>
+    <td>
+     <p>What is NCD and its situation in Nepal?</p>
+     <p>What are the different types of NCDs?</p>
+     <p>What are the risk factors for NCDs?</p>
+     <p>How can we prevent NCDs?</p>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td>
+     <p>Cervical cancer</p>
+     <p>Causes and symptoms</p>
+    </td>
+    <td>
+     <p>Have you ever heard of cancer?</p>
+     <p>What is cancer?</p>
+     <p>What is cervical cancer?</p>
+     <p>What causes cervical cancer?</p>
+     <p>What are the symptoms of cervical cancer?</p>
+     <p>How does the community perceive cervical cancer?</p>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td>Discussion</td>
+    <td>Questions/answers and doubt clearance</td>
+   </tr>
+   <tr>
+    <td/>
+    <td>Evaluation</td>
+    <td>First day evaluation and FCHV selection</td>
+   </tr>
+   <tr>
+    <td colspan="3">
+     <bold>Day 2</bold>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td>
+     <p>Cervical cancer</p>
+     <p>Causes and symptoms</p>
+    </td>
+    <td>
+     <p>What causes cervical cancer?</p>
+     <p>What are the symptoms of cervical cancer?</p>
+     <p>Human papilloma virus and it’s transmission</p>
+     <p>Who are at risk of having cervical cancer?</p>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td>Cervical cancer screening and prevention</td>
+    <td>
+     <p>What to do to prevent cervical cancer?</p>
+     <p>What are the different types of screening methods?</p>
+     <p>Visual inspection with acetic acid (VIA)</p>
+     <p>What is the recommended age group for VIA screening?</p>
+     <p>Who does the VIA screening?</p>
+     <p>Service delivery points and cost</p>
+     <p>Role of FCHV to prevent cervical cancer</p>
+     <p>Myths about VIA screening.</p>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td>FCHV home visit</td>
+    <td>
+     <p>Planning for home visit</p>
+     <p>Number of visits and timing</p>
+     <p>Rapport building</p>
+     <p>Reason for the visit and the health education session</p>
+     <p>Recording, reporting</p>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td>Interactive learning</td>
+    <td>
+     <p>Flip chart topics</p>
+     <p>FCHV posture, body language, preparedness, proactive towards the situation, voice</p>
+     <p>Detailing the flip chart</p>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="3">
+     <bold>Day 3</bold>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td>Recording register</td>
+    <td>
+     <p>Explain the content of the recording register</p>
+     <p>How to prepare and fill the recording register?</p>
+     <p>Name, age, location of the participants and FCHV</p>
+     <p>Submission of completed register to the research officer</p>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td>Pamphlet</td>
+    <td>
+     <p>Explain the content of the pamphlet</p>
+     <p>How to stress the points in the pamphlet</p>
+     <p>What to suggest to the participants who are not able to read the pamphlet?</p>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td>Referral card</td>
+    <td>
+     <p>Explain the content of the referral card</p>
+     <p>How to fill the referral card?</p>
+     <p>Name, age, location, and health facility address for referral</p>
+     <p>Communication with the health facility</p>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td>Scenario planning</td>
+    <td>Role play</td>
+   </tr>
+   <tr>
+    <td/>
+    <td>Household selection and list preparation</td>
+    <td>Selection of the household for home visit according to FCHVs working area.</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

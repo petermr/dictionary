@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R16">
+ <label>16</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Lilleby</surname>
+    <given-names>W</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Stensvold</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Mills</surname>
+    <given-names>IG</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Disseminated tumor cells and their prognostic significance in nonmetastatic prostate cancer patients</article-title>. 
+  <source>Int J Cancer</source>
+  <year>2013</year>;
+  <volume>133</volume>:
+  <fpage>149</fpage>–
+  <lpage>55</lpage>. 
+  <pub-id pub-id-type="doi">10.1002/ijc.28002</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/23280694?>
+  <pub-id pub-id-type="pmid">23280694</pub-id>
+ </mixed-citation>
+</ref>

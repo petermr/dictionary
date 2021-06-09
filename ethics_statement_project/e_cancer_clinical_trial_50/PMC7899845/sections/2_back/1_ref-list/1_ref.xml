@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>[1]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Qin</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>W</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Efficacy of ginger in ameliorating acute and delayed chemotherapy-induced nausea and vomiting among patients with lung cancer receiving cisplatin-based regimens: a randomized controlled trial</article-title>. 
+  <source>Integr Cancer Ther</source>
+  <year>2018</year>;
+  <volume>17</volume>:
+  <fpage>747</fpage>–
+  <lpage>54</lpage>.
+  <pub-id pub-id-type="pmid">29417850</pub-id>
+ </mixed-citation>
+</ref>

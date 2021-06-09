@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aff id="aff13">
+ <label>13</label>
+ <institution content-type="department">Department of Oncology</institution>, 
+ <institution>London North West University Healthcare NHS Trust</institution>, 
+ <addr-line content-type="city">Harrow</addr-line>, 
+ <addr-line content-type="state">London</addr-line>, 
+ <country>UK</country>
+</aff>

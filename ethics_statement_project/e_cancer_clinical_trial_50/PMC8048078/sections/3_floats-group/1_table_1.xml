@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Target coverage goals for the gross tumour volume (GTV) and planning target volume (PTV) on the ARREST clinical trial</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>
+     <bold>
+      <underline>Goal</underline>
+     </bold>
+    </th>
+    <th>
+     <bold>
+      <underline>Acceptable</underline>
+     </bold>
+    </th>
+    <th>
+     <bold>
+      <underline>Not acceptable</underline>
+     </bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>
+     <underline>PTV</underline>: ≥95% of the PTV to receive ≥95% of the prescription dose for every lesion.
+    </td>
+    <td>
+     <bold>
+      <underline>GTV</underline>
+     </bold>: ≥95% of the GTV to receive ≥95% of the prescription dose for every lesion.
+    </td>
+    <td>
+     <p>1. Failure to meet dose constraints listed in Additional file 
+      <xref rid="MOESM1" ref-type="media">1</xref>
+     </p>
+     <p>2. Not being able to meet minimum “Acceptable” coverage for every lesion i.e.</p>
+     <p>3. &lt; 90% of lesions meet the “Goal” target coverage criteria</p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

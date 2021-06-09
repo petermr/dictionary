@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Overview of the included trials with the selection of exclusion criteria per trial, for which data from the Rotterdam Study was available</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" colspan="3">Trial sponsor (collaborator) Clinical Trials.gov identifier</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">
+     <p>
+      <bold>ModernaTX, Inc</bold>
+     </p>
+     <p>(Biomedical advanced research and development authority and NIAID)</p>
+    </td>
+    <td align="left">
+     <bold>Janssen vaccines and prevention B.V</bold>
+    </td>
+    <td align="left">
+     <p>
+      <bold>Butantan Institute</bold>
+     </p>
+     <p>(Sinovac Life Sciences Co., Ltd.)</p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">NCT04470427</td>
+    <td align="left">NCT04505722</td>
+    <td align="left">NCT04456595</td>
+   </tr>
+   <tr>
+    <td align="left">Immunodeficient state and therapy*</td>
+    <td align="left">Immunodeficient state and therapy*</td>
+    <td align="left">Immunodeficient state and therapy*</td>
+   </tr>
+   <tr>
+    <td align="left">Acute or unstable disease, not further specified</td>
+    <td align="left">Acute or unstable disease, not further specified</td>
+    <td align="left">Current diagnosis/treatment for cancer</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left">Alcohol dependency</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left">Depressive symptoms</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left">Dementia diagnosis</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left">Acute or unstable disease, not further specified</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <bold>AstraZeneca</bold>
+     </p>
+     <p>(Iqvia Pty Ltd)</p>
+    </td>
+    <td align="left">
+     <p>
+      <bold>BioNTech SE</bold>
+     </p>
+     <p>(Pfizer)</p>
+    </td>
+    <td align="left">
+     <bold>Novavax</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">NCT04516746</td>
+    <td align="left">NCT04368728</td>
+    <td align="left">NCT04583995</td>
+   </tr>
+   <tr>
+    <td align="left">Immunodeficient state and therapy*</td>
+    <td align="left">Immunodeficient state and therapy*</td>
+    <td align="left">Immunodeficient state and therapy*</td>
+   </tr>
+   <tr>
+    <td align="left">History of malignancy
+     <sup>b</sup>
+    </td>
+    <td align="left">Age &gt; 85 years</td>
+    <td align="left">Current diagnosis/treatment for cancer</td>
+   </tr>
+   <tr>
+    <td align="left">Acute or unstable disease, not further specified</td>
+    <td align="left">Dementia diagnosis</td>
+    <td align="left">Alcohol dependency</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Depression</td>
+    <td align="left">Continuous use of anticoagulants
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Acute or unstable disease, not further specified</td>
+    <td align="left">History of chronic neurological disorders that have required prior specialist medical review
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left">Age &gt; 84 years</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left">Acute or unstable disease, not further specified</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <bold>Gamaleya Research Institute &amp; Health Ministry of the Russian Federation</bold>
+     </p>
+     <p>(Government of the city of Moscow and CRO)</p>
+    </td>
+    <td align="left">
+     <p>
+      <bold>China National Biotec Group Company Limited</bold>
+     </p>
+     <p>(G42 Healthcare company, Abu Dhabi Health Services Company, Wuhan Institute of Biological Products Co., Ltd and Beijing Institute of Biological Products Co., Ltd)</p>
+    </td>
+    <td align="left">
+     <p>
+      <bold>NPO Petrovax</bold>
+     </p>
+     <p>(CanSino Biologics Inc.)</p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">NCT04530396</td>
+    <td align="left">NCT04510207</td>
+    <td align="left">NCT04540419</td>
+   </tr>
+   <tr>
+    <td align="left">Immunodeficient state and therapy*</td>
+    <td align="left">Immunodeficient state and therapy*</td>
+    <td align="left">Immunodeficient state and therapy*</td>
+   </tr>
+   <tr>
+    <td align="left">History of neoplasms</td>
+    <td align="left">DiaBP &gt; 90 mmHg</td>
+    <td align="left">History of malignancies
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Alcohol dependency</td>
+    <td align="left">SysBP &gt; 150 mmHg</td>
+    <td align="left">Age &gt; 85 years</td>
+   </tr>
+   <tr>
+    <td align="left">Acute stroke the previous year</td>
+    <td align="left">Dementia diagnosis</td>
+    <td align="left">History of diabetes mellitus</td>
+   </tr>
+   <tr>
+    <td align="left">Acute cardiac disease in the previous year</td>
+    <td align="left">Acute or unstable disease, as specified in the footnote
+     <sup>e</sup>
+    </td>
+    <td align="left">18.5 &lt; BMI &gt; 30</td>
+   </tr>
+   <tr>
+    <td align="left">Acute or unstable disease, not further specified</td>
+    <td align="left"/>
+    <td align="left">
+     <p>SysBP &gt; 139 mmHg</p>
+     <p>DiaBP &gt; 90 mmHg</p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left">
+     <p>SysBP &lt; 100 mmHg</p>
+     <p>DiaBP &lt; 60 mmHg</p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left">Acute or unstable disease, as specified in the footnote
+     <sup>e</sup>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>BMI</italic> body mass index, 
+   <italic>DiaBP</italic> diastolic blood pressure, 
+   <italic>SysBP</italic> systolic blood pressure
+  </p>
+  <p>*Immunosuppressive and immunomodulatory medications: Immunosuppressive medications, corticosteroid use and antineoplastic agents; ICD10-codes: L04, L01, H01</p>
+  <p>
+   <sup>a</sup>History of chronic neurological disorders that have required prior specialist medical review: Dementia, Parkinson Disease, Stroke in the previous year
+  </p>
+  <p>
+   <sup>b</sup>Except childhood cancers and prostate cancer and uterine cervical carcinoma
+  </p>
+  <p>
+   <sup>c</sup>Including history of lymphoma and history of haematopoietic cancer
+  </p>
+  <p>
+   <sup>d</sup>ICD10- codes: B01AA and B01AE
+  </p>
+  <p>
+   <sup>e</sup>Acute or unstable disease is defined as: Dementia diagnosis, diagnosis of moderate to severe Chronic obstructive pulmonary disease (COPD), current depressive symptoms, abnormal kidney function (defined as estimated Glomerular Filtration Rate &lt; 60 millilitre/minute), current liver disease (defined as liver steatosis, and liver cirrhosis). Diagnosis of the following within the previous 3 months: stroke, cancer (including antineoplastic agents), diabetes mellitus, COPD, cardiac disease (heart failure, myocardial infarct, atrial fibrillation, and revascularisation)
+  </p>
+ </table-wrap-foot>
+</table-wrap>

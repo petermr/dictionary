@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Detailed information about acupuncture treatment according to STRICTA guideline.</p>
+ </caption>
+ <table frame="hsides" rules="groups" border="0">
+  <thead>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Item</td>
+    <td align="center" rowspan="1" colspan="1">Detail</td>
+    <td align="center" rowspan="1" colspan="1">Detail response</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">1. Acupuncture rationale</td>
+    <td align="left" rowspan="1" colspan="1">(1a) Style of acupuncture (e.g., Traditional Chinese Medicine, Japanese, Korean, Western medical, five element, ear acupuncture, etc)</td>
+    <td align="left" rowspan="1" colspan="1">Group A: Auricular acupuncture, also named as ear acupunctureGroup B: Electroacupuncture</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">(1b) Reasoning for treatment provided, based on historical context, literature sources, and/or consensus methods, with references where appropriate</td>
+    <td align="left" rowspan="1" colspan="1">Selected acupoints based on literature review and clinical experience</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">(1c) Extent to which treatment was varied</td>
+    <td align="left" rowspan="1" colspan="1">No variation</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">2. Details of needling</td>
+    <td align="left" rowspan="1" colspan="1">(2a) Number of needle insertions per subject per session (mean and range where relevant)</td>
+    <td align="left" rowspan="1" colspan="1">4</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">(2b) Names (or location if no standard name) of points used (uni/bilateral)</td>
+    <td align="left" rowspan="1" colspan="1">Neiguan (PC6) and Zusanli (ST36)Bilaterally used</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">(2c) Depth of insertion, based on a specified unit of measurement, or on a particular tissue level</td>
+    <td align="left" rowspan="1" colspan="1">Group A: 1.2 mmGroup B: 1–2 cm</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">(2d) Response sought (e.g., 
+     <italic>de qi</italic> or muscle twitch response)
+    </td>
+    <td align="left" rowspan="1" colspan="1">Group A: PainGroup B: 
+     <italic>de qi</italic>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">(2e) Needle stimulation (e.g., manual, electrical)</td>
+    <td align="left" rowspan="1" colspan="1">Group A: NoneGroup B: Electrical</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">(2f) Needle retention time</td>
+    <td align="left" rowspan="1" colspan="1">Group A: 1 dayGroup B: 30 min</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">(2g) Needle type (diameter, length, and manufacturer or material)</td>
+    <td align="left" rowspan="1" colspan="1">Group A: Sterile intradermal acupuncture needles (PYONEX, 0.21.2 mm, SEIRIN Corporation, Japan)Group B: Sterile single-use needles (Shukang, ϕ0.25 × 40 mm, Changchun Aikang Medical Devices Co., Ltd., China)</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">3. Treatment regimen</td>
+    <td align="left" rowspan="1" colspan="1">(3a) Number of treatment sessions</td>
+    <td align="left" rowspan="1" colspan="1">Three consecutive chemotherapy cycles</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">(3b) Frequency and duration of treatment sessions</td>
+    <td align="left" rowspan="1" colspan="1">Once a day</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">4. Other components of treatment</td>
+    <td align="left" rowspan="1" colspan="1">(4a) Details of other interventions administered to the acupuncture group (e.g., moxibustion, cupping, herbs, exercises, lifestyle advice)</td>
+    <td align="left" rowspan="1" colspan="1">None</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">(4b) Setting and context of treatment, including instructions to practitioners, and information and explanations to patients</td>
+    <td align="left" rowspan="1" colspan="1">The same practitioner will treat every session for 1 participant.</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">5. Practitioner background</td>
+    <td align="left" rowspan="1" colspan="1">(5) Description of participating acupuncturists (qualification or professional affiliation, years in acupuncture practice, other relevant experience)</td>
+    <td align="left" rowspan="1" colspan="1">Licensed Traditional Chinese medicine doctor with &gt;5 years of acupuncture treatment experience</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">6. Control or comparator interventions</td>
+    <td align="left" rowspan="1" colspan="1">(6a) Rationale for the control or comparator in the context of the research question, with sources that justify this choice</td>
+    <td align="left" rowspan="1" colspan="1">No acupuncture will be performed on the control group</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">(6b) Precise description of the control or comparator. If sham acupuncture or any other type of acupuncture-like control is used, provide details as for Items 1 to 3 above.</td>
+    <td align="left" rowspan="1" colspan="1">No sham acupuncture will be performed on the control group</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

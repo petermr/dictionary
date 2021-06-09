@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chan</surname>
+    <given-names>OSH</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>VHF</given-names>
+   </name>
+   <name>
+    <surname>Mok</surname>
+    <given-names>TSK</given-names>
+   </name>
+   <name>
+    <surname>Mo</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Chang</surname>
+    <given-names>ATY</given-names>
+   </name>
+   <name>
+    <surname>Yeung</surname>
+    <given-names>RMW</given-names>
+   </name>
+  </person-group>
+  <article-title>The role of radiotherapy in epidermal growth factor receptor mutation-positive patients with Oligoprogression: a matched-cohort analysis</article-title>
+  <source>Clin Oncol (R Coll Radiol)</source>
+  <year>2017</year>
+  <volume>29</volume>
+  <issue>9</issue>
+  <fpage>568</fpage>
+  <lpage>575</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.clon.2017.04.035</pub-id>
+  <pub-id pub-id-type="pmid">28499791</pub-id>
+ </element-citation>
+</ref>

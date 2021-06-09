@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Haakinson</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Stucky</surname>
+    <given-names>C-CH</given-names>
+   </name>
+   <name>
+    <surname>Dueck</surname>
+    <given-names>AC</given-names>
+   </name>
+   <name>
+    <surname>Gray</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Wasif</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Apsey</surname>
+    <given-names>HA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A significant number of women present with palpable breast cancer even with a normal mammogram within 1 year</article-title>
+  <source>Am J Surg.</source>
+  <year>2010</year>
+  <volume>200</volume>
+  <issue>6</issue>
+  <fpage>712</fpage>
+  <lpage>8</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.amjsurg.2010.08.005</pub-id>
+  <pub-id pub-id-type="pmid">21146009</pub-id>
+ </element-citation>
+</ref>

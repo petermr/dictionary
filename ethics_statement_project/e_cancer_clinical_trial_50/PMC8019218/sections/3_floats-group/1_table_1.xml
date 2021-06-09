@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="cas14841-tbl-0001" xml:lang="en" content-type="TABLE" orientation="portrait" position="float">
+ <label>TABLE 1</label>
+ <caption>
+  <p>Patients characteristics and results of molecular marker of TR cohort</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <thead valign="top">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" rowspan="2" valign="top" colspan="1"/>
+    <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">mFOLFOX6 or CapeOX plus bevacizumab (n = 169)</th>
+    <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">S‐1 and irinotecan plus bevacizumab (n = 166)</th>
+    <th align="left" rowspan="2" valign="top" colspan="1">
+     <italic>P</italic>
+    </th>
+   </tr>
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="top" rowspan="1" colspan="1">n</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">%</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">n</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">%</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Sex</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td>
+    <td align="left" rowspan="1" colspan="1">95</td>
+    <td align="char" char="." rowspan="1" colspan="1">56.2</td>
+    <td align="left" rowspan="1" colspan="1">101</td>
+    <td align="char" char="." rowspan="1" colspan="1">60.8</td>
+    <td align="left" rowspan="1" colspan="1">.39</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td>
+    <td align="left" rowspan="1" colspan="1">74</td>
+    <td align="char" char="." rowspan="1" colspan="1">43.8</td>
+    <td align="left" rowspan="1" colspan="1">65</td>
+    <td align="char" char="." rowspan="1" colspan="1">39.2</td>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">PS (ECOG)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">138</td>
+    <td align="char" char="." rowspan="1" colspan="1">81.7</td>
+    <td align="left" rowspan="1" colspan="1">144</td>
+    <td align="char" char="." rowspan="1" colspan="1">86.8</td>
+    <td align="left" rowspan="1" colspan="1">.20</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">31</td>
+    <td align="char" char="." rowspan="1" colspan="1">18.3</td>
+    <td align="left" rowspan="1" colspan="1">22</td>
+    <td align="char" char="." rowspan="1" colspan="1">13.3</td>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Age</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Median [range]</td>
+    <td align="left" rowspan="1" colspan="1">65 [29‐85]</td>
+    <td align="char" char="." rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">65 [22‐87]</td>
+    <td align="char" char="." rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">.78</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">≥65</td>
+    <td align="left" rowspan="1" colspan="1">94</td>
+    <td align="char" char="." rowspan="1" colspan="1">55.6</td>
+    <td align="left" rowspan="1" colspan="1">81</td>
+    <td align="char" char="." rowspan="1" colspan="1">48.8</td>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Ccr at enrollment</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Median [range]</td>
+    <td align="left" rowspan="1" colspan="1">82.1 [60.0‐153.1]</td>
+    <td align="char" char="." rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">82.6 [60.0‐182.8]</td>
+    <td align="char" char="." rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">.46</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">≥70</td>
+    <td align="left" rowspan="1" colspan="1">125</td>
+    <td align="char" char="." rowspan="1" colspan="1">74.0</td>
+    <td align="left" rowspan="1" colspan="1">127</td>
+    <td align="char" char="." rowspan="1" colspan="1">76.5</td>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Complications</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td>
+    <td align="left" rowspan="1" colspan="1">73</td>
+    <td align="char" char="." rowspan="1" colspan="1">43.2</td>
+    <td align="left" rowspan="1" colspan="1">81</td>
+    <td align="char" char="." rowspan="1" colspan="1">48.8</td>
+    <td align="left" rowspan="2" colspan="1">.30</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td>
+    <td align="left" rowspan="1" colspan="1">96</td>
+    <td align="char" char="." rowspan="1" colspan="1">56.8</td>
+    <td align="left" rowspan="1" colspan="1">85</td>
+    <td align="char" char="." rowspan="1" colspan="1">51.2</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Adjuvant chemotherapy for colorectal cancer</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td>
+    <td align="left" rowspan="1" colspan="1">19</td>
+    <td align="char" char="." rowspan="1" colspan="1">11.2</td>
+    <td align="left" rowspan="1" colspan="1">25</td>
+    <td align="char" char="." rowspan="1" colspan="1">15.1</td>
+    <td align="left" rowspan="2" colspan="1">.30</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td>
+    <td align="left" rowspan="1" colspan="1">150</td>
+    <td align="char" char="." rowspan="1" colspan="1">88.8</td>
+    <td align="left" rowspan="1" colspan="1">141</td>
+    <td align="char" char="." rowspan="1" colspan="1">84.9</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Differentiation assessed by histology</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Well or moderate</td>
+    <td align="left" rowspan="1" colspan="1">144</td>
+    <td align="char" char="." rowspan="1" colspan="1">85.2</td>
+    <td align="left" rowspan="1" colspan="1">146</td>
+    <td align="char" char="." rowspan="1" colspan="1">88.0</td>
+    <td align="left" rowspan="3" colspan="1">.68</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Poorly</td>
+    <td align="left" rowspan="1" colspan="1">13</td>
+    <td align="char" char="." rowspan="1" colspan="1">7.7</td>
+    <td align="left" rowspan="1" colspan="1">9</td>
+    <td align="char" char="." rowspan="1" colspan="1">5.4</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td>
+    <td align="left" rowspan="1" colspan="1">12</td>
+    <td align="char" char="." rowspan="1" colspan="1">7.1</td>
+    <td align="left" rowspan="1" colspan="1">11</td>
+    <td align="char" char="." rowspan="1" colspan="1">6.6</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Primary tumor location</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Right side</td>
+    <td align="left" rowspan="1" colspan="1">45</td>
+    <td align="char" char="." rowspan="1" colspan="1">26.6</td>
+    <td align="left" rowspan="1" colspan="1">54</td>
+    <td align="char" char="." rowspan="1" colspan="1">32.5</td>
+    <td align="left" rowspan="2" colspan="1">.24</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Left side</td>
+    <td align="left" rowspan="1" colspan="1">124</td>
+    <td align="char" char="." rowspan="1" colspan="1">73.4</td>
+    <td align="left" rowspan="1" colspan="1">112</td>
+    <td align="char" char="." rowspan="1" colspan="1">67.5</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Primary tumor resection</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td>
+    <td align="left" rowspan="1" colspan="1">127</td>
+    <td align="char" char="." rowspan="1" colspan="1">75.2</td>
+    <td align="left" rowspan="1" colspan="1">128</td>
+    <td align="char" char="." rowspan="1" colspan="1">77.1</td>
+    <td align="left" rowspan="2" colspan="1">.67</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td>
+    <td align="left" rowspan="1" colspan="1">42</td>
+    <td align="char" char="." rowspan="1" colspan="1">24.9</td>
+    <td align="left" rowspan="1" colspan="1">38</td>
+    <td align="char" char="." rowspan="1" colspan="1">22.9</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Metastatic organs</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">0‐1</td>
+    <td align="left" rowspan="1" colspan="1">88</td>
+    <td align="char" char="." rowspan="1" colspan="1">52.1</td>
+    <td align="left" rowspan="1" colspan="1">91</td>
+    <td align="char" char="." rowspan="1" colspan="1">54.8</td>
+    <td align="left" rowspan="2" colspan="1">.61</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">≥2</td>
+    <td align="left" rowspan="1" colspan="1">81</td>
+    <td align="char" char="." rowspan="1" colspan="1">47.9</td>
+    <td align="left" rowspan="1" colspan="1">75</td>
+    <td align="char" char="." rowspan="1" colspan="1">45.2</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Target lesion</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td>
+    <td align="left" rowspan="1" colspan="1">153</td>
+    <td align="char" char="." rowspan="1" colspan="1">90.5</td>
+    <td align="left" rowspan="1" colspan="1">148</td>
+    <td align="char" char="." rowspan="1" colspan="1">89.2</td>
+    <td align="left" rowspan="2" colspan="1">.68</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td>
+    <td align="left" rowspan="1" colspan="1">16</td>
+    <td align="char" char="." rowspan="1" colspan="1">9.5</td>
+    <td align="left" rowspan="1" colspan="1">18</td>
+    <td align="char" char="." rowspan="1" colspan="1">10.8</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <italic>RAS</italic> mutation
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Wild‐type</td>
+    <td align="left" rowspan="1" colspan="1">99</td>
+    <td align="char" char="." rowspan="1" colspan="1">58.6</td>
+    <td align="left" rowspan="1" colspan="1">105</td>
+    <td align="char" char="." rowspan="1" colspan="1">63.3</td>
+    <td align="left" rowspan="3" colspan="1">.45</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mutant type</td>
+    <td align="left" rowspan="1" colspan="1">65</td>
+    <td align="char" char="." rowspan="1" colspan="1">38.5</td>
+    <td align="left" rowspan="1" colspan="1">58</td>
+    <td align="char" char="." rowspan="1" colspan="1">34.9</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td>
+    <td align="left" rowspan="1" colspan="1">5</td>
+    <td align="char" char="." rowspan="1" colspan="1">3.0</td>
+    <td align="left" rowspan="1" colspan="1">3</td>
+    <td align="char" char="." rowspan="1" colspan="1">1.8</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <italic>BRAF</italic> mutation
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Wild‐type</td>
+    <td align="left" rowspan="1" colspan="1">153</td>
+    <td align="char" char="." rowspan="1" colspan="1">90.5</td>
+    <td align="left" rowspan="1" colspan="1">152</td>
+    <td align="char" char="." rowspan="1" colspan="1">91.6</td>
+    <td align="left" rowspan="3" colspan="1">.81</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mutant type</td>
+    <td align="left" rowspan="1" colspan="1">9</td>
+    <td align="char" char="." rowspan="1" colspan="1">5.3</td>
+    <td align="left" rowspan="1" colspan="1">10</td>
+    <td align="char" char="." rowspan="1" colspan="1">6.0</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td>
+    <td align="left" rowspan="1" colspan="1">7</td>
+    <td align="char" char="." rowspan="1" colspan="1">4.1</td>
+    <td align="left" rowspan="1" colspan="1">4</td>
+    <td align="char" char="." rowspan="1" colspan="1">2.4</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <italic>PIK3CA</italic> mutation
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Wild‐type</td>
+    <td align="left" rowspan="1" colspan="1">148</td>
+    <td align="char" char="." rowspan="1" colspan="1">87.6</td>
+    <td align="left" rowspan="1" colspan="1">148</td>
+    <td align="char" char="." rowspan="1" colspan="1">89.2</td>
+    <td align="left" rowspan="3" colspan="1">1.00</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mutant type</td>
+    <td align="left" rowspan="1" colspan="1">14</td>
+    <td align="char" char="." rowspan="1" colspan="1">8.3</td>
+    <td align="left" rowspan="1" colspan="1">14</td>
+    <td align="char" char="." rowspan="1" colspan="1">8.4</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td>
+    <td align="left" rowspan="1" colspan="1">7</td>
+    <td align="char" char="." rowspan="1" colspan="1">4.1</td>
+    <td align="left" rowspan="1" colspan="1">4</td>
+    <td align="char" char="." rowspan="1" colspan="1">2.4</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <italic>AKT</italic> mutation
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Wild‐type</td>
+    <td align="left" rowspan="1" colspan="1">159</td>
+    <td align="char" char="." rowspan="1" colspan="1">94.1</td>
+    <td align="left" rowspan="1" colspan="1">161</td>
+    <td align="char" char="." rowspan="1" colspan="1">97.0</td>
+    <td align="left" rowspan="3" colspan="1">.57</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mutant type</td>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.6</td>
+    <td align="left" rowspan="1" colspan="1">2</td>
+    <td align="char" char="." rowspan="1" colspan="1">1.2</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td>
+    <td align="left" rowspan="1" colspan="1">9</td>
+    <td align="char" char="." rowspan="1" colspan="1">5.3</td>
+    <td align="left" rowspan="1" colspan="1">3</td>
+    <td align="char" char="." rowspan="1" colspan="1">1.8</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">CIMP</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Negative</td>
+    <td align="left" rowspan="1" colspan="1">94</td>
+    <td align="char" char="." rowspan="1" colspan="1">55.6</td>
+    <td align="left" rowspan="1" colspan="1">99</td>
+    <td align="char" char="." rowspan="1" colspan="1">59.6</td>
+    <td align="left" rowspan="3" colspan="1">.28</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Positive</td>
+    <td align="left" rowspan="1" colspan="1">20</td>
+    <td align="char" char="." rowspan="1" colspan="1">11.8</td>
+    <td align="left" rowspan="1" colspan="1">14</td>
+    <td align="char" char="." rowspan="1" colspan="1">8.4</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td>
+    <td align="left" rowspan="1" colspan="1">55</td>
+    <td align="char" char="." rowspan="1" colspan="1">32.5</td>
+    <td align="left" rowspan="1" colspan="1">53</td>
+    <td align="char" char="." rowspan="1" colspan="1">32.0</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Genome‐wide methylation status</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">LMCC</td>
+    <td align="left" rowspan="1" colspan="1">82</td>
+    <td align="char" char="." rowspan="1" colspan="1">48.5</td>
+    <td align="left" rowspan="1" colspan="1">79</td>
+    <td align="char" char="." rowspan="1" colspan="1">47.6</td>
+    <td align="left" rowspan="3" colspan="1">.74</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">HMCC</td>
+    <td align="left" rowspan="1" colspan="1">32</td>
+    <td align="char" char="." rowspan="1" colspan="1">18.9</td>
+    <td align="left" rowspan="1" colspan="1">34</td>
+    <td align="char" char="." rowspan="1" colspan="1">20.5</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td>
+    <td align="left" rowspan="1" colspan="1">55</td>
+    <td align="char" char="." rowspan="1" colspan="1">32.5</td>
+    <td align="left" rowspan="1" colspan="1">53</td>
+    <td align="char" char="." rowspan="1" colspan="1">31.9</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">MMR</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Proficient</td>
+    <td align="left" rowspan="1" colspan="1">158</td>
+    <td align="char" char="." rowspan="1" colspan="1">93.5</td>
+    <td align="left" rowspan="1" colspan="1">158</td>
+    <td align="char" char="." rowspan="1" colspan="1">95.2</td>
+    <td align="left" rowspan="3" colspan="1">.26</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Deficient</td>
+    <td align="left" rowspan="1" colspan="1">5</td>
+    <td align="char" char="." rowspan="1" colspan="1">3.0</td>
+    <td align="left" rowspan="1" colspan="1">2</td>
+    <td align="char" char="." rowspan="1" colspan="1">1.2</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td>
+    <td align="left" rowspan="1" colspan="1">6</td>
+    <td align="char" char="." rowspan="1" colspan="1">3.5</td>
+    <td align="left" rowspan="1" colspan="1">6</td>
+    <td align="char" char="." rowspan="1" colspan="1">3.6</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">PETN</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Positive</td>
+    <td align="left" rowspan="1" colspan="1">138</td>
+    <td align="char" char="." rowspan="1" colspan="1">81.7</td>
+    <td align="left" rowspan="1" colspan="1">131</td>
+    <td align="char" char="." rowspan="1" colspan="1">78.9</td>
+    <td align="left" rowspan="3" colspan="1">.42</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Negative</td>
+    <td align="left" rowspan="1" colspan="1">23</td>
+    <td align="char" char="." rowspan="1" colspan="1">13.6</td>
+    <td align="left" rowspan="1" colspan="1">28</td>
+    <td align="char" char="." rowspan="1" colspan="1">16.9</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td>
+    <td align="left" rowspan="1" colspan="1">8</td>
+    <td align="char" char="." rowspan="1" colspan="1">4.7</td>
+    <td align="left" rowspan="1" colspan="1">7</td>
+    <td align="char" char="." rowspan="1" colspan="1">4.2</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">CMS</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">CMS1</td>
+    <td align="left" rowspan="1" colspan="1">25</td>
+    <td align="char" char="." rowspan="1" colspan="1">14.8</td>
+    <td align="left" rowspan="1" colspan="1">22</td>
+    <td align="char" char="." rowspan="1" colspan="1">13.3</td>
+    <td align="left" rowspan="5" colspan="1">.14</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">CMS2</td>
+    <td align="left" rowspan="1" colspan="1">28</td>
+    <td align="char" char="." rowspan="1" colspan="1">16.6</td>
+    <td align="left" rowspan="1" colspan="1">44</td>
+    <td align="char" char="." rowspan="1" colspan="1">26.5</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">CMS3</td>
+    <td align="left" rowspan="1" colspan="1">52</td>
+    <td align="char" char="." rowspan="1" colspan="1">30.8</td>
+    <td align="left" rowspan="1" colspan="1">47</td>
+    <td align="char" char="." rowspan="1" colspan="1">28.3</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">CMS4</td>
+    <td align="left" rowspan="1" colspan="1">51</td>
+    <td align="char" char="." rowspan="1" colspan="1">30.2</td>
+    <td align="left" rowspan="1" colspan="1">39</td>
+    <td align="char" char="." rowspan="1" colspan="1">23.5</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td>
+    <td align="left" rowspan="1" colspan="1">13</td>
+    <td align="char" char="." rowspan="1" colspan="1">7.7</td>
+    <td align="left" rowspan="1" colspan="1">14</td>
+    <td align="char" char="." rowspan="1" colspan="1">8.4</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">aCRCS</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Subtype A1</td>
+    <td align="left" rowspan="1" colspan="1">28</td>
+    <td align="char" char="." rowspan="1" colspan="1">16.6</td>
+    <td align="left" rowspan="1" colspan="1">11</td>
+    <td align="char" char="." rowspan="1" colspan="1">6.6</td>
+    <td align="left" rowspan="5" colspan="1">.03</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Subtype A2</td>
+    <td align="left" rowspan="1" colspan="1">48</td>
+    <td align="char" char="." rowspan="1" colspan="1">28.4</td>
+    <td align="left" rowspan="1" colspan="1">59</td>
+    <td align="char" char="." rowspan="1" colspan="1">35.5</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Subtype B1</td>
+    <td align="left" rowspan="1" colspan="1">54</td>
+    <td align="char" char="." rowspan="1" colspan="1">32.0</td>
+    <td align="left" rowspan="1" colspan="1">51</td>
+    <td align="char" char="." rowspan="1" colspan="1">30.7</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Subtype B2</td>
+    <td align="left" rowspan="1" colspan="1">26</td>
+    <td align="char" char="." rowspan="1" colspan="1">15.4</td>
+    <td align="left" rowspan="1" colspan="1">31</td>
+    <td align="char" char="." rowspan="1" colspan="1">18.7</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td>
+    <td align="left" rowspan="1" colspan="1">13</td>
+    <td align="char" char="." rowspan="1" colspan="1">7.7</td>
+    <td align="left" rowspan="1" colspan="1">14</td>
+    <td align="char" char="." rowspan="1" colspan="1">8.4</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot id="cas14841-ntgp-0001">
+  <fn id="cas14841-note-0001">
+   <p>Abbreviations: aCRCS, advanced colorectal cancer subtype; CIMP, CpG island methylator phenotype; CMS, consensus molecular subtype; HMCC, highly methylated colorectal cancer; LMCC, low methylated colorectal cancer; MMR, mismatch repair; TR, translational research.</p>
+  </fn>
+ </table-wrap-foot>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+ </permissions>
+</table-wrap>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R3">
+ <label>[3]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Von Hoff</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Rozencweig</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Layard</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Daunomycin-induced cardiotoxicity in children and adults. A review of 110 cases</article-title>. 
+  <source>Am J Med</source>
+  <year>1977</year>;
+  <volume>62</volume>:
+  <fpage>200</fpage>–
+  <lpage>8</lpage>.
+  <pub-id pub-id-type="pmid">835599</pub-id>
+ </mixed-citation>
+</ref>

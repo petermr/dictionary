@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2322-8115</contrib-id>
+  <name>
+   <surname>Fristedt</surname>
+   <given-names>Sofi</given-names>
+  </name>
+  <address>
+   <email>sofi.fristedt@ju.se</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Smith</surname>
+   <given-names>Frida</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Grynne</surname>
+   <given-names>Annika</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Browall</surname>
+   <given-names>Maria</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.118888.0</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0414 7587</institution-id>
+   <institution>Jönköping Academy For Improvement of Health and Welfare and IMPROVE, School of Health and Welfare, </institution>
+   <institution>Jönköping University, </institution>
+  </institution-wrap>Jönköping, Sweden 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.4514.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0930 2361</institution-id>
+   <institution>Department of Health Sciences, Faculty of Medicine, </institution>
+   <institution>Lund University, </institution>
+  </institution-wrap>Lund, Sweden 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>Regional Cancer Centre West, Gothenburg, Sweden 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5371.0</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0775 6028</institution-id>
+   <institution>Department of Technology Management and Economics, </institution>
+   <institution>Chalmers University of Technology, </institution>
+  </institution-wrap>Gothenburg, Sweden 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.118888.0</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0414 7587</institution-id>
+   <institution>Department of Nursing and IMPROVE, School of Health and Welfare, </institution>
+   <institution>Jönköping University, </institution>
+  </institution-wrap>Jönköping, Sweden 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.8761.8</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 9919 9582</institution-id>
+   <institution>Affiliated with the Department of Oncology, Institute of Clinical Sciences, Sahlgrenska Academy, </institution>
+   <institution>University of Gothenburg, </institution>
+  </institution-wrap>Gothenburg, Sweden 
+ </aff>
+</contrib-group>

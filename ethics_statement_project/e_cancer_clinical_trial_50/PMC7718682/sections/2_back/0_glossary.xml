@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>AITCS</term>
+   <def>
+    <p id="Par9">Assessment of Interprofessional Team Collaboration Scale</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CBL</term>
+   <def>
+    <p id="Par10">Case-based learning</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ICC</term>
+   <def>
+    <p id="Par11">Intraclass correlation coefficient</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ICBL</term>
+   <def>
+    <p id="Par12">Interprofessional case-based learning</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MCQ</term>
+   <def>
+    <p id="Par13">Multiple-choice quiz</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RIPLS</term>
+   <def>
+    <p id="Par14">Readiness for Interprofessional Learning Survey</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SAQ</term>
+   <def>
+    <p id="Par15">Safety Attitude Questionnaire</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

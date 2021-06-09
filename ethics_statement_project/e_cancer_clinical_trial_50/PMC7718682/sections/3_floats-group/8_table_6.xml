@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab6">
+ <label>Table 6</label>
+ <caption>
+  <p>Collection of outcomes</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <tbody>
+   <tr>
+    <td>Schedule</td>
+    <td>2–4 months before intervention</td>
+    <td>2 months before intervention</td>
+    <td>1–2 months before intervention</td>
+    <td>Intervention: Case-based learning</td>
+    <td>1–3 months after intervention</td>
+   </tr>
+   <tr>
+    <td>Information for all staff</td>
+    <td>Oral information at meetings and conferences about case-based learning</td>
+    <td>Written and oral information by individual email to all staff</td>
+    <td>Oral information for participants interested in randomisation</td>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>Trial participants</td>
+    <td/>
+    <td/>
+    <td>Participants will be included consecutively.</td>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>Trial participants</td>
+    <td/>
+    <td/>
+    <td>
+     <p>Pre AITCS</p>
+     <p>Pre RIPLS</p>
+     <p>Pre SAQ</p>
+    </td>
+    <td>
+     <p>MCQ on gastrointestinal side effects</p>
+     <p>Course evaluation</p>
+    </td>
+    <td>
+     <p>Post AITCS</p>
+     <p>Post RIPLS</p>
+     <p>Post SAQ</p>
+    </td>
+   </tr>
+   <tr>
+    <td>Data collection on participants</td>
+    <td/>
+    <td/>
+    <td>Demographic data: sex, age, profession and years of work</td>
+    <td>Observations of interaction: who speaks, when and about what</td>
+    <td/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>AITCS</italic> Assessment of Interprofessional Team Collaboration Scale, 
+   <italic>MCQ</italic> multiple-choice quiz, 
+   <italic>RIPLS</italic> Readiness for Interprofessional Learning Survey, 
+   <italic>SAQ</italic> Safety Attitude Questionnaire
+  </p>
+ </table-wrap-foot>
+</table-wrap>

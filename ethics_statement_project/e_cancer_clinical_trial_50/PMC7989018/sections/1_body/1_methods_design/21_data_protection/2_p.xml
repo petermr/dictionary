@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par135">The following information must be documented in the participant’s medical record: 
+ <list list-type="alpha-lower">
+  <list-item>
+   <p id="Par136">The participant’s protocol identification</p>
+  </list-item>
+  <list-item>
+   <p id="Par137">The participant number and the date of participation in study</p>
+  </list-item>
+  <list-item>
+   <p id="Par138">A notation that informed consent was obtained and the date of the consent</p>
+  </list-item>
+  <list-item>
+   <p id="Par139">Medical history</p>
+  </list-item>
+  <list-item>
+   <p id="Par140">Dates of all participant visits and results of essential trial parameters</p>
+  </list-item>
+  <list-item>
+   <p id="Par141">Occurrence and status of any AEs</p>
+  </list-item>
+  <list-item>
+   <p id="Par142">The date the participant exited the study. In addition, a note indicating if the participant completed the study or discontinued it and the cause of discontinuation</p>
+  </list-item>
+ </list>
+</p>

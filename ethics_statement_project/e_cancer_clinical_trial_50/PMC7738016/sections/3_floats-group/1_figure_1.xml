@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" orientation="portrait" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>Establishing the maximum tolerated dose (MTD) of tranilast. Initially, 200 mg/day tranilast will be administered to the first 3 patients. If 2 cycles of combination therapy are successfully completed without dose-limiting toxicity (DLT), 300 mg/day tranilast will be administered to the next 3 patients. The dose of tranilast will gradually be increased up to 600 mg/day, and the appropriate MTD will be established. This study will be stopped when DLT occurs at 200 mg/day tranilast. Dose modifications are allowed when DLT occurs at 300 or 600 mg/day tranilast. DLT: grade 4 toxicity according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.</p>
+ </caption>
+ <graphic xlink:href="medi-99-e23633-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

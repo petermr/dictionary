@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Pathological characteristics and long-term outcomes</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Variables</th>
+    <th align="left">LAR</th>
+    <th align="left">APER</th>
+    <th align="left">p value</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Median tumour size, mm (interquartile range)</td>
+    <td align="left">36 (25–50)</td>
+    <td align="left">35 (27–40)</td>
+    <td char="." align="char">0.253</td>
+   </tr>
+   <tr>
+    <td align="left">Number of Lymph nodes, median (interquartile range)</td>
+    <td align="left">17 (12–22)</td>
+    <td align="left">12 (8–18)</td>
+    <td char="." align="char">
+     <italic>&lt; 0.001</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">Pathological lymph nodes stage</td>
+   </tr>
+   <tr>
+    <td align="left"> N0</td>
+    <td align="left">118 (69.8)</td>
+    <td align="left">60 (66.7)</td>
+    <td char="." align="char">0.492</td>
+   </tr>
+   <tr>
+    <td align="left"> N1</td>
+    <td align="left">33 (19.5)</td>
+    <td align="left">18 (20.0)</td>
+    <td char="." align="char">1.000</td>
+   </tr>
+   <tr>
+    <td align="left"> N2</td>
+    <td align="left">18 (10.7)</td>
+    <td align="left">12 (13.3)</td>
+    <td char="." align="char">0.549</td>
+   </tr>
+   <tr>
+    <td align="left">Microscopic tumour infiltration of the margin (R1)</td>
+    <td align="left">9 (5.3)</td>
+    <td align="left">11 (12.0)</td>
+    <td char="." align="char">0.085</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">Pathological stage</td>
+   </tr>
+   <tr>
+    <td align="left"> I</td>
+    <td align="left">20 (11.8)</td>
+    <td align="left">5 (5.4)</td>
+    <td char="." align="char">0.123</td>
+   </tr>
+   <tr>
+    <td align="left"> II</td>
+    <td align="left">65 (38.5)</td>
+    <td align="left">37 (40.2)</td>
+    <td char="." align="char">0.791</td>
+   </tr>
+   <tr>
+    <td align="left"> III</td>
+    <td align="left">77 (45.6)</td>
+    <td align="left">43 (46.7)</td>
+    <td char="." align="char">0.897</td>
+   </tr>
+   <tr>
+    <td align="left"> IV</td>
+    <td align="left">2 (1.2)</td>
+    <td align="left">5 (5.4)</td>
+    <td char="." align="char">0.053</td>
+   </tr>
+   <tr>
+    <td align="left">Post-operative chemotherapy</td>
+    <td align="left">46 (27.1)</td>
+    <td align="left">20 (21.7)</td>
+    <td char="." align="char">0.374</td>
+   </tr>
+   <tr>
+    <td align="left">Post-operative radiation</td>
+    <td align="left">2 (1.2)</td>
+    <td align="left">2 (2.2)</td>
+    <td char="." align="char">0.614</td>
+   </tr>
+   <tr>
+    <td align="left">Local recurrence</td>
+    <td align="left">7 (4.1)</td>
+    <td align="left">4 (4.3)</td>
+    <td char="." align="char">1.000</td>
+   </tr>
+   <tr>
+    <td align="left">Distance recurrence</td>
+    <td align="left">23 (13.5)</td>
+    <td align="left">18 (19.6)</td>
+    <td char="." align="char">0.215</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Value in italic is statistically significant</p>
+ </table-wrap-foot>
+</table-wrap>

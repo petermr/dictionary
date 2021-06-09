@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R12">
+ <label>12</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Sita-Lumsden</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Dart</surname>
+    <given-names>DA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Waxman</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Circulating microRNAs as potential new biomarkers for prostate cancer</article-title>. 
+  <source>Br J Cancer</source>
+  <year>2013</year>;
+  <volume>108</volume>:
+  <elocation-id>bjc.2013.192</elocation-id>
+  <pub-id pub-id-type="doi">10.1038/bjc.2013.192</pub-id>
+  <?supplied-pmid 23632485?>
+  <pub-id pub-id-type="pmid">23632485</pub-id>
+ </mixed-citation>
+</ref>

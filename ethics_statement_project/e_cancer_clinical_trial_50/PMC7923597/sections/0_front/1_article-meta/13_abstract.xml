@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">HIPEC is an emerging procedure to treat peritoneal metastasis of gastric cancer. Data about HIPEC in locally advanced gastric cancer is scarce. The purpose of this trial is to evaluate the safety and toxicity of prophylactic HIPEC with cisplatin for patients with locally advanced gastric cancer.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par2">From March 2015 to November 2016, a prospective, randomized phase II trial was conducted. After radical gastrectomy, patients in the experimental group underwent HIPEC with cisplatin followed by adjuvant chemotherapy with SOX regime. Patients in the other group were treated with SOX regime alone. Postoperative complications and patient survival were compared.</p>
+ </sec>
+ <sec>
+  <title>Results</title>
+  <p id="Par3">In total, 50 patients were eligible for analyses. No significant difference was found in the incidence of postoperative complications including anastomotic/intestinal leakage, liver dysfunction, bone marrow suppression, wound infection and ileus (
+   <italic>P</italic> &gt; 0.05). Mean duration of hospitalization after radical gastrectomy was 11.7 days. 12.2 days in experimental group and 10.8 days in control group respectively (
+   <italic>P</italic> = 0.255). The percentage of patients with elevated tumor markers was 12.1% in experimental group, which was significantly lower than 41.2% in control group (
+   <italic>P</italic> = 0.02). 3-year RFS of patients who treated with or without prophylactic HIPEC were 84.8 and 88.2% respectively (
+   <italic>P</italic> = 0.986). In the multivariate analysis, pathological T stage was the only independent risk factor for the RFS of patients (
+   <italic>P</italic> = 0.012, HR =15.071).
+  </p>
+ </sec>
+ <sec>
+  <title>Conclusion</title>
+  <p id="Par4">Additional intraoperative HIPEC with cisplatin did not increase postoperative complications for locally advanced gastric cancer after curative surgery. Prophylactic HIPEC with cisplatin was safe and tolerable, while it did not reduce the risk of peritoneal recurrence in this trial, supporting further studies to validate the efficacy of it.</p>
+ </sec>
+ <sec>
+  <title>Trial registration</title>
+  <p id="Par616">Chinese Clinical Trial Registry, ChiCTR2000038331. Registered 18 September 2020 - Retrospectively registered, 
+   <ext-link ext-link-type="uri" xlink:href="http://www.chictr.org.cn/showproj.aspx?proj=59692" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.chictr.org.cn/showproj.aspx?proj=59692</ext-link>.
+  </p>
+ </sec>
+</abstract>

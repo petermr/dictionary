@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="B1" position="float" orientation="portrait">
+ <label>Box 1</label>
+ <caption>
+  <title>Patients’ inclusion and exclusion criteria</title>
+ </caption>
+ <sec>
+  <title>Inclusion criteria</title>
+  <list list-type="bullet">
+   <list-item>
+    <p>Age over 18 years old.</p>
+   </list-item>
+   <list-item>
+    <p>Prostate-specific antigen increase to 4–20 ng/mL and/or abnormal digital rectal examination.</p>
+   </list-item>
+   <list-item>
+    <p>Without previous prostate biopsy.</p>
+   </list-item>
+   <list-item>
+    <p>Fully understand the clinical trial protocol and sign the informed consent.</p>
+   </list-item>
+  </list>
+ </sec>
+ <sec>
+  <title>Exclusion criteria</title>
+  <list list-type="bullet">
+   <list-item>
+    <p>Previous history of prostate biopsy.</p>
+   </list-item>
+   <list-item>
+    <p>Evidence of acute or chronic prostatitis.</p>
+   </list-item>
+   <list-item>
+    <p>Contraindications to prostate biopsy (eg, fever, evidence of urinary tract infection).</p>
+   </list-item>
+   <list-item>
+    <p>Contraindications to MRI (eg, metal implant, contrast agent allergy).</p>
+   </list-item>
+   <list-item>
+    <p>The investigator judges that patients are not suitable for this clinical trial.</p>
+   </list-item>
+   <list-item>
+    <p>Any other conditions that make the investigator judge that participants are not suitable for this trial.</p>
+   </list-item>
+  </list>
+ </sec>
+</boxed-text>

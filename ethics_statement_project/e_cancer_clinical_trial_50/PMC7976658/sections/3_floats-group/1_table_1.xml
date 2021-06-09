@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Patient demographics</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Variables</th>
+    <th align="left">LAR</th>
+    <th align="left">APER</th>
+    <th align="left">p value</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Number (%)</td>
+    <td align="left">170 (64.9)</td>
+    <td align="left">92 (35.1)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">Age, years median (interquartile range)</td>
+    <td align="left">66 (59–75)</td>
+    <td align="left">69 (62–77)</td>
+    <td char="." align="char">
+     <italic>0.040</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Gender M/F</td>
+    <td align="left">110/60</td>
+    <td align="left">53/39</td>
+    <td char="." align="char">0.287</td>
+   </tr>
+   <tr>
+    <td align="left">BMI, median (interquartile range)</td>
+    <td align="left">26 (23–29)</td>
+    <td align="left">27 (25–31)</td>
+    <td char="." align="char">0.146</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">ASA score</td>
+   </tr>
+   <tr>
+    <td align="left"> ASA 1</td>
+    <td align="left">19 (11.2)</td>
+    <td align="left">4 (4.5)</td>
+    <td char="." align="char">0.089</td>
+   </tr>
+   <tr>
+    <td align="left"> ASA 2</td>
+    <td align="left">124 (72.9)</td>
+    <td align="left">62 (69.7)</td>
+    <td char="." align="char">0.392</td>
+   </tr>
+   <tr>
+    <td align="left"> ASA 3</td>
+    <td align="left">27 (15.9)</td>
+    <td align="left">23 (25.8)</td>
+    <td char="." align="char">0.101</td>
+   </tr>
+   <tr>
+    <td align="left">DAV, median (interquartile range)</td>
+    <td align="left">5 (4–6)</td>
+    <td align="left">3 (2–4)</td>
+    <td char="." align="char">
+     <italic>&lt; 0.001</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">Clinical stage</td>
+   </tr>
+   <tr>
+    <td align="left"> I</td>
+    <td align="left">9 (5.3)</td>
+    <td align="left">1 (1.1)</td>
+    <td char="." align="char">0.173</td>
+   </tr>
+   <tr>
+    <td align="left"> II</td>
+    <td align="left">79 (46.5)</td>
+    <td align="left">36 (39.1)</td>
+    <td char="." align="char">0.297</td>
+   </tr>
+   <tr>
+    <td align="left"> III</td>
+    <td align="left">62 (36.5)</td>
+    <td align="left">38 (41.3)</td>
+    <td char="." align="char">0.506</td>
+   </tr>
+   <tr>
+    <td align="left"> IV</td>
+    <td align="left">7 (4.1)</td>
+    <td align="left">7 (7.6)</td>
+    <td char="." align="char">0.257</td>
+   </tr>
+   <tr>
+    <td align="left">Pre-operative radiation</td>
+    <td align="left">41 (24.1)</td>
+    <td align="left">47 (51.0)</td>
+    <td char="." align="char">
+     <italic>0.001</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Neoadjuvant chemotherapy</td>
+    <td align="left">30 (17.6)</td>
+    <td align="left">28 (30.4)</td>
+    <td char="." align="char">
+     <italic>0.020</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Laparoscopic approach</td>
+    <td align="left">140 (82.4)</td>
+    <td align="left">63 (68.5)</td>
+    <td char="." align="char">
+     <italic>0.013</italic>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Values in italics are statistically significant</p>
+  <p>Continuous variables expressed as medians and interquartile ranges. Nominal variables expressed as absolute numbers with percentages in parenthesis</p>
+  <p>
+   <italic>APR</italic> abdominoperienal resection, 
+   <italic>LAR</italic> low anterior resection, 
+   <italic>BMI</italic> body mass index, 
+   <italic>ASA</italic> American Society of Anesthesiologists classification, 
+   <italic>DAV</italic> distance from anal verge
+  </p>
+ </table-wrap-foot>
+</table-wrap>

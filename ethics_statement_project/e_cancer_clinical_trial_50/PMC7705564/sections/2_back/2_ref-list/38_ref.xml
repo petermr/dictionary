@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R38">
+ <label>38</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Retsky</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Demicheli</surname>
+    <given-names>R</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Hrushesky</surname>
+    <given-names>WJM</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Reduction of breast cancer relapses with perioperative non-steroidal anti-inflammatory drugs: new findings and a review</article-title>. 
+  <source>Curr Med Chem</source>
+  <year>2013</year>;
+  <volume>20</volume>:
+  <fpage>4163</fpage>–
+  <lpage>76</lpage>. 
+  <pub-id pub-id-type="doi">10.2174/09298673113209990250</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/23992307?>
+  <pub-id pub-id-type="pmid">23992307</pub-id>
+ </mixed-citation>
+</ref>

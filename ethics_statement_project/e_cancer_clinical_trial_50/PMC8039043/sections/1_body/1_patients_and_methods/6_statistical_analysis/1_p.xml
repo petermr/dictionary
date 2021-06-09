@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>SPSS statistical software (version 25.0; SPSS Inc., IBM, Chicago, IL, USA) was used for statistical data analysis; The measurement data used the Shapiro–Wilk test to determine the normality of the data distribution, and the Levene method was used to test the homogeneity of variance. The measurement data that meet the normal distribution were expressed as the mean± standard deviation (
+ <inline-formula id="ilm0001">
+  <alternatives>
+   <inline-graphic xlink:href="DDDT-15-1485-e0001.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{wasysym} \usepackage[substack]{amsmath} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage[mathscr]{eucal} \usepackage{mathrsfs} \DeclareFontFamily{T1}{linotext}{} \DeclareFontShape{T1}{linotext}{m}{n} {linotext }{} \DeclareSymbolFont{linotext}{T1}{linotext}{m}{n} \DeclareSymbolFontAlphabet{\mathLINOTEXT}{linotext} \begin{document} $$\overline x$$ \end{document}</tex-math>
+  </alternatives>
+ </inline-formula>
+ <italic>± s</italic>) or represented by the median (M) and the interquartile range (IQR) which meets the non-normal distribution; When the data were normally distributed and homogeneity of variance, two independent sample 
+ <italic>t-</italic>tests were used for comparison between groups, and repeated measures analysis of variance was used for different time points within the group. Mann–Whitney 
+ <italic>U</italic>-test was used for non-normally distributed data; Using chi-square test or Fisher exact probability method for counting data; 
+ <italic>P</italic> &lt; 0.05 considered the difference to be statistically significant.
+</p>

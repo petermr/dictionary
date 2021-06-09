@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Pinato</surname>
+   <given-names>David J.</given-names>
+  </name>
+  <address>
+   <email>david.pinato@imperial.ac.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cortellini</surname>
+   <given-names>Alessio</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sukumaran</surname>
+   <given-names>Ajithkumar</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cole</surname>
+   <given-names>Tom</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pai</surname>
+   <given-names>Madhava</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Habib</surname>
+   <given-names>Nagy</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Spalding</surname>
+   <given-names>Duncan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sodergren</surname>
+   <given-names>Mikael H.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Martinez</surname>
+   <given-names>Maria</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dhillon</surname>
+   <given-names>Tony</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tait</surname>
+   <given-names>Paul</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Thomas</surname>
+   <given-names>Robert</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ward</surname>
+   <given-names>Caroline</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kocher</surname>
+   <given-names>Hemant</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yip</surname>
+   <given-names>Vincent</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Slater</surname>
+   <given-names>Sarah</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff10">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sharma</surname>
+   <given-names>Rohini</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.7445.2</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2113 8111</institution-id>
+   <institution>Division of Cancer, Department of Surgery &amp; Cancer, </institution>
+   <institution>Imperial College London, Hammersmith Campus, </institution>
+  </institution-wrap>Du Cane Road, W120HS, London, UK 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.16563.37</institution-id>
+   <institution-id institution-id-type="ISNI">0000000121663741</institution-id>
+   <institution>Department of Translational Medicine, </institution>
+   <institution>Università del Piemonte Orientale “A. Avogadro”, </institution>
+  </institution-wrap>Via Paolo Solaroli, 17, 28100 Novara, NO Italy 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.158820.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1757 2611</institution-id>
+   <institution>Department of Biotechnology and Applied Clinical Sciences, </institution>
+   <institution>University of L’Aquila, </institution>
+  </institution-wrap>Via Vetoio, 67100 L’Aquila, Italy 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.413629.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0705 4923</institution-id>
+   <institution>NIHR Imperial CRF, Imperial College London, </institution>
+   <institution>Hammersmith Hospital, </institution>
+  </institution-wrap>Du Cane Road, W120HS, London, UK 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.413629.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0705 4923</institution-id>
+   <institution>Division of Surgery, Department of Surgery &amp; Cancer, Imperial College London, </institution>
+   <institution>Hammersmith Hospital, </institution>
+  </institution-wrap>Du Cane Road, W120HS, London, UK 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5475.3</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0407 4824</institution-id>
+   <institution>Faculty of Health and Medical Sciences, </institution>
+   <institution>University of Surrey and Department of Oncology, The Royal Surrey Hospital, </institution>
+  </institution-wrap>Egerton Rd, Guildford, GU2 7XX UK 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.413629.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0705 4923</institution-id>
+   <institution>Department of Radiology, Imperial College NHS Trust, </institution>
+   <institution>Hammersmith Hospital, </institution>
+  </institution-wrap>Du Cane Road, W120HS, London, UK 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.416041.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0738 5466</institution-id>
+   <institution>Barts and The London HPB Centre, </institution>
+   <institution>The Royal London Hospital, Barts Health NHS Trust, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.4868.2</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2171 1133</institution-id>
+   <institution>Centre for Tumour Biology, </institution>
+   <institution>Barts Cancer Institute, Queen Mary University of London, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff10">
+  <label>10</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.139534.9</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0372 5777</institution-id>
+   <institution>Department of Medical Oncology, </institution>
+   <institution>Barts Health NHS Trust, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+</contrib-group>

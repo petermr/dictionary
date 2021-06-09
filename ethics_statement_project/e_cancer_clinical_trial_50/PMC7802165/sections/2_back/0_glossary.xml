@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>AS</term>
+   <def>
+    <p id="Par5">Nab-paclitaxel and S-1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BSA</term>
+   <def>
+    <p id="Par6">Body surface area</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par7">Computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DFS</term>
+   <def>
+    <p id="Par8">Disease-free survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OS</term>
+   <def>
+    <p id="Par9">Overall survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RFS</term>
+   <def>
+    <p id="Par10">Recurrence-free survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>XELOX</term>
+   <def>
+    <p id="Par11">Capecitabine and oxaliplatin</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

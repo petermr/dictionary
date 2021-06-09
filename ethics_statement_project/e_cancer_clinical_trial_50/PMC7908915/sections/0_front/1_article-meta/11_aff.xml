@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aff id="aff6">
+ <label>6</label>
+ <institution content-type="department">Department of Oncology</institution>, 
+ <institution>Addenbrooke's Hospital</institution>, 
+ <addr-line content-type="city">Cambridge</addr-line>, 
+ <addr-line content-type="state">Cambridgeshire</addr-line>, 
+ <country>UK</country>
+</aff>

@@ -1,0 +1,4 @@
+0: This protocol is in line with the Helsinki Declaration and approved by the Clinical Research Ethics Committee of our hospital.
+1: This experiment has been registered in the open science framework (OSF) (registration number: DOI 10.17605/OSF.IO/9ZW34).
+2: Before randomization, all patients will sign a written informed consent.
+3: and they can freely choose whether to continue the trial at any time.

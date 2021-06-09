@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R6">
+ <label>[6]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Benveniste</surname>
+    <given-names>MF</given-names>
+   </name>
+   <name>
+    <surname>Betancourt</surname>
+    <given-names>CS</given-names>
+   </name>
+   <name>
+    <surname>Gomez</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Imaging of radiation treatment of lung cancer</article-title>. 
+  <source>Semin Ultrasound CT MR</source>
+  <year>2018</year>;
+  <volume>39</volume>:
+  <fpage>297</fpage>–
+  <lpage>307</lpage>.
+  <pub-id pub-id-type="pmid">29807640</pub-id>
+ </mixed-citation>
+</ref>

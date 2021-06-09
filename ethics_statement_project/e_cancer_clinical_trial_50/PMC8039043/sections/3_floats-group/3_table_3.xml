@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="t0003" orientation="portrait" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Comparison of the Respiratory Index and Respiratory Mechanics Parameters Between the Two Groups of Patients (n=70)</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1">T1</th>
+    <th rowspan="1" colspan="1">T2</th>
+    <th rowspan="1" colspan="1">T3</th>
+    <th rowspan="1" colspan="1">T4</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">PaO
+     <sub>2</sub>
+    </td>
+    <td rowspan="1" colspan="1">Group C</td>
+    <td rowspan="1" colspan="1">398.01±70.78</td>
+    <td rowspan="1" colspan="1">171.64±81.70</td>
+    <td rowspan="1" colspan="1">183.36±78.46</td>
+    <td rowspan="1" colspan="1">402.2±77.72</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">(mmHg)</td>
+    <td rowspan="1" colspan="1">Group L</td>
+    <td rowspan="1" colspan="1">416.61±77.85</td>
+    <td rowspan="1" colspan="1">192.60±89.87</td>
+    <td rowspan="1" colspan="1">205.49±86.30</td>
+    <td rowspan="1" colspan="1">446.24±85.50</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">
+     <italic>P</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.299</td>
+    <td rowspan="1" colspan="1">0.311</td>
+    <td rowspan="1" colspan="1">0.266</td>
+    <td rowspan="1" colspan="1">0.027</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">PaCO
+     <sub>2</sub>
+    </td>
+    <td rowspan="1" colspan="1">Group C</td>
+    <td rowspan="1" colspan="1">39.09±8.23</td>
+    <td rowspan="1" colspan="1">39.01±2.80</td>
+    <td rowspan="1" colspan="1">38.31±1.69</td>
+    <td rowspan="1" colspan="1">38.92±2.24</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">(mmHg)</td>
+    <td rowspan="1" colspan="1">Group L</td>
+    <td rowspan="1" colspan="1">39.95±3.01</td>
+    <td rowspan="1" colspan="1">39.87±2.93</td>
+    <td rowspan="1" colspan="1">39.13±1.78</td>
+    <td rowspan="1" colspan="1">39.77±2.35</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">
+     <italic>P</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.229</td>
+    <td rowspan="1" colspan="1">0.216</td>
+    <td rowspan="1" colspan="1">0.053</td>
+    <td rowspan="1" colspan="1">0.128</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">A-aDO
+     <sub>2</sub>
+    </td>
+    <td rowspan="1" colspan="1">Group C</td>
+    <td rowspan="1" colspan="1">265.14±71.61</td>
+    <td rowspan="1" colspan="1">491.61±81.36</td>
+    <td rowspan="1" colspan="1">480.77±77.81</td>
+    <td rowspan="1" colspan="1">261.14±78.18</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">(mmHg)</td>
+    <td rowspan="1" colspan="1">Group L</td>
+    <td rowspan="1" colspan="1">220.45±78.71</td>
+    <td rowspan="1" colspan="1">469.56±89.52</td>
+    <td rowspan="1" colspan="1">457.60±885.62</td>
+    <td rowspan="1" colspan="1">216.06±85.97</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">
+     <italic>P</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.278</td>
+    <td rowspan="1" colspan="1">0.285</td>
+    <td rowspan="1" colspan="1">0.240</td>
+    <td rowspan="1" colspan="1">0.025</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">OI</td>
+    <td rowspan="1" colspan="1">Group C</td>
+    <td rowspan="1" colspan="1">398.01±70.78</td>
+    <td rowspan="1" colspan="1">171.64±81.70</td>
+    <td rowspan="1" colspan="1">183.36±78.46</td>
+    <td rowspan="1" colspan="1">402.2±77.72</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">(mmHg)</td>
+    <td rowspan="1" colspan="1">Group L</td>
+    <td rowspan="1" colspan="1">441.61±77.85</td>
+    <td rowspan="1" colspan="1">192.60±89.87</td>
+    <td rowspan="1" colspan="1">205.49±86.30</td>
+    <td rowspan="1" colspan="1">446.24±85.50</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">
+     <italic>P</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.299</td>
+    <td rowspan="1" colspan="1">0.311</td>
+    <td rowspan="1" colspan="1">0.266</td>
+    <td rowspan="1" colspan="1">0.027</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Ppeak</td>
+    <td rowspan="1" colspan="1">Group C</td>
+    <td rowspan="1" colspan="1">15(14.04–15.68)</td>
+    <td rowspan="1" colspan="1">23(21.99–24.12)</td>
+    <td rowspan="1" colspan="1">23(22.95–24.77)</td>
+    <td rowspan="1" colspan="1">18(16.69–17.46)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">(cmH
+     <sub>2</sub>O)
+    </td>
+    <td rowspan="1" colspan="1">Group L</td>
+    <td rowspan="1" colspan="1">17(16.19–17.87)</td>
+    <td rowspan="1" colspan="1">23(22.67–24.70)</td>
+    <td rowspan="1" colspan="1">22(20.95–24.96)</td>
+    <td rowspan="1" colspan="1">15(14.23–17.12)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">
+     <italic>P</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.067</td>
+    <td rowspan="1" colspan="1">0.389</td>
+    <td rowspan="1" colspan="1">0.208</td>
+    <td rowspan="1" colspan="1">&lt;0.001</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Pplat</td>
+    <td rowspan="1" colspan="1">Group C</td>
+    <td rowspan="1" colspan="1">15.00(12.96–14.64)</td>
+    <td rowspan="1" colspan="1">22(20.89–22.94)</td>
+    <td rowspan="1" colspan="1">22(20.60–22.72)</td>
+    <td rowspan="1" colspan="1">17(12.75–13.94)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">(cmH
+     <sub>2</sub>O)
+    </td>
+    <td rowspan="1" colspan="1">Group L</td>
+    <td rowspan="1" colspan="1">16(15.15–16.96)</td>
+    <td rowspan="1" colspan="1">21(20.90–23.70)</td>
+    <td rowspan="1" colspan="1">23(21.70–23.56)</td>
+    <td rowspan="1" colspan="1">16(14.73–16.47)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">
+     <italic>P</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.075</td>
+    <td rowspan="1" colspan="1">0.191</td>
+    <td rowspan="1" colspan="1">0.166</td>
+    <td rowspan="1" colspan="1">&lt;0.001</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Cst</td>
+    <td rowspan="1" colspan="1">Group C</td>
+    <td rowspan="1" colspan="1">45.6±15.52</td>
+    <td rowspan="1" colspan="1">24.34±5.75</td>
+    <td rowspan="1" colspan="1">24.89±3.81</td>
+    <td rowspan="1" colspan="1">48.71±16.58</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">(mL/cmH
+     <sub>2</sub>O)
+    </td>
+    <td rowspan="1" colspan="1">Group L</td>
+    <td rowspan="1" colspan="1">37.51±12.04</td>
+    <td rowspan="1" colspan="1">22.37±4.64</td>
+    <td rowspan="1" colspan="1">22.66±4.6</td>
+    <td rowspan="1" colspan="1">39.03±13.76</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">
+     <italic>P</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.058</td>
+    <td rowspan="1" colspan="1">0.119</td>
+    <td rowspan="1" colspan="1">0.093</td>
+    <td rowspan="1" colspan="1">0.057</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Cdyn</td>
+    <td rowspan="1" colspan="1">Group C</td>
+    <td rowspan="1" colspan="1">40.11±12.22</td>
+    <td rowspan="1" colspan="1">22.89±5.38</td>
+    <td rowspan="1" colspan="1">22.74±5.25</td>
+    <td rowspan="1" colspan="1">42.29±11.54</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">(mL/cmH
+     <sub>2</sub>O)
+    </td>
+    <td rowspan="1" colspan="1">Group L</td>
+    <td rowspan="1" colspan="1">36.06±9.54</td>
+    <td rowspan="1" colspan="1">21.40±4.41</td>
+    <td rowspan="1" colspan="1">21.09±4.05</td>
+    <td rowspan="1" colspan="1">37.09±9.52</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">
+     <italic>P</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.054</td>
+    <td rowspan="1" colspan="1">0.211</td>
+    <td rowspan="1" colspan="1">0.144</td>
+    <td rowspan="1" colspan="1">0.066</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tfn0004">
+   <p>
+    <bold>Notes:</bold> The data are presented as means ± SD or median (interquartile range). Group C= the control group, Group L= the lidocaine group.
+   </p>
+  </fn>
+  <fn id="tfn0005">
+   <p>
+    <bold>Abbreviations:</bold> PaO
+    <sub>2</sub>, partial pressure of oxygen in arterial blood; PaCO
+    <sub>2</sub>, partial pressure of carbon dioxide in arterial blood; A-aDO
+    <sub>2</sub>, alveolar-arterial oxygen gradient; OI, oxygenation index; Ppeak, peak airway pressure; Pplat, plateau airway pressure; Cst, static lung compliance; Cdyn, dynamic lung compliance.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

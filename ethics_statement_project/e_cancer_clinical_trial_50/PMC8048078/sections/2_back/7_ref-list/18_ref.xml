@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Palma</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Bauman</surname>
+    <given-names>GS</given-names>
+   </name>
+   <name>
+    <surname>Rodrigues</surname>
+    <given-names>GB</given-names>
+   </name>
+  </person-group>
+  <article-title>Beyond Oligometastases</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>2020</year>
+  <volume>107</volume>
+  <issue>2</issue>
+  <fpage>253</fpage>
+  <lpage>256</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2019.12.023</pub-id>
+  <?supplied-pmid 32386735?>
+  <pub-id pub-id-type="pmid">32386735</pub-id>
+ </element-citation>
+</ref>

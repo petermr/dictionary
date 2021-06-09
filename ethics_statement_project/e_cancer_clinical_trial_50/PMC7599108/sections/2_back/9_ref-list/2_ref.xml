@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vogelstein</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Fearon</surname>
+    <given-names>ER</given-names>
+   </name>
+   <name>
+    <surname>Hamilton</surname>
+    <given-names>SR</given-names>
+   </name>
+   <name>
+    <surname>Kern</surname>
+    <given-names>SE</given-names>
+   </name>
+   <name>
+    <surname>Preisinger</surname>
+    <given-names>AC</given-names>
+   </name>
+   <name>
+    <surname>Leppert</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genetic alterations during colorectal-tumor development</article-title>
+  <source>N Engl J Med</source>
+  <year>1988</year>
+  <volume>319</volume>
+  <issue>9</issue>
+  <fpage>525</fpage>
+  <lpage>532</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJM198809013190901</pub-id>
+  <pub-id pub-id-type="pmid">2841597</pub-id>
+ </element-citation>
+</ref>

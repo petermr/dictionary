@@ -1,0 +1,272 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="letter"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><?covid-19-tdm?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br J Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7753290</article-id><article-id pub-id-type="doi">10.1111/bjh.17168</article-id><article-id pub-id-type="publisher-id">BJH17168</article-id><article-categories><subj-group subj-group-type="overline"><subject>Correspondence</subject></subj-group><subj-group subj-group-type="heading"><subject>Online Only</subject></subj-group></article-categories><title-group><article-title>COVID&#x02010;19 and myeloma clinical research &#x02013; experience from the CARDAMON clinical trial</article-title><alt-title alt-title-type="left-running-head">Correspondence</alt-title></title-group><contrib-group><contrib id="bjh17168-cr-0001" contrib-type="author" corresp="yes"><name><surname>Camilleri</surname><given-names>Marquita</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4161-8275</contrib-id><xref ref-type="aff" rid="bjh17168-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh17168-aff-0004">
+<sup>4</sup>
+</xref><address><email>marquita.camilleri@nhs.net</email></address></contrib><contrib id="bjh17168-cr-0002" contrib-type="author"><name><surname>Sive</surname><given-names>Jonathan</given-names></name><xref ref-type="aff" rid="bjh17168-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh17168-cr-0003" contrib-type="author"><name><surname>Wilson</surname><given-names>William</given-names></name><xref ref-type="aff" rid="bjh17168-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh17168-cr-0004" contrib-type="author"><name><surname>Pang</surname><given-names>Gavin</given-names></name><xref ref-type="aff" rid="bjh17168-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh17168-cr-0005" contrib-type="author"><name><surname>Jenner</surname><given-names>Richard</given-names></name><xref ref-type="aff" rid="bjh17168-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh17168-cr-0006" contrib-type="author"><name><surname>Phillips</surname><given-names>Elizabeth</given-names></name><xref ref-type="aff" rid="bjh17168-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh17168-cr-0007" contrib-type="author"><name><surname>Popat</surname><given-names>Rakesh</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6553-4618</contrib-id><xref ref-type="aff" rid="bjh17168-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh17168-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bjh17168-cr-0008" contrib-type="author"><name><surname>Ramasamy</surname><given-names>Karthik</given-names></name><xref ref-type="aff" rid="bjh17168-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="bjh17168-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="bjh17168-cr-0009" contrib-type="author"><name><surname>Bygrave</surname><given-names>Ceri</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1571-0692</contrib-id><xref ref-type="aff" rid="bjh17168-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="bjh17168-cr-0010" contrib-type="author"><name><surname>Dadaga</surname><given-names>Tushhar</given-names></name><xref ref-type="aff" rid="bjh17168-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh17168-cr-0011" contrib-type="author"><name><surname>Streetly</surname><given-names>Matthew</given-names></name><xref ref-type="aff" rid="bjh17168-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="bjh17168-cr-0012" contrib-type="author"><name><surname>Cavenagh</surname><given-names>James</given-names></name><xref ref-type="aff" rid="bjh17168-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="bjh17168-cr-0013" contrib-type="author"><name><surname>Chapman</surname><given-names>Mike</given-names></name><xref ref-type="aff" rid="bjh17168-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="bjh17168-cr-0014" contrib-type="author"><name><surname>Barrington</surname><given-names>Sally</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2516-5288</contrib-id><xref ref-type="aff" rid="bjh17168-aff-0011">
+<sup>11</sup>
+</xref></contrib><contrib id="bjh17168-cr-0015" contrib-type="author"><name><surname>Pike</surname><given-names>Lucy</given-names></name><xref ref-type="aff" rid="bjh17168-aff-0011">
+<sup>11</sup>
+</xref></contrib><contrib id="bjh17168-cr-0016" contrib-type="author"><name><surname>Owen</surname><given-names>Roger</given-names></name><xref ref-type="aff" rid="bjh17168-aff-0012">
+<sup>12</sup>
+</xref></contrib><contrib id="bjh17168-cr-0017" contrib-type="author"><name><surname>Clifton&#x02010;Hadley</surname><given-names>Laura</given-names></name><xref ref-type="aff" rid="bjh17168-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh17168-cr-0018" contrib-type="author"><name><surname>Yong</surname><given-names>Kwee</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6487-276X</contrib-id><xref ref-type="aff" rid="bjh17168-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh17168-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="bjh17168-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Haematology Department</named-content>
+<institution>University College Hospitals</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="bjh17168-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Cancer Research UK and UCL Cancer Trials Centre</named-content>
+<institution>University College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="bjh17168-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Division of Cancer Sciences</named-content>
+<named-content content-type="organisation-division">Manchester Cancer Research Centre</named-content>
+<institution>University of Manchester</institution>
+<city>Manchester</city>
+<country country="GB">UK</country>
+</aff><aff id="bjh17168-aff-0004">
+<label><sup>4</sup></label>
+<institution>Cancer Institute</institution>
+<institution>University College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="bjh17168-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Haematology Department</named-content>
+<institution>Oxford University Hospitals NHS Trust</institution>
+<city>Oxford</city>
+<country country="GB">UK</country>
+</aff><aff id="bjh17168-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Radcliffe Department of Medicine</named-content>
+<institution>Oxford University</institution>
+<city>Oxford</city>
+<country country="GB">UK</country>
+</aff><aff id="bjh17168-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Haematology Department</named-content>
+<institution>University Hospital of Wales</institution>
+<city>Wales</city>
+<country country="GB">UK</country>
+</aff><aff id="bjh17168-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Haematology Department</named-content>
+<institution>Guys and St Thomas&#x02019; NHS Trust</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="bjh17168-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Haematology Department</named-content>
+<institution>Bart&#x02019;s Health NHS Trust</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="bjh17168-aff-0010">
+<label><sup>10</sup></label>
+<named-content content-type="organisation-division">Haematology Department</named-content>
+<institution>Cambridge Institute for Medical Research</institution>
+<city>Cambridge</city>
+<country country="GB">UK</country>
+</aff><aff id="bjh17168-aff-0011">
+<label><sup>11</sup></label>
+<named-content content-type="organisation-division">School of Biomedical Engineering and Imaging Sciences</named-content>
+<institution>King&#x02019;s College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="bjh17168-aff-0012">
+<label><sup>12</sup></label>
+<named-content content-type="organisation-division">HMDS Laboratory</named-content>
+<institution>St James&#x02019; Institute of Oncology</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><pub-date pub-type="epub"><day>21</day><month>11</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2021</year></pub-date><volume>192</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/bjh.v192.1</issue-id><fpage>e14</fpage><lpage>e16</lpage><permissions><!--<copyright-statement content-type="issue-copyright">Copyright &#x000a9; 2021 John Wiley & Sons Ltd<copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 British Society for Haematology and John Wiley &#x00026; Sons Ltd</copyright-statement><license><license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:BJH-192-e14.pdf"/><kwd-group><kwd id="bjh17168-kwd-0001">myeloma</kwd><kwd id="bjh17168-kwd-0002">COVID&#x02010;19</kwd><kwd id="bjh17168-kwd-0003">clinical trials</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Amgen Ltd. </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000048</institution-id></institution-wrap></funding-source><award-id>20159848</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Institute for Health Research and Social Care (NIHR) </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000272</institution-id></institution-wrap></funding-source><award-id>RP&#x02010;2&#x02010;16&#x02010;07&#x02010;001</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>CRUK </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000289</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>EPSRC </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000266</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0005"><funding-source><institution-wrap><institution>MRC </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000265</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0006"><funding-source>Department of Health and Social Care</funding-source></award-group><award-group id="funding-0007"><funding-source>Wellcome/EPSRC Centre for Medical Engineering</funding-source><award-id>WT 203148/Z/16/Z</award-id></award-group></funding-group><counts><fig-count count="1"/><table-count count="0"/><page-count count="3"/><word-count count="1897"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.6 mode:remove_FC converted:22.12.2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="bjh17168-body-0001"><p>COVID&#x02010;19 &#x02013; caused by severe acute respiratory syndrome coronavirus 2 (SARS&#x02010;CoV&#x02010;2) &#x02013; has spread to over 213 countries and territories, with 24,021,218 cases, including 821,462 deaths, reported to WHO by 28 August 2020.<xref rid="bjh17168-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> In the UK alone, there were 328,846 laboratory&#x02010;confirmed cases and 41,465 COVID&#x02010;19&#x02010;associated deaths.<xref rid="bjh17168-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref> Self&#x02010;isolation and physical distancing measures were implemented in most jurisdictions to limit the spread of the virus. Changes to clinical practice saw the short&#x02010;term reduction of routine and non&#x02010;emergency care to liberate much&#x02010;needed capacity in medical facilities, while minimising the risk to patients and healthcare workers by eliminating avoidable face&#x02010;to&#x02010;face interactions.</p><p>Haematology patients were shown to be particularly vulnerable to SARS&#x02010;CoV&#x02010;2 infection<xref rid="bjh17168-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> and in need of shielding; hence alternative management plans and new ways of delivering care were implemented wherever possible to reduce individual patient susceptibility.<xref rid="bjh17168-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> Various clinical guidelines were issued at unprecedented speed, including recommendations for multiple myeloma (MM) and patients needing stem cell transplantation (SCT).<xref rid="bjh17168-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="bjh17168-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="bjh17168-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="bjh17168-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> Conducting clinical trials in this environment poses unique challenges, having to strike a balance between patient safety, maintaining trial integrity, and ensuring adherence to good clinical practice (GCP) standards. The EMA, the EU Commission and the UK MHRA all published guidance to help stakeholders better manage clinical trials during the COVID&#x02010;19 pandemic.<xref rid="bjh17168-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="bjh17168-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="bjh17168-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>
+</p><p>We report the challenges and adaptations made to the CARDAMON trial during the peak of the COVID&#x02010;19 outbreak in the UK in March&#x02013;June 2020. CARDAMON is a phase II, randomised, open label clinical trial in transplant&#x02010;eligible newly diagnosed MM (NDMM) that assesses the benefit of upfront SCT (clinicaltrials.gov identifier NCT02315716). Patients are treated with intravenous carfilzomib, cyclophosphamide and dexamethasone (KCd) as induction, then randomised to standard consolidation with SCT or to a further four cycles of KCd, following which all receive 18&#x000a0;months of maintenance with weekly single agent carfilzomib (d1, 8 and 15).<xref rid="bjh17168-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> Aside from standard serological response assessments, minimal residual disease (MRD) was assessed by bone marrow (BM) sampling at prespecified timepoints, and by PET&#x02010;CT for those patients on an imaging sub&#x02010;study.</p><p>When the UK went into lockdown on 24 March 2020, 70 patients were still receiving carfilzomib maintenance and 170 were on follow&#x02010;up (Fig&#x000a0;<xref rid="bjh17168-fig-0001" ref-type="fig">1</xref>). Adaptations to the trial protocol were agreed within the Trial Management Group (TMG), allowing CARDAMON to continue with minimal disruption. Local Principal Investigators (PIs) were informed of these changes, with open communication by email or telephone facilitating rapid resolution of further queries and efficient trial management throughout.</p><fig fig-type="Fig" xml:lang="en" id="bjh17168-fig-0001" orientation="portrait" position="float"><label>Fig 1</label><caption><p>This flow diagram illustrates the progress through the various phases of the CARDAMON phase II clinical trial, including the impact of COVID&#x02010;19 on the 70 patients on maintenance K across the two treatment arms at the start of the lockdown period. The 15 patients who stopped K maintenance joined the 170 patients who were already on long&#x02010;term follow&#x02010;up on 24&#x000a0;March 2020, bringing the number up to a total of 185. SCT, stem cell transplantation; K, carfilzomib; C, cyclophosphamide; d, dexamethasone.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-192-e14-g001"/></fig><sec disp-level="2" id="bjh17168-sec-0002"><title>Assessments conducted locally or remotely</title><p>Pre&#x02010;treatment blood tests could be completed locally, either via the GP or at local hospitals, to save patient travel and footfall in the trial site, with results sent to the site for review before carfilzomib dosing. Monthly follow&#x02010;up visits were permissible via telephone or video conferencing, initiating in&#x02010;person assessment and/or investigations as clinically indicated.</p></sec><sec disp-level="2" id="bjh17168-sec-0003"><title>Pragmatic approach to treatment delays during carfilzomib maintenance</title><p>Patients who had completed at least 12&#x000a0;months of maintenance could stop treatment at the PI&#x02019;s discretion and the patient&#x02019;s wishes. Patients who completed &#x0003c;12&#x000a0;months of maintenance were encouraged to continue if possible, allowing delays of up to 14&#x000a0;weeks, compared to four&#x000a0;weeks in the pre&#x02010;COVID&#x02010;19 era. For those who had completed maintenance therapy, end of maintenance assessments could be completed outside of the 14&#x02010;day time&#x02010;window.</p></sec><sec disp-level="2" id="bjh17168-sec-0004"><title>Restarting carfilzomib maintenance with step&#x02010;up dosing after treatment break</title><p>Initiation of carfilzomib therapy is routinely done with a step&#x02010;up dose from 20&#x000a0;mg/m<sup>2</sup> to target dose (56&#x000a0;mg/m<sup>2</sup> in CARDAMON). To reduce the risk of infusion reactions and adverse events, such as thrombotic microangiopathy occurring on resuming therapy after a break,<xref rid="bjh17168-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> an urgent safety measure was implemented. Where carfilzomib maintenance was delayed for &#x0003e;4&#x000a0;weeks, treatment was to be restarted at 20&#x000a0;mg/m<sup>2</sup> on day 1 of the new cycle before escalating to the full 56&#x000a0;mg/m<sup>2</sup> or last tolerated dose.</p></sec><sec disp-level="2" id="bjh17168-sec-0005"><title>Postponement of six&#x02010;month MRD assessment during maintenance</title><p>BM sampling for MRD assessments, due at six&#x000a0;months of maintenance, could be delayed for up to three&#x000a0;months, and similarly for the follow&#x02010;up PET&#x02010;CT scan, also due at six&#x000a0;months.</p></sec><sec id="bjh17168-sec-0006"><title>Impact on CARDAMON trial activity</title><p>During lockdown, 15 patients stopped carfilzomib maintenance completely after a median of 15 cycles (range 5&#x02013;18), six of whom completed &#x0003c; 12 (median seven cycles; range 5&#x02013;8); 14 carried on uninterrupted and 41 patients restarted after a median treatment pause of 12&#x000a0;weeks (range 8&#x02013;19&#x000b7;6). These protocol amendments allowed 55 patients who would otherwise have stopped trial treatment to stay on carfilzomib maintenance on the CARDAMON study (Fig&#x000a0;<xref rid="bjh17168-fig-0001" ref-type="fig">1</xref>). Of 25 outstanding MRD BM assessments, 20 were delayed by a median of two&#x000a0;months (range 1&#x02013;3), with investigations resuming when restrictions eased in June. As of 5&#x000a0;August 2020, eight of the delayed BM assessments have been performed, while three patients declined. PET&#x02010;CT scans were delayed in 6/9 patients, of which two have been performed.</p></sec><sec id="bjh17168-sec-0007"><title>Effect on data analysis and interpretation</title><p>Although all patients completed the randomised component of trial treatment by 29&#x000a0;February 2020, delays and alterations to maintenance therapy may not have affected the two arms equally. PIs may be potentially biased to alter treatment based on local COVID&#x02010;19 clusters and patients&#x02019; favourable MM response. Therefore, sensitivity analyses will be performed with and without the inclusion of affected patients to assess the significance of the measures taken on patient outcomes. Secondary outcomes will also be assessed as originally intended in both pre&#x02010; and post&#x02010;COVID&#x02010;19 scenarios.</p><p>This global crisis should encourage the rethinking of study designs to make future clinical trials more flexible and pragmatic. Prompt and practical action successfully mitigated the unavoidable disruption of CARDAMON, protecting patient safety while maintaining trial conduct and optimising scientific integrity. Successful adaptations worth retaining beyond the pandemic include flexibility around remote clinic visits and investigation timing to help improve protocol adherence and trial dropout rates. The postpandemic environment comes with risks of missing or delayed data collection in ongoing trials, possibly impacting data analysis and interpretation. More patient&#x02010;centric study designs that maximise translatability to routine practice may improve research efficiency and outcomes while enhancing patient safety and experience.<xref rid="bjh17168-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>
+</p></sec></body><back><ack id="bjh17168-sec-0008"><title>Acknowledgements</title><p>CARDAMON is coordinated by the CRUK &#x00026; UCL CTC, funded by Amgen Ltd and endorsed by Cancer Research UK (C9203/A17750). The authors would like to thank CARDAMON participating sites, local investigators and research teams for their ongoing participation in the study, together with patients and their families.</p><p>Professor Kwee Yong and Dr Rakesh Popat acknowledge support and funding from the UCL/UCLH National Institute for Health Research and Social Care (NIHR) Biomedical Research.</p><p>Professor Barrington also acknowledges support from the NIHR (RP&#x02010;2&#x02010;16&#x02010;07&#x02010;001). King&#x02019;s College London and UCL Comprehensive Cancer Imaging Centre is funded by the CRUK and EPSRC in association with the MRC and Department of Health and Social Care (England). This work was also supported by the Wellcome/EPSRC Centre for Medical Engineering at King&#x02019;s College London (WT 203148/Z/16/Z). The views expressed are those of the author(s) and not necessarily those of the NHS, the NIHR or the Department of Health and Social Care.</p></ack><ref-list content-type="cited-references" id="bjh17168-bibl-0001"><title>References</title><ref id="bjh17168-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="bjh17168-cit-0001">
+<collab collab-type="authors">World Health Organisation</collab>
+. <article-title>WHO Coronavirus Disease (COVID&#x02010;19) Dashboard</article-title>. [cited 2020 August 28]. Available from: <ext-link ext-link-type="uri" xlink:href="https://covid19.who.int/">https://covid19.who.int/</ext-link>.</mixed-citation></ref><ref id="bjh17168-bib-0002"><label>2</label><mixed-citation publication-type="miscellaneous" id="bjh17168-cit-0002">
+<collab collab-type="authors">Public Health England and NHSX</collab>
+. <article-title>Coronavirus (COVID&#x02010;19) in the UK</article-title>. [cited 2020 August 27]. Available from: <ext-link ext-link-type="uri" xlink:href="https://coronavirus.data.gov.uk/">https://coronavirus.data.gov.uk/</ext-link>.</mixed-citation></ref><ref id="bjh17168-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="bjh17168-cit-0003">
+<string-name>
+<surname>Williamson</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Bhaskaran</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Bacon</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bates</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Morton</surname>
+<given-names>CE</given-names>
+</string-name>, et al. <article-title>Factors associated with COVID&#x02010;19&#x02010;related death using OpenSAFELY</article-title>. <source xml:lang="en">Nature</source>. <year>2020</year>;<volume>584</volume>:<fpage>430</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">32640463</pub-id></mixed-citation></ref><ref id="bjh17168-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="bjh17168-cit-0004">
+<string-name>
+<surname>Fox</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Troy&#x02010;Barnes</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kirkwood</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>WY</given-names>
+</string-name>, <string-name>
+<surname>Day</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Chavda</surname>
+<given-names>SJ</given-names>
+</string-name>, et al. <article-title>Clinical outcomes and risk factors for severe COVID&#x02010;19 in patients with haematological disorders receiving chemo&#x02010; or immunotherapy</article-title>. <source xml:lang="en">Br J Haematol.</source>
+<year>2020</year>
+<pub-id pub-id-type="doi">10.1111/bjh.17027</pub-id>.</mixed-citation></ref><ref id="bjh17168-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="bjh17168-cit-0005">
+<collab collab-type="authors">European Society for Medical Oncology &#x02013; ESMO</collab>
+. <article-title>ESMO Management and Treatment Adapted Recommendations in the COVID&#x02010;19 Era: Multiple Myeloma</article-title>. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.esmo.org/guidelines/cancer-patient-management-during-the-covid-19-pandemic/haematological-malignancies-multiple-myeloma-in-the-covid-19-era">https://www.esmo.org/guidelines/cancer&#x02010;patient&#x02010;management&#x02010;during&#x02010;the&#x02010;covid&#x02010;19&#x02010;pandemic/haematological&#x02010;malignancies&#x02010;multiple&#x02010;myeloma&#x02010;in&#x02010;the&#x02010;covid&#x02010;19&#x02010;era</ext-link> [cited 2020 August 28].</mixed-citation></ref><ref id="bjh17168-bib-0006"><label>6</label><mixed-citation publication-type="miscellaneous" id="bjh17168-cit-0006">
+<collab collab-type="authors">UK Myeloma Forum</collab>
+. <article-title>Covid&#x02010;19 Guidance</article-title>. [cited 2020 August 28]. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.ukmf.org.uk/guidelines/covid-19-guidance/">https://www.ukmf.org.uk/guidelines/covid&#x02010;19&#x02010;guidance/</ext-link>.</mixed-citation></ref><ref id="bjh17168-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="bjh17168-cit-0007">
+<string-name>
+<surname>Terpos</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Engelhardt</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Gay</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Mateos</surname>
+<given-names>M&#x02010;V</given-names>
+</string-name>, <string-name>
+<surname>Ntanasis&#x02010;Stathopoulos</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Management of patients with multiple myeloma in the era of COVID&#x02010;19 pandemic: a consensus paper from the European Myeloma Network (EMN)</article-title>. <source xml:lang="en">Leukemia</source>. <year>2020</year>;<volume>34</volume>:<fpage>2000</fpage>&#x02013;<lpage>11</lpage>.<pub-id pub-id-type="pmid">32444866</pub-id></mixed-citation></ref><ref id="bjh17168-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="bjh17168-cit-0008">
+<collab collab-type="authors">British Society of Blood and Marrow Transplantation and Cellular Therapy</collab>
+. <article-title>BSBMTCT recommendations for the management of adult patients and allogeneic donors during the COVID19 (causative agent the SARS&#x02010;CoV&#x02010;2 virus) outbreak</article-title>. [cited 2020 August 28]. Available from: <ext-link ext-link-type="uri" xlink:href="http://www.bsbmtct.org/wp-content/uploads/2020/03/BSBMTCT-recommendations-for-COVID-Adult-BMT-27th-March-2020.pdf">http://www.bsbmtct.org/wp&#x02010;content/uploads/2020/03/BSBMTCT&#x02010;recommendations&#x02010;for&#x02010;COVID&#x02010;Adult&#x02010;BMT&#x02010;27th&#x02010;March&#x02010;2020.pdf</ext-link>.</mixed-citation></ref><ref id="bjh17168-bib-0009"><label>9</label><mixed-citation publication-type="miscellaneous" id="bjh17168-cit-0009">
+<collab collab-type="authors">European Medicines Agency and Heads of Medicines Agency</collab>
+. <article-title>Guidance on the Management of Clinical Trials During the COVID&#x02010;19 (Coronavirus) Pandemic. Version 3 (28/04/2020)</article-title>. [cited 2020 August 28]. Available from: <ext-link ext-link-type="uri" xlink:href="https://ec.europa.eu/health/sites/health/files/files/eudralex/vol-10/guidanceclinicaltrials_covid19_en.pdf">https://ec.europa.eu/health/sites/health/files/files/eudralex/vol&#x02010;10/guidanceclinicaltrials_covid19_en.pdf</ext-link>.</mixed-citation></ref><ref id="bjh17168-bib-0010"><label>10</label><mixed-citation publication-type="miscellaneous" id="bjh17168-cit-0010">
+<collab collab-type="authors">European Medicines Agency</collab>
+. <article-title>Points to consider on implications of Coronavirus disease (COVID&#x02010;19) on methodological aspects of ongoing clinical trials. EMA/158330/2020 Rev. 1 3 (26 June 2020)</article-title>. [cited 2020 August 28]. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/documents/scientific-guideline/points-consider-implications-coronavirus-disease-covid-19-methodological-aspects-ongoing-clinical_en-0.pdf">https://www.ema.europa.eu/en/documents/scientific&#x02010;guideline/points&#x02010;consider&#x02010;implications&#x02010;coronavirus&#x02010;disease&#x02010;covid&#x02010;19&#x02010;methodological&#x02010;aspects&#x02010;ongoing&#x02010;clinical_en&#x02010;0.pdf</ext-link>.</mixed-citation></ref><ref id="bjh17168-bib-0011"><label>11</label><mixed-citation publication-type="miscellaneous" id="bjh17168-cit-0011">
+<collab collab-type="authors">Medicines and Healthcare products Regulatory Agency</collab>
+. <article-title>Managing Clinical Trials During Coronavirus (COVID&#x02010;19)</article-title>. [cited 2020 August 28]. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.gov.uk/guidance/managing-clinical-trials-during-coronavirus-covid-19">https://www.gov.uk/guidance/managing&#x02010;clinical&#x02010;trials&#x02010;during&#x02010;coronavirus&#x02010;covid&#x02010;19</ext-link>.</mixed-citation></ref><ref id="bjh17168-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="bjh17168-cit-0012">
+<string-name>
+<surname>Yong</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Popat</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Pang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Jenner</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>De Tute</surname>
+<given-names>RM</given-names>
+</string-name>, et al. <article-title>Efficacy and safety of carfilzomib at 56mg/m2 with cyclophosphamide and dexamethasone (K56Cd) in newly diagnosed multiple myeloma patients followed by ASCT or K56Cd consolidation: initial results of the phase 2 cardamon study</article-title>. <source xml:lang="en">Blood</source>. <year>2019</year>;<volume>134</volume>(<issue>Supplement 1</issue>):<fpage>861</fpage>.</mixed-citation></ref><ref id="bjh17168-bib-0013"><label>13</label><mixed-citation publication-type="miscellaneous" id="bjh17168-cit-0013">
+<string-name>
+<surname>Camilleri</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cuadrado</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Jenner</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Pang</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Thrombotic microangiopathy in myeloma patients treated with frontline carfilzomib on the phase 2 CARDAMON Trial</article-title>. <year>2020</year>. [cited 2020 August 6]. Available from: EHA Open Access Library EHA25 e&#x02010;poster presentations; EP 1018.</mixed-citation></ref><ref id="bjh17168-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="bjh17168-cit-0014">
+<string-name>
+<surname>Doherty</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Goksu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>de Paula</surname>
+<given-names>BHR</given-names>
+</string-name>. <article-title>Rethinking cancer clinical trials for COVID&#x02010;19 and beyond</article-title>. <source xml:lang="en">Nature Cancer</source>. <year>2020</year>;<volume>1</volume>:<fpage>568</fpage>&#x02013;<lpage>72</lpage>.</mixed-citation></ref></ref-list></back></article>

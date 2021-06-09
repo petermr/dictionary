@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Postoperative complications in patients treated with/without prophylactic HIPEC</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th>Control group (
+     <italic>n</italic> = 17)
+    </th>
+    <th>Experimental group (
+     <italic>n</italic> = 33)
+    </th>
+    <th>
+     <italic>P</italic> value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Alb (&lt; 35 g/L/≥35 g/L)</td>
+    <td>15/2</td>
+    <td>25/8</td>
+    <td>0.069</td>
+   </tr>
+   <tr>
+    <td>Change of tumor markers, Decrease/stable/increase</td>
+    <td>1/9/7</td>
+    <td>6/23/4</td>
+    <td>0.020</td>
+   </tr>
+   <tr>
+    <td>Median hospitalization day after surgery</td>
+    <td>10 (7–22)</td>
+    <td>11 (8–24)</td>
+    <td>0.255</td>
+   </tr>
+   <tr>
+    <td>Median drainage tube removal time after surgery</td>
+    <td>8 (6–17)</td>
+    <td>9 (5–24)</td>
+    <td>0.159</td>
+   </tr>
+   <tr>
+    <td>Anastomotic leakage/Intestinal leakage, Yes/No</td>
+    <td>1/16</td>
+    <td>4/29</td>
+    <td>0.490</td>
+   </tr>
+   <tr>
+    <td>Wound infection/Poor wound healing, Yes/No</td>
+    <td>0/17</td>
+    <td>0/33</td>
+    <td>1.000</td>
+   </tr>
+   <tr>
+    <td>Ileus, Yes/No</td>
+    <td>0/17</td>
+    <td>0/33</td>
+    <td>1.000</td>
+   </tr>
+   <tr>
+    <td>Leukopenia, None/grade I/II</td>
+    <td>13/2/2</td>
+    <td>25/6/2</td>
+    <td>0.956</td>
+   </tr>
+   <tr>
+    <td>Neutropenia, None/grade I/II</td>
+    <td>13/2/2</td>
+    <td>28/3/2</td>
+    <td>0.453</td>
+   </tr>
+   <tr>
+    <td>Liver dysfunction, None/grade I/II</td>
+    <td>4/10/3</td>
+    <td>10/15/8</td>
+    <td>0.773</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>Alb</italic> Albumin
+  </p>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR50">
+ <label>50.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nilsen</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Kumar</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Shar</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Varoquiers</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Wiley</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Riley</surname>
+    <given-names>WT</given-names>
+   </name>
+   <name>
+    <surname>Pavel</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Atienza</surname>
+    <given-names>AA</given-names>
+   </name>
+  </person-group>
+  <article-title>Advancing the science of mHealth</article-title>
+  <source>J Health Commun</source>
+  <year>2012</year>
+  <volume>17</volume>
+  <issue>sup1</issue>
+  <fpage>5</fpage>
+  <lpage>10</lpage>
+  <pub-id pub-id-type="doi">10.1080/10810730.2012.677394</pub-id>
+  <?supplied-pmid 22548593?>
+  <pub-id pub-id-type="pmid">22548593</pub-id>
+ </element-citation>
+</ref>

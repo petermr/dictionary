@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ghati</surname>
+   <given-names>Nirmal</given-names>
+  </name>
+  <address>
+   <email>nirmal.cmc@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Roy</surname>
+   <given-names>Ambuj</given-names>
+  </name>
+  <address>
+   <email>drambujroy@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bhatnagar</surname>
+   <given-names>Sushma</given-names>
+  </name>
+  <address>
+   <email>sushmabhatnagar1@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bhati</surname>
+   <given-names>Sumit</given-names>
+  </name>
+  <address>
+   <email>sumitbhati205599@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bhushan</surname>
+   <given-names>Sudha</given-names>
+  </name>
+  <address>
+   <email>sudhabhshn426@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mahendran</surname>
+   <given-names>Manjit</given-names>
+  </name>
+  <address>
+   <email>manjitmahendran@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Thakur</surname>
+   <given-names>Abhishek</given-names>
+  </name>
+  <address>
+   <email>abhishekthakur1039@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tiwari</surname>
+   <given-names>Pawan</given-names>
+  </name>
+  <address>
+   <email>pavan14281@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dwivedi</surname>
+   <given-names>Tanima</given-names>
+  </name>
+  <address>
+   <email>tanimadwivedi@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mani</surname>
+   <given-names>Kalaivani</given-names>
+  </name>
+  <address>
+   <email>manikalaivani@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gupta</surname>
+   <given-names>Ritu</given-names>
+  </name>
+  <address>
+   <email>drritugupta@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mohan</surname>
+   <given-names>Anant</given-names>
+  </name>
+  <address>
+   <email>anantmohan@yahoo.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Garg</surname>
+   <given-names>Rakesh</given-names>
+  </name>
+  <address>
+   <email>drrgarg@hotmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Saxena</surname>
+   <given-names>Anita</given-names>
+  </name>
+  <address>
+   <email>anitasaxena1956@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Guleria</surname>
+   <given-names>Randeep</given-names>
+  </name>
+  <address>
+   <email>randeepguleria2002@yahoo.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6517-3066</contrib-id>
+  <name>
+   <surname>Deepti</surname>
+   <given-names>Siddharthan</given-names>
+  </name>
+  <address>
+   <email>deeptikailath@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.413618.9</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1767 6103</institution-id>
+   <institution>Department of Cardiology, </institution>
+   <institution>All India Institute of Medical Sciences (AIIMS), </institution>
+  </institution-wrap>Ansari Nagar East, New Delhi, 110029 India 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.413618.9</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1767 6103</institution-id>
+   <institution>Department of Onco-Anaesthesia, Dr. B.R.A Institute-Rotary Cancer Hospital, </institution>
+   <institution>All India Institute of Medical Sciences (AIIMS), </institution>
+  </institution-wrap>New Delhi, India 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.413618.9</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1767 6103</institution-id>
+   <institution>Department of Pulmonary Medicine and Sleep Disorders, </institution>
+   <institution>All India Institute of Medical Sciences (AIIMS), </institution>
+  </institution-wrap>New Delhi, India 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.413618.9</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1767 6103</institution-id>
+   <institution>Department of Laboratory Medicine, National Cancer Institute (Jhajjar, Haryana), </institution>
+   <institution>All India Institute of Medical Sciences (AIIMS), </institution>
+  </institution-wrap>New Delhi, India 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.413618.9</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1767 6103</institution-id>
+   <institution>Department of Biostatistics, </institution>
+   <institution>All India Institute of Medical Sciences (AIIMS), </institution>
+  </institution-wrap>New Delhi, India 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.413618.9</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1767 6103</institution-id>
+   <institution>Department of Laboratory Oncology, Dr. B.R.A Institute-Rotary Cancer Hospital, </institution>
+   <institution>All India Institute of Medical Sciences (AIIMS), </institution>
+  </institution-wrap>New Delhi, India 
+ </aff>
+</contrib-group>

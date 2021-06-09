@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="t0003" orientation="portrait" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Primary Outcomes (n=81)</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="2" colspan="1"/>
+    <th colspan="2" rowspan="1">TG</th>
+    <th colspan="2" rowspan="1">CG</th>
+   </tr>
+   <tr>
+    <th colspan="2" rowspan="1">(n=41)</th>
+    <th colspan="2" rowspan="1">(n=40)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">PAIN SCORE</td>
+    <td colspan="2" rowspan="1"/>
+    <td colspan="2" rowspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Average of POD 1–5</td>
+    <td colspan="2" rowspan="1"/>
+    <td colspan="2" align="center" rowspan="1">
+     <italic>P</italic>&lt;0.001 
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Mean±SD</td>
+    <td colspan="2" align="center" rowspan="1">2.55±0.21</td>
+    <td colspan="2" align="center" rowspan="1">3.10±0.42</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">POD 0</td>
+    <td colspan="2" rowspan="1"/>
+    <td colspan="2" align="center" rowspan="1">
+     <italic>P</italic>=0.105 
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Mean±SD</td>
+    <td colspan="2" align="center" rowspan="1">3.58±0.60</td>
+    <td colspan="2" align="center" rowspan="1">3.83±0.84</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">POD 1</td>
+    <td colspan="2" rowspan="1"/>
+    <td colspan="2" rowspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Median (Quartile)</td>
+    <td colspan="2" align="center" rowspan="1">3.00 (0.42)</td>
+    <td colspan="2" align="center" rowspan="1">3.33 (0.67)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">POD 2</td>
+    <td colspan="2" rowspan="1"/>
+    <td colspan="2" rowspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Median (Quartile)</td>
+    <td colspan="2" align="center" rowspan="1">2.58 (0.29)</td>
+    <td colspan="2" align="center" rowspan="1">3.17 (0.58)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">POD 3</td>
+    <td colspan="2" rowspan="1"/>
+    <td colspan="2" rowspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Median (Quartile)</td>
+    <td colspan="2" align="center" rowspan="1">2.25 (0.33)</td>
+    <td colspan="2" align="center" rowspan="1">3.08 (0.75)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">POD 4</td>
+    <td colspan="2" rowspan="1"/>
+    <td colspan="2" rowspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Median (Quartile)</td>
+    <td colspan="2" align="center" rowspan="1">2.00 (0.17)</td>
+    <td colspan="2" align="center" rowspan="1">2.83 (0.58)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">POD 5</td>
+    <td colspan="2" rowspan="1"/>
+    <td colspan="2" rowspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Median (Quartile)</td>
+    <td colspan="2" align="center" rowspan="1">1.75 (0.21)</td>
+    <td colspan="2" align="center" rowspan="1">2.29 (0.73)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">
+     <bold>Analysis</bold>
+    </td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Group</td>
+    <td rowspan="1" colspan="1">Wald Chi-Square</td>
+    <td align="center" rowspan="1" colspan="1">78.296</td>
+    <td rowspan="1" colspan="1">
+     <italic>P</italic>
+    </td>
+    <td align="center" rowspan="1" colspan="1">&lt;0.001 
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Time</td>
+    <td rowspan="1" colspan="1">Wald Chi-Square</td>
+    <td align="center" rowspan="1" colspan="1">419.405</td>
+    <td rowspan="1" colspan="1">
+     <italic>P</italic>
+    </td>
+    <td align="center" rowspan="1" colspan="1">&lt;0.001 
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Group*Time</td>
+    <td rowspan="1" colspan="1">Wald Chi-Square</td>
+    <td align="center" rowspan="1" colspan="1">9.155</td>
+    <td rowspan="1" colspan="1">
+     <italic>P</italic>
+    </td>
+    <td align="center" rowspan="1" colspan="1">0.057 
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">ANALGESICS DATA</td>
+    <td colspan="2" rowspan="1"/>
+    <td colspan="2" rowspan="1">
+     <italic>P</italic>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Dose of Flurbiprofen axetil, n (%)</td>
+    <td colspan="2" rowspan="1"/>
+    <td colspan="2" align="center" rowspan="1">0.117 
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Mean±SD</td>
+    <td colspan="2" align="center" rowspan="1">120.0±12.82</td>
+    <td colspan="2" align="center" rowspan="1">145.9±13.22</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Use rate of opioids, n (%)</td>
+    <td colspan="2" rowspan="1"/>
+    <td colspan="2" align="center" rowspan="1">0.004 
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td colspan="2" align="center" rowspan="1">18 (43.9)</td>
+    <td colspan="2" align="center" rowspan="1">30 (75.0)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Equivalent dose of morphine (mg)•</td>
+    <td colspan="2" rowspan="1"/>
+    <td colspan="2" align="center" rowspan="1">0.182 
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Mean±SD</td>
+    <td colspan="2" align="center" rowspan="1">8.935±3.660</td>
+    <td colspan="2" align="center" rowspan="1">12.83±8.097</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tfn0004">
+   <p>
+    <bold>Notes:</bold>
+    <sup>a</sup>Chi-squared test (
+    <italic>Χ</italic>
+    <sup>2</sup>); 
+    <sup>b</sup>Wilcoxon rank sum test; 
+    <sup>c</sup>Generalized estimating equation; •We used an equivalent dose of morphine, pethidine: pentazocine: dezocine: morphine=100mg: 45mg: 10mg: 10mg.
+   </p>
+  </fn>
+  <fn id="tfn0005">
+   <p>
+    <bold>Abbreviation:</bold> POD, postoperative day.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

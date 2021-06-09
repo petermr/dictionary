@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-2359-6308</contrib-id>
+  <name>
+   <surname>Lusho</surname>
+   <given-names>Sejdi</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>∗</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Durando</surname>
+   <given-names>Xavier</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bidet</surname>
+   <given-names>Yannick</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff4">
+   <sup>d</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Molnar</surname>
+   <given-names>Ioana</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kossai</surname>
+   <given-names>Myriam</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff5">
+   <sup>e</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bernadach</surname>
+   <given-names>Maureen</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lacrampe</surname>
+   <given-names>Nathalie</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff5">
+   <sup>e</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Veyssiere</surname>
+   <given-names>Hugo</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cavaille</surname>
+   <given-names>Mathias</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff6">
+   <sup>f</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gay-Bellile</surname>
+   <given-names>Mathilde</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff6">
+   <sup>f</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Radosevic-Robin</surname>
+   <given-names>Nina</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff5">
+   <sup>e</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Abrial</surname>
+   <given-names>Catherine</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+</contrib-group>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Outcomes and assessments.</p>
+ </caption>
+ <table frame="hsides" rules="groups" border="0">
+  <thead>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1">Specific variable</td>
+    <td align="center" rowspan="1" colspan="1">Assessment</td>
+    <td align="center" rowspan="1" colspan="1">T0</td>
+    <td align="center" rowspan="1" colspan="1">T1</td>
+    <td align="center" rowspan="1" colspan="1">T2</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Primary outcome</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Muscle fiber size</td>
+    <td align="left" rowspan="1" colspan="1">Muscle fiber CSA</td>
+    <td align="left" rowspan="1" colspan="1">Cross-sections of muscle fiber</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Secondary outcomes</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>Regulators of muscle fiber size and function</italic>
+    </td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Number of myonuclei and satellite cells per muscle fiber</td>
+    <td align="left" rowspan="1" colspan="1">Myonuclei/fiber, SC/fiber</td>
+    <td align="left" rowspan="1" colspan="1">Cross-sections of muscle fiber</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Proteins involved in muscle protein synthesis and degradation</td>
+    <td align="left" rowspan="1" colspan="1">PI3K/Akt/mTOR-pathway; including but not limited to: mTOR, P70s6k, 4EBP1, eIF4A, FOXO Ubiquitin ligase E2, LC3 (I and II), p62, myostatin, as well as ubiquitinated proteins</td>
+    <td align="left" rowspan="1" colspan="1">Western blot</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Indicators of cellular stress</td>
+    <td align="left" rowspan="1" colspan="1">Hsp27, αB-crystalline, Hsp60, Hsp70</td>
+    <td align="left" rowspan="1" colspan="1">Western blot</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Mitochondrial function</td>
+    <td align="left" rowspan="1" colspan="1">Mitochondrial structure</td>
+    <td align="left" rowspan="1" colspan="1">Cross-sections and whole fiber preparations of muscle biopsies</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">CS, Cox 4 and HAD</td>
+    <td align="left" rowspan="1" colspan="1">Western blot</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <italic>Myokines</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Potential anti-tumor myokines</td>
+    <td align="left" rowspan="1" colspan="1">Including, but not limited to: IL-6, IL-15, SPARC, TWEAK, IL-8, IL-10, IL-1β, IFN-γ, TNF-α, TNFR1</td>
+    <td align="left" rowspan="1" colspan="1">mRNA levels by real-time PCR analyses and protein levels by Western blot and ELISA</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <italic>Muscle Strength</italic>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Upper extremities</td>
+    <td align="left" rowspan="1" colspan="1">1RM, chest press.</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Lower extremities</td>
+    <td align="left" rowspan="1" colspan="1">1RM, single leg press</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <italic>Cardio-respiratory fitness</italic>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">VO
+     <sub>2max</sub>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Maximal oxygen uptake test</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <italic>Body composition</italic>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Fat free mass, Fat mass</td>
+    <td align="left" rowspan="1" colspan="1">BodPod, BIA</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Body mass index</td>
+    <td align="left" rowspan="1" colspan="1">Weight and height</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <italic>Biomarkers of oxygen transportation, stress, inflammation, metabolic outcomes and muscle damage</italic>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Hemoglobin, serum-cortisol, HbA1c, blood lipids, CRP and CK-MB</td>
+    <td align="left" rowspan="1" colspan="1">Standardized clinical measures</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>Sociodemographic</italic>
+    </td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Age, partnership, number and age of children living at home, education, income, work and sick leave</td>
+    <td align="left" rowspan="1" colspan="1">Study-specific questionnaire</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <italic>Lifestyle, quality of life and fatigue</italic>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Dietary habits, alcohol consumption, tobacco use, motivation, self-efficacy and barriers to training. Health-related quality of life, Cancer related fatigue</td>
+    <td align="left" rowspan="1" colspan="1">Study-specific questionnaire, EORTC QLQ-C30, QLQ-BR25, MFI</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <italic>Physical activity</italic>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Physical activity level</td>
+    <td align="left" rowspan="1" colspan="1">Sensewear Armband</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <italic>Disease and treatment</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Disease specific information</td>
+    <td align="left" rowspan="1" colspan="1">Diagnosis Type, dose and side-effects of, and adherence to oncological treatment</td>
+    <td align="left" rowspan="1" colspan="1">Medical records</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <italic>Adverse events</italic>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Adverse events occurring during exercise training sessions</td>
+    <td align="left" rowspan="1" colspan="1">Reported by coaches</td>
+    <td rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Adverse events occurring during muscle biopsy sampling</td>
+    <td align="left" rowspan="1" colspan="1">Reported by technicians</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+    <td align="center" rowspan="1" colspan="1">x</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn fn-type="other">
+   <p>4EBP1 = Eukaryotic translation initiation factor 4E-binding protein 1, BIA = Bioelectrical impedance analysis, CK-MB = creatine kinase-myocardial band, Cox 4 = cytochrome c oxidase subunit 4, CRP = C-reactive protein, CS = citrate synthase, CSA = cross-sectional area, eIF4A = eukaryotic initiation factor-4A, EORTC QLQ-C30 = European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire Core 30, HAD = 3-hydroxyacyl-CoA-dehydrogenase, Hsp27, 60 and 70 = heat shock protein 27, 60 and 70, IFN-γ = Interferon gamma, IL-6, -8, -10, -15, -1β = Interleukin- 6, -8, -10, -15 and 1beta, MFI = Multidimensional fatigue inventory, mTOR = mechanistic target of rapamycin, p62 = ubiquitin-binding protein p62, P70s6k = ribosomal protein S6 kinase, QLQ-BR25 = The European organization for research and treatment of cancer quality of life questionnaire, SC = satellite cell, SPARC = secreted protein acidic and rich in cysteine (Osteonectin), T0 = before start of chemotherapy and training intervention, T1 = after chemotherapy and training intervention, T2 = 6-month follow-up, TNF-α = tumor necrosis factor alpha, TNFR1 = tumor necrosis factor receptor 1, TWEAK = TNF-related weak inducer of apoptosis, VO
+    <sup>2</sup>max = maximal oxygen uptake.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

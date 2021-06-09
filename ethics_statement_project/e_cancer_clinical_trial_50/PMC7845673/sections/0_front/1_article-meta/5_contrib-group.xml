@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="author-20406157" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1188-3158</contrib-id>
+  <name>
+   <surname>Schmucker</surname>
+   <given-names>Christine</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-81738647" contrib-type="author">
+  <name>
+   <surname>Nagavci</surname>
+   <given-names>Blin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-81738707" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-9291-9695</contrib-id>
+  <name>
+   <surname>Hipp</surname>
+   <given-names>Julian</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-50422473" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-5610-9425</contrib-id>
+  <name>
+   <surname>Schmoor</surname>
+   <given-names>Claudia</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+ <contrib id="author-81738759" contrib-type="author">
+  <name>
+   <surname>Meerpohl</surname>
+   <given-names>Joerg</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="aff" rid="aff4">4</xref>
+ </contrib>
+ <contrib id="author-58158435" contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-3485-7446</contrib-id>
+  <name>
+   <surname>Hoeppner</surname>
+   <given-names>Jens</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+  <xref ref-type="aff" rid="aff5">5</xref>
+ </contrib>
+</contrib-group>

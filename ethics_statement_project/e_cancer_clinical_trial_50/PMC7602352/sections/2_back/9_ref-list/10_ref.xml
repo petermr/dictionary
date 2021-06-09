@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Awad</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Fogarty</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Hong</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Kelly</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Ng</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Santos</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Hippocampal avoidance with volumetric modulated arc therapy in melanoma brain metastases – the first Australian experience</article-title>
+  <source>Radiat Oncol</source>
+  <year>2013</year>
+  <volume>8</volume>
+  <fpage>62</fpage>
+  <pub-id pub-id-type="doi">10.1186/1748-717X-8-62</pub-id>
+  <?supplied-pmid 23497418?>
+  <pub-id pub-id-type="pmid">23497418</pub-id>
+ </element-citation>
+</ref>

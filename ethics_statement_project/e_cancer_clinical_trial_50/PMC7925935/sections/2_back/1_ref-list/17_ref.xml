@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R17">
+ <label>17</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>He</surname>
+    <given-names>B-M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Chen</surname>
+    <given-names>R</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Shi</surname>
+    <given-names>Z-K</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Trans-perineal template-guided mapping biopsy vs. freehand trans-perineal biopsy in Chinese patients with PSA</article-title>. 
+  <source>Front Oncol</source>
+  <year>2019</year>;
+  <volume>9</volume>:
+  <elocation-id>758</elocation-id>. 
+  <pub-id pub-id-type="doi">10.3389/fonc.2019.00758</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/31448239?>
+  <pub-id pub-id-type="pmid">31448239</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Treatment-related adverse events of PD-1 and PD-L1 inhibitors in clinical trials: a systematic review and meta-analysis</article-title>
+  <source>JAMA Oncol</source>
+  <year>2019</year>
+  <volume>5</volume>
+  <issue>7</issue>
+  <fpage>1008</fpage>
+  <lpage>1019</lpage>
+  <pub-id pub-id-type="doi">10.1001/jamaoncol.2019.0393</pub-id>
+  <?supplied-pmid 31021376?>
+  <pub-id pub-id-type="pmid">31021376</pub-id>
+ </element-citation>
+</ref>

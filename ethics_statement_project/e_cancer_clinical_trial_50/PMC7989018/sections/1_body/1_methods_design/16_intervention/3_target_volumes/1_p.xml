@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par104">
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par105">Gross Tumour Volume (GTV): GTV include the gross tumour as determined by imaging using CT or MRI or PET/CT.</p>
+  </list-item>
+  <list-item>
+   <p id="Par106">Internal Gross Tumour Volume (iGTV): Depends on tumour location. The iGTV encompass GTV in motion and contoured using MIP.</p>
+  </list-item>
+  <list-item>
+   <p id="Par107">Clinical Target Volume (CTV): Margin to account for microscopic disease depends on tumour location.</p>
+  </list-item>
+  <list-item>
+   <p id="Par108">Planning Target Volume (PTV): Uniform expansion on CTV. PTV = CTV + 1–5 mm margin.</p>
+  </list-item>
+ </list>
+</p>

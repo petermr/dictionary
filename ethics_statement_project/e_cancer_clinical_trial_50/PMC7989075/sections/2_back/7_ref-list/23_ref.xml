@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Katz</surname>
+    <given-names>MH</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Sundar</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Varadhachary</surname>
+    <given-names>GR</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Validation of a proposed tumor regression grading scheme for pancreatic ductal adenocarcinoma after Neoadjuvant therapy as a prognostic Indicator for survival</article-title>
+  <source>Am J Surg Pathol</source>
+  <year>2016</year>
+  <volume>40</volume>
+  <issue>12</issue>
+  <fpage>1653</fpage>
+  <lpage>1660</lpage>
+  <pub-id pub-id-type="doi">10.1097/PAS.0000000000000738</pub-id>
+  <?supplied-pmid 27631521?>
+  <pub-id pub-id-type="pmid">27631521</pub-id>
+ </element-citation>
+</ref>

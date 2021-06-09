@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R7">
+ <label>7</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>van Hagen</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Hulshof</surname>
+    <given-names>MCCM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>van Lanschot</surname>
+    <given-names>JJB</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Preoperative chemoradiotherapy for esophageal or junctional cancer</article-title>. 
+  <source>N Engl J Med</source>
+  <year>2012</year>;
+  <volume>366</volume>:
+  <fpage>2074</fpage>–
+  <lpage>84</lpage>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1112088</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/22646630?>
+  <pub-id pub-id-type="pmid">22646630</pub-id>
+ </mixed-citation>
+</ref>

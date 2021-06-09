@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R8">
+ <label>[8]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Orditura</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Galizia</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Diana</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Neutrophil to lymphocyte ratio (NLR) for prediction of distant metastasis-free survival (DMFS) in early breast cancer: a propensity score-matched analysis</article-title>. 
+  <source>ESMO Open</source>
+  <year>2016</year>;
+  <volume>1</volume>:
+  <fpage>e000038</fpage>
+  <comment>doi: 10.1136/esmoopen-2016-000038</comment>.
+  <pub-id pub-id-type="pmid">27843594</pub-id>
+ </mixed-citation>
+</ref>

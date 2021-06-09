@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>HPV</term>
+   <def>
+    <p id="Par6">Human Papillomavirus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HR-HPV</term>
+   <def>
+    <p id="Par7">High Risk Human Papillomavirus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LR-HPV</term>
+   <def>
+    <p id="Par8">Low Risk Human Papillomavirus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LEEP</term>
+   <def>
+    <p id="Par9">Loop Electrosurgical Excision Procedure</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CIN</term>
+   <def>
+    <p id="Par10">Cervical Intraepithelial Neoplasia</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IQR</term>
+   <def>
+    <p id="Par11">Interquartile Range</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CICAMS</term>
+   <def>
+    <p id="Par12">Cancer Institute of the Chinese Academy of Medical Sciences</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VE</term>
+   <def>
+    <p id="Par13">Vaccine Efficacy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VAIN</term>
+   <def>
+    <p id="Par14">Vaginal Intraepithelial Neoplasia</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ASCUS</term>
+   <def>
+    <p id="Par15">Atypical Squamous Cells of Undetermined Significance</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ASCH</term>
+   <def>
+    <p id="Par16">Atypical Squamous Cell, but cannot exclude high-grade squamous intraepithelial lesion</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AGC</term>
+   <def>
+    <p id="Par17">Atypical Glandular Cells</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LSIL+</term>
+   <def>
+    <p id="Par18">Low-grade Squamous Intraepithelial Lesion or worse</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HSIL+</term>
+   <def>
+    <p id="Par19">High-grade Squamous Intraepithelial Lesion or worse</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CI</term>
+   <def>
+    <p id="Par20">Confidence Interval</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R12">
+ <label>12</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Douillard</surname>
+    <given-names>J-Y</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Rosell</surname>
+    <given-names>R</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>De Lena</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Adjuvant vinorelbine plus cisplatin versus observation in patients with completely resected stage IB-IIIA non-small-cell lung cancer (Adjuvant Navelbine International Trialist Association [ANITA]): a randomised controlled trial</article-title>. 
+  <source>Lancet Oncol</source>
+  <year>2006</year>;
+  <volume>7</volume>:
+  <fpage>719</fpage>–
+  <lpage>27</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(06)70804-X</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/16945766?>
+  <pub-id pub-id-type="pmid">16945766</pub-id>
+ </mixed-citation>
+</ref>

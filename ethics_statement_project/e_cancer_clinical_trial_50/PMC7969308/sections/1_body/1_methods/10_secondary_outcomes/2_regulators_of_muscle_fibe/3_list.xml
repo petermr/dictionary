@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="simple">
+ <list-item>
+  <label>1.</label>
+  <p>number of myonuclei per muscle fiber,</p>
+ </list-item>
+ <list-item>
+  <label>2.</label>
+  <p>number of SCs per muscle fiber,</p>
+ </list-item>
+ <list-item>
+  <label>3.</label>
+  <p>proteins involved in muscle protein degradation (muscle breakdown), and</p>
+ </list-item>
+ <list-item>
+  <label>4.</label>
+  <p>regulators of muscle protein synthesis (local growth factors).</p>
+ </list-item>
+</list>

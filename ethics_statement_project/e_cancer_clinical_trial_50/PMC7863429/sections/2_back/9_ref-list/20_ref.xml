@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lipton</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Costa</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Ali</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Demers</surname>
+    <given-names>LM</given-names>
+   </name>
+  </person-group>
+  <article-title>Bone markers in the management of metastatic bone disease</article-title>
+  <source>Cancer Treat Rev</source>
+  <year>2001</year>
+  <volume>27</volume>
+  <issue>3</issue>
+  <fpage>181</fpage>
+  <lpage>185</lpage>
+  <pub-id pub-id-type="doi">10.1053/ctrv.2000.0212</pub-id>
+  <pub-id pub-id-type="pmid">11417969</pub-id>
+ </element-citation>
+</ref>

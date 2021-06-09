@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Baseline (before radiotherapy) characteristics of participants, frequency (%).</p>
+ </caption>
+ <table frame="hsides" rules="groups" border="0">
+  <thead>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Characteristics</td>
+    <td align="center" rowspan="1" colspan="1">Experimental (n = 31)</td>
+    <td align="center" rowspan="1" colspan="1">Control (n = 30)</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>P</italic>
+    </td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Age (yr), mean (standard deviation, SD)</td>
+    <td align="center" rowspan="1" colspan="1">56.13 (12.84)</td>
+    <td align="center" rowspan="1" colspan="1">59.30 (12.09)</td>
+    <td align="center" rowspan="1" colspan="1">.325
+     <sup>∗</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" colspan="4" rowspan="1">Gender</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Male</td>
+    <td align="center" rowspan="1" colspan="1">19 (61.3)</td>
+    <td align="center" rowspan="1" colspan="1">17 (56.7)</td>
+    <td align="center" rowspan="1" colspan="1">.714</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Female</td>
+    <td align="center" rowspan="1" colspan="1">12 (38.7)</td>
+    <td align="center" rowspan="1" colspan="1">13 (43.3)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="4" rowspan="1">Education</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> ≤ middle school</td>
+    <td align="center" rowspan="1" colspan="1">6 (19.4)</td>
+    <td align="center" rowspan="1" colspan="1">9 (30.0)</td>
+    <td align="center" rowspan="1" colspan="1">.194</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> High school</td>
+    <td align="center" rowspan="1" colspan="1">11 (35.5)</td>
+    <td align="center" rowspan="1" colspan="1">14 (46.7)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> ≥ College</td>
+    <td align="center" rowspan="1" colspan="1">14 (45.2)</td>
+    <td align="center" rowspan="1" colspan="1">7 (23.3)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="4" rowspan="1">Occupation</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> White collar</td>
+    <td align="center" rowspan="1" colspan="1">6 (19.4)</td>
+    <td align="center" rowspan="1" colspan="1">5 (16.7)</td>
+    <td align="center" rowspan="1" colspan="1">.925</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Blue collar</td>
+    <td align="center" rowspan="1" colspan="1">11 (35.5)</td>
+    <td align="center" rowspan="1" colspan="1">10 (33.3)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Unemployed</td>
+    <td align="center" rowspan="1" colspan="1">14 (45.2)</td>
+    <td align="center" rowspan="1" colspan="1">15 (50.0)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Smoking</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Never</td>
+    <td align="center" rowspan="1" colspan="1">15 (48.4)</td>
+    <td align="center" rowspan="1" colspan="1">15 (50.0)</td>
+    <td align="center" rowspan="1" colspan="1">.990</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Former</td>
+    <td align="center" rowspan="1" colspan="1">14 (45.2)</td>
+    <td align="center" rowspan="1" colspan="1">13 (43.3)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Current</td>
+    <td align="center" rowspan="1" colspan="1">2 (6.5)</td>
+    <td align="center" rowspan="1" colspan="1">2 (6.7)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Drinking</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Never</td>
+    <td align="center" rowspan="1" colspan="1">12 (38.7)</td>
+    <td align="center" rowspan="1" colspan="1">13 (43.3)</td>
+    <td align="center" rowspan="1" colspan="1">.467</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Former</td>
+    <td align="center" rowspan="1" colspan="1">18 (58.1)</td>
+    <td align="center" rowspan="1" colspan="1">14 (46.7)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Current</td>
+    <td align="center" rowspan="1" colspan="1">1 (3.2)</td>
+    <td align="center" rowspan="1" colspan="1">3 (10.0)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="4" rowspan="1">Tumor site</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Nasopharynx</td>
+    <td align="center" rowspan="1" colspan="1">6 (19.4)</td>
+    <td align="center" rowspan="1" colspan="1">5 (16.7)</td>
+    <td align="center" rowspan="1" colspan="1">.894</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Larynx</td>
+    <td align="center" rowspan="1" colspan="1">6 (19.4)</td>
+    <td align="center" rowspan="1" colspan="1">8 (26.7)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Oral cavity+Oropharynx</td>
+    <td align="center" rowspan="1" colspan="1">10 (32.3)</td>
+    <td align="center" rowspan="1" colspan="1">10 (33.3)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Others</td>
+    <td align="center" rowspan="1" colspan="1">9 (29.0)</td>
+    <td align="center" rowspan="1" colspan="1">7 (23.3)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

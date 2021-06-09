@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R13">
+ <label>[13]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Torre</surname>
+    <given-names>LA</given-names>
+   </name>
+   <name>
+    <surname>Siegel</surname>
+    <given-names>RL</given-names>
+   </name>
+   <name>
+    <surname>Jemal</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Lung cancer statistics</article-title>. 
+  <source>Adv Exp Med Biol</source>
+  <year>2016</year>;
+  <volume>893</volume>:
+  <fpage>1</fpage>–
+  <lpage>9</lpage>.
+  <pub-id pub-id-type="pmid">26667336</pub-id>
+ </mixed-citation>
+</ref>

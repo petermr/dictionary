@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ercolani</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Grazi</surname>
+    <given-names>GL</given-names>
+   </name>
+   <name>
+    <surname>Ravaioli</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>del Gaudio</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Gardini</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Cescon</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Varotti</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Cetta</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Cavallari</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Liver resection for hepatocellular carcinoma on cirrhosis: univariate and multivariate analysis of risk factors for intrahepatic recurrence</article-title>
+  <source>Ann Surg</source>
+  <year>2003</year>
+  <volume>237</volume>
+  <issue>4</issue>
+  <fpage>536</fpage>
+  <lpage>543</lpage>
+  <pub-id pub-id-type="doi">10.1097/01.SLA.0000059988.22416.F2</pub-id>
+  <?supplied-pmid 1514472?>
+  <pub-id pub-id-type="pmid">12677151</pub-id>
+ </element-citation>
+</ref>

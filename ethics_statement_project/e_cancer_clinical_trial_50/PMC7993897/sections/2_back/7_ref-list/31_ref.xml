@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Postow</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Sidlow</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Hellmann</surname>
+    <given-names>MD</given-names>
+   </name>
+  </person-group>
+  <article-title>Immune-related adverse events associated with immune checkpoint blockade</article-title>
+  <source>N Engl J Med</source>
+  <year>2018</year>
+  <volume>378</volume>
+  <issue>2</issue>
+  <fpage>158</fpage>
+  <lpage>168</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMra1703481</pub-id>
+  <pub-id pub-id-type="pmid">29320654</pub-id>
+ </element-citation>
+</ref>

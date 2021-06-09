@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hughes</surname>
+    <given-names>RT</given-names>
+   </name>
+   <name>
+    <surname>Masters</surname>
+    <given-names>AH</given-names>
+   </name>
+   <name>
+    <surname>McTyre</surname>
+    <given-names>ER</given-names>
+   </name>
+   <name>
+    <surname>Farris</surname>
+    <given-names>MK</given-names>
+   </name>
+   <name>
+    <surname>Chung</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Page</surname>
+    <given-names>BR</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Initial SRS for patients with 5 to 15 brain metastases: results of a multi-institutional experience</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>2019</year>
+  <volume>104</volume>
+  <fpage>1091</fpage>
+  <lpage>1098</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2019.03.052</pub-id>
+  <?supplied-pmid 30959122?>
+  <pub-id pub-id-type="pmid">30959122</pub-id>
+ </element-citation>
+</ref>

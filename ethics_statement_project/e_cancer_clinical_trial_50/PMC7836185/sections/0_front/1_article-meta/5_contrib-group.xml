@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8548-9498</contrib-id>
+  <name>
+   <surname>Shrestha</surname>
+   <given-names>Aamod Dhoj</given-names>
+  </name>
+  <address>
+   <email>aamod.shrestha@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Neupane</surname>
+   <given-names>Dinesh</given-names>
+  </name>
+  <address>
+   <email>neupane.dinesh@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ghimire</surname>
+   <given-names>Sarita</given-names>
+  </name>
+  <address>
+   <email>saghimire@hotmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Campbell</surname>
+   <given-names>Christine</given-names>
+  </name>
+  <address>
+   <email>christine.campbell@ed.ac.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kallestrup</surname>
+   <given-names>Per</given-names>
+  </name>
+  <address>
+   <email>kallestrup@dadlnet.dk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.7048.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1956 2722</institution-id>
+   <institution>Center for Global Health, Department of Public Health, </institution>
+   <institution>Aarhus University, </institution>
+  </institution-wrap>Aarhus, Denmark 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>COBIN, Nepal Development Society, Bharatpur, Nepal 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.21107.35</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2171 9311</institution-id>
+   <institution>Johns Hopkins Bloomberg School of Public Health, </institution>
+  </institution-wrap>Baltimore, MD USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>Nepal Cancer Care Foundation, Lalitpur, Nepal 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.4305.2</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 7988</institution-id>
+   <institution>Usher Institute, University of Edinburgh, </institution>
+  </institution-wrap>Edinburgh, EH8 9AG UK 
+ </aff>
+</contrib-group>

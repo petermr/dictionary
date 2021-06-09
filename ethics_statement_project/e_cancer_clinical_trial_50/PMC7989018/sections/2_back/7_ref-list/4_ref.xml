@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Goetz</surname>
+    <given-names>MP</given-names>
+   </name>
+   <name>
+    <surname>Toi</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Campone</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Sohn</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Paluch-Shimon</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Huober</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Park</surname>
+    <given-names>IH</given-names>
+   </name>
+   <name>
+    <surname>Trédan</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>SC</given-names>
+   </name>
+   <name>
+    <surname>Manso</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Freedman</surname>
+    <given-names>OC</given-names>
+   </name>
+   <name>
+    <surname>Garnica Jaliffe</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Forrester</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Frenzel</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Barriga</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>IC</given-names>
+   </name>
+   <name>
+    <surname>Bourayou</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>di Leo</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>MONARCH 3: abemaciclib as initial therapy for advanced breast cancer</article-title>
+  <source>J Clin Oncol</source>
+  <year>2017</year>
+  <volume>35</volume>
+  <issue>32</issue>
+  <fpage>3638</fpage>
+  <lpage>3646</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2017.75.6155</pub-id>
+  <?supplied-pmid 28968163?>
+  <pub-id pub-id-type="pmid">28968163</pub-id>
+ </element-citation>
+</ref>

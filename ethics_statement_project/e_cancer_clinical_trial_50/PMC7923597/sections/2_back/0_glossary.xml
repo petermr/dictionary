@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>HIPEC</term>
+   <def>
+    <p id="Par5">Hyperthermic intraperitoneal chemotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RFS</term>
+   <def>
+    <p id="Par6">Relapse free survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BSA</term>
+   <def>
+    <p id="Par7">Body surface area</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Alb</term>
+   <def>
+    <p id="Par8">Albumin</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>KPS</term>
+   <def>
+    <p id="Par9">Karnofsky performance score</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BMI</term>
+   <def>
+    <p id="Par10">Body mass index</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MSS/MSI</term>
+   <def>
+    <p id="Par11">Micro-satellite stable/instable</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

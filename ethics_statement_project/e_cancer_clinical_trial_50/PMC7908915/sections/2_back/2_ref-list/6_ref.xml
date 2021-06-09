@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R6">
+ <label>6</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Davis</surname>
+    <given-names>ID</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Martin</surname>
+    <given-names>AJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Stockler</surname>
+    <given-names>MR</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Enzalutamide with standard first-line therapy in metastatic prostate cancer</article-title>. 
+  <source>N Engl J Med</source>
+  <year>2019</year>;
+  <volume>381</volume>:
+  <fpage>121</fpage>–
+  <lpage>31</lpage>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1903835</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/31157964?>
+  <pub-id pub-id-type="pmid">31157964</pub-id>
+ </mixed-citation>
+</ref>

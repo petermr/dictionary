@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bjh17168-bib-0003">
+ <label>3</label>
+ <mixed-citation publication-type="journal" id="bjh17168-cit-0003">
+  <string-name>
+   <surname>Williamson</surname>
+   <given-names>EJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Walker</surname>
+   <given-names>AJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Bhaskaran</surname>
+   <given-names>K</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Bacon</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Bates</surname>
+   <given-names>C</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Morton</surname>
+   <given-names>CE</given-names>
+  </string-name>, et al. 
+  <article-title>Factors associated with COVID‐19‐related death using OpenSAFELY</article-title>. 
+  <source xml:lang="en">Nature</source>. 
+  <year>2020</year>;
+  <volume>584</volume>:
+  <fpage>430</fpage>–
+  <lpage>6</lpage>.
+  <pub-id pub-id-type="pmid">32640463</pub-id>
+ </mixed-citation>
+</ref>

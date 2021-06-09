@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhao</surname>
+   <given-names>Shuang</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Hu</surname>
+   <given-names>Shangying</given-names>
+  </name>
+  <address>
+   <email>shangyinghu@cicams.ac.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Xiaoqian</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Xun</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pan</surname>
+   <given-names>Qinjing</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Feng</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Zhao</surname>
+   <given-names>Fanghui</given-names>
+  </name>
+  <address>
+   <email>zhaofangh@cicams.ac.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.506261.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0706 7839</institution-id>
+   <institution>Department of Epidemiology, National Cancer Center/ National Clinical Research Center for Cancer/Cancer Hospital, </institution>
+   <institution>Chinese Academy of Medical Sciences and Peking Union Medical College, </institution>
+  </institution-wrap>17 South Panjiayuan Lane, PO Box 2258, Beijing, 100021 China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.506261.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0706 7839</institution-id>
+   <institution>Department of Cytology and Pathology, National Cancer Center/ National Clinical Research Center for Cancer/Cancer Hospital, </institution>
+   <institution>Chinese Academy of Medical Sciences and Peking Union Medical College, </institution>
+  </institution-wrap>Beijing, 100021 China 
+ </aff>
+</contrib-group>

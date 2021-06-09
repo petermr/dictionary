@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ossio</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Roldan-Marin</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Martinez-Said</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Adams</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Robles-Espinoza</surname>
+    <given-names>CD</given-names>
+   </name>
+  </person-group>
+  <article-title>Melanoma: a global perspective</article-title>
+  <source>Nat Rev Cancer</source>
+  <year>2017</year>
+  <volume>17</volume>
+  <issue>7</issue>
+  <fpage>393</fpage>
+  <lpage>394</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrc.2017.43</pub-id>
+  <?supplied-pmid 28450704?>
+  <pub-id pub-id-type="pmid">28450704</pub-id>
+ </element-citation>
+</ref>

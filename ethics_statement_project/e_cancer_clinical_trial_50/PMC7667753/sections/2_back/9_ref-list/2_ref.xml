@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schiffman</surname>
+    <given-names>MH</given-names>
+   </name>
+   <name>
+    <surname>Bauer</surname>
+    <given-names>HM</given-names>
+   </name>
+   <name>
+    <surname>Hoover</surname>
+    <given-names>RN</given-names>
+   </name>
+   <name>
+    <surname>Glass</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>Cadell</surname>
+    <given-names>DM</given-names>
+   </name>
+   <name>
+    <surname>Rush</surname>
+    <given-names>BB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Epidemiologic evidence showing that human papillomavirus infection causes most cervical intraepithelial neoplasia</article-title>
+  <source>J Natl Cancer Inst</source>
+  <year>1993</year>
+  <volume>85</volume>
+  <issue>12</issue>
+  <fpage>958</fpage>
+  <lpage>964</lpage>
+  <pub-id pub-id-type="doi">10.1093/jnci/85.12.958</pub-id>
+  <?supplied-pmid 8388478?>
+  <pub-id pub-id-type="pmid">8388478</pub-id>
+ </element-citation>
+</ref>

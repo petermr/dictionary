@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R40">
+ <label>40</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Boevé</surname>
+    <given-names>LMS</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Hulshof</surname>
+    <given-names>MCCM</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Vis</surname>
+    <given-names>AN</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Effect on survival of androgen deprivation therapy alone compared to androgen deprivation therapy combined with concurrent radiation therapy to the prostate in patients with primary bone metastatic prostate cancer in a prospective randomised clinical trial: data from the HORRAD trial</article-title>. 
+  <source>Eur Urol</source>
+  <year>2019</year>;
+  <volume>75</volume>:
+  <elocation-id>e129</elocation-id>:
+  <fpage>410</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.eururo.2018.09.008</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30266309?>
+  <pub-id pub-id-type="pmid">30591351</pub-id>
+ </mixed-citation>
+</ref>

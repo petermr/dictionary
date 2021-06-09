@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R15">
+ <label>15</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Taketa</surname>
+    <given-names>T</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Xiao</surname>
+    <given-names>L</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Sudo</surname>
+    <given-names>K</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Propensity-based matching between esophagogastric cancer patients who had surgery and who declined surgery after preoperative chemoradiation</article-title>. 
+  <source>Oncology</source>
+  <year>2013</year>;
+  <volume>85</volume>:
+  <fpage>95</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1159/000351999</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/23860252?>
+  <pub-id pub-id-type="pmid">23860252</pub-id>
+ </mixed-citation>
+</ref>

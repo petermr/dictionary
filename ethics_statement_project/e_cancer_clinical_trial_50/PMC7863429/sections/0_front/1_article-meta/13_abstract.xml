@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">Stereotactic Body Radiation Therapy (SBRT) is an innovative modality based on high precision planning and delivery. Cancer with bone metastases and oligometastases are associated with an intermediate or good prognosis. We assume that prolonged survival rates would be achieved if both the primary tumor and metastases are controlled by local treatment. Our purpose is to demonstrate, via a multicenter randomized phase III trial, that local treatment of metastatic sites with curative intent with SBRT associated of systemic standard of care treatment would improve the progression-free survival in patients with solid tumor (breast, prostate and non-small cell lung cancer) with up to 3 bone-only metastases compared to patients who received systemic standard of care treatment alone.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par2">This is an open-labeled randomized superiority multicenter phase III trial. Patients with up to 3 bone-only metastases will be randomized in a 1:1 ratio.between Arm A (Experimental group): Standard care of treatment &amp; SBRT to all bone metastases, and Arm B (Control group): standard care of treatment.</p>
+  <p id="Par3">For patients receiving SBRT, radiotherapy dose and fractionation depends on the site of the bone metastasis and the proximity to critical normal structures. This study aims to accrue a total of 196 patients within 4 years.</p>
+  <p id="Par4">The primary endpoint is progression-free survival at 1 year, and secondary endpoints include Bone progression-free survival; Local control; Cancer-specific survival; Overall survival; Toxicity; Quality of life; Pain score analysis, Cost-utility analysis; Cost-effectiveness analysis and Budget impact analysis.</p>
+ </sec>
+ <sec>
+  <title>Discussion</title>
+  <p id="Par5">The expected benefit for the patient in the experimental arm is a longer expectancy of life without skeletal recurrence and the discomfort, pain and drastic reduction of mobility and handicap that the lack of local control of bone metastases eventually inflicts.</p>
+ </sec>
+ <sec>
+  <title>Trials registration</title>
+  <p id="Par6">ClinicalTrials.gov 
+   <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03143322?term=thureau&amp;recrs=ag&amp;cntry=FR&amp;draw=2&amp;rank=2" xmlns:xlink="http://www.w3.org/1999/xlink">NCT03143322</ext-link> Registered on May 8th 2017. Ongoing study
+  </p>
+ </sec>
+</abstract>

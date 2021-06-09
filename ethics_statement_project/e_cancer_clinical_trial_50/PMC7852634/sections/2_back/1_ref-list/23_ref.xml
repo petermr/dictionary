@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B24">
+ <label>24</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rey</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Maupetit</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Greff</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>Experimental study of biliary endoprosthesis efficiency</article-title>
+  <source>Endoscopy</source>
+  <year>1985</year>
+  <volume>17</volume>
+  <fpage>145</fpage>
+  <lpage>148</lpage>
+  <pub-id pub-id-type="pmid">2410246</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,6 @@
+0: This trial will be accomplished strictly followed the principles for medical ethics outlined in the 2013 updated Declaration of Helsinki.
+1: The study was approved by the Ethics and Research Committee of Chengdu Second People's Hospital, China (ethics reference: 2020077).
+2: This committee is an ethical approval committee organized by leading professors in their own fields.
+3: It will be obtained from all participants in advance that written and signed informed consent.
+4: This trial has been registered on  www.chictr.org.cn/edit.aspx?pid=63281&htm=4 (ChiCTR2000040942) at December 16, 2020 and will be reported squared with the CONSORT statement, [  19]  as well as STRICTA (Standards for Reporting Interventions in Clinical Trials of Acupuncture).
+5: [  20]  The Chinese Cochrane Center is responsible for the whole trial including the randomization, blinding, statistical analyses, data management, and monitoring.

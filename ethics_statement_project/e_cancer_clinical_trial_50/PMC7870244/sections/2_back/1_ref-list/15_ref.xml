@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R15">
+ <label>[15]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mazzone</surname>
+    <given-names>PJ</given-names>
+   </name>
+   <name>
+    <surname>Silvestri</surname>
+    <given-names>GA</given-names>
+   </name>
+   <name>
+    <surname>Patel</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Screening for Lung Cancer: CHEST Guideline and Expert Panel Report</article-title>. 
+  <source>CHEST</source>
+  <year>2018</year>;
+  <volume>153</volume>:
+  <fpage>954</fpage>–
+  <lpage>85</lpage>.
+  <pub-id pub-id-type="pmid">29374513</pub-id>
+ </mixed-citation>
+</ref>

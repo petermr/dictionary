@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="bullet">
+ <list-item>
+  <p>The absolute values of total white blood cells, neutrophils, lymphocytes, platelets measured in number of cells × 10
+   <sup>12</sup>/L and the PLR at diagnosis. PLR is defined as the ratio of the APC over the ALC (PLR = APC/ALC).
+  </p>
+ </list-item>
+ <list-item>
+  <p>The values of total white blood cells, neutrophils, lymphocytes, platelets, NLR, and PLR before post-NACT surgery.</p>
+ </list-item>
+ <list-item>
+  <p>TIL amount in the biopsy before cancer treatment.</p>
+ </list-item>
+ <list-item>
+  <p>TIL amount in the surgical specimen post-NACT.</p>
+ </list-item>
+ <list-item>
+  <p>Response to NACT according to the Sataloff classification.</p>
+ </list-item>
+ <list-item>
+  <p>The period of time between surgery and the last administration of chemotherapy.</p>
+ </list-item>
+ <list-item>
+  <p>The amount of ctDNA.</p>
+ </list-item>
+ <list-item>
+  <p>Metastatic recurrence.</p>
+ </list-item>
+</list>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R9">
+ <label>[9]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Holmes</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Fitzgerald</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Goldberg</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The PRESTO (Prevention of restenosis with tranilast and its outcomes) protocol: a double-blind, placebo-controlled trial</article-title>. 
+  <source>Am Heart J</source>
+  <year>2000</year>;
+  <volume>139</volume>
+  <issue>(1pt 1)</issue>:
+  <fpage>23</fpage>–
+  <lpage>31</lpage>.
+  <pub-id pub-id-type="pmid">10618558</pub-id>
+ </mixed-citation>
+</ref>

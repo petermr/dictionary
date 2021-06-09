@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Radiotherapy Planning targets, Organs at Risk and Dose Guidance</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Volume</th>
+    <th>Description</th>
+    <th>Dose Target/ Limits</th>
+    <th>Variation Acceptable</th>
+    <th>Notes</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>GTV_45Gy
+     <sup>b</sup>
+    </td>
+    <td>Contoured using fused contrast enhanced MRI images.</td>
+    <td>
+     <p>45Gy</p>
+     <p>98% covered by 100% dose</p>
+     <p>Hotspot &gt; 110% within GTV</p>
+    </td>
+    <td>95% covered by 95% dose</td>
+    <td>
+     <p>Lesion visible on at least 2 scan slices.</p>
+     <p>Coverage to be comprised to meet OAR constraints</p>
+    </td>
+   </tr>
+   <tr>
+    <td>PTV_45Gy
+     <sup>b</sup>
+    </td>
+    <td>GTV + 0-2 mm isotropic margins</td>
+    <td>
+     <p>45Gy</p>
+     <p>98% covered by 95% dose</p>
+    </td>
+    <td>90% covered by 90% dose</td>
+    <td>Coverage to be comprised to meet OAR constraints</td>
+   </tr>
+   <tr>
+    <td>GTV_40Gy
+     <sup>b</sup>
+    </td>
+    <td>Tumour volume within/ ≤5 mm from OAR</td>
+    <td>
+     <p>40Gy</p>
+     <p>95% covered by 95% dose</p>
+     <p>Hotspot &gt; 110% within GTV</p>
+    </td>
+    <td>90% covered by 95% dose</td>
+    <td>
+     <p>Lesion visible on at least 2 scan slices.</p>
+     <p>Coverage to be comprised to meet OAR constraints</p>
+    </td>
+   </tr>
+   <tr>
+    <td>PTV_40Gy
+     <sup>b</sup>
+    </td>
+    <td>PTV_40Gy = GTV_40Gy; i.e. no expansion</td>
+    <td>
+     <p>40Gy</p>
+     <p>95% covered by 95% dose</p>
+    </td>
+    <td>90% covered by 90% dose</td>
+    <td>Coverage to be comprised to meet OAR constraints</td>
+   </tr>
+   <tr>
+    <td>GTVall_5mm
+     <sup>b</sup>
+    </td>
+    <td>All GTVs + 5 mm isotropic margins</td>
+    <td>–</td>
+    <td>–</td>
+    <td>For plan optimisation</td>
+   </tr>
+   <tr>
+    <td>Left &amp; Right Hippocampus</td>
+    <td>Contoured using fused MRI as per RTOG contouring atlas (
+     <ext-link ext-link-type="uri" xlink:href="http://www.rtog.org//corelab/contouringatlases/hippocampalsparing.aspx" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.rtog.org//corelab/contouringatlases/hippocampalsparing.aspx</ext-link>), excluding any GTV
+    </td>
+    <td>
+     <p>D100% (Dose to 100% volume) ≤ 9Gy</p>
+     <p>Dmax ≤16Gy</p>
+     <p>Dmax ≤33Gy
+      <sup>a</sup>
+     </p>
+    </td>
+    <td>
+     <p>D100% ≤ 10Gy</p>
+     <p>Dmax ≤17Gy</p>
+     <p>Dmax ≤44Gy
+      <sup>ab</sup>
+     </p>
+    </td>
+    <td>Dmax to 0.03 cc</td>
+   </tr>
+   <tr>
+    <td>Hippocampal Avoidance Zone (HAZ)</td>
+    <td>Hippocampus + 5 mm isotropic margins</td>
+    <td>–</td>
+    <td>–</td>
+    <td>For plan optimization</td>
+   </tr>
+   <tr>
+    <td>Left &amp; Right Optic chiasm</td>
+    <td>–</td>
+    <td>Dmax ≤33Gy</td>
+    <td>
+     <p>Dmax ≤37.5Gy
+      <sup>b</sup>
+     </p>
+     <p>Dmax ≤40Gy
+      <sup>ab</sup>
+     </p>
+    </td>
+    <td>Dmax to 0.03 cc</td>
+   </tr>
+   <tr>
+    <td>Left &amp; Right Optic nerve</td>
+    <td>–</td>
+    <td>Dmax ≤33Gy</td>
+    <td>Dmax ≤35Gy
+     <sup>b</sup>
+    </td>
+    <td>Dmax to 0.03 cc</td>
+   </tr>
+   <tr>
+    <td>Left &amp; Right Orbits</td>
+    <td>–</td>
+    <td>Dmax ≤33Gy</td>
+    <td>Dmax ≤35Gy
+     <sup>b</sup>
+    </td>
+    <td>Dmax to 0.03 cc</td>
+   </tr>
+   <tr>
+    <td>Left &amp; Right Lens</td>
+    <td>–</td>
+    <td>Dmax ≤6Gy</td>
+    <td>Dmax ≤10Gy
+     <sup>b</sup>
+    </td>
+    <td>Dmax to 0.03 cc</td>
+   </tr>
+   <tr>
+    <td>Brain Stem</td>
+    <td>–</td>
+    <td>Dmax ≤33Gy</td>
+    <td>
+     <p>Dmax ≤37.5Gy
+      <sup>b</sup>
+     </p>
+     <p>Dmax ≤40Gy
+      <sup>ab</sup>
+     </p>
+    </td>
+    <td>Dmax to 0.03 cc</td>
+   </tr>
+   <tr>
+    <td>
+     <p>Left &amp; Right</p>
+     <p>Cochlear</p>
+    </td>
+    <td>–</td>
+    <td>Dmax ≤33Gy</td>
+    <td>Dmax ≤35Gy
+     <sup>a</sup>
+    </td>
+    <td>Dmax to 0.03 cc</td>
+   </tr>
+   <tr>
+    <td>Brain</td>
+    <td>Brain parenchyma down to cranial margin of dens</td>
+    <td>30Gy</td>
+    <td>–</td>
+    <td>–</td>
+   </tr>
+   <tr>
+    <td>PTV_Brain</td>
+    <td>(Brain + 3 mm isotropic margins) – (GTVall_5mm
+     <sup>b</sup> + HAZ)
+    </td>
+    <td>
+     <p>95% of volume covered by 30Gy</p>
+     <p>D2% ≤ 37.5Gy</p>
+     <p>D98% (Dose to 98% of volume) ≥ 25Gy</p>
+    </td>
+    <td>
+     <p>90% of volume covered by 30Gy</p>
+     <p>D98% ≥ 22.5Gy
+      <sup>b</sup>
+     </p>
+     <p>D2% ≤ 40Gy
+      <sup>b</sup>
+     </p>
+    </td>
+    <td>–</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <sup>a</sup>
+   <italic>Applicable if tumours within/ ≤5 mm from OARs</italic>
+   <sup>b</sup>
+   <italic>Only applicable to HA-SIB-WBRT plans</italic>
+  </p>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Azari</surname>
+    <given-names>FS</given-names>
+   </name>
+   <name>
+    <surname>Vollmer</surname>
+    <given-names>CM</given-names>
+    <suffix>Jr</suffix>
+   </name>
+   <name>
+    <surname>Roses</surname>
+    <given-names>RE</given-names>
+   </name>
+   <name>
+    <surname>Keele</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>DeMatteo</surname>
+    <given-names>RP</given-names>
+   </name>
+   <name>
+    <surname>Drebin</surname>
+    <given-names>JA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A contemporary analysis of palliative procedures in aborted pancreatoduodenectomy: morbidity, mortality, and impact on future therapy</article-title>
+  <source>Surgery.</source>
+  <year>2020</year>
+  <volume>168</volume>
+  <issue>6</issue>
+  <fpage>1026</fpage>
+  <lpage>1031</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.surg.2020.06.041</pub-id>
+  <?supplied-pmid 32888713?>
+  <pub-id pub-id-type="pmid">32888713</pub-id>
+ </element-citation>
+</ref>

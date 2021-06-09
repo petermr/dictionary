@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In this study, the nodules will be assessed in Intellispace Portal (current version 10) Lung analysis package. This package performs automated detection of nodules and automatic segmentation of their volume with manual adjustment by the radiologist, where necessary. Nodules that would escape automatic detection will be segmented manually (lung window) - the agreement between manual and automated segmentation is reported to be excellent.
+ <sup>[
+  <xref rid="R24" ref-type="bibr">24</xref>]
+ </sup> In lesions, where volume segmentation would be difficult or unreliable (e.g., perihilar), the effective diameter will be used (the average of 2 maximal perpendicular diameters), with the exception of broad-based subpleural lesions, where short diameter will be used instead. In non-solid nodules, the ground-glass part will be measured by effective diameter regardless of segmentation.
+</p>

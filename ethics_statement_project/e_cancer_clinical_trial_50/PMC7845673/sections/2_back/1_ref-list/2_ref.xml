@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R2">
+ <label>2</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Nimptsch</surname>
+    <given-names>U</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Mansky</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>Hospital volume and mortality for 25 types of inpatient treatment in German hospitals: observational study using complete national data from 2009 to 2014</article-title>. 
+  <source>BMJ Open</source>
+  <year>2017</year>;
+  <volume>7</volume>:
+  <elocation-id>e016184</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1136/bmjopen-2017-016184</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/28882913?>
+ </mixed-citation>
+</ref>

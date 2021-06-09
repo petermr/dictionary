@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="zoi201035r9">
+ <label>9</label>
+ <mixed-citation publication-type="journal">
+  <person-group>
+   <name name-style="western">
+    <surname>Hylton</surname>
+    <given-names>NM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Blume</surname>
+    <given-names>JD</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Bernreuter</surname>
+    <given-names>WK</given-names>
+   </name>, 
+   <etal/>; 
+   <collab>ACRIN 6657 Trial Team and I-SPY 1 TRIAL Investigators</collab>
+  </person-group>
+  <article-title>Locally advanced breast cancer: MR imaging for prediction of response to neoadjuvant chemotherapy—results from ACRIN 6657/I-SPY TRIAL</article-title>. 
+  <source>Radiology</source>. 
+  <year>2012</year>;
+  <volume>263</volume>(
+  <issue>3</issue>):
+  <fpage>663</fpage>-
+  <lpage>672</lpage>. doi:
+  <pub-id pub-id-type="doi">10.1148/radiol.12110748</pub-id>
+  <?supplied-pmid 22623692?>
+  <pub-id pub-id-type="pmid">22623692</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Melnikow</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>McGahan</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Sawaya</surname>
+    <given-names>GF</given-names>
+   </name>
+   <name>
+    <surname>Ehlen</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Coldman</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Cervical intraepithelial neoplasia outcomes after treatment: long-term follow-up from the British Columbia cohort study</article-title>
+  <source>J Natl Cancer Inst</source>
+  <year>2009</year>
+  <volume>101</volume>
+  <issue>10</issue>
+  <fpage>721</fpage>
+  <lpage>728</lpage>
+  <pub-id pub-id-type="doi">10.1093/jnci/djp089</pub-id>
+  <?supplied-pmid 19436026?>
+  <pub-id pub-id-type="pmid">19436026</pub-id>
+ </element-citation>
+</ref>

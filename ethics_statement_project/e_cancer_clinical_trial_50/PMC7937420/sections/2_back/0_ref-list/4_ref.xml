@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref4">
+ <label>4.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Kinoshita</surname>  
+    <given-names>T</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Sasako</surname>  
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Sano</surname>  
+    <given-names>T</given-names>
+   </string-name>, 
+   <etal>et al.</etal>
+  </person-group>  
+  <article-title>Phase II trial of S-1 for neoadjuvant chemotherapy against scirrhous gastric cancer (JCOG 0002)</article-title>. 
+  <source>Gastric Cancer</source>  
+  <year>2009</year>;
+  <volume>12</volume>:
+  <fpage>37</fpage>–
+  <lpage>42</lpage>.
+  <pub-id pub-id-type="pmid">19390930</pub-id>
+ </mixed-citation>
+</ref>

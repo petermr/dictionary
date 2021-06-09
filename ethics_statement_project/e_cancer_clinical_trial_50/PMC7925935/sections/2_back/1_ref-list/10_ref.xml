@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R10">
+ <label>10</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Marra</surname>
+    <given-names>G</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Ploussard</surname>
+    <given-names>G</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Futterer</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Controversies in Mr targeted biopsy: alone or combined, cognitive versus software-based fusion, transrectal versus transperineal approach?</article-title>
+  <source>World J Urol</source>
+  <year>2019</year>;
+  <volume>37</volume>:
+  <elocation-id>277</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1007/s00345-018-02622-5</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30610359?>
+  <pub-id pub-id-type="pmid">30610359</pub-id>
+ </mixed-citation>
+</ref>

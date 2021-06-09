@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Murrell</surname>
+    <given-names>DH</given-names>
+   </name>
+   <name>
+    <surname>Karnas</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Corkum</surname>
+    <given-names>MT</given-names>
+   </name>
+   <name>
+    <surname>Hipwell</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Palma</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Rodrigues</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Radical radiotherapy for locally advanced non-small cell lung cancer—what’s up with arm positioning?</article-title>
+  <source>J Thorac Dis</source>
+  <year>2019</year>
+  <volume>11</volume>
+  <fpage>2099</fpage>
+  <lpage>2104</lpage>
+  <pub-id pub-id-type="doi">10.21037/jtd.2019.05.40</pub-id>
+  <?supplied-pmid 31285903?>
+  <pub-id pub-id-type="pmid">31285903</pub-id>
+ </element-citation>
+</ref>

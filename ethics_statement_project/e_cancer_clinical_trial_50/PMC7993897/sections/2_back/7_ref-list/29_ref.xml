@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR29">
+ <label>29.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Champiat</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Lambotte</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Barreau</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Management of immune checkpoint blockade dysimmune toxicities: a collaborative position paper</article-title>
+  <source>Ann Oncol</source>
+  <year>2016</year>
+  <volume>27</volume>
+  <issue>4</issue>
+  <fpage>559</fpage>
+  <lpage>574</lpage>
+  <pub-id pub-id-type="doi">10.1093/annonc/mdv623</pub-id>
+  <?supplied-pmid 26715621?>
+  <pub-id pub-id-type="pmid">26715621</pub-id>
+ </element-citation>
+</ref>

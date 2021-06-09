@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R32">
+ <label>[32]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Longo</surname>
+    <given-names>DL</given-names>
+   </name>
+   <name>
+    <surname>Duffey</surname>
+    <given-names>PL</given-names>
+   </name>
+   <name>
+    <surname>DeVita</surname>
+    <given-names>VT</given-names>
+    <suffix>Jr</suffix>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>The calculation of actual or received dose intensity: a comparison of published methods</article-title>. 
+  <source>J Clin Oncol</source>
+  <year>1991</year>;
+  <volume>9</volume>:
+  <fpage>2042</fpage>–
+  <lpage>51</lpage>.
+  <pub-id pub-id-type="pmid">1941063</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R7">
+ <label>7</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>James</surname>
+    <given-names>ND</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Sydes</surname>
+    <given-names>MR</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Clarke</surname>
+    <given-names>NW</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Addition of docetaxel, zoledronic acid, or both to first-line long-term hormone therapy in prostate cancer (STAMPEDE): survival results from an adaptive, multiarm, multistage, platform randomised controlled trial</article-title>. 
+  <source>Lancet</source>
+  <year>2016</year>;
+  <volume>387</volume>:
+  <fpage>1163</fpage>–
+  <lpage>77</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(15)01037-5</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/26719232?>
+  <pub-id pub-id-type="pmid">26719232</pub-id>
+ </mixed-citation>
+</ref>

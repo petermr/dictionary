@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R26">
+ <label>26</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Golden</surname>
+    <given-names>EB</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Demaria</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Schiff</surname>
+    <given-names>PB</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>An abscopal response to radiation and ipilimumab in a patient with metastatic non-small cell lung cancer</article-title>. 
+  <source>Cancer Immunol Res</source>
+  <year>2013</year>;
+  <volume>1</volume>:
+  <fpage>365</fpage>–
+  <lpage>72</lpage>. 
+  <pub-id pub-id-type="doi">10.1158/2326-6066.CIR-13-0115</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/24563870?>
+  <pub-id pub-id-type="pmid">24563870</pub-id>
+ </mixed-citation>
+</ref>

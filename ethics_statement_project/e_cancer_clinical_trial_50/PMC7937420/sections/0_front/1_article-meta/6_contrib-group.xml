@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tsuchida</surname>
+   <given-names>Kazuhito</given-names>
+  </name>
+  <!--<email>tsuchidak610@yahoo.co.jp</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+  <aff>
+   <institution>Department of Surgery</institution>, Tokyo Metropolitan Cancer and Infectious Diseases Center Komagome Hospital, 3-18-22, Honkomagome, Bunkyo-ku, Tokyo, 113-8677 
+   <country country="JP">Japan</country>
+  </aff>
+  <xref rid="cor1" ref-type="corresp"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sato</surname>
+   <given-names>Tsutomu</given-names>
+  </name>
+  <!--<email>t_sato@yokohama-cu.ac.jp</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Aoyama</surname>
+   <given-names>Toru</given-names>
+  </name>
+  <!--<email>t-aoyama@lilac.plala.or.jp</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Atsumi</surname>
+   <given-names>Yosuke</given-names>
+  </name>
+  <!--<email>yosuke31004@gmail.com</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kano</surname>
+   <given-names>Kazuki</given-names>
+  </name>
+  <!--<email>kazuki05271981@yahoo.co.jp</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Maezawa</surname>
+   <given-names>Yukio</given-names>
+  </name>
+  <!--<email>ykzawa0@gmail.com</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+  <aff>
+   <institution>Department of Surgery</institution>, Tokyo Metropolitan Cancer and Infectious Diseases Center Komagome Hospital, 3-18-22, Honkomagome, Bunkyo-ku, Tokyo, 113-8677 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kazama</surname>
+   <given-names>Keisuke</given-names>
+  </name>
+  <!--<email>c_falcon_kk@yahoo.co.jp</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Numata</surname>
+   <given-names>Masakatsu</given-names>
+  </name>
+  <!--<email>masakatsunumata@hotmail.co.jp</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yamada</surname>
+   <given-names>Takanobu</given-names>
+  </name>
+  <!--<email>takay0218@yahoo.co.jp</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tamagawa</surname>
+   <given-names>Hiroshi</given-names>
+  </name>
+  <!--<email>tamagawahiroshi10@gmail.com</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Murakami</surname>
+   <given-names>Hitoshi</given-names>
+  </name>
+  <!--<email>airgenzo@gmail.com</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Oshima</surname>
+   <given-names>Takashi</given-names>
+  </name>
+  <!--<email>ohshimatakashi@yahoo.co.jp</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Saeki</surname>
+   <given-names>Hiroyuki</given-names>
+  </name>
+  <!--<email>saekihiroyuki@yahoo.co.jp</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cho</surname>
+   <given-names>Haruhiko</given-names>
+  </name>
+  <!--<email>choharuhiko@cick.jp</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+  <aff>
+   <institution>Department of Surgery</institution>, Tokyo Metropolitan Cancer and Infectious Diseases Center Komagome Hospital, 3-18-22, Honkomagome, Bunkyo-ku, Tokyo, 113-8677 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yukawa</surname>
+   <given-names>Norio</given-names>
+  </name>
+  <!--<email>nryukawa@yokohama-cu.ac.jp</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yamamoto</surname>
+   <given-names>Yuji</given-names>
+  </name>
+  <!--<email>y_yamamoto@fj-shounandai.or.jp</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Masuda</surname>
+   <given-names>Munetaka</given-names>
+  </name>
+  <!--<email>mmasuda@yokohama-cu.ac.jp</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rino</surname>
+   <given-names>Yasushi</given-names>
+  </name>
+  <!--<email>rino@yokohama-cu.ac.jp</email>-->
+  <aff>
+   <institution>Department of Surgery</institution>, Yokohama City University, 3-9, Fukuura, Kanazawa-ku, Yokohama City, Kanagawa, 236-0004 
+   <country country="JP">Japan</country>
+  </aff>
+ </contrib>
+</contrib-group>

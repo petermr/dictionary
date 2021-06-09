@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R43">
+ <label>43</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Sooriakumaran</surname>
+    <given-names>P</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Karnes</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Stief</surname>
+    <given-names>C</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>A multi-institutional analysis of perioperative outcomes in 106 men who underwent radical prostatectomy for distant metastatic prostate cancer at presentation</article-title>. 
+  <source>Eur Urol</source>
+  <year>2016</year>;
+  <volume>69</volume>:
+  <fpage>788</fpage>–
+  <lpage>94</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.eururo.2015.05.023</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/26038098?>
+  <pub-id pub-id-type="pmid">26038098</pub-id>
+ </mixed-citation>
+</ref>

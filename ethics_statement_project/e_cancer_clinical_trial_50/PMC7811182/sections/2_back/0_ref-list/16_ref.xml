@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="zoi201035r16">
+ <label>16</label>
+ <mixed-citation publication-type="journal">
+  <person-group>
+   <name name-style="western">
+    <surname>Des Jarlais</surname>
+    <given-names>DC</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Lyles</surname>
+    <given-names>C</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Crepaz</surname>
+    <given-names>N</given-names>
+   </name>; 
+   <collab>TREND Group</collab>
+  </person-group>
+  <article-title>Improving the reporting quality of nonrandomized evaluations of behavioral and public health interventions: the TREND statement</article-title>. 
+  <source>Am J Public Health</source>. 
+  <year>2004</year>;
+  <volume>94</volume>(
+  <issue>3</issue>):
+  <fpage>361</fpage>-
+  <lpage>366</lpage>. doi:
+  <pub-id pub-id-type="doi">10.2105/AJPH.94.3.361</pub-id>
+  <?supplied-pmid 14998794?>
+  <pub-id pub-id-type="pmid">14998794</pub-id>
+ </mixed-citation>
+</ref>

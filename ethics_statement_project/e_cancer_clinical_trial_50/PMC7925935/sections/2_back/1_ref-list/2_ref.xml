@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R2">
+ <label>2</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Caverly</surname>
+    <given-names>TJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Hayward</surname>
+    <given-names>RA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Reamer</surname>
+    <given-names>E</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Presentation of benefits and harms in US cancer screening and prevention guidelines: systematic review</article-title>. 
+  <source>J Natl Cancer Inst</source>
+  <year>2016</year>;
+  <volume>108</volume>:
+  <elocation-id>djv436</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1093/jnci/djv436</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/26917630?>
+  <pub-id pub-id-type="pmid">26917630</pub-id>
+ </mixed-citation>
+</ref>

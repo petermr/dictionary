@@ -1,0 +1,4 @@
+0: The trial will comply with the General Data Protection Regulation.
+1: Relevant approval by the Danish Data Protection Agency has been obtained.
+2: The trial is exempt from approval by the National Committee on Health Ethics Research ( http://en.nvk.dk/how-to-notify/what-to-notify).
+3: The trial is registered at  ClinicalTrials.gov.

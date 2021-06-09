@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbrevations</title>
+ <def-list>
+  <def-item>
+   <term>4D-CT</term>
+   <def>
+    <p id="Par6">Four-dimensional computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BOP-2</term>
+   <def>
+    <p id="Par7">Bayesian optimal phase 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GRBAS</term>
+   <def>
+    <p id="Par8">Grade, roughness, breathiness, asthenia, strain</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CL-RT</term>
+   <def>
+    <p id="Par9">Complete larynx radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par10">Computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CTCAE</term>
+   <def>
+    <p id="Par11">Common toxicity criteria for adverse events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CTV</term>
+   <def>
+    <p id="Par12">Clinical target volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DSMB</term>
+   <def>
+    <p id="Par13">Data safety and monitoring board</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ECOG</term>
+   <def>
+    <p id="Par14">Eastern Cooperative Oncology Group</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GTV</term>
+   <def>
+    <p id="Par15">Gross tumor volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HNC</term>
+   <def>
+    <p id="Par16">Head and neck cancer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IGRT</term>
+   <def>
+    <p id="Par17">Image-guided radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IMRT</term>
+   <def>
+    <p id="Par18">Intensity modulated radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IRB </term>
+   <def>
+    <p id="Par19">Institutional Review Board</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ITV</term>
+   <def>
+    <p id="Par20">Internal target volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>KM</term>
+   <def>
+    <p id="Par21">Kaplan meier</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LC</term>
+   <def>
+    <p id="Par22">Local control</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MDADI</term>
+   <def>
+    <p id="Par23">MD Anderson dysphagia inventory</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MDASI-HN</term>
+   <def>
+    <p id="Par24">MD Anderson Symptom inventory- Head and neck module</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MRI</term>
+   <def>
+    <p id="Par25">Magnetic resonance imaging</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OS </term>
+   <def>
+    <p id="Par26">Overall survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PTV</term>
+   <def>
+    <p id="Par27">Planning target volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PRV</term>
+   <def>
+    <p id="Par28">Planning organ at risk volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>REB</term>
+   <def>
+    <p id="Par29">Research Ethics Boar</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RT</term>
+   <def>
+    <p id="Par30">Radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VC-RT </term>
+   <def>
+    <p id="Par31">Vocal cord radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VHI-10</term>
+   <def>
+    <p id="Par32">Voice handicap index-10</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

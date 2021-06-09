@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Eligibility criteria of PRIME-HCC trial</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Key inclusion criteria</th>
+    <th>Key exclusion criteria</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>
+     <p>1. Written informed consent for the trial</p>
+     <p>2. Aged ≥18 years</p>
+     <p>3. Confirmed diagnosis of HCC</p>
+     <p>4. Willing to provide tissue from an excisional biopsy of a tumour lesion</p>
+     <p>5. Have measurable disease by CT-scan or MRI defined by RECIST 1.1 criteria</p>
+     <p>6. Ineligible for liver transplantation</p>
+     <p>7. Medically fit to undergo surgery as determined by the treating medical and surgical oncology team.</p>
+     <p>8. ECOG-PS 0 or 1</p>
+     <p>9. Adequate hematologic function, defined as WBC ≥ 2000/μl, ANC ≥ 1500/μl, platelet count ≥50,000/μl and hemoglobin ≥8.5 g/dl without transfusion or Erythropoietin dependency.</p>
+     <p>10. Adequate renal function, defined as creatinine ≤1.5× ULN or measured or calculated creatinine clearance ≥40 ml/min for those with creatinine levels &gt; 1.5× ULN</p>
+     <p>11. Adequate hepatic function, defined as total bilirubin ≤1.5× ULN, and ALT/AST levels ≤5× ULN, albumin ≥2.8 g/dL</p>
+     <p>12. Adequate coagulation function, defined as INR ≤ 1.5× ULN unless the patient is receiving anticoagulant therapy as long as PT or aPTT is within the therapeutic range</p>
+     <p>10. Overall Child-Pugh class A</p>
+     <p>11. Female patient of childbearing potential should have a negative serum pregnancy test within 24 h of her first dose of IMP</p>
+     <p>12. Women of childbearing potential must be willing to use a highly effective method of contraception</p>
+     <p>13. Sexually active males must agree to use an adequate method of contraception</p>
+    </td>
+    <td>
+     <p>1. Extrahepatic metastasis</p>
+     <p>2. Prior systemic anticancer treatment for HCC, including an anti-PD-1, anti-PD-L1 or anti-CTLA-4 antibody</p>
+     <p>3. Prior orthotopic liver transplantation</p>
+     <p>4. Any major surgery within the 3 weeks prior to enrolment</p>
+     <p>5. Hepatic encephalopathy</p>
+     <p>6. Ascites that is refractory to diuretic therapy</p>
+     <p>7. Is currently receiving anti-cancer therapy (chemotherapy, radiation therapy, immunotherapy or biologic therapy) or has participated or is participating in a study with Nivolumab or Ipilimumab or used an investigational device within 4 weeks of the first dose of IMP</p>
+     <p>8. Diagnosis of immunodeficiency or is receiving systemic steroid therapy or any other form of immunosuppressive therapy</p>
+     <p>9. Known history of active Bacillus Tuberculosis</p>
+     <p>10. History of known hypersensitivity to any monoclonal antibody or any of their excipients</p>
+     <p>11. Known additional malignancy that is progressing or requires active treatment 
+      <sup>a</sup>
+     </p>
+     <p>12. Active autoimmune disease that has required systemic treatment in the past 2 years 
+      <sup>b</sup>
+     </p>
+     <p>13. Known history of, or any evidence of active, non-infectious pneumonitis</p>
+     <p>14. Active infection requiring systemic therapy 
+      <sup>c</sup>
+     </p>
+     <p>15. History or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the trial</p>
+     <p>16. Known psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the trial</p>
+     <p>17. Pregnant or breastfeeding</p>
+     <p>18. Known history of Human Immunodeficiency Virus (HIV; HIV 1/2 antibodies)</p>
+     <p>19. Received a live vaccine within 30 days of first dose of IMP</p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>CT</italic> Computed tomography; 
+   <italic>MRI</italic> Magnetic resonance imaging; 
+   <italic>ECOG-PS</italic> Eastern cooperative oncology group-performance status; 
+   <italic>WBC</italic> White blood cells; 
+   <italic>ANC</italic> Absolute neutrophil count; 
+   <italic>ULN</italic> Upper limit of normal; 
+   <italic>ALT/AST</italic> Alanine/aspartate aminotransferase; 
+   <italic>IMP</italic> Investigational medicinal product; 
+   <italic>PTT/PT</italic> Partial thromboplastin time/prombin time; 
+   <sup>a</sup> Exceptions include basal cell carcinoma of the skin or squamous cell carcinoma of the skin that has undergone potentially curative therapy, or in situ cervical cancer; 
+   <sup>b</sup>replacement therapy (eg. thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency, etc.) is not considered a form of systemic treatment; 
+   <sup>c</sup> with the exceptions relating to Hepatitis B and C virus
+  </p>
+ </table-wrap-foot>
+</table-wrap>

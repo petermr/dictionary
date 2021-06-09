@@ -1,0 +1,5 @@
+0: This Study has been approved by Nord-Ouest I Ethics Committee and French Regulatory authorities (ANSM).
+1: French ethics committee (CPP Nord-Ouest I) has approved this protocol on October 13th 2016 (reference number: CPP 02/016/2016).
+2: The study will be performed in accordance with the Declaration of Helsinki and will comply to the International Conference on Harmonization and Good Clinical Practice and General Data Protection Regulation (GDPR).
+3: This study funded by grants from French Cancer Institute (Institut National du Cancer, 52, avenue Andre Morizet, F-92513 Boulogne Billancourt Cedex) though PHRC program (grant number: PHRC-K 2015149) that has no role in the collection, analysis, interpretation of results or writing of manuscripts.
+4: The study has been registered at  clinicaltrials.gov ( ClinicalTrials.gov NCT03143322 Registered on May 8th 2017).

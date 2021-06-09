@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="bullet">
+ <list-item>
+  <p>Study characteristics, that is, author, year of publication, study type (randomised trial, non-randomised study) and design (superiority, non-inferiority trial), study status (eg, planned, ongoing, completed, prematurely discontinued), start and end of study.</p>
+ </list-item>
+ <list-item>
+  <p>Details regarding sample size calculation.</p>
+ </list-item>
+ <list-item>
+  <p>Details on sample size (number of participants screened and randomised/finally included; reasons for screening failures and number and reasons for drop-offs and compliance).</p>
+ </list-item>
+ <list-item>
+  <p>Aim of the study.</p>
+ </list-item>
+ <list-item>
+  <p>Setting, that is, geographical and organisational setting.</p>
+ </list-item>
+ <list-item>
+  <p>Characteristics and definition of participants (age, gender, tumour histology and tumour stage).</p>
+ </list-item>
+ <list-item>
+  <p>Details on neoadjuvant therapy (drug names, dose).</p>
+ </list-item>
+ <list-item>
+  <p>Details on the diagnostic methods used for post-neoadjuvant tumour staging and surveillance of tumour response.</p>
+ </list-item>
+ <list-item>
+  <p>Definition of complete responders.</p>
+ </list-item>
+ <list-item>
+  <p>Characteristics of intervention/surveillance group (definition of surveillance).</p>
+ </list-item>
+ <list-item>
+  <p>Characteristics of comparator/surgery group (type of surgery and time between neoadjuvant therapy and surgery).</p>
+ </list-item>
+ <list-item>
+  <p>Pathohistological complete response rate after neoadjuvant therapy (surgery group).</p>
+ </list-item>
+ <list-item>
+  <p>On-demand surgery rate (surveillance group).</p>
+ </list-item>
+ <list-item>
+  <p>All reported outcomes and their exact definitions, that is, how and when the outcome measures were assessed.</p>
+ </list-item>
+ <list-item>
+  <p>Recruitment and follow-up time (planned and actual time).</p>
+ </list-item>
+</list>

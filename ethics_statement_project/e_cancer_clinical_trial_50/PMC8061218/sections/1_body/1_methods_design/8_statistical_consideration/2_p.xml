@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par104">An interim analysis will be conducted when 55 patients have a minimal follow-up of 6 months. We will monitor the efficacy endpoint using the Bayesian optimal phase 2 (BOP2) design [
+ <xref ref-type="bibr" rid="CR62">62</xref>]. Specifically, let 
+ <italic>n</italic> denote the interim sample size and 
+ <italic>N</italic> denote the maximum sample size. Let 
+ <italic>p</italic>
+ <sub>
+  <italic>eff</italic>
+ </sub> denote the probability of efficacy (response rate) and define the null hypothesis 
+ <italic>H</italic>
+ <sub>0</sub> : 
+ <italic>p</italic>
+ <sub>
+  <italic>eff</italic>
+ </sub> &lt; 0.84, representing that the treatment is inefficacious. We will stop enrolling patients and claim that the treatment is not promising if 
+ <disp-formula id="Equa">
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ \mathit{\Pr}\left({p}_{eff}\ge 0.84\mid data\right)&lt;\lambda {\left(\frac{n}{N}\right)}^{\alpha }, $$\end{document}</tex-math>
+   <math id="M2" display="block">
+    <mo mathvariant="italic">Pr</mo>
+    <mfenced close=")" open="(">
+     <mrow>
+      <msub>
+       <mi>p</mi>
+       <mi mathvariant="italic">eff</mi>
+      </msub>
+      <mo>≥</mo>
+      <mn>0.84</mn>
+      <mo>∣</mo>
+      <mtext mathvariant="italic">data</mtext>
+     </mrow>
+    </mfenced>
+    <mo>&lt;</mo>
+    <mi>λ</mi>
+    <msup>
+     <mfenced close=")" open="(">
+      <mfrac>
+       <mi>n</mi>
+       <mi>N</mi>
+      </mfrac>
+     </mfenced>
+     <mi>α</mi>
+    </msup>
+    <mo>,</mo>
+   </math>
+   <graphic xlink:href="12885_2021_8195_Article_Equa.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <italic>λ</italic> =0.95 and 
+ <italic>α</italic> =1 are design parameters optimized to minimize the chance of incorrectly claiming that an efficacious treatment is not promising (i.e., type II error) under the alternative hypothesis 
+ <italic>H</italic>
+ <sub>1</sub> : 
+ <italic>p</italic>
+ <sub>
+  <italic>eff</italic>
+ </sub> = 0.92, while controlling the type I error rate at 0.05 (i.e., the chance of incorrectly claiming that an inefficacious treatment is promising is no more than 5%). Assuming a Beta (0.84,0.16) prior distribution for 
+ <italic>p</italic>
+ <sub>
+  <italic>eff</italic>
+ </sub>, if more than 10 patients among the 55 patients develop recurrences, the trial will be stopped in the interim analysis. Otherwise, the trial will be continued.
+</p>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R7">
+ <label>[7]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McKee</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Regis</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>McKee</surname>
+    <given-names>AB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Performance of ACR Lung-RADS in a clinical CT lung screening program</article-title>. 
+  <source>J Am Coll Radiol</source>
+  <year>2015</year>;
+  <volume>12</volume>:
+  <fpage>273</fpage>–
+  <lpage>6</lpage>.
+  <pub-id pub-id-type="pmid">25176499</pub-id>
+ </mixed-citation>
+</ref>

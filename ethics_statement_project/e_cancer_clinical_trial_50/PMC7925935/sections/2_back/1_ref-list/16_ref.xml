@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R16">
+ <label>16</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Turkbey</surname>
+    <given-names>B</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Rosenkrantz</surname>
+    <given-names>AB</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Haider</surname>
+    <given-names>MA</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Prostate imaging reporting and data system version 2.1: 2019 update of prostate imaging reporting and data system version 2</article-title>. 
+  <source>Eur Urol</source>
+  <year>2019</year>;
+  <volume>76</volume>:
+  <elocation-id>340</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1016/j.eururo.2019.02.033</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30898406?>
+  <pub-id pub-id-type="pmid">30898406</pub-id>
+ </mixed-citation>
+</ref>

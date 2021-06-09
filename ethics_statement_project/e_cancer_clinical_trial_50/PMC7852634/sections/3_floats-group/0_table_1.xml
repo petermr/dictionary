@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Comparison of baseline clinical characteristics between the two groups</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead align="center">
+   <tr>
+    <td rowspan="1" colspan="1">
+     <hr/>
+    </td>
+    <td rowspan="1" colspan="1">
+     <bold>Combined </bold>
+     <hr/>
+    </td>
+    <td rowspan="1" colspan="1">
+     <bold>Control </bold>
+     <hr/>
+    </td>
+    <td rowspan="1" colspan="1">
+     <bold>
+      <italic>χ</italic>
+      <sup>2</sup>/
+      <italic>t</italic>
+     </bold>
+     <hr/>
+    </td>
+    <td rowspan="1" colspan="1">
+     <bold>
+      <italic>P </italic>
+     </bold>
+     <bold>value</bold>
+     <hr/>
+    </td>
+   </tr>
+  </thead>
+  <tbody align="center">
+   <tr>
+    <td rowspan="1" colspan="1">Age in yr</td>
+    <td rowspan="1" colspan="1">63.25 ± 9.92</td>
+    <td rowspan="1" colspan="1">63.46 ± 10.43</td>
+    <td rowspan="1" colspan="1">-0.083
+     <xref ref-type="table-fn" rid="T1FN1">1</xref>
+    </td>
+    <td rowspan="1" colspan="1">0.934</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Sex</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Male</td>
+    <td rowspan="1" colspan="1">16</td>
+    <td rowspan="1" colspan="1">15</td>
+    <td rowspan="1" colspan="1">0.343</td>
+    <td rowspan="1" colspan="1">0.558</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Female</td>
+    <td rowspan="1" colspan="1">16</td>
+    <td rowspan="1" colspan="1">20</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">ECOG score</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">&lt; 2</td>
+    <td rowspan="1" colspan="1">20</td>
+    <td rowspan="1" colspan="1">25</td>
+    <td rowspan="1" colspan="1">0.604</td>
+    <td rowspan="1" colspan="1">0.437</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">2</td>
+    <td rowspan="1" colspan="1">12</td>
+    <td rowspan="1" colspan="1">10</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Child grade</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">B</td>
+    <td rowspan="1" colspan="1">25</td>
+    <td rowspan="1" colspan="1">26</td>
+    <td rowspan="1" colspan="1">0.136</td>
+    <td rowspan="1" colspan="1">0.713</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">C</td>
+    <td rowspan="1" colspan="1">7</td>
+    <td rowspan="1" colspan="1">9</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Type of obstruction
+     <xref ref-type="table-fn" rid="T1FN1">1</xref>
+    </td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">High</td>
+    <td rowspan="1" colspan="1">16</td>
+    <td rowspan="1" colspan="1">16</td>
+    <td rowspan="1" colspan="1">0.123</td>
+    <td rowspan="1" colspan="1">0.726</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Low</td>
+    <td rowspan="1" colspan="1">16</td>
+    <td rowspan="1" colspan="1">19</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Obstruction length (cm)</td>
+    <td rowspan="1" colspan="1">3.22 ± 1.04</td>
+    <td rowspan="1" colspan="1">3.26 ± 0.98</td>
+    <td rowspan="1" colspan="1">-0.156
+     <xref ref-type="table-fn" rid="T1FN2">2</xref>
+    </td>
+    <td rowspan="1" colspan="1">0.877</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Number of stents</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Unilateral</td>
+    <td rowspan="1" colspan="1">30</td>
+    <td rowspan="1" colspan="1">32</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">1.000
+     <xref ref-type="table-fn" rid="T1FN3">3</xref>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Bilateral</td>
+    <td rowspan="1" colspan="1">2</td>
+    <td rowspan="1" colspan="1">3</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Tumor type</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Pancreatic cancer</td>
+    <td rowspan="1" colspan="1">14</td>
+    <td rowspan="1" colspan="1">21</td>
+    <td rowspan="1" colspan="1">1.820</td>
+    <td rowspan="1" colspan="1">0.403</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Bile duct and gallbladder cancer</td>
+    <td rowspan="1" colspan="1">11</td>
+    <td rowspan="1" colspan="1">8</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Gastrointestinal cancer metastasis</td>
+    <td rowspan="1" colspan="1">7</td>
+    <td rowspan="1" colspan="1">6</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Combined infusion chemotherapy</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Yes</td>
+    <td rowspan="1" colspan="1">13</td>
+    <td rowspan="1" colspan="1">14</td>
+    <td rowspan="1" colspan="1">0.003</td>
+    <td rowspan="1" colspan="1">0.958</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">No </td>
+    <td rowspan="1" colspan="1">19</td>
+    <td rowspan="1" colspan="1">21</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="T1FN1">
+   <label>1</label>
+   <p>Above the junction of the cystic duct and common hepatic duct is called high obstruction, below the junction is called low obstruction.</p>
+  </fn>
+  <fn id="T1FN2">
+   <label>2</label>
+   <p>
+    <italic>t</italic> value, using independent sample 
+    <italic>t</italic> test.
+   </p>
+  </fn>
+  <fn id="T1FN3">
+   <label>3</label>
+   <p>Using Fisher’s exact probability method. ECOG: Eastern Cooperative Oncology Group.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

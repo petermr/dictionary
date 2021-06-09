@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="simple">
+ <list-item>
+  <label>1)</label>
+  <p>History of chemotherapy, radiation, or administration of other investigational agents for synchronous or metachronous malignancies within 1 year before enrollment.</p>
+ </list-item>
+ <list-item>
+  <label>2)</label>
+  <p>Tumor with active bleeding.</p>
+ </list-item>
+ <list-item>
+  <label>3)</label>
+  <p>A patient with a history of acute myocardial infarction, severe angina, congested heart failure, cerebrovascular disease, or pulmonary thrombosis within 6 months before registration.</p>
+ </list-item>
+ <list-item>
+  <label>4)</label>
+  <p>Uncontrollable asthma.</p>
+ </list-item>
+ <list-item>
+  <label>5)</label>
+  <p>History of laparotomy or thoracotomy within 4 weeks before treatment begins.</p>
+ </list-item>
+ <list-item>
+  <label>6)</label>
+  <p>Allergy to tranilast.</p>
+ </list-item>
+ <list-item>
+  <label>7)</label>
+  <p>Females who may be pregnant, breastfeeding an infant, and have a desire to bear children.</p>
+ </list-item>
+ <list-item>
+  <label>8)</label>
+  <p>Any other patients considered to be unsuitable for enrollment by the investigators.</p>
+ </list-item>
+ <list-item>
+  <label>9)</label>
+  <p>A patient who takes some similar drugs to tranilast.</p>
+ </list-item>
+ <list-item>
+  <label>10)</label>
+  <p>A patient who received a transfusion within 14 days before enrollment.</p>
+ </list-item>
+ <list-item>
+  <label>11)</label>
+  <p>Currently being medicated with warfarin.</p>
+ </list-item>
+</list>

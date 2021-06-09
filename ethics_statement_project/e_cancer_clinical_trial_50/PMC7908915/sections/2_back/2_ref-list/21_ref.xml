@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R21">
+ <label>21</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Shiozawa</surname>
+    <given-names>Y</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Pedersen</surname>
+    <given-names>EA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Havens</surname>
+    <given-names>AM</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Human prostate cancer metastases target the hematopoietic stem cell niche to establish footholds in mouse bone marrow</article-title>. 
+  <source>J Clin Invest</source>
+  <year>2011</year>;
+  <volume>121</volume>:
+  <fpage>1298</fpage>–
+  <lpage>312</lpage>. 
+  <pub-id pub-id-type="doi">10.1172/JCI43414</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/21436587?>
+  <pub-id pub-id-type="pmid">21436587</pub-id>
+ </mixed-citation>
+</ref>

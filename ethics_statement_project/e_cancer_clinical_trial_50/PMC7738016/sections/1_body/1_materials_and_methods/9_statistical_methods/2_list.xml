@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="simple">
+ <list-item>
+  <label>1.</label>
+  <p>
+   <bold>
+    <italic>Population to be analyzed.</italic>
+   </bold> All subjects enrolled in the present study (full analysis set [FAS]), excluding patients with serious violations (including serious protocol deviations, violations of inclusion/exclusion criteria, and violations of prohibited concomitant medication/therapy) from FAS (per protocol set).
+  </p>
+ </list-item>
+ <list-item>
+  <label>2.</label>
+  <p>
+   <bold>
+    <italic>Primary endpoint.</italic>
+   </bold> The primary endpoint is the rate of good pathological therapeutic effect. Primary tumor samples of ESCC will be obtained from patients who have undergone curative esophagectomy after preoperative adjuvant chemotherapy. The grade of the pathological therapeutic effect will be evaluated. Clinical diagnosis according to the 11
+   <sup>th</sup> edition of the Japanese Classification of Esophageal Cancer
+   <sup>[
+    <xref rid="R11" ref-type="bibr">11</xref>,
+    <xref rid="R12" ref-type="bibr">12</xref>]
+   </sup>
+  </p>
+ </list-item>
+ <list-item>
+  <label>3.</label>
+  <p>
+   <bold>
+    <italic>Secondary endpoints.</italic>
+   </bold> The secondary endpoints are the objective response rate (ORR), safety of preoperative adjuvant chemotherapy, recurrence-free survival (RFS), and overall survival (OS). RFS and OS will both be calculated as the time from surgery to first recurrence and all-cause death, respectively.
+  </p>
+  <list list-type="simple">
+   <list-item>
+    <label>a.</label>
+    <p>
+     <bold>
+      <italic>ORR.</italic>
+     </bold> Local responses will be evaluated using CT and PET-CT images obtained after preoperative adjuvant chemotherapy in accordance with the 11
+     <sup>th</sup> edition of the Japanese Classification of Esophageal Cancer.
+     <sup>[
+      <xref rid="R11" ref-type="bibr">11</xref>,
+      <xref rid="R12" ref-type="bibr">12</xref>]
+     </sup>
+    </p>
+   </list-item>
+   <list-item>
+    <label>b.</label>
+    <p>
+     <bold>
+      <italic>Safety: Treatment-related adverse event.</italic>
+     </bold> The safety of preoperative adjuvant chemotherapy will be assessed according to CTCAE version 5.0.
+    </p>
+   </list-item>
+   <list-item>
+    <label>c.</label>
+    <p>
+     <bold>
+      <italic>RFS curve.</italic>
+     </bold> The Kaplan-Meier method will be used to estimate the RFS curve and calculate 3-year RFS and 95% confidence intervals.
+    </p>
+   </list-item>
+   <list-item>
+    <label>d.</label>
+    <p>
+     <bold>
+      <italic>OS curve.</italic>
+     </bold> The Kaplan-Meier method will be used to estimate the OS curve, and annual and 3-year OS rates and their 95% confidence intervals will be calculated.
+    </p>
+   </list-item>
+  </list>
+ </list-item>
+ <list-item>
+  <label>4.</label>
+  <p>
+   <bold>
+    <italic>Ethics</italic>
+   </bold> The present trial was approved by the Ethics Committee of Kyoto Prefectural University of Medicine, Kyoto, Japan (Approval number: CRB5180001, 30/Aug/2019). This trial is subject to the supervision and management of the Ethics Committee. If the protocol modifications are needed, the revised protocol must be approved again by CRB. The physicians with sufficient knowledge regarding the present trial obtain informed consent or assent from trial participants using the specific explanation sheet.
+  </p>
+ </list-item>
+ <list-item>
+  <label>5.</label>
+  <p>
+   <bold>
+    <italic>Trial status</italic>
+   </bold> Recruitment started in November 2019, with the final follow-up planned for March 2029. One subject has been enrolled since October 21
+   <sup>st</sup>, 2020.
+  </p>
+ </list-item>
+</list>

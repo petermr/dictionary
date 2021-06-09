@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sarbassov</surname>
+    <given-names>DD</given-names>
+   </name>
+   <name>
+    <surname>Ali</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Sabatini</surname>
+    <given-names>DM</given-names>
+   </name>
+  </person-group>
+  <article-title>Growing roles for the mTOR pathway</article-title>
+  <source>Curr Opin Cell Biol</source>
+  <year>2005</year>
+  <volume>17</volume>
+  <issue>6</issue>
+  <fpage>596</fpage>
+  <lpage>603</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ceb.2005.09.009</pub-id>
+  <pub-id pub-id-type="pmid">16226444</pub-id>
+ </element-citation>
+</ref>

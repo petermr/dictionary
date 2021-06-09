@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sperduto</surname>
+    <given-names>PW</given-names>
+   </name>
+   <name>
+    <surname>Shanley</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Luo</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Andrews</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Werner-Wasik</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Valicenti</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Secondary analysis of RTOG 9508, a phase 3 randomized trial of whole-brain radiation therapy versus WBRT plus stereotactic radiosurgery in patients with 1-3 brain metastases; poststratified by the graded prognostic assessment (GPA)</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>2014</year>
+  <volume>90</volume>
+  <fpage>526</fpage>
+  <lpage>531</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2014.07.002</pub-id>
+  <?supplied-pmid 25304947?>
+  <pub-id pub-id-type="pmid">25304947</pub-id>
+ </element-citation>
+</ref>

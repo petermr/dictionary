@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dorresteijn</surname>
+    <given-names>LD</given-names>
+   </name>
+   <name>
+    <surname>Kappelle</surname>
+    <given-names>AC</given-names>
+   </name>
+   <name>
+    <surname>Scholz</surname>
+    <given-names>NM</given-names>
+   </name>
+   <name>
+    <surname>Munneke</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Scholma</surname>
+    <given-names>JT</given-names>
+   </name>
+   <name>
+    <surname>Balm</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Increased carotid wall thickening after radiotherapy on the neck</article-title>
+  <source>Eur J Cancer</source>
+  <year>2005</year>
+  <volume>41</volume>
+  <issue>7</issue>
+  <fpage>1026</fpage>
+  <lpage>1030</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ejca.2005.01.020</pub-id>
+  <?supplied-pmid 15862751?>
+  <pub-id pub-id-type="pmid">15862751</pub-id>
+ </element-citation>
+</ref>

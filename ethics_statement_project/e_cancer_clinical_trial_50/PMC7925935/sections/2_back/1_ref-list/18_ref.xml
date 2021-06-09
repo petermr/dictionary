@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R18">
+ <label>18</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>He</surname>
+    <given-names>B-M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Shi</surname>
+    <given-names>Z-K</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Li</surname>
+    <given-names>H-S</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>A novel prediction tool based on multiparametric magnetic resonance imaging to determine the biopsy strategy for clinically significant prostate cancer in patients with PSA levels less than 50 ng/ml</article-title>. 
+  <source>Ann Surg Oncol</source>
+  <year>2020</year>;
+  <volume>27</volume>:
+  <elocation-id>1284</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1245/s10434-019-08111-2</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/31848822?>
+  <pub-id pub-id-type="pmid">31848822</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lee</surname>
+   <given-names>Hye-Ju</given-names>
+  </name>
+  <degrees>RDH, PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Han</surname>
+   <given-names>Dong-Hun</given-names>
+  </name>
+  <degrees>DDS, PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>∗</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Jin-Ho</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Hong-Gyun</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff4">
+   <sup>d</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff5">
+   <sup>e</sup>
+  </xref>
+ </contrib>
+</contrib-group>

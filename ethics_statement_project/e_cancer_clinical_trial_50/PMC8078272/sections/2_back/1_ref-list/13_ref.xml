@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R13">
+ <label>[13]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Trotti</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Colevas</surname>
+    <given-names>AD</given-names>
+   </name>
+   <name>
+    <surname>Setser</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>CTCAE v3.0: development of a comprehensive grading system for the adverse effects of cancer treatment</article-title>. 
+  <source>Semin Radiat Oncol</source>
+  <year>2003</year>;
+  <volume>13</volume>:
+  <fpage>176</fpage>–
+  <lpage>81</lpage>.
+  <pub-id pub-id-type="pmid">12903007</pub-id>
+ </mixed-citation>
+</ref>

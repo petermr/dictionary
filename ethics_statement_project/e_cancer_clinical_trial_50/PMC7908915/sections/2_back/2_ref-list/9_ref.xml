@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R9">
+ <label>9</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Sweeney</surname>
+    <given-names>CJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Chen</surname>
+    <given-names>Y-H</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Carducci</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Chemohormonal therapy in metastatic hormone-sensitive prostate cancer</article-title>. 
+  <source>N Engl J Med</source>
+  <year>2015</year>;
+  <volume>373</volume>:
+  <fpage>737</fpage>–
+  <lpage>46</lpage>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1503747</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/26244877?>
+  <pub-id pub-id-type="pmid">26244877</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">It is widely acknowledged that HPV prophylactic vaccine could prevent new infections and their associated lesions among women who are predominantly HPV-naive at vaccination. Yet there still remains uncertainty about whether HPV vaccination could benefit to individuals who have undergone surgery for cervical disease.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par2">This post-hoc analysis intends to focus on intent-to-treat participants who underwent excision treatment at baseline and the follow-up period in a phase II/III, double-blind, randomized trial (
+   <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov" xmlns:xlink="http://www.w3.org/1999/xlink">ClinicalTrials.gov</ext-link>, number 
+   <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT00779766?term=NCT00779766&amp;draw=2&amp;rank=1" xmlns:xlink="http://www.w3.org/1999/xlink">NCT00779766</ext-link>) conducted in Jiangsu province, China. We evaluate the impact of HPV vaccination on preventing women from subsequent infection and cervical lesions (LSIL+ and CIN2+) after excision treatment.
+  </p>
+ </sec>
+ <sec>
+  <title>Results</title>
+  <p id="Par3">One hundred sixty-eight (vaccine, 
+   <italic>n</italic> = 87; placebo, 
+   <italic>n</italic> = 81) performed excisional treatment in this clinical trial. We observed a significant effect of vaccination on acquiring 14 high-risk HPV (HR-HPV) infection after treatment (vaccine efficacy: 27.0%; 95% CI 4.9, 44.0%). The vaccine efficacy against new infections after treatment for 14 HR-HPV infection was estimated as 32.0% (95%CI 1.8, 52.8%), and was 41.2% (95%CI -162.7, 86.8%) for HPV16/18 infection. The accumulative clearance rates of the vaccine group and placebo group were 88.9 and 81.6% for HPV16/18 infection (
+   <italic>P</italic> = 0.345), 63.4, 48.7% for 14 HR-HPV infection (
+   <italic>P</italic> = 0.062), respectively. No significant difference was observed on the persistent rate of HPV16/18, 14 HR-HPV infection and occurrence rate of LSIL+ between the two groups.
+  </p>
+ </sec>
+ <sec>
+  <title>Conclusions</title>
+  <p id="Par4">No significant evidence from this study showed that HPV-16/18 AS04-adjuvanted vaccine could lead to viral faster clearance or have any effect on the rates of persistent infection among women who had excision treatment. However, the vaccine may still benefit post-treatment women with “primary prophylactic” effect. Further research is required in clarifying the effect of using the prophylactic HPV vaccine as therapeutic agents.</p>
+ </sec>
+ <sec>
+  <title>Trial registration</title>
+  <p id="Par5">
+   <bold>ClinicalTrials.gov identifier</bold>: 
+   <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT00779766?term=NCT00779766&amp;draw=2&amp;rank=1" xmlns:xlink="http://www.w3.org/1999/xlink">NCT00779766</ext-link>. 
+   <bold>Date and status of trial registration:</bold> October 24, 2008. Completed; Has Results.
+  </p>
+ </sec>
+</abstract>

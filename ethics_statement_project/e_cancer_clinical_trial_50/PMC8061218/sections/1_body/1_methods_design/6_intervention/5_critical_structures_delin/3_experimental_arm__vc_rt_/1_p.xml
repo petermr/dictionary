@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par83">
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par84">Spinal cord: Not more than 0.03 cc of the PRV exceeds 42 Gy and not more than 0.03 cc of the spinal cord receives &gt; 40 Gy.</p>
+  </list-item>
+  <list-item>
+   <p id="Par85">Additional dose specification goals that should not take priority over PTV coverage: 
+    <list list-type="bullet">
+     <list-item>
+      <p id="Par86">° Carotid arteries: 
+       <list list-type="bullet">
+        <list-item>
+         <p id="Par87">▪ T1a</p>
+        </list-item>
+        <list-item>
+         <p id="Par88">Ipsilateral carotid: Mean dose &lt; 35 Gy</p>
+        </list-item>
+        <list-item>
+         <p id="Par89">Controlateral carotid: Mean dose &lt; 15 Gy</p>
+        </list-item>
+        <list-item>
+         <p id="Par90">▪ T1b 
+          <list list-type="bullet">
+           <list-item>
+            <p id="Par91">Mean dose to carotids &lt; 35 Gy</p>
+           </list-item>
+          </list>
+         </p>
+        </list-item>
+       </list>
+      </p>
+     </list-item>
+     <list-item>
+      <p id="Par92">° Supraglottic larynx: Mean dose &lt; 45 Gy</p>
+     </list-item>
+     <list-item>
+      <p id="Par93">° Contralateral vocal cord: Mean dose &lt; 50 Gy</p>
+     </list-item>
+    </list>
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par94">Doses to other organs should be minimized and documented.</p>
+  </list-item>
+ </list>
+</p>

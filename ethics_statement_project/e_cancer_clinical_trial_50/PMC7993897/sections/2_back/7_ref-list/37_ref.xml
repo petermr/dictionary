@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pickard</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Neary</surname>
+    <given-names>MP</given-names>
+   </name>
+   <name>
+    <surname>Cella</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Estimation of minimally important differences in EQ-5D utility and VAS scores in cancer</article-title>
+  <source>Health Qual Life Outcomes</source>
+  <year>2007</year>
+  <volume>5</volume>
+  <issue>1</issue>
+  <fpage>70</fpage>
+  <pub-id pub-id-type="doi">10.1186/1477-7525-5-70</pub-id>
+  <?supplied-pmid 18154669?>
+  <pub-id pub-id-type="pmid">18154669</pub-id>
+ </element-citation>
+</ref>

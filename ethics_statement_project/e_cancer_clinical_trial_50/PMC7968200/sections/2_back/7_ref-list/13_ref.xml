@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nanashima</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Abo</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Tobinaga</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Nonaka</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Fukuoka</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Hidaka</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Prediction of indocyanine green retention rate at 15 minutes by correlated liver function parameters before hepatectomy</article-title>
+  <source>J Surg Res</source>
+  <year>2011</year>
+  <volume>169</volume>
+  <issue>2</issue>
+  <fpage>e119</fpage>
+  <lpage>e25</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jss.2011.04.034</pub-id>
+  <pub-id pub-id-type="pmid">21658719</pub-id>
+ </element-citation>
+</ref>

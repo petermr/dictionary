@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R3">
+ <label>3</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Baggstrom</surname>
+    <given-names>MQ</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Stinchcombe</surname>
+    <given-names>TE</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Fried</surname>
+    <given-names>DB</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Third-generation chemotherapy agents in the treatment of advanced non-small cell lung cancer: a meta-analysis</article-title>. 
+  <source>J Thorac Oncol</source>
+  <year>2007</year>;
+  <volume>2</volume>:
+  <fpage>845</fpage>–
+  <lpage>53</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/JTO.0b013e31814617a2</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/17805063?>
+  <pub-id pub-id-type="pmid">17805063</pub-id>
+ </mixed-citation>
+</ref>

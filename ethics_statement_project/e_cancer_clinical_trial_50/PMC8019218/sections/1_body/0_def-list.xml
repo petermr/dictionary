@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<def-list list-content="abbreviations" id="cas14841-lp-0001">
+ <title>Abbreviations</title>
+ <def-item>
+  <term>5‐FU</term>
+  <def>
+   <p>5‐fluorouracil</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>aCRCS</term>
+  <def>
+   <p>advanced colorectal cancer subtype</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>
+   <italic>AKT1</italic>
+  </term>
+  <def>
+   <p>v‐akt murine thymoma viral oncogene homolog 1</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>
+   <italic>BRAF</italic>
+  </term>
+  <def>
+   <p>v‐raf murine sarcoma viral oncogene homolog B1</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>CI</term>
+  <def>
+   <p>confidence interval</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>CIPM</term>
+  <def>
+   <p>CpG island methylator phenotype</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>CMS</term>
+  <def>
+   <p>consensus molecular subtypes of colorectal cancer</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>EGFR</term>
+  <def>
+   <p>epidermal growth factor receptor</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>FFPE</term>
+  <def>
+   <p>formalin‐fixed, paraffin‐embedded</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>HMCC</term>
+  <def>
+   <p>highly methylated colorectal cancer</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>HR</term>
+  <def>
+   <p>hazard ratio</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>IRI</term>
+  <def>
+   <p>irinotecan</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>LMCC</term>
+  <def>
+   <p>low methylated colorectal cancer</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>MMR</term>
+  <def>
+   <p>mismatch repair</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>OS</term>
+  <def>
+   <p>overall survival</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>OX</term>
+  <def>
+   <p>oxaliplatin</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>PFS</term>
+  <def>
+   <p>progression‐free survival</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>
+   <italic>PIK3CA</italic>
+  </term>
+  <def>
+   <p>phosphatidylinositol‐4,5‐bisphosphate 3‐kinase catalytic subunit alpha</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>PTEN</term>
+  <def>
+   <p>phosphatase and tensin homolog</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>RDI</term>
+  <def>
+   <p>relative dose intensity</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>TR</term>
+  <def>
+   <p>translational research</p>
+  </def>
+ </def-item>
+</def-list>

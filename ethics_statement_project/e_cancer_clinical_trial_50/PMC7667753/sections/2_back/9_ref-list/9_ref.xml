@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Joura</surname>
+    <given-names>EA</given-names>
+   </name>
+   <name>
+    <surname>Garland</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Paavonen</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Ferris</surname>
+    <given-names>DG</given-names>
+   </name>
+   <name>
+    <surname>Perez</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Ault</surname>
+    <given-names>KA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Effect of the human papillomavirus (HPV) quadrivalent vaccine in a subgroup of women with cervical and vulvar disease: retrospective pooled analysis of trial data</article-title>
+  <source>BMJ</source>
+  <year>2012</year>
+  <volume>344</volume>
+  <fpage>e1401</fpage>
+  <pub-id pub-id-type="doi">10.1136/bmj.e1401</pub-id>
+  <?supplied-pmid 22454089?>
+  <pub-id pub-id-type="pmid">22454089</pub-id>
+ </element-citation>
+</ref>

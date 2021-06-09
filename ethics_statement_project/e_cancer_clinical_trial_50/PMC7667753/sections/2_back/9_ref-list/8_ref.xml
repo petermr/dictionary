@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rebolj</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Helmerhorst</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Habbema</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Looman</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Boer</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>van Rosmalen</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Risk of cervical cancer after completed post-treatment follow-up of cervical intraepithelial neoplasia: population based cohort study</article-title>
+  <source>BMJ</source>
+  <year>2012</year>
+  <volume>345</volume>
+  <fpage>e6855</fpage>
+  <pub-id pub-id-type="doi">10.1136/bmj.e6855</pub-id>
+  <?supplied-pmid 23117059?>
+  <pub-id pub-id-type="pmid">23117059</pub-id>
+ </element-citation>
+</ref>

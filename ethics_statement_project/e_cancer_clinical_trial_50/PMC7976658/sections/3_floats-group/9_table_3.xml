@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Short-term post operative outcomes</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Variables</th>
+    <th align="left">LAR</th>
+    <th align="left">APER</th>
+    <th align="left">p value</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Number (%)</td>
+    <td align="left">170 (64.9)</td>
+    <td align="left">92 (35.1)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">Overall complications</td>
+    <td align="left">77 (45.3)</td>
+    <td align="left">55 (59.8)</td>
+    <td align="left">
+     <italic>0.028</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">Clavien-Dindo classification</td>
+   </tr>
+   <tr>
+    <td align="left"> I</td>
+    <td align="left">21 (27.2)</td>
+    <td align="left">4 (7.3)</td>
+    <td align="left" rowspan="6"/>
+   </tr>
+   <tr>
+    <td align="left"> II</td>
+    <td align="left">31 (40.3)</td>
+    <td align="left">26 (47.3)</td>
+   </tr>
+   <tr>
+    <td align="left"> IIIa</td>
+    <td align="left">12 (15.6)</td>
+    <td align="left">11 (20.0)</td>
+   </tr>
+   <tr>
+    <td align="left"> IIIb</td>
+    <td align="left">12 (15.6)</td>
+    <td align="left">10 (18.2)</td>
+   </tr>
+   <tr>
+    <td align="left"> IV</td>
+    <td align="left">1 (1.3)</td>
+    <td align="left">3 (5.4)</td>
+   </tr>
+   <tr>
+    <td align="left"> V</td>
+    <td align="left">0 (0.0)</td>
+    <td align="left">1 (1.8)</td>
+   </tr>
+   <tr>
+    <td align="left">Urinary infection</td>
+    <td align="left">16 (9.4)</td>
+    <td align="left">5 (5.4)</td>
+    <td align="left">0.343</td>
+   </tr>
+   <tr>
+    <td align="left">Wound infection</td>
+    <td align="left">17 (10.0)</td>
+    <td align="left">25 (27.2)</td>
+    <td align="left">
+     <italic>0.001</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Wound dehiscence</td>
+    <td align="left">0 (0.0)</td>
+    <td align="left">9 (9.8)</td>
+    <td align="left">
+     <italic>&lt; 0.001</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Intra-abdominal or pelvic collection</td>
+    <td align="left">13 (7.6)</td>
+    <td align="left">8 (8.7)</td>
+    <td align="left">0.813</td>
+   </tr>
+   <tr>
+    <td align="left">Percutaneous drainage</td>
+    <td align="left">5 (2.9)</td>
+    <td align="left">2 (2.2)</td>
+    <td align="left">1.000</td>
+   </tr>
+   <tr>
+    <td align="left">Anastomotic leak</td>
+    <td align="left">22 (12.9)</td>
+    <td align="left">NA</td>
+    <td align="left">NA</td>
+   </tr>
+   <tr>
+    <td align="left">High stoma out-put</td>
+    <td align="left">13 (7.6)</td>
+    <td align="left">NA</td>
+    <td align="left">NA</td>
+   </tr>
+   <tr>
+    <td align="left">Post-operative ileus</td>
+    <td align="left">9 (5.3)</td>
+    <td align="left">2 (2.2)</td>
+    <td align="left">0.338</td>
+   </tr>
+   <tr>
+    <td align="left">Post-operative bleeding</td>
+    <td align="left">5 (2.9)</td>
+    <td align="left">4 (4.3)</td>
+    <td align="left">0.724</td>
+   </tr>
+   <tr>
+    <td align="left">Re-operation</td>
+    <td align="left">10 (5.9)</td>
+    <td align="left">10 (10.9)</td>
+    <td align="left">0.153</td>
+   </tr>
+   <tr>
+    <td align="left">Readmission</td>
+    <td align="left">25 (14.7)</td>
+    <td align="left">16 (17.4)</td>
+    <td align="left">0.595</td>
+   </tr>
+   <tr>
+    <td align="left">Peri-operative mortality</td>
+    <td align="left">0 (0.0)</td>
+    <td align="left">1 (1.1)</td>
+    <td align="left">0.351</td>
+   </tr>
+   <tr>
+    <td align="left">Hospital stay, days, median (interquartile range)</td>
+    <td align="left">7 (5–13)</td>
+    <td align="left">12 (8–19)</td>
+    <td align="left">
+     <italic>&lt; 0.001</italic>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Values in italics are statistically significant</p>
+  <p>Nominal variables expressed as absolute numbers with percentage in parenthesis</p>
+  <p>
+   <italic>APER</italic> abdominoperineal resection, 
+   <italic>LAR</italic> low anterior resection
+  </p>
+ </table-wrap-foot>
+</table-wrap>

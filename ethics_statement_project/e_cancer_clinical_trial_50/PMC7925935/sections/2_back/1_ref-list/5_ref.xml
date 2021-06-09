@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R5">
+ <label>5</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Kasivisvanathan</surname>
+    <given-names>V</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Rannikko</surname>
+    <given-names>AS</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Borghi</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>MRI-targeted or standard biopsy for prostate-cancer diagnosis</article-title>. 
+  <source>N Engl J Med</source>
+  <year>2018</year>;
+  <volume>378</volume>:
+  <fpage>1767</fpage>–
+  <lpage>77</lpage>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1801993</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/29552975?>
+  <pub-id pub-id-type="pmid">29552975</pub-id>
+ </mixed-citation>
+</ref>

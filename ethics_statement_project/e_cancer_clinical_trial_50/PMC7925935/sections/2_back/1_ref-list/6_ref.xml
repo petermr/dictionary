@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R6">
+ <label>6</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Tyson</surname>
+    <given-names>MD</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Arora</surname>
+    <given-names>SS</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Scarpato</surname>
+    <given-names>KR</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Magnetic resonance-ultrasound fusion prostate biopsy in the diagnosis of prostate cancer</article-title>. 
+  <source>Urol Oncol</source>
+  <year>2016</year>;
+  <volume>34</volume>:
+  <elocation-id>326</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1016/j.urolonc.2016.03.005</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/27083114?>
+  <pub-id pub-id-type="pmid">27083114</pub-id>
+ </mixed-citation>
+</ref>

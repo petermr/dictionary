@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R9">
+ <label>[9]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Soyano</surname>
+    <given-names>AE</given-names>
+   </name>
+   <name>
+    <surname>Dholaria</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Marin-Acevedo</surname>
+    <given-names>JA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Peripheral blood biomarkers correlate with outcomes in advanced non-small cell lung cancer patients treated with anti-PD-1 antibodies</article-title>. 
+  <source>J Immunother Cancer</source>
+  <year>2018</year>;
+  <volume>6</volume>:
+  <fpage>129</fpage>
+  <comment>doi: 10.1186/s40425-018-0447-2</comment>.
+  <pub-id pub-id-type="pmid">30470260</pub-id>
+ </mixed-citation>
+</ref>

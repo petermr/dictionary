@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Plummer</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Henderson</surname>
+    <given-names>RD</given-names>
+   </name>
+   <name>
+    <surname>O'Sullivan</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Read</surname>
+    <given-names>SJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Ischemic stroke and transient ischemic attack after head and neck radiotherapy: a review</article-title>
+  <source>Stroke</source>
+  <year>2011</year>
+  <volume>42</volume>
+  <issue>9</issue>
+  <fpage>2410</fpage>
+  <lpage>2418</lpage>
+  <pub-id pub-id-type="doi">10.1161/STROKEAHA.111.615203</pub-id>
+  <?supplied-pmid 21817150?>
+  <pub-id pub-id-type="pmid">21817150</pub-id>
+ </element-citation>
+</ref>

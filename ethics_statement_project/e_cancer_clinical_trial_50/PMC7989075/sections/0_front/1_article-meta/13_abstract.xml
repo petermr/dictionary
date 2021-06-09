@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">Neoadjuvant therapy has several potential advantages over upfront surgery in patients with localized pancreatic cancer; more patients receive systemic treatment, fewer patients undergo futile surgery, and R0 resection rates are higher, thereby possibly improving overall survival (OS). Two recent randomized trials have suggested benefit of neoadjuvant chemoradiotherapy over upfront surgery, both including single-agent chemotherapy regimens. Potentially, the multi-agent FOLFIRINOX regimen (5-fluorouracil with leucovorin, irinotecan, and oxaliplatin) may further improve outcomes in the neoadjuvant setting for localized pancreatic cancer, but randomized studies are needed. The PREOPANC-2 trial investigates whether neoadjuvant FOLFIRINOX improves OS compared with neoadjuvant gemcitabine-based chemoradiotherapy and adjuvant gemcitabine in resectable and borderline resectable pancreatic cancer patients.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par2">This nationwide multicenter phase III randomized controlled trial includes patients with pathologically confirmed resectable and borderline resectable pancreatic cancer with a WHO performance score of 0 or 1. Resectable pancreatic cancer is defined as no arterial and ≤ 90 degrees venous involvement; borderline resectable pancreatic cancer is defined as ≤90 degrees arterial and ≤ 270 degrees venous involvement without occlusion. Patients receive 8 cycles of neoadjuvant FOLFIRINOX chemotherapy followed by surgery without adjuvant treatment (arm A), or 3 cycles of neoadjuvant gemcitabine with hypofractionated radiotherapy (36 Gy in 15 fractions) during the second cycle, followed by surgery and 4 cycles of adjuvant gemcitabine (arm B). The primary endpoint is OS by intention-to-treat. Secondary endpoints include progression-free survival, quality of life, resection rate, and R0 resection rate. To detect a hazard ratio of 0.70 with 80% power, 252 events are needed. The number of events is expected to be reached after inclusion of 368 eligible patients assuming an accrual period of 3 years and 1.5 years follow-up.</p>
+ </sec>
+ <sec>
+  <title>Discussion</title>
+  <p id="Par3">The PREOPANC-2 trial directly compares two neoadjuvant regimens for patients with resectable and borderline resectable pancreatic cancer. Our study will provide evidence on the neoadjuvant treatment of choice for patients with resectable and borderline resectable pancreatic cancer.</p>
+ </sec>
+ <sec>
+  <title>Trial registration</title>
+  <p id="Par4">Primary registry and trial identifying number: EudraCT: 
+   <ext-link ext-link-type="uri" xlink:href="https://www.clinicaltrialsregister.eu/ctr-search/search?query=PREOPANC-2" xmlns:xlink="http://www.w3.org/1999/xlink">2017–002036-17</ext-link>.
+  </p>
+  <p id="Par5">Date of registration: March 6, 2018.</p>
+  <p id="Par6">Secondary identifying numbers: The Netherlands National Trial Register – 
+   <ext-link ext-link-type="uri" xlink:href="https://www.trialregister.nl/trial/7094" xmlns:xlink="http://www.w3.org/1999/xlink">NL7094</ext-link>, NL61961.078.17, MEC-2018-004.
+  </p>
+ </sec>
+ <sec>
+  <title>Supplementary Information</title>
+  <p>The online version contains supplementary material available at 10.1186/s12885-021-08031-z.</p>
+ </sec>
+</abstract>

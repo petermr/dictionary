@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Parker</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Nilsson</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Heinrich</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Helle</surname>
+    <given-names>SI</given-names>
+   </name>
+   <name>
+    <surname>O’Sullivan</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Fosså</surname>
+    <given-names>SD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Alpha emitter Radium-223 and survival in metastatic prostate Cancer</article-title>
+  <source>N Engl J Med</source>
+  <year>2013</year>
+  <volume>369</volume>
+  <issue>3</issue>
+  <fpage>213</fpage>
+  <lpage>223</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1213755</pub-id>
+  <?supplied-pmid 23863050?>
+  <pub-id pub-id-type="pmid">23863050</pub-id>
+ </element-citation>
+</ref>

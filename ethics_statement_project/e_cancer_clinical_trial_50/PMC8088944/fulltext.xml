@@ -1,0 +1,419 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Sci</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Sci</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1349-7006</journal-id><journal-id journal-id-type="publisher-id">CAS</journal-id><journal-title-group><journal-title>Cancer Science</journal-title></journal-title-group><issn pub-type="ppub">1347-9032</issn><issn pub-type="epub">1349-7006</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8088944</article-id><article-id pub-id-type="pmid">33453146</article-id><article-id pub-id-type="doi">10.1111/cas.14811</article-id><article-id pub-id-type="publisher-id">CAS14811</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject><subj-group subj-group-type="heading"><subject>Clinical Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Phase II study of temozolomide monotherapy in patients with extrapulmonary neuroendocrine carcinoma</article-title><alt-title alt-title-type="left-running-head">KOBAYASHI et al.</alt-title></title-group><contrib-group><contrib id="cas14811-cr-0001" contrib-type="author" corresp="yes"><name><surname>Kobayashi</surname><given-names>Noritoshi</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9181-3722</contrib-id><xref ref-type="aff" rid="cas14811-aff-0001">
+<sup>1</sup>
+</xref><address><email>norikoba@yokohama-cu.ac.jp</email></address></contrib><contrib id="cas14811-cr-0002" contrib-type="author"><name><surname>Takeda</surname><given-names>Yuma</given-names></name><xref ref-type="aff" rid="cas14811-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas14811-cr-0003" contrib-type="author"><name><surname>Okubo</surname><given-names>Naoki</given-names></name><xref ref-type="aff" rid="cas14811-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas14811-cr-0004" contrib-type="author"><name><surname>Suzuki</surname><given-names>Akihiro</given-names></name><xref ref-type="aff" rid="cas14811-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas14811-cr-0005" contrib-type="author"><name><surname>Tokuhisa</surname><given-names>Motohiko</given-names></name><xref ref-type="aff" rid="cas14811-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas14811-cr-0006" contrib-type="author"><name><surname>Hiroshima</surname><given-names>Yukihiko</given-names></name><xref ref-type="aff" rid="cas14811-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas14811-cr-0007" contrib-type="author"><name><surname>Ichikawa</surname><given-names>Yasushi</given-names></name><xref ref-type="aff" rid="cas14811-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="cas14811-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Oncology Division</named-content>
+<institution>Yokohama City University Hospital</institution>
+<city>Yokohama</city>
+<country country="JP">Japan</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Noritoshi Kobayashi, Oncology Division, Yokohama City University Hospital, Yokohama, Japan.<break/>
+Email: <email>norikoba@yokohama-cu.ac.jp</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>3</month><year>2021</year></pub-date><pub-date pub-type="ppub"><month>5</month><year>2021</year></pub-date><volume>112</volume><issue>5</issue><issue-id pub-id-type="doi">10.1111/cas.v112.5</issue-id><fpage>1936</fpage><lpage>1942</lpage><history><date date-type="rev-recd"><day>12</day><month>1</month><year>2021</year></date><date date-type="received"><day>29</day><month>11</month><year>2020</year></date><date date-type="accepted"><day>12</day><month>1</month><year>2021</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright">&#x000a9; 2021 Japanese Cancer Association<copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2021 The Authors. <italic>Cancer Science</italic> published by John Wiley &#x00026; Sons Australia, Ltd on behalf of Japanese Cancer Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CAS-112-1936.pdf"/><abstract id="cas14811-abs-0001"><title>Abstract</title><p>Extrapulmonary neuroendocrine carcinoma (EPNEC) is a lethal disease with a poor prognosis. Platinum&#x02010;based chemotherapy is used as the standard first&#x02010;line treatment for unresectable EPNEC. Several retrospective studies have reported the results of the utilization of temozolomide (TMZ) as a drug for the second&#x02010;line treatment for EPNEC. Patients with unresectable EPNEC that were resistant to platinum&#x02010;based combination chemotherapy were recruited for a prospective phase II study of TMZ monotherapy. A 200&#x000a0;mg/m<sup>2</sup> dose of TMZ was given from day 1 to day 5, every 4&#x000a0;weeks. Response rate (RR) was evaluated as the primary end&#x02010;point. The presence of O<sub>6</sub>&#x02010;methylguanine DNA methyltransferase (MGMT) in EPNEC patients was also evaluated as exploratory research. Thirteen patients were enrolled in this study. Primary lesions were pancreas (n&#x000a0;=&#x000a0;3), stomach (n&#x000a0;=&#x000a0;3), duodenum (n&#x000a0;=&#x000a0;1), colon (n&#x000a0;=&#x000a0;1), gallbladder (n&#x000a0;=&#x000a0;1), liver (n&#x000a0;=&#x000a0;1), uterus (n&#x000a0;=&#x000a0;1), bladder (n&#x000a0;=&#x000a0;1), and primary unknown (n&#x000a0;=&#x000a0;1). Each case was defined as pathological poorly differentiated neuroendocrine carcinoma from surgically resected and/or biopsied specimens. The median Ki&#x02010;67 labeling index was 60% (range, 22%&#x02010;90%). The RR was 15.4%, progression&#x02010;free survival was 1.8&#x000a0;months (95% confidence interval [CI], 1.0&#x02010;2.7), overall survival (OS) was 7.8&#x000a0;months (95% CI, 6.0&#x02010;9.5), and OS from first&#x02010;line treatment was 19.2&#x000a0;months (95% CI, 15.1&#x02010;23.3). No grade 3 or 4 hematological toxicity had occurred and there was one case of grade 3 nausea. One case presented MGMT deficiency and this case showed partial response. Temozolomide monotherapy is a feasible, modestly effective, and safe treatment for patients with unresectable EPNEC following platinum&#x02010;based chemotherapy, especially those with MGMT deficiency.</p></abstract><abstract abstract-type="short" id="cas14811-abs-0002"><p>EPNEC: Extrapulmonary neuroendocrine carcinoma; TMZ: Temozolomide; NENs: Neuroendocrine neoplasms.</p></abstract><kwd-group><kwd id="cas14811-kwd-0001">extrapulmonary</kwd><kwd id="cas14811-kwd-0002">neuroendocrine carcinoma</kwd><kwd id="cas14811-kwd-0003">phase II study</kwd><kwd id="cas14811-kwd-0004">poorly differentiated</kwd><kwd id="cas14811-kwd-0005">temozolomide</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Yokohama City University</funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="3"/><page-count count="7"/><word-count count="4783"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.2 mode:remove_FC converted:02.05.2021</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cas14811-cit-1001">
+<string-name>
+<surname>Kobayashi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Takeda</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Okubo</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Phase II study of temozolomide monotherapy in patients with extrapulmonary neuroendocrine carcinoma</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2021</year>;<volume>112</volume>:<fpage>1936</fpage>&#x02013;<lpage>1942</lpage>. <pub-id pub-id-type="doi">10.1111/cas.14811</pub-id>
+</mixed-citation>
+</p><fn-group id="cas14811-ntgp-0001"><fn id="cas14811-note-0001"><p>Trial registration: Registered 20 April 2013. Registry number: UMIN000010549.</p></fn></fn-group></notes></front><body id="cas14811-body-0001"><def-list list-content="abbreviations" id="cas14811-lp-0001"><title>Abbreviations</title><def-item><term>AE</term><def><p>adverse event</p></def></def-item><def-item><term>CI</term><def><p>confidence interval</p></def></def-item><def-item><term>CT</term><def><p>computed tomography</p></def></def-item><def-item><term>EPNEC</term><def><p>extrapulmonary neuroendocrine carcinoma</p></def></def-item><def-item><term>IHC</term><def><p>immunohistochemistry</p></def></def-item><def-item><term>LCNEC</term><def><p>large&#x02010;cell neuroendocrine carcinoma</p></def></def-item><def-item><term>MGMT</term><def><p>O<sup>6</sup>&#x02010;methylguanine DNA methyltransferase</p></def></def-item><def-item><term>NEC</term><def><p>neuroendocrine carcinoma</p></def></def-item><def-item><term>NEN</term><def><p>neuroendocrine neoplasm</p></def></def-item><def-item><term>NET</term><def><p>neuroendocrine tumor</p></def></def-item><def-item><term>OS</term><def><p>overall survival</p></def></def-item><def-item><term>PFS</term><def><p>progression&#x02010;free survival</p></def></def-item><def-item><term>PS</term><def><p>performance status</p></def></def-item><def-item><term>RR</term><def><p>response rate</p></def></def-item><def-item><term>TMZ</term><def><p>temozolomide</p></def></def-item></def-list><sec id="cas14811-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Extrapulmonary poorly differentiated NEC originates in the gastrointestinal tract, and in gynecological and urological organs as either SCLC or LCNEC, which are both similar to their respective well&#x02010;known pulmonary counterparts.<xref rid="cas14811-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> Extrapulmonary poorly differentiated NEC is a rare disease; its incidence accounts for 10%&#x02010;20% of malignant NENs.<xref rid="cas14811-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="cas14811-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> Extrapulmonary poorly differentiated NEC has aggressive histological features that contribute to its poor prognosis and lethality.<xref rid="cas14811-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> According to an analysis of 14&#x000a0;732 EPNEC cases from the Surveillance Epidemiology and End Results database, distant metastasis was diagnosed in 69% of patients with NEC, and the 5&#x02010;year survival rate for patients with distant metastasis was only 5.7%.<xref rid="cas14811-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>
+</p><p>Systemic chemotherapy is the main treatment option for advanced EPNEC. Some clinical guidelines for treating EPNEC recommend platinum&#x02010;based chemotherapy as the first&#x02010;line treatment.<xref rid="cas14811-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="cas14811-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref> The response rate is approximately 30%&#x02010;50%; however, the PFS is only 4 or 5&#x000a0;months.<xref rid="cas14811-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="cas14811-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> The efficacy of platinum&#x02010;based chemotherapy for EPNEC is limited, and second&#x02010;line chemotherapy is necessary in one&#x02010;half of all cases.<xref rid="cas14811-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="cas14811-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>
+</p><p>To date, there has been no established second&#x02010;line chemotherapy for EPNEC. Oxaliplatin&#x02010;based chemotherapy, irinotecan&#x02010;based chemotherapy and retreatment with platinum&#x02010;based chemotherapy is retrospectively used as second&#x02010;line chemotherapy; however, the response rate is 17%&#x02010;40% and the PFS is only 1.9&#x02010;4.8&#x000a0;months.<xref rid="cas14811-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="cas14811-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="cas14811-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> Amrubicin monotherapy is a promising second&#x02010;line treatment for SCLC; therefore, it is the most frequently used second&#x02010;line regimen for EPNEC, especially in Japan.<xref rid="cas14811-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="cas14811-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="cas14811-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> However, the response rate was 4.0%&#x02010;38.5% and the PFS was 1.9&#x02010;4.0&#x000a0;months.<xref rid="cas14811-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="cas14811-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="cas14811-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="cas14811-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> Clinical classification of NENs has drastically changed during this decade; therefore, some cases of well&#x02010;differentiated NETs with high Ki&#x02010;67 index might have been classified as NEC in previously reported studies.</p><p>Temozolomide&#x02010;based chemotherapy is one of the most frequently used second&#x02010;line treatments for unresectable EPNEC.<xref rid="cas14811-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> The activity of TMZ in patients with unresectable EPNEC has been evaluated in several trials; however, most of them were retrospective studies or the study target was not limited to EPNEC.<xref rid="cas14811-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="cas14811-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> Thus, the activity of TMZ for advanced EPNEC is still unclear. Moreover, there is no evidence of the efficacy of TMZ for Japanese patients with advanced EPNEC because TMZ is not yet approved in the Japanese health insurance system for use in advanced EPNEC. Prospective clinical study of TMZ monotherapy in Japanese patients with advanced EPNEC is a worthy challenge.</p><p>The aim of this study was to determine the efficacy and safety of TMZ monotherapy in patients with unresectable EPNEC resistant to platinum&#x02010;based chemotherapy. Evaluation of the expression of MGMT, a chemosensitivity marker of TMZ, was also undertaken as an additional study.</p></sec><sec sec-type="materials-and-methods" id="cas14811-sec-0002"><label>2</label><title>MATERIAL AND METHODS</title><sec id="cas14811-sec-0003"><label>2.1</label><title>Study design</title><p>A phase II study using TMZ monotherapy as a second&#x02010;line treatment in patients with unresectable EPNEC resistant to platinum&#x02010;based chemotherapy was carried out from April 2013 to March 2017 (UMIN000010549) (IRB B130307033 and B160101021). Temozolomide was not approved for EPNEC by Japanese insurance support; therefore, we informed the efficacy, side&#x02010;effects, and financial support organization for this clinical trial and obtained consent from all patients. Drug supply and funding support were provided by the Advanced Treatment Supportive Organization at Yokohama City University Hospital. This trial finished before March 2017; therefore, it did not meet the specifications of a special clinical trial.</p><p>The prevalence of MGMT deficiency in EPNEC was evaluated, and a correlation was found between MGMT deficiency and treatment response to TMZ by IHC as an exploratory research. This trial was supported by Yokohama City University Hospital.</p></sec><sec id="cas14811-sec-0004"><label>2.2</label><title>Patient selection</title><p>Patients with pathologically confirmed, metastatic, or recurrent poorly differentiated NEC (WHO 2010 Ki&#x02010;67 labeling index greater than 20% for grade 3 tumors), who were previously treated with platinum&#x02010;based first&#x02010;line chemotherapy, were eligible for this study if they met the following inclusion criteria: ECOG PS of 0 or 1; age between 20 and 75&#x000a0;years; EPNEC with at least one measurable lesion based on RECIST; and adequate hematological, liver, and renal function (hemoglobin&#x000a0;&#x0003e;&#x000a0;9.0&#x000a0;g/dL, white blood cell count&#x000a0;&#x0003c;10&#x000a0;000/mm<sup>3</sup> and&#x000a0;&#x0003e;3000/mm<sup>3</sup>, neutrophil count&#x000a0;&#x0003e;1500/mm<sup>3</sup>, platelet count&#x000a0;&#x0003e;100&#x000a0;000/mm<sup>3</sup>, total bilirubin less than 1.5&#x02010;fold the upper normal limit, serum transaminase less than three&#x02010;fold the upper normal limit, and creatinine less than 1.5&#x02010;fold the upper normal limit). The patients provided written informed consent. We excluded primary lung cancer (eg, SCLC and LCNEC), pathological diagnosis of mixed neuroendocrine neoplasm, adenocarcinoma with neuroendocrine features, and well&#x02010;differentiated neuroendocrine tumor, so&#x02010;called NET G3.</p></sec><sec id="cas14811-sec-0005"><label>2.3</label><title>Treatment</title><p>This was an open&#x02010;label, single&#x02010;center, non&#x02010;randomized phase II study. All laboratory tests required to assess eligibility were completed within 7&#x000a0;days prior to the start of treatment. The treatment schedule involved the administration of TMZ (200&#x000a0;mg/m<sup>2</sup>) on days 1&#x02010;5 every 4&#x000a0;weeks. The RR was evaluated as the primary end&#x02010;point, and the PFS, OS, and AEs were evaluated as secondary end&#x02010;points. Computed tomography examinations were carried out every two cycles. Adverse events were defined using the Common Terminology Criteria for Adverse Events version 4.0.</p></sec><sec id="cas14811-sec-0006"><label>2.4</label><title>Immunohistochemistry</title><p>Immunohistochemistry was undertaken on formalin&#x02010;fixed, paraffin&#x02010;embedded tissue sections. We reacted 4&#x02010;&#x003bc;m&#x02010;thick sections of representative blocks with mAbs against MGMT (MT 3.1; 1:25, GeneTex). Nuclear MGMT expression was scored as either intact or deficient in tumor cells.<xref rid="cas14811-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> Tumors were scored as intact when nuclear staining for MGMT was observed in any of the tumor cells. Tumors were scored as deficient when nuclear staining for MGMT was not observed in any tumor cells. Nonneoplastic cells served as an internal positive control in all tissue sections.</p></sec><sec id="cas14811-sec-0007"><label>2.5</label><title>Statistical design</title><p>SWOG&#x02019;s standard design (attained design) was used to determine the number of patients enrolled in the study. The null hypothesis stated that the overall RR would be less than 5% and the alternative hypothesis stated that the overall RR would be greater than 30%; the &#x003b1; error was determined to be 5% (one&#x02010;tailed), and the &#x003b2; error was determined to be 20% (one&#x02010;tailed). The alternative hypothesis was established based on data from previous reports. The sample size was set to 13 cases. The median survival time and corresponding 95% CIs for OS and PFS were estimated using the Kaplan&#x02010;Meier method. Progression&#x02010;free survival was defined as the time from day 1 of cycle 1 until the first event (progressive disease or death by any cause). If no such event occurred, data for that patient were censored on the day of the last imaging procedure. Overall survival was defined as the time from day 1 of cycle 1 until death by any cause. If death did not occur, data were censored on the last day of survival confirmation. All analyses were undertaken using SPSS version 21.0 (IBM).</p></sec></sec><sec sec-type="results" id="cas14811-sec-0008"><label>3</label><title>RESULTS</title><sec id="cas14811-sec-0009"><label>3.1</label><title>Patients and characteristics</title><p>Between April 2013 and March 2017, 13 patients were enrolled in this study. Table&#x000a0;<xref rid="cas14811-tbl-0001" ref-type="table">1</xref> shows the patient characteristics at baseline. The median age of patients was 65&#x000a0;years (range, 40&#x02010;75&#x000a0;years). Six patients were male and seven were female. Three patients had a PS of 1, and 10 cases had a PS of 0. All cases showed metastatic and unresectable EPNEC. Four patients underwent surgical resection of the tumor prior to treatment. The first&#x02010;line chemotherapy regimens were irinotecan&#x000a0;+&#x000a0;cisplatin (n&#x000a0;=&#x000a0;8), cisplatin&#x000a0;+&#x000a0;etoposide (n&#x000a0;=&#x000a0;4), and carboplatin&#x000a0;+&#x000a0;etoposide (n&#x000a0;=&#x000a0;1). Primary lesions were classified as pancreas (n&#x000a0;=&#x000a0;3), stomach (n&#x000a0;=&#x000a0;3), duodenum (n&#x000a0;=&#x000a0;1), colon (n&#x000a0;=&#x000a0;1), gallbladder (n&#x000a0;=&#x000a0;1), liver (n&#x000a0;=&#x000a0;1), uterus (n&#x000a0;=&#x000a0;1), bladder (n&#x000a0;=&#x000a0;1), and primary unknown (n&#x000a0;=&#x000a0;1). The median Ki&#x02010;67 labeling index was 60% (range, 22%&#x02010;90%).</p><table-wrap id="cas14811-tbl-0001" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 1</label><caption><p>Characteristics of patients with extrapulmonary poorly differentiated neuroendocrine carcinoma treated with temozolomide</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Case no.</th><th align="left" valign="top" rowspan="1" colspan="1">Age (y)</th><th align="left" valign="top" rowspan="1" colspan="1">Primary lesion</th><th align="left" valign="top" rowspan="1" colspan="1">Metastasis lesions</th><th align="left" valign="top" rowspan="1" colspan="1">Ki&#x02010;67 index (%)</th><th align="left" valign="top" rowspan="1" colspan="1">Initial treatment</th><th align="left" valign="top" rowspan="1" colspan="1">Pretreatment times (mo)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">60s</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">Liver</td><td align="char" char="." rowspan="1" colspan="1">80</td><td align="left" rowspan="1" colspan="1">IP</td><td align="char" char="." rowspan="1" colspan="1">17.2</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">60s</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">Liver</td><td align="char" char="." rowspan="1" colspan="1">50</td><td align="left" rowspan="1" colspan="1">IP</td><td align="char" char="." rowspan="1" colspan="1">6.7</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">60s</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">Liver</td><td align="char" char="." rowspan="1" colspan="1">70</td><td align="left" rowspan="1" colspan="1">IP</td><td align="char" char="." rowspan="1" colspan="1">12.1</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">70s</td><td align="left" rowspan="1" colspan="1">Duodenum</td><td align="left" rowspan="1" colspan="1">LN, bone</td><td align="char" char="." rowspan="1" colspan="1">70</td><td align="left" rowspan="1" colspan="1">Palliative surgery</td><td align="char" char="." rowspan="1" colspan="1">7.1</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">60s</td><td align="left" rowspan="1" colspan="1">Rectum</td><td align="left" rowspan="1" colspan="1">Liver</td><td align="char" char="." rowspan="1" colspan="1">70</td><td align="left" rowspan="1" colspan="1">EP</td><td align="char" char="." rowspan="1" colspan="1">4.2</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">40s</td><td align="left" rowspan="1" colspan="1">Pancreas</td><td align="left" rowspan="1" colspan="1">Liver</td><td align="char" char="." rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">GEM&#x000a0;+&#x000a0;erlotinib</td><td align="char" char="." rowspan="1" colspan="1">9.8</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">40s</td><td align="left" rowspan="1" colspan="1">Pancreas</td><td align="left" rowspan="1" colspan="1">Liver</td><td align="char" char="." rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">IP</td><td align="char" char="." rowspan="1" colspan="1">82.8</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">70s</td><td align="left" rowspan="1" colspan="1">Pancreas</td><td align="left" rowspan="1" colspan="1">LN, peritoneum</td><td align="char" char="." rowspan="1" colspan="1">34</td><td align="left" rowspan="1" colspan="1">IP</td><td align="char" char="." rowspan="1" colspan="1">9.8</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">70s</td><td align="left" rowspan="1" colspan="1">Liver</td><td align="left" rowspan="1" colspan="1">Liver, lung</td><td align="char" char="." rowspan="1" colspan="1">90</td><td align="left" rowspan="1" colspan="1">Surgical resection</td><td align="char" char="." rowspan="1" colspan="1">10.6</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">40s</td><td align="left" rowspan="1" colspan="1">Gallbladder</td><td align="left" rowspan="1" colspan="1">Liver</td><td align="char" char="." rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">CE</td><td align="char" char="." rowspan="1" colspan="1">5.1</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">70s</td><td align="left" rowspan="1" colspan="1">Bladder</td><td align="left" rowspan="1" colspan="1">LN</td><td align="char" char="." rowspan="1" colspan="1">69</td><td align="left" rowspan="1" colspan="1">IP</td><td align="char" char="." rowspan="1" colspan="1">5.9</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">40s</td><td align="left" rowspan="1" colspan="1">Uterus</td><td align="left" rowspan="1" colspan="1">LN, bone</td><td align="char" char="." rowspan="1" colspan="1">50</td><td align="left" rowspan="1" colspan="1">CDDP&#x000a0;+&#x000a0;radiation</td><td align="char" char="." rowspan="1" colspan="1">19.4</td></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">60s</td><td align="left" rowspan="1" colspan="1">Primary unknown</td><td align="left" rowspan="1" colspan="1">Lung, bone</td><td align="char" char="." rowspan="1" colspan="1">60</td><td align="left" rowspan="1" colspan="1">Palliative surgery</td><td align="char" char="." rowspan="1" colspan="1">18.5</td></tr></tbody></table><table-wrap-foot id="cas14811-ntgp-0002"><fn id="cas14811-note-0002"><p>Abbreviations: CDDP, cisplatin; CE, etoposide plus carboplatin; EP, etoposide plus cisplatin; GEM, gemcitabine; IP, irinotecan plus cisplatin; LN, lymph node.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cas14811-sec-0010"><label>3.2</label><title>Efficacy</title><p>A total of 28 cycles of TMZ were completed, and the median number of cycles per patient was two (range, 1&#x02010;4). The RR was 15.4% and disease control rate was 23.1% (complete response&#x000a0;=&#x000a0;0, partial response&#x000a0;=&#x000a0;2, stable disease&#x000a0;=&#x000a0;1, progressive disease&#x000a0;=&#x000a0;10) (Table&#x000a0;<xref rid="cas14811-tbl-0002" ref-type="table">2</xref>). Progression&#x02010;free survival was 1.8&#x000a0;months (95% CI, 1.0&#x02010;2.7) and OS was 7.8&#x000a0;months (95% CI, 6.0&#x02010;9.5) months. Overall survival from first&#x02010;line treatment was 19.2&#x000a0;months (95% CI, 15.1&#x02010;23.3) (Figures&#x000a0;<xref rid="cas14811-fig-0001" ref-type="fig">1</xref> and <xref rid="cas14811-fig-0002" ref-type="fig">2</xref>). In previously reported studies, high proliferation cases were highly responsive to platinum&#x02010;based chemotherapy. Therefore, we separated patients into two groups according to Ki&#x02010;67 labeling index: high proliferation group, Ki&#x02010;67 50% or higher; and low proliferation group, Ki&#x02010;67 less than 50%. Partial response was achieved in two cases (22.2%) in the high proliferation group. There was no response in the low proliferation group. However, PFS (high proliferation group, 1.8&#x000a0;months; 95% CI, 2.0&#x02010;1.7&#x000a0;months vs low proliferation group, 0.8&#x000a0;months; 95% CI, 2.1&#x02010;0&#x000a0;months; log rank <italic>P</italic>&#x000a0;=&#x000a0;.488), and OS was not significantly different in these two groups (high proliferation group 7.8&#x000a0;months; 95% CI, 10.2&#x02010;5.3&#x000a0;months vs low proliferation group 7.1&#x000a0;months; 95% CI, 12.9&#x02010;1.4&#x000a0;months; log rank <italic>P</italic>&#x000a0;=&#x000a0;.739).</p><table-wrap id="cas14811-tbl-0002" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 2</label><caption><p>Efficacy of temozolomide (TMZ) monotherapy in patients with extrapulmonary poorly differentiated neuroendocrine carcinoma</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Case no.</th><th align="left" valign="top" rowspan="1" colspan="1">Best response</th><th align="left" valign="top" rowspan="1" colspan="1">Treatment cycle</th><th align="left" valign="top" rowspan="1" colspan="1">PFS (mo)</th><th align="left" valign="top" rowspan="1" colspan="1">OS (mo)</th><th align="left" valign="top" rowspan="1" colspan="1">OS (1st line) (mo)</th><th align="left" valign="top" rowspan="1" colspan="1">Post TMZ treatment</th><th align="left" valign="top" rowspan="1" colspan="1">MGMT expression</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">PD</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0.5</td><td align="char" char="." rowspan="1" colspan="1">3.3</td><td align="char" char="." rowspan="1" colspan="1">20.5</td><td align="left" rowspan="1" colspan="1">NT</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">PD</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">1.8</td><td align="char" char="." rowspan="1" colspan="1">6.9</td><td align="char" char="." rowspan="1" colspan="1">13.6</td><td align="left" rowspan="1" colspan="1">S&#x02010;1</td><td align="left" rowspan="1" colspan="1">Intact</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">PR</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3.3</td><td align="char" char="." rowspan="1" colspan="1">4.5</td><td align="char" char="." rowspan="1" colspan="1">16.7</td><td align="left" rowspan="1" colspan="1">NT</td><td align="left" rowspan="1" colspan="1">Intact</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">PD</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">0.7</td><td align="char" char="." rowspan="1" colspan="1">13.1</td><td align="char" char="." rowspan="1" colspan="1">20.2</td><td align="left" rowspan="1" colspan="1">NT</td><td align="left" rowspan="1" colspan="1">Intact</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">PD</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0.6</td><td align="char" char="." rowspan="1" colspan="1">1.5</td><td align="char" char="." rowspan="1" colspan="1">5.8</td><td align="left" rowspan="1" colspan="1">NT</td><td align="left" rowspan="1" colspan="1">Intact</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">PD</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">0.7</td><td align="char" char="." rowspan="1" colspan="1">2.5</td><td align="char" char="." rowspan="1" colspan="1">12.3</td><td align="left" rowspan="1" colspan="1">NT</td><td align="left" rowspan="1" colspan="1">Intact</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">PD</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">2.0</td><td align="char" char="." rowspan="1" colspan="1">32.6</td><td align="char" char="." rowspan="1" colspan="1">115.4</td><td align="left" rowspan="1" colspan="1">NT</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">SD</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">3.8</td><td align="char" char="." rowspan="1" colspan="1">8.4</td><td align="char" char="." rowspan="1" colspan="1">18.2</td><td align="left" rowspan="1" colspan="1">Everolimus</td><td align="left" rowspan="1" colspan="1">Intact</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">PR</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3.3</td><td align="char" char="." rowspan="1" colspan="1">8.6</td><td align="char" char="." rowspan="1" colspan="1">19.2</td><td align="left" rowspan="1" colspan="1">CapeOX&#x000a0;+&#x000a0;Bmab</td><td align="left" rowspan="1" colspan="1">Deficient</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">PD</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">0.8</td><td align="char" char="." rowspan="1" colspan="1">7.1</td><td align="char" char="." rowspan="1" colspan="1">12.0</td><td align="left" rowspan="1" colspan="1">NT</td><td align="left" rowspan="1" colspan="1">Intact</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">PD</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">1.6</td><td align="char" char="." rowspan="1" colspan="1">33.7</td><td align="char" char="." rowspan="1" colspan="1">39.5</td><td align="left" rowspan="1" colspan="1">AMR</td><td align="left" rowspan="1" colspan="1">Intact</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">PD</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">1.8</td><td align="char" char="." rowspan="1" colspan="1">9.0</td><td align="char" char="." rowspan="1" colspan="1">28.4</td><td align="left" rowspan="1" colspan="1">Topotecan</td><td align="left" rowspan="1" colspan="1">Intact</td></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">PD</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">1.8</td><td align="char" char="." rowspan="1" colspan="1">8.9</td><td align="char" char="." rowspan="1" colspan="1">27.4</td><td align="left" rowspan="1" colspan="1">AMR</td><td align="left" rowspan="1" colspan="1">Intact</td></tr></tbody></table><table-wrap-foot id="cas14811-ntgp-0003"><fn id="cas14811-note-0003"><p>Abbreviations: AMR, amrubicin; Bmab, bevacizumab; CapeOX, capecitabin plus oxaliplatin; MGMT, O<sup>6</sup>&#x02010;methylguanine DNA methyltransferase; NA, not available; NT, no treatment; OS, overall survival; PD, progressive disease; PFS, progression&#x02010;free survival; PR, partial response; SD, stable disease.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="FIGURE" xml:lang="en" id="cas14811-fig-0001" orientation="portrait" position="float"><label>FIGURE 1</label><caption><p>Kaplan&#x02010;Meier curve for progression&#x02010;free survival among patients with extrapulmonary neuroendocrine carcinoma treated with temozolomide monotherapy. The median progression&#x02010;free survival was 1.8&#x000a0;months (95% confidence interval, 1.0&#x02010;2.7&#x000a0;months). No patient data were censored</p></caption><graphic id="jats-graphic-1" xlink:href="CAS-112-1936-g001"/></fig><fig fig-type="FIGURE" xml:lang="en" id="cas14811-fig-0002" orientation="portrait" position="float"><label>FIGURE 2</label><caption><p>Kaplan&#x02010;Meier curve for overall survival among patients with extrapulmonary neuroendocrine carcinoma treated with temozolomide monotherapy. The median overall survival was 7.8&#x000a0;months (95% confidence interval, 6.0&#x02010;9.5&#x000a0;months). No patient data was censored</p></caption><graphic id="jats-graphic-3" xlink:href="CAS-112-1936-g003"/></fig></sec><sec id="cas14811-sec-0011"><label>3.3</label><title>Toxicity</title><p>The most common AEs were hematological toxicities. There were no occurrences of grade 3 or 4 severe neutropenia, anemia, or thrombocytopenia. All hematological toxicities were nonsevere (grade 1 or 2); anemia occurred in 12 patients (92%), thrombocytopenia occurred in five patients (39%), and leucopenia occurred in one patient (8%) (Table&#x000a0;<xref rid="cas14811-tbl-0003" ref-type="table">3</xref>).</p><table-wrap id="cas14811-tbl-0003" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 3</label><caption><p>Hematological and nonhematological toxicities in patients with extrapulmonary poorly differentiated neuroendocrine carcinoma treated with temozolomide (N&#x000a0;=&#x000a0;13)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">
+<p>Grade 3, 4</p>
+<p>n (%)</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>All grades</p>
+<p>n (%)</p>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Anemia</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">12 (92)</td></tr><tr><td align="left" rowspan="1" colspan="1">Leucopenia</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">1 (8)</td></tr><tr><td align="left" rowspan="1" colspan="1">Neutropenia</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0 (0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Thrombocytopenia</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">5 (39)</td></tr><tr><td align="left" rowspan="1" colspan="1">Febrile neutropenia</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0 (0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Liver dysfunction</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">3 (23)</td></tr><tr><td align="left" rowspan="1" colspan="1">Renal dysfunction</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">3 (23)</td></tr><tr><td align="left" rowspan="1" colspan="1">Fever</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">1 (4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Nausea</td><td align="left" rowspan="1" colspan="1">1 (8)</td><td align="left" rowspan="1" colspan="1">4 (31)</td></tr><tr><td align="left" rowspan="1" colspan="1">Vomiting</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">3 (23)</td></tr><tr><td align="left" rowspan="1" colspan="1">Diarrhea</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">1 (8)</td></tr><tr><td align="left" rowspan="1" colspan="1">General fatigue</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">4(31)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Of all severe nonhematological toxicities, only severe nausea was observed in one patient (8%) (Table&#x000a0;<xref rid="cas14811-tbl-0003" ref-type="table">3</xref>). Grade 1 and 2 nonhematological toxicities that occurred included liver dysfunction in three patients (23%), renal dysfunction in three patients (23%), nausea in five patients (38%), vomiting in three patients (23%), diarrhea in one patient (8%), and general fatigue in four patients (31%).</p></sec><sec id="cas14811-sec-0012"><label>3.4</label><title>Immunohistochemical analysis</title><p>Formalin&#x02010;fixed, paraffin&#x02010;embedded tissue sections were obtained from all cases. Sufficient tissues for immunohistochemical analysis could not be obtained from two cases. As a result, 11 tissue samples were analyzed in total (Table&#x000a0;<xref rid="cas14811-tbl-0002" ref-type="table">2</xref>). Ten cases were found to be intact and one case was found to be deficient (Figure&#x000a0;<xref rid="cas14811-fig-0003" ref-type="fig">3A,B</xref>). The deficient case had a primary liver NEC with multiple liver metastases and temporarily achieved a partial response (Figure&#x000a0;<xref rid="cas14811-fig-0003" ref-type="fig">3C,D</xref>).</p><fig fig-type="FIGURE" xml:lang="en" id="cas14811-fig-0003" orientation="portrait" position="float"><label>FIGURE 3</label><caption><p>A, Serial section of a primary lesion of gastric neuroendocrine carcinoma with multiple liver metastases (case 3). Immunohistochemical findings revealed tumor cells were diffuse and moderately stained by O<sub>6</sub>&#x02010;methylguanine DNA methyltransferase (MGMT) protein. This case was defined as intact. B, Serial section of a liver lesion of hepatic neuroendocrine carcinoma (case 9). Immunohistochemical findings revealed tumor cells were not stained by MGMT protein diffusely. This case was defined as deficient. C, Computed tomography findings revealed multiple liver metastases before treatment with temozolomide (case 9). D, Computed tomography findings revealed multiple liver metastases after two treatment cycles with temozolomide. Multiple liver tumors showed remarkable shrinkage (case 9)</p></caption><graphic id="jats-graphic-5" xlink:href="CAS-112-1936-g002"/></fig></sec></sec><sec sec-type="discussion" id="cas14811-sec-0013"><label>4</label><title>DISCUSSION</title><p>The activity of TMZ in patients with unresectable NEN has been evaluated in several trials, which showed interesting activity in terms of RR values, ranging from 14% to 70%.<xref rid="cas14811-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="cas14811-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>, <xref rid="cas14811-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> However, these clinical data describe TMZ&#x02010;based chemotherapy for mainly well&#x02010;to&#x02010;moderately differentiated NETs (WHO 2019: grade1 and/or grade 2). Primary pancreatic NET shows a good response (43%&#x02013;70%) to TMZ therapy with a long PFS rate (12&#x02010;18&#x000a0;months).<xref rid="cas14811-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>, <xref rid="cas14811-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> Recently, in a prospective randomized phase II study for pancreatic NET (G1 or G2) with TMZ monotherapy vs capecitabine and TMZ combination chemotherapy, the response rate was 33.3% vs 27.8%, respectively, and the PFS was 22.7&#x000a0;months vs 14.4&#x000a0;months. Temozolomide and capecitabine combination chemotherapy shows a significantly better PFS than TMZ monotherapy.<xref rid="cas14811-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> The ENETS consensus guidelines describing TMZ&#x02010;based chemotherapy should be considered for well&#x02010;differentiated NEN, including NET G3.<xref rid="cas14811-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>
+</p><p>However, TMZ&#x02010;based chemotherapy for EPNEC is not sufficiently effective as an urgent treatment. In a previous study, TMZ monotherapy or TMZ in combination with capecitabine and bevacizumab for EPNEC showed a response rate of 0%&#x02013;57% and a PFS of 2.4&#x02010;8.4&#x000a0;months.<xref rid="cas14811-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="cas14811-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="cas14811-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>
+</p><p>In general, second&#x02010; or third&#x02010;line chemotherapy treatment for EPNEC has a response rate of 0%&#x02010;18.8% and a PFS of 2.1&#x02010;3.8&#x000a0;months.<xref rid="cas14811-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="cas14811-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="cas14811-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="cas14811-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref> In this study, we estimated the response rate to be 15.4% and the PFS as 1.8&#x000a0;months. Here, TMZ monotherapy was undertaken in six cases as a second&#x02010;line treatment, but in the other seven cases, it was undertaken as the third&#x02010; or salvage&#x02010;line treatment. Patients in this study undergoing TMZ monotherapy showed more advanced disease than patients from the other TMZ studies reported so far. According to recently published real&#x02010;world data, the median PFS for poorly differentiated NEC was 2.8&#x000a0;months in the TMZ monotherapy group and 2.9&#x000a0;months in the capecitabine combination group (<italic>P</italic>&#x000a0;=&#x000a0;.982). Median OS for poorly differentiated NEC was 6.2&#x000a0;months in the TMZ monotherapy group and 12.7&#x000a0;months in the capecitabine combination group (<italic>P</italic>&#x000a0;=&#x000a0;.613). Capecitabine addition did not have a significant impact on EPNEC, compared with NET. The addition of other agents to TMZ might be necessary for EPNEC. Temozolomide monotherapy is mildly toxic, and incidents of severe toxic events have been rare in previously reported studies. In this study, there were no grade 3 or 4 hematological and few nonhematological toxicities. Patients received chemotherapy for a long duration (approximately 6&#x000a0;months; detailed data not shown), and their general condition was no better than that reported in previous studies. No severe toxicity was observed in these advanced patients. Recently, many studies for unresectable NEN were undertaken using TMZ and capecitabine combination therapy that showed the rate of severe adverse events was very low (grade 3 or 4 hematological toxicities, 3.4%; nonhematological toxicities, less than 1%) and confirmed the mild toxicity of this therapy.<xref rid="cas14811-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>
+</p><p>O<sup>6</sup>&#x02010;methylguanine DNA methyltransferase deficiency was confirmed by IHC analysis, and a case of deficiency in response to TMZ monotherapy was found in this study. Expression of MGMT in tumor cells was assessed as a predictive biomarker for alkylating agents. One mechanism of resistance to alkylating agents is an increase in the expression of the DNA repair enzyme MGMT. If the expression of MGMT is decreased by methylation of the <italic>MGMT</italic> promoter region, DNA repair is decreased. A decrease in MGMT expression, which frequently occurs during carcinogenesis, could increase the sensitivity of tumor cells to alkylating agents that induce DNA damage, thus increasing the response to alkylating agents. Many previous studies have described the relationship between MGMT expression and the response of NENs.<xref rid="cas14811-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="cas14811-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> In our study, the analysis of the MGMT&#x02010;deficient case showed shrinkage of multiple liver tumors after two treatment cycles. However, the tumors rapidly regrew after two cycles. According to another recent study, metronomic TMZ monotherapy (one&#x02010;week&#x02010;on/one&#x02010;week&#x02010;off treatment) for pancreatic NEC with MGMT deficiency is a good option for second&#x02010;line chemotherapy.<xref rid="cas14811-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref> We consider TMZ monotherapy as a potential treatment option for EPNEC with MGMT deficiency as a second&#x02010; or third&#x02010;line treatment.</p><p>This study has some limitations. First, the sample size was small, and the primary lesions were heterogeneous. Most prior studies were designed for unresectable pancreatic NEN or GEP&#x02010;NEN. Extrapulmonary NEC shows a high degree of heterogeneity, so the efficacy of TMZ could differ according to primary lesions. Second, we evaluated MGMT status using IHC. In a clinical setting, MGMT status can be evaluated by assessing MGMT protein expression using IHC or by determining MGMT promoter methylation using a methylation assay. Some previous reports suggest that concordance is relatively low between IHC and methylation&#x02010;specific PCR assessments of MGMT status.<xref rid="cas14811-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>
+</p><p>Our study revealed that salvage&#x02010;line TMZ monotherapy was a safe and marginally effective treatment for patients with unresectable EPNEC after failure of first&#x02010;line platinum&#x02010;based chemotherapy. We consider TMZ monotherapy as a potential treatment option for EPNEC with MGMT deficiency as a second&#x02010; or third&#x02010;line treatment. A more effective second&#x02010;line treatment option is necessary for EPNEC, but chemotherapy with TMZ combined with another agent could serve as a feasible and effective treatment option for EPNEC treatment, especially in the presence of MGMT deficiency.</p></sec><sec sec-type="COI-statement" id="cas14811-sec-0015"><title>CONFLICT OF INTEREST</title><p>The authors declare no conflict of interests.</p></sec><sec id="cas14811-sec-0016"><title>ETHICAL APPROVAL</title><p>This study was conducted in accordance with the principles expressed in the Declaration of Helsinki. The main protocol of this study was approved by the institutional review board of Yokohama City University (Trial No. B130307033 and B160101021) at March 8th 2013 and February 5th 2016. Protocol amendments have been made in the study period. The latest version (version 3.0) of study protocol has been reviewed and approved by the institutional review board in Yokohama City University. Written informed consent will be obtained from all the participants.</p></sec><sec id="cas14811-sec-0017"><title>CONSENT FOR PUBLICATION</title><p>Not applicable.</p></sec></body><back><ack id="cas14811-sec-0014"><title>ACKNOWLEDGMENTS</title><p>We thank the patients and their families who participated in this study. We would like to thank Editage for English language editing. This trial was supported by Yokohama City University.</p></ack><sec sec-type="data-availability" id="cas14811-sec-0019"><title>DATA AVAILABILITY STATEMENT</title><p>The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.</p></sec><ref-list content-type="cited-references" id="cas14811-bibl-0001"><title>REFERENCES</title><ref id="cas14811-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cas14811-cit-0001">
+<string-name>
+<surname>Volante</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Birocco</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Gatti</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Extrapulmonary neuroendocrine small and large cell carcinomas: a review of controversial diagnostic and therapeutic issues</article-title>. <source xml:lang="en">Hum Pathol</source>. <year>2014</year>;<volume>45</volume>:<fpage>665</fpage>&#x02010;<lpage>673</lpage>.<pub-id pub-id-type="pmid">23806528</pub-id></mixed-citation></ref><ref id="cas14811-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cas14811-cit-0002">
+<string-name>
+<surname>Lepage</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ciccolallo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>De&#x02010;Angelis</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>European disparities in malignant digestive endocrine tumors survival</article-title>. <source xml:lang="en">Int J Cancer</source>. <year>2010</year>;<volume>126</volume>:<fpage>2928</fpage>&#x02010;<lpage>2934</lpage>.<pub-id pub-id-type="pmid">19569047</pub-id></mixed-citation></ref><ref id="cas14811-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cas14811-cit-0003">
+<string-name>
+<surname>Kang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Connell</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Leonardi</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Rare tumors of the colon and rectum: a national review</article-title>. <source xml:lang="en">Int J Colorectal Dis</source>. <year>2007</year>;<volume>22</volume>:<fpage>183</fpage>&#x02010;<lpage>189</lpage>.<pub-id pub-id-type="pmid">16845516</pub-id></mixed-citation></ref><ref id="cas14811-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cas14811-cit-0004">
+<string-name>
+<surname>Sorbye</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Strosberg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Baudin</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Gastroenteropancreatic high&#x02010;grade neuroendocrine carcinoma</article-title>. <source xml:lang="en">Cancer</source>. <year>2014</year>;<volume>120</volume>:<fpage>2814</fpage>&#x02010;<lpage>2823</lpage>.<pub-id pub-id-type="pmid">24771552</pub-id></mixed-citation></ref><ref id="cas14811-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cas14811-cit-0005">
+<string-name>
+<surname>Dasari</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mehta</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Byers</surname>
+<given-names>LA</given-names>
+</string-name>, et al. <article-title>Comparative study of lung and extrapulmonary poorly differentiated neuroendocrine carcinomas: A SEER database analysis of 162,983 cases</article-title>. <source xml:lang="en">Cancer</source>. <year>2018</year>;<volume>124</volume>(<issue>4</issue>):<fpage>807</fpage>&#x02010;<lpage>815</lpage>.<pub-id pub-id-type="pmid">29211313</pub-id></mixed-citation></ref><ref id="cas14811-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cas14811-cit-0006">
+<string-name>
+<surname>Pavel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Toole</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Costa</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>ENETS consensus guidelines update for the management of distant metastatic disease of intestinal, pancreatic, bronchial neuroendocrine neoplasms (NEN) and NEN of unknown primary site</article-title>. <source xml:lang="en">Neuroendocrinology</source>. <year>2016</year>;<volume>103</volume>:<fpage>172</fpage>&#x02010;<lpage>185</lpage>.<pub-id pub-id-type="pmid">26731013</pub-id></mixed-citation></ref><ref id="cas14811-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cas14811-cit-0007">
+<string-name>
+<surname>Kulke</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Benson</surname>
+<given-names>ALB</given-names>
+</string-name>, et al. <article-title>Neuroendocrine tumors, version 1.2015</article-title>. <source xml:lang="en">J Natl Compr Canc Netw</source>. <year>2015</year>;<volume>13</volume>:<fpage>78</fpage>&#x02010;<lpage>108</lpage>.<pub-id pub-id-type="pmid">25583772</pub-id></mixed-citation></ref><ref id="cas14811-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cas14811-cit-0008">
+<string-name>
+<surname>Sorbye</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Welin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Langer</surname>
+<given-names>SW</given-names>
+</string-name>, et al. <article-title>Predictive and prognostic factors for treatment and survival in 305 patients with advanced gastrointestinal neuroendocrine carcinoma (WHO, G3): The NORDIC NEC study</article-title>. <source xml:lang="en">Ann Oncol</source>. <year>2013</year>;<volume>24</volume>:<fpage>152</fpage>&#x02010;<lpage>160</lpage>.<pub-id pub-id-type="pmid">22967994</pub-id></mixed-citation></ref><ref id="cas14811-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cas14811-cit-0009">
+<string-name>
+<surname>Yamaguchi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Machida</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Morizane</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Multicenter retrospective analysis of systemic chemotherapy foradvanced neuroendocrine carcinoma of the digestive system</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2014</year>;<volume>105</volume>:<fpage>1176</fpage>&#x02010;<lpage>1181</lpage>.<pub-id pub-id-type="pmid">24975505</pub-id></mixed-citation></ref><ref id="cas14811-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cas14811-cit-0010">
+<string-name>
+<surname>Bajetta</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Catena</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Procopio</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Are capecitabine and oxaliplatin (XELOX) suitable treatments for progressing low&#x02010;grade and high&#x02010;grade neuroendocrine tumours?</article-title>
+<source xml:lang="en">Cancer Chemother Pharmacol</source>. <year>2007</year>;<volume>59</volume>:<fpage>637</fpage>&#x02010;<lpage>642</lpage>.<pub-id pub-id-type="pmid">16937105</pub-id></mixed-citation></ref><ref id="cas14811-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cas14811-cit-0011">
+<string-name>
+<surname>Hentic</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Hammel</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Couvelard</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>FOLFIRI regimen: an effective second&#x02010;line chemotherapy after failure of etoposide&#x02010;platinum combination in patients with neuroendocrine carcinomas grade 3</article-title>. <source xml:lang="en">Endocr Relat Cancer</source>. <year>2012</year>;<volume>19</volume>:<fpage>751</fpage>&#x02010;<lpage>757</lpage>.<pub-id pub-id-type="pmid">22940375</pub-id></mixed-citation></ref><ref id="cas14811-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cas14811-cit-0012">
+<string-name>
+<surname>Nio</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Arita</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Isobe</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Amrubicin monotherapy for patients with extrapulmonary neuroendocrine carcinoma after platinum&#x02010;based chemotherapy</article-title>. <source xml:lang="en">Cancer Chemother Pharmacol</source>. <year>2015</year>;<volume>75</volume>:<fpage>829</fpage>&#x02010;<lpage>835</lpage>.<pub-id pub-id-type="pmid">25702050</pub-id></mixed-citation></ref><ref id="cas14811-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cas14811-cit-0013">
+<string-name>
+<surname>Ando</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hosokawa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Yoshita</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Amrubicin monotherapy for patients with platinum&#x02010;refractory gastroenteropancreatic neuroendocrine carcinoma</article-title>. <source xml:lang="en">Gastroenterol Res Pract</source>. <year>2015</year>;<volume>2015</volume>:<fpage>425876</fpage>.<pub-id pub-id-type="pmid">26199623</pub-id></mixed-citation></ref><ref id="cas14811-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cas14811-cit-0014">
+<string-name>
+<surname>Araki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Takashima</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hamaguchi</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Amrubicin in patients with platinum&#x02010;refractory metastatic neuroendocrine carcinoma and mixed adenoneuroendocrine carcinoma of the gastrointestinal tract</article-title>. <source xml:lang="en">Anticancer Drugs</source>. <year>2016</year>;<volume>27</volume>:<fpage>794</fpage>&#x02010;<lpage>799</lpage>.<pub-id pub-id-type="pmid">27341105</pub-id></mixed-citation></ref><ref id="cas14811-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cas14811-cit-0015">
+<string-name>
+<surname>Welin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sorbye</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Sebjornsen</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Clinical effect of temozolomide&#x02010;based chemotherapy in poorly differentiated endocrine carcinoma after progression on first&#x02010;line chemotherapy</article-title>. <source xml:lang="en">Cancer</source>. <year>2011</year>;<volume>117</volume>:<fpage>4617</fpage>&#x02010;<lpage>4622</lpage>.<pub-id pub-id-type="pmid">21456005</pub-id></mixed-citation></ref><ref id="cas14811-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cas14811-cit-0016">
+<string-name>
+<surname>Olsen</surname>
+<given-names>IH</given-names>
+</string-name>, <string-name>
+<surname>Sorensen</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Federspiel</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Temozolomide as second or third line treatment of patients with neuroendocrine carcinoma</article-title>. <source xml:lang="en">Scientific World J</source>. <year>2012</year>;<volume>2012</volume>:<fpage>170496</fpage>.</mixed-citation></ref><ref id="cas14811-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cas14811-cit-0017">
+<string-name>
+<surname>Kulke</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Hornick</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Frauenhoffer</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>O6&#x02010;methylguanine DNA methyltransferase deficiency and response to temozolomide&#x02010;based therapy in patients with neuroendocrine tumors</article-title>. <source xml:lang="en">Clin Cancer Res</source>. <year>2009</year>;<volume>15</volume>:<fpage>338</fpage>&#x02010;<lpage>345</lpage>.<pub-id pub-id-type="pmid">19118063</pub-id></mixed-citation></ref><ref id="cas14811-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cas14811-cit-0018">
+<string-name>
+<surname>Ekeblad</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sunddia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Janson</surname>
+<given-names>ET</given-names>
+</string-name>, et al. <article-title>Temozolomide as monotherapy is effective in treatment of advanced malignant neuroendocrine tumors</article-title>. <source xml:lang="en">Clin Cancer Res</source>. <year>2007</year>;<volume>13</volume>:<fpage>2986</fpage>&#x02010;<lpage>3075</lpage>.<pub-id pub-id-type="pmid">17505000</pub-id></mixed-citation></ref><ref id="cas14811-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cas14811-cit-0019">
+<string-name>
+<surname>Strosberg</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Fine</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>First&#x02010;line chemotherapy with capecitabine and temozolomide in patuents with metastatic pancreatic endocrine carcinoma</article-title>. <source xml:lang="en">Cancer</source>. <year>2011</year>;<volume>117</volume>:<fpage>268</fpage>&#x02010;<lpage>275</lpage>.<pub-id pub-id-type="pmid">20824724</pub-id></mixed-citation></ref><ref id="cas14811-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cas14811-cit-0020">
+<string-name>
+<surname>Saif</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Kaley</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Brennan</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>A retrospective study of capecitabine/temozolomide (CAPTEM) regimen in the treatment of metastatic pancreatic neuroendocrine tumors (pNETs) after failing previous therapy</article-title>. <source xml:lang="en">JOP</source>. <year>2013</year>;<volume>14</volume>:<fpage>498</fpage>&#x02010;<lpage>501</lpage>.<pub-id pub-id-type="pmid">24018594</pub-id></mixed-citation></ref><ref id="cas14811-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cas14811-cit-0021">
+<string-name>
+<surname>Kunz</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Catalano</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Nimeiri</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>A randomized study of temozolomide or temozolomide and capecitabine in patients with advanced pancreatic neuroendocrine tumors: A trial of the ECOG&#x02010;ACRIN Cancer Research Group (E2211)</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2018</year>;<volume>36</volume> (<issue>suppl; abstr 4004</issue>).</mixed-citation></ref><ref id="cas14811-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cas14811-cit-0022">
+<string-name>
+<surname>Owen</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Alexander</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Konda</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Combination therapy with capecitabine and temozolomide in patients with low and high grade neuroendocrine tumors, with an exploratory analysis of O <sup>6</sup>&#x02010;methylguanine DNA methyltransferase as a biomarker for response</article-title>. <source xml:lang="en">Oncotarget</source>. <year>2017</year>;<volume>8</volume>:<fpage>104046</fpage>&#x02010;<lpage>104056</lpage>.<pub-id pub-id-type="pmid">29262620</pub-id></mixed-citation></ref><ref id="cas14811-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cas14811-cit-0023">
+<string-name>
+<surname>Apostolidis</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bergmann</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>J&#x000e4;ger</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Efficacy of topotecan in pretreated metastatic poorly differentiated extrapulmonary neuroendocrine carcinoma</article-title>. <source xml:lang="en">Cancer Med</source>. <year>2016</year>;<volume>5</volume>:<fpage>2261</fpage>&#x02010;<lpage>2267</lpage>.<pub-id pub-id-type="pmid">27456539</pub-id></mixed-citation></ref><ref id="cas14811-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cas14811-cit-0024">
+<string-name>
+<surname>Bongiovanni</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Liverani</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Foca</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Temozolomide alone or combined with capecitabine for the treatment of metastatic neuroendocrine neoplasia: a "real world" data analysis</article-title>. <source xml:lang="en">Neuroendocrinology</source>. <year>2020</year>. in press. <pub-id pub-id-type="doi">10.1159/000513218</pub-id>
+</mixed-citation></ref><ref id="cas14811-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cas14811-cit-0025">
+<string-name>
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Safety and efficacy of combining capecitabine and temozolomide (CAPTEM) to treat advanced neuroendocrine neoplasms: A meta&#x02010;analysis</article-title>. <source xml:lang="en">Medicine (Baltimore)</source>. <year>2018</year>;<volume>97</volume>:<elocation-id>e12784</elocation-id>.<pub-id pub-id-type="pmid">30313101</pub-id></mixed-citation></ref><ref id="cas14811-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cas14811-cit-0026">
+<string-name>
+<surname>Campana</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Walter</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Pusceddu</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Correlation between MGMT promoter methylation and response to temozolomide&#x02010;based therapy in neuroendocrine neoplasms: an observational retrospective multicenter study</article-title>. <source xml:lang="en">Endocrine</source>. <year>2018</year>;<volume>60</volume>:<fpage>490</fpage>&#x02010;<lpage>498</lpage>.<pub-id pub-id-type="pmid">29150792</pub-id></mixed-citation></ref><ref id="cas14811-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cas14811-cit-0027">
+<string-name>
+<surname>De Divitiis</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>von Arx</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Grimaldi</surname>
+<given-names>AM</given-names>
+</string-name>, et al. <article-title>Metronomic temozolomide as second line treatment for metastatic poorly differentiated pancreatic neuroendocrine carcinoma</article-title>. <source xml:lang="en">J Transl Med</source>. <year>2016</year>;<volume>14</volume>:<fpage>113</fpage>.<pub-id pub-id-type="pmid">27142424</pub-id></mixed-citation></ref><ref id="cas14811-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cas14811-cit-0028">
+<string-name>
+<surname>Cives</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ghayouri</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Morse</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Analysis of potential response predictors to capecitabine/temozolomide in metastatic pancreatic neuroendocrine tumors</article-title>. <source xml:lang="en">Endocr Relat Cancer</source>. <year>2016</year>;<volume>23</volume>:<fpage>759</fpage>&#x02010;<lpage>767</lpage>.<pub-id pub-id-type="pmid">27552969</pub-id></mixed-citation></ref></ref-list></back></article>

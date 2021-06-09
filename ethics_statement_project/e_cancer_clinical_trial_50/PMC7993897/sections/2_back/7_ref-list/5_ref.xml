@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Robert</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Ribas</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Schachter</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Pembrolizumab versus ipilimumab in advanced melanoma (KEYNOTE-006): post-hoc 5-year results from an open-label, multicentre, randomised, controlled, phase 3 study</article-title>
+  <source>Lancet Oncol</source>
+  <year>2019</year>
+  <volume>20</volume>
+  <issue>9</issue>
+  <fpage>1239</fpage>
+  <lpage>1251</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(19)30388-2</pub-id>
+  <?supplied-pmid 31345627?>
+  <pub-id pub-id-type="pmid">31345627</pub-id>
+ </element-citation>
+</ref>

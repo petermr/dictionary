@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R35">
+ <label>35</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Sakurai</surname>
+    <given-names>H</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Asamura</surname>
+    <given-names>H</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Goya</surname>
+    <given-names>T</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Survival differences by gender for resected non-small cell lung cancer: a retrospective analysis of 12,509 cases in a Japanese lung cancer registry study</article-title>. 
+  <source>J Thorac Oncol</source>
+  <year>2010</year>;
+  <volume>5</volume>:
+  <fpage>1594</fpage>–
+  <lpage>601</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/JTO.0b013e3181f1923b</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/20736855?>
+  <pub-id pub-id-type="pmid">20736855</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>The Likert-type scale.</p>
+ </caption>
+ <table frame="hsides" rules="groups" border="0">
+  <thead>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Scores</td>
+    <td align="center" rowspan="1" colspan="1">Symptoms</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">Severe distension, even interfering sleep</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">2</td>
+    <td align="left" rowspan="1" colspan="1">Salient distension and refuse to feed</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">3</td>
+    <td align="left" rowspan="1" colspan="1">Endurable distension</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">4</td>
+    <td align="left" rowspan="1" colspan="1">Slight distension</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">5</td>
+    <td align="left" rowspan="1" colspan="1">No symptom</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

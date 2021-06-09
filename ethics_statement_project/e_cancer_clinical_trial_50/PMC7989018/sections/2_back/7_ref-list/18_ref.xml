@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Weickhardt</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>Scheier</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Burke</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Gan</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Bunn</surname>
+    <given-names>PA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Local ablative therapy of oligoprogressive disease prolongs disease control by tyrosine kinase inhibitors in oncogene-addicted non-small-cell lung cancer</article-title>
+  <source>J Thorac Oncol</source>
+  <year>2012</year>
+  <volume>7</volume>
+  <issue>12</issue>
+  <fpage>1807</fpage>
+  <lpage>1814</lpage>
+  <pub-id pub-id-type="doi">10.1097/JTO.0b013e3182745948</pub-id>
+  <?supplied-pmid 23154552?>
+  <pub-id pub-id-type="pmid">23154552</pub-id>
+ </element-citation>
+</ref>

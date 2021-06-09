@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kohn</surname>
+    <given-names>CG</given-names>
+   </name>
+   <name>
+    <surname>Zeichner</surname>
+    <given-names>SB</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>Q</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cost-effectiveness of immune checkpoint inhibition in BRAF wild-type advanced melanoma</article-title>
+  <source>J Clin Oncol</source>
+  <year>2017</year>
+  <volume>35</volume>
+  <issue>11</issue>
+  <fpage>1194</fpage>
+  <lpage>1202</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2016.69.6336</pub-id>
+  <?supplied-pmid 28221865?>
+  <pub-id pub-id-type="pmid">28221865</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <label>34.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Johnson</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Liszewski</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Dawdy</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Lai</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>McGuffin</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>Learning in 360 degrees: a pilot study on the use of virtual reality for radiation therapy patient education</article-title>
+  <source>J Med Imaging Radiat Sci</source>
+  <year>2020</year>
+  <volume>51</volume>
+  <issue>2</issue>
+  <fpage>221</fpage>
+  <lpage>226</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jmir.2019.12.008</pub-id>
+  <pub-id pub-id-type="pmid">32046946</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Robert</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Long</surname>
+    <given-names>GV</given-names>
+   </name>
+   <name>
+    <surname>Brady</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Nivolumab in previously untreated melanoma without BRAF mutation</article-title>
+  <source>N Engl J Med</source>
+  <year>2015</year>
+  <volume>372</volume>
+  <issue>4</issue>
+  <fpage>320</fpage>
+  <lpage>330</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1412082</pub-id>
+  <?supplied-pmid 25399552?>
+  <pub-id pub-id-type="pmid">25399552</pub-id>
+ </element-citation>
+</ref>

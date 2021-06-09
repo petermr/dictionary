@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R26">
+ <label>26</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Esme</surname>
+    <given-names>H</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Kesli</surname>
+    <given-names>R</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Apiliogullari</surname>
+    <given-names>B</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Effects of flurbiprofen on CRP, TNF-α, IL-6, and postoperative pain of thoracotomy</article-title>. 
+  <source>Int J Med Sci</source>
+  <year>2011</year>;
+  <volume>8</volume>:
+  <fpage>216</fpage>–
+  <lpage>21</lpage>. 
+  <pub-id pub-id-type="doi">10.7150/ijms.8.216</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/21448308?>
+  <pub-id pub-id-type="pmid">21448308</pub-id>
+ </mixed-citation>
+</ref>

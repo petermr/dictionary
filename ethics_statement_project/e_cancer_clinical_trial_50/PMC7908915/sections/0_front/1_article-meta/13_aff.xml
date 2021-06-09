@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aff id="aff8">
+ <label>8</label>
+ <institution content-type="department">Department of Oncology</institution>, 
+ <institution>Royal Devon and Exeter NHS Foundation Trust</institution>, 
+ <addr-line content-type="city">Exeter</addr-line>, 
+ <addr-line content-type="state">Devon</addr-line>, 
+ <country>UK</country>
+</aff>

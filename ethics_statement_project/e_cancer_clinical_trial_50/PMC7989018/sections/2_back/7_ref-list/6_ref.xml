@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Johnston</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Martin</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Di Leo</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Im</surname>
+    <given-names>S-A</given-names>
+   </name>
+   <name>
+    <surname>Awada</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Forrester</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>MONARCH 3 final PFS: a randomized study of abemaciclib as initial therapy for advanced breast cancer</article-title>
+  <source>NPJ Breast Cancer.</source>
+  <year>2019</year>
+  <volume>5</volume>
+  <issue>1</issue>
+  <fpage>5</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41523-018-0097-z</pub-id>
+  <?supplied-pmid 30675515?>
+  <pub-id pub-id-type="pmid">30675515</pub-id>
+ </element-citation>
+</ref>

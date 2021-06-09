@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schadendorf</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Wolchok</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Hodi</surname>
+    <given-names>FS</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Efficacy and safety outcomes in patients with advanced melanoma who discontinued treatment with Nivolumab and Ipilimumab because of adverse events: a pooled analysis of randomized phase II and III trials</article-title>
+  <source>J Clin Oncol</source>
+  <year>2017</year>
+  <volume>35</volume>
+  <issue>34</issue>
+  <fpage>3807</fpage>
+  <lpage>3814</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2017.73.2289</pub-id>
+  <?supplied-pmid 28841387?>
+  <pub-id pub-id-type="pmid">28841387</pub-id>
+ </element-citation>
+</ref>

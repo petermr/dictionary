@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R6">
+ <label>6</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Watanabe</surname>
+    <given-names>K</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Tsuboi</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Sakamaki</surname>
+    <given-names>K</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Postoperative follow-up strategy based on recurrence dynamics for non-small-cell lung cancer</article-title>. 
+  <source>Eur J Cardiothorac Surg</source>
+  <year>2016</year>;
+  <volume>49</volume>:
+  <fpage>1624</fpage>–
+  <lpage>31</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/ejcts/ezv462</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/26792922?>
+  <pub-id pub-id-type="pmid">26792922</pub-id>
+ </mixed-citation>
+</ref>

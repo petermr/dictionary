@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>CA 19–9</term>
+   <def>
+    <p id="Par7">Carbohydrate antigen 19–9</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CEA</term>
+   <def>
+    <p id="Par8">Carcinoembryonic antigen</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CI</term>
+   <def>
+    <p id="Par9">Confidence interval</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par10">Computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DPCG</term>
+   <def>
+    <p id="Par11">Dutch Pancreatic Cancer Group</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DPD</term>
+   <def>
+    <p id="Par12">Dihydropyrimidine dehydrogenase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DSMB</term>
+   <def>
+    <p id="Par13">Data Safety Monitoring Board</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>eGFR</term>
+   <def>
+    <p id="Par14">Estimated glomerular filtration rate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FOLFIRINOX</term>
+   <def>
+    <p id="Par15">5-fluorouracil with leucovorin, irinotecan, and oxaliplatin</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GCP</term>
+   <def>
+    <p id="Par16">Good Clinical Practice</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>G-CSF</term>
+   <def>
+    <p id="Par17">Granulocyte colony stimulating factor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GIST</term>
+   <def>
+    <p id="Par18">Gastrointestinal stromal tumor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HR</term>
+   <def>
+    <p id="Par19">Hazard ratio</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HTRG</term>
+   <def>
+    <p id="Par20">Histologic tumor regression grading</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ISGPS</term>
+   <def>
+    <p id="Par21">International Study Group of Pancreatic Surgery</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ITT</term>
+   <def>
+    <p id="Par22">Intention-to-treat</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LAPC</term>
+   <def>
+    <p id="Par23">Locally advanced pancreatic cancer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OS</term>
+   <def>
+    <p id="Par24">Overall Survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>pNET</term>
+   <def>
+    <p id="Par25">Pancreatic neuroendocrine tumor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RCT</term>
+   <def>
+    <p id="Par26">Randomized controlled trial</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RECIST</term>
+   <def>
+    <p id="Par27">Response evaluation criteria in solid tumors</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SAE</term>
+   <def>
+    <p id="Par28">Serious adverse event</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SUSAR</term>
+   <def>
+    <p id="Par29">Suspected Unexpected Serious Adverse Reactions</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WHO</term>
+   <def>
+    <p id="Par30">World Health Organization</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

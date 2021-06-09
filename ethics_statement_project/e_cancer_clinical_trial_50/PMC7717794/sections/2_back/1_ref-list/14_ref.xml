@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R14">
+ <label>[14]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Waks</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>Winer</surname>
+    <given-names>EP</given-names>
+   </name>
+  </person-group>
+  <article-title>Breast cancer treatment: a review</article-title>. 
+  <source>JAMA</source>
+  <year>2019</year>;
+  <volume>321</volume>:
+  <fpage>288</fpage>–
+  <lpage>300</lpage>.
+  <pub-id pub-id-type="pmid">30667505</pub-id>
+ </mixed-citation>
+</ref>

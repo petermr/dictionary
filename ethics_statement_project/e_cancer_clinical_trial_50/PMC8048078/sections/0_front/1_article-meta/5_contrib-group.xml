@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Bauman</surname>
+   <given-names>Glenn S.</given-names>
+  </name>
+  <address>
+   <email>Glenn.bauman@lhsc.on.ca</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Corkum</surname>
+   <given-names>Mark T.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fakir</surname>
+   <given-names>Hatim</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nguyen</surname>
+   <given-names>Timothy K.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Palma</surname>
+   <given-names>David A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.412745.1</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 9132 1600</institution-id>
+   <institution>Division of Radiation Oncology, Department of Oncology, London Health Sciences Centre, </institution>
+  </institution-wrap>790 Commissioners Rd. E, London, Ontario N6C 1K1 Canada 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.412745.1</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 9132 1600</institution-id>
+   <institution>Department of Medical Biophysics, London Health Sciences Centre, </institution>
+  </institution-wrap>London, Ontario Canada 
+ </aff>
+</contrib-group>

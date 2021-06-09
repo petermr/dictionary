@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="BX1" position="float" orientation="portrait">
+ <caption>
+  <title>Strengths and limitations of this study</title>
+ </caption>
+ <list list-type="bullet">
+  <list-item>
+   <p>This is the first study to evaluate the effect of the perioperative administration of non-steroidal anti-inflammatory drugs (NSAIDs) on postoperative recurrence in non-small cell lung cancer.</p>
+  </list-item>
+  <list-item>
+   <p>Flurbiprofen axetil is a safe and inexpensive NSAID used perioperatively as a part of multimodal analgesia.</p>
+  </list-item>
+  <list-item>
+   <p>This study is a multicentre, parallel group, open label, randomised controlled trial.</p>
+  </list-item>
+  <list-item>
+   <p>The lack of blinding of patients and specialists during intervention may be a limitation.</p>
+  </list-item>
+ </list>
+</boxed-text>

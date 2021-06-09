@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R9">
+ <label>9</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Hamada</surname>
+    <given-names>C</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Tsuboi</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Ohta</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Effect of postoperative adjuvant chemotherapy with tegafur-uracil on survival in patients with stage Ia non-small cell lung cancer: an exploratory analysis from a meta-analysis of six randomized controlled trials</article-title>. 
+  <source>J Thorac Oncol</source>
+  <year>2009</year>;
+  <volume>4</volume>:
+  <fpage>1511</fpage>–
+  <lpage>6</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/JTO.0b013e3181bbf1f2</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/19875974?>
+  <pub-id pub-id-type="pmid">19875974</pub-id>
+ </mixed-citation>
+</ref>

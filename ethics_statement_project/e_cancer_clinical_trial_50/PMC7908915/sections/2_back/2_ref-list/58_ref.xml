@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R58">
+ <label>58</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>O'Shaughnessy</surname>
+    <given-names>MJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>McBride</surname>
+    <given-names>SM</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Vargas</surname>
+    <given-names>HA</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>A pilot study of a multimodal treatment paradigm to accelerate drug evaluations in early-stage metastatic prostate cancer</article-title>. 
+  <source>Urology</source>
+  <year>2017</year>;
+  <volume>102</volume>:
+  <fpage>164</fpage>–
+  <lpage>72</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.urology.2016.10.044</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/27888148?>
+  <pub-id pub-id-type="pmid">27888148</pub-id>
+ </mixed-citation>
+</ref>

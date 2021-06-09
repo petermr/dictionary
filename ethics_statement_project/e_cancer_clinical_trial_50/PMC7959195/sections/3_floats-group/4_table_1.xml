@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="t0001" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Baseline Characteristics of the Patients</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1">Group A</th>
+    <th rowspan="1" colspan="1">Group B</th>
+    <th rowspan="1" colspan="1">
+     <italic>P</italic>-value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">Patient, n</td>
+    <td rowspan="1" colspan="1">66</td>
+    <td rowspan="1" colspan="1">64</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Age, years</td>
+    <td rowspan="1" colspan="1">67.74±5.20</td>
+    <td rowspan="1" colspan="1">66.22±6.50</td>
+    <td rowspan="1" colspan="1">0.255</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">BMI, kg/m
+     <sup>2</sup>
+    </td>
+    <td rowspan="1" colspan="1">25.35±3.37</td>
+    <td rowspan="1" colspan="1">24.60±3.18</td>
+    <td rowspan="1" colspan="1">0.06</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Prostate weight, g</td>
+    <td rowspan="1" colspan="1">46.59±20.85</td>
+    <td rowspan="1" colspan="1">41.41±14.95</td>
+    <td rowspan="1" colspan="1">0.697</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Biopsy Gleason score, n(%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">0.904</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> ≤6</td>
+    <td rowspan="1" colspan="1">15 (22.73)</td>
+    <td rowspan="1" colspan="1">15 (23.44)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> 7</td>
+    <td rowspan="1" colspan="1">28 (42.42)</td>
+    <td rowspan="1" colspan="1">29 (45.31)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> ≥8</td>
+    <td rowspan="1" colspan="1">23 (34.85)</td>
+    <td rowspan="1" colspan="1">20 (31.25)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tfn0001">
+   <p>
+    <bold>Note:</bold> Data is represented as mean±SD or n (%), unless otherwise stated.
+   </p>
+  </fn>
+  <fn id="tfn0002">
+   <p>
+    <bold>Abbreviation:</bold> BMI, body mass index.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R24">
+ <label>24</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Harris</surname>
+    <given-names>RE</given-names>
+   </name>
+  </person-group>
+  <article-title>Cyclooxygenase-2 (COX-2) blockade in the chemoprevention of cancers of the colon, breast, prostate, and lung</article-title>. 
+  <source>Inflammopharmacology</source>
+  <year>2009</year>;
+  <volume>17</volume>:
+  <fpage>55</fpage>–
+  <lpage>67</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/s10787-009-8049-8</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/19340409?>
+  <pub-id pub-id-type="pmid">19340409</pub-id>
+ </mixed-citation>
+</ref>

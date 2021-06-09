@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ferlay</surname>
+    <given-names>JSI</given-names>
+   </name>
+   <name>
+    <surname>Ervik</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Dikshit</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Eser</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Mathers</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <source>GLOBOCAN 2012 v1.0, cancer incidence and mortality worldwide: IARC cancerbase no. 11</source>
+  <year>2013</year>
+  <publisher-loc>Lyon</publisher-loc>
+  <publisher-name>International Agency for Research on Cancer</publisher-name>
+ </element-citation>
+</ref>

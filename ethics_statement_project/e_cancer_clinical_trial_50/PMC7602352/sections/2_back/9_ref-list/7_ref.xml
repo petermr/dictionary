@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Andrews</surname>
+    <given-names>DW</given-names>
+   </name>
+   <name>
+    <surname>Scott</surname>
+    <given-names>CB</given-names>
+   </name>
+   <name>
+    <surname>Sperduto</surname>
+    <given-names>PW</given-names>
+   </name>
+   <name>
+    <surname>Flanders</surname>
+    <given-names>AE</given-names>
+   </name>
+   <name>
+    <surname>Gaspar</surname>
+    <given-names>LE</given-names>
+   </name>
+   <name>
+    <surname>Schell</surname>
+    <given-names>MC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Whole brain radiation therapy with or without stereotactic radiosurgery boost for patients with one to three brain metastases: phase III results of the RTOG 9508 randomised trial</article-title>
+  <source>Lancet.</source>
+  <year>2004</year>
+  <volume>363</volume>
+  <fpage>1665</fpage>
+  <lpage>1672</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(04)16250-8</pub-id>
+  <?supplied-pmid 15158627?>
+  <pub-id pub-id-type="pmid">15158627</pub-id>
+ </element-citation>
+</ref>

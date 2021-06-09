@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6804-3363</contrib-id>
+  <name>
+   <surname>Chia</surname>
+   <given-names>Brendan Seng Hup</given-names>
+  </name>
+  <address>
+   <email>brendan.chia.s.h@singhealth.com.sg</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Leong</surname>
+   <given-names>Jing Yun</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ong</surname>
+   <given-names>Ashley Li Kuan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lim</surname>
+   <given-names>Cindy</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Poon</surname>
+   <given-names>Shi Hui</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chua</surname>
+   <given-names>Melvin Lee Kiang</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chua</surname>
+   <given-names>Kevin Lee Min</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kusumawidjaja</surname>
+   <given-names>Grace</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chua</surname>
+   <given-names>Eu Tiong</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wong</surname>
+   <given-names>Fuh Yong</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lee</surname>
+   <given-names>Tih Shih</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.410724.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0620 9745</institution-id>
+   <institution>Division of Radiation Oncology, </institution>
+   <institution>National Cancer Centre Singapore, </institution>
+  </institution-wrap>11 Hospital Crescent, Singapore, 169610 Singapore 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.414752.1</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0469 9592</institution-id>
+   <institution>Department of Adult Neuro-developmental Service, </institution>
+   <institution>Institute of Mental Health Singapore, </institution>
+  </institution-wrap>10 Buangkok View, Singapore, 539747 Singapore 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.410724.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0620 9745</institution-id>
+   <institution>Division of Clinical Trials and Epidemiological Sciences, </institution>
+   <institution>National Cancer Centre Singapore, </institution>
+  </institution-wrap>11 Hospital Crescent, Singapore, 169610 Singapore 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.163555.1</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 9486 5048</institution-id>
+   <institution>Department of Psychiatry, </institution>
+   <institution>Singapore General Hospital, </institution>
+  </institution-wrap>Outram Road, Singapore, 169608 Singapore 
+ </aff>
+</contrib-group>

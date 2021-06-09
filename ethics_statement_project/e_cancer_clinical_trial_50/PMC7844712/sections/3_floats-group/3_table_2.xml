@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl2">
+ <label>Table 2</label>
+ <caption>
+  <p>Responses of CNS and systemic disease at different timepoints of protocol treatment</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th align="left">
+     <bold>Whole series (n=75)</bold>
+    </th>
+    <th align="left">
+     <bold>CNS disease (n=75)</bold>
+    </th>
+    <th align="left">
+     <bold>Systemic disease (n=60)</bold>
+    </th>
+    <th align="left">
+     <bold>CNS disease at presentation (n=32)</bold>
+    </th>
+    <th align="left">
+     <bold>Relapse; isolated CNS disease (n=15)</bold>
+    </th>
+    <th align="left">
+     <bold>Relapse; CNS–systemic disease (n=28)</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="7" align="left">
+     <bold>After second MATRix</bold>
+     <xref rid="tbl2fn1" ref-type="table-fn">*</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Complete response</td>
+    <td align="left">20 (27%)</td>
+    <td align="left">26 (35%)</td>
+    <td align="left">26 (43%)</td>
+    <td align="left">11 (34%)</td>
+    <td align="left">4 (27%)</td>
+    <td align="left">5 (18%)</td>
+   </tr>
+   <tr>
+    <td align="left">Partial response</td>
+    <td align="left">36 (48%)</td>
+    <td align="left">31 (41%)</td>
+    <td align="left">19 (32%)</td>
+    <td align="left">17 (53%)</td>
+    <td align="left">6 (40%)</td>
+    <td align="left">13 (46%)</td>
+   </tr>
+   <tr>
+    <td align="left">Objective response</td>
+    <td align="left">56 (75%)</td>
+    <td align="left">57 (76%)</td>
+    <td align="left">45 (75%)</td>
+    <td align="left">28 (88%)</td>
+    <td align="left">10 (67%)</td>
+    <td align="left">18 (64%)</td>
+   </tr>
+   <tr>
+    <td align="left">Stable disease</td>
+    <td align="left">3 (4%)</td>
+    <td align="left">6 (8%)</td>
+    <td align="left">3 (5%)</td>
+    <td align="left">1 (3%)</td>
+    <td align="left">1 (7%)</td>
+    <td align="left">1 (4%)</td>
+   </tr>
+   <tr>
+    <td align="left">Progressive disease</td>
+    <td align="left">12 (16%)</td>
+    <td align="left">8 (11%)</td>
+    <td align="left">10 (17%)</td>
+    <td align="left">3 (9%)</td>
+    <td align="left">2 (13%)</td>
+    <td align="left">7 (25%)</td>
+   </tr>
+   <tr>
+    <td colspan="7" align="left">
+     <bold>After MATRix–RICE</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Complete response</td>
+    <td align="left">29 (39%)</td>
+    <td align="left">37 (49%)</td>
+    <td align="left">33 (55%)</td>
+    <td align="left">17 (53%)</td>
+    <td align="left">6 (40%)</td>
+    <td align="left">6 (21%)</td>
+   </tr>
+   <tr>
+    <td align="left">Partial response</td>
+    <td align="left">20 (27%)</td>
+    <td align="left">14 (19%)</td>
+    <td align="left">12 (20%)</td>
+    <td align="left">10 (31%)</td>
+    <td align="left">3 (20%)</td>
+    <td align="left">7 (25%)</td>
+   </tr>
+   <tr>
+    <td align="left">Objective response</td>
+    <td align="left">49 (65%)</td>
+    <td align="left">51 (68%)</td>
+    <td align="left">45 (75%)</td>
+    <td align="left">27 (84%)</td>
+    <td align="left">9 (60%)</td>
+    <td align="left">13 (46%)</td>
+   </tr>
+   <tr>
+    <td align="left">Stable disease</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Progressive disease</td>
+    <td align="left">22 (29%)</td>
+    <td align="left">20 (27%)</td>
+    <td align="left">13 (22%)</td>
+    <td align="left">5 (16%)</td>
+    <td align="left">4 (27%)</td>
+    <td align="left">13 (46%)</td>
+   </tr>
+   <tr>
+    <td colspan="7" align="left">
+     <bold>Whole treatment</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Complete response</td>
+    <td align="left">41 (55%)</td>
+    <td align="left">44 (59%)</td>
+    <td align="left">40 (67%)</td>
+    <td align="left">24 (75%)</td>
+    <td align="left">7 (47%)</td>
+    <td align="left">9 (32%)</td>
+   </tr>
+   <tr>
+    <td align="left">Partial response</td>
+    <td align="left">5 (7%)</td>
+    <td align="left">2 (3%)</td>
+    <td align="left">4 (7%)</td>
+    <td align="left">2 (6%)</td>
+    <td align="left">0</td>
+    <td align="left">3 (11%)</td>
+   </tr>
+   <tr>
+    <td align="left">Objective response</td>
+    <td align="left">46 (61%)</td>
+    <td align="left">46 (61%)</td>
+    <td align="left">44 (73%)</td>
+    <td align="left">26 (81%)</td>
+    <td align="left">7 (47%)</td>
+    <td align="left">12 (43%)</td>
+   </tr>
+   <tr>
+    <td align="left">Stable disease</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Progressive disease</td>
+    <td align="left">25 (33%)</td>
+    <td align="left">25 (33%)</td>
+    <td align="left">14 (23%)</td>
+    <td align="left">6 (19%)</td>
+    <td align="left">6 (40%)</td>
+    <td align="left">14 (50%)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>Data are n (%). Whole series column shows all responses in all patients, CNS disease column shows responses related only to CNS disease (all patients); and systemic disease column shows responses only related to extra-CNS disease in patients who had extra-CNS disease. MATRix=methotrexate, cytarabine, thiotepa, and rituximab. RICE=rituximab, ifosfamide, carboplatin, and etoposide.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl2fn1">
+   <label>*</label>
+   <p id="cenpara40">Four patients died of toxicity during MATRix; two of them had concomitant systemic disease.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

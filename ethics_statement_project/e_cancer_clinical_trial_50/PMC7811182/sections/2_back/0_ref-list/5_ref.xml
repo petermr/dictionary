@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="zoi201035r5">
+ <label>5</label>
+ <mixed-citation publication-type="journal">
+  <person-group>
+   <name name-style="western">
+    <surname>Boughey</surname>
+    <given-names>JC</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>McCall</surname>
+    <given-names>LM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Ballman</surname>
+    <given-names>KV</given-names>
+   </name>, 
+   <etal/>
+  </person-group>
+  <article-title>Tumor biology correlates with rates of breast-conserving surgery and pathologic complete response after neoadjuvant chemotherapy for breast cancer: findings from the ACOSOG Z1071 (Alliance) Prospective Multicenter Clinical Trial</article-title>. 
+  <source>Ann Surg</source>. 
+  <year>2014</year>;
+  <volume>260</volume>(
+  <issue>4</issue>):
+  <fpage>608</fpage>-
+  <lpage>614</lpage>. doi:
+  <pub-id pub-id-type="doi">10.1097/SLA.0000000000000924</pub-id>
+  <?supplied-pmid 25203877?>
+  <pub-id pub-id-type="pmid">25203877</pub-id>
+ </mixed-citation>
+</ref>

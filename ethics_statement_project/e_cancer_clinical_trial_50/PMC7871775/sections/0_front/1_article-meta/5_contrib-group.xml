@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au0001">
+  <name>
+   <surname>Capell</surname>
+   <given-names>Warren H.</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="cor0001" ref-type="corresp">⁎</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0002">
+  <name>
+   <surname>Barnathan</surname>
+   <given-names>Elliot S.</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0003">
+  <name>
+   <surname>Piazza</surname>
+   <given-names>Gregory</given-names>
+  </name>
+  <degrees>MD, MS</degrees>
+  <xref rid="aff0004" ref-type="aff">d</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0004">
+  <name>
+   <surname>Spyropoulos</surname>
+   <given-names>Alex C.</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff0005" ref-type="aff">e</xref>
+  <xref rid="aff0006" ref-type="aff">f</xref>
+  <xref rid="aff0007" ref-type="aff">g</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0005">
+  <name>
+   <surname>Hsia</surname>
+   <given-names>Judith</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+  <xref rid="aff0008" ref-type="aff">h</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0006">
+  <name>
+   <surname>Bull</surname>
+   <given-names>Scott</given-names>
+  </name>
+  <degrees>PharmD</degrees>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0007">
+  <name>
+   <surname>Lipardi</surname>
+   <given-names>Concetta</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0008">
+  <name>
+   <surname>Sugarmann</surname>
+   <given-names>Chiara</given-names>
+  </name>
+  <degrees>MS</degrees>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0009">
+  <name>
+   <surname>Suh</surname>
+   <given-names>Eunyoung</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0010">
+  <name>
+   <surname>Rao</surname>
+   <given-names>Jaya Prakash</given-names>
+  </name>
+  <degrees>MBA</degrees>
+  <xref rid="aff0009" ref-type="aff">i</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0011">
+  <name>
+   <surname>Hiatt</surname>
+   <given-names>William R.</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+  <xref rid="aff0008" ref-type="aff">h</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0012">
+  <name>
+   <surname>Bonaca</surname>
+   <given-names>Marc P.</given-names>
+  </name>
+  <degrees>MD, MPH</degrees>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+  <xref rid="aff0008" ref-type="aff">h</xref>
+ </contrib>
+ <aff id="aff0001">
+  <label>a</label>CPC Clinical Research, Aurora, CO
+ </aff>
+ <aff id="aff0002">
+  <label>b</label>Division of Endocrinology, Diabetes, and Metabolism, Department of Medicine, University of Colorado Anschutz Medical Campus, Aurora, CO
+ </aff>
+ <aff id="aff0003">
+  <label>c</label>Janssen Research and Development LLC, Raritan, NJ
+ </aff>
+ <aff id="aff0004">
+  <label>d</label>Division of Cardiovascular Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA
+ </aff>
+ <aff id="aff0005">
+  <label>e</label>Donald and Barbara Zucker School of Medicine at Hofstra/Northwell, Huntington, NY
+ </aff>
+ <aff id="aff0006">
+  <label>f</label>Institute for Health Innovation and Outcomes Research, Feinstein Institutes for Medical Research, Manhasset, NY
+ </aff>
+ <aff id="aff0007">
+  <label>g</label>Department of Medicine, Northwell Health at Lenox Hill Hospital, New York, NY
+ </aff>
+ <aff id="aff0008">
+  <label>h</label>Division of Cardiology, Department of Medicine, University of Colorado Anschutz Medical Campus, Aurora, CO
+ </aff>
+ <aff id="aff0009">
+  <label>i</label>REDCap Cloud, Encinitas, CA
+ </aff>
+</contrib-group>

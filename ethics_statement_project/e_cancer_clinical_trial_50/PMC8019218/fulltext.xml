@@ -1,0 +1,572 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Sci</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Sci</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1349-7006</journal-id><journal-id journal-id-type="publisher-id">CAS</journal-id><journal-title-group><journal-title>Cancer Science</journal-title></journal-title-group><issn pub-type="ppub">1347-9032</issn><issn pub-type="epub">1349-7006</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8019218</article-id><article-id pub-id-type="pmid">33548159</article-id><article-id pub-id-type="doi">10.1111/cas.14841</article-id><article-id pub-id-type="publisher-id">CAS14841</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>ORIGINAL ARTICLES</subject><subj-group subj-group-type="heading"><subject>Clinical Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Advanced colorectal cancer subtypes (aCRCS) help select oxaliplatin&#x02010;based or irinotecan&#x02010;based therapy for colorectal cancer</article-title><alt-title alt-title-type="left-running-head">TAKAHASHI et al.</alt-title></title-group><contrib-group><contrib id="cas14841-cr-0001" contrib-type="author"><name><surname>Takahashi</surname><given-names>Shin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6695-3099</contrib-id><xref ref-type="aff" rid="cas14841-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cas14841-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas14841-cr-0002" contrib-type="author"><name><surname>Sakamoto</surname><given-names>Yasuhiro</given-names></name><xref ref-type="aff" rid="cas14841-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cas14841-cr-0003" contrib-type="author"><name><surname>Denda</surname><given-names>Tadamichi</given-names></name><xref ref-type="aff" rid="cas14841-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cas14841-cr-0004" contrib-type="author"><name><surname>Takashima</surname><given-names>Atsuo</given-names></name><xref ref-type="aff" rid="cas14841-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cas14841-cr-0005" contrib-type="author"><name><surname>Komatsu</surname><given-names>Yoshito</given-names></name><xref ref-type="aff" rid="cas14841-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cas14841-cr-0006" contrib-type="author"><name><surname>Nakamura</surname><given-names>Masato</given-names></name><xref ref-type="aff" rid="cas14841-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="cas14841-cr-0007" contrib-type="author"><name><surname>Ohori</surname><given-names>Hisatsugu</given-names></name><xref ref-type="aff" rid="cas14841-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="cas14841-cr-0008" contrib-type="author"><name><surname>Yamaguchi</surname><given-names>Tatsuro</given-names></name><xref ref-type="aff" rid="cas14841-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="cas14841-cr-0009" contrib-type="author"><name><surname>Kobayashi</surname><given-names>Yoshimitsu</given-names></name><xref ref-type="aff" rid="cas14841-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="cas14841-cr-0010" contrib-type="author"><name><surname>Baba</surname><given-names>Hideo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3474-2550</contrib-id><xref ref-type="aff" rid="cas14841-aff-0011">
+<sup>11</sup>
+</xref></contrib><contrib id="cas14841-cr-0011" contrib-type="author"><name><surname>Kotake</surname><given-names>Masanori</given-names></name><xref ref-type="aff" rid="cas14841-aff-0012">
+<sup>12</sup>
+</xref></contrib><contrib id="cas14841-cr-0012" contrib-type="author"><name><surname>Amagai</surname><given-names>Kenji</given-names></name><xref ref-type="aff" rid="cas14841-aff-0013">
+<sup>13</sup>
+</xref></contrib><contrib id="cas14841-cr-0013" contrib-type="author"><name><surname>Kondo</surname><given-names>Hitoshi</given-names></name><xref ref-type="aff" rid="cas14841-aff-0014">
+<sup>14</sup>
+</xref></contrib><contrib id="cas14841-cr-0014" contrib-type="author"><name><surname>Shimada</surname><given-names>Ken</given-names></name><xref ref-type="aff" rid="cas14841-aff-0015">
+<sup>15</sup>
+</xref></contrib><contrib id="cas14841-cr-0015" contrib-type="author"><name><surname>Sato</surname><given-names>Atsushi</given-names></name><xref ref-type="aff" rid="cas14841-aff-0016">
+<sup>16</sup>
+</xref></contrib><contrib id="cas14841-cr-0016" contrib-type="author"><name><surname>Yuki</surname><given-names>Satoshi</given-names></name><xref ref-type="aff" rid="cas14841-aff-0017">
+<sup>17</sup>
+</xref></contrib><contrib id="cas14841-cr-0017" contrib-type="author"><name><surname>Okita</surname><given-names>Akira</given-names></name><xref ref-type="aff" rid="cas14841-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cas14841-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas14841-cr-0018" contrib-type="author"><name><surname>Ouchi</surname><given-names>Kota</given-names></name><xref ref-type="aff" rid="cas14841-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cas14841-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas14841-cr-0019" contrib-type="author"><name><surname>Komine</surname><given-names>Keigo</given-names></name><xref ref-type="aff" rid="cas14841-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cas14841-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas14841-cr-0020" contrib-type="author"><name><surname>Watanabe</surname><given-names>Mika</given-names></name><xref ref-type="aff" rid="cas14841-aff-0018">
+<sup>18</sup>
+</xref></contrib><contrib id="cas14841-cr-0021" contrib-type="author"><name><surname>Morita</surname><given-names>Satoshi</given-names></name><xref ref-type="aff" rid="cas14841-aff-0019">
+<sup>19</sup>
+</xref></contrib><contrib id="cas14841-cr-0022" contrib-type="author" corresp="yes"><name><surname>Ishioka</surname><given-names>Chikashi</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3023-1227</contrib-id><xref ref-type="aff" rid="cas14841-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cas14841-aff-0002">
+<sup>2</sup>
+</xref><address><email>chikashi@tohoku.ac.jp</email></address></contrib></contrib-group><aff id="cas14841-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Medical Oncology</named-content>
+<institution>Tohoku University Hospital</institution>
+<city>Miyagi</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Clinical Oncology</named-content>
+<named-content content-type="organisation-division">Graduate School of Medicine</named-content>
+<institution>Tohoku University</institution>
+<city>Miyagi</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Medical Oncology</named-content>
+<institution>Osaki Citizen Hospital</institution>
+<city>Miyagi</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Division of Gastroenterology</named-content>
+<institution>Chiba Cancer Center</institution>
+<city>Chiba</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Gastrointestinal Medical Oncology Division</named-content>
+<institution>National Cancer Center Hospital</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Cancer Chemotherapy</named-content>
+<institution>Hokkaido University Hospital Cancer Center</institution>
+<city>Hokkaido</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Aizawa Comprehensive Cancer Center</named-content>
+<institution>Aizawa Hospital</institution>
+<city>Nagano</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Department of Medical Oncology</named-content>
+<institution>Japanese Red Cross Ishinomaki Hospital</institution>
+<city>Miyagi</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Department of Surgery</named-content>
+<institution>Tokyo Metropolitan Cancer and Infectious Diseases Center Komagome Hospital</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0010">
+<label><sup>10</sup></label>
+<named-content content-type="organisation-division">Gastroenterology and Medical Oncology</named-content>
+<institution>KKR Sapporo Medical Center</institution>
+<city>Hokkaido</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0011">
+<label><sup>11</sup></label>
+<named-content content-type="organisation-division">Department of Gastroenterological Surgery</named-content>
+<named-content content-type="organisation-division">Graduate School of Medical Sciences</named-content>
+<institution>Kumamoto University</institution>
+<city>Kumamoto</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0012">
+<label><sup>12</sup></label>
+<named-content content-type="organisation-division">Department of Surgery</named-content>
+<institution>Kouseiren Takaoka Hospital</institution>
+<city>Toyama</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0013">
+<label><sup>13</sup></label>
+<named-content content-type="organisation-division">Division of Gastroenterology</named-content>
+<institution>Ibaraki Prefectural Central Hospital</institution>
+<city>Ibaraki</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0014">
+<label><sup>14</sup></label>
+<named-content content-type="organisation-division">Division of Gastroenterology</named-content>
+<institution>Tonan Hospital</institution>
+<city>Hokkaido</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0015">
+<label><sup>15</sup></label>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<named-content content-type="organisation-division">Division of Medical Oncology</named-content>
+<institution>Showa University Koto Toyosu Hospital</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0016">
+<label><sup>16</sup></label>
+<named-content content-type="organisation-division">Department of Medical Oncology</named-content>
+<institution>Hirosaki University Graduate School of Medicine</institution>
+<city>Aomori</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0017">
+<label><sup>17</sup></label>
+<named-content content-type="organisation-division">Department of Gastroenterology and Hepatology</named-content>
+<institution>Hokkaido University Hospital</institution>
+<city>Hokkaido</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0018">
+<label><sup>18</sup></label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>Tohoku University Hospital</institution>
+<city>Miyagi</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14841-aff-0019">
+<label><sup>19</sup></label>
+<named-content content-type="organisation-division">Department of Biomedical Statistics and Bioinformatics</named-content>
+<institution>Kyoto University Graduate School of Medicine</institution>
+<city>Kyoto</city>
+<country country="JP">Japan</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Chikashi Ishioka, Department of Clinical Oncology, Graduate School of Medicine, Tohoku University, 4&#x02010;1 Seiryo&#x02010;machi, Aobaku, Sendai 980&#x02010;8575, Japan.<break/>
+Email: <email>chikashi@tohoku.ac.jp</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>2</month><year>2021</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2021</year></pub-date><volume>112</volume><issue>4</issue><issue-id pub-id-type="doi">10.1111/cas.v112.4</issue-id><fpage>1567</fpage><lpage>1578</lpage><history><date date-type="rev-recd"><day>02</day><month>2</month><year>2021</year></date><date date-type="received"><day>30</day><month>11</month><year>2020</year></date><date date-type="accepted"><day>03</day><month>2</month><year>2021</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright">&#x000a9; 2021 Japanese Cancer Association<copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2021 The Authors. <italic>Cancer Science</italic> published by John Wiley &#x00026; Sons Australia, Ltd on behalf of Japanese Cancer Association.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CAS-112-1567.pdf"/><abstract id="cas14841-abs-0001"><title>Abstract</title><p>Oxaliplatin (OX) and irinotecan (IRI) are used as key drugs for the first&#x02010;line treatment of metastatic colorectal cancer (mCRC). However, no biomarkers have been identified to decide which of the drugs is initially used. In this translational research (TR) of the TRICOLORE trial, the advanced colorectal cancer subtype (aCRCS) was analyzed as a potential biomarker for the selection of OX or IRI. We collected 335 (68.8%) formalin&#x02010;fixed, paraffin&#x02010;embedded (FFPE) primary tumor specimens from 487 patients registered in the TRICOLORE trial and performed direct sequencing and immunohistochemical staining of CRC&#x02010;related genes, comprehensive gene&#x02010;expression analysis, and genome&#x02010;wide methylation analysis. The progression&#x02010;free survival (PFS) of the IRI group was significantly better compared with the OX group in <italic>BRAF</italic> wild&#x02010;type (WT), PTEN&#x02010;positive, and aCRCS A1 patients. Among the molecular factors, aCRCS were only associated with the PFS of OX and IRI groups. The PFS of the IRI group was significantly better compared with the OX group in aCRCS A1&#x000a0;+&#x000a0;B1 (hazard ratio [HR] = 0.58; 95% confidence interval [CI] = 0.41&#x02010;0.82; <italic>P</italic>&#x000a0;=&#x000a0;.0023). In contrast, the OX group had better PFS compared with the IRI group in aCRCS B2, although this was not statistically significant (HR&#x000a0;=&#x000a0;1.66; 95% CI&#x000a0;=&#x000a0;0.94&#x02010;2.96; <italic>P</italic>&#x000a0;=&#x000a0;.083). Nearly half of patients with mCRC (46.8%, aCRCS A1&#x000a0;+&#x000a0;B1) respond well to IRI, while only about 18.5% (aCRCS B2) of patients with mCRC responded well to OX. In conclusion, the aCRCS might be a predictive factor for the clinical outcomes of OX&#x02010;based and IRI&#x02010;based therapies.</p></abstract><abstract abstract-type="graphical" id="cas14841-abs-0002"><p>From translational research of TRICOLORE trail, the advanced colorectal cancer subtypes (aCRCS) can help to select oxaliplatin&#x02010;based or irinotecan&#x02010;based therapy for first&#x02010;line metastatic colorectal cancer treatment.
+<boxed-text position="anchor" content-type="graphic" id="cas14841-blkfxd-0001" orientation="portrait"><graphic xlink:href="CAS-112-1567-g002.jpg" position="anchor" id="jats-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group><kwd id="cas14841-kwd-0001">aCRCS</kwd><kwd id="cas14841-kwd-0002">irinotecan</kwd><kwd id="cas14841-kwd-0003">oxaliplatin</kwd><kwd id="cas14841-kwd-0004">predictive biomarker</kwd><kwd id="cas14841-kwd-0005">TRICOLORE</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Tokyo Cooperative Oncology Group</funding-source></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Japan Agency for Medical Research and Development </institution><institution-id institution-id-type="open-funder-registry">10.13039/100009619</institution-id></institution-wrap></funding-source><award-id>11110018</award-id><award-id>16770660</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="1"/><page-count count="12"/><word-count count="6407"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.1 mode:remove_FC converted:03.04.2021</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cas14841-cit-1001">
+<string-name>
+<surname>Takahashi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sakamoto</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Denda</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Advanced colorectal cancer subtypes (aCRCS) help select oxaliplatin&#x02010;based or irinotecan&#x02010;based therapy for colorectal cancer</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2021</year>;<volume>112</volume>:<fpage>1567</fpage>&#x02013;<lpage>1578</lpage>. <pub-id pub-id-type="doi">10.1111/cas.14841</pub-id>
+</mixed-citation>
+</p></notes></front><body id="cas14841-body-0001"><def-list list-content="abbreviations" id="cas14841-lp-0001"><title>Abbreviations</title><def-item><term>5&#x02010;FU</term><def><p>5&#x02010;fluorouracil</p></def></def-item><def-item><term>aCRCS</term><def><p>advanced colorectal cancer subtype</p></def></def-item><def-item><term><italic>AKT1</italic></term><def><p>v&#x02010;akt murine thymoma viral oncogene homolog 1</p></def></def-item><def-item><term><italic>BRAF</italic></term><def><p>v&#x02010;raf murine sarcoma viral oncogene homolog B1</p></def></def-item><def-item><term>CI</term><def><p>confidence interval</p></def></def-item><def-item><term>CIPM</term><def><p>CpG island methylator phenotype</p></def></def-item><def-item><term>CMS</term><def><p>consensus molecular subtypes of colorectal cancer</p></def></def-item><def-item><term>EGFR</term><def><p>epidermal growth factor receptor</p></def></def-item><def-item><term>FFPE</term><def><p>formalin&#x02010;fixed, paraffin&#x02010;embedded</p></def></def-item><def-item><term>HMCC</term><def><p>highly methylated colorectal cancer</p></def></def-item><def-item><term>HR</term><def><p>hazard ratio</p></def></def-item><def-item><term>IRI</term><def><p>irinotecan</p></def></def-item><def-item><term>LMCC</term><def><p>low methylated colorectal cancer</p></def></def-item><def-item><term>MMR</term><def><p>mismatch repair</p></def></def-item><def-item><term>OS</term><def><p>overall survival</p></def></def-item><def-item><term>OX</term><def><p>oxaliplatin</p></def></def-item><def-item><term>PFS</term><def><p>progression&#x02010;free survival</p></def></def-item><def-item><term><italic>PIK3CA</italic></term><def><p>phosphatidylinositol&#x02010;4,5&#x02010;bisphosphate 3&#x02010;kinase catalytic subunit alpha</p></def></def-item><def-item><term>PTEN</term><def><p>phosphatase and tensin homolog</p></def></def-item><def-item><term>RDI</term><def><p>relative dose intensity</p></def></def-item><def-item><term>TR</term><def><p>translational research</p></def></def-item></def-list><sec id="cas14841-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Oxaliplatin (OX)&#x02010;based and irinotecan (IRI)&#x02010;based therapies are commonly used as first&#x02010;line treatment for metastatic colorectal cancer (mCRC).<xref rid="cas14841-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="cas14841-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref> Several randomized trials comparing clinical outcomes of OX&#x02010;based and IRI&#x02010;based therapies have been conducted.<xref rid="cas14841-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="cas14841-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="cas14841-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref> Prospective studies comparing OX&#x02010;based or IRI&#x02010;based therapy with bevacizumab have shown that the median PFS with OX&#x02010;based therapy is 10.1&#x02010;10.8&#x000a0;mo, while that with IRI&#x02010;based therapy is 12.1&#x02010;14.0&#x000a0;mo.<xref rid="cas14841-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="cas14841-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> The PFS after IRI&#x02010;based therapy is consistently better compared with OX&#x02010;based therapy, although the difference was not statistically significant.<xref rid="cas14841-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="cas14841-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> One of the reasons for this difference is believed to be the difficulty in continuing OX&#x02010;based combination therapy for a long period because of long&#x02010;lasting peripheral neuropathy.<xref rid="cas14841-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> Therefore, IRI is thought to be better compared with OX in terms of the quality of life (QOL).<xref rid="cas14841-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="cas14841-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> Although OX is used more frequently than IRI as a first&#x02010;line treatment for mCRC worldwide, the above information suggests that IRI&#x02010;based therapy might be more suitable than OX&#x02010;based therapy as a first&#x02010;line treatment. If some patient subtypes show better outcomes with IRI&#x02010;based compared with OX&#x02010;based therapy, then IRI can be recommended for them.</p><p>CRC can be classified into several subtypes based on molecular markers such as <italic>RAS</italic> and <italic>BRAF</italic> mutations, the CpG island methylator phenotype (CIMP), and mismatch repair deficiency (dMMR).<xref rid="cas14841-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="cas14841-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="cas14841-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="cas14841-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> To date, however, no biomarkers have been determined for selection of OX or IRI. There are several classification methods based on gene&#x02010;expression profiles of tumor tissues such as consensus molecular subtypes of colorectal cancer (CMS) <xref rid="cas14841-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> and advanced colorectal cancer subtypes (aCRCS).<xref rid="cas14841-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>
+</p><p>aCRCS was developed using specimens only from unresectable or recurrent colorectal cancer to provide a novel classification method specific for mCRC. mCRCs are classified by aCRCS into 4 subtypes (A1, A2, B1, and B2). aCRCS has been reported to be a predictive factor for anti&#x02010;EGFR antibody therapy in <italic>KRAS</italic> WT mCRC.<xref rid="cas14841-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>
+</p><p>The TRICOLORE trial is an open&#x02010;label, multicenter, randomized phase III trial that examines the noninferiority of bevacizumab&#x000a0;+&#x000a0;IRI&#x000a0;+&#x000a0;S&#x02010;1 combination therapy to bevacizumab&#x000a0;+&#x000a0;OX&#x02010;based combination therapy (mFOLFOX6 or CapeOX) in terms of the PFS in untreated mCRC; the noninferiority of the former therapy has been statistically confirmed, and supports previous studies reporting IRI&#x02010;based therapy as moderately superior.<xref rid="cas14841-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="cas14841-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>
+</p><p>In this TR of the TRICOLORE trial, the aCRCS was analyzed as a potential biomarker for the selection of OX or IRI.<xref rid="cas14841-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>
+</p></sec><sec sec-type="materials-and-methods" id="cas14841-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="cas14841-sec-0003"><label>2.1</label><title>Patients and materials</title><p>The TRICOLORE trial for untreated mCRC was designed in compliance with the Declaration of Helsinki and the Ethical Guidelines for Medical and Health Research Involving Human Subjects. The TR of the TRICOLORE trial was approved by the institutional review board of each participated facility. Only patients who provided informed consent for the TR before the start of treatment were included. We collected 335 (68.8%) FFPE samples from surgical or biopsy specimens of the primary tumor of 487 patients registered in the TRICOLORE trial. The number of patients in the control group (mFOLFOX6 or CapeOX&#x000a0;+&#x000a0;bevacizumab; OX group) was 169, and the number in the test group (S&#x02010;1 and irinotecan&#x000a0;+&#x000a0;bevacizumab; IRI group) was 166.</p></sec><sec id="cas14841-sec-0004"><label>2.2</label><title>Mutational analysis</title><p>We performed gene mutational analysis of <italic>KRAS</italic> (codons 12, 13, 59, and 61), <italic>NRAS</italic> (codons 12, 13, 59, and 61), <italic>BRAF</italic> (codon 600), <italic>PIK3CA</italic> (exons 9 and 20), and <italic>AKT1</italic> (codon 17) using direct sequencing.<xref rid="cas14841-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>
+</p></sec><sec id="cas14841-sec-0005"><label>2.3</label><title>Immunohistochemical staining</title><p>Immunohistochemical staining of mismatch repair (MMR)&#x02010;related proteins (MLH1, MSH2, MSH6, and PMS2) and PTEN was performed at the Department of Pathology, Tohoku University Hospital, Japan, using the following antibodies: an anti&#x02010;human mouse MLH&#x02010;1 clone G168&#x02010;15 (1/100; BD Biosciences, San Jose, CA, USA), an anti&#x02010;MSH2 mouse mAb clone FE11 (1/200; Sigma&#x02010;Aldrich, St. Louis, MO, USA), an anti&#x02010;MSH6 mouse clone 44 (1/1000; BD Biosciences), an anti&#x02010;PMS2 mouse clone 16&#x02010;4 (1/100; BD Biosciences), and a PTEN clone 6H2.1 (1/100; DAKO, Carpinteria, CA, USA). Cases in which nuclei were stained were deemed positive for MMR&#x02010;related proteins, while cases in which the cytoplasm was stained were deemed positive for PTEN.</p></sec><sec id="cas14841-sec-0006"><label>2.4</label><title>Comprehensive gene&#x02010;expression analysis</title><p>We performed comprehensive gene&#x02010;expression analysis using the Whole Human Genome 4 x 44K Microarray (Agilent Technologies, Santa Clara, CA, USA). Briefly, we collected tumor cells by macrodissection and performed comprehensive gene&#x02010;expression analysis, as previously described.<xref rid="cas14841-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> Microarray data are available from <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147571">GSE147571</ext-link>. Gene&#x02010;expression data were analyzed and imaged using GeneSpring GX version 14.5 (Agilent Technologies). The patients with aCRCS were classified into 4 subtypes, A1, A2, B1, and B2, as previously described.<xref rid="cas14841-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> The numbers of patients in subtype A1 were 39 (12.7%); A2, 107 (34.7%); B1, 105 (34.0%), and B2, 57 (18.5%). CMS analysis<xref rid="cas14841-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> was performed, as previously described.<xref rid="cas14841-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> Finally, principal component analysis (PCA) was performed using GeneSpring GX version 14.5 (Agilent Technologies) using the aCRCS gene set.</p></sec><sec id="cas14841-sec-0007"><label>2.5</label><title>DNA methylation analysis</title><p>We performed genome&#x02010;wide methylation analysis using the Infinium Methylation EPIC BeadChip (Illumina, San Diego, CA, USA), as previously described.<xref rid="cas14841-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> In addition, we evaluated the methylation state of the CpG site by the <italic>&#x003b2;</italic>&#x02010;value (intensity of methylated probe/[intensity of methylated probe&#x000a0;+&#x000a0;intensity of unmethylated probe]). <italic>&#x003b2;</italic>&#x000a0;&#x02265;&#x000a0;0.5 was defined as methylation positive. After excluding probes on the X and Y chromosomes, we selected probes with a standard deviation of <italic>&#x003b2;</italic>&#x000a0;&#x02265;&#x000a0;0.25 across all cases. Using the selected probes, we used unsupervised hierarchical clustering to classify patients into HMCC or LMCC. In CIMP analysis, cases in which 3 or more of the 5 promoter regions of <italic>CACNA1G</italic>, <italic>IGF2</italic>, <italic>NEUROG1</italic>, <italic>RUNX3</italic>, and <italic>SOCS1</italic> were methylated were deemed CIMP positive.<xref rid="cas14841-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>
+</p></sec><sec id="cas14841-sec-0008"><label>2.6</label><title>Gene set enrichment analysis</title><p>Gene set enrichment analysis (GSEA) was performed using the comprehensive gene&#x02010;expression data by GSEA software (Version 4.1.0, BROAD Institute) as described in the instructions, with the number of permutations set to 1000 and c6: oncogenic signature.<xref rid="cas14841-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> We performed GSEA on aCRCS A1&#x000a0;+&#x000a0;B1 vs. A2, B2 vs. A1&#x000a0;+&#x000a0;B1 and B2 vs. A2. A gene set was considered significantly enriched when the&#x000a0;<italic>P</italic>&#x02010;value was less than .05 and the false discovery rate was less than 0.25.</p></sec><sec id="cas14841-sec-0009"><label>2.7</label><title>Clinical outcomes</title><p>The primary endpoint of the study, as in the TRICOLORE trial, was the PFS, which was defined as the period from the date of enrollment to the date of either tumor progression or death due to any reason. The OS was defined as the period from the date of enrollment to the date of death.</p></sec><sec id="cas14841-sec-0010"><label>2.8</label><title>Statistical analysis</title><p>This study was registered in UMIN&#x02010;CTR (<ext-link ext-link-type="uri" xlink:href="http://www.umin.ac.jp/ctr/">http://www.umin.ac.jp/ctr/</ext-link>) (000&#x000a0;007&#x000a0;834). All statistical analyses were performed using JMP Pro version 15.0.0 (SAS, Cary, NC, USA). We used two&#x02010;sided Fisher exact test and Wilcoxon rank&#x02010;sum test (or Kruskal&#x02010;Wallis test) for patient background, tumor response, and adverse events analysis. The PFS and OS were estimated using the Kaplan&#x02010;Meier method, and the log rank test was used for between&#x02010;group comparison. In addition, we performed univariate analyses of molecular markers that may contribute to the PFS or OS using a Cox proportional hazards model and calculated the HR and its CI. Wilcoxon rank&#x02010;sum test was used to compare RDI, tumor reduction and excision repair cross&#x02010;complementing 1 (<italic>ERCC1</italic>) gene expression. <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05 was considered statistically significant.</p></sec></sec><sec sec-type="results" id="cas14841-sec-0011"><label>3</label><title>RESULTS</title><sec id="cas14841-sec-0012"><label>3.1</label><title>Patients and clinical outcomes</title><p>Figure&#x000a0;<xref rid="cas14841-fig-0001" ref-type="fig">1</xref> shows the CONSORT diagram for this study. There were no differences in patient characteristics between the parental TRICOLORE and TR cohorts (Table&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S1</xref>). The PFS and OS in the TR cohort were almost the same as those in the entire TRICOLORE cohort (Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S1</xref>). In the clinicopathological and molecular background (Table&#x000a0;<xref rid="cas14841-tbl-0001" ref-type="table">1</xref>), we found a significant between&#x02010;group difference only in aCRCS.</p><fig fig-type="FIGURE" xml:lang="en" id="cas14841-fig-0001" orientation="portrait" position="float"><label>FIGURE 1</label><caption><p>CONSORT diagram. OX, oxaliplatin; IRI, irinotecan</p></caption><graphic id="jats-graphic-3" xlink:href="CAS-112-1567-g004"/></fig><table-wrap id="cas14841-tbl-0001" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 1</label><caption><p>Patients characteristics and results of molecular marker of TR cohort</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">mFOLFOX6 or CapeOX plus bevacizumab (n&#x000a0;=&#x000a0;169)</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">S&#x02010;1 and irinotecan plus bevacizumab (n&#x000a0;=&#x000a0;166)</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic>P</italic>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">n</th><th align="left" valign="top" rowspan="1" colspan="1">%</th><th align="left" valign="top" rowspan="1" colspan="1">n</th><th align="left" valign="top" rowspan="1" colspan="1">%</th></tr></thead><tbody><tr><td align="left" colspan="6" rowspan="1">Sex</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">95</td><td align="char" char="." rowspan="1" colspan="1">56.2</td><td align="left" rowspan="1" colspan="1">101</td><td align="char" char="." rowspan="1" colspan="1">60.8</td><td align="left" rowspan="1" colspan="1">.39</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">74</td><td align="char" char="." rowspan="1" colspan="1">43.8</td><td align="left" rowspan="1" colspan="1">65</td><td align="char" char="." rowspan="1" colspan="1">39.2</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">PS (ECOG)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">138</td><td align="char" char="." rowspan="1" colspan="1">81.7</td><td align="left" rowspan="1" colspan="1">144</td><td align="char" char="." rowspan="1" colspan="1">86.8</td><td align="left" rowspan="1" colspan="1">.20</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">31</td><td align="char" char="." rowspan="1" colspan="1">18.3</td><td align="left" rowspan="1" colspan="1">22</td><td align="char" char="." rowspan="1" colspan="1">13.3</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Age</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Median [range]</td><td align="left" rowspan="1" colspan="1">65 [29&#x02010;85]</td><td align="char" char="." rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">65 [22&#x02010;87]</td><td align="char" char="." rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">.78</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;65</td><td align="left" rowspan="1" colspan="1">94</td><td align="char" char="." rowspan="1" colspan="1">55.6</td><td align="left" rowspan="1" colspan="1">81</td><td align="char" char="." rowspan="1" colspan="1">48.8</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Ccr at enrollment</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Median [range]</td><td align="left" rowspan="1" colspan="1">82.1 [60.0&#x02010;153.1]</td><td align="char" char="." rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">82.6 [60.0&#x02010;182.8]</td><td align="char" char="." rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">.46</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;70</td><td align="left" rowspan="1" colspan="1">125</td><td align="char" char="." rowspan="1" colspan="1">74.0</td><td align="left" rowspan="1" colspan="1">127</td><td align="char" char="." rowspan="1" colspan="1">76.5</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Complications</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">73</td><td align="char" char="." rowspan="1" colspan="1">43.2</td><td align="left" rowspan="1" colspan="1">81</td><td align="char" char="." rowspan="1" colspan="1">48.8</td><td align="left" rowspan="2" colspan="1">.30</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">96</td><td align="char" char="." rowspan="1" colspan="1">56.8</td><td align="left" rowspan="1" colspan="1">85</td><td align="char" char="." rowspan="1" colspan="1">51.2</td></tr><tr><td align="left" colspan="6" rowspan="1">Adjuvant chemotherapy for colorectal cancer</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">19</td><td align="char" char="." rowspan="1" colspan="1">11.2</td><td align="left" rowspan="1" colspan="1">25</td><td align="char" char="." rowspan="1" colspan="1">15.1</td><td align="left" rowspan="2" colspan="1">.30</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">150</td><td align="char" char="." rowspan="1" colspan="1">88.8</td><td align="left" rowspan="1" colspan="1">141</td><td align="char" char="." rowspan="1" colspan="1">84.9</td></tr><tr><td align="left" colspan="6" rowspan="1">Differentiation assessed by histology</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Well or moderate</td><td align="left" rowspan="1" colspan="1">144</td><td align="char" char="." rowspan="1" colspan="1">85.2</td><td align="left" rowspan="1" colspan="1">146</td><td align="char" char="." rowspan="1" colspan="1">88.0</td><td align="left" rowspan="3" colspan="1">.68</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Poorly</td><td align="left" rowspan="1" colspan="1">13</td><td align="char" char="." rowspan="1" colspan="1">7.7</td><td align="left" rowspan="1" colspan="1">9</td><td align="char" char="." rowspan="1" colspan="1">5.4</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">12</td><td align="char" char="." rowspan="1" colspan="1">7.1</td><td align="left" rowspan="1" colspan="1">11</td><td align="char" char="." rowspan="1" colspan="1">6.6</td></tr><tr><td align="left" colspan="6" rowspan="1">Primary tumor location</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Right side</td><td align="left" rowspan="1" colspan="1">45</td><td align="char" char="." rowspan="1" colspan="1">26.6</td><td align="left" rowspan="1" colspan="1">54</td><td align="char" char="." rowspan="1" colspan="1">32.5</td><td align="left" rowspan="2" colspan="1">.24</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Left side</td><td align="left" rowspan="1" colspan="1">124</td><td align="char" char="." rowspan="1" colspan="1">73.4</td><td align="left" rowspan="1" colspan="1">112</td><td align="char" char="." rowspan="1" colspan="1">67.5</td></tr><tr><td align="left" colspan="6" rowspan="1">Primary tumor resection</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">127</td><td align="char" char="." rowspan="1" colspan="1">75.2</td><td align="left" rowspan="1" colspan="1">128</td><td align="char" char="." rowspan="1" colspan="1">77.1</td><td align="left" rowspan="2" colspan="1">.67</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">42</td><td align="char" char="." rowspan="1" colspan="1">24.9</td><td align="left" rowspan="1" colspan="1">38</td><td align="char" char="." rowspan="1" colspan="1">22.9</td></tr><tr><td align="left" colspan="6" rowspan="1">Metastatic organs</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0&#x02010;1</td><td align="left" rowspan="1" colspan="1">88</td><td align="char" char="." rowspan="1" colspan="1">52.1</td><td align="left" rowspan="1" colspan="1">91</td><td align="char" char="." rowspan="1" colspan="1">54.8</td><td align="left" rowspan="2" colspan="1">.61</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;2</td><td align="left" rowspan="1" colspan="1">81</td><td align="char" char="." rowspan="1" colspan="1">47.9</td><td align="left" rowspan="1" colspan="1">75</td><td align="char" char="." rowspan="1" colspan="1">45.2</td></tr><tr><td align="left" colspan="6" rowspan="1">Target lesion</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">153</td><td align="char" char="." rowspan="1" colspan="1">90.5</td><td align="left" rowspan="1" colspan="1">148</td><td align="char" char="." rowspan="1" colspan="1">89.2</td><td align="left" rowspan="2" colspan="1">.68</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">16</td><td align="char" char="." rowspan="1" colspan="1">9.5</td><td align="left" rowspan="1" colspan="1">18</td><td align="char" char="." rowspan="1" colspan="1">10.8</td></tr><tr><td align="left" colspan="6" rowspan="1">
+<italic>RAS</italic> mutation</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Wild&#x02010;type</td><td align="left" rowspan="1" colspan="1">99</td><td align="char" char="." rowspan="1" colspan="1">58.6</td><td align="left" rowspan="1" colspan="1">105</td><td align="char" char="." rowspan="1" colspan="1">63.3</td><td align="left" rowspan="3" colspan="1">.45</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mutant type</td><td align="left" rowspan="1" colspan="1">65</td><td align="char" char="." rowspan="1" colspan="1">38.5</td><td align="left" rowspan="1" colspan="1">58</td><td align="char" char="." rowspan="1" colspan="1">34.9</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td><td align="left" rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">3.0</td><td align="left" rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">1.8</td></tr><tr><td align="left" colspan="6" rowspan="1">
+<italic>BRAF</italic> mutation</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Wild&#x02010;type</td><td align="left" rowspan="1" colspan="1">153</td><td align="char" char="." rowspan="1" colspan="1">90.5</td><td align="left" rowspan="1" colspan="1">152</td><td align="char" char="." rowspan="1" colspan="1">91.6</td><td align="left" rowspan="3" colspan="1">.81</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mutant type</td><td align="left" rowspan="1" colspan="1">9</td><td align="char" char="." rowspan="1" colspan="1">5.3</td><td align="left" rowspan="1" colspan="1">10</td><td align="char" char="." rowspan="1" colspan="1">6.0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td><td align="left" rowspan="1" colspan="1">7</td><td align="char" char="." rowspan="1" colspan="1">4.1</td><td align="left" rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">2.4</td></tr><tr><td align="left" colspan="6" rowspan="1">
+<italic>PIK3CA</italic> mutation</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Wild&#x02010;type</td><td align="left" rowspan="1" colspan="1">148</td><td align="char" char="." rowspan="1" colspan="1">87.6</td><td align="left" rowspan="1" colspan="1">148</td><td align="char" char="." rowspan="1" colspan="1">89.2</td><td align="left" rowspan="3" colspan="1">1.00</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mutant type</td><td align="left" rowspan="1" colspan="1">14</td><td align="char" char="." rowspan="1" colspan="1">8.3</td><td align="left" rowspan="1" colspan="1">14</td><td align="char" char="." rowspan="1" colspan="1">8.4</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td><td align="left" rowspan="1" colspan="1">7</td><td align="char" char="." rowspan="1" colspan="1">4.1</td><td align="left" rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">2.4</td></tr><tr><td align="left" colspan="6" rowspan="1">
+<italic>AKT</italic> mutation</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Wild&#x02010;type</td><td align="left" rowspan="1" colspan="1">159</td><td align="char" char="." rowspan="1" colspan="1">94.1</td><td align="left" rowspan="1" colspan="1">161</td><td align="char" char="." rowspan="1" colspan="1">97.0</td><td align="left" rowspan="3" colspan="1">.57</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mutant type</td><td align="left" rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0.6</td><td align="left" rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">1.2</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td><td align="left" rowspan="1" colspan="1">9</td><td align="char" char="." rowspan="1" colspan="1">5.3</td><td align="left" rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">1.8</td></tr><tr><td align="left" colspan="6" rowspan="1">CIMP</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Negative</td><td align="left" rowspan="1" colspan="1">94</td><td align="char" char="." rowspan="1" colspan="1">55.6</td><td align="left" rowspan="1" colspan="1">99</td><td align="char" char="." rowspan="1" colspan="1">59.6</td><td align="left" rowspan="3" colspan="1">.28</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Positive</td><td align="left" rowspan="1" colspan="1">20</td><td align="char" char="." rowspan="1" colspan="1">11.8</td><td align="left" rowspan="1" colspan="1">14</td><td align="char" char="." rowspan="1" colspan="1">8.4</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td><td align="left" rowspan="1" colspan="1">55</td><td align="char" char="." rowspan="1" colspan="1">32.5</td><td align="left" rowspan="1" colspan="1">53</td><td align="char" char="." rowspan="1" colspan="1">32.0</td></tr><tr><td align="left" colspan="6" rowspan="1">Genome&#x02010;wide methylation status</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LMCC</td><td align="left" rowspan="1" colspan="1">82</td><td align="char" char="." rowspan="1" colspan="1">48.5</td><td align="left" rowspan="1" colspan="1">79</td><td align="char" char="." rowspan="1" colspan="1">47.6</td><td align="left" rowspan="3" colspan="1">.74</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">HMCC</td><td align="left" rowspan="1" colspan="1">32</td><td align="char" char="." rowspan="1" colspan="1">18.9</td><td align="left" rowspan="1" colspan="1">34</td><td align="char" char="." rowspan="1" colspan="1">20.5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td><td align="left" rowspan="1" colspan="1">55</td><td align="char" char="." rowspan="1" colspan="1">32.5</td><td align="left" rowspan="1" colspan="1">53</td><td align="char" char="." rowspan="1" colspan="1">31.9</td></tr><tr><td align="left" colspan="6" rowspan="1">MMR</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Proficient</td><td align="left" rowspan="1" colspan="1">158</td><td align="char" char="." rowspan="1" colspan="1">93.5</td><td align="left" rowspan="1" colspan="1">158</td><td align="char" char="." rowspan="1" colspan="1">95.2</td><td align="left" rowspan="3" colspan="1">.26</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Deficient</td><td align="left" rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">3.0</td><td align="left" rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">1.2</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td><td align="left" rowspan="1" colspan="1">6</td><td align="char" char="." rowspan="1" colspan="1">3.5</td><td align="left" rowspan="1" colspan="1">6</td><td align="char" char="." rowspan="1" colspan="1">3.6</td></tr><tr><td align="left" colspan="6" rowspan="1">PETN</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Positive</td><td align="left" rowspan="1" colspan="1">138</td><td align="char" char="." rowspan="1" colspan="1">81.7</td><td align="left" rowspan="1" colspan="1">131</td><td align="char" char="." rowspan="1" colspan="1">78.9</td><td align="left" rowspan="3" colspan="1">.42</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Negative</td><td align="left" rowspan="1" colspan="1">23</td><td align="char" char="." rowspan="1" colspan="1">13.6</td><td align="left" rowspan="1" colspan="1">28</td><td align="char" char="." rowspan="1" colspan="1">16.9</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td><td align="left" rowspan="1" colspan="1">8</td><td align="char" char="." rowspan="1" colspan="1">4.7</td><td align="left" rowspan="1" colspan="1">7</td><td align="char" char="." rowspan="1" colspan="1">4.2</td></tr><tr><td align="left" colspan="6" rowspan="1">CMS</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CMS1</td><td align="left" rowspan="1" colspan="1">25</td><td align="char" char="." rowspan="1" colspan="1">14.8</td><td align="left" rowspan="1" colspan="1">22</td><td align="char" char="." rowspan="1" colspan="1">13.3</td><td align="left" rowspan="5" colspan="1">.14</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CMS2</td><td align="left" rowspan="1" colspan="1">28</td><td align="char" char="." rowspan="1" colspan="1">16.6</td><td align="left" rowspan="1" colspan="1">44</td><td align="char" char="." rowspan="1" colspan="1">26.5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CMS3</td><td align="left" rowspan="1" colspan="1">52</td><td align="char" char="." rowspan="1" colspan="1">30.8</td><td align="left" rowspan="1" colspan="1">47</td><td align="char" char="." rowspan="1" colspan="1">28.3</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CMS4</td><td align="left" rowspan="1" colspan="1">51</td><td align="char" char="." rowspan="1" colspan="1">30.2</td><td align="left" rowspan="1" colspan="1">39</td><td align="char" char="." rowspan="1" colspan="1">23.5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td><td align="left" rowspan="1" colspan="1">13</td><td align="char" char="." rowspan="1" colspan="1">7.7</td><td align="left" rowspan="1" colspan="1">14</td><td align="char" char="." rowspan="1" colspan="1">8.4</td></tr><tr><td align="left" colspan="6" rowspan="1">aCRCS</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Subtype A1</td><td align="left" rowspan="1" colspan="1">28</td><td align="char" char="." rowspan="1" colspan="1">16.6</td><td align="left" rowspan="1" colspan="1">11</td><td align="char" char="." rowspan="1" colspan="1">6.6</td><td align="left" rowspan="5" colspan="1">.03</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Subtype A2</td><td align="left" rowspan="1" colspan="1">48</td><td align="char" char="." rowspan="1" colspan="1">28.4</td><td align="left" rowspan="1" colspan="1">59</td><td align="char" char="." rowspan="1" colspan="1">35.5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Subtype B1</td><td align="left" rowspan="1" colspan="1">54</td><td align="char" char="." rowspan="1" colspan="1">32.0</td><td align="left" rowspan="1" colspan="1">51</td><td align="char" char="." rowspan="1" colspan="1">30.7</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Subtype B2</td><td align="left" rowspan="1" colspan="1">26</td><td align="char" char="." rowspan="1" colspan="1">15.4</td><td align="left" rowspan="1" colspan="1">31</td><td align="char" char="." rowspan="1" colspan="1">18.7</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not definable</td><td align="left" rowspan="1" colspan="1">13</td><td align="char" char="." rowspan="1" colspan="1">7.7</td><td align="left" rowspan="1" colspan="1">14</td><td align="char" char="." rowspan="1" colspan="1">8.4</td></tr></tbody></table><table-wrap-foot id="cas14841-ntgp-0001"><fn id="cas14841-note-0001"><p>Abbreviations: aCRCS, advanced colorectal cancer subtype; CIMP, CpG island methylator phenotype; CMS, consensus molecular subtype; HMCC, highly methylated colorectal cancer; LMCC, low methylated colorectal cancer; MMR, mismatch repair; TR, translational research.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cas14841-sec-0013"><label>3.2</label><title>Clinical outcomes in accordance with a molecular subtype</title><p>In accordance with PFS subgroup analysis results (Figure&#x000a0;<xref rid="cas14841-fig-0002" ref-type="fig">2</xref> and Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S2</xref>), the PFS of the IRI group was significantly better compared with the OX group in <italic>BRAF</italic> WT, PTEN&#x02010;positive, and aCRCS A1 patients. In no molecular subtypes was the PFS of the OX group better compared with the IRI group. In the interaction test, only the aCRCS was a significant predictive factor for the PFS after OX&#x02010;based and IRI&#x02010;based therapies.</p><fig fig-type="FIGURE" xml:lang="en" id="cas14841-fig-0002" orientation="portrait" position="float"><label>FIGURE 2</label><caption><p>HRs for PFS events in accordance with molecular markers. The HR and its CI in the Cox proportional hazards model were calculated. <sup>*</sup>Statistically significant (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05). HR, hazard ratio; aCRCS, advanced colorectal cancer subtypes; CI, confidence interval; CIMP, CpG island methylator phenotype; CMS, consensus molecular subtypes of colorectal cancer; HMCC, highly methylated colorectal cancer; LMCC, low methylated colorectal cancer; MMR, mismatch repair; PFS, progression&#x02010;free survival</p></caption><graphic id="jats-graphic-5" xlink:href="CAS-112-1567-g003"/></fig></sec><sec id="cas14841-sec-0014"><label>3.3</label><title>Relationship between aCRCS and clinical outcomes of OX&#x02010;based and IRI&#x02010;based therapies</title><p>Table&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S2</xref> presents the clinicopathological and molecular backgrounds in all aCRCS. The patient backgrounds of the OX and IRI groups were generally well balanced, and there was little chance that the patient background affected the clinical outcomes of OX&#x02010;based and IRI&#x02010;based therapies (Table&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S2</xref>). There were significantly fewer PTEN&#x02010;negative cases in the OX group compared with the IRI group in aCRCS A2. There were more CIMP&#x02010;positive cases in the IRI group compared with the OX group in aCRCS B1. No other factors differed between the 2 groups.</p><p>Figure&#x000a0;<xref rid="cas14841-fig-0003" ref-type="fig">3</xref> shows survival curves of the PFS. The PFS of the IRI group was significantly better compared with the OX group in aCRCS A1 (Figure&#x000a0;<xref rid="cas14841-fig-0003" ref-type="fig">3A</xref>). The PFS of the IRI group was better compared with the OX group in aCRCS B1 (Figure&#x000a0;<xref rid="cas14841-fig-0003" ref-type="fig">3C</xref>), although the difference was not statistically significant. In contrast, the PFS of the OX group was better compared with the IRI group in aCRCS B2 although the difference was not statistically significant (Figure&#x000a0;<xref rid="cas14841-fig-0003" ref-type="fig">3D</xref>). In aCRCS A2, the PFS in both groups was comparable (Figure&#x000a0;<xref rid="cas14841-fig-0003" ref-type="fig">3B</xref>).</p><fig fig-type="FIGURE" xml:lang="en" id="cas14841-fig-0003" orientation="portrait" position="float"><label>FIGURE 3</label><caption><p>Kaplan&#x02010;Meier survival curves for the PFS in the OX (blue line) and the IRI (red line) group in accordance with subtypes: (A) aCRCS A1; (B) aCRCS A2; (C) aCRCS B1; (D) aCRCS B2; (E) aCRCS A1&#x000a0;+&#x000a0;B1. aCRCS, advanced colorectal cancer subtypes; CI, confidence interval; IRI, irinotecan; OX, oxaliplatin; PFS, progression&#x02010;free survival</p></caption><graphic id="jats-graphic-7" xlink:href="CAS-112-1567-g005"/></fig><p>PCA results of aCRCS are shown in Figure&#x000a0;<xref rid="cas14841-fig-0004" ref-type="fig">4</xref>. Notably, aCRCS A1 and B1 were close to each other, indicating that some fractions of the gene&#x02010;expression patterns among aCRCS A1 and B1 are similar. Since aCRCS A1 and B1 had relatively similar gene&#x02010;expression patterns and similar therapeutic effects for OX and IRI, we considered them as a single subtype (A1&#x000a0;+&#x000a0;B1) in terms of OX&#x02010;based and IRI&#x02010;based therapy selection. The PFS of the IRI group was significantly better compared with the OX group (HR&#x000a0;=&#x000a0;0.58; 95% CI&#x000a0;=&#x000a0;0.41&#x02010;0.82; <italic>P</italic>&#x000a0;=&#x000a0;.0023) in aCRCS A1&#x000a0;+&#x000a0;B1 (Figure&#x000a0;<xref rid="cas14841-fig-0003" ref-type="fig">3E</xref>).</p><fig fig-type="FIGURE" xml:lang="en" id="cas14841-fig-0004" orientation="portrait" position="float"><label>FIGURE 4</label><caption><p>PCA using a gene set of aCRCS. Each dot indicates 1 sample. Colors indicate subtypes: red, aCRCS A1; blue, aCRCS A2; green, aCRCS B1; purple, aCRCS B2. aCRCS, advanced colorectal cancer subtype; PCA, principal component analysis</p></caption><graphic id="jats-graphic-9" xlink:href="CAS-112-1567-g001"/></fig><p>The PFS by all subtypes of aCRCS in OX&#x02010;based treatment group and in IRI&#x02010;based treatment group are shown in Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S3</xref>. In OX&#x02010;based treatment group, PFS of aCRCS B2 was significantly better than that of aCRCS A1&#x000a0;+&#x000a0;B1 (Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S3</xref>A). Conversely, in the IRI&#x02010;based treatment group, there were no significant difference in PFS between all subtypes (Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S3</xref>B).</p><p>Figure&#x000a0;<xref rid="cas14841-fig-0005" ref-type="fig">5</xref> shows the best reduction in the target lesion size from the baseline. Tumor shrinkage in the IRI group was better compared with the OX group in aCRCS A1&#x000a0;+&#x000a0;B1 (Figure&#x000a0;<xref rid="cas14841-fig-0005" ref-type="fig">5A</xref>), while it was better in the OX group compared with the IRI group in aCRCS B2 (Figure&#x000a0;<xref rid="cas14841-fig-0005" ref-type="fig">5C</xref>). All patients in the OX group showed a reduction in the target lesion size in aCRCS B2. The trend in tumor shrinkage was similar between the OX and IRI groups in aCRCS A2 (Figure&#x000a0;<xref rid="cas14841-fig-0005" ref-type="fig">5B</xref>). Best overall response was shown in Table&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S3</xref>.</p><fig fig-type="FIGURE" xml:lang="en" id="cas14841-fig-0005" orientation="portrait" position="float"><label>FIGURE 5</label><caption><p>Best reduction in the target lesion size from the baseline. The waterfall plot shows the change in the sum of the diameters of target lesions from the baseline to the best response. A, aCRCS A1&#x000a0;+&#x000a0;B1; B, aCRCS A2; C, aCRCS B2</p></caption><graphic id="jats-graphic-11" xlink:href="CAS-112-1567-g006"/></fig><p>Adverse events data were shown in Table&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S4</xref>. In aCRCS A1&#x000a0;+&#x000a0;B1, the incidence of grade 3 or higher adverse events of leucopenia, anemia, febrile neutropenia, and thromboembolism was significantly higher in the IRI group than in the OX group. Grade 3 or higher peripheral sensory neuropathy was only observed in the OX group in all aCRCS subtypes.</p><p>The RDI of IRI tended to be lower compared with OX in aCRCS A1&#x000a0;+&#x000a0;B1, but there was no difference in aCRCS A2 and B2 (Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S4A</xref>). The RDI of fluoropyrimidines (5&#x02010;fluorouracil [5&#x02010;FU] or capecitabine) in the OX group was significantly lower than the RDI of S&#x02010;1 in the IRI group in aCRCS A2, but there was no difference in aCRCS A1&#x000a0;+&#x000a0;B1 and B2 (Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S4B</xref>). In addition, there was no difference in the RDI of bevacizumab between OX and IRI groups in all aCRCS (Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S4C</xref>).</p><p>Also, the OS was the same between OX and IRI groups in all aCRCS (Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S5</xref>).</p></sec><sec id="cas14841-sec-0015"><label>3.4</label><title>Oncogenic pathways associated with aCRCS</title><p>GSEA analysis was performed to identify the oncogenic pathways associated with aCRCS. The results of the GSEA (top 20 of enriched gene sets) are shown in Table&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S3</xref>. <italic>KRAS</italic> signaling pathways were markedly enriched in aCRCS A1&#x000a0;+&#x000a0;B1 compared with A2. In aCRCS B2 compared with A1&#x000a0;+&#x000a0;B1 and B2 compared with A2, <italic>KRAS</italic> signaling pathways were also markedly enriched. These data indicated that activation of <italic>KRAS</italic> was low in A2, intermediate in A1&#x000a0;+&#x000a0;B1 and high in B2.</p></sec><sec id="cas14841-sec-0016"><label>3.5</label><title>Gene&#x02010;expression levels for <italic>ERCC1</italic> gene</title><p>It has been reported that high expression of the <italic>ERCC1</italic> gene is associated with resistance to OX.<xref rid="cas14841-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> Comparing the expression level of the <italic>ERCC1</italic> gene, the expression level was significantly lower in aCRCS A1 compared with in aCRCSA1&#x000a0;+&#x000a0;B1 (Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S6</xref>).</p></sec></sec><sec sec-type="discussion" id="cas14841-sec-0017"><label>4</label><title>DISCUSSION</title><p>To the best of our knowledge, no comprehensive biomarker analysis of the therapeutic effects of OX and IRI in the TR of a prospective clinical trial has been reported. Recently, retrospective molecular analyses of several prospective clinical trials on the prognosis and therapeutic effects of an anti&#x02010;EGFR antibody and bevacizumab in accordance with CMS were reported.<xref rid="cas14841-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>, <xref rid="cas14841-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>, <xref rid="cas14841-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> However, there are still no clinically useful biomarkers for OX&#x02010;based and IRI&#x02010;based therapy selection, and the adverse event profile is the only factor considered in treatment selection.</p><p>The TRICOLORE trial compares bevacizumab&#x000a0;+&#x000a0;mFOLFOX6 or CapeOX with bevacizumab&#x000a0;+&#x000a0;IRI&#x000a0;+&#x000a0;S&#x02010;1. Representative prospective clinical trials comparing fluoropyrimidines (FIRIS, SOFT, NO16966, and AXEPT) in mCRC have shown that the PFS rates of 5&#x02010;FU, capecitabine, and S&#x02010;1 are comparable.<xref rid="cas14841-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>, <xref rid="cas14841-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref>, <xref rid="cas14841-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>, <xref rid="cas14841-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> Therefore, we believe that our findings can be used to compare the clinical outcomes of OX&#x02010;based and IRI&#x02010;based therapies.</p><p>Among the molecular factors, aCRCS were only associated with the PFS of OX and IRI groups (Figure&#x000a0;<xref rid="cas14841-fig-0002" ref-type="fig">2</xref>). In aCRCS A1 and B1, IRI&#x02010;based therapy led to better PFS compared with OX&#x02010;based therapy, while in aCRCS B2, OX&#x02010;based therapy led to better PFS compared with IRI&#x02010;based therapy. The aCRCS A1 and B1 are close to each other on the gene&#x02010;expression profile by PCA (Figure&#x000a0;<xref rid="cas14841-fig-0004" ref-type="fig">4</xref>), and the 2 groups have similar therapeutic outcomes with OX and IRI. In aCRCS A1&#x000a0;+&#x000a0;B1, IRI&#x02010;based therapy led to better PFS (Figure&#x000a0;<xref rid="cas14841-fig-0003" ref-type="fig">3</xref>E) and better tumor shrinkage compared with OX&#x02010;based therapy (Figure&#x000a0;<xref rid="cas14841-fig-0005" ref-type="fig">5A</xref>), although the RDI of IRI tends to be lower compared with OX (Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S4</xref>). These findings consistently suggest that aCRCS A1&#x000a0;+&#x000a0;B1 are more responsive to IRI compared with OX. In aCRCS B2, the PFS, and tumor shrinkage after OX&#x02010;based therapy are better compared with IRI&#x02010;based therapy, despite the lack of significant differences between the RDIs of OX and IRI. These findings suggest that aCRCS B2 is more responsive to OX compared with IRI. Taken together, aCRCS, which enabled the classification of mCRC into 3 subtypes, A1&#x000a0;+&#x000a0;B1, A2, and B2, can be a biomarker for predicting the PFS after OX&#x02010;based and IRI&#x02010;based therapies.</p><p>From GSEA, <italic>KRAS</italic> signaling activation was highest in aCRCS B2 among aCRCS (Table&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S3</xref>). It was reported that <italic>KRAS</italic> mutant colorectal cancer cell lines were sensitive to OX compared with <italic>KRAS</italic> WT colorectal cancer cell lines.<xref rid="cas14841-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> Therefore, the degree of activation of <italic>KRAS</italic> signaling may be responsible for the better PFS in aCRCS B2 and the poorer PFS in A1&#x000a0;+&#x000a0;B1 and A2 in the OX&#x02010;based treatment group (Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S3</xref>A). Furthermore, the expression level of the <italic>ERCC1</italic> gene, which is considered to be a predictor of the efficacy of OX, was significantly higher in aCRCS A1&#x000a0;+&#x000a0;B1 than in the other subtypes, suggesting that the sensitivity to OX might be poorer in aCRCS A1&#x000a0;+&#x000a0;B1 than in the others (Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S6</xref>). In fact, the PFS of OX tended to be better in aCRCS A2 compared with in aCRCS A1&#x000a0;+&#x000a0;B1 (<italic>P</italic>&#x000a0;=&#x000a0;.11) (Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S3</xref>A). In contrast, regardless of the aCRCS subtype, the sensitivity of IRI was consistently good (Figure&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S3</xref>B). Therefore, the reason why the sensitivity of IRI was better than that of OX in aCRCS A1 (or aCRCS A1&#x000a0;+&#x000a0;B1) was the poor sensitivity of OX due to <italic>KRAS</italic> signaling activation and ERCC1 expression. In contrast, the reason why the PFS was not different between OX and IRI in aCRCS A2 might be the intermediate sensitivity of OX.</p><p>From the adverse events data (Table&#x000a0;<xref rid="cas14841-sup-0001" ref-type="supplementary-material">S4</xref>), in aCRCS A1&#x000a0;+&#x000a0;B1, the incidence of grade 3 or higher adverse events of leucopenia, anemia, febrile neutropenia, and thromboembolism was significantly higher in the IRI group compared with in the OX group. The reason for this may be due to the significantly longer duration for IRI&#x02010;based treatment compared with the duration for OX&#x02010;based treatment in aCRCS A1&#x000a0;+&#x000a0;B1. Therefore, the total doses of cytotoxic drugs and bevacizumab would be higher in the IRI group than in the OX group.</p><p>Nearly half of patients with mCRC responded well to IRI (aCRCS A1&#x000a0;+&#x000a0;B1, 46.8%), while only about 20% responded well to OX (aCRCS B2, 18.5%). Therefore, the PFS of IRI&#x02010;based therapy was consistently better compared with OX&#x02010;based therapy, although the difference was not statistically significant.<xref rid="cas14841-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="cas14841-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="cas14841-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>
+</p><p>The OS did not differ significantly after OX&#x02010;based and IRI&#x02010;based therapies among aCRCS, but this might be because IRI is used in 60.7% of OX patients and OX is used in 56.6% of IRI patients as second&#x02010;line treatment.<xref rid="cas14841-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> In considering treatment strategies for mCRC, the key issue is QOL. Chemotherapy&#x02010;induced peripheral neuropathy (CIPN) by OX are long lasting and reduce QOL.<xref rid="cas14841-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref> To decrease the duration of CIPN, it is better to use OX in later line treatment. Therefore, IRI as first&#x02010;line treatment may be preferable in aCRCS A1&#x000a0;+&#x000a0;B1, who are more responsive to IRI than to OX, and in subtype A2, who have similar responsivity to both OX and IRI.</p><p>Okita et al reported the relationship between CMS and the efficacy of OX and IRI using a cohort of 193 patients with mCRC.<xref rid="cas14841-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> In that report, PFS, and OS were significantly better in the IRI group than in the OX group in CMS4. In CMS2 and CMS3, PFS of both groups was equivalent. Unfortunately, we were unable to replicate those results; our results exhibited the same trend as that of Okita et al. CMS was developed using gene&#x02010;expression data of early&#x02010;stage CRC and mCRC, whereas aCRCS was developed using the gene&#x02010;expression data of unresectable or recurrent colorectal cancer only. It is possible that aCRCS, which is specific to the classification of mCRC, may have an advantage in predicting the sensitivity of OX and IRI to mCRC.</p><p>This is the first report on specific CRC subtypes based on comprehensive molecular analysis: (a) being related to OX and IRI efficacy, and (b) being a biomarker in mCRC. However, this study had a few limitations. First, the TRICOLORE trial was conducted on a Japanese population. Second, S&#x02010;1 is not widely used as for mCRC treatment in the West. Third, this was an exploratory study, and future validation studies are needed to determine the significance of aCRCS as a biomarker for OX&#x02010;based and IRI&#x02010;based therapy selection.</p><p>In conclusion, the PFS after IRI&#x02010;based therapy was significantly better compared with OX&#x02010;based therapy in the aCRCS A1&#x000a0;+&#x000a0;B1 group. aCRCS may be a predictive factor of the outcomes of OX&#x02010;based and IRI&#x02010;based therapies. Given that IRI has advantages in the proportion of sensitive cases and QOL, the therapeutic strategy of selecting IRI as the first&#x02010;line treatment for mCRC may be effective.</p></sec><sec sec-type="COI-statement" id="cas14841-sec-0019"><title>DISCLOSURE</title><p>ST has received honoraria from Taiho and Asahi Kasei and research grants from Merck Biopharma and Ono. TD has received honoraria from Sawai and Sysmex and research grants from Taiho, MSD, and Ono. AT has received honoraria from Chugai, Takeda, Eli Lilly, Ono, Taiho, and Sanofi, and research grants from Ono, MSD, Sumitomo Dainippon, Taiho, and Takeda. YK has received honoraria from Asahi Kasei, EA Pharma, MSD, Otsuka, Ono, Shiseido, Yakult, Kyowa Kirin, Sanofi, Sawai, Shire, Daiichi Sankyo, Taiho, Takeda, Mitsubishi Tanabe, Chugai, Nipro, Eli Lilly, Nippon&#x02010;Kayaku, Bayer, Pfizer, Bristol&#x02010;Myers Squibb, Merck Biopharma, and Novartis, and research grants from Takeda, Shionogi, Ono, Taiho, Chugai, Asahi Kasei, Kyowa Kirin, Nippon Zoki, Eli Lilly, and Daiichi Sankyo. MN has received honoraria from Chugai, Taiho, Merck Biopharma, Takeda, Ono, Eli Lilly, Otsuka, Yakult, Sanofi, and Bayer. TY has received honoraria from Chugai and Taiho. HB has received honoraria from Eli Lilly, Taiho, Ono, Chugai, and Takeda and research funds from Ono, Merck Biopharma, MSD, and Taiho and research grants from Taiho, Yakult, and Chugai. KS has received honoraria from Taiho, Chugai, and Daiichi Sankyo. AS has received honoraria from Taiho, Chugai, Daiichi Sankyo, Eli Lilly, and Ono. SY has received honoraria from Chugai, Takeda, and Bristol&#x02010;Myers. SM has received honoraria from AstraZeneca, Bristol&#x02010;Myers Squibb, Chugai, Eli Lilly, MSD, Boehringer Ingelheim, Ono, Pfizer, and Taiho, and research grants from Boehringer Ingelheim. CI has received research grants from Hitachi, Chugai, Taiho, Ono, Eisai, Taleda, Asahi Kasei, and Daiichi Sankyo. All remaining authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="cas14841-sup-0001"><caption><p>Appendix S1</p></caption><media xlink:href="CAS-112-1567-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="cas14841-sup-0002"><caption><p>Appendix S2</p></caption><media xlink:href="CAS-112-1567-s002.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cas14841-sec-0018"><title>ACKNOWLEDGMENTS</title><p>We thank our patients and medical and technical staff, especially Ms Hiromi Nakano. A list of participating institutions to TR is given in the Appendix&#x000a0;<xref rid="cas14841-sup-0002" ref-type="supplementary-material">S2</xref>. This work was supported by the Tokyo Cooperative Oncology Group with funding from Taiho Pharmaceutical Co. Ltd., Japan [no grant number] under the study contract, and partly supported by a grant from the Project for Development of Innovative Research on Cancer Therapeutics (P&#x02010;DIRECT) [grant number 11110018] and the Project for Cancer Research and Therapeutic Evolution (P&#x02010;CREATE) [grant number 16770660] by the Japan Agency for Medical Research and Development.</p></ack><ref-list content-type="cited-references" id="cas14841-bibl-0001"><title>REFERENCES</title><ref id="cas14841-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cas14841-cit-0001">
+<string-name>
+<surname>Van Cutsem</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Cervantes</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Adam</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>ESMO consensus guidelines for the management of patients with metastatic colorectal cancer</article-title>. <source xml:lang="en">Ann Oncol</source>. <year>2016</year>;<volume>27</volume>(<issue>8</issue>):<fpage>1386</fpage>&#x02010;<lpage>1422</lpage>.<pub-id pub-id-type="pmid">27380959</pub-id></mixed-citation></ref><ref id="cas14841-bib-0002"><label>2</label><mixed-citation publication-type="miscellaneous" id="cas14841-cit-0002">
+<article-title>National Comprehensive Cancer Network (NCCN)</article-title>. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.nccn.org">https://www.nccn.org</ext-link>. Colon Cancer, Version 2. 2021, Accessed January 21, 2021. Rectal cancer, Version 1. 2021, Accessed December 22, 2020.</mixed-citation></ref><ref id="cas14841-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cas14841-cit-0003">
+<string-name>
+<surname>Parikh</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>FC</given-names>
+</string-name>, <string-name>
+<surname>Yau</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>MAVERICC, a randomized, biomarker&#x02010;stratified, Phase II Study of mFOLFOX6&#x02010;Bevacizumab versus FOLFIRI&#x02010;Bevacizumab as First&#x02010;line Chemotherapy in Metastatic Colorectal Cancer</article-title>. <source xml:lang="en">Clin Cancer Res</source>. <year>2019</year>;<volume>25</volume>(<issue>10</issue>):<fpage>2988</fpage>&#x02010;<lpage>2995</lpage>.<pub-id pub-id-type="pmid">30224341</pub-id></mixed-citation></ref><ref id="cas14841-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cas14841-cit-0004">
+<string-name>
+<surname>Yamazaki</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Nagase</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tamagawa</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Randomized phase III study of bevacizumab plus FOLFIRI and bevacizumab plus mFOLFOX6 as first&#x02010;line treatment for patients with metastatic colorectal cancer (WJOG4407G)</article-title>. <source xml:lang="en">Ann Oncol</source>. <year>2016</year>;<volume>27</volume>(<issue>8</issue>):<fpage>1539</fpage>&#x02010;<lpage>1546</lpage>.<pub-id pub-id-type="pmid">27177863</pub-id></mixed-citation></ref><ref id="cas14841-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cas14841-cit-0005">
+<string-name>
+<surname>Tournigand</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Andre</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Achille</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>FOLFIRI followed by FOLFOX6 or the reverse sequence in advanced colorectal cancer: a randomized GERCOR study</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2004</year>;<volume>22</volume>(<issue>2</issue>):<fpage>229</fpage>&#x02010;<lpage>237</lpage>.<pub-id pub-id-type="pmid">14657227</pub-id></mixed-citation></ref><ref id="cas14841-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cas14841-cit-0006">
+<string-name>
+<surname>Yamada</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Denda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Gamoh</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>S&#x02010;1 and irinotecan plus bevacizumab versus mFOLFOX6 or CapeOX plus bevacizumab as first&#x02010;line treatment in patients with metastatic colorectal cancer (TRICOLORE): a randomized, open&#x02010;label, phase III, noninferiority trial</article-title>. <source xml:lang="en">Ann Oncol</source>. <year>2018</year>;<volume>29</volume>(<issue>3</issue>):<fpage>624</fpage>&#x02010;<lpage>631</lpage>.<pub-id pub-id-type="pmid">29293874</pub-id></mixed-citation></ref><ref id="cas14841-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cas14841-cit-0007">
+<string-name>
+<surname>Sanz&#x02010;Garcia</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Argiles</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Elez</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Tabernero</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>BRAF mutant colorectal cancer: prognosis, treatment, and new perspectives</article-title>. <source xml:lang="en">Ann Oncol</source>. <year>2017</year>;<volume>28</volume>(<issue>11</issue>):<fpage>2648</fpage>&#x02010;<lpage>2657</lpage>.<pub-id pub-id-type="pmid">29045527</pub-id></mixed-citation></ref><ref id="cas14841-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cas14841-cit-0008">
+<string-name>
+<surname>Sorich</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Wiese</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Rowland</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kichenadasse</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>McKinnon</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Karapetis</surname>
+<given-names>CS</given-names>
+</string-name>. <article-title>Extended RAS mutations and anti&#x02010;EGFR monoclonal antibody survival benefit in metastatic colorectal cancer: a meta&#x02010;analysis of randomized, controlled trials</article-title>. <source xml:lang="en">Ann Oncol</source>. <year>2015</year>;<volume>26</volume>(<issue>1</issue>):<fpage>13</fpage>&#x02010;<lpage>21</lpage>.<pub-id pub-id-type="pmid">25115304</pub-id></mixed-citation></ref><ref id="cas14841-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cas14841-cit-0009">
+<string-name>
+<surname>Hewish</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lord</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Cunningham</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ashworth</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Mismatch repair deficient colorectal cancer in the era of personalized treatment</article-title>. <source xml:lang="en">Nature reviews Clinical oncology</source>. <year>2010</year>;<volume>7</volume>(<issue>4</issue>):<fpage>197</fpage>&#x02010;<lpage>208</lpage>.</mixed-citation></ref><ref id="cas14841-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cas14841-cit-0010">
+<string-name>
+<surname>Weisenberger</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Siegmund</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Campan</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>CpG island methylator phenotype underlies sporadic microsatellite instability and is tightly associated with BRAF mutation in colorectal cancer</article-title>. <source xml:lang="en">Nat Genet</source>. <year>2006</year>;<volume>38</volume>(<issue>7</issue>):<fpage>787</fpage>&#x02010;<lpage>793</lpage>.<pub-id pub-id-type="pmid">16804544</pub-id></mixed-citation></ref><ref id="cas14841-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cas14841-cit-0011">
+<string-name>
+<surname>Guinney</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dienstmann</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>The consensus molecular subtypes of colorectal cancer</article-title>. <source xml:lang="en">Nat Med</source>. <year>2015</year>;<volume>21</volume>(<issue>11</issue>):<fpage>1350</fpage>&#x02010;<lpage>1356</lpage>.<pub-id pub-id-type="pmid">26457759</pub-id></mixed-citation></ref><ref id="cas14841-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cas14841-cit-0012">
+<string-name>
+<surname>Inoue</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Soeda</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Gene&#x02010;expression profiles correlate with the efficacy of anti&#x02010;EGFR therapy and chemotherapy for colorectal cancer</article-title>. <source xml:lang="en">Int J Clin Oncol</source>. <year>2015</year>;<volume>20</volume>(<issue>6</issue>):<fpage>1147</fpage>&#x02010;<lpage>1155</lpage>.<pub-id pub-id-type="pmid">25990448</pub-id></mixed-citation></ref><ref id="cas14841-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cas14841-cit-0013">
+<string-name>
+<surname>Komatsu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ishioka</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Shimada</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Study protocol of the TRICOLORE trial: a randomized phase III study of oxaliplatin&#x02010;based chemotherapy versus combination chemotherapy with S&#x02010;1, irinotecan, and bevacizumab as first&#x02010;line therapy for metastatic colorectal cancer</article-title>. <source xml:lang="en">BMC Cancer</source>. <year>2015</year>;<volume>15</volume>:<fpage>626</fpage>.<pub-id pub-id-type="pmid">26353772</pub-id></mixed-citation></ref><ref id="cas14841-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cas14841-cit-0014">
+<string-name>
+<surname>Soeda</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Shimodaira</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gamoh</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Phase II trial of cetuximab plus irinotecan for oxaliplatin&#x02010; and irinotecan&#x02010;based chemotherapy&#x02010;refractory patients with advanced and/or metastatic colorectal cancer: evaluation of efficacy and safety based on KRAS mutation status (T&#x02010;CORE0801)</article-title>. <source xml:lang="en">Oncology</source>. <year>2014</year>;<volume>87</volume>(<issue>1</issue>):<fpage>7</fpage>&#x02010;<lpage>20</lpage>.</mixed-citation></ref><ref id="cas14841-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cas14841-cit-0015">
+<string-name>
+<surname>Okita</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ouchi</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Consensus molecular subtypes classification of colorectal cancer as a predictive factor for chemotherapeutic efficacy against metastatic colorectal cancer</article-title>. <source xml:lang="en">Oncotarget</source>. <year>2018</year>;<volume>9</volume>(<issue>27</issue>):<fpage>18698</fpage>&#x02010;<lpage>18711</lpage>.<pub-id pub-id-type="pmid">29721154</pub-id></mixed-citation></ref><ref id="cas14841-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cas14841-cit-0016">
+<string-name>
+<surname>Ouchi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yamada</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>DNA methylation status as a biomarker of anti&#x02010;epidermal growth factor receptor treatment for metastatic colorectal cancer</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2015</year>;<volume>106</volume>(<issue>12</issue>):<fpage>1722</fpage>&#x02010;<lpage>1729</lpage>.<pub-id pub-id-type="pmid">26426205</pub-id></mixed-citation></ref><ref id="cas14841-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cas14841-cit-0017">
+<string-name>
+<surname>Subramanian</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tamayo</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mootha</surname>
+<given-names>VK</given-names>
+</string-name>, et al. <article-title>Gene set enrichment analysis: a knowledge&#x02010;based approach for interpreting genome&#x02010;wide expression profiles</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2005</year>;<volume>102</volume>(<issue>43</issue>):<fpage>15545</fpage>&#x02010;<lpage>15550</lpage>.<pub-id pub-id-type="pmid">16199517</pub-id></mixed-citation></ref><ref id="cas14841-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cas14841-cit-0018">
+<string-name>
+<surname>Baba</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Baba</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Uemoto</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Changes in expression levels of ERCC1, DPYD, and VEGFA mRNA after first&#x02010;line chemotherapy of metastatic colorectal cancer: results of a multicenter study</article-title>. <source xml:lang="en">Oncotarget</source>. <year>2015</year>;<volume>6</volume>(<issue>32</issue>):<fpage>34004</fpage>&#x02010;<lpage>34013</lpage>.<pub-id pub-id-type="pmid">26372896</pub-id></mixed-citation></ref><ref id="cas14841-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cas14841-cit-0019">
+<string-name>
+<surname>Stintzing</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wirapati</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lenz</surname>
+<given-names>HJ</given-names>
+</string-name>, et al. <article-title>Consensus molecular subgroups (CMS) of colorectal cancer (CRC) and 1st&#x02010;line efficacy of FOLFIRI plus cetuximab or bevacizumab in the FIRE3 (AIO KRK&#x02010;0306) trial</article-title>. <source xml:lang="en">Ann Oncol</source>. <year>2019</year>;<volume>30</volume>(<issue>11</issue>):<fpage>1796</fpage>&#x02010;<lpage>1803</lpage>.<pub-id pub-id-type="pmid">31868905</pub-id></mixed-citation></ref><ref id="cas14841-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cas14841-cit-0020">
+<string-name>
+<surname>Lenz</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Ou</surname>
+<given-names>FS</given-names>
+</string-name>, <string-name>
+<surname>Venook</surname>
+<given-names>AP</given-names>
+</string-name>, et al. <article-title>Impact of consensus molecular subtype on survival in patients with metastatic colorectal cancer: Results from CALGB/SWOG 80405 (Alliance)</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2019</year>;<volume>37</volume>(<issue>22</issue>):<fpage>1876</fpage>&#x02010;<lpage>1885</lpage>.<pub-id pub-id-type="pmid">31042420</pub-id></mixed-citation></ref><ref id="cas14841-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cas14841-cit-0021">
+<string-name>
+<surname>Aderka</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Stintzing</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Heinemann</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Explaining the unexplainable: discrepancies in results from the CALGB/SWOG 80405 and FIRE&#x02010;3 studies</article-title>. <source xml:lang="en">Lancet Oncol</source>. <year>2019</year>;<volume>20</volume>(<issue>5</issue>):<fpage>e274</fpage>&#x02010;<lpage>e283</lpage>.<pub-id pub-id-type="pmid">31044725</pub-id></mixed-citation></ref><ref id="cas14841-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cas14841-cit-0022">
+<string-name>
+<surname>Muro</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Boku</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Shimada</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Irinotecan plus S&#x02010;1 (IRIS) versus fluorouracil and folinic acid plus irinotecan (FOLFIRI) as second&#x02010;line chemotherapy for metastatic colorectal cancer: a randomised phase 2/3 non&#x02010;inferiority study (FIRIS study)</article-title>. <source xml:lang="en">Lancet Oncol</source>. <year>2010</year>;<volume>11</volume>(<issue>9</issue>):<fpage>853</fpage>&#x02010;<lpage>860</lpage>.<pub-id pub-id-type="pmid">20708966</pub-id></mixed-citation></ref><ref id="cas14841-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cas14841-cit-0023">
+<string-name>
+<surname>Yamada</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Takahari</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Matsumoto</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Leucovorin, fluorouracil, and oxaliplatin plus bevacizumab versus S&#x02010;1 and oxaliplatin plus bevacizumab in patients with metastatic colorectal cancer (SOFT): an open&#x02010;label, non&#x02010;inferiority, randomised phase 3 trial</article-title>. <source xml:lang="en">Lancet Oncol</source>. <year>2013</year>;<volume>14</volume>(<issue>13</issue>):<fpage>1278</fpage>&#x02010;<lpage>1286</lpage>.<pub-id pub-id-type="pmid">24225157</pub-id></mixed-citation></ref><ref id="cas14841-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cas14841-cit-0024">
+<string-name>
+<surname>Xu</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Muro</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Morita</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Modified XELIRI (capecitabine plus irinotecan) versus FOLFIRI (leucovorin, fluorouracil, and irinotecan), both either with or without bevacizumab, as second&#x02010;line therapy for metastatic colorectal cancer (AXEPT): a multicentre, open&#x02010;label, randomised, non&#x02010;inferiority, phase 3 trial</article-title>. <source xml:lang="en">Lancet Oncol</source>. <year>2018</year>;<volume>19</volume>(<issue>5</issue>):<fpage>660</fpage>&#x02010;<lpage>671</lpage>.<pub-id pub-id-type="pmid">29555258</pub-id></mixed-citation></ref><ref id="cas14841-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cas14841-cit-0025">
+<string-name>
+<surname>Cassidy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>D&#x000ed;az&#x02010;Rubio</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Randomized phase III study of capecitabine plus oxaliplatin compared with fluorouracil/folinic acid plus oxaliplatin as first&#x02010;line therapy for metastatic colorectal cancer</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2008</year>;<volume>26</volume>(<issue>12</issue>):<fpage>2006</fpage>&#x02010;<lpage>2012</lpage>.<pub-id pub-id-type="pmid">18421053</pub-id></mixed-citation></ref><ref id="cas14841-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cas14841-cit-0026">
+<string-name>
+<surname>Orlandi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Di Salvatore</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bagal&#x000e0;</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>ERCC1 induction after oxaliplatin exposure may depend on KRAS mutational status in colorectal cancer cell line: In vitro Veritas</article-title>. <source xml:lang="en">J Cancer</source>. <year>2015</year>;<volume>6</volume>(<issue>1</issue>):<fpage>70</fpage>&#x02010;<lpage>81</lpage>.<pub-id pub-id-type="pmid">25553091</pub-id></mixed-citation></ref><ref id="cas14841-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cas14841-cit-0027">
+<string-name>
+<surname>Nakamura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Takashima</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Denda</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>475P Updated analysis and exploratory analysis of primary tumor location in the TRICOLORE trial: A randomized phase III trial of S&#x02010;1 and irinotecan plus bevacizumab versus mFOLFOX6 or CapeOX plus bevacizumab as first&#x02010;line treatment for metastatic colorectal cancer</article-title>. <source xml:lang="en">Ann Oncol</source>. <year>2018</year>;<volume>29</volume>(<issue>suppl_8</issue>):<fpage>23</fpage>.<pub-id pub-id-type="pmid">29088323</pub-id></mixed-citation></ref></ref-list></back></article>

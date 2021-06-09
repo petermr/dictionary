@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Le</surname>
+    <given-names>QT</given-names>
+   </name>
+   <name>
+    <surname>Fu</surname>
+    <given-names>KK</given-names>
+   </name>
+   <name>
+    <surname>Kroll</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Ryu</surname>
+    <given-names>JK</given-names>
+   </name>
+   <name>
+    <surname>Quivey</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Meyler</surname>
+    <given-names>TS</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Influence of fraction size, total dose, and overall time on local control of T1-T2 glottic carcinoma</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>1997</year>
+  <volume>39</volume>
+  <issue>1</issue>
+  <fpage>115</fpage>
+  <lpage>126</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0360-3016(97)00284-8</pub-id>
+  <?supplied-pmid 9300746?>
+  <pub-id pub-id-type="pmid">9300746</pub-id>
+ </element-citation>
+</ref>

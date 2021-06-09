@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Xianhong</given-names>
+  </name>
+  <degrees>MB</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Qin</surname>
+   <given-names>Ke</given-names>
+  </name>
+  <degrees>MB</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yuan</surname>
+   <given-names>Chunyan</given-names>
+  </name>
+  <degrees>MB</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Song</surname>
+   <given-names>Shiqiang</given-names>
+  </name>
+  <degrees>MM</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>∗</sup>
+  </xref>
+ </contrib>
+</contrib-group>

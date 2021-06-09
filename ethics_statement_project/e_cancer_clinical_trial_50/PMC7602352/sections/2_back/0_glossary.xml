@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>ADL</term>
+   <def>
+    <p id="Par5">Activities of daily living</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BED</term>
+   <def>
+    <p id="Par6">Radiation biological effective dose</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par7">Computer tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CTCAE</term>
+   <def>
+    <p id="Par8">Common terminology criteria for adverse events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CTT</term>
+   <def>
+    <p id="Par9">Colour trail test</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ECOG</term>
+   <def>
+    <p id="Par10">Eastern cooperative oncology group performance status</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EQD2</term>
+   <def>
+    <p id="Par11">Radiation equivalent dose in 2gy fractions</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EQ-5D-5L</term>
+   <def>
+    <p id="Par12">Euro QOL – 5 dimension – 5 level questionnaire</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FACT-BR</term>
+   <def>
+    <p id="Par13">Functional assessment of cancer therapy with brain subscale</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GPA</term>
+   <def>
+    <p id="Par14">Graded prognostic assessment prognostic index</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GTV</term>
+   <def>
+    <p id="Par15">Gross tumour volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Gy</term>
+   <def>
+    <p id="Par16">Gray</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HAZ</term>
+   <def>
+    <p id="Par17">Hippocampal avoidance zone.</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HA-WBRT</term>
+   <def>
+    <p id="Par18">Hippocampal avoidance whole brain radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HA-SIB-WBRT</term>
+   <def>
+    <p id="Par19">Hippocampal avoidance with simultaneous integrated boost whole brain radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HVLT-R</term>
+   <def>
+    <p id="Par20">Hopkins verbal learning test-revised</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IRB</term>
+   <def>
+    <p id="Par21">Institutional review board</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MRI</term>
+   <def>
+    <p id="Par22">Magnetic resonance imaging</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OAR</term>
+   <def>
+    <p id="Par23">Organs at risk</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OS</term>
+   <def>
+    <p id="Par24">Overall survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PFS</term>
+   <def>
+    <p id="Par25">Progression free survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PROMs</term>
+   <def>
+    <p id="Par26">Patient report outcome measures</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PTV</term>
+   <def>
+    <p id="Par27">Planning target volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>QoL</term>
+   <def>
+    <p id="Par28">Quality of life</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RANO</term>
+   <def>
+    <p id="Par29">Response assessment in neuro-oncology</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RECIST 1.1</term>
+   <def>
+    <p id="Par30">Response evaluation criteria in solid tumours version 1.1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SIB</term>
+   <def>
+    <p id="Par31">Simultaneous integrated boost</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SRS</term>
+   <def>
+    <p id="Par32">Stereotactic radiosurgery</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TMT</term>
+   <def>
+    <p id="Par33">Trail making test</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WBRT</term>
+   <def>
+    <p id="Par34">Whole brain radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WBRT+SIB</term>
+   <def>
+    <p id="Par35">Whole brain radiotherapy with simultaneous integrated boost</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

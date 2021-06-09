@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dunant</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Pignon</surname>
+    <given-names>J-P</given-names>
+   </name>
+   <name>
+    <surname>Le Chevalier</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>Adjuvant chemotherapy for non-small cell lung cancer: contribution of the International Adjuvant Lung Trial</article-title>
+  <source>Clin Cancer Res</source>
+  <year>2005</year>
+  <volume>11</volume>
+  <fpage>5017s</fpage>
+  <lpage>5021s</lpage>
+  <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-05-9006</pub-id>
+  <pub-id pub-id-type="pmid">16000606</pub-id>
+ </element-citation>
+</ref>

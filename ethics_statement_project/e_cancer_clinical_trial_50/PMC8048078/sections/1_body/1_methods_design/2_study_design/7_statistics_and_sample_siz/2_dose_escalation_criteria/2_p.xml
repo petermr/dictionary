@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par116">Treatment planning futility will be considered if less than 33% of the patients (to a maximum of 9 patients) at a specific dose level can successfully have a treatment plan generated for that dose level meeting organ at risk constraints. If treatment planning futility is encountered, the MTD will be considered as the dose level preceding the failed dose level.</p>

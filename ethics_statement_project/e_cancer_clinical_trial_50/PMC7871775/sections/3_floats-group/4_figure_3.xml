@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig0003">
+ <label>Figure 3</label>
+ <caption>
+  <p>Data flow in PREVENT-HD. Study data are collected remotely by site staff. Key data flow in daily to weekly from the local hospital electronic medical records (EMR), through REDCap Cloud, to a parallel clinical database. Data from EMR can be used in real time to identify eligible subjects to consent remotely, and to monitor for outcome events in enrolled participants. Site staff conduct virtual follow-up visits by phone or telehealth and enter data from outside the hospital system into electronic case report forms. Participants do not need to leave home through the duration of the study.</p>
+ </caption>
+ <alt-text id="alt0003">Figure 3</alt-text>
+ <graphic xlink:href="gr3_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

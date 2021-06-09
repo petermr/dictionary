@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par36">For a given patient, safety of treatment at a given dose level will be determined by meeting all of the following criteria: 
+ <list list-type="order">
+  <list-item>
+   <p id="Par37">The patient successfully receives all treatment at the assigned dose level</p>
+  </list-item>
+  <list-item>
+   <p id="Par38">No Grade 5 toxicity (patient death) attributable to treatment occurs.</p>
+  </list-item>
+  <list-item>
+   <p id="Par39">No Grade 4 toxicity (CTCAE v4.0) at the 6-week assessment among hematologic, cardiac, hepatobiliary or respiratory domains.</p>
+  </list-item>
+  <list-item>
+   <p id="Par40">No more than three instances of Grade 3–4 toxicities among other domains.</p>
+  </list-item>
+ </list>
+</p>

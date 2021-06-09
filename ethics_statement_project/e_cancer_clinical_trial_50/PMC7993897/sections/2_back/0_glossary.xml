@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>AACR</term>
+   <def>
+    <p id="Par5">American Association for Cancer Research</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CI</term>
+   <def>
+    <p id="Par6">Confidence interval</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CR</term>
+   <def>
+    <p id="Par7">Complete response</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par8">Computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>COVID-19</term>
+   <def>
+    <p id="Par9">Coronavirus disease 2019</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CWS</term>
+   <def>
+    <p id="Par10">Cancer Worry Scale</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DMTR</term>
+   <def>
+    <p id="Par11">Dutch Melanoma Treatment Registry</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DSMB</term>
+   <def>
+    <p id="Par12">Data Safety Monitoring Board</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ECCO</term>
+   <def>
+    <p id="Par13">European Cancer Organisation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ESMO</term>
+   <def>
+    <p id="Par14">European Society for Medical Oncology</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EORTC</term>
+   <def>
+    <p id="Par15">European Organisation for Research and Treatment of Cancer.</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EQ-5D-5L</term>
+   <def>
+    <p id="Par16">EuroQoL Health Utilities Index (EQ-5D, version 5L)</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>18F-FDG</term>
+   <def>
+    <p id="Par17">Fluorine-18 fluorodeoxyglucose</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FACT-M</term>
+   <def>
+    <p id="Par18">Functional assessment of ancer therapy melanoma</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ICI</term>
+   <def>
+    <p id="Par19">Immune checkpoint inhibitor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>iMTA</term>
+   <def>
+    <p id="Par20">Institute for Medical Technology Assessment</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>iRECIST</term>
+   <def>
+    <p id="Par21">Immunotherapy Response Evaluation Criteria In Solid Tumours</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LDH</term>
+   <def>
+    <p id="Par22">Lactate dehydrogenase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MRI</term>
+   <def>
+    <p id="Par23">Magnetic resonance imaging</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PD </term>
+   <def>
+    <p id="Par24">Progressive disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PD-1</term>
+   <def>
+    <p id="Par25">Programmed cell death protein 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PFS</term>
+   <def>
+    <p id="Par26">Progression-free survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PET</term>
+   <def>
+    <p id="Par27">Positron emission tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PR</term>
+   <def>
+    <p id="Par28">Partial response</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>(HR)QoL</term>
+   <def>
+    <p id="Par29">(Health-related) Quality of life</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RECIST v1.1</term>
+   <def>
+    <p id="Par30">Response Evaluation Criteria In Solid Tumours version 1.1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>(S)AE</term>
+   <def>
+    <p id="Par31">(Serious) Adverse event</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SD</term>
+   <def>
+    <p id="Par32">Stable disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Sponsor</term>
+   <def>
+    <p id="Par33">The sponsor is the party that commissions the organisation or performance of the research (here: the academic hospital Erasmus Medical Centre Cancer Institute)</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WIN-O</term>
+   <def>
+    <p id="Par35">Werkgroep Immunotherapie Nederland voor Oncologie</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

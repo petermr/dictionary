@@ -1,0 +1,7 @@
+0: The study protocol complies with the Declaration of Helsinki [ 27] and the Ethics Guidelines for Clinical Research published by the Ministry of Health, Labor, and Welfare, Japan [ 28].
+1: Patients and the public were not involved in the study design.
+2: We obtained approval for this study from the Ethics Committee of Yokohama City University Hospital on December 22, 2016.
+3: The protocol and informed consent form were approved by the institutional ethics committee at Yokohama City University Hospital.
+4: This trial has been registered in the University Hospital Medical Information Network (UMIN) Clinical Trials Registry as UMIN000028259.
+5: Written informed consent for participation in the study will be obtained from all participating patients.
+6: The trial results will be reported in conformity with the Consolidated Standards of Reporting Trials (CONSORT) 2010 guidelines [ 29].

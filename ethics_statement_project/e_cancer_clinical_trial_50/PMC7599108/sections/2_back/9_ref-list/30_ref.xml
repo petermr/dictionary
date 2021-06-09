@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chan</surname>
+    <given-names>AT</given-names>
+   </name>
+   <name>
+    <surname>Ogino</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Fuchs</surname>
+    <given-names>CS</given-names>
+   </name>
+  </person-group>
+  <article-title>Aspirin and the risk of colorectal cancer in relation to the expression of COX-2</article-title>
+  <source>N Engl J Med</source>
+  <year>2007</year>
+  <volume>356</volume>
+  <issue>21</issue>
+  <fpage>2131</fpage>
+  <lpage>2142</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa067208</pub-id>
+  <pub-id pub-id-type="pmid">17522398</pub-id>
+ </element-citation>
+</ref>

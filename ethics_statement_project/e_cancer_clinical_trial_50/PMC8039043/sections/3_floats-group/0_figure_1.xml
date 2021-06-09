@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f0001" fig-type="figure" orientation="portrait" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>CONSORT flow diagram with study overview and recruitment profile.</p>
+ </caption>
+ <graphic content-type="print-only" xlink:href="DDDT-15-1485-g0001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <attrib>
+  <bold>Notes:</bold> Group L, lidocaine group; Group C, control group.
+ </attrib>
+ <attrib>
+  <bold>Abbreviations:</bold> CONSORT, Consolidated Standards for Reporting of Trials; ICU, intensive care unit.
+ </attrib>
+</fig>

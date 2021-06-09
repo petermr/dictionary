@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="cas14811-tbl-0001" xml:lang="en" content-type="TABLE" orientation="portrait" position="float">
+ <label>TABLE 1</label>
+ <caption>
+  <p>Characteristics of patients with extrapulmonary poorly differentiated neuroendocrine carcinoma treated with temozolomide</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <thead valign="top">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="top" rowspan="1" colspan="1">Case no.</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Age (y)</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Primary lesion</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Metastasis lesions</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Ki‐67 index (%)</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Initial treatment</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Pretreatment times (mo)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">60s</td>
+    <td align="left" rowspan="1" colspan="1">Stomach</td>
+    <td align="left" rowspan="1" colspan="1">Liver</td>
+    <td align="char" char="." rowspan="1" colspan="1">80</td>
+    <td align="left" rowspan="1" colspan="1">IP</td>
+    <td align="char" char="." rowspan="1" colspan="1">17.2</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">2</td>
+    <td align="left" rowspan="1" colspan="1">60s</td>
+    <td align="left" rowspan="1" colspan="1">Stomach</td>
+    <td align="left" rowspan="1" colspan="1">Liver</td>
+    <td align="char" char="." rowspan="1" colspan="1">50</td>
+    <td align="left" rowspan="1" colspan="1">IP</td>
+    <td align="char" char="." rowspan="1" colspan="1">6.7</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">3</td>
+    <td align="left" rowspan="1" colspan="1">60s</td>
+    <td align="left" rowspan="1" colspan="1">Stomach</td>
+    <td align="left" rowspan="1" colspan="1">Liver</td>
+    <td align="char" char="." rowspan="1" colspan="1">70</td>
+    <td align="left" rowspan="1" colspan="1">IP</td>
+    <td align="char" char="." rowspan="1" colspan="1">12.1</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">4</td>
+    <td align="left" rowspan="1" colspan="1">70s</td>
+    <td align="left" rowspan="1" colspan="1">Duodenum</td>
+    <td align="left" rowspan="1" colspan="1">LN, bone</td>
+    <td align="char" char="." rowspan="1" colspan="1">70</td>
+    <td align="left" rowspan="1" colspan="1">Palliative surgery</td>
+    <td align="char" char="." rowspan="1" colspan="1">7.1</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">5</td>
+    <td align="left" rowspan="1" colspan="1">60s</td>
+    <td align="left" rowspan="1" colspan="1">Rectum</td>
+    <td align="left" rowspan="1" colspan="1">Liver</td>
+    <td align="char" char="." rowspan="1" colspan="1">70</td>
+    <td align="left" rowspan="1" colspan="1">EP</td>
+    <td align="char" char="." rowspan="1" colspan="1">4.2</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">6</td>
+    <td align="left" rowspan="1" colspan="1">40s</td>
+    <td align="left" rowspan="1" colspan="1">Pancreas</td>
+    <td align="left" rowspan="1" colspan="1">Liver</td>
+    <td align="char" char="." rowspan="1" colspan="1">22</td>
+    <td align="left" rowspan="1" colspan="1">GEM + erlotinib</td>
+    <td align="char" char="." rowspan="1" colspan="1">9.8</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">7</td>
+    <td align="left" rowspan="1" colspan="1">40s</td>
+    <td align="left" rowspan="1" colspan="1">Pancreas</td>
+    <td align="left" rowspan="1" colspan="1">Liver</td>
+    <td align="char" char="." rowspan="1" colspan="1">25</td>
+    <td align="left" rowspan="1" colspan="1">IP</td>
+    <td align="char" char="." rowspan="1" colspan="1">82.8</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">8</td>
+    <td align="left" rowspan="1" colspan="1">70s</td>
+    <td align="left" rowspan="1" colspan="1">Pancreas</td>
+    <td align="left" rowspan="1" colspan="1">LN, peritoneum</td>
+    <td align="char" char="." rowspan="1" colspan="1">34</td>
+    <td align="left" rowspan="1" colspan="1">IP</td>
+    <td align="char" char="." rowspan="1" colspan="1">9.8</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">9</td>
+    <td align="left" rowspan="1" colspan="1">70s</td>
+    <td align="left" rowspan="1" colspan="1">Liver</td>
+    <td align="left" rowspan="1" colspan="1">Liver, lung</td>
+    <td align="char" char="." rowspan="1" colspan="1">90</td>
+    <td align="left" rowspan="1" colspan="1">Surgical resection</td>
+    <td align="char" char="." rowspan="1" colspan="1">10.6</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">10</td>
+    <td align="left" rowspan="1" colspan="1">40s</td>
+    <td align="left" rowspan="1" colspan="1">Gallbladder</td>
+    <td align="left" rowspan="1" colspan="1">Liver</td>
+    <td align="char" char="." rowspan="1" colspan="1">30</td>
+    <td align="left" rowspan="1" colspan="1">CE</td>
+    <td align="char" char="." rowspan="1" colspan="1">5.1</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">11</td>
+    <td align="left" rowspan="1" colspan="1">70s</td>
+    <td align="left" rowspan="1" colspan="1">Bladder</td>
+    <td align="left" rowspan="1" colspan="1">LN</td>
+    <td align="char" char="." rowspan="1" colspan="1">69</td>
+    <td align="left" rowspan="1" colspan="1">IP</td>
+    <td align="char" char="." rowspan="1" colspan="1">5.9</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">12</td>
+    <td align="left" rowspan="1" colspan="1">40s</td>
+    <td align="left" rowspan="1" colspan="1">Uterus</td>
+    <td align="left" rowspan="1" colspan="1">LN, bone</td>
+    <td align="char" char="." rowspan="1" colspan="1">50</td>
+    <td align="left" rowspan="1" colspan="1">CDDP + radiation</td>
+    <td align="char" char="." rowspan="1" colspan="1">19.4</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">13</td>
+    <td align="left" rowspan="1" colspan="1">60s</td>
+    <td align="left" rowspan="1" colspan="1">Primary unknown</td>
+    <td align="left" rowspan="1" colspan="1">Lung, bone</td>
+    <td align="char" char="." rowspan="1" colspan="1">60</td>
+    <td align="left" rowspan="1" colspan="1">Palliative surgery</td>
+    <td align="char" char="." rowspan="1" colspan="1">18.5</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot id="cas14811-ntgp-0002">
+  <fn id="cas14811-note-0002">
+   <p>Abbreviations: CDDP, cisplatin; CE, etoposide plus carboplatin; EP, etoposide plus cisplatin; GEM, gemcitabine; IP, irinotecan plus cisplatin; LN, lymph node.</p>
+  </fn>
+ </table-wrap-foot>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+ </permissions>
+</table-wrap>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R42">
+ <label>42</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Jang</surname>
+    <given-names>WS</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Kim</surname>
+    <given-names>MS</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Jeong</surname>
+    <given-names>WS</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Does robot-assisted radical prostatectomy benefit patients with prostate cancer and bone oligometastases?</article-title>
+  <source>BJU Int</source>
+  <year>2018</year>;
+  <volume>121</volume>:
+  <fpage>225</fpage>–
+  <lpage>31</lpage>. 
+  <pub-id pub-id-type="doi">10.1111/bju.13992</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/28834084?>
+  <pub-id pub-id-type="pmid">28834084</pub-id>
+ </mixed-citation>
+</ref>

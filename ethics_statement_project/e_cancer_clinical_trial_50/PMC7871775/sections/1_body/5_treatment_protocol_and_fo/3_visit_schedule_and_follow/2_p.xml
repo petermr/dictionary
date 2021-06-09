@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="para0015">Participants will undergo virtual study visits on Day 1 (defined as Day of randomization), and on Days 3, 14, 35, and 49. At each follow-up contact, participants are assessed for study drug adherence (via questioning start/stop dates and missed doses of study drug), adverse events including bleeding, and any potential study end point events. To aid in site follow-up of subjects, PREVENT-HD will leverage the REDCap Cloud platform to integrate with each site's local EMR system (
+ <xref rid="fig0003" ref-type="fig">Figure 3</xref> ). This integration will facilitate the transfer (or direct import) of data pertaining to demography, medical history, medications, encounters, diagnostic procedures, blood transfusions, and laboratory values into a parallel clinical database to facilitate the monitoring of subject health status and outcomes. As thromboprophylaxis is now recommended for all hospitalized COVID-19 patients,
+ <xref rid="bib0010" ref-type="bibr">
+  <sup>10</sup>
+ </xref> upon hospitalization, participants will discontinue blinded study medication and will receive standard of care open label thromboprophylaxis per guidelines. Upon discharge, participants may be continued on extended open label thromboprophylaxis if it is the practice of the institution or may go back on blinded study medication if that is not the case.
+</p>

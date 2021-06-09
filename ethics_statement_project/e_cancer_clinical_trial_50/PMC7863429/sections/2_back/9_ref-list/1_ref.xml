@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chow</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Hoskin</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Mitera</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Zeng</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Lutz</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Roos</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Update of the international consensus on palliative radiotherapy endpoints for future clinical trials in bone metastases</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>2012</year>
+  <volume>82</volume>
+  <issue>5</issue>
+  <fpage>1730</fpage>
+  <lpage>1737</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2011.02.008</pub-id>
+  <pub-id pub-id-type="pmid">21489705</pub-id>
+ </element-citation>
+</ref>

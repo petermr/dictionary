@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ikram</surname>
+    <given-names>MA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The rotterdam study: 2018 update on objectives, design and main results</article-title>
+  <source>Eur J Epidemiol</source>
+  <year>2017</year>
+  <volume>32</volume>
+  <issue>9</issue>
+  <fpage>807</fpage>
+  <lpage>850</lpage>
+  <pub-id pub-id-type="doi">10.1007/s10654-017-0321-4</pub-id>
+  <pub-id pub-id-type="pmid">29064009</pub-id>
+ </element-citation>
+</ref>

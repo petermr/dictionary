@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R11">
+ <label>11</label>
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Higgins</surname>
+    <given-names>JPT</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Altman</surname>
+    <given-names>DG</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Sterne</surname>
+    <given-names>JAC</given-names>
+   </name>
+  </person-group>
+  <chapter-title>Chapter 8: Assessing risk of bias in included studies</chapter-title> : 
+  <person-group person-group-type="editor">
+   <name name-style="western">
+    <surname>Higgins</surname>
+    <given-names>JPT</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Churchill</surname>
+    <given-names>R</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Chandler</surname>
+    <given-names>J</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>, 
+  <source>Cochrane Handbook for systematic reviews of Interventionsversion 5.2.0</source>. 
+  <publisher-name>(updated June2017), Cochrane</publisher-name>, 
+  <year>2017</year>
+  <uri xlink:href="www.training.cochrane.org/handbook" xmlns:xlink="http://www.w3.org/1999/xlink">www.training.cochrane.org/handbook</uri>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Takayama</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Nagashima</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Maeda</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Nojiri</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Hirayama</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Nakano</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Randomized double-blind trial of sulindac and etodolac to eradicate aberrant crypt foci and to prevent sporadic colorectal polyps</article-title>
+  <source>Clin Cancer Res</source>
+  <year>2011</year>
+  <volume>17</volume>
+  <issue>11</issue>
+  <fpage>3803</fpage>
+  <lpage>11</lpage>
+  <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-10-2395</pub-id>
+  <pub-id pub-id-type="pmid">21385928</pub-id>
+ </element-citation>
+</ref>

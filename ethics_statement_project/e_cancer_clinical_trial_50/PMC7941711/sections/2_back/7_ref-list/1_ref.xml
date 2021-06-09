@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Arriagada</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Dunant</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Pignon</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Bergman</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Chabowski</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Grunenwald</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Long-term results of the international adjuvant lung cancer trial evaluating adjuvant cisplatin-based chemotherapy in resected lung cancer</article-title>
+  <source>J Clin Oncol</source>
+  <year>2010</year>
+  <volume>28</volume>
+  <fpage>35</fpage>
+  <lpage>42</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2009.23.2272</pub-id>
+  <pub-id pub-id-type="pmid">19933916</pub-id>
+ </element-citation>
+</ref>

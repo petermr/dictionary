@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>18-FDG</term>
+   <def>
+    <p id="Par5">18-flurodeoxyglucose</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>4D-CT</term>
+   <def>
+    <p id="Par6">Four-dimensional computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ALT</term>
+   <def>
+    <p id="Par7">Alanine aminotransferase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AST</term>
+   <def>
+    <p id="Par8">Aspartate aminotransferase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par9">Computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CTCAE</term>
+   <def>
+    <p id="Par10">Common toxicity criteria for adverse events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CTV</term>
+   <def>
+    <p id="Par11">Clinical target volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>eGFR</term>
+   <def>
+    <p id="Par12">Estimated glomerular filtration rate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EQ-5D-5L</term>
+   <def>
+    <p id="Par13">EuroQol 5 Dimension, 5 Level</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FACT-G</term>
+   <def>
+    <p id="Par14">Functional assessment of cancer therapy: general</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GGT</term>
+   <def>
+    <p id="Par15">Gamma glutamyl transpeptidase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GTV</term>
+   <def>
+    <p id="Par16">Gross tumour volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IMRT</term>
+   <def>
+    <p id="Par17">Intensity modulated radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>INR</term>
+   <def>
+    <p id="Par18">International normalized ratio</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ITV</term>
+   <def>
+    <p id="Par19">Internal target volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MRI</term>
+   <def>
+    <p id="Par20">Magnetic resonance imaging</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MTD</term>
+   <def>
+    <p id="Par21">Maximally tolerated dose</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PSMA</term>
+   <def>
+    <p id="Par22">Prostate specific membrane antigen</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PTV</term>
+   <def>
+    <p id="Par23">Planning target volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SABR</term>
+   <def>
+    <p id="Par24">Stereotactic ablative radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VMAT</term>
+   <def>
+    <p id="Par25">Volumetric modulated arc therapy</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

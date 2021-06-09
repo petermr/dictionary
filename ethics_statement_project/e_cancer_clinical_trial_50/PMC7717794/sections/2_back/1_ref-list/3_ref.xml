@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R3">
+ <label>[3]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Deng</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Global burden of breast cancer and attributable risk factors in 195 countries and territories, from 1990 to 2017: results from the Global Burden of Disease Study 2017</article-title>. 
+  <source>J Hematol Oncol</source>
+  <year>2019</year>;
+  <volume>12</volume>:
+  <fpage>140</fpage>.
+  <pub-id pub-id-type="pmid">31864424</pub-id>
+ </mixed-citation>
+</ref>

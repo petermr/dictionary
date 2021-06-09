@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R19">
+ <label>19</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Krall</surname>
+    <given-names>JA</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Reinhardt</surname>
+    <given-names>F</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Mercury</surname>
+    <given-names>OA</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>The systemic response to surgery triggers the outgrowth of distant immune-controlled tumors in mouse models of dormancy</article-title>. 
+  <source>Sci Transl Med</source>
+  <year>2018</year>;
+  <volume>10</volume>:
+  <elocation-id>eaan3464</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1126/scitranslmed.aan3464</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/29643230?>
+  <pub-id pub-id-type="pmid">29643230</pub-id>
+ </mixed-citation>
+</ref>

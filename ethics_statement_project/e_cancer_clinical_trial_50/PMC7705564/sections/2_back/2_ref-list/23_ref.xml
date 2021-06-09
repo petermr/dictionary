@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R23">
+ <label>23</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Wang</surname>
+    <given-names>X</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Peters</surname>
+    <given-names>U</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Potter</surname>
+    <given-names>JD</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Association of nonsteroidal anti-inflammatory drugs with colorectal cancer by subgroups in the vitamins and lifestyle (VITAL) study</article-title>. 
+  <source>Cancer Epidemiol Biomarkers Prev</source>
+  <year>2015</year>;
+  <volume>24</volume>:
+  <fpage>727</fpage>–
+  <lpage>35</lpage>. 
+  <pub-id pub-id-type="doi">10.1158/1055-9965.EPI-14-1253</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/25613116?>
+  <pub-id pub-id-type="pmid">25613116</pub-id>
+ </mixed-citation>
+</ref>

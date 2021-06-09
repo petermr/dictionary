@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R20">
+ <label>[20]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chan</surname>
+    <given-names>AW</given-names>
+   </name>
+   <name>
+    <surname>Tetzlaff</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Gotzsche</surname>
+    <given-names>PC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials</article-title>. 
+  <source>BMJ</source>
+  <year>2013</year>;
+  <volume>346</volume>:
+  <fpage>e7586</fpage>.
+  <pub-id pub-id-type="pmid">23303884</pub-id>
+ </mixed-citation>
+</ref>

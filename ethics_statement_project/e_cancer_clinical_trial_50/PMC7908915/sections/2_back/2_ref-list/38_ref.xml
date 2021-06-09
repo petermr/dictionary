@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R38">
+ <label>38</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Parker</surname>
+    <given-names>CC</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>James</surname>
+    <given-names>ND</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Brawley</surname>
+    <given-names>CD</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Radiotherapy to the primary tumour for newly diagnosed, metastatic prostate cancer (STAMPEDE): a randomised controlled phase 3 trial</article-title>. 
+  <source>Lancet</source>
+  <year>2018</year>;
+  <volume>392</volume>:
+  <fpage>2353</fpage>–
+  <lpage>66</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(18)32486-3</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30355464?>
+  <pub-id pub-id-type="pmid">30355464</pub-id>
+ </mixed-citation>
+</ref>

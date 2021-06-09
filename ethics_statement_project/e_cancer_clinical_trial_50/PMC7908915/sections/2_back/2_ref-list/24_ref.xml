@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R24">
+ <label>24</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Phillips</surname>
+    <given-names>R</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Shi</surname>
+    <given-names>WY</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Deek</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Outcomes of observation vs stereotactic ablative radiation for oligometastatic prostate cancer: the ORIOLE phase 2 randomized clinical trial</article-title>. 
+  <source>JAMA Oncol</source>
+  <year>2020</year>;
+  <volume>6</volume>:
+  <fpage>650</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1001/jamaoncol.2020.0147</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32215577?>
+  <pub-id pub-id-type="pmid">32215577</pub-id>
+ </mixed-citation>
+</ref>

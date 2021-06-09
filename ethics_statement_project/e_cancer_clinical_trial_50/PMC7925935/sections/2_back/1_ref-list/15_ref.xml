@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R15">
+ <label>15</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Epstein</surname>
+    <given-names>JI</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Egevad</surname>
+    <given-names>L</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Amin</surname>
+    <given-names>MB</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>The 2014 International Society of urological pathology (ISUP) consensus conference on Gleason grading of prostatic carcinoma: definition of grading patterns and proposal for a new grading system</article-title>. 
+  <source>Am J Surg Pathol</source>
+  <year>2016</year>;
+  <volume>40</volume>:
+  <fpage>244</fpage>–
+  <lpage>52</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/PAS.0000000000000530</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/26492179?>
+  <pub-id pub-id-type="pmid">26492179</pub-id>
+ </mixed-citation>
+</ref>

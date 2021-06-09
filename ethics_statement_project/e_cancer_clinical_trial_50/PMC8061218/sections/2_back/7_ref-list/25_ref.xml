@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Smee</surname>
+    <given-names>RI</given-names>
+   </name>
+   <name>
+    <surname>Meagher</surname>
+    <given-names>NS</given-names>
+   </name>
+   <name>
+    <surname>Williams</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Broadley</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Bridger</surname>
+    <given-names>GP</given-names>
+   </name>
+  </person-group>
+  <article-title>Role of radiotherapy in early glottic carcinoma</article-title>
+  <source>Head Neck</source>
+  <year>2010</year>
+  <volume>32</volume>
+  <issue>7</issue>
+  <fpage>850</fpage>
+  <lpage>859</lpage>
+  <?supplied-pmid 20029987?>
+  <pub-id pub-id-type="pmid">20029987</pub-id>
+ </element-citation>
+</ref>

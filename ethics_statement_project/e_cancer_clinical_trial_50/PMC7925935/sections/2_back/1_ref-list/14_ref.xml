@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R14">
+ <label>14</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Wang</surname>
+    <given-names>H-F</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Chen</surname>
+    <given-names>R</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>He</surname>
+    <given-names>B-M</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Initial experience with a novel method for cognitive transperineal magnetic resonance imaging-targeted prostate biopsy</article-title>. 
+  <source>Asian J Androl</source>
+  <year>2020</year>;
+  <volume>22</volume>:
+  <fpage>432</fpage>–
+  <lpage>6</lpage>. 
+  <pub-id pub-id-type="doi">10.4103/aja.aja_83_19</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/31464205?>
+  <pub-id pub-id-type="pmid">31464205</pub-id>
+ </mixed-citation>
+</ref>

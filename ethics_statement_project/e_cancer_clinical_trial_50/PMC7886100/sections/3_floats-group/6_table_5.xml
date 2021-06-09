@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="t0005" orientation="portrait" position="float">
+ <label>Table 5</label>
+ <caption>
+  <p>Hematological Results (TG=41; CG=40)</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th colspan="2" rowspan="2"/>
+    <th rowspan="1" colspan="1">POD 1</th>
+    <th rowspan="1" colspan="1">POD 3</th>
+    <th rowspan="1" colspan="1">POD5</th>
+    <th rowspan="1" colspan="1">Analysis Wald Chi-Square (Group)</th>
+   </tr>
+   <tr>
+    <th rowspan="1" colspan="1">Median (Quartile)</th>
+    <th rowspan="1" colspan="1">Median (Quartile)</th>
+    <th rowspan="1" colspan="1">Median (Quartile)</th>
+    <th rowspan="1" colspan="1">
+     <italic>P</italic>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="2" colspan="1">WBC (10
+     <sup>9</sup>/L)
+    </td>
+    <td rowspan="1" colspan="1">TG</td>
+    <td rowspan="1" colspan="1">10.64 (3.735)</td>
+    <td rowspan="1" colspan="1">7.320 (2.625)</td>
+    <td rowspan="1" colspan="1">6.480 (1.590)</td>
+    <td rowspan="1" colspan="1">0.571</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">CG</td>
+    <td rowspan="1" colspan="1">12.15 (4.668)</td>
+    <td rowspan="1" colspan="1">7.190 (3.678)</td>
+    <td rowspan="1" colspan="1">6.425 (2.850)</td>
+    <td rowspan="1" colspan="1">0.450 
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" colspan="1">NEC%</td>
+    <td rowspan="1" colspan="1">TG</td>
+    <td rowspan="1" colspan="1">83.10 (9.650)</td>
+    <td rowspan="1" colspan="1">73.90 (10.45)</td>
+    <td rowspan="1" colspan="1">69.80 (5.400)</td>
+    <td rowspan="1" colspan="1">0.070</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">CG</td>
+    <td rowspan="1" colspan="1">83.95 (12.83)</td>
+    <td rowspan="1" colspan="1">75.25 (9.275)</td>
+    <td rowspan="1" colspan="1">67.60 (9.675)</td>
+    <td rowspan="1" colspan="1">0.791 
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" colspan="1">CRP (mg/L)</td>
+    <td rowspan="1" colspan="1">TG</td>
+    <td rowspan="1" colspan="1">14.74 (12.86)</td>
+    <td rowspan="1" colspan="1">61.71 (34.26)</td>
+    <td rowspan="1" colspan="1">27.33 (23.71)</td>
+    <td rowspan="1" colspan="1">2.909</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">CG</td>
+    <td rowspan="1" colspan="1">21.00 (13.57)</td>
+    <td rowspan="1" colspan="1">67.57 (37.69)</td>
+    <td rowspan="1" colspan="1">31.54 (24.40)</td>
+    <td rowspan="1" colspan="1">0.088 
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" colspan="1">PCT (ng/mL)</td>
+    <td rowspan="1" colspan="1">TG</td>
+    <td rowspan="1" colspan="1">0.103 (0.111)</td>
+    <td rowspan="1" colspan="1">0.255 (0.180)</td>
+    <td rowspan="1" colspan="1">0.092 (0.052)</td>
+    <td rowspan="1" colspan="1">2.853</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">CG</td>
+    <td rowspan="1" colspan="1">0.112 (0.104)</td>
+    <td rowspan="1" colspan="1">0.275 (0.258)</td>
+    <td rowspan="1" colspan="1">0.136 (0.117)</td>
+    <td rowspan="1" colspan="1">0.091 
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" colspan="1">β-End (pg/mL)</td>
+    <td rowspan="1" colspan="1">TG</td>
+    <td rowspan="1" colspan="1">49.16 (8.08)</td>
+    <td rowspan="1" colspan="1">73.92 (6.38)</td>
+    <td rowspan="1" colspan="1">68.20 (2.450)</td>
+    <td rowspan="1" colspan="1">467.661</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">CG</td>
+    <td rowspan="1" colspan="1">50.53 (6.11)</td>
+    <td rowspan="1" colspan="1">59.48 (4.46)</td>
+    <td rowspan="1" colspan="1">53.31 (4.070)</td>
+    <td rowspan="1" colspan="1">&lt;0.001 
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" colspan="1">5-HT (pg/mL)</td>
+    <td rowspan="1" colspan="1">TG</td>
+    <td rowspan="1" colspan="1">2137.82 (353.19)</td>
+    <td rowspan="2" colspan="1">1607.72 (272.86) 1852.97 (295.24)</td>
+    <td rowspan="1" colspan="1">1330.91 (459.38)</td>
+    <td rowspan="1" colspan="1">28.013</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">CG</td>
+    <td rowspan="1" colspan="1">2049.37 (176.22)</td>
+    <td rowspan="1" colspan="1">1556.23 (359.15)</td>
+    <td rowspan="1" colspan="1">&lt;0.001 
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" colspan="1">IL-2 (ng/mL)</td>
+    <td rowspan="1" colspan="1">TG</td>
+    <td rowspan="1" colspan="1">4.740 (1.210)</td>
+    <td rowspan="1" colspan="1">7.810 (2.640)</td>
+    <td rowspan="1" colspan="1">9.590 (3.190)</td>
+    <td rowspan="1" colspan="1">52.534</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">CG</td>
+    <td rowspan="1" colspan="1">4.535 (1.420)</td>
+    <td rowspan="1" colspan="1">6.295 (0.800)</td>
+    <td rowspan="1" colspan="1">7.665 (1.050)</td>
+    <td rowspan="1" colspan="1">&lt;0.001 
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" colspan="1">IL-6 (pg/mL)</td>
+    <td rowspan="1" colspan="1">TG</td>
+    <td rowspan="1" colspan="1">45.41 (7.690)</td>
+    <td rowspan="1" colspan="1">39.17 (12.57)</td>
+    <td rowspan="1" colspan="1">31.83 (4.270)</td>
+    <td rowspan="1" colspan="1">33.888</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">CG</td>
+    <td rowspan="1" colspan="1">46.08 (7.800)</td>
+    <td rowspan="1" colspan="1">42.46 (3.520)</td>
+    <td rowspan="1" colspan="1">35.60 (2.260)</td>
+    <td rowspan="1" colspan="1">&lt;0.001 
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" colspan="1">TNF-α (pg/mL)</td>
+    <td rowspan="1" colspan="1">TG</td>
+    <td rowspan="1" colspan="1">48.53 (5.700)</td>
+    <td rowspan="1" colspan="1">36.89 (10.99)</td>
+    <td rowspan="1" colspan="1">27.53 (5.700)</td>
+    <td rowspan="1" colspan="1">20.734</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">CG</td>
+    <td rowspan="1" colspan="1">48.55 (6.770)</td>
+    <td rowspan="1" colspan="1">41.38 (6.690)</td>
+    <td rowspan="1" colspan="1">31.12 (4.620)</td>
+    <td rowspan="1" colspan="1">&lt;0.001 
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" colspan="1">MTL (pg/mL)</td>
+    <td rowspan="1" colspan="1">TG</td>
+    <td rowspan="1" colspan="1">392.44 (127.48)</td>
+    <td rowspan="1" colspan="1">522.78 (127.71)</td>
+    <td rowspan="1" colspan="1">647.68 (157.06)</td>
+    <td rowspan="1" colspan="1">36.611</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">CG</td>
+    <td rowspan="1" colspan="1">397.45 (133.54)</td>
+    <td rowspan="1" colspan="1">486.90 (68.840)</td>
+    <td rowspan="1" colspan="1">556.70 (93.69)</td>
+    <td rowspan="1" colspan="1">&lt;0.001 
+     <sup>d</sup>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tfn0008">
+   <p>
+    <bold>Note:</bold>
+    <sup>d</sup>Generalized estimating equation.
+   </p>
+  </fn>
+  <fn id="tfn0009">
+   <p>
+    <bold>Abbreviations:</bold> WBC, white blood cell count; NEC%, percentage of neutrophils; CRP, C-reactive protein; PCT, procalcitonin; β-End, β-endorphin; 5-HT, 5-hydroxytryptamine; IL-2, interleukin-2; IL-6, interleukin-6; TNF-α, tumor necrosis factor-α; MTL, motilin.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

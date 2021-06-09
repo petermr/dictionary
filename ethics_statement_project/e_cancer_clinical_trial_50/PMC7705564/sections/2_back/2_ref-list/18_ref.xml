@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R18">
+ <label>18</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Forget</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Machiels</surname>
+    <given-names>J-P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Coulie</surname>
+    <given-names>PG</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Neutrophil:lymphocyte ratio and intraoperative use of ketorolac or diclofenac are prognostic factors in different cohorts of patients undergoing breast, lung, and kidney cancer surgery</article-title>. 
+  <source>Ann Surg Oncol</source>
+  <year>2013</year>;
+  <volume>20</volume>:
+  <fpage>650</fpage>–
+  <lpage>60</lpage>. 
+  <pub-id pub-id-type="doi">10.1245/s10434-013-3136-x</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/23884751?>
+ </mixed-citation>
+</ref>

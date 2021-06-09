@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sanguineti</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Adapala</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Endres</surname>
+    <given-names>EJ</given-names>
+   </name>
+   <name>
+    <surname>Brack</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Fiorino</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Sormani</surname>
+    <given-names>MP</given-names>
+   </name>
+   <name>
+    <surname>Parker</surname>
+    <given-names>B</given-names>
+   </name>
+  </person-group>
+  <article-title>Dosimetric predictors of laryngeal edema</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>2007</year>
+  <volume>68</volume>
+  <issue>3</issue>
+  <fpage>741</fpage>
+  <lpage>749</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2007.01.010</pub-id>
+  <?supplied-pmid 17398024?>
+  <pub-id pub-id-type="pmid">17398024</pub-id>
+ </element-citation>
+</ref>

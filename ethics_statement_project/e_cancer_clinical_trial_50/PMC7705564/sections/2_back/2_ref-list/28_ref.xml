@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R28">
+ <label>28</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Huang</surname>
+    <given-names>W-W</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Zhu</surname>
+    <given-names>W-Z</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Mu</surname>
+    <given-names>D-L</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Perioperative management may improve long-term survival in patients after lung cancer surgery: a retrospective cohort study</article-title>. 
+  <source>Anesth Analg</source>
+  <year>2018</year>;
+  <volume>126</volume>:
+  <fpage>1666</fpage>–
+  <lpage>74</lpage>. 
+  <pub-id pub-id-type="doi">10.1213/ANE.0000000000002886</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/29517574?>
+  <pub-id pub-id-type="pmid">29517574</pub-id>
+ </mixed-citation>
+</ref>

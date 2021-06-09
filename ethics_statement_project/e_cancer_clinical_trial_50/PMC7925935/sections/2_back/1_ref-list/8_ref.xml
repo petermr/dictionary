@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R8">
+ <label>8</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Sonn</surname>
+    <given-names>GA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Natarajan</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Margolis</surname>
+    <given-names>DJA</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Targeted biopsy in the detection of prostate cancer using an office based magnetic resonance ultrasound fusion device</article-title>. 
+  <source>J Urol</source>
+  <year>2013</year>;
+  <volume>189</volume>:
+  <elocation-id>86</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1016/j.juro.2012.08.095</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/23158413?>
+  <pub-id pub-id-type="pmid">23158413</pub-id>
+ </mixed-citation>
+</ref>

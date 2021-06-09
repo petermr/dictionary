@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shaw</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Lamia</surname>
+    <given-names>KA</given-names>
+   </name>
+   <name>
+    <surname>Vasquez</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Koo</surname>
+    <given-names>SH</given-names>
+   </name>
+   <name>
+    <surname>Bardeesy</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Depinho</surname>
+    <given-names>RA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The kinase LKB1 mediates glucose homeostasis in liver and therapeutic effects of metformin</article-title>
+  <source>Science.</source>
+  <year>2005</year>
+  <volume>310</volume>
+  <issue>5754</issue>
+  <fpage>1642</fpage>
+  <lpage>1646</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.1120781</pub-id>
+  <pub-id pub-id-type="pmid">16308421</pub-id>
+ </element-citation>
+</ref>

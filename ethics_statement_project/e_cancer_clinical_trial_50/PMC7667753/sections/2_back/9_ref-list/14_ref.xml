@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhu</surname>
+    <given-names>FC</given-names>
+   </name>
+   <name>
+    <surname>Hu</surname>
+    <given-names>SY</given-names>
+   </name>
+   <name>
+    <surname>Hong</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Hu</surname>
+    <given-names>YM</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>YJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Efficacy, immunogenicity, and safety of the HPV-16/18 AS04-adjuvanted vaccine in Chinese women aged 18–25 years: event-triggered analysis of a randomized controlled trial</article-title>
+  <source>Cancer Med</source>
+  <year>2017</year>
+  <volume>6</volume>
+  <issue>1</issue>
+  <fpage>12</fpage>
+  <lpage>25</lpage>
+  <pub-id pub-id-type="doi">10.1002/cam4.869</pub-id>
+  <?supplied-pmid 27998015?>
+  <pub-id pub-id-type="pmid">27998015</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="t0001" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Comparison of General Information of the Two Groups of Patients (n=70)</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1">Group C</th>
+    <th rowspan="1" colspan="1">Group L</th>
+    <th rowspan="1" colspan="1">
+     <italic>P</italic>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">Gender (M/F)</td>
+    <td rowspan="1" colspan="1">13/22</td>
+    <td rowspan="1" colspan="1">16/19</td>
+    <td rowspan="1" colspan="1">0.467</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Age (yr)</td>
+    <td rowspan="1" colspan="1">57.20±5.75</td>
+    <td rowspan="1" colspan="1">58.09±5.20</td>
+    <td rowspan="1" colspan="1">0.502</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Height(m)</td>
+    <td rowspan="1" colspan="1">1.63±0.07</td>
+    <td rowspan="1" colspan="1">1.64±0.08</td>
+    <td rowspan="1" colspan="1">0.580</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Body weight (kg)</td>
+    <td rowspan="1" colspan="1">63.09±9.17</td>
+    <td rowspan="1" colspan="1">65.34±10.48</td>
+    <td rowspan="1" colspan="1">0.340</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">BMI (kg/m
+     <sup>2</sup>)
+    </td>
+    <td rowspan="1" colspan="1">23.72±3.40</td>
+    <td rowspan="1" colspan="1">24.08±2.86</td>
+    <td rowspan="1" colspan="1">0.633</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">ASA (II/III)</td>
+    <td rowspan="1" colspan="1">28/7</td>
+    <td rowspan="1" colspan="1">29/6</td>
+    <td rowspan="1" colspan="1">0.467</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Anesthesia time (min)</td>
+    <td rowspan="1" colspan="1">198.00±36.63</td>
+    <td rowspan="1" colspan="1">190.86±34.83</td>
+    <td rowspan="1" colspan="1">0.920</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Operation time (min)</td>
+    <td rowspan="1" colspan="1">168.11±33.50</td>
+    <td rowspan="1" colspan="1">161.26±32.40</td>
+    <td rowspan="1" colspan="1">0.786</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">VT (L)</td>
+    <td rowspan="1" colspan="1">0.64±0.09</td>
+    <td rowspan="1" colspan="1">0.66±0.09</td>
+    <td rowspan="1" colspan="1">0.906</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">FEV1/FVC (%)</td>
+    <td rowspan="1" colspan="1">0.78(0.73–0.79)</td>
+    <td rowspan="1" colspan="1">0.80(0.75–0.81)</td>
+    <td rowspan="1" colspan="1">0.215</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">TLC (L)</td>
+    <td rowspan="1" colspan="1">5.24±1.13</td>
+    <td rowspan="1" colspan="1">5.09±06</td>
+    <td rowspan="1" colspan="1">0.578</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">DM</td>
+    <td rowspan="1" colspan="1">30/5</td>
+    <td rowspan="1" colspan="1">32/3</td>
+    <td rowspan="1" colspan="1">0.710</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Hypertension</td>
+    <td rowspan="1" colspan="1">26/9</td>
+    <td rowspan="1" colspan="1">28/7</td>
+    <td rowspan="1" colspan="1">0.569</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">OSAHS</td>
+    <td rowspan="1" colspan="1">1/34</td>
+    <td rowspan="1" colspan="1">1/34</td>
+    <td rowspan="1" colspan="1">0.754</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tfn0001">
+   <p>
+    <bold>Notes:</bold> Data are presented as mean ± SD or numbers (%). Group C= the control group, Group L= the lidocaine group.
+   </p>
+  </fn>
+  <fn id="tfn0002">
+   <p>
+    <bold>Abbreviations:</bold> BMI, body mass index; ASA, American Society of Anesthesiologists; VT, tidal volume; FEV1, forced expiratory volume in the first second; FVC, forced vital capacity; TLC, total lung capacity; DM, diabetes mellitus; OSAHS, obstructive sleep apnea-hypopnea syndrome.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

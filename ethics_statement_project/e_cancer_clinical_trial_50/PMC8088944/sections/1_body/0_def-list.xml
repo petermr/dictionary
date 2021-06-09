@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<def-list list-content="abbreviations" id="cas14811-lp-0001">
+ <title>Abbreviations</title>
+ <def-item>
+  <term>AE</term>
+  <def>
+   <p>adverse event</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>CI</term>
+  <def>
+   <p>confidence interval</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>CT</term>
+  <def>
+   <p>computed tomography</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>EPNEC</term>
+  <def>
+   <p>extrapulmonary neuroendocrine carcinoma</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>IHC</term>
+  <def>
+   <p>immunohistochemistry</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>LCNEC</term>
+  <def>
+   <p>large‐cell neuroendocrine carcinoma</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>MGMT</term>
+  <def>
+   <p>O
+    <sup>6</sup>‐methylguanine DNA methyltransferase
+   </p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>NEC</term>
+  <def>
+   <p>neuroendocrine carcinoma</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>NEN</term>
+  <def>
+   <p>neuroendocrine neoplasm</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>NET</term>
+  <def>
+   <p>neuroendocrine tumor</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>OS</term>
+  <def>
+   <p>overall survival</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>PFS</term>
+  <def>
+   <p>progression‐free survival</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>PS</term>
+  <def>
+   <p>performance status</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>RR</term>
+  <def>
+   <p>response rate</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>TMZ</term>
+  <def>
+   <p>temozolomide</p>
+  </def>
+ </def-item>
+</def-list>

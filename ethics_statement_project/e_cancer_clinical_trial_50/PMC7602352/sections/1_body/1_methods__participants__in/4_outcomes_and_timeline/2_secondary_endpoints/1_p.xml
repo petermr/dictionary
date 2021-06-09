@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par58">
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par59">Intracranial Progression</p>
+   <p id="Par60">▪ Target lesion or distal brain lesion</p>
+   <p id="Par61">▪ Symptomatic or asymptomatic brain lesion 
+    <list list-type="bullet">
+     <list-item>
+      <p id="Par62">PFS</p>
+     </list-item>
+     <list-item>
+      <p id="Par63">OS</p>
+      <p id="Par64">▪ Neurological or non-neurological death</p>
+      <p id="Par65">▪ Cancer or non-cancer related death</p>
+     </list-item>
+     <list-item>
+      <p id="Par66">Cognitive Function</p>
+      <p id="Par67">▪ HVLT-R (immediate recall, delayed recall, and total recall)</p>
+      <p id="Par68">▪ Colour Trail Test (CTT) – a language-free version of the TMT</p>
+     </list-item>
+     <list-item>
+      <p id="Par69">Quality of Life (QoL)</p>
+      <p id="Par70">▪ Functional Assessment of Cancer Therapy with Brain Subscale (FACT-BR)</p>
+      <p id="Par71">▪ Euro QOL – 5 Dimension – 5 Level (EQ-5D-5L)</p>
+     </list-item>
+     <list-item>
+      <p id="Par72">Activities of Daily Living (ADL)</p>
+      <p id="Par73">▪ Barthel Index of ADLs</p>
+     </list-item>
+     <list-item>
+      <p id="Par74">Toxicity</p>
+      <p id="Par75">▪ Scored using Common Terminology Criteria for Adverse Events (CTCAE) ver5.0 criteria</p>
+      <p id="Par76">▪ Presence of radiation necrosis (asymptomatic or symptomatic)</p>
+     </list-item>
+    </list>
+   </p>
+  </list-item>
+ </list>
+</p>

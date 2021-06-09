@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jochems</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Schouwenburg</surname>
+    <given-names>MG</given-names>
+   </name>
+   <name>
+    <surname>Leeneman</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Dutch melanoma treatment registry: quality assurance in the care of patients with metastatic melanoma in the Netherlands</article-title>
+  <source>Eur J Cancer</source>
+  <year>2017</year>
+  <volume>72</volume>
+  <fpage>156</fpage>
+  <lpage>165</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ejca.2016.11.021</pub-id>
+  <?supplied-pmid 28030784?>
+  <pub-id pub-id-type="pmid">28030784</pub-id>
+ </element-citation>
+</ref>

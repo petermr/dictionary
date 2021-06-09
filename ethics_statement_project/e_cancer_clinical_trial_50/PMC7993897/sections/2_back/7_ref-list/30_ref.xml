@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Haanen</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Carbonnel</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Robert</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Management of toxicities from immunotherapy: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up</article-title>
+  <source>Ann Oncol</source>
+  <year>2017</year>
+  <volume>28</volume>
+  <issue>suppl_4</issue>
+  <fpage>iv119</fpage>
+  <lpage>iv142</lpage>
+  <pub-id pub-id-type="doi">10.1093/annonc/mdx225</pub-id>
+  <pub-id pub-id-type="pmid">28881921</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kiessling</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Lewitt</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Henriksson</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>Case-based training of evidence-based clinical practice in primary care and decreased mortality in patients with coronary heart disease</article-title>
+  <source>Ann Fam Med</source>
+  <year>2011</year>
+  <volume>9</volume>
+  <issue>3</issue>
+  <fpage>211</fpage>
+  <lpage>218</lpage>
+  <pub-id pub-id-type="doi">10.1370/afm.1248</pub-id>
+  <pub-id pub-id-type="pmid">21555748</pub-id>
+ </element-citation>
+</ref>

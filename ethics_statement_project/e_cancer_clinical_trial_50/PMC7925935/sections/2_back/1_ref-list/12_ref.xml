@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R12">
+ <label>12</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Wysock</surname>
+    <given-names>JS</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Rosenkrantz</surname>
+    <given-names>AB</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Huang</surname>
+    <given-names>WC</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>A prospective, blinded comparison of magnetic resonance (Mr) imaging-ultrasound fusion and visual estimation in the performance of MR-targeted prostate biopsy: the PROFUS trial</article-title>. 
+  <source>Eur Urol</source>
+  <year>2014</year>;
+  <volume>66</volume>:
+  <elocation-id>343</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1016/j.eururo.2013.10.048</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/24262102?>
+  <pub-id pub-id-type="pmid">24262102</pub-id>
+ </mixed-citation>
+</ref>

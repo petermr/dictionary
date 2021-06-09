@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R50">
+ <label>50</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Parikh</surname>
+    <given-names>NR</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Huiza</surname>
+    <given-names>C</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Patel</surname>
+    <given-names>JS</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Systemic and tumor-directed therapy for oligometastatic prostate cancer: study protocol for a phase II trial for veterans with de novo oligometastatic disease</article-title>. 
+  <source>BMC Cancer</source>
+  <year>2019</year>;
+  <volume>19</volume>:
+  <fpage>1</fpage>–
+  <lpage>6</lpage>. 
+  <pub-id pub-id-type="doi">10.1186/s12885-019-5496-5</pub-id>
+  <pub-id pub-id-type="pmid">30606139</pub-id>
+ </mixed-citation>
+</ref>

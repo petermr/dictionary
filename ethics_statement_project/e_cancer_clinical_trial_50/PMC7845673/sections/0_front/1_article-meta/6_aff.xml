@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aff id="aff1">
+ <label>1</label>
+ <institution content-type="department">Institute for Evidence in Medicine (for Cochrane Germany Foundation)</institution>, 
+ <institution>Medical Center - University of Freiburg, Faculty of Medicine, University of Freiburg</institution>, 
+ <addr-line content-type="city">Freiburg</addr-line>, 
+ <addr-line content-type="state">Baden-Württemberg</addr-line>, 
+ <country>Germany</country>
+</aff>

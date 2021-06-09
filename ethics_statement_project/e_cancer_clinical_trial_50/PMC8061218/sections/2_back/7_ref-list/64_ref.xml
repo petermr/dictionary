@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR64">
+ <label>64.</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McCullagh PaN</surname>
+    <given-names>JA</given-names>
+   </name>
+  </person-group>
+  <source>Generalized linear models</source>
+  <year>1989</year>
+  <publisher-loc>New York</publisher-loc>
+  <publisher-name>Chapman and Hall/CRC Press</publisher-name>
+ </element-citation>
+</ref>

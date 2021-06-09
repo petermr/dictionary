@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R18">
+ <label>18</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Weckermann</surname>
+    <given-names>D</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Polzer</surname>
+    <given-names>B</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Ragg</surname>
+    <given-names>T</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Perioperative activation of disseminated tumor cells in bone marrow of patients with prostate cancer</article-title>. 
+  <source>J Clin Oncol</source>
+  <year>2009</year>;
+  <volume>27</volume>:
+  <fpage>1549</fpage>–
+  <lpage>56</lpage>. 
+  <pub-id pub-id-type="doi">10.1200/JCO.2008.17.0563</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/19237635?>
+  <pub-id pub-id-type="pmid">19237635</pub-id>
+ </mixed-citation>
+</ref>

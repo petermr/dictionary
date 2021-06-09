@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R6">
+ <label>[6]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Parano</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Gray</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Ravdin</surname>
+    <given-names>PM</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Clinical and genomic risk to guide the use of adjuvant therapy for breast cancer</article-title>. 
+  <source>N Engl J Med</source>
+  <year>2019</year>;
+  <volume>380</volume>:
+  <fpage>2395</fpage>–
+  <lpage>405</lpage>.
+  <pub-id pub-id-type="pmid">31157962</pub-id>
+ </mixed-citation>
+</ref>

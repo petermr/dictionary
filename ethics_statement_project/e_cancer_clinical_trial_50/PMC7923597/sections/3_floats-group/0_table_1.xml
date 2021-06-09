@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Clinico-pathological parameters of fifty locally advanced gastric cancer patients treated with/without prophylactic HIPEC</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th>Control group (
+     <italic>n</italic> = 17)
+    </th>
+    <th>Experimental group (
+     <italic>n</italic> = 33)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Age</td>
+    <td>60 (50–86)</td>
+    <td>61 (46–78)</td>
+   </tr>
+   <tr>
+    <td>Sex, M/F</td>
+    <td>14/3</td>
+    <td>27/6</td>
+   </tr>
+   <tr>
+    <td>KPS, 90/100</td>
+    <td>9/8</td>
+    <td>18/15</td>
+   </tr>
+   <tr>
+    <td>BMI</td>
+    <td>21 (15–32)</td>
+    <td>23 (16–34.5)</td>
+   </tr>
+   <tr>
+    <td>Disease history, Yes/No</td>
+    <td>11/6</td>
+    <td>13/20</td>
+   </tr>
+   <tr>
+    <td>Location, U/M/L</td>
+    <td>5/3/9</td>
+    <td>14/4/15</td>
+   </tr>
+   <tr>
+    <td>Size, &lt; 5 cm/≥5 cm</td>
+    <td>13/4</td>
+    <td>16/17</td>
+   </tr>
+   <tr>
+    <td>Gastrectomy, Sub. /Tot.</td>
+    <td>10/7</td>
+    <td>15/18</td>
+   </tr>
+   <tr>
+    <td>Histological diagnosis, Well/intermediately versus poorly/undifferentiated</td>
+    <td>10/7</td>
+    <td>11/12</td>
+   </tr>
+   <tr>
+    <td>Lauren classification, Intestinal/diffuse/mixed</td>
+    <td>6/6/4</td>
+    <td>13/6/12</td>
+   </tr>
+   <tr>
+    <td>Lymphovascular invasion, Yes/No</td>
+    <td>6/11</td>
+    <td>18/15</td>
+   </tr>
+   <tr>
+    <td>Neurovascular invasion, Yes/No</td>
+    <td>9/8</td>
+    <td>15/18</td>
+   </tr>
+   <tr>
+    <td>T stage, 1 ~ 3/4</td>
+    <td>12/5</td>
+    <td>22/11</td>
+   </tr>
+   <tr>
+    <td>N stage, 0/1 ~ 3</td>
+    <td>10/7</td>
+    <td>10/23</td>
+   </tr>
+   <tr>
+    <td>Ki67 IHC</td>
+    <td>75% (50–99%)</td>
+    <td>60% (10–90%)</td>
+   </tr>
+   <tr>
+    <td>MSS/MSI</td>
+    <td>10/2</td>
+    <td>26/2</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>KPS</italic> karnofsky performance score; 
+   <italic>BMI</italic> body mass index; 
+   <italic>MSS/MSI</italic> micro-satellite stable/instable
+  </p>
+ </table-wrap-foot>
+</table-wrap>

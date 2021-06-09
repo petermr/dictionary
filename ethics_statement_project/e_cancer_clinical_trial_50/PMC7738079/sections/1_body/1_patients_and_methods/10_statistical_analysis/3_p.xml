@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Statistical analysis will be performed with R software (v3.6 or newer, R-Project, GNU GPL, 
+ <ext-link ext-link-type="uri" xlink:href="http://cran.r-project.org/" xmlns:xlink="http://www.w3.org/1999/xlink">http://cran.r-project.org/</ext-link>). Each variable of interest will be expressed by conventional statistical summaries: the quantitative variables will be expressed through the most relevant position indicator (mean, median, quartiles, range) and dispersion indicators (standard deviation, interquartile range), and qualitative variables will be expressed by counts and percentages for each level.
+</p>

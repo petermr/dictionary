@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="zoi201035r12">
+ <label>12</label>
+ <mixed-citation publication-type="journal">
+  <person-group>
+   <name name-style="western">
+    <surname>Yeh</surname>
+    <given-names>E</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Slanetz</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Kopans</surname>
+    <given-names>DB</given-names>
+   </name>, 
+   <etal/>
+  </person-group>
+  <article-title>Prospective comparison of mammography, sonography, and MRI in patients undergoing neoadjuvant chemotherapy for palpable breast cancer</article-title>. 
+  <source>AJR Am J Roentgenol</source>. 
+  <year>2005</year>;
+  <volume>184</volume>(
+  <issue>3</issue>):
+  <fpage>868</fpage>-
+  <lpage>877</lpage>. doi:
+  <pub-id pub-id-type="doi">10.2214/ajr.184.3.01840868</pub-id>
+  <?supplied-pmid 15728611?>
+  <pub-id pub-id-type="pmid">15728611</pub-id>
+ </mixed-citation>
+</ref>

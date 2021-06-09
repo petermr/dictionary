@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par51">Observations on participants on the same team will be correlated [
+ <xref ref-type="bibr" rid="CR31">31</xref>], which means the effective sample size will depend on the intraclass correlation coefficient (ICC) [
+ <xref ref-type="bibr" rid="CR31">31</xref>]. To adjust the sample size, the crude sample size needs to be multiplied by the design effect. The average cluster size is 13, and we assume the ICC to be 0.05.
+</p>

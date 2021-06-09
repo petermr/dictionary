@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hodi</surname>
+    <given-names>FS</given-names>
+   </name>
+   <name>
+    <surname>Chiarion-Sileni</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Gonzalez</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Nivolumab plus ipilimumab or nivolumab alone versus ipilimumab alone in advanced melanoma (CheckMate 067): 4-year outcomes of a multicentre, randomised, phase 3 trial</article-title>
+  <source>Lancet Oncol</source>
+  <year>2018</year>
+  <volume>19</volume>
+  <issue>11</issue>
+  <fpage>1480</fpage>
+  <lpage>1492</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(18)30700-9</pub-id>
+  <?supplied-pmid 30361170?>
+  <pub-id pub-id-type="pmid">30361170</pub-id>
+ </element-citation>
+</ref>

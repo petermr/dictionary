@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig fig-type="FIGURE" xml:lang="en" id="cas14841-fig-0004" orientation="portrait" position="float">
+ <label>FIGURE 4</label>
+ <caption>
+  <p>PCA using a gene set of aCRCS. Each dot indicates 1 sample. Colors indicate subtypes: red, aCRCS A1; blue, aCRCS A2; green, aCRCS B1; purple, aCRCS B2. aCRCS, advanced colorectal cancer subtype; PCA, principal component analysis</p>
+ </caption>
+ <graphic id="jats-graphic-9" xlink:href="CAS-112-1567-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

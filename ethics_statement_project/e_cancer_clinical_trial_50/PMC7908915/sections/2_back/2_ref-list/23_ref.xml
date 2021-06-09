@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R23">
+ <label>23</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Gundem</surname>
+    <given-names>G</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Van Loo</surname>
+    <given-names>P</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Kremeyer</surname>
+    <given-names>B</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>The evolutionary history of lethal metastatic prostate cancer</article-title>. 
+  <source>Nature</source>
+  <year>2015</year>;
+  <volume>520</volume>:
+  <fpage>353</fpage>–
+  <lpage>7</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nature14347</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/25830880?>
+  <pub-id pub-id-type="pmid">25830880</pub-id>
+ </mixed-citation>
+</ref>

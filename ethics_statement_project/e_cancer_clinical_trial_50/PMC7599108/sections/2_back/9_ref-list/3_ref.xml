@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Winawer</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Zauber</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>Ho</surname>
+    <given-names>MN</given-names>
+   </name>
+   <name>
+    <surname>O'Brien</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Gottlieb</surname>
+    <given-names>LS</given-names>
+   </name>
+   <name>
+    <surname>Sternberg</surname>
+    <given-names>SS</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Prevention of colorectal cancer by colonoscopic polypectomy. The National Polyp Study Workgroup</article-title>
+  <source>N Engl J Med</source>
+  <year>1993</year>
+  <volume>329</volume>
+  <issue>27</issue>
+  <fpage>1977</fpage>
+  <lpage>1981</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJM199312303292701</pub-id>
+  <pub-id pub-id-type="pmid">8247072</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R5">
+ <label>[5]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>de Koning</surname>
+    <given-names>HJ</given-names>
+   </name>
+   <name>
+    <surname>van der Aalst</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>de Jong</surname>
+    <given-names>PA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Reduced lung-cancer mortality with volume CT screening in a randomized trial</article-title>. 
+  <source>N Engl J Med</source>
+  <year>2020</year>;
+  <volume>382</volume>:
+  <fpage>503</fpage>–
+  <lpage>13</lpage>.
+  <pub-id pub-id-type="pmid">31995683</pub-id>
+ </mixed-citation>
+</ref>

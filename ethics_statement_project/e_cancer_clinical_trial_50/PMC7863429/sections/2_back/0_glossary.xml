@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>SABR</term>
+   <def>
+    <p id="Par7">Stereotactic ablative radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WBRT</term>
+   <def>
+    <p id="Par8">Whole brain radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CTC-AE</term>
+   <def>
+    <p id="Par9">Common Terminology Criteria for Adverse Events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par10">Computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PET</term>
+   <def>
+    <p id="Par11">Positron emission tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MRI</term>
+   <def>
+    <p id="Par12">Magnetic resonance imaging</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GTV</term>
+   <def>
+    <p id="Par13">Gross tumor volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CTV</term>
+   <def>
+    <p id="Par14">Clinical target volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PTV</term>
+   <def>
+    <p id="Par15">Planning target volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PRV</term>
+   <def>
+    <p id="Par16">Planning organ at risk volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PI</term>
+   <def>
+    <p id="Par17">Principal investigator</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>QA</term>
+   <def>
+    <p id="Par18">Quality assurance</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RECIST</term>
+   <def>
+    <p id="Par19">Response evaluation criteria in solid tumors</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PERCIST</term>
+   <def>
+    <p id="Par20">Positron Emission Tomography (PET) Response Criteria in Solid Tumors</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PFS</term>
+   <def>
+    <p id="Par21">Progression Free Survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OS</term>
+   <def>
+    <p id="Par22">Overall survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DSMC</term>
+   <def>
+    <p id="Par23">Data Safety Monitoring Committee</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ITT</term>
+   <def>
+    <p id="Par24">Intent to treat</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>QALYs</term>
+   <def>
+    <p id="Par25">Quality-Adjusted Life Years</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ICERs</term>
+   <def>
+    <p id="Par26">Incremental Cost-Effectiveness Ratios</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>QLQ</term>
+   <def>
+    <p id="Par27">Quality of Life Questionnaire</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Gy</term>
+   <def>
+    <p id="Par28">Gray</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FDG</term>
+   <def>
+    <p id="Par29">Fluorodeoxyglucose</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NA-F</term>
+   <def>
+    <p id="Par30">Sodium Fluoride</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EORTC</term>
+   <def>
+    <p id="Par31">European Organisation for Research and Treatment of Cancer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ESMO</term>
+   <def>
+    <p id="Par32">European Society for Medical Oncology</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>INCa</term>
+   <def>
+    <p id="Par33">Insitut du Cancer</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

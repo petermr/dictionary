@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR55">
+ <label>55.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>van Asselen</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Raaijmakers</surname>
+    <given-names>CP</given-names>
+   </name>
+   <name>
+    <surname>Lagendijk</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Terhaard</surname>
+    <given-names>CH</given-names>
+   </name>
+  </person-group>
+  <article-title>Intrafraction motions of the larynx during radiotherapy</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>2003</year>
+  <volume>56</volume>
+  <issue>2</issue>
+  <fpage>384</fpage>
+  <lpage>390</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0360-3016(02)04572-8</pub-id>
+  <?supplied-pmid 12738313?>
+  <pub-id pub-id-type="pmid">12738313</pub-id>
+ </element-citation>
+</ref>

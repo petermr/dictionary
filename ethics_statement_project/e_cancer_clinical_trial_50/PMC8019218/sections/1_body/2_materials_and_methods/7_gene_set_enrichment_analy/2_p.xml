@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Gene set enrichment analysis (GSEA) was performed using the comprehensive gene‐expression data by GSEA software (Version 4.1.0, BROAD Institute) as described in the instructions, with the number of permutations set to 1000 and c6: oncogenic signature.
+ <xref rid="cas14841-bib-0017" ref-type="ref">
+  <sup>17</sup>
+ </xref> We performed GSEA on aCRCS A1 + B1 vs. A2, B2 vs. A1 + B1 and B2 vs. A2. A gene set was considered significantly enriched when the 
+ <italic>P</italic>‐value was less than .05 and the false discovery rate was less than 0.25.
+</p>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<permissions>
+ <!--<copyright-statement content-type="issue-copyright">&#x000a9; 2021 Japanese Cancer Association<copyright-statement>-->
+ <copyright-statement content-type="article-copyright">© 2021 The Authors. 
+  <italic>Cancer Science</italic> published by John Wiley &amp; Sons Australia, Ltd on behalf of Japanese Cancer Association.
+ </copyright-statement>
+ <license>
+  <license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</license_ref>
+  <license-p>This is an open access article under the terms of the 
+   <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" xmlns:xlink="http://www.w3.org/1999/xlink">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+  </license-p>
+ </license>
+</permissions>

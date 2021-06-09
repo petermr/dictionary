@@ -1,0 +1,5 @@
+0: The study protocol V.1.0 was approved by Clinical Research Review Board of Saitama Medical University in September 2019 (No.
+1: 192002) and will be approved by each institutional review board of all participating institutions before patient enrolment.
+2: This study complies with the latest version of the Declaration of Helsinki, Clinical Trial Act and related notifications.
+3: Written informed consent will be obtained from all patients before registration.
+4: Personal information will remain confidential, and data will be de-identified using participant numbers.

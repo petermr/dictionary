@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wheeler</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>McLelland</surname>
+    <given-names>VC</given-names>
+   </name>
+   <name>
+    <surname>Sheard</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>McAndrews</surname>
+    <given-names>MP</given-names>
+   </name>
+   <name>
+    <surname>Rovet</surname>
+    <given-names>JF</given-names>
+   </name>
+  </person-group>
+  <article-title>Hippocampal functioning and verbal associative memory in adolescents with congenital hypothyroidism</article-title>
+  <source>Front Endocrinol (Lausanne)</source>
+  <year>2015</year>
+  <volume>6</volume>
+  <fpage>163</fpage>
+  <pub-id pub-id-type="doi">10.3389/fendo.2015.00163</pub-id>
+  <pub-id pub-id-type="pmid">26539162</pub-id>
+ </element-citation>
+</ref>

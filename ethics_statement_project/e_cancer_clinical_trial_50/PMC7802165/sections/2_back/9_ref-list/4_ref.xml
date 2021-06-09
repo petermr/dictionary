@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Plummer</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Franceschi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Vignat</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Forman</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>de Martel</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Global burden of gastric cancer attributable to helicobacter pylori</article-title>
+  <source>Int J Cancer</source>
+  <year>2015</year>
+  <volume>136</volume>
+  <issue>2</issue>
+  <fpage>487</fpage>
+  <lpage>490</lpage>
+  <pub-id pub-id-type="doi">10.1002/ijc.28999</pub-id>
+  <pub-id pub-id-type="pmid">24889903</pub-id>
+ </element-citation>
+</ref>

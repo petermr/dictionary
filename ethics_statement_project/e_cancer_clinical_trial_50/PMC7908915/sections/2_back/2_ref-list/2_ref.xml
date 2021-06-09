@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R2">
+ <label>2</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Connor</surname>
+    <given-names>MJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Shah</surname>
+    <given-names>TT</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Horan</surname>
+    <given-names>G</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Cytoreductive treatment strategies for de novo metastatic prostate cancer</article-title>. 
+  <source>Nat Rev Clin Oncol</source>
+  <pub-id pub-id-type="doi">10.1038/s41571-019-0284-3</pub-id>
+ </mixed-citation>
+</ref>

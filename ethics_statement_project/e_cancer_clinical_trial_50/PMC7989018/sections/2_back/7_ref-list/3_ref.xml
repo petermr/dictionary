@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hortobagyi</surname>
+    <given-names>GN</given-names>
+   </name>
+   <name>
+    <surname>Stemmer</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Burris</surname>
+    <given-names>HA</given-names>
+   </name>
+   <name>
+    <surname>Yap</surname>
+    <given-names>YS</given-names>
+   </name>
+   <name>
+    <surname>Sonke</surname>
+    <given-names>GS</given-names>
+   </name>
+   <name>
+    <surname>Paluch-Shimon</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Campone</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Petrakova</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Blackwell</surname>
+    <given-names>KL</given-names>
+   </name>
+   <name>
+    <surname>Winer</surname>
+    <given-names>EP</given-names>
+   </name>
+   <name>
+    <surname>Janni</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Verma</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Conte</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Arteaga</surname>
+    <given-names>CL</given-names>
+   </name>
+   <name>
+    <surname>Cameron</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Mondal</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Su</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Miller</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Elmeliegy</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Germa</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>O’Shaughnessy</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Updated results from MONALEESA-2, a phase III trial of first-line ribociclib plus letrozole versus placebo plus letrozole in hormone receptor-positive, HER2-negative advanced breast cancer</article-title>
+  <source>Ann Oncol</source>
+  <year>2018</year>
+  <volume>29</volume>
+  <issue>7</issue>
+  <fpage>1541</fpage>
+  <lpage>1547</lpage>
+  <pub-id pub-id-type="doi">10.1093/annonc/mdy155</pub-id>
+  <?supplied-pmid 29718092?>
+  <pub-id pub-id-type="pmid">29718092</pub-id>
+ </element-citation>
+</ref>

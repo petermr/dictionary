@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R13">
+ <label>13</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Kaufmann</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Russo</surname>
+    <given-names>GI</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Bamberg</surname>
+    <given-names>F</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Prostate cancer detection in patients with prior negative biopsy undergoing cognitive-, robotic- or in-bore MRI target biopsy</article-title>. 
+  <source>World J Urol</source>
+  <year>2018</year>;
+  <volume>36</volume>:
+  <fpage>761</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/s00345-018-2189-7</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/29380130?>
+  <pub-id pub-id-type="pmid">29380130</pub-id>
+ </mixed-citation>
+</ref>

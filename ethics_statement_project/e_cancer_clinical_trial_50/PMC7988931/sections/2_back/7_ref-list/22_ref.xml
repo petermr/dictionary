@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Omuro</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Vlahovic</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Lim</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Sahebjam</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Baehring</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Cloughesy</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Voloschin</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Ramkissoon</surname>
+    <given-names>SH</given-names>
+   </name>
+   <name>
+    <surname>Ligon</surname>
+    <given-names>KL</given-names>
+   </name>
+   <name>
+    <surname>Latek</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Zwirtes</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Strauss</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Paliwal</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Harbison</surname>
+    <given-names>CT</given-names>
+   </name>
+   <name>
+    <surname>Reardon</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Sampson</surname>
+    <given-names>JH</given-names>
+   </name>
+  </person-group>
+  <article-title>Nivolumab with or without ipilimumab in patients with recurrent glioblastoma: results from exploratory phase I cohorts of CheckMate 143</article-title>
+  <source>Neuro-Oncology</source>
+  <year>2018</year>
+  <volume>20</volume>
+  <issue>5</issue>
+  <fpage>674</fpage>
+  <lpage>686</lpage>
+  <pub-id pub-id-type="doi">10.1093/neuonc/nox208</pub-id>
+  <?supplied-pmid 29106665?>
+  <pub-id pub-id-type="pmid">29106665</pub-id>
+ </element-citation>
+</ref>

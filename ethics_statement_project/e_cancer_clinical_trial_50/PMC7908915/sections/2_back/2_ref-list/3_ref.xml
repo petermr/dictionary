@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R3">
+ <label>3</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>James</surname>
+    <given-names>ND</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Spears</surname>
+    <given-names>MR</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Clarke</surname>
+    <given-names>NW</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Survival with Newly Diagnosed Metastatic Prostate Cancer in the "Docetaxel Era": Data from 917 Patients in the Control Arm of the STAMPEDE Trial (MRC PR08, CRUK/06/019)</article-title>. 
+  <source>Eur Urol</source>
+  <year>2015</year>;
+  <volume>67</volume>:
+  <fpage>1028</fpage>–
+  <lpage>38</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.eururo.2014.09.032</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/25301760?>
+  <pub-id pub-id-type="pmid">25301760</pub-id>
+ </mixed-citation>
+</ref>

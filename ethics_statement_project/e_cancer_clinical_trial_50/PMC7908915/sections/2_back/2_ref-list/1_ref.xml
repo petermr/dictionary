@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>1</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Smittenaar</surname>
+    <given-names>CR</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Petersen</surname>
+    <given-names>KA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Stewart</surname>
+    <given-names>K</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Cancer incidence and mortality projections in the UK until 2035</article-title>. 
+  <source>Br J Cancer</source>
+  <year>2016</year>;
+  <volume>115</volume>:
+  <fpage>1147</fpage>–
+  <lpage>55</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/bjc.2016.304</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/27727232?>
+  <pub-id pub-id-type="pmid">27727232</pub-id>
+ </mixed-citation>
+</ref>

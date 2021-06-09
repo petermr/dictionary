@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Welén</surname>
+   <given-names>Karin</given-names>
+  </name>
+  <address>
+   <email>karin.welen@gu.se</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Överby</surname>
+   <given-names>Anna K</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ahlm</surname>
+   <given-names>Clas</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Freyhult</surname>
+   <given-names>Eva</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Robinsson</surname>
+   <given-names>David</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Henningsson</surname>
+   <given-names>Anna Jonsson</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Stranne</surname>
+   <given-names>Johan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bremell</surname>
+   <given-names>Daniel</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Angelin</surname>
+   <given-names>Martin</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lindquist</surname>
+   <given-names>Elisabeth</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Buckland</surname>
+   <given-names>Robert</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff10">10</xref>
+  <xref ref-type="aff" rid="Aff11">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Carlsson</surname>
+   <given-names>Camilla Thellenberg</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff12">12</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pauksens</surname>
+   <given-names>Karlis</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff13">13</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bill-Axelsson</surname>
+   <given-names>Anna</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff14">14</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Akre</surname>
+   <given-names>Olof</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff15">15</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ryden</surname>
+   <given-names>Cecilia</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff16">16</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wagenius</surname>
+   <given-names>Magnus</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff17">17</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bjartell</surname>
+   <given-names>Anders</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff17">17</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nilsson</surname>
+   <given-names>Anna C.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff18">18</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Styrke</surname>
+   <given-names>Johan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff10">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Repo</surname>
+   <given-names>Johanna</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Balkhed</surname>
+   <given-names>Åse Östholm</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Niward</surname>
+   <given-names>Katarina</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gisslén</surname>
+   <given-names>Magnus</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+  <xref ref-type="aff" rid="Aff19">19</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Josefsson</surname>
+   <given-names>Andreas</given-names>
+  </name>
+  <address>
+   <email>Andreas.josefsson@umu.se</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff10">10</xref>
+  <xref ref-type="aff" rid="Aff11">11</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.8761.8</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 9919 9582</institution-id>
+   <institution>Department of Urology/Sahlgrenska Center for Cancer Research, </institution>
+   <institution>Institute of Clinical Sciences, Sahlgrenska Academy, University of Gothenburg, </institution>
+  </institution-wrap>405 30 Gothenburg, Sweden 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.12650.30</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1034 3451</institution-id>
+   <institution>Department of Clinical Microbiology, Section of Virology, </institution>
+   <institution>Umeå University, </institution>
+  </institution-wrap>Umeå, Sweden 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.12650.30</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1034 3451</institution-id>
+   <institution>Molecular Infection Medicine Sweden, </institution>
+   <institution>Umeå University, </institution>
+  </institution-wrap>Umeå, Sweden 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.12650.30</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1034 3451</institution-id>
+   <institution>Department of Clinical Microbiology, Section of Infection and Immunology, </institution>
+   <institution>Umeå University, </institution>
+  </institution-wrap>Umeå, Sweden 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.8993.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 9457</institution-id>
+   <institution>Department of Medical Sciences, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, </institution>
+   <institution>Uppsala University, </institution>
+  </institution-wrap>Uppsala, Sweden 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>Department of Urology, Region of Jönköping, Jönköping, Sweden 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5640.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2162 9922</institution-id>
+   <institution>Department of Biomedical and Clinical Sciences, </institution>
+   <institution>Linköping University, </institution>
+  </institution-wrap>Linköping, Sweden 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>Department of Clinical Microbiology, Region Jönköping County, Jönköping, Sweden 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.8761.8</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 9919 9582</institution-id>
+   <institution>Department of Infectious Diseases, </institution>
+   <institution>Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg, </institution>
+  </institution-wrap>Gothenburg, Sweden 
+ </aff>
+ <aff id="Aff10">
+  <label>10</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.12650.30</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1034 3451</institution-id>
+   <institution>Department of Surgical and Perioperative Sciences, Urology &amp; Andrology, </institution>
+   <institution>Umeå University, </institution>
+  </institution-wrap>901 87 Umeå, Sweden 
+ </aff>
+ <aff id="Aff11">
+  <label>11</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.12650.30</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1034 3451</institution-id>
+   <institution>Wallenberg Center for Molecular Medicine, </institution>
+   <institution>Umeå University, </institution>
+  </institution-wrap>Umeå, Sweden 
+ </aff>
+ <aff id="Aff12">
+  <label>12</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.12650.30</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1034 3451</institution-id>
+   <institution>Department of Radiation Sciences, Oncology, </institution>
+   <institution>Umeå University, </institution>
+  </institution-wrap>Umeå, Sweden 
+ </aff>
+ <aff id="Aff13">
+  <label>13</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.412354.5</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2351 3333</institution-id>
+   <institution>Department of Infectious Diseases, </institution>
+   <institution>Uppsala University Hospital, </institution>
+  </institution-wrap>Uppsala, Sweden 
+ </aff>
+ <aff id="Aff14">
+  <label>14</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.8993.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 9457</institution-id>
+   <institution>Department of Surgical Sciences, </institution>
+   <institution>Uppsala University, </institution>
+  </institution-wrap>Uppsala, Sweden 
+ </aff>
+ <aff id="Aff15">
+  <label>15</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.4714.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1937 0626</institution-id>
+   <institution>Department of Molecular Medicine and Surgery, </institution>
+   <institution>Karolinska Institutet, </institution>
+  </institution-wrap>Stockholm, Sweden 
+ </aff>
+ <aff id="Aff16">
+  <label>16</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.4514.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0930 2361</institution-id>
+   <institution>Division of Infection Medicine, Department of Clinical Sciences, </institution>
+   <institution>Lund University, </institution>
+  </institution-wrap>Lund, Sweden 
+ </aff>
+ <aff id="Aff17">
+  <label>17</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.4514.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0930 2361</institution-id>
+   <institution>Division of Urological Cancers, Department of Translational Medicine, </institution>
+   <institution>Lund University, </institution>
+  </institution-wrap>Malmö, Sweden 
+ </aff>
+ <aff id="Aff18">
+  <label>18</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.4514.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0930 2361</institution-id>
+   <institution>Department of Translational Medicine, Infectious Diseases Research Unit, </institution>
+   <institution>Lund University, </institution>
+  </institution-wrap>Malmö, Sweden 
+ </aff>
+ <aff id="Aff19">
+  <label>19</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.1649.a</institution-id>
+   <institution-id institution-id-type="ISNI">000000009445082X</institution-id>
+   <institution>Department of Infectious Diseases, </institution>
+   <institution>Sahlgrenska University Hospital, </institution>
+  </institution-wrap>Region Västra Götaland, Gothenburg, Sweden 
+ </aff>
+</contrib-group>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Monson</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Weiser</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Buie</surname>
+    <given-names>WD</given-names>
+   </name>
+   <name>
+    <surname>Chang</surname>
+    <given-names>GJ</given-names>
+   </name>
+   <name>
+    <surname>Rafferty</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Buie</surname>
+    <given-names>WD</given-names>
+   </name>
+   <name>
+    <surname>Rafferty</surname>
+    <given-names>J</given-names>
+   </name>
+   <collab>Standards Practice Task Force of the American Society of Colon and Rectal Surgeons</collab>
+  </person-group>
+  <article-title>Practice parameters for the management of rectal cancer (revised)</article-title>
+  <source>Dis Colon Rectum</source>
+  <year>2013</year>
+  <volume>56</volume>
+  <fpage>535</fpage>
+  <lpage>550</lpage>
+  <pub-id pub-id-type="doi">10.1097/DCR.0b013e31828cb66c</pub-id>
+  <pub-id pub-id-type="pmid">23575392</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Therapeutic regimen</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Regimen</th>
+    <th>Dose</th>
+    <th>Course of treatment</th>
+    <th>Treatment modalities</th>
+    <th>Administration time</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="5">AS group</td>
+   </tr>
+   <tr>
+    <td> Paclitaxel (albumin-bound)</td>
+    <td>120 mg/m
+     <sup>2</sup>
+    </td>
+    <td>Q3W</td>
+    <td>IV</td>
+    <td>D1, 8</td>
+   </tr>
+   <tr>
+    <td> S-1</td>
+    <td>&lt; 1.25 m
+     <sup>2</sup>, 40 mg; 1.25m
+     <sup>2</sup> to &lt; 1.5 m
+     <sup>2</sup>, 50 mg; and &gt;  1.5 m
+     <sup>2</sup>, 60 mg
+    </td>
+    <td>Q3W</td>
+    <td>Oral</td>
+    <td>D1–14</td>
+   </tr>
+   <tr>
+    <td colspan="5">XELOX group</td>
+   </tr>
+   <tr>
+    <td> Oxaliplatin</td>
+    <td>130 mg/m
+     <sup>2</sup>
+    </td>
+    <td>Q3W</td>
+    <td>IV</td>
+    <td>D1</td>
+   </tr>
+   <tr>
+    <td> Capecitabine</td>
+    <td>1000 mg/m
+     <sup>2</sup>
+    </td>
+    <td>Q3W</td>
+    <td>Oral</td>
+    <td>D1–14</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

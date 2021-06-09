@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">The incidence and mortality rates of colorectal cancer (CRC) continue to increase worldwide. Therefore, new preventive strategies are needed to lower the burden of this disease. Previous studies reported that aspirin could suppress the development of sporadic colorectal adenoma. In addition, metformin is a biguanide derivative that is long widely used for the treatment of diabetes mellitus and has recently been suggested to have a suppressive effect on carcinogenesis and cancer cell growth. Both drugs exhibit a chemopreventive effect, but their efficacy is limited.</p>
+  <p id="Par2">Aberrant crypt foci (ACF), defined as lesions containing crypts that are larger in diameter and stain more darkly with methylene blue than normal crypts, are more prevalent in patients with cancer and adenomas, and considered a reliable surrogate biomarker of CRC. Thus, we designed a prospective trial as a preliminary study prior to a CRC chemoprevention trial to evaluate the chemopreventive effect of aspirin combined with metformin on colorectal ACF formation in patients scheduled for polypectomy.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par3">This study is a double-blind randomized controlled trial that will be conducted in patients with both colorectal ACF and colorectal polyps scheduled for polypectomy. Eligible patients will be recruited for the study and the number of ACF in the rectum will be counted at the baseline colonoscopy. Then, the participants will be allocated to one of the following two groups; the aspirin plus placebo group or the aspirin plus metformin group. Patients in the aspirin plus placebo group will receive oral aspirin (100 mg) and placebo for 8 weeks, and those in the aspirin plus metformin group will receive oral aspirin (100 mg) and metformin (250 mg) for 8 weeks. After 8 weeks of administration, polypectomy will be performed to evaluate changes in the number of ACF, and the cell-proliferative activity in the normal colorectal mucosa and colorectal polyps.</p>
+ </sec>
+ <sec>
+  <title>Discussion</title>
+  <p id="Par4">This is the first study proposed that will explore the effect of aspirin combined with metformin on the formation of colorectal ACF in humans.</p>
+ </sec>
+ <sec>
+  <title>Trial registration</title>
+  <p id="Par5">This trial has been registered in the University Hospital Medical Information Network (UMIN) Clinical Trials Registry as 
+   <ext-link ext-link-type="uri" xlink:href="https://upload.umin.ac.jp/cgi-open-bin/ctr_e/ctr_view.cgi?recptno=R000032336" xmlns:xlink="http://www.w3.org/1999/xlink">UMIN000028259</ext-link>. Registered 17 July 2017.
+  </p>
+ </sec>
+</abstract>

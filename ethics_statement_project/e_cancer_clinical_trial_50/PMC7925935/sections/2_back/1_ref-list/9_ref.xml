@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R9">
+ <label>9</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Puech</surname>
+    <given-names>P</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Rouvière</surname>
+    <given-names>O</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Renard-Penna</surname>
+    <given-names>R</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Prostate cancer diagnosis: multiparametric MR-targeted biopsy with cognitive and transrectal US-MR fusion guidance versus systematic biopsy--prospective multicenter study</article-title>. 
+  <source>Radiology</source>
+  <year>2013</year>;
+  <volume>268</volume>:
+  <fpage>461</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1148/radiol.13121501</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/23579051?>
+  <pub-id pub-id-type="pmid">23579051</pub-id>
+ </mixed-citation>
+</ref>

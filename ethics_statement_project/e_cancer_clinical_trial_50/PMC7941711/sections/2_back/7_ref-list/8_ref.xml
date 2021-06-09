@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yoshida</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Ishiguro</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Ikejiri</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Mochizuki</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Nakamoto</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Kinugasa</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>S-1 as adjuvant chemotherapy for stage III colon cancer: a randomized phase III study (ACTS-CC trial)</article-title>
+  <source>Ann Oncol</source>
+  <year>2014</year>
+  <volume>25</volume>
+  <fpage>1743</fpage>
+  <lpage>1749</lpage>
+  <pub-id pub-id-type="doi">10.1093/annonc/mdu232</pub-id>
+  <pub-id pub-id-type="pmid">24942277</pub-id>
+ </element-citation>
+</ref>
