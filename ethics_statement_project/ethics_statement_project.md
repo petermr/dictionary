@@ -4,9 +4,10 @@
 - [3. Test Mini-Corpora - Using `pygetpapers`](#3-test-mini-corpora---using-pygetpapers)
   - [3.1. Mini-Corpus #1](#31-mini-corpus-1)
   - [3.2. Mini-Corpus #2](#32-mini-corpus-2)
+  - [3.3. Mini-Corpus #3](#33-mini-corpus-3)
 - [4. `ami` dictionary - Ontology](#4-ami-dictionary---ontology)
 - [5. Updates](#5-updates)
-  - [5.1. Entity Recognition using spaCy with automatic scraping (2021-06-09)](#51-entity-recognition-using-spacy-with-automatic-scraping-2021-06-09)
+  - [5.1. Entity Recognition using spaCy and NLTK with automatic scraping (2021-06-09)](#51-entity-recognition-using-spacy-and-nltk-with-automatic-scraping-2021-06-09)
   - [5.2. Entity Recognition using spaCy (2021-06-06)](#52-entity-recognition-using-spacy-2021-06-06)
   - [5.3. Ethics Statment Prototype dictionary (2021-06-01)](#53-ethics-statment-prototype-dictionary-2021-06-01)
 - [6. Meeting Records](#6-meeting-records)
@@ -43,6 +44,9 @@ pygetpapers -q "ethics statement" -k 2000 -x -o ethics_statement_2000_generic
 ```
 The `JSON` file is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/eupmc_results_2000.json).
 
+## 3.3. Mini-Corpus #3
+This is a [smaller corpus](https://github.com/petermr/dictionary/tree/main/ethics_statement_project/e_cancer_clinical_trial_50) of 50 papers on cancer clinical trial. 
+
 # 4. `ami` dictionary - Ontology
 I have created a prototype dictionary after analysing the Ethics Statement section of Mini-Corpus #1 using [`ami_gui.py`](https://github.com/petermr/openDiagram/blob/master/physchem/python/ami_gui.py). The tool does phrase extraction using [RAKE](https://pypi.org/project/rake-nltk/). It also saves the selected phrases into the `keywords.txt` file in the mini-corpus (C-Project) directory.  
 
@@ -53,10 +57,10 @@ C:\Users\shweata\ethics_statement_corpus_1000\results>amidict -v --dictionary et
 The prototype dictionary is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/results/rake/ethics_statement.xml). 
 
 # 5. Updates
-## 5.1. Entity Recognition using spaCy with automatic scraping (2021-06-09)
+## 5.1. Entity Recognition using spaCy and NLTK with automatic scraping (2021-06-09)
   I have now created a [new notebook](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/Ethics_statement_project_scraping_txt_file_containing_ethics.ipynb) which,
 -  globs sections of papers in CProject with the word 'ethic' in it.
--  writes the paragraphs in the globbed section to a `.txt` file.
+-  writes the paragraphs in the globbed section to a [`.txt`](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/ethics_statement_clinical_trial_50.txt) file.
 -  does Named Entity-Recognition using spaCy
 -  The entities with ORG label retrieves Ethics Committee names. 
 @Daniel and @PMR: There is a lot of noise because I don't have control over which paragraphs I write. The spaCy model isn't accurate either. Any directions would be helpful. 
