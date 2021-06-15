@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>TABLE 2</label>
+ <caption>
+  <p>Discriminant validity of the measurement model.</p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>SR</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>EE</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>CU</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>JP</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>PU</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>SN</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>PBC</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>BI</bold>
+    </td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">SR</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.869</bold>
+    </td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">EE</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.589</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.796</bold>
+    </td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CU</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.569</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.648</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.809</bold>
+    </td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">JP</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.660</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.748</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.704</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.834</bold>
+    </td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PU</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.562</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.691</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.719</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.797</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.802</bold>
+    </td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">SN</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.634</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.640</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.559</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.746</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.662</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.839</bold>
+    </td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PBC</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.616</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.704</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.633</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.694</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.668</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.702</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.797</bold>
+    </td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">BI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.566</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.748</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.551</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.683</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.622</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.604</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.622</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.881</bold>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <attrib>
+   <italic>The items on the diagonal in bold represent the square roots of the AVE; off-diagonal elements are the correlation estimates. SR, social recognition; EE, environmental ethics; CU, curiosity; JP, joy of purchase; PU, perceived usefulness; SN, subjective norm; PBC, perceived behavioral control; BI, behavioral intention.</italic>
+  </attrib>
+ </table-wrap-foot>
+</table-wrap>

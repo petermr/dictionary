@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stagg</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Fleming</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Baker</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Sakamoto</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Cohen</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Neufeld</surname>
+    <given-names>EJ</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Defective high-affinity thiamine transporter leads to cell death in thiamine-responsive megaloblastic anemia syndrome fibroblasts</article-title>. 
+  <source>J Clin Invest.</source> (
+  <year>1999</year>) 
+  <volume>103</volume>:
+  <fpage>723</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1172/JCI3895</pub-id>
+  <?supplied-pmid 10074490?>
+  <pub-id pub-id-type="pmid">10074490</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Patient demographics and clinical details at time of BAL collection.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Male</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Female</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Patient number (
+     <italic>n</italic>, %)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7 (50)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7 (50)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Age (years) (mean, +/– SD)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.1 (0.9)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.5 (1.5)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">BMI z score (median, +/– SD)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0 (0.89)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0 (0.82)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">F508del/F508del (
+     <italic>n</italic>, %)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3 (42.9)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3 (42.9)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">F508del/G551D (
+     <italic>n</italic>, %)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1 (14.2)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1 (14.2)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">F508del/other (
+     <italic>n</italic>, %)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3 (42.9)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3 (42.9)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Ivacaftor (
+     <italic>n</italic>, %)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1 (14.3)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0 (0)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Long-term prophylactic antibiotics (
+     <italic>n</italic>, %)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4 (57.1)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2 (28.6)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>P. aeruginosa</italic> positive patients (
+     <italic>n</italic>, %)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2 (28.6)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1 (14.3)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>S. aureus</italic> positive patients (
+     <italic>n</italic>, %)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5 (71.4)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4 (57.1)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>BMI, body mass index; n, number; SD, standard deviation</italic>.
+  </p>
+  <p>
+   <italic>No patients were on Lumacaftor, prednisolone, antifungals, or inhaled antibiotics at the time of BAL collection</italic>.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

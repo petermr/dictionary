@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Baisi</surname>
+   <given-names>Alessandro</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="corresp" rid="c002">
+   <sup>*</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1213926/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mazzucco</surname>
+   <given-names>Alessandra</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1187195/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Caffarena</surname>
+   <given-names>Giovanni</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1238406/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cioffi</surname>
+   <given-names>Gerardo</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Guttadauro</surname>
+   <given-names>Angelo</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+  <xref ref-type="corresp" rid="c001">
+   <sup>*</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/967668/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cioffi</surname>
+   <given-names>Ugo</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">
+   <sup>4</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/671964/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+</contrib-group>

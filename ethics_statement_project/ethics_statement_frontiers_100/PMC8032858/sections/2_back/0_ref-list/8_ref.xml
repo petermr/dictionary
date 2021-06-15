@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <label>8.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hu</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Xing</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Jia</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Ni</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Liang</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Zhao</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Factors associated with negative conversion of viral RNA in patients hospitalized with COVID-19</article-title>. 
+  <source>Sci Total Environ.</source> (
+  <year>2020</year>) 
+  <volume>728</volume>:
+  <fpage>138812</fpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.scitotenv.2020.138812</pub-id>
+  <?supplied-pmid 32335406?>
+  <pub-id pub-id-type="pmid">32335406</pub-id>
+ </mixed-citation>
+</ref>

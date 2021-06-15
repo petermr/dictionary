@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ciardiello</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Vitiello</surname>
+    <given-names>PP</given-names>
+   </name>
+   <name>
+    <surname>Cardone</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Martini</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Troiani</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Martinelli</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Immunotherapy of Colorectal Cancer: Challenges for Therapeutic Efficacy</article-title>. 
+  <source>Cancer Treat Rev</source> (
+  <year>2019</year>) 
+  <volume>76</volume>:
+  <fpage>22</fpage>–
+  <lpage>32</lpage>.  
+  <pub-id pub-id-type="doi">10.1016/j.ctrv.2019.04.003</pub-id>
+  <pub-id pub-id-type="pmid">31079031</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>An univariate logistic analysis was made with every possible factor for each endpoints (mRS 0–2; mRS 6; every neurological complication). The small amount of patient mRS 3–6 led to use least absolute shrinkage and selection operator (LASSO) which is a logistical regression with penalty in order to avoid overfitting. Variables which were selected by LASSO, were then computed for logistical regression without penalty and validated by bootstrap. Performance of the model was validated by area under the curve (AUC). Results with 
+ <italic>p</italic> &lt; 0.05 were considered significant. Univariate analysis of complications type was done with non-parametric Fisher test. Each statistical analysis was made with R 3.4.3 with glmnet package for LASSO analysis.
+</p>

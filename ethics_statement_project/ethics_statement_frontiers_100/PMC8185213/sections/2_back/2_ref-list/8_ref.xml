@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <label>8.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>WS</given-names>
+   </name>
+   <name>
+    <surname>Wheatley</surname>
+    <given-names>AK</given-names>
+   </name>
+   <name>
+    <surname>Kent</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>DeKosky</surname>
+    <given-names>BJ</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Antibody-dependent enhancement and SARS-CoV-2 vaccines and therapies</article-title>. 
+  <source>Nat Microbiol.</source> (
+  <year>2020</year>) 
+  <volume>5</volume>:
+  <fpage>1185</fpage>–
+  <lpage>91</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/s41564-020-00789-5</pub-id>
+  <?supplied-pmid 32908214?>
+  <pub-id pub-id-type="pmid">32908214</pub-id>
+ </mixed-citation>
+</ref>

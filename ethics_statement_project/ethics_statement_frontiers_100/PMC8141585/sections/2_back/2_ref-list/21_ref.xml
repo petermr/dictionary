@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref21">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schubert</surname>
+    <given-names>T. W.</given-names>
+   </name>
+   <name>
+    <surname>Murteira</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Collins</surname>
+    <given-names>E. C.</given-names>
+   </name>
+   <name>
+    <surname>Lopes</surname>
+    <given-names>D.</given-names>
+   </name>
+  </person-group> (
+  <year>2013</year>). 
+  <article-title>ScriptingRT: a software library for collecting response latencies in online studies of cognition</article-title>. 
+  <source>PLoS One</source>
+  <volume>8</volume>:
+  <fpage>e67769</fpage>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0067769</pub-id>, PMID: 
+  <?supplied-pmid 23805326?>
+  <pub-id pub-id-type="pmid">23805326</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F4" position="float">
+ <label>FIGURE 4</label>
+ <caption>
+  <p>Schematic illustration of the web application. We entered the corresponding parameters into the web application according to the laboratory information and clinical symptoms. Then, the model showed the probability of PTB.</p>
+ </caption>
+ <graphic xlink:href="fmolb-08-632185-g004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

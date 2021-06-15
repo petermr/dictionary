@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>RNA-seq was performed on the tumor tissue samples from all the CMM mice after corresponding treatment for determining the expression of YAP1, and it was found that the expression of YAP1 in the tumor tissues of each group of CMM mice did not change significantly (
+ <italic>p</italic>&gt;0.05), moreover, the results of RT-qPCR were consistent with those of RNA-seq (
+ <italic>p</italic>&gt;0.05). Ribo-seq was performed subsequently to further examine the effect of UMMD on YAP1 activity. Surprisingly, the results of Ribo-seq demonstrated that UMMD treatment can significantly up-regulate the expression of YAP1, especially UMMD, which has been found to have the most significant effect 
+ <italic>(p</italic>&lt;0.05) (
+ <xref ref-type="fig" rid="f3">
+  <bold>Figure 3</bold>
+ </xref>). Spearman test results indicated that YAP1 expression in Ribo-seq was negatively correlated with the weight of CMM mice after treatment (r = -0.735, 
+ <italic>p</italic>&lt;0.05), while YAP1 expression in RNA-seq and RT-qPCR was irrelevant to tumor tissue weight (r=-0.347, 
+ <italic>p</italic>&gt;0.05; r = -0.299, 
+ <italic>p</italic>&gt;0.05). However, as another important gene member on the Hippo signaling pathway, TAZ, we did not find obvious changes in its expression by UMMD treatment in the results of Ribo-seq(P &gt; 0.05), as did RT qPCR with RNA SEQ (P &gt; 0.05) (
+ <xref ref-type="fig" rid="f4">
+  <bold>Figure 4</bold>
+ </xref>).
+</p>

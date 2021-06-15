@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Examples of individual pride and collective pride.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Type</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>English</bold>
+    </th>
+    <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+     <bold>Chinese</bold>
+    </th>
+   </tr>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Original item</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>English translation</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Individual pride</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No, I'm just joking. I've always 
+     <bold>prided</bold> myself on not having standard pick-up lines, which makes things that much more
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">不大愿意受人控制”、“你以 自己能独立思考而自 豪”、“你希望别人尊重 你”……诸如此类的描述</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">“[You] are not willing to be controlled by others,” “you are 
+     <bold>proud</bold> of your ability to think independently,” “you want others to respect you,” and so on
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Relational pride</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">That women's chief priority is to serve their families, she not only took 
+     <bold>pride</bold> in her two daughters' achievements but also encouraged our career plans. We took
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">了!宝贝，加油!妈妈为你的 沉着和勇敢感到骄傲!但愿 大家都平平安安，和和美 美!但愿我的一</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">! Come on, Dear! Mom is 
+     <bold>proud</bold> of your composure and courage! May everyone be safe and at peace! I wish my
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">National pride</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Must feel substantial and look majestic enough to engender national 
+     <bold>pride</bold>. # On the other hand, this currency cannot be costly to
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">愈来愈强盛。我不禁为祖国 的成就感到无比的自豪、骄 傲，在心中呼喊着：祖国， 生日快乐！我衷</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">More and more powerful. I cannot help but feel extremely 
+     <bold>proud</bold> of the achievements of my motherland, and I cry in my heart: Happy Birthday to my motherland! I sincerely
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">General pride</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Physical gatherings and return to digital realms. Instead, alt-right gangs such as the 
+     <bold>Proud</bold> Boys, the Atomwaffen Division, and their followers, have become bolder, engaging in
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">大众音乐文化，倒真是“来 不得半点的虚伪和骄傲”。 听众一般并不会因为社会炒 作的厉害不厉害</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">The popular music culture, which really “cannot afford to have any dishonesty and 
+     <bold>pride.”</bold> The audience will generally not fall for any hypes
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Non-Pride</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Such as lions, which often hunt and raise their cubs along rivers. Lion 
+     <bold>prides</bold> have the highest reproductive success when their territories are in areas where rivers come together
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">好是个黄金单身汉 吧!12月21日综合报导自 大S替小S代班主持《康熙 来了》收视屡创新高</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">You'd better be a desirable bachelor! On December 21, it was reported that 
+     <bold>since Big</bold> S replaced Little S as the host, the TV show “Here Come Kang &amp; Xi” has set a new record in its ratings. [“since big” has the same characters as self-pride in Chinese]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

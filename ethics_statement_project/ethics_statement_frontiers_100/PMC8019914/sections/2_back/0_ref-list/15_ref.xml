@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15">
+ <label>15</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yu</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Harden</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Gonzalez</surname>
+    <given-names>LC</given-names>
+   </name>
+   <name>
+    <surname>Francesco</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Chiang</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Irving</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>The surface protein TIGIT suppresses T cell activation by promoting the generation of mature immunoregulatory dendritic cells</article-title>. 
+  <source>Nat Immunol</source> (
+  <year>2009</year>) 
+  <volume>10</volume>:
+  <fpage>48</fpage>–
+  <lpage>57</lpage>.  
+  <pub-id pub-id-type="doi">10.1038/ni.1674</pub-id>
+  <pub-id pub-id-type="pmid">19011627</pub-id>
+ </mixed-citation>
+</ref>

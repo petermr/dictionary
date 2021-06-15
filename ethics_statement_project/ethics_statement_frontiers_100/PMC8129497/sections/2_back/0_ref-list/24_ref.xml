@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B24">
+ <label>24.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dono</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Nucera</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Lanzone</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Evangelista</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Rinaldi</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Speranza</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Status epilepticus and COVID-19: a systematic review</article-title>. 
+  <source>Epilepsy Behav</source>. (
+  <year>2021</year>) 
+  <volume>118</volume>:
+  <fpage>107887</fpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.yebeh.2021107887</pub-id>
+  <?supplied-pmid 33743344?>
+  <pub-id pub-id-type="pmid">33743344</pub-id>
+ </mixed-citation>
+</ref>

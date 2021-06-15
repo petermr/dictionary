@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kang</surname>
+   <given-names>Pengjiang</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Weihua</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wen</surname>
+   <given-names>Jinquan</given-names>
+  </name>
+  <xref ref-type="corresp" rid="c001">
+   <sup>*</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1139535/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Jiming</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Fei</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sun</surname>
+   <given-names>Wuxia</given-names>
+  </name>
+ </contrib>
+</contrib-group>

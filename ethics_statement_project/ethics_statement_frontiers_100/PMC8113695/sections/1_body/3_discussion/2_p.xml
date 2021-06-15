@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In this cohort, patients with liver-predominant metastases were more likely to accept HAI therapy. Over 60% of patients receiving HAI had more than 10 liver lesions. In contrast, less patients with EHM were treated with HAI. In addition, a higher serum CA19-9 level was found in HAI-treated patients. Due to the significant imbalance of these radical factors between patients with and without HAI, propensity score matching analysis was introduced in this study. In order to reduce the number of confounding variance, patients with obstructive jaundice or peritoneal carcinomatosis, which is associated with poor prognosis in pancreatic cancer (
+ <xref rid="B3" ref-type="bibr">3</xref>, 
+ <xref rid="B18" ref-type="bibr">18</xref>), were excluded from the propensity score matching because they were not selected for HAI in this study. Following matching, observed differences in the number of liver lesions and CA19-9 level still existed between the two groups. In addition, the distribution of SCT regimens was not completely balanced. To eliminate the potential impacts of these radical confounders, we established multivariance Cox regression model and confirmed that HAI reduced the risk of death by 61.8% (HR = 0.382; 
+ <italic>P</italic> &lt; 0.001).
+</p>

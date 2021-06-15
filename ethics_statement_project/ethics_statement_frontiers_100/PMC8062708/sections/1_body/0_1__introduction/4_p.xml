@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In the CoronaSurveys project, Ojo et al. (
+ <xref rid="B9" ref-type="bibr">9</xref>) we aim to track the progress of the COVID-19 pandemic using online, open, anonymous surveys with indirect reporting. Other recent articles have also suggested the use of surveys to monitor this pandemic, both for Spain (
+ <xref rid="B10" ref-type="bibr">10</xref>, 
+ <xref rid="B11" ref-type="bibr">11</xref>) and globally (
+ <xref rid="B12" ref-type="bibr">12</xref>). However, to our knowledge, all surveys conducted in Spain have employed direct reporting only, asking participants about themselves. CoronaSurveys implements the network scale-up method of indirect reporting instead, allowing us to collect data on a wide fraction of the population with a small number of responses and in a very short time-frame (
+ <xref rid="B13" ref-type="bibr">13</xref>). In this article, we compare the accuracy of CoronaSurveys with a gold standard: serology testing data collected by the Spanish government in the ENE-COVID study (
+ <xref rid="B14" ref-type="bibr">14</xref>).
+</p>

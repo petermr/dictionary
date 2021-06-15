@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B43">
+ <label>43.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sallon</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Soulet</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Provost</surname>
+    <given-names>PR</given-names>
+   </name>
+   <name>
+    <surname>Tremblay</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Automated high-performance analysis of lung morphometry</article-title>. 
+  <source>Am J Respir Cell Mol Biol.</source> (
+  <year>2015</year>) 
+  <volume>53</volume>:
+  <fpage>149</fpage>–
+  <lpage>58</lpage>. 
+  <pub-id pub-id-type="doi">10.1165/rcmb.2014-0469MA</pub-id>
+  <?supplied-pmid 25695836?>
+  <pub-id pub-id-type="pmid">25695836</pub-id>
+ </mixed-citation>
+</ref>

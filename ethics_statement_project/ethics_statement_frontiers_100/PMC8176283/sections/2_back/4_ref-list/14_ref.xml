@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B14">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yang</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Benyamin</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>McEvoy</surname>
+    <given-names>B. P.</given-names>
+   </name>
+   <name>
+    <surname>Gordon</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Henders</surname>
+    <given-names>A. K.</given-names>
+   </name>
+   <name>
+    <surname>Nyholt</surname>
+    <given-names>D. R.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2010</year>). 
+  <article-title>Common SNPs explain a large proportion of the heritability for human height.</article-title>
+  <source>
+   <italic>Nat. Genet.</italic>
+  </source>
+  <volume>42</volume>
+  <fpage>565</fpage>–
+  <lpage>569</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/ng.608</pub-id>
+  <?supplied-pmid 20562875?>
+  <pub-id pub-id-type="pmid">20562875</pub-id>
+ </mixed-citation>
+</ref>

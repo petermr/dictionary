@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Eren</surname>
+   <given-names>Ozan E.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="corresp" rid="c001">
+   <sup>*</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1205853/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ruscheweyh</surname>
+   <given-names>Ruth</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/441203/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rauschel</surname>
+   <given-names>Veronika</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Eggert</surname>
+   <given-names>Thomas</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/20873/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Schankin</surname>
+   <given-names>Christoph J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="fn002">
+   <sup>†</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/768628/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Straube</surname>
+   <given-names>Andreas</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="fn002">
+   <sup>†</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/423241/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+</contrib-group>

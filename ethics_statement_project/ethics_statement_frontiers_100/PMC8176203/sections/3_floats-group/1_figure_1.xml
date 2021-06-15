@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>CT and MRI images. 
+   <bold>(A–C)</bold> Show iso- and hyper-intense signal in T2 sequence of the patient's cranium MRI images. Panel 
+   <bold>(A)</bold> is a coronal T2 image. Panel 
+   <bold>(B)</bold> is an axial T2 image. Panel 
+   <bold>(C)</bold> is a sagittal T2 image. Panel 
+   <bold>(D)</bold> is a CT image, with the red arrow indicating the mass.
+  </p>
+ </caption>
+ <graphic xlink:href="fsurg-08-672291-g0001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

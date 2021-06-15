@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nakagawa</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Scherlag</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Patterson</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Ikeda</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Lockwood</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Jackman</surname>
+    <given-names>WM</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Pathophysiologic basis of autonomic ganglionated plexus ablation in patients with atrial fibrillation</article-title>. 
+  <source>Heart Rhythm.</source> (
+  <year>2009</year>) 
+  <volume>6</volume>:
+  <fpage>S26</fpage>–
+  <lpage>34</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.hrthm.2009.07.029</pub-id>
+  <?supplied-pmid 19959140?>
+  <pub-id pub-id-type="pmid">19959140</pub-id>
+ </mixed-citation>
+</ref>

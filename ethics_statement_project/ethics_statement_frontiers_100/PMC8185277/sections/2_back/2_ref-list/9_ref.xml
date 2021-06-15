@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B9">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fitzgerald</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Saville</surname>
+    <given-names>B. R.</given-names>
+   </name>
+   <name>
+    <surname>Lewis</surname>
+    <given-names>R. J.</given-names>
+   </name>
+  </person-group> (
+  <year>2015</year>). 
+  <article-title>Decision curve analysis.</article-title>
+  <source>
+   <italic>JAMA</italic>
+  </source>
+  <volume>313</volume>
+  <fpage>409</fpage>–
+  <lpage>410</lpage>. 
+  <pub-id pub-id-type="doi">10.1001/jama.2015.37</pub-id>
+  <?supplied-pmid 25626037?>
+  <pub-id pub-id-type="pmid">25626037</pub-id>
+ </mixed-citation>
+</ref>

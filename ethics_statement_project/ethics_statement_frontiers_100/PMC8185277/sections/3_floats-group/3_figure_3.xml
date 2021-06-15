@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F3" position="float">
+ <label>FIGURE 3</label>
+ <caption>
+  <p>Lasso feature selection diagram. The 
+   <italic>x</italic>-coordinate is the logarithm function of the penalty coefficient λ, and the 
+   <italic>y</italic>-coordinate is the mean square error. 
+   <bold>(A)</bold> As lambda changes, the coefficient of the variable is compressed to zero. 
+   <bold>(B)</bold> The dotted line on the left represents the value of the λ log function with the minimum mean squared error, and the right represents the best lambda log function. The value at the top of the image is the number of features.
+  </p>
+ </caption>
+ <graphic xlink:href="fmolb-08-632185-g003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

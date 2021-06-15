@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Characteristics of the population.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>N</italic>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>%</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Female</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">325</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">79</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Age (mean, years) ± IQR</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">51.7 ± 8.7</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Previous SAH</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">62</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">15.0</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Previous EVT % (number of aneurysms)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">24.7% (127/514)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="3" rowspan="1">
+     <bold>Aneurysm location</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anterior circulation</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">381</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">92.2</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">ICA</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">299</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">72.4</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">MCA</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">42</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10.1</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">ACoA</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">24</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.8</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Perical</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3.9</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Posterior circulation</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">32</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7.8</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Basilar</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">17</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4.1</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Vertebral</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.4</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PCA</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PICA</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.2</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Superior cerebellar</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.2</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="3" rowspan="1">
+     <bold>Aneurysm type</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Blister</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.9</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Dissecting</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Fusiform</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">23</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.6</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Size (mean, mm) ± IQR</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8 ± 8.7</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Adjunctive coiling % (number of aneurysm)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">19.8% (102/514)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Number of FD (mean ± IQR)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.19 ± 1.0</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="3" rowspan="1">
+     <bold>Outcomes</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Patients with neurological complication(s)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">74</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">17.9</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">mRS 0–2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">377</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">91.5</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">mRS 6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3.2</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>SAH, subarachnoid hemorrhage; EVT, endovascular treatment; ICA, Internal Carotid Artery; MCA, Middle Cerebral Artery; ACoA, Anterior Communicating artery; Perical, pericallosal artery; PCA, Posterior Communicating Artery; PICA, Posterior inferior cerebellar artery</italic>.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B23">
+ <label>23.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lukacik</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Kavanagh</surname>
+    <given-names>KL</given-names>
+   </name>
+   <name>
+    <surname>Oppermann</surname>
+    <given-names>U</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Structure and function of human 17beta-hydroxysteroid dehydrogenases</article-title>. 
+  <source>Mol Cell Endocrinol.</source> (
+  <year>2006</year>) 
+  <volume>248</volume>:
+  <fpage>61</fpage>–
+  <lpage>71</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.mce.2005.12.007</pub-id>
+  <?supplied-pmid 16414178?>
+  <pub-id pub-id-type="pmid">16414178</pub-id>
+ </mixed-citation>
+</ref>

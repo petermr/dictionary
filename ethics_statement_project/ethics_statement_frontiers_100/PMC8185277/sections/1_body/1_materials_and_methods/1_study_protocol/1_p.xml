@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>This research was designed to be performed in three steps. First, the expression level of n344917 selected by microarray was detected using reverse transcriptase quantitative real-time PCR in all participants for biomarker verification step. Next, in the modeling step, we used n344917, laboratory and EHR variables to extract the features and construct a prediction model in the derivation cohort. The internal 10-fold cross validation were used to test the model. Finally, during the external validation step, the optimal model was encapsulated as an open-source and free predictive web-based application. We evaluated it to further confirm that can produce good performance in an independent validation cohort. 
+ <xref ref-type="fig" rid="F1">Figure 1</xref> shows the flowchart of the study.
+</p>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bhattacharyya</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Gubbels</surname>
+    <given-names>SP</given-names>
+   </name>
+   <name>
+    <surname>Schwartz</surname>
+    <given-names>SR</given-names>
+   </name>
+   <name>
+    <surname>Edlow</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>El</surname>
+    <given-names>Kashian H</given-names>
+   </name>
+   <name>
+    <surname>Fife</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Clinical practice guideline: benign paroxysmal positional vertigo</article-title>. 
+  <source>Otolaryngol Head Neck Surg.</source> (
+  <year>2017</year>) 
+  <volume>156</volume>:
+  <fpage>S1</fpage>-
+  <lpage>47</lpage>. 
+  <pub-id pub-id-type="doi">10.1177/0194599816689667</pub-id>
+  <?supplied-pmid 28248609?>
+  <pub-id pub-id-type="pmid">28248609</pub-id>
+ </mixed-citation>
+</ref>

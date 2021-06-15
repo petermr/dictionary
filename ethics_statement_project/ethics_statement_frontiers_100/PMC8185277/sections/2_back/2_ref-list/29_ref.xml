@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B29">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vickers</surname>
+    <given-names>A. J.</given-names>
+   </name>
+   <name>
+    <surname>Elkin</surname>
+    <given-names>E. B.</given-names>
+   </name>
+  </person-group> (
+  <year>2006</year>). 
+  <article-title>Decision curve analysis: a novel method for evaluating prediction models.</article-title>
+  <source>
+   <italic>Med. Decis. Mak.</italic>
+  </source>
+  <volume>26</volume>
+  <fpage>565</fpage>–
+  <lpage>574</lpage>. 
+  <pub-id pub-id-type="doi">10.1177/0272989x06295361</pub-id>
+  <?supplied-pmid 17099194?>
+  <pub-id pub-id-type="pmid">17099194</pub-id>
+ </mixed-citation>
+</ref>

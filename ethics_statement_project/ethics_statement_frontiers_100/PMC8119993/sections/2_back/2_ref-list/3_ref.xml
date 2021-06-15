@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Estabrooks</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Winther</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Derksen</surname>
+    <given-names>L</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Mapping the field: a bibliometric analysis of the research utilization literature in nursing</article-title>. 
+  <source>Nurs Res.</source> (
+  <year>2004</year>) 
+  <volume>53</volume>:
+  <fpage>293</fpage>–
+  <lpage>303</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/00006199-200409000-00003</pub-id>
+  <?supplied-pmid 15385865?>
+  <pub-id pub-id-type="pmid">15385865</pub-id>
+ </mixed-citation>
+</ref>

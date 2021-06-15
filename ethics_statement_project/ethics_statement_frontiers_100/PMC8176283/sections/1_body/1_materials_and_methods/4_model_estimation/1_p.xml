@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The model with the highest 
+ <italic>R</italic>
+ <sup>2</sup>
+ <sub>cv</sub> averaged over 50 CV-sets in the UKB data was chosen as the best prediction model and was validated using FHS to show the generalizability of the model. See Appendix for more details on model selection and estimation, and the code is available on 
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/jielab/height" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/jielab/height</ext-link>.
+</p>

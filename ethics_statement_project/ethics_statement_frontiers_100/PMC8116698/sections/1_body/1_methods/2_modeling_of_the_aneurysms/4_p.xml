@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>After segmenting and surface smoothing by Geomagic Studio 9.0 software (Geomagic USA), the geometries in stereolithography (STL) format were then exported to ICEM CFD 14.0 (ANSYS, Inc., Canonsburg, PA, USA) for meshing. The vessels were assumed to be rigid with no-slip boundary conditions.</p>

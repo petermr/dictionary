@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T5" position="float">
+ <label>TABLE 5</label>
+ <caption>
+  <p>Analysis of mediation effects.</p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Parameter</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Estimate</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Lower</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Upper</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>p-</italic>Value
+     </bold>
+    </td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">SR→CU→BI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.005</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">–0.008</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.046</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.373</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">SR→JP→BI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.063*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.009</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.177</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.015</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">SR→PU→BI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.010</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">–0.006</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.076</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.216</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">SR→SN→BI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.028*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.000</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.088</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.043</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">SR→PBC→BI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.036*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.005</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.111</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.014</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">EE→CU→BI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.025</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">–0.049</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.148</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.464</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">EE→JP→BI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.279**</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.114</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.633</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">EE→PU→BI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.010</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">–0.006</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.076</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.216</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">EE→SN→BI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.028*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.000</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.088</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.043</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">EE→PBC→BI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.016</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">–0.015</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.086</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.224</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <attrib>
+   <italic>SR, social recognition; EE, environmental ethics; CU, curiosity; JP, joy of purchase; PU, perceived usefulness; SN, subjective norm; PBC, perceived behavioral control; BI, behavioral intention. *
+    <italic>p-</italic>value &lt; 0.05. **
+    <italic>p-</italic>value &lt; 0.01.
+   </italic>
+  </attrib>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Patient Characteristics.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Allocated to the Sémont maneuver</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Allocated to the Sémont Plus maneuver</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mean age (± SD), range</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">64 ± 13 years, 19–87 years</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">63 ± 13 years, 19–90 years</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sex: male/female</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">36/60</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">40/58</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Affected side R/L</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">62/34</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">62/36</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Etiology: idiopathic/other/missing data</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">79/15/2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">85/12/1</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">First episode of BPPV/Recurrent BPPV/Missing data</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">54/40/2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">60/37/1</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mean duration of symptoms before</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">inclusion in the study:</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Median (in days)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Range (in days)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1–7200</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1–5470</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Missing data</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

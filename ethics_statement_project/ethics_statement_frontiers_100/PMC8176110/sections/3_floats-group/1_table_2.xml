@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Patient-specific risk factors, univariate analysis.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+     <bold>Ileostomy (</bold>
+     <italic>
+      <bold>n</bold>
+     </italic>
+     <bold>= 296)</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Missing</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>OR (95 % CI)</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>P</italic>-value
+     </bold>
+    </th>
+   </tr>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>No HOS (
+      <italic>n</italic> = 255)
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>HOS (
+      <italic>n</italic> = 41)
+     </bold>
+    </th>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1"/>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Age, years</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">48 (15–83)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">57 (30–82)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.032 (1.011–1.053)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.002</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">BMI, kg/m
+     <sup>2</sup>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">24.1 (13.8–45.1)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">23.4 (14.3–37.4)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">21</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.996 (0.993-1.065)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.909</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="6" rowspan="1">Sex</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Male</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">149 (87.1)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">22 (12.9)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.566</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Female</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">106 (84.8)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">19 (15.2)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.214 (0.626-2.355)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="6" rowspan="1">ASA</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    1, 2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">205 (88)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">28 (12)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.083</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    3, 4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">50 (79.4)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13 (20.6)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.904 (0.920-3.938)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="6" rowspan="1">Diagnosis</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Ulcerative colitis</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">92 (92.9)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7 (7.1)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.012</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Crohn's disease</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">49 (76.6)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">15 (23.4)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">4.023 (1.538-10.526)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.005</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Carcinoma</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">66 (90.4)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7 (9.6)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.394 (0.467-4.164)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.552</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Other</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">48 (80)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12 (20)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">3.286 (1.214-8.890)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.019</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Arterial hypertension</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">67 (78.8)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18 (21.2)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.196 (1.116-4.321)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.023</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">COPD</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8 (80.0)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2 (20.0)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.583 (0.324-7.732)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.570</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Coronary artery disease</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">19 (86.4)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3 (13.6)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.981 (0.277-3.474)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.976</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Chronic renal failure</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12 (85.7)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2 (14.3)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.038 (0.224-4.818)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.962</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Heart failure</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8 (88.9)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1 (11.1)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.772 (0.094-6.338)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.810</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Diabetes mellitus</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">21 (77.8)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6 (22.2)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.910 (0.721-5.061)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.193</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Immunsuppression</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.193</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    No</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">212 (87.6)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">30 (12.4)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Glucocorticoids</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">25 (86.2)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4 (13.8)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.131 (0.386-3.474)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.830</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Other</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10 (76.9)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3 (23.1)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.120 (0.552-8.142)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.274</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Multiple (≥2)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8 (66.7)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4 (33.3)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">3.533 (1.003-12.452)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.050</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Nicotine abuse</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">15 (5.1)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.096</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Active</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">46 (79.3)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12 (21.6)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Non smoker</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">196 (87.9)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">27 (12.1)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.894 (0.893-4.017)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>Continuous variables as age and BMI are median (minimum-maximum). Categorical variables are count (percentage). OR, odds ratio; CI, confidence interval</italic>.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Truelove</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Graham</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Moss</surname>
+    <given-names>WJ</given-names>
+   </name>
+   <name>
+    <surname>Metcalf</surname>
+    <given-names>CJE</given-names>
+   </name>
+   <name>
+    <surname>Ferrari</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Lessler</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Characterizing the impact of spatial clustering of susceptibility for measles elimination</article-title>. 
+  <source>Vaccine.</source> (
+  <year>2019</year>) 
+  <volume>37</volume>:
+  <fpage>732</fpage>–
+  <lpage>41</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.vaccine.2018.12.012</pub-id>
+  <?supplied-pmid 30579756?>
+  <pub-id pub-id-type="pmid">30579756</pub-id>
+ </mixed-citation>
+</ref>

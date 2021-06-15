@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>van Riet</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Krol</surname>
+    <given-names>N. M. G.</given-names>
+   </name>
+   <name>
+    <surname>Atmodimedjo</surname>
+    <given-names>P. N.</given-names>
+   </name>
+   <name>
+    <surname>Brosens</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>van IJcken</surname>
+    <given-names>W. F. J.</given-names>
+   </name>
+   <name>
+    <surname>Jansen</surname>
+    <given-names>M.</given-names>
+   </name>
+   <etal/>
+  </person-group>. (
+  <year>2018</year>). 
+  <article-title>SNPitty: an intuitive web application for interactive B-allele frequency and copy number visualization of next-generation sequencing data</article-title>. 
+  <source>J. Mol. Diagn.</source>
+  <volume>20</volume>, 
+  <fpage>166</fpage>–
+  <lpage>176</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.jmoldx.2017.11.011</pub-id>
+  <?supplied-pmid 29305224?>
+  <pub-id pub-id-type="pmid">29305224</pub-id>
+ </mixed-citation>
+</ref>

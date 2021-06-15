@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <label>16.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pallett</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Rayment</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Patel</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Fitzgerald-Smith</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Denny</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Charani</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Point-of-care serological assays for delayed SARS-CoV-2 case identification among health-care workers in the UK: a prospective multicentre cohort study</article-title>. 
+  <source>Lancet Respir Med</source>. (
+  <year>2020</year>) 
+  <volume>8</volume>:
+  <fpage>885</fpage>–
+  <lpage>94</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S2213-2600(20)30315-5</pub-id>
+  <?supplied-pmid 32717210?>
+  <pub-id pub-id-type="pmid">32717210</pub-id>
+ </mixed-citation>
+</ref>

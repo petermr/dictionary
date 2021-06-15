@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B23">
+ <label>23.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kroenke</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Strine</surname>
+    <given-names>TW</given-names>
+   </name>
+   <name>
+    <surname>Spitzer</surname>
+    <given-names>RL</given-names>
+   </name>
+   <name>
+    <surname>Williams</surname>
+    <given-names>JBW</given-names>
+   </name>
+   <name>
+    <surname>Berry</surname>
+    <given-names>JT</given-names>
+   </name>
+   <name>
+    <surname>Mokdad</surname>
+    <given-names>AH</given-names>
+   </name>
+  </person-group>. 
+  <article-title>The PHQ-8 as a measure of current depression in the general population</article-title>. 
+  <source>J Affective Disord.</source> (
+  <year>2009</year>) 
+  <volume>114</volume>:
+  <fpage>163</fpage>–
+  <lpage>73</lpage>.
+  <pub-id pub-id-type="doi">10.1016/j.jad.2008.06.026</pub-id>
+  <?supplied-pmid 18752852?>
+  <pub-id pub-id-type="pmid">18752852</pub-id>
+ </mixed-citation>
+</ref>

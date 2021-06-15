@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <p>Human height is a polygenic trait, influenced by a large number of genomic loci. In the pre-genomic era, height prediction was based largely on parental height. More recent predictions of human height have made great strides by integrating genotypic data from large biobanks with improved statistical techniques. Nevertheless, recent studies have not leveraged parental height, an added feature that we hypothesized would offer complementary predictive value. In this study, we assessed the predictive power of polygenic risk scores (PRS) combined with the traditional parental height predictors. Our study analyzed genotypic data and parental height from 1,071 trios from the United Kingdom Biobank and 444 trios from the Framingham Heart Study. We explored a series of statistical models to fully evaluate the performance of several PRS constructed together with parental information and proposed a model we call PRS++ that includes gender, parental height, and PRSs of parents and proband. Our estimate of height with an 
+  <italic>R</italic>
+  <sup>2</sup> of ∼0.82 is, to our knowledge, the most accurate estimate yet achieved for predicting human adult height. Without parental information, the 
+  <italic>R</italic>
+  <sup>2</sup> from the best PRS-driven model is ∼0.73. In summary, using adult height prediction as an example, we demonstrated that traditional predictors still play important roles and merit integration into the current trends of intensive PRS approaches.
+ </p>
+</abstract>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Concerning the impact of the number of responses as depicted in 
+ <xref ref-type="fig" rid="F2">Figure 2</xref>, we observe how once the minimum number is reached, further responses will not significantly increase accuracy unless these come from underreported regions. As depicted in 
+ <xref ref-type="fig" rid="F3">Figure 3</xref>, additional responses from regions where many are already available will barely have an impact on the global result. As the great majority of contributions for April 14th were for Madrid, where we already had many responses available, the 77 new daily responses on April 14th barely had any impact, while the contributions on April 16th significantly increase the accuracy of our estimation.
+</p>

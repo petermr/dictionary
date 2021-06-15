@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B18">
+ <label>18.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Eriksson</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Brown</surname>
+    <given-names>WT</given-names>
+   </name>
+   <name>
+    <surname>Gordon</surname>
+    <given-names>LB</given-names>
+   </name>
+   <name>
+    <surname>Glynn</surname>
+    <given-names>MW</given-names>
+   </name>
+   <name>
+    <surname>Singer</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Scott</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Recurrent d
+   <italic>e novo</italic> point mutations in lamin A cause Hutchinson-Gilford progeria syndrome
+  </article-title>. 
+  <source>Nature</source>. (
+  <year>2003</year>) 
+  <volume>423</volume>:
+  <fpage>293</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nature01629</pub-id>
+  <?supplied-pmid 12714972?>
+  <pub-id pub-id-type="pmid">12714972</pub-id>
+ </mixed-citation>
+</ref>

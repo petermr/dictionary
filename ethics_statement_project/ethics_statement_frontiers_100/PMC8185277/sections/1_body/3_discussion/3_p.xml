@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The results confirm the significant differential expression of n344917 in the clinically diagnosed PTB tuberculosis (
+ <italic>P</italic> &lt; 0.001). Next, we use the LASSO algorithm to comprehensively analyze 35 variables including the biomarker, EHR and laboratory variables. In the past, many researchers believed that clinical indicators with significant statistical differences may be closely related to the disease and can be used to construct diagnostic models. However, studies have increasingly found that it is not objective and may result in wasting data resources and even misleading decisions (
+ <xref rid="B3" ref-type="bibr">Amrhein et al., 2019</xref>; 
+ <xref rid="B11" ref-type="bibr">Griffiths and Needleman, 2019</xref>). Independent of the variable selection based on statistical significance, LASSO shrinks the coefficients of the variables by regularization to select and obtain an effective and concise set of variables with coefficients greater than 0 (
+ <xref rid="B30" ref-type="bibr">Vreeman et al., 2015</xref>). This method can effectively avoid over-fitting based on the significance difference and prevent the influence of factors like the number of variables, different orders of magnitude, various units and possible co-linearity between the indicators in the classical analysis methods, which ensures the stability of the model when new samples are used for verification (
+ <xref rid="B20" ref-type="bibr">Privé et al., 2019</xref>). Finally, a panel of optimal and representative variables are obtained (n344917 expression, age, CT calcification, cough, TB-IGRA, and low-grade fever and weight loss). Among these predictors, n344917 still plays an important role in the model [NRI and IDI indexes are 0.121 and 0.1103, respectively, (
+ <italic>P</italic> &lt; 0.05)].
+</p>

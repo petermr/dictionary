@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Reck</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Rodriguez-Abreu</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Robinson</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>Hui</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Csoszi</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Fulop</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Pembrolizumab Versus Chemotherapy for PD-L1-Positive non-Small-Cell Lung Cancer</article-title>. 
+  <source>N Engl J Med</source> (
+  <year>2016</year>) 
+  <volume>375</volume>(
+  <issue>19</issue>):
+  <page-range>1823–33</page-range>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1606774</pub-id>
+ </mixed-citation>
+</ref>

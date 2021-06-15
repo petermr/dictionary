@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cobo-Calvo</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Ruiz</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Maillart</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Audoin</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Zephir</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Bourre</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Clinical spectrum and prognostic value of CNS MOG autoimmunity in adults: the MOGADOR study</article-title>. 
+  <source>Neurology.</source> (
+  <year>2018</year>) 
+  <volume>90</volume>:
+  <fpage>e1858</fpage>–
+  <lpage>69</lpage>. 
+  <pub-id pub-id-type="doi">10.1212/WNL.0000000000005560</pub-id>
+  <?supplied-pmid 29695592?>
+  <pub-id pub-id-type="pmid">29695592</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B22">
+ <label>22.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Grippo</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Assenza</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Scarpino</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Broglia</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Cilea</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Galimberti</surname>
+    <given-names>CA</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Electroencephalography during SARS-CoV-2 outbreak: practical recommendations from the task force of the Italian Society of Neurophysiology (SINC), the Italian League Against Epilepsy (LICE), and the Italian Association of Neurophysiology Technologists (AITN)</article-title>. 
+  <source>Neurol Sci.</source> (
+  <year>2020</year>) 
+  <volume>41</volume>:
+  <fpage>2345</fpage>–
+  <lpage>51</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/s10072-020-04585-1</pub-id>
+  <?supplied-pmid 32696088?>
+  <pub-id pub-id-type="pmid">32696088</pub-id>
+ </mixed-citation>
+</ref>

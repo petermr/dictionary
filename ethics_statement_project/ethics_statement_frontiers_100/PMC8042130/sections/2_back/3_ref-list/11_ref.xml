@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Coriat</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Richer</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Douraki</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Gomez</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Hendricks</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Giudicelli</surname>
+    <given-names>JF</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Influence of chronic angiotensin-converting enzyme inhibition on anesthetic induction</article-title>. 
+  <source>Anesthesiology.</source> (
+  <year>1994</year>) 
+  <volume>81</volume>:
+  <fpage>299</fpage>–
+  <lpage>307</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/00000542-199408000-00006</pub-id>
+  <?supplied-pmid 8053578?>
+  <pub-id pub-id-type="pmid">8053578</pub-id>
+ </mixed-citation>
+</ref>

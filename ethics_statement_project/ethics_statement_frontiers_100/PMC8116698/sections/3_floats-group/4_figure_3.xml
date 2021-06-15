@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F3" position="float">
+ <label>Figure 3</label>
+ <caption>
+  <p>Example of simulation results of patient 11. The pressure ratio in the arteries distal to aneurysm became higher after the aneurysm was obliterated. 
+   <bold>(A)</bold> The pressure ratio before obliteration of the aneurysm. 
+   <bold>(B)</bold> The pressure ratio after obliteration of the aneurysm.
+  </p>
+ </caption>
+ <graphic xlink:href="fneur-12-632066-g0003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

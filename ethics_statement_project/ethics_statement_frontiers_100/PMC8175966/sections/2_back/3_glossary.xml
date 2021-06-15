@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <def-list>
+  <title>Abbreviations</title>
+  <def-item>
+   <term>IGRA</term>
+   <def>
+    <p>interferon-gamma release assay</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IBD</term>
+   <def>
+    <p>inflammatory bowel disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LTBI</term>
+   <def>
+    <p>latent tuberculosis infection</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TNF</term>
+   <def>
+    <p>tumor necrosis factor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CD</term>
+   <def>
+    <p>Crohn's disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>UC</term>
+   <def>
+    <p>ulcerative colitis</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IBD</term>
+   <def>
+    <p>inflammatory bowel disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BCG</term>
+   <def>
+    <p>bacille Calmette–Guérin</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TST</term>
+   <def>
+    <p>tuberculin skin test</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Mtb</term>
+   <def>
+    <p>
+     <italic>Mycobacterium tuberculosis</italic>.
+    </p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

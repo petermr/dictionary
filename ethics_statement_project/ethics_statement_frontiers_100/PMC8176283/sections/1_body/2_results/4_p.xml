@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>we call a PRS++ model, where 
+ <bold>height.m</bold> and 
+ <bold>height.f</bold> denote the heights of mother and father, respectively, 
+ <bold>PRS.2.m</bold> and 
+ <bold>PRS.2.f</bold> denote the PRS of mother and father, respectively, and ε is a random error term in the model that captures measurement errors, such as variation of height across different time in the day. Of note, the average 
+ <italic>R</italic>
+ <sup>2</sup>
+ <sub>cv</sub> of PRS++ over 50-fold cross-validation in UKB data was ∼0.82, which is higher than any other study that has been reported to our knowledge. To quantify the additional benefit of including parental information in the model, we removed the parental contribution from the model and observed a decrease in the average of 
+ <italic>R</italic>
+ <sup>2</sup>
+ <sub>cv</sub> from ∼0.82 to ∼0.73, see more comparisons of different models in 
+ <xref rid="T3" ref-type="table">Table 3</xref>.
+</p>

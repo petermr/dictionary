@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sosman</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>KB</given-names>
+   </name>
+   <name>
+    <surname>Schuchter</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Gonzalez</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Pavlick</surname>
+    <given-names>AC</given-names>
+   </name>
+   <name>
+    <surname>Weber</surname>
+    <given-names>JS</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Survival in BRAF V600–mutant advanced melanoma treated with vemurafenib</article-title>. 
+  <source>New Engl J Med</source> (
+  <year>2012</year>) 
+  <volume>366</volume>(
+  <issue>8</issue>):
+  <page-range>707–14</page-range>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1112302</pub-id>
+ </mixed-citation>
+</ref>

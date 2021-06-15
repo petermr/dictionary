@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Bootstrapping mediation analysis can provide confidence intervals to examine the indirect effects. One of the preferred bootstrapping mediation analysis methods is bias-corrected bootstrapping (
+ <xref rid="B88" ref-type="bibr">Williams and MacKinnon, 2008</xref>), which is used in this study. As shown in 
+ <xref rid="T5" ref-type="table">Table 5</xref>, the total effect SR→BI, 
+ <italic>p</italic> &gt; 0.05, bias-corrected confidence interval (CI) does include zero [CI of SR→BI = (–0.051, 0.448)]. The existence of total effect was not supported. It was not necessary to test the mediation effect. The total effect ER→BI, 
+ <italic>p</italic> &lt; 0.05, bias-corrected CI does not include zero [CI of ER→BI = (0.281, 0.919)]. The existence of total effect was supported. The indirect effect EE→CU→BI, 
+ <italic>p</italic> &gt; 0.05, both bias-corrected CI includes zero [CI of EE→CU→BI = (–0.036, 0.163)]. Consequently, the hypothesis of the existence of indirect effect was not supported. The indirect effect EE→JP→BI bias-corrected CI does not include zero [CI of EE→JP→BI = (0.094, 0.652)]. Thus, the hypothesis of the existence of indirect effect was supported. The indirect effect ENV→PU→BI bias-corrected CI does not include zero [CI of EE→PU→BI = (0.007, 0.405)]. Therefore, the hypothesis of the existence of indirect effect was supported. The indirect effect ENV→SN→BI bias-corrected CI does not include zero [CI of ENV→SN→CU = (0.007, 0.25)]. Consequently, the hypothesis of the existence of indirect effect was supported. The indirect effect ENV→PBC→BI bias-corrected CI does not include zero [CI of ENV→PBC→BI = (0.037, 0.401)]. Accordingly, the hypothesis of the existence of indirect effect was supported.
+</p>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brody</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Klein</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Molina</surname>
+    <given-names>PL</given-names>
+   </name>
+   <name>
+    <surname>Quan</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Bean</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Wilmott</surname>
+    <given-names>RW</given-names>
+   </name>
+  </person-group>. 
+  <article-title>High-resolution computed tomography in young patients with cystic fibrosis: distribution of abnormalities and correlation with pulmonary function tests</article-title>. 
+  <source>J Pediatrics</source>. (
+  <year>2004</year>) 
+  <volume>145</volume>:
+  <fpage>32</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.jpeds.2004.02.038</pub-id>
+  <?supplied-pmid 15238903?>
+  <pub-id pub-id-type="pmid">15238903</pub-id>
+ </mixed-citation>
+</ref>

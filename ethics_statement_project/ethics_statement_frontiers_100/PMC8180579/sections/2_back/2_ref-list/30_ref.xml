@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B30">
+ <label>30.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ding</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Fatehi</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Russell</surname>
+    <given-names>AW</given-names>
+   </name>
+   <name>
+    <surname>Karunanithi</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Menon</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Bird</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>User experience of an innovative mobile health program to assist in insulin dose adjustment: outcomes of a proof-of-concept trial</article-title>. 
+  <source>Telemed eHealth.</source> (
+  <year>2018</year>) 
+  <volume>24</volume>:
+  <fpage>536</fpage>–
+  <lpage>43</lpage>. 
+  <pub-id pub-id-type="doi">10.1089/tmj.2017.0190</pub-id>
+  <?supplied-pmid 29261476?>
+  <pub-id pub-id-type="pmid">29261476</pub-id>
+ </mixed-citation>
+</ref>

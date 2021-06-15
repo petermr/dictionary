@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Analysis of differences between team sports disciplines for individual personality traits.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="top" rowspan="3" colspan="1">Disciplines</th>
+    <th align="center" valign="top" colspan="10" rowspan="1">Personality traits</th>
+   </tr>
+   <tr>
+    <th align="center" valign="top" colspan="2" rowspan="1">Neuroticism</th>
+    <th align="center" valign="top" colspan="2" rowspan="1">Extraversion</th>
+    <th align="center" valign="top" colspan="2" rowspan="1">Openness to experience</th>
+    <th align="center" valign="top" colspan="2" rowspan="1">Agreeableness</th>
+    <th align="center" valign="top" colspan="2" rowspan="1">Conscientiousness</th>
+   </tr>
+   <tr>
+    <th align="center" valign="top" rowspan="1" colspan="1">
+     <italic>M</italic>
+    </th>
+    <th align="center" valign="top" rowspan="1" colspan="1">
+     <italic>SD</italic>
+    </th>
+    <th align="center" valign="top" rowspan="1" colspan="1">
+     <italic>M</italic>
+    </th>
+    <th align="center" valign="top" rowspan="1" colspan="1">
+     <italic>SD</italic>
+    </th>
+    <th align="center" valign="top" rowspan="1" colspan="1">
+     <italic>M</italic>
+    </th>
+    <th align="center" valign="top" rowspan="1" colspan="1">
+     <italic>SD</italic>
+    </th>
+    <th align="center" valign="top" rowspan="1" colspan="1">
+     <italic>M</italic>
+    </th>
+    <th align="center" valign="top" rowspan="1" colspan="1">
+     <italic>SD</italic>
+    </th>
+    <th align="center" valign="top" rowspan="1" colspan="1">
+     <italic>M</italic>
+    </th>
+    <th align="center" valign="top" rowspan="1" colspan="1">
+     <italic>SD</italic>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">American football (
+     <italic>n</italic> = 30)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">14.97</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.58</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">31.67</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.74</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">26.87</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.08</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">29.63</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">7.81</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">32.33</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.14</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Futsal (
+     <italic>n</italic> = 0)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">14.07</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">7.20</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">31.73</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.78</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">24.60</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.01</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">28.10</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.54</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">33.23</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">7.57</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Basketball (
+     <italic>n</italic> = 30)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">15.03</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.54</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">32.63</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.75</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">25.87</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.38</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">29.87</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.21</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">35.57</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.82</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Football (
+     <italic>n</italic> = 30)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">11.23</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.35</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">34.27</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.59</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">25.13</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.64</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">28.70</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.77</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">36.67</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.17</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Handball (
+     <italic>n</italic> = 30)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">14.17</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.01</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">31.07</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.45</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">25.57</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.67</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">27.83</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.09</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">29.90</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.58</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Indoor volleyball (
+     <italic>n</italic> = 30)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">13.90</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.26</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">33.30</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.26</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">27.03</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.30</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">25.17</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.71</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">32.77</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.84</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Beach volleyball (
+     <italic>n</italic> = 30)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">14.47</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.84</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">30.63</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.19</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">26.40</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">7.06</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">28.93</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.43</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">34.27</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.58</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Rugby (
+     <italic>n</italic> = 30)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">11.23</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.35</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">32.83</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.25</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">24.87</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.83</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">28.10</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.30</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">35.77</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.73</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Ultimate frisbee (
+     <italic>n</italic> = 30)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">19.63</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.86</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">28.83</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.43</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">23.50</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.81</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">26.87</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.75</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">28.33</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.97</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Floorball (
+     <italic>n</italic> = 30)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">18.40</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">7.73</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">30.83</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.81</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">24.70</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.90</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">29.80</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.37</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">33.03</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.68</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>F</italic>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">9.90
+     <xref rid="tfn1" ref-type="table-fn">
+      <sup>*</sup>
+     </xref>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">2.53
+     <xref rid="tfn1" ref-type="table-fn">
+      <sup>*</sup>
+     </xref>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">1.24
+     <xref rid="tfn1" ref-type="table-fn">
+      <sup>*</sup>
+     </xref>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">2.17
+     <xref rid="tfn1" ref-type="table-fn">
+      <sup>*</sup>
+     </xref>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">5.21</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>df</italic>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">9; 117.74</td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">9; 117.78</td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">9; 117.75</td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">9; 117.87</td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">9; 290</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">&lt;0.001</td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">0.008</td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">0.078</td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">0.003</td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">&lt;0.001</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>η</italic>
+     <sup>2</sup>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">0.18</td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">0.07</td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">0.04</td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">0.06</td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">0.14</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tfn1">
+   <label>*</label>
+   <p>
+    <italic>Correction for heterogeneity of variance.</italic>
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-formula id="S3.Ex1">
+ <math id="M1">
+  <mrow>
+   <mtext>Risk</mtext>
+   <mo>=</mo>
+   <mn>1</mn>
+   <mo>/</mo>
+   <mrow>
+    <mo stretchy="false">(</mo>
+    <mn>1</mn>
+    <mo>+</mo>
+    <mi>e</mi>
+    <mi>x</mi>
+    <mi>p</mi>
+    <mrow>
+     <mo stretchy="false">(</mo>
+     <mo>-</mo>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mn>0.4674133</mn>
+      <mo>-</mo>
+      <mn>0.4849920</mn>
+      <mo>*</mo>
+      <mi>n</mi>
+      <mn>344917</mn>
+     </mrow>
+    </mrow>
+   </mrow>
+  </mrow>
+ </math>
+</disp-formula>

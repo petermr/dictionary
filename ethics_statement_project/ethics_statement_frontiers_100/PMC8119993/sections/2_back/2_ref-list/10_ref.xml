@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lokker</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>McKibbon</surname>
+    <given-names>KA</given-names>
+   </name>
+   <name>
+    <surname>Wilczynski</surname>
+    <given-names>NL</given-names>
+   </name>
+   <name>
+    <surname>Haynes</surname>
+    <given-names>RB</given-names>
+   </name>
+   <name>
+    <surname>Ciliska</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Dobbins</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Finding knowledge translation articles in CINAHL</article-title>. 
+  <source>MedInfo.</source> (
+  <year>2010</year>) 
+  <volume>160</volume>:
+  <fpage>1179</fpage>–
+  <lpage>83</lpage>. 
+  <pub-id pub-id-type="doi">10.3233/978-1-60750-588-4-1179</pub-id>
+  <?supplied-pmid 20841870?>
+  <pub-id pub-id-type="pmid">20841870</pub-id>
+ </mixed-citation>
+</ref>

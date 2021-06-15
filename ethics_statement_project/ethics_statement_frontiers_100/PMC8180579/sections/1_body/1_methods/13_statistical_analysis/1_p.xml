@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The normal quantitative variables (checked via the Kolmogorov–Smirnov normality test) will be described using mean and standard deviation. The rest of data will be described using median and interquartile range. To compare the two research groups in terms of the mean difference of quantitative variables, if the normality assumption is met, an independent-sample 
+ <italic>T</italic>-test will be run. Otherwise, Mann–Whitney 
+ <italic>U</italic>-test will be employed. To test the homogeneity of qualitative variables in the two groups, the Chi-squared test and Fisher's exact test will be run at the 
+ <italic>p</italic>-value of 0.05. Repeated-measures or equivalent non-parametric tests will be employed for the continuous outcomes measured repeatedly. All these tests will be two-tailed at a 5 % significance level. Statistical analyses will be done in SPSS22. The analysis will be conducted on an intention to treat. No interim analyses are planned.
+</p>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ackermann</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Verleden</surname>
+    <given-names>SE</given-names>
+   </name>
+   <name>
+    <surname>Kuehnel</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Haverich</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Welte</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Laenger</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Pulmonary vascular endothelialitis, thrombosis, and angiogenesis in Covid-19</article-title>. 
+  <source>N Engl J Med</source>. (
+  <year>2020</year>) 
+  <volume>383</volume>:
+  <fpage>120</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMoa2015432</pub-id>
+  <?supplied-pmid 32437596?>
+  <pub-id pub-id-type="pmid">32437596</pub-id>
+ </mixed-citation>
+</ref>

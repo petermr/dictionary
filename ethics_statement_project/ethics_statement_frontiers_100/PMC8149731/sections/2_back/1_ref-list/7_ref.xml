@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Gheblawi</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Oudit</surname>
+    <given-names>GY</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Angiotensin converting enzyme 2: a double-edged sword</article-title>. 
+  <source>Circulation</source>. (
+  <year>2020</year>) 
+  <volume>142</volume>:
+  <fpage>426</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.120.047049</pub-id>
+  <?supplied-pmid 32844337?>
+  <pub-id pub-id-type="pmid">32213097</pub-id>
+ </mixed-citation>
+</ref>

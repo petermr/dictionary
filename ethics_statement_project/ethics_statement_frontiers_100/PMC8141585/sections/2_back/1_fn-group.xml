@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fn-group>
+ <fn id="fn001">
+  <p>
+   <sup>1</sup>
+   <ext-link ext-link-type="uri" xlink:href="https://aspredicted.org/" xmlns:xlink="http://www.w3.org/1999/xlink">https://aspredicted.org/</ext-link>
+  </p>
+ </fn>
+ <fn id="fn002">
+  <p>
+   <sup>2</sup>
+   <ext-link ext-link-type="uri" xlink:href="https://aspredicted.org/im3v5.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">https://aspredicted.org/im3v5.pdf</ext-link>
+  </p>
+ </fn>
+ <fn id="fn003">
+  <p>
+   <sup>3</sup>
+   <ext-link ext-link-type="uri" xlink:href="https://osf.io/gctdf/" xmlns:xlink="http://www.w3.org/1999/xlink">https://osf.io/gctdf/</ext-link>
+  </p>
+ </fn>
+ <fn id="fn004">
+  <p>
+   <sup>4</sup>
+   <ext-link ext-link-type="uri" xlink:href="http://www.gorilla.sc" xmlns:xlink="http://www.w3.org/1999/xlink">www.gorilla.sc</ext-link>
+  </p>
+ </fn>
+ <fn id="fn005">
+  <p>
+   <sup>5</sup>
+   <ext-link ext-link-type="uri" xlink:href="http://www.prolific.co" xmlns:xlink="http://www.w3.org/1999/xlink">www.prolific.co</ext-link>
+  </p>
+ </fn>
+</fn-group>

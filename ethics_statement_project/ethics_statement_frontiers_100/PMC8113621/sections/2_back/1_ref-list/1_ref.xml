@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>De Alava</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Gerald</surname>
+    <given-names>WL</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Molecular biology of the Ewing's sarcoma/primitive neuroectodermal tumor family</article-title>. 
+  <source>J Clin Oncol.</source> (
+  <year>2000</year>) 
+  <volume>18</volume>:
+  <fpage>204</fpage>–
+  <lpage>13</lpage>. 
+  <pub-id pub-id-type="doi">10.1200/JCO.2000.18.1.204</pub-id>
+  <?supplied-pmid 10623711?>
+  <pub-id pub-id-type="pmid">10623711</pub-id>
+ </mixed-citation>
+</ref>

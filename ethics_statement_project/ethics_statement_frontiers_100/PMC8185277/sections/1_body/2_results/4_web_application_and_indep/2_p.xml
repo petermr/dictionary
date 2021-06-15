@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Furthermore, this study included 267 patients (77 clinically diagnosed PTB and 140 non-TB DC, 50 PTB with an aetiological evidence) in an independent validation cohort for evaluating the performance of the web-based application (
+ <xref ref-type="fig" rid="F1">Figure 1</xref>). The NRI and IDI indexes were 0.121 and 0.1103, respectively, (
+ <italic>P</italic> &lt; 0.05), indicating that the predictive performance was significantly improved after adding n344917. The comparison between the prediction results and the follow-up results showed that the model has a sensitivity of 88.98%, a specificity of 86.43%, a positive predictive value of 85.61%, and a negative predictive value of 89.63%; plus, the AUC value was 0.88 (
+ <xref ref-type="fig" rid="F5">Figure 5A</xref>). The calibration curve showed the deviation between the fitting curve and the actual curve to be insignificant (
+ <xref ref-type="fig" rid="F5">Figure 5B</xref>). In the DCA (
+ <xref ref-type="fig" rid="F5">Figure 5C</xref>), the vertical axis is the net benefit, while the horizontal axis is the probability threshold. The curve with the highest net benefit may offer the optimal treatment choice and can assist clinicians in making appropriate therapeutic decisions. These findings indicate that the web application exhibits high net benefits when the threshold probability falls between 20 and 80%.
+</p>

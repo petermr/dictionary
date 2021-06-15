@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15">
+ <label>15.</label>
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <collab>LimeSurvey Project Team/Carsten Schmitz</collab>
+  </person-group>. 
+  <source>LimeSurvey: An Open Source Survey Tool</source>. 
+  <publisher-loc>Hamburg</publisher-loc> (
+  <year>2012</year>). Available online at: 
+  <ext-link ext-link-type="uri" xlink:href="http://www.limesurvey.org" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.limesurvey.org</ext-link>
+ </mixed-citation>
+</ref>

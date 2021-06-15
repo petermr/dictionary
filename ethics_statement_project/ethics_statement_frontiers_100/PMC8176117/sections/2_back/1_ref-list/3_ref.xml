@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Siegel</surname>
+    <given-names>RL</given-names>
+   </name>
+   <name>
+    <surname>Miller</surname>
+    <given-names>KD</given-names>
+   </name>
+   <name>
+    <surname>Jemal</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Cancer Statistics, 2020</article-title>. 
+  <source>CA Cancer J Clin</source> (
+  <year>2020</year>) 
+  <volume>70</volume>(
+  <issue>1</issue>):
+  <fpage>7</fpage>–
+  <lpage>30</lpage>. 
+  <pub-id pub-id-type="doi">10.3322/caac.21590</pub-id>
+  <pub-id pub-id-type="pmid">31912902</pub-id>
+ </mixed-citation>
+</ref>

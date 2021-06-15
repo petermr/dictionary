@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Normality was tested with the Shapiro-Wilk test. Since most variables showed no normal distribution, continuous variables are displayed as median (minimum-maximum) and categorical variables are displayed as count (percentage). Accordingly, for univariable group comparison, logistic regression (Odds ratio, CI 95%) with 
+ <italic>p</italic> &lt; 0.05 considered as statistically significant.
+</p>

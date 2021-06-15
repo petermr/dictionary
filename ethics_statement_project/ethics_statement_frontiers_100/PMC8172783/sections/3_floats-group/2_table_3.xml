@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T3" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Pearson's correlation between the dimensions scores of family dynamics and total scores of grandparents' anxiety-depression. (
+   <italic>r</italic>).
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>GDS</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>SAS</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Family atmosphere</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.012</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.079</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">The system logic</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.162
+     <xref ref-type="table-fn" rid="TN2">
+      <sup>**</sup>
+     </xref>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.155
+     <xref ref-type="table-fn" rid="TN2">
+      <sup>**</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Individuation</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.039</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.103
+     <xref ref-type="table-fn" rid="TN1">
+      <sup>*</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">The concept of disease</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.127
+     <xref ref-type="table-fn" rid="TN1">
+      <sup>*</sup>
+     </xref>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.145
+     <xref ref-type="table-fn" rid="TN2">
+      <sup>**</sup>
+     </xref>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="TN1">
+   <label>*</label>
+   <p>
+    <italic>P &lt; 0.01</italic>.
+   </p>
+  </fn>
+  <fn id="TN2">
+   <label>**</label>
+   <p>
+    <italic>P &lt; 0.05</italic>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

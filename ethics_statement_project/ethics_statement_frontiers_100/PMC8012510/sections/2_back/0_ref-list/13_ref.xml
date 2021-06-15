@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B13">
+ <label>13.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hyland</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Shevlin</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>McBride</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Murphy</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Karatzias</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Bentall</surname>
+    <given-names>RP</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Anxiety and depression in the Republic of Ireland during the COVID-19 pandemic</article-title>. 
+  <source>Acta Psychiatr Scand.</source> (
+  <year>2020</year>) 
+  <volume>142</volume>:
+  <fpage>249</fpage>–
+  <lpage>56</lpage>. 
+  <pub-id pub-id-type="doi">10.1111/acps.13219</pub-id>
+  <?supplied-pmid 32716520?>
+  <pub-id pub-id-type="pmid">32716520</pub-id>
+ </mixed-citation>
+</ref>

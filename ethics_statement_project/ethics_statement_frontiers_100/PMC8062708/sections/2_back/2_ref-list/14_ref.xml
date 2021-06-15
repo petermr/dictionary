@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B14">
+ <label>14.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pollán</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Pérez-Gómez</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Pastor-Barriuso</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Oteo</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Hernán</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Pérez-Olmeda</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study</article-title>. 
+  <source>Lancet</source>. (
+  <year>2020</year>) 
+  <volume>396</volume>:
+  <fpage>535</fpage>–
+  <lpage>44</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(20)31483-5</pub-id>
+  <?supplied-pmid 32645347?>
+  <pub-id pub-id-type="pmid">32645347</pub-id>
+ </mixed-citation>
+</ref>

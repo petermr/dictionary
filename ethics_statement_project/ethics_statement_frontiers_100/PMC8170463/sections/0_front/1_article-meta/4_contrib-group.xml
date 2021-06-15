@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Arjmand</surname>
+   <given-names>Hussain-Abdulah</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref rid="c001" ref-type="corresp">
+   <sup>*</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="https://loop.frontiersin.org/people/1156275/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Seabrook</surname>
+   <given-names>Elizabeth</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="https://loop.frontiersin.org/people/1061933/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bakker</surname>
+   <given-names>David</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rickard</surname>
+   <given-names>Nikki</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">
+   <sup>4</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff5">
+   <sup>5</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="https://loop.frontiersin.org/people/206956/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+</contrib-group>

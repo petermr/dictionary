@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sudlow</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Gallacher</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Allen</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Beral</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Burton</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Danesh</surname>
+    <given-names>J.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2015</year>). 
+  <article-title>UK biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age.</article-title>
+  <source>
+   <italic>PLos Med.</italic>
+  </source>
+  <volume>12</volume>:
+  <issue>e1001779</issue>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pmed.1001779</pub-id>
+  <?supplied-pmid 25826379?>
+  <pub-id pub-id-type="pmid">25826379</pub-id>
+ </mixed-citation>
+</ref>

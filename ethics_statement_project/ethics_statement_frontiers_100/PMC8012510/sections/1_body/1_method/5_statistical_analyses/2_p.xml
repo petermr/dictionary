@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The non-parametric tests and regression analyses were computed using the free and open-source statistical platform jamovi (
+ <xref rid="B24" ref-type="bibr">24</xref>), based on the R programming language for statistical computing (
+ <xref rid="B25" ref-type="bibr">25</xref>) with the GAMLj jamovi module (
+ <xref rid="B26" ref-type="bibr">26</xref>). The plots were prepared using the sjPlot R package (
+ <xref rid="B27" ref-type="bibr">27</xref>).
+</p>

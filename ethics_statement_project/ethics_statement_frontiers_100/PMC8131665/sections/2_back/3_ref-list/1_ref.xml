@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Jin</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Fei</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Quan</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>verification and analysis of sheep tail type-associated gene polymorphisms</article-title>. 
+  <source>Animals.</source> (
+  <year>2020</year>) 
+  <volume>10</volume>:
+  <fpage>89</fpage>. 
+  <pub-id pub-id-type="doi">10.3390/ani10010089</pub-id>
+  <?supplied-pmid 31935823?>
+  <pub-id pub-id-type="pmid">31935823</pub-id>
+ </mixed-citation>
+</ref>

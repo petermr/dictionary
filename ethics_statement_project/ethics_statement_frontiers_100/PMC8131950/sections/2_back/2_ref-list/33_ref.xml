@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B33">
+ <label>33.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Smith</surname>
+    <given-names>FB</given-names>
+   </name>
+   <name>
+    <surname>Kikkawa</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Diglio</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Dalen</surname>
+    <given-names>RC</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Increased saturated phospholipid in cultured cells grown with linoleic acid</article-title>. 
+  <source>In Vitro.</source> (
+  <year>1982</year>) 
+  <volume>18</volume>:
+  <fpage>331</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/BF02796331</pub-id>
+  <?supplied-pmid 7118125?>
+  <pub-id pub-id-type="pmid">7118125</pub-id>
+ </mixed-citation>
+</ref>

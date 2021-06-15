@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Flemming</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Murphey</surname>
+    <given-names>MD</given-names>
+   </name>
+  </person-group> editors. 
+  <source>Enchondroma and Chondrosarcoma. Seminars in Musculoskeletal Radiology</source>. 
+  <publisher-loc>New York, NY</publisher-loc>: 
+  <publisher-name>Thieme Medical Publishers Inc</publisher-name>. (
+  <year>2000</year>). 
+  <pub-id pub-id-type="doi">10.1055/s-2000-6855</pub-id>
+ </mixed-citation>
+</ref>

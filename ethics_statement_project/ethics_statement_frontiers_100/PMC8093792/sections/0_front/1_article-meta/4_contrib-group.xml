@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Charbonnier</surname>
+   <given-names>Guillaume</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="corresp" rid="c001">
+   <sup>*</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1047034/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Desilles</surname>
+   <given-names>Jean-Philippe</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Escalard</surname>
+   <given-names>Simon</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/655251/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Maier</surname>
+   <given-names>Benjamin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ciccio</surname>
+   <given-names>Gabriele</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1080789/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Smajda</surname>
+   <given-names>Stanislas</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/836565/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fahed</surname>
+   <given-names>Robert</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Delvoye</surname>
+   <given-names>François</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Redjem</surname>
+   <given-names>Hocine</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Blanc</surname>
+   <given-names>Raphaël</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Piotin</surname>
+   <given-names>Michel</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mazighi</surname>
+   <given-names>Mikael</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+</contrib-group>

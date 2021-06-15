@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Giuliano</surname>
+    <given-names>AE</given-names>
+   </name>
+   <name>
+    <surname>Connolly</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Edge</surname>
+    <given-names>SB</given-names>
+   </name>
+   <name>
+    <surname>Mittendorf</surname>
+    <given-names>EA</given-names>
+   </name>
+   <name>
+    <surname>Rugo</surname>
+    <given-names>HS</given-names>
+   </name>
+   <name>
+    <surname>Solin</surname>
+    <given-names>LJ</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Breast Cancer-Major changes in the American Joint Committee on Cancer eighth edition cancer staging manual</article-title>. 
+  <source>CA Cancer J Clin</source>. (
+  <year>2017</year>) 
+  <volume>67</volume>:
+  <fpage>290</fpage>–
+  <lpage>303</lpage>. 
+  <pub-id pub-id-type="doi">10.3322/caac.21393</pub-id>
+  <?supplied-pmid 28689371?>
+  <pub-id pub-id-type="pmid">28294295</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Baseline characteristics of patients with spinal infection and brain infection.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Patients' characteristics</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Brain infection</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>No brain infection</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>P</italic>-value
+     </bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">No., 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2 (3.3)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">59 (96.7)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Age</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">64.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">68.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.9</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sex, male, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2 (100)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">42 (71.2)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="4" rowspan="1">Location</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Cervical, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1 (50)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8 (13.5)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.3</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Thoracic, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14 (23.7)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    lumbar, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1 (50)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">37 (72.7)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="4" rowspan="1">Affected level</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    1, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">46 (78)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    2, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1 (50)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6 (10.2)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.2</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    &gt;2, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1 (50)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7 (11.9)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Spinal epidural abscess, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2 (100)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">30 (50.8)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Positive blood culture, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2 (100)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">27 (45.8)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.2</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Endocarditis, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">23 (39)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Diabetes, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9 (15.3)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sepsis, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2 (100)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10 (16.9)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.04</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">HIV, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2 (3.4)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Obesity, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14 (23.7)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">IDU, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1 (1.7)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">In hospital mortality, 
+     <italic>n</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2 (100)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4 (6.8)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.008</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

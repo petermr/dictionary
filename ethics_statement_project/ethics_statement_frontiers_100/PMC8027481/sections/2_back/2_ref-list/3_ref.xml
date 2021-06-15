@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3</label>
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Lakhani</surname>
+    <given-names>SR</given-names>
+   </name>
+   <name>
+    <surname>Ellis</surname>
+    <given-names>IO</given-names>
+   </name>
+   <name>
+    <surname>Schnitt</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Tan</surname>
+    <given-names>PH</given-names>
+   </name>
+   <name>
+    <surname>van de Vijver</surname>
+    <given-names>MJ</given-names>
+   </name>
+  </person-group> eds. 
+  <source>World Health Organization Classification of Tumours of the Breast</source> Vol. 
+  <volume>4</volume>. 
+  <publisher-loc>Lyon, France</publisher-loc>: 
+  <publisher-name>IARC</publisher-name> (
+  <year>2012</year>). World Health Organization Classification of Tumours.
+ </mixed-citation>
+</ref>

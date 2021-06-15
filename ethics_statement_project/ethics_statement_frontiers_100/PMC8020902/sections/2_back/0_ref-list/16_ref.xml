@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <label>16</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Song</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Hu</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Cheng</surname>
+    <given-names>JW</given-names>
+   </name>
+   <name>
+    <surname>Sun</surname>
+    <given-names>YF</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>KQ</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>PX</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Anlotinib suppresses tumor progression 
+   <italic>via</italic> blocking the VEGFR2/PI3K/AKT cascade in intrahepatic cholangiocarcinoma
+  </article-title>. 
+  <source>Cell Death Dis</source> (
+  <year>2020</year>) 
+  <volume>11:573</volume>.  
+  <pub-id pub-id-type="doi">10.1038/s41419-020-02749-7</pub-id>
+ </mixed-citation>
+</ref>

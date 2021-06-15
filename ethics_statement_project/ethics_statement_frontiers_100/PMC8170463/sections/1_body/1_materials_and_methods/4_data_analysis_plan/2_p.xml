@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A model building procedure was adopted to conduct MLM analyses for each ESR item. For each model, the suitability for MLM was confirmed with a likelihood ratio test comparing the goodness-of-fit between an intercept-only model and a random intercept-only model. Random-intercept MLMs were then conducted for all variables with dummy-variable fixed-effects coded for each time period (baseline, bushfires, and COVID-19). The first MLM utilized the baseline period as the comparator to assess baseline vs. bushfire and baseline vs. COVID-19 differences, while a second MLM utilized the bushfires period as the comparator to assess bushfire-vs-COVID-19 differences. Partially standardized coefficients were produced from these models to provide a comparable estimate of the magnitude of effects across outcomes (
+ <xref rid="ref15" ref-type="bibr">Lorah, 2018</xref>).
+</p>

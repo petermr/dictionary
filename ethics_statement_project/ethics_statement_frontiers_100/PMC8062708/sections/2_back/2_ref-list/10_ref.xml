@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Linares</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Garitano</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Santos</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Ramos</surname>
+    <given-names>JM</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Estimando el número de casos de COVID-19 a tiempo real utilizando un formulario web a través de las redes sociales: Proyecto COVID19-TRENDS</article-title>. 
+  <source>Semergen</source>. (
+  <year>2020</year>) 
+  <volume>46</volume>:
+  <fpage>114</fpage>–
+  <lpage>6</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.semerg.2020.04.001</pub-id>
+  <?supplied-pmid 32467013?>
+  <pub-id pub-id-type="pmid">32467013</pub-id>
+ </mixed-citation>
+</ref>

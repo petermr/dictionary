@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Harper</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Boyce</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Adler</surname>
+    <given-names>B</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Pasteurella multocida pathogenesis: 125 years after Pasteur</article-title>. 
+  <source>FEMS Microbiol Lett.</source> (
+  <year>2006</year>) 
+  <volume>265</volume>:
+  <fpage>1</fpage>–
+  <lpage>10</lpage>. 
+  <pub-id pub-id-type="doi">10.1111/j.1574-6968.2006.00442.x</pub-id>
+  <?supplied-pmid 17107417?>
+  <pub-id pub-id-type="pmid">17107417</pub-id>
+ </mixed-citation>
+</ref>

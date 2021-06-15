@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref1">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Anwyl-Irvine</surname>
+    <given-names>A. L.</given-names>
+   </name>
+   <name>
+    <surname>Massonnié</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Flitton</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Kirkham</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Evershed</surname>
+    <given-names>J. K.</given-names>
+   </name>
+  </person-group> (
+  <year>2020</year>). 
+  <article-title>Gorilla in our midst: an online behavioral experiment builder</article-title>. 
+  <source>Behav. Res. Methods</source>
+  <volume>52</volume>, 
+  <fpage>388</fpage>–
+  <lpage>407</lpage>. 
+  <pub-id pub-id-type="doi">10.3758/s13428-019-01237-x</pub-id>, PMID: 
+  <?supplied-pmid 31016684?>
+  <pub-id pub-id-type="pmid">31016684</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Demographic and clinical characteristics of IGRA converters among IBD patients treated with non-TNF inhibitors.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Patient 1</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Patient 2</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Patient 3</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Patient 4</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Patient 5</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Patient 6</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Age/sex</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">33/M</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">50/F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">36/F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">68/M</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">44/M</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">34/M</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">IBD type</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">CD</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">UC</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">UC</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">UC</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">UC</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">CD</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Disease duration, years</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">16.7</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">4.4</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">4.3</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">5.0</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">4.9</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">19.0</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Baseline chest radiograph</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Normal</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Normal</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Normal</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Normal</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Normal</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Normal</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Baseline QFT-GIT or QFT-Plus
+     <xref ref-type="table-fn" rid="TN2">
+      <sup>a</sup>
+     </xref> result (IU/ml)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">−0.38</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.27</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.07</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.04</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">−0.06, −0.03
+     <xref ref-type="table-fn" rid="TN2">
+      <sup>a</sup>
+     </xref>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.03, 0.05
+     <xref ref-type="table-fn" rid="TN2">
+      <sup>a</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Converted QFT-GIT or QFT-Plus
+     <xref ref-type="table-fn" rid="TN2">
+      <sup>a</sup>
+     </xref> result (IU/ml)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.60</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.92</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.55</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.17, 0.39
+     <xref ref-type="table-fn" rid="TN2">
+      <sup>a</sup>
+     </xref>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">2.20, 1.61
+     <xref ref-type="table-fn" rid="TN2">
+      <sup>a</sup>
+     </xref>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.38, 0.55
+     <xref ref-type="table-fn" rid="TN2">
+      <sup>a</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Non-TNF inhibitors administered</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">UST after VED</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">VED</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">VED</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">VED</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">VED</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">UST</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Interval from non-TNF inhibitor commencement to positive IGRA conversion, months</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">6.8</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">13.1</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">6.8</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">23.2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">13.8</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">18.2</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Previous history of TB</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">TB pleurisy</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Previous TB treatment</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Yes
+     <xref ref-type="table-fn" rid="TN3">
+      <sup>b</sup>
+     </xref>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Yes
+     <xref ref-type="table-fn" rid="TN4">
+      <sup>c</sup>
+     </xref>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Previous LTBI treatment</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Yes</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Previous TNF inhibitors before non-TNF inhibitor therapy</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">IFX, ADM</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">IFX</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">IFX</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">IFX</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">IFX</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">IFX</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Concomitant IST</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">MTX</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">AZAT</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">AZAT</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">AZAT</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Concomitant corticosteroids</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Yes</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Yes</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">LTBI treatment after IGRA conversion</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Yes</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Yes</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Interruption of non-TNF inhibitors due to IGRA conversion</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Maintenance duration of non-TNF inhibitors after IGRA conversion, months</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">32.1</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">23.6</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">11.0</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.4</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">1.8</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">2.6</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Development of active TB</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>IGRA, interferon-γ release assay; IBD, inflammatory bowel disease; TNF, tumor necrosis factor; M, male; F, female; CD, Crohn's disease; UC, ulcerative colitis; UST, ustekinumab; VED, vedolizumab; TB, tuberculosis; LTBI, latent tuberculosis infection; IFX, infliximab; ADM, adalimumab; IST, immunosuppressive therapy; MTX, methotrexate; AZAT, azathioprine</italic>.
+  </p>
+  <fn id="TN2">
+   <label>a</label>
+   <p>
+    <italic>QuantiFERON
+     <sup>®</sup>-TB Gold Plus result consists of antigen responses from both TB
+     <sub>1</sub> and TB
+     <sub>2</sub>. The first value represents response from TB
+     <sub>1</sub> and the second from TB
+     <sub>2</sub>
+    </italic>.
+   </p>
+  </fn>
+  <fn id="TN3">
+   <label>b</label>
+   <p>
+    <italic>Standard anti-tuberculosis therapeutic trial for 11 weeks for differentiation between Crohn's disease and intestinal tuberculosis</italic>.
+   </p>
+  </fn>
+  <fn id="TN4">
+   <label>c</label>
+   <p>
+    <italic>Standard anti-tuberculosis treatment for 9 months for tuberculous pleurisy</italic>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

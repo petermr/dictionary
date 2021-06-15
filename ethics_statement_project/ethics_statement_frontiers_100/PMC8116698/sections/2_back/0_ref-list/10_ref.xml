@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hoi</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Wasserman</surname>
+    <given-names>BA</given-names>
+   </name>
+   <name>
+    <surname>Xie</surname>
+    <given-names>YJ</given-names>
+   </name>
+   <name>
+    <surname>Najjar</surname>
+    <given-names>SS</given-names>
+   </name>
+   <name>
+    <surname>Ferruci</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Lakatta</surname>
+    <given-names>EG</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Characterization of volumetric flow rate waveforms at the carotid bifurcations of older adults</article-title>. 
+  <source>Physiol Meas.</source> (
+  <year>2010</year>) 
+  <volume>31</volume>:
+  <fpage>291</fpage>–
+  <lpage>302</lpage>. 
+  <pub-id pub-id-type="doi">10.1088/0967-3334/31/3/002</pub-id>
+  <?supplied-pmid 20086276?>
+  <pub-id pub-id-type="pmid">20086276</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The continuous variables were represented by the median (upper and lower quartiles), and the categorical variables were represented by the frequency (percentage). The Mann–Whitney 
+ <italic>U</italic> test and chi-square test were used to analyze the continuous variables and categorical variables, respectively. LASSO was used for feature selection. Multivariate logistic regression was used to construct the identification model. The LASSO algorithm was implemented using the “glmmet” package, and the logistic regression model was established using the “glm” package. The web-based application was built using the “shiny” package of R. All statistical analyses were done using R version 3.5.0.
+</p>

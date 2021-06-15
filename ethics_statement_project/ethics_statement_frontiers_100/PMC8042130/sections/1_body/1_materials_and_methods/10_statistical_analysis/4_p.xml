@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For the secondary outcomes, analysis will be conducted using generalized linear model for continuous variables or using multivariate logistic regression for binary variables, adjusting for the above-mentioned baseline covariates. The Benjamini-Hochberg procedure will be used to control the false-discovery rate for multiple comparisons. The 
+ <italic>P</italic>-values before and after correction will be presented. For the exploratory outcomes, only descriptive statistics will be applied, without multiple testing or statistical inference.
+</p>

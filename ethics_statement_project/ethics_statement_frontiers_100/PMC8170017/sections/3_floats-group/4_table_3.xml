@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T3" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Difference in pretest and posttest scores on the PILSEE between elementary school students (
+   <italic>n</italic> = 10,200) and junior high school students (
+   <italic>n</italic> = 306).
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" style="border-bottom: thin solid #000000;" rowspan="1" colspan="1">
+     <bold>Elementary</bold>
+    </th>
+    <th valign="top" align="center" style="border-bottom: thin solid #000000;" rowspan="1" colspan="1">
+     <bold>Junior high</bold>
+    </th>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Mean ± SD</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Mean ± SD</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>t</italic>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>P</italic>-value
+     </bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Total score</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.80 ± 10.66</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4.59 ± 10.00</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.95</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.051</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="5" rowspan="1">
+     <bold>Subscale scores</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Value of life</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.15 ± 2.17</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.03 ± 1.91</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.91</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.364</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Secrets of adolescence</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.03 ± 2.35</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.71 ± 1.89</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.88
+     <xref ref-type="table-fn" rid="TN5">
+      <sup>**</sup>
+     </xref>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.004</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Gender roles</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.57 ± 2.05</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.42 ± 1.68</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.55</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.121</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Friendship and love</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.62 ± 2.02</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.64 ± 1.91</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.20</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.844</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Myths of media</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.59 ± 1.58</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.50 ± 1.50</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.97</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.331</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Adolescent sexuality</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.92 ± 2.31</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.65 ± 2.12</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.96</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.050</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Views of marriage and sex</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.92 ± 2.24</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.62 ± 1.88</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.68
+     <xref ref-type="table-fn" rid="TN5">
+      <sup>**</sup>
+     </xref>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.008</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>SD, Standard deviation</italic>.
+  </p>
+  <fn id="TN5">
+   <label>**</label>
+   <p>
+    <italic>p &lt; 0.01</italic>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Aassve</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Alfani</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Gandolfi</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Le Moglie</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Epidemics and trust: the case of the spanish flu</article-title>. 
+  <source>Health Econ.</source> (
+  <year>2021</year>) 
+  <volume>30</volume>:
+  <fpage>840</fpage>–
+  <lpage>57</lpage>. 
+  <pub-id pub-id-type="doi">10.1002/hec4218</pub-id>
+  <?supplied-pmid 33554412?>
+  <pub-id pub-id-type="pmid">33554412</pub-id>
+ </mixed-citation>
+</ref>

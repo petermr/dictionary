@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>TABLE 2</label>
+ <caption>
+  <p>Characteristics of nine polygenic risk scores (PRS).</p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PRS</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Selection criteria</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Number of SNPs</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Correlation with height (
+     <italic>r</italic>)
+    </td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PRS.0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>P</italic> &lt; 5E-08 (2014)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">697</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.34</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PRS.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>P</italic> &lt; 5E-09 (2018)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3,290</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.38</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PRS.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>P</italic> &lt; 5E-02 (2018)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">30,615</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.47</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PRS.3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>P</italic> &lt; 5E-03 (2018)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18,432</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.45</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PRS.4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>P</italic> &lt; 5E-04 (2018)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12,657</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.44</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PRS.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>P</italic> &lt; 5E-05 (2018)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9,410</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.43</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PRS.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>P</italic> &lt; 5E-06 (2018)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7,349</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.42</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PRS.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>P</italic> &lt; 5E-07 (2018)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5,920</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.41</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PRS.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>P</italic> &lt; 5E-08 (2018)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4,932</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.41</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <attrib>
+   <italic>*All SNPs are independent, either based on the published paper or based on PLINK pruning methods used in this study. “(2014)” refers to ref. (
+    <xref rid="B11" ref-type="bibr">Wood et al., 2014</xref>) and “(2018)” refers to ref. (
+    <xref rid="B15" ref-type="bibr">Yengo et al., 2018</xref>).
+   </italic>
+  </attrib>
+ </table-wrap-foot>
+</table-wrap>

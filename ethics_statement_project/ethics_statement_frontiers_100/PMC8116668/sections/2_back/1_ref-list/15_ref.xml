@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15">
+ <label>15.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Huang</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Zuber</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Matthews</surname>
+    <given-names>PM</given-names>
+   </name>
+   <name>
+    <surname>Elliott</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Tzoulaki</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Dehghan</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Sleep, major depressive disorder, and Alzheimer disease: a Mendelian randomization study</article-title>. 
+  <source>Neurology.</source> (
+  <year>2020</year>) 
+  <volume>6:95</volume>:
+  <fpage>e1963</fpage>–
+  <lpage>70</lpage>. 
+  <pub-id pub-id-type="doi">10.1212/WNL.0000000000010463</pub-id>
+  <?supplied-pmid 32817390?>
+  <pub-id pub-id-type="pmid">32817390</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Byun</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>CK</given-names>
+   </name>
+   <name>
+    <surname>Rhee</surname>
+    <given-names>SY</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>HJ</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>JW</given-names>
+   </name>
+   <name>
+    <surname>Shim</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>The risk of tuberculosis in Korean patients with inflammatory bowel disease receiving tumor necrosis factor-alpha blockers</article-title>. 
+  <source>J Korean Med Sci.</source> (
+  <year>2015</year>) 
+  <volume>30</volume>:
+  <fpage>173</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.3346/jkms.2015.30.2.173</pub-id>
+  <?supplied-pmid 25653489?>
+  <pub-id pub-id-type="pmid">25653489</pub-id>
+ </mixed-citation>
+</ref>

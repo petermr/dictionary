@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Villa</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Miquel</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Mosses</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Bernier</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Di Stefano</surname>
+    <given-names>AL</given-names>
+   </name>
+  </person-group>. 
+  <article-title>The 2016 World Health Organization classification of tumours of the central nervous system</article-title>. 
+  <source>Presse Med.</source> (
+  <year>2018</year>) 
+  <volume>47</volume>:
+  <fpage>e187</fpage>–
+  <lpage>200</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.lpm.2018.04.015</pub-id>
+  <?supplied-pmid 30449638?>
+  <pub-id pub-id-type="pmid">30449638</pub-id>
+ </mixed-citation>
+</ref>

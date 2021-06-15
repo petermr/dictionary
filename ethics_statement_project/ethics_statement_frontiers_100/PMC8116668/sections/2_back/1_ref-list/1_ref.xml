@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Leng</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Wainwright</surname>
+    <given-names>NW</given-names>
+   </name>
+   <name>
+    <surname>Cappuccio</surname>
+    <given-names>FP</given-names>
+   </name>
+   <name>
+    <surname>Surtees</surname>
+    <given-names>PG</given-names>
+   </name>
+   <name>
+    <surname>Luben</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Wareham</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Self-reported sleep patterns in a British population cohort</article-title>. 
+  <source>Sleep Med.</source> (
+  <year>2014</year>) 
+  <volume>15</volume>:
+  <fpage>295</fpage>–
+  <lpage>302</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.sleep.2013.10.015</pub-id>
+  <?supplied-pmid 24503473?>
+  <pub-id pub-id-type="pmid">24503473</pub-id>
+ </mixed-citation>
+</ref>

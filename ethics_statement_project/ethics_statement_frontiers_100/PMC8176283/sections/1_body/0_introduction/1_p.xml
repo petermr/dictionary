@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The prediction of human height has long been of great interest to the medical research community and as a model for complex trait prediction. During the 20th century, much of the adulthood height prediction has been based on parental information ref. (
+ <xref rid="B12" ref-type="bibr">Wright and Cheetham, 1999</xref>), crudely estimated by doubling the height attained by age 2 or 18 months, for boys and girls, respectively. Over the past 20 years, with the emerging development and application of single nucleotide polymorphism (SNP) array technology, genetics has been widely explored to understand the underlying biology and to improve the prediction of adult height. First, in terms of variance explained and SNP heritability, three papers demonstrated increasing values: (
+ <xref rid="B12" ref-type="bibr">Wright and Cheetham, 1999</xref>) in 2010, 45% of variance was explained by ∼300,000 common SNPs ref. (
+ <xref rid="B14" ref-type="bibr">Yang et al., 2010</xref>) in 2015, 56% of variance was explained by ∼17 million imputed variants ref. (
+ <xref rid="B13" ref-type="bibr">Yang et al., 2015</xref>); and (
+ <xref rid="B13" ref-type="bibr">Yang et al., 2015</xref>) in 2017, 68.5% of SNP heritability based on the United Kingdom Biobank was estimated in ref. (
+ <xref rid="B2" ref-type="bibr">Ge et al., 2017</xref>). Then, in terms of observed prediction accuracy, the squared correlation between phenotype and predictor (
+ <italic>R</italic>
+ <sup>2</sup>) ranges from 0.17 ref. (
+ <xref rid="B11" ref-type="bibr">Wood et al., 2014</xref>) to 0.19 (0.442) ref. (
+ <xref rid="B15" ref-type="bibr">Yengo et al., 2018</xref>) and 0.53 ref. (
+ <xref rid="B4" ref-type="bibr">Lippert et al., 2017</xref>). A large R2 from the Lippert et al. study could be attributed to two factors: (1) inclusion of gender in the prediction model; (2) based on a cohort of participants of diverse ancestry.
+</p>

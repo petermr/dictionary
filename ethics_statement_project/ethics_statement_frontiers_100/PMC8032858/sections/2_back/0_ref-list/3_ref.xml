@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3.</label>
+ <mixed-citation publication-type="webpage">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cai</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Ivory</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Semple</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Lemonides</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Higgins</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Tracking Coronavirus Cases at U.S. Colleges and Universities</article-title>. 
+  <source>The New York Times</source> (2020, August 26). Available online at: 
+  <ext-link ext-link-type="uri" xlink:href="http://www.nytimes.com/interactive/2020/us/covid-college-cases-tracker.html" xmlns:xlink="http://www.w3.org/1999/xlink">www.nytimes.com/interactive/2020/us/covid-college-cases-tracker.html</ext-link>.
+ </mixed-citation>
+</ref>

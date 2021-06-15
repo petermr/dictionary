@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>TABLE 1</label>
+ <caption>
+  <p>Questions extracted from SGRQ (St. George Respiratory Questionnaire) to calculate simplified QoL scores.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <tbody valign="top">
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Please select 
+     <bold>ONE</bold> box for each question
+    </td>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Question 1.</bold> I cough:
+    </td>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Many times a day</td>
+    <td align="center" rowspan="1" colspan="1">□1</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Every day</td>
+    <td align="center" rowspan="1" colspan="1">□ 2</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Two or three times a week</td>
+    <td align="center" rowspan="1" colspan="1">□ 3</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Few times</td>
+    <td align="center" rowspan="1" colspan="1">□ 4</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Rarely</td>
+    <td align="center" rowspan="1" colspan="1">□ 5</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Question 2.</bold> I bring up phlegm (sputum):
+    </td>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Many times a day</td>
+    <td align="center" rowspan="1" colspan="1">□ 1</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Every day</td>
+    <td align="center" rowspan="1" colspan="1">□ 2</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Two or three times a week</td>
+    <td align="center" rowspan="1" colspan="1">□ 3</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Few times</td>
+    <td align="center" rowspan="1" colspan="1">□ 4</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Rarely</td>
+    <td align="center" rowspan="1" colspan="1">□ 5</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Question 3.</bold> I have shortness of breath:
+    </td>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Many times a day</td>
+    <td align="center" rowspan="1" colspan="1">□ 1</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Every day</td>
+    <td align="center" rowspan="1" colspan="1">□ 2</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Two or three times a week</td>
+    <td align="center" rowspan="1" colspan="1">□ 3</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Few times</td>
+    <td align="center" rowspan="1" colspan="1">□ 4</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Rarely</td>
+    <td align="center" rowspan="1" colspan="1">□ 5</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Question 4.</bold> I have attacks of wheezing:
+    </td>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Many times a day</td>
+    <td align="center" rowspan="1" colspan="1">□ 1</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Every day</td>
+    <td align="center" rowspan="1" colspan="1">□ 2</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Two or three times a week</td>
+    <td align="center" rowspan="1" colspan="1">□ 3</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Few times</td>
+    <td align="center" rowspan="1" colspan="1">□ 4</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Rarely</td>
+    <td align="center" rowspan="1" colspan="1">□ 5</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Question 5.</bold> My therapy (augmentation therapy) interferes with my life?
+    </td>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">very much</td>
+    <td align="center" rowspan="1" colspan="1">□ 1</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">much</td>
+    <td align="center" rowspan="1" colspan="1">□ 2</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">not much</td>
+    <td align="center" rowspan="1" colspan="1">□ 3</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">few times</td>
+    <td align="center" rowspan="1" colspan="1">□ 4</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">not at all</td>
+    <td align="center" rowspan="1" colspan="1">□ 5</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Question 6.</bold> My respiratory disease is a nuisance to my family, friends or neighbours?
+    </td>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">very much</td>
+    <td align="center" rowspan="1" colspan="1">□ 1</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">much</td>
+    <td align="center" rowspan="1" colspan="1">□ 2</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">not much</td>
+    <td align="center" rowspan="1" colspan="1">□ 3</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">few times</td>
+    <td align="center" rowspan="1" colspan="1">□ 4</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">not at all</td>
+    <td align="center" rowspan="1" colspan="1">□ 5</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>Please write any considerations on your current therapy. This section was used to focus on any patient-reported advantages or disadvantages of replacement therapy in hospital and at home.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

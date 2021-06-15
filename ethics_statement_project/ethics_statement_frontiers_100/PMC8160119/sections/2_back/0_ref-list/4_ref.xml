@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4.</label>
+ <mixed-citation publication-type="webpage">
+  <person-group person-group-type="author">
+   <collab>Centers for Disease Control and Prevention</collab>
+  </person-group>. 
+  <source>CDC COVID Data Tracker</source>. (
+  <year>2021</year>). Available online at: 
+  <ext-link ext-link-type="uri" xlink:href="https://covid.cdc.gov/covid/data/tracker/#vaccinations" xmlns:xlink="http://www.w3.org/1999/xlink">https://covid.cdc.gov/covid/data/tracker/#vaccinations</ext-link> (accessed January 16, 2021).
+ </mixed-citation>
+</ref>

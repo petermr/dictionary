@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>The different targets between anlotinib and other agents.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1"/>
+    <th valign="top" colspan="3" align="center" rowspan="1">VEGFR</th>
+    <th valign="top" colspan="2" align="center" rowspan="1">PDGFR</th>
+    <th valign="top" colspan="4" align="center" rowspan="1">FGFR</th>
+    <th valign="top" rowspan="2" align="center" colspan="1">c-kit</th>
+   </tr>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">1</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">2</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">3</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">α</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">β</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">1</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">2</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">3</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">4</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anlotinib</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Nintedanib</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Pazopanib</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sunitinib</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Apatinib</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Vatalanib</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sorafenib</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Axitinib</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Bevacizumab</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>+</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>-</bold>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>+, target; -, no target.</p>
+ </table-wrap-foot>
+</table-wrap>

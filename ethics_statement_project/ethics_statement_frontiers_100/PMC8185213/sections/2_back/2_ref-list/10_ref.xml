@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Su</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Du</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Jiang</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Learning from the past: development of safe and effective COVID-19 vaccines</article-title>. 
+  <source>Nat Rev Microbiol.</source> (
+  <year>2021</year>) 
+  <volume>19</volume>:
+  <fpage>211</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/s41579-020-00462-y</pub-id>
+  <?supplied-pmid 33067570?>
+  <pub-id pub-id-type="pmid">33067570</pub-id>
+ </mixed-citation>
+</ref>

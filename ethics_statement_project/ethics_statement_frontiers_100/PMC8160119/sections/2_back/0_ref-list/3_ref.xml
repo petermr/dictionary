@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shimabukuro</surname>
+    <given-names>TT</given-names>
+   </name>
+   <name>
+    <surname>Nguyen</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Martin</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>DeStefano</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Safety monitoring in the Vaccine Adverse Event Reporting System (VAERS)</article-title>. 
+  <source>Vaccine</source>. (
+  <year>2015</year>) 
+  <volume>33</volume>:
+  <fpage>4398</fpage>–
+  <lpage>405</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.vaccine.2015.07.035</pub-id>
+  <pub-id pub-id-type="pmid">26209838</pub-id>
+ </mixed-citation>
+</ref>

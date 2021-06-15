@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Schedule of enrollment, interventions, and assessments.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" colspan="7" style="border-bottom: thin solid #000000;" rowspan="1">
+     <bold>Study period</bold>
+    </th>
+    <th rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" style="border-bottom: thin solid #000000;" rowspan="1" colspan="1">
+     <bold>Enrollment</bold>
+    </th>
+    <th valign="top" align="center" style="border-bottom: thin solid #000000;" rowspan="1" colspan="1">
+     <bold>Allocation</bold>
+    </th>
+    <th valign="top" align="center" colspan="5" style="border-bottom: thin solid #000000;" rowspan="1">
+     <bold>Post-allocation</bold>
+    </th>
+    <th style="border-bottom: thin solid #000000;" rowspan="1" colspan="1"/>
+    <th valign="top" align="center" style="border-bottom: thin solid #000000;" rowspan="1" colspan="1">
+     <bold>Close-out</bold>
+    </th>
+   </tr>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Timepoint</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Preanesthetic visit</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Prior to surgery</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>During surgery</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>PACU</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>POD 1</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>POD 2</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>POD 3</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Hospital discharge</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>POD 30</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" colspan="10" rowspan="1">
+     <bold>Enrollment</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Inclusion criteria</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Exclusion criteria</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Informed consent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Demographics</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Comorbidities</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Randomization</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Allocation</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="10" rowspan="1">
+     <bold>Interventions</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">ACEIs/ARBs continued</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">ACEIs/ARBs withheld</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="10" rowspan="1">
+     <bold>Assessments</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Baseline blood pressure</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hypotension events</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Other hemodynamic events</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Fluids and vasoactive agents</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Intraoperative adverse events</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Pain, analgesic use, PONV</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">ICU admission</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Length of postoperative stay</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PND, MACE, and mortality</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">×</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>According to SPIRIT 2013 statement of defining standard protocol items for clinical trials.</p>
+  <p>ACEI, angiotensin converting enzyme inhibitor; ARB, angiotensin receptor antagonist; PONV, postoperative nausea and vomiting; PND, neurocognitive disorders; MACE, major adverse cardiocerebral events; POD, postoperative day.</p>
+ </table-wrap-foot>
+</table-wrap>

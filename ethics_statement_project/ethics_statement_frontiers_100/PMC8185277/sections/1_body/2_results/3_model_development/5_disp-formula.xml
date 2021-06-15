@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-formula id="S3.Ex3">
+ <math id="M3">
+  <mrow>
+   <mo>+</mo>
+   <mn>0.8190174</mn>
+   <mo>*</mo>
+   <mi>c</mi>
+   <mi>o</mi>
+   <mi>u</mi>
+   <mi>g</mi>
+   <mi>h</mi>
+   <mo>+</mo>
+   <mn>1.6366705</mn>
+   <mo>*</mo>
+   <mi>T</mi>
+   <mi>B</mi>
+   <mi>I</mi>
+   <mi>G</mi>
+   <mi>R</mi>
+   <mi>A</mi>
+   <mo>+</mo>
+   <mn>0.7601317</mn>
+   <mo>*</mo>
+  </mrow>
+ </math>
+</disp-formula>

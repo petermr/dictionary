@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The blood was assumed as incompressible fluid with a density of 1,025 kg/m
+ <sup>3</sup> and a viscosity of 0.0035 Pa s. The walls of the patient geometry were assumed as rigid (
+ <xref rid="B9" ref-type="bibr">9</xref>). The inlet boundary condition used mass-flow boundary condition (245 ml/min) (
+ <xref rid="B10" ref-type="bibr">10</xref>), whereas the outlet boundary condition used pressure outlet with zero pressure. The Navier–Stokes equations were solved using ANSYS CFX 14.0 (ANSYS, Inc., Canonsburg, PA, USA).
+</p>

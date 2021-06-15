@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B21">
+ <label>21.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rouzaud</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Rodriguez-Nava</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Catherinot</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Méchaï</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Bergeron</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Farfour</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Clinical assessment of a 
+   <italic>Nocardia</italic> PCR-based assay for diagnosis of nocardiosis
+  </article-title>. 
+  <source>J Clin Microbiol.</source> (
+  <year>2018</year>) 
+  <volume>56</volume>:
+  <fpage>e00002</fpage>–
+  <lpage>18</lpage>. 
+  <pub-id pub-id-type="doi">10.1128/JCM.00002-18</pub-id>
+  <?supplied-pmid 29563199?>
+  <pub-id pub-id-type="pmid">29563199</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B2">
+ <label>2.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Thomas</surname>
+    <given-names>SL</given-names>
+   </name>
+   <name>
+    <surname>Hall</surname>
+    <given-names>AJ</given-names>
+   </name>
+  </person-group>. 
+  <article-title>What does epidemiology tell us about risk factors for herpes zoster?</article-title>
+  <source>Lancet Infect Dis.</source> (
+  <year>2004</year>) 
+  <volume>4</volume>:
+  <fpage>26</fpage>–
+  <lpage>33</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S1473-3099(03)00857-0</pub-id>
+  <?supplied-pmid 14720565?>
+  <pub-id pub-id-type="pmid">14720565</pub-id>
+ </mixed-citation>
+</ref>

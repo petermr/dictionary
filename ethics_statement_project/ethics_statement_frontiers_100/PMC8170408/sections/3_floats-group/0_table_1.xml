@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Clinicopathological characteristics and univariate analysis of PTC patients (n=364).</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">Small-volume (n=324)</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Large-volume (n=40)</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">p-value</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Gender</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.017*</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Male</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">108</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">21</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Female</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">216</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">19</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Age</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.046*</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> &lt;45</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">190</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">30</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> ≥45</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">134</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Bilateral tumors</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.094</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Bilateral</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">76</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Unilateral</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">248</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">26</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Multifocal tumor</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.754</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Multifocal</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">103</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> single</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">221</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">22</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hashimoto’s thyroiditis</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.157</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Yes</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">62</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> No</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">262</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">36</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Nodule</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Goiter</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.049*</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Yes</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">87</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> No</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">237</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">35</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Marked Hypoechoic</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.745</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Yes</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">266</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">32</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> No</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">58</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Margin</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.207</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Irregular</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">276</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">31</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Regular</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">48</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Shape</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.167</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Well-defined</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">46</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Non-well-defined</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">278</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">31</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Capsule Invasion</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.003*</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Yes</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">70</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">17</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> No</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">254</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">23</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">ETE**</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.001*</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Yes</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">43</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> No</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">281</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">27</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>*statistically significance; **extrathyroidal extension.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

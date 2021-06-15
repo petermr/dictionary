@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sly</surname>
+    <given-names>PD</given-names>
+   </name>
+   <name>
+    <surname>Gangell</surname>
+    <given-names>CL</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Ware</surname>
+    <given-names>RS</given-names>
+   </name>
+   <name>
+    <surname>Ranganathan</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Mott</surname>
+    <given-names>LS</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Risk factors for bronchiectasis in children with cystic fibrosis</article-title>. 
+  <source>N Engl J Med</source>. (
+  <year>2013</year>) 
+  <volume>368</volume>:
+  <fpage>1963</fpage>–
+  <lpage>70</lpage>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1301725</pub-id>
+  <?supplied-pmid 23692169?>
+  <pub-id pub-id-type="pmid">23692169</pub-id>
+ </mixed-citation>
+</ref>

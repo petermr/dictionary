@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <label>8.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Smirnov</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Morley</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Shin</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Spielman</surname>
+    <given-names>RS</given-names>
+   </name>
+   <name>
+    <surname>Cheung</surname>
+    <given-names>VG</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Genetic analysis of radiation-induced changes in human gene expression</article-title>. 
+  <source>Nature</source>. (
+  <year>2009</year>) 
+  <volume>459</volume>:
+  <fpage>587</fpage>–
+  <lpage>91</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nature07940</pub-id>
+  <?supplied-pmid 19349959?>
+  <pub-id pub-id-type="pmid">19349959</pub-id>
+ </mixed-citation>
+</ref>

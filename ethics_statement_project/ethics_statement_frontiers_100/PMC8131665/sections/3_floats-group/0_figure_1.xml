@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>Serum metabolite profile of lambs with different average daily gain (ADG). 
+   <bold>(A)</bold> PCA score plot for serum metabolites of high ADG lambs (H) and low ADG lambs (L). 
+   <bold>(B)</bold> PLS-DA score plot for serum metabolites of high ADG lambs (H) and low ADG lambs (L), and model overview showing high R2Y and Q2. 
+   <bold>(C)</bold> Enhanced Volcano plots of OPLS-DA showing fold changes (log
+   <sub>2</sub>FC) and the negative logarithm (base 10) of the 
+   <italic>P</italic>-values of 57 differential serum metabolites in high ADG lambs compared with low ADG lambs. 
+   <bold>(D)</bold> Expression profile, VIP score, and 
+   <italic>P-</italic>value of the top 30 differential serum metabolites in high ADG lambs compared with low ADG lambs.
+  </p>
+ </caption>
+ <graphic xlink:href="fvets-08-662536-g0001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

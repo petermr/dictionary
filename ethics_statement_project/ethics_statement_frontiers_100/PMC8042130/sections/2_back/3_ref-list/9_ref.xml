@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B9">
+ <label>9.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Investigators</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Yusuf</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Pitt</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Davis</surname>
+    <given-names>CE</given-names>
+   </name>
+   <name>
+    <surname>Hood</surname>
+    <given-names>WB</given-names>
+   </name>
+   <name>
+    <surname>Cohn</surname>
+    <given-names>JN</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Effect of enalapril on survival in patients with reduced left ventricular ejection fractions and congestive heart failure</article-title>. 
+  <source>N Engl J Med.</source> (
+  <year>1991</year>) 
+  <volume>325</volume>:
+  <fpage>293</fpage>–
+  <lpage>302</lpage>. 
+  <pub-id pub-id-type="doi">10.1056/NEJM199108013250501</pub-id>
+  <?supplied-pmid 2057034?>
+  <pub-id pub-id-type="pmid">2057034</pub-id>
+ </mixed-citation>
+</ref>

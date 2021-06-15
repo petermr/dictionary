@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Statistical analyses were performed using IBM SPSS Statistics, version 25. A series of one-way ANOVAs were performed. Welch’s correction was applied in case of breaking the assumption of homogeneity of the variance. In the case of unequal groups, breaking this assumption is the most problematic from the point of view of drawing conclusions; therefore, this correction is necessary. Parameters were estimated using the bootstrapping method with a sampling set at 5,000 and 95% confidence intervals. On the other hand, when the assumption of homogeneity of variance was broken, Games-Howell tests were used in 
+ <italic>post-hoc</italic> analyses. And if the assumption of homogeneity of variance was met, Tukey’s tests were used. Additionally, due to the multiple comparisons made within each sport category, it was decided to adopt the Bonferroni correction for the significance level. In each sports category, five one-way ANOVAs were performed, and the level of statistical significance for the ANOVAs was calculated as 
+ <italic>α</italic> = 0.01.
+</p>

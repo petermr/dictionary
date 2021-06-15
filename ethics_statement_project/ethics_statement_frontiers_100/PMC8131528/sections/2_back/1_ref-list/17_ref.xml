@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B17">
+ <label>17.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fernandez-Cean</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Alvarez</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Burguez</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Baldovinos</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Larre-Borges</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Cha</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Infective endocarditis in chronic haemodialysis: two treatment strategies</article-title>. 
+  <source>Nephrol Dial Transplant.</source> (
+  <year>2002</year>) 
+  <volume>17</volume>:
+  <fpage>2226</fpage>–
+  <lpage>30</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/ndt/17.12.2226</pub-id>
+  <?supplied-pmid 12454237?>
+  <pub-id pub-id-type="pmid">12454237</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>An example of the choice-reaction time (RT) task 
+   <bold>(A)</bold> and the Simon task 
+   <bold>(B)</bold>.
+  </p>
+ </caption>
+ <graphic xlink:href="fpsyg-12-675641-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

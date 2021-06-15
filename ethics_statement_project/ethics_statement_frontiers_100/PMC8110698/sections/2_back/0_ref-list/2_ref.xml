@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B2">
+ <label>2.</label>
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zurlo</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Pasteurella species</article-title>. In: Mandell GL, Bennett JE, Dolin R, editors. 
+  <source>Principles and Practice of Infectious Diseases</source>. 
+  <edition>6th ed</edition>. 
+  <publisher-loc>Philadelphia, PA</publisher-loc>: 
+  <publisher-name>Elsevier</publisher-name> (
+  <year>2005</year>). 
+  <fpage>2687</fpage>–
+  <lpage>91</lpage>.
+ </mixed-citation>
+</ref>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B2">
+ <label>2.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fielding</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Woods</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Moosvi</surname>
+    <given-names>SR</given-names>
+   </name>
+   <name>
+    <surname>Wharton</surname>
+    <given-names>RQ</given-names>
+   </name>
+   <name>
+    <surname>Speakman</surname>
+    <given-names>CTM</given-names>
+   </name>
+   <name>
+    <surname>Kapur</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Renal impairment after ileostomy formation: a frequent event with long-term consequences</article-title>. 
+  <source>Colorectal Dis.</source> (
+  <year>2020</year>) 
+  <volume>22</volume>:
+  <fpage>269</fpage>–
+  <lpage>78</lpage>. 
+  <pub-id pub-id-type="doi">10.1111/codi.14866</pub-id>
+  <?supplied-pmid 31562789?>
+  <pub-id pub-id-type="pmid">31562789</pub-id>
+ </mixed-citation>
+</ref>

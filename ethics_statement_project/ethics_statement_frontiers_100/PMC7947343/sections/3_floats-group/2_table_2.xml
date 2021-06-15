@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Analysis of covariance results.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Variable</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>SS</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>df</italic>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>MS</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>F</italic>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>p</italic>
+     </bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Social desirability</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12.288</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12.288</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.948</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.166</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Machiavellianism (
+     <italic>A</italic>)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">61.519</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">61.519</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9.751</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.002</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Ethical values (
+     <italic>B</italic>)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">29.297</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">29.297</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4.644</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.033</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>A</italic> × 
+     <italic>B</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">27.002</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">27.002</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4.280</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.041</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Error</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">693.999</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">110</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6.309</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Total</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">842.543</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">114</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

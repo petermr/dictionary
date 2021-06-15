@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F5" position="float">
+ <label>FIGURE 5</label>
+ <caption>
+  <p>
+   <bold>(A)</bold> Receiver operator characteristic curve. The AUC was 0.88 in the derivation cohort. 
+   <bold>(B)</bold> Calibration curves. The 45° shaded line represents the ideal prediction, and the prediction probability is consistent with the actual observation probability. The blue line represents the actual prediction of the model. The stapled histogram on the bottom line represents the distribution of the patients’ predicted probability. Abbreviations: Dxy = Somer’s D rank correlation, R2 = Nagelkerke-Cox-Snell-Maddala-Magee R-squared index, D = Discrimination index, U = Unreliability index, Q = Quality index, Emax = maximum absolute difference in the predicted and calibrated propabilities, S:z = Spiegelhalter 
+   <italic>Z</italic>-test, and S:p = two-tailed 
+   <italic>p</italic>-value of the Spiegelhalter 
+   <italic>Z</italic>-test. 
+   <bold>(C)</bold> Decision analysis curve. The horizontal axis is the threshold probability of the PTB occurrence. The vertical axis shows the clinical benefits that the patients may gain or lose using the web application. Dotted line: prediction model. Solid line: all patients were PTB. Horizontal line: all patients were not PTB.
+  </p>
+ </caption>
+ <graphic xlink:href="fmolb-08-632185-g005" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

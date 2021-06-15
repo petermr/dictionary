@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hakim</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Provencher</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Chambers</surname>
+    <given-names>CT</given-names>
+   </name>
+   <name>
+    <surname>Driedger</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Dube</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Gavaruzzi</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Interventions to help people understand community immunity: a systematic review</article-title>. 
+  <source>Vaccine.</source> (
+  <year>2019</year>) 
+  <volume>37</volume>:
+  <fpage>235</fpage>–
+  <lpage>47</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.vaccine.2018.11.016</pub-id>
+  <?supplied-pmid 30528593?>
+  <pub-id pub-id-type="pmid">30528593</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>The genetic test results of the patient. 
+   <bold>(A)</bold> Trio-ES identified homozygous variants on chromosome 5 and inherited from her mother, suggesting that the proband has UPD(5)mat. 
+   <bold>(B)</bold> Array-CGH confirmed UPD(5) by showing the copy neutral AOH across the whole chromosome 5. 
+   <bold>(C)</bold> A homozygous nonsense variant on 
+   <italic>PCSK1</italic> (c.238C&gt;T) is detected in the proband. Her mother is heterozygous and her father is normal. 
+   <bold>(D)</bold> The variant is confirmed by Sanger sequencing. 
+   <bold>(E)</bold> The variant site is conserved in different species.
+  </p>
+ </caption>
+ <graphic xlink:href="fgene-12-668326-g0002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

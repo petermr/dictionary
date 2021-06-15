@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" position="float">
+ <label>FIGURE 1</label>
+ <caption>
+  <p>Measured vs. predicted heights of probands. Based on 300 randomly selected individuals from the United Kingdom Biobank trio data not included in predictor training in the PRS++ model 
+   <bold>(A)</bold>, the PRS++ model without parental information 
+   <bold>(B)</bold>, FHS using the PRS++ model fitted from United Kingdom Biobank data 
+   <bold>(C)</bold>, and FHS using the PRS++ model without parental information fitted from United Kingdom Biobank data 
+   <bold>(D)</bold>. The gray lines represent a 95% prediction interval.
+  </p>
+ </caption>
+ <graphic xlink:href="fgene-12-669441-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

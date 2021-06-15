@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Testori</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Cioffi</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Ciulla</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Bottoni</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Cariboni</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Perroni</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Surgery at the frontline at the time of the COVID-19 outbreak</article-title>. 
+  <source>Thorac Cancer</source>. (
+  <year>2020</year>) 
+  <volume>11</volume>:
+  <fpage>3057</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1111/1759-7714.13666</pub-id>
+  <?supplied-pmid 32935917?>
+  <pub-id pub-id-type="pmid">32935917</pub-id>
+ </mixed-citation>
+</ref>

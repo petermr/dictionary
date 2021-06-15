@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Descriptive statistics for age, GAD-7, PHQ-8, and sum of reported inconveniences.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Variable</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Gender</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Mean</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Median</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Std. Deviation</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Minimum</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Maximum</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Age</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Boys</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18.60</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.39</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">23</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Girls</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18.38</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18.0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.16</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">15</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">23</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">GAD-7 raw scores [sum of points]</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Boys</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.33</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3.51</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Girls</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.15</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.25</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">19</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PHQ-8 raw scores [sum of points]</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Boys</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.80</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3.76</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Girls</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3.91</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4.75</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sum of reported inconveniences</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Boys</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.17</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.62</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Girls</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.15</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.91</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

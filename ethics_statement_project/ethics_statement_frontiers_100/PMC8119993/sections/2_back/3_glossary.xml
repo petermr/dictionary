@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <def-list>
+  <title>Abbreviations</title>
+  <def-item>
+   <term>BMC</term>
+   <def>
+    <p>BioMed Central</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BMJ</term>
+   <def>
+    <p>British Medical Journal</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>INSPECT</term>
+   <def>
+    <p>ImplemeNtation science State of research ProjECT</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IS</term>
+   <def>
+    <p>implementation science</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IQR</term>
+   <def>
+    <p>interquartile range</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>JDR</term>
+   <def>
+    <p>Journal of Dental Research</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MeSH</term>
+   <def>
+    <p>medical subject heading</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RCT</term>
+   <def>
+    <p>randomized controlled trial.</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

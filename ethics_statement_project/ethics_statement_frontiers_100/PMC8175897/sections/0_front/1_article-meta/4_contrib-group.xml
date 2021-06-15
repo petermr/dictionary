@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ru</surname>
+   <given-names>Zhou</given-names>
+  </name>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1235377/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mingliang</surname>
+   <given-names>Wang</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Maofei</surname>
+   <given-names>Wang</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Qiaofeng</surname>
+   <given-names>Chen</given-names>
+  </name>
+  <xref ref-type="corresp" rid="c001">
+   <sup>*</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jianming</surname>
+   <given-names>Yuan</given-names>
+  </name>
+  <xref ref-type="corresp" rid="c002">
+   <sup>*</sup>
+  </xref>
+ </contrib>
+</contrib-group>

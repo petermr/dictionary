@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Purcell</surname>
+    <given-names>S. M.</given-names>
+   </name>
+   <name>
+    <surname>Wray</surname>
+    <given-names>N. R.</given-names>
+   </name>
+   <name>
+    <surname>Stone</surname>
+    <given-names>J. L.</given-names>
+   </name>
+   <name>
+    <surname>Visscher</surname>
+    <given-names>P. M.</given-names>
+   </name>
+   <name>
+    <surname>O’Donovan</surname>
+    <given-names>M. C.</given-names>
+   </name>
+   <name>
+    <surname>Sullivan</surname>
+    <given-names>P. F.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2009</year>). 
+  <article-title>Common polygenic variation contributes to risk of schizophrenia and bipolar disorder.</article-title>
+  <source>
+   <italic>Nature</italic>
+  </source>
+  <volume>460</volume>
+  <fpage>748</fpage>–
+  <lpage>752</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nature08185</pub-id>
+  <?supplied-pmid 19571811?>
+  <pub-id pub-id-type="pmid">19571811</pub-id>
+ </mixed-citation>
+</ref>

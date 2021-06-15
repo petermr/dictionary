@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Niimi</surname>
+   <given-names>Keiko</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fujimoto</surname>
+   <given-names>Ayataka</given-names>
+  </name>
+  <xref ref-type="corresp" rid="c001">
+   <sup>*</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/554146/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sato</surname>
+   <given-names>Keishiro</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Enoki</surname>
+   <given-names>Hideo</given-names>
+  </name>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/793959/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Okanishi</surname>
+   <given-names>Tohru</given-names>
+  </name>
+ </contrib>
+</contrib-group>

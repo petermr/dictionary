@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>TABLE 1</label>
+ <caption>
+  <p>Indicators in the web application.</p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <td valign="top" align="left" colspan="4" rowspan="1">Derivation cohort (269)</td>
+    <td valign="top" align="center" colspan="3" rowspan="1">Validation cohort (217)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="center" colspan="4" rowspan="1">
+     <hr/>
+    </td>
+    <td valign="top" align="center" colspan="3" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">Non-TB DC (158)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Clinically diagnosed PTB (111)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>P</italic>-value
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Non-TB DC (140)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Clinically diagnosed PTB (77)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>P</italic>-value
+    </td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">COUGH</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.023*</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.949</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Negative</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">82 (51.90%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">42 (37.84%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">63 (45.00%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">35 (45.45%)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Positive</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">76 (48.10%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">69 (62.16%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">77 (55.00%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">42 (54.55%)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">LOW-GRADE FEVER</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.001*</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.168</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Negative</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">102 (64.56%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">50 (45.05%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">88 (62.86%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">41 (53.25%)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Positive</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">56 (35.44%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">61 (54.95%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">52 (37.14%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">36 (46.75%)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">WEIGHT LOSS</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001*</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001*</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Negative</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">144 (91.14%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">82 (73.87%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">134 (95.71%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">59 (76.62%)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Positive</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14 (8.86%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">29 (26.13%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">6 (4.29%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18 (23.38%)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CT CALCIFICATION</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001*</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.001*</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Negative</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">109 (68.99%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">44 (39.64%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">86 (61.43%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">30 (38.96%)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Positive</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">49 (31.01%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">67 (60.36%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">54 (38.57%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">47 (61.04%)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">TB-IGRA</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001*</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001*</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Negative</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">103 (65.19%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">25 (22.52%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">97 (69.29%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">19 (24.68%)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Positive</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">55 (34.81%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">86 (77.48%)</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">43 (30.71%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">58 (75.32%)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">AGE</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">58 (47,66)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">36 (24.0,50.5)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.0001*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">60 (46,70)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">37 (22,52)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.0001*</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">N344917</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.91 (0.50,1.74)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.66 (0.36,1.22)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.0001*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.00 (0.43,1.67)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.74 (0.35,1.24)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.0005*</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <attrib>
+   <italic>Data are presented as 
+    <italic>n</italic> (%) for categorical variables and as median (upper and lower quartiles) for continuous variables. *
+    <italic>P</italic> value &lt; 0.05.
+   </italic>
+  </attrib>
+ </table-wrap-foot>
+</table-wrap>

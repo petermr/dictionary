@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yaffe</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Laffan</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Harrison</surname>
+    <given-names>SL</given-names>
+   </name>
+   <name>
+    <surname>Redline</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Spira</surname>
+    <given-names>AP</given-names>
+   </name>
+   <name>
+    <surname>Ensrud</surname>
+    <given-names>KE</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Sleep-disordered breathing, hypoxia, and risk of mild cognitive impairment and dementia in older women</article-title>. 
+  <source>JAMA.</source> (
+  <year>2011</year>) 
+  <volume>10:306</volume>:
+  <fpage>613</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1001/jama.2011.1115</pub-id>
+  <?supplied-pmid 21828324?>
+  <pub-id pub-id-type="pmid">21828324</pub-id>
+ </mixed-citation>
+</ref>

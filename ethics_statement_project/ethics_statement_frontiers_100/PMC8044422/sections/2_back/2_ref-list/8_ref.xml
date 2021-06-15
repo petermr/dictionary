@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <label>8.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brody</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Molina</surname>
+    <given-names>PL</given-names>
+   </name>
+   <name>
+    <surname>Klein</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Rothman</surname>
+    <given-names>BS</given-names>
+   </name>
+   <name>
+    <surname>Ramagopal</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Swartz</surname>
+    <given-names>DR</given-names>
+   </name>
+  </person-group>. 
+  <article-title>High-resolution computed tomography of the chest in children with cystic fibrosis: support for use as an outcome surrogate</article-title>. 
+  <source>Pediatr Radiol</source>. (
+  <year>1999</year>) 
+  <volume>29</volume>:
+  <fpage>731</fpage>–
+  <lpage>5</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/s002470050684</pub-id>
+  <?supplied-pmid 10525778?>
+  <pub-id pub-id-type="pmid">10525778</pub-id>
+ </mixed-citation>
+</ref>

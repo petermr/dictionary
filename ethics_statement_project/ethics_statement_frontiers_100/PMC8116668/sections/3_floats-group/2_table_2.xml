@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Hazard ratio (95%CI) of dementia by bedtime and rise time.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Bedtime</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>At or before 9 p.m</bold>.
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>9–11 p.m</bold>.
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>After 11 p.m</bold>.
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Incident of dementia, 
+     <italic>N</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">26 (24.5%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">20 (5.0%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1 (1.2%)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Unadjusted HR</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.31 (2.96–9.51)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.24 (0.03–1.80)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">HR adjusted in model 1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.72 (1.50–4.96)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.24 (0.03–1.81)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">HR adjusted in model 2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.16 (1.06–4.40)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.15 (0.02–1.29)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">HR adjusted in model 3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.00 (0.94–4.29)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.12 (0.01–1.05)</td>
+   </tr>
+   <tr style="border-top: thin solid #000000;">
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Rise time</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>At or before 6 a.m</bold>.
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>6–8 a.m</bold>.
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>After 8 a.m</bold>.
+    </td>
+   </tr>
+   <tr style="border-top: thin solid #000000;">
+    <td valign="top" align="left" rowspan="1" colspan="1">Incident of dementia, 
+     <italic>N</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">26 (9.1%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">21 (7.6%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Unadjusted HR</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.25 (0.71–2.22)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">HR adjusted in model 1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.17 (0.65–2.09)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">HR adjusted in model 2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.49 (0.72–3.10)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">HR adjusted in model 3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.10 (0.93-4.74)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>Model 1: adjusted for age, sex, education</italic>.
+  </p>
+  <p>
+   <italic>Model 2: adjusted for age, sex, education, income, body mass index (BMI), depressive symptoms, smoking, alcohol use, physical activity, comorbidities, APOE4 genotype, and baseline MMSE</italic>.
+  </p>
+  <p>
+   <italic>Model 3: adjusted for age, sex, education, income, body mass index (BMI), depressive symptoms, smoking, alcohol use, physical activity, comorbidities, APOE4 genotype, baseline MMSE, sleep duration, and efficiency</italic>.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

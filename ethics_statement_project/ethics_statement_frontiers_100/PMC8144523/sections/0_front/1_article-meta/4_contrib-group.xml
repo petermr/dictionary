@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Jing</given-names>
+  </name>
+  <xref ref-type="author-notes" rid="fn002">
+   <sup>†</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liang</surname>
+   <given-names>Hejun</given-names>
+  </name>
+  <xref ref-type="author-notes" rid="fn002">
+   <sup>†</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="https://loop.frontiersin.org/people/1102830" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>He</surname>
+   <given-names>Jian</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sui</surname>
+   <given-names>Xin</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Qin</surname>
+   <given-names>Yanru</given-names>
+  </name>
+  <xref ref-type="author-notes" rid="fn001">
+   <sup>*</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="https://loop.frontiersin.org/people/857802" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+</contrib-group>

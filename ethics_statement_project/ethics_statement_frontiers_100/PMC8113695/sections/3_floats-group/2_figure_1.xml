@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>A patient with pancreatic cancer and synchronous liver metastases, who was treated with systemic GC HAI FUDR. 
+   <bold>(A)</bold> CT images showing the presence of pancreatic cancer (yellow arrows indicate) and synchronous liver metastases (red arrows indicate) at baseline. 
+   <bold>(B)</bold> CT images show primary cancer and liver metastases are shrinking at 6 months. 
+   <bold>(C)</bold> images show sustained response of liver metastases and primary cancer. 
+   <bold>(D)</bold> Hepatic arteriography shows HAI pump functionality at 12 months (purple arrow indicates side hole of the catheter; gold arrow indicates the tip of the catheter, which was located in the occluded gastroduodenal artery).
+  </p>
+ </caption>
+ <graphic xlink:href="fonc-11-652426-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

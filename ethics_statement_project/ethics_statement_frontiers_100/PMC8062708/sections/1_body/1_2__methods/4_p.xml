@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Once the data is collected, we remove outlier responses. A response is considered an outlier if (1) 
+ <italic>r</italic>
+ <sub>
+  <italic>i</italic>
+ </sub> is outside 1.5 times the interquartile range above the upper quartile (which for the data in this paper means 
+ <italic>r</italic>
+ <sub>
+  <italic>i</italic>
+ </sub> &gt; 175) or if (2) 
+ <italic>c</italic>
+ <sub>
+  <italic>i</italic>
+ </sub>/
+ <italic>r</italic>
+ <sub>
+  <italic>i</italic>
+ </sub> is &gt; 1/3 (to exclude participants with an exceptionally high contact with cases). Although participants may choose to provide information for the whole country, in this paper we only consider responses in which participants provide information for their specific region. Hence, the data is aggregated by region for all participants, to obtain the estimator of COVID-19 prevalence 
+ <inline-formula>
+  <math id="M1">
+   <mrow>
+    <mo stretchy="false">(</mo>
+    <mrow>
+     <munder class="msub">
+      <mrow>
+       <mo>∑</mo>
+      </mrow>
+      <mrow>
+       <mi>i</mi>
+      </mrow>
+     </munder>
+     <msub>
+      <mrow>
+       <mi>c</mi>
+      </mrow>
+      <mrow>
+       <mi>i</mi>
+      </mrow>
+     </msub>
+    </mrow>
+    <mo stretchy="false">)</mo>
+   </mrow>
+   <mo>/</mo>
+   <mrow>
+    <mo stretchy="false">(</mo>
+    <mrow>
+     <munder class="msub">
+      <mrow>
+       <mo>∑</mo>
+      </mrow>
+      <mrow>
+       <mi>i</mi>
+      </mrow>
+     </munder>
+     <msub>
+      <mrow>
+       <mi>r</mi>
+      </mrow>
+      <mrow>
+       <mi>i</mi>
+      </mrow>
+     </msub>
+    </mrow>
+    <mo stretchy="false">)</mo>
+   </mrow>
+  </math>
+ </inline-formula> (
+ <xref rid="B13" ref-type="bibr">13</xref>).
+</p>

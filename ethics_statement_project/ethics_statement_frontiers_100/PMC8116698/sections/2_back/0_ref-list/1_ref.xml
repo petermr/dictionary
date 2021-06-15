@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rinkel</surname>
+    <given-names>GJ</given-names>
+   </name>
+   <name>
+    <surname>Djibuti</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Algra</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>van Gijn</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Prevalence and risk of rupture of intracranial aneurysms: a systematic review</article-title>. 
+  <source>Stroke.</source> (
+  <year>1998</year>) 
+  <volume>29</volume>:
+  <fpage>251</fpage>–
+  <lpage>6</lpage>. 
+  <pub-id pub-id-type="doi">10.1161/01.STR.29.1.251</pub-id>
+  <?supplied-pmid 28283868?>
+  <pub-id pub-id-type="pmid">9445359</pub-id>
+ </mixed-citation>
+</ref>

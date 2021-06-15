@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Antinori</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Ferraris</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Orlando</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Tocalli</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Ricaboni</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Corbellino</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Fungal endocarditis observed over an 8-year period and a review of the literature</article-title>. 
+  <source>Mycopathologia.</source> (
+  <year>2014</year>) 
+  <volume>178</volume>:
+  <fpage>37</fpage>–
+  <lpage>51</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/s11046-014-9754-4</pub-id>
+  <?supplied-pmid 24965217?>
+  <pub-id pub-id-type="pmid">24965217</pub-id>
+ </mixed-citation>
+</ref>

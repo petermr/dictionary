@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kang</surname>
+   <given-names>Tieli</given-names>
+  </name>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1181607/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jia</surname>
+   <given-names>Zhishuo</given-names>
+  </name>
+  <xref ref-type="corresp" rid="c001">
+   <sup>*</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xing</surname>
+   <given-names>Guoquan</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhou</surname>
+   <given-names>Quanhe</given-names>
+  </name>
+ </contrib>
+</contrib-group>

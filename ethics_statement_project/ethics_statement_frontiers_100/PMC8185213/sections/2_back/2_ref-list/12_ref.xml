@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Geffre</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Concordet</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Braun</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Trumel</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Reference Value Advisor: a new freeware set of macroinstructions to calculate reference intervals with Microsoft Excel</article-title>. 
+  <source>Vet Clin Pathol.</source> (
+  <year>2011</year>) 
+  <volume>40</volume>:
+  <fpage>107</fpage>–
+  <lpage>12</lpage>. 
+  <pub-id pub-id-type="doi">10.1111/j.1939-165X.2011.00287.x</pub-id>
+  <?supplied-pmid 21366659?>
+  <pub-id pub-id-type="pmid">21366659</pub-id>
+ </mixed-citation>
+</ref>

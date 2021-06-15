@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B14">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jimmy</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Gail</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Jimmy</surname>
+    <given-names>W.</given-names>
+   </name>
+  </person-group> (
+  <year>2016</year>). 
+  <article-title>Web application teaching tools for statistics using r and shiny. technology innovations in statistics education.</article-title>
+  <source>
+   <italic>Technol. Innovat. Stat. Educ.</italic>
+  </source>
+  <volume>9</volume>
+  <fpage>1933</fpage>–
+  <lpage>4214</lpage>.
+ </mixed-citation>
+</ref>

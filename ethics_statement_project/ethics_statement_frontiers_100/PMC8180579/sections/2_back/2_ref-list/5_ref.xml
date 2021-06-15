@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fisher</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Heymann</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Q&amp;A: the novel coronavirus outbreak causing COVID-19</article-title>. 
+  <source>BMC Med.</source> (
+  <year>2020</year>) 
+  <volume>18</volume>:
+  <fpage>57</fpage>. 
+  <pub-id pub-id-type="doi">10.1186/s12916-020-01533-w</pub-id>
+  <pub-id pub-id-type="pmid">32106852</pub-id>
+ </mixed-citation>
+</ref>

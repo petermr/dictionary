@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Little</surname>
+    <given-names>JB</given-names>
+   </name>
+   <name>
+    <surname>Nagasawa</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Pfenning</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Vetrovs</surname>
+    <given-names>H</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Radiation-induced genomic instability: delayed mutagenic and cytogenetic effects of X rays and alpha particles</article-title>. 
+  <source>Radiat Res.</source> (
+  <year>1997</year>) 
+  <volume>148</volume>:
+  <fpage>299</fpage>–
+  <lpage>307</lpage>. 
+  <pub-id pub-id-type="doi">10.2307/3579514</pub-id>
+  <?supplied-pmid 9339945?>
+  <pub-id pub-id-type="pmid">9339945</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <def-list>
+  <title>Abbreviations</title>
+  <def-item>
+   <term>AF</term>
+   <def>
+    <p>atrial fibrillation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ERP</term>
+   <def>
+    <p>effective refractory period</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GP</term>
+   <def>
+    <p>ganglionated plexi</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ICN</term>
+   <def>
+    <p>intrinsic cardiac nerves</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VOM</term>
+   <def>
+    <p>vein of Marshall</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LOM</term>
+   <def>
+    <p>ligament of Marshall</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HFS</term>
+   <def>
+    <p>High-frequency stimulation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LSPV</term>
+   <def>
+    <p>left superior pulmonary vein</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LIPV</term>
+   <def>
+    <p>left inferior pulmonary vein</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LAA</term>
+   <def>
+    <p>left atrial appendage</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LSGP</term>
+   <def>
+    <p>left superior ganglionated plexi</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LLS</term>
+   <def>
+    <p>low-level VOM stimulation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ATR</term>
+   <def>
+    <p>atropine</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ALC</term>
+   <def>
+    <p>alcohol.</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15">
+ <label>15.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rogers</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>De</surname>
+    <given-names>Brún A</given-names>
+   </name>
+   <name>
+    <surname>McAuliffe</surname>
+    <given-names>E</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Defining and assessing context in healthcare implementation studies: a systematic review</article-title>. 
+  <source>BMC Health Serv Res.</source> (
+  <year>2020</year>) 
+  <volume>20</volume>:
+  <fpage>591</fpage>. 
+  <pub-id pub-id-type="doi">10.1186/s12913-020-05212-7</pub-id>
+  <?supplied-pmid 32600396?>
+  <pub-id pub-id-type="pmid">32600396</pub-id>
+ </mixed-citation>
+</ref>

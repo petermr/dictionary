@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pearson</surname>
+    <given-names>EG</given-names>
+   </name>
+   <name>
+    <surname>Fitzgerald</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Santore</surname>
+    <given-names>MT</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Pediatric thoracic trauma: current trends</article-title>. 
+  <source>Semin Pediatr Surg.</source> (
+  <year>2017</year>) 
+  <volume>26</volume>:
+  <fpage>36</fpage>–
+  <lpage>42</lpage>. 
+  <pub-id pub-id-type="doi">10.1053/j.sempedsurg.2017.01.007</pub-id>
+  <?supplied-pmid 28302283?>
+  <pub-id pub-id-type="pmid">28302283</pub-id>
+ </mixed-citation>
+</ref>

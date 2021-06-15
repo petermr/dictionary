@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>Convergence of correlation with number of responses 
+   <bold>(A)</bold> and day of the month 
+   <bold>(B)</bold>. The line represents the resulting R squared correlation, the dots in the line represent sampling points. The bars represent the number of new daily responses.
+  </p>
+ </caption>
+ <graphic xlink:href="fpubh-09-658544-g0002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T3" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Pairwise comparison results for “generic attributes.”</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <sc>A</sc>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <sc>B</sc>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <sc>C</sc>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <sc>D</sc>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <sc>E</sc>
+     </bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Integrity/ethics/morality</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">A</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">A 68.83%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">A 68.83%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">A 53.25%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">A 88.31%</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Reflective practitioner</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">B</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">C 55.84%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">D 61.04%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">B 83.12%</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Evidence informed/critical thinker</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">C</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">C 51.95%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">C 81.82%</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Compassionate clinician</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">D</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">D 85.71%</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Culturally competent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">E</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>Respondents were forced to choose between each pairing. The number seen is the percentage of respondents who chose the attribute listed from the pairing. (e.g., in the pairing integrity/ethics/morality vs. reflective practitioner or A vs. B, 68.83% of respondents chose integrity/ethics/morality or A.)</italic>.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

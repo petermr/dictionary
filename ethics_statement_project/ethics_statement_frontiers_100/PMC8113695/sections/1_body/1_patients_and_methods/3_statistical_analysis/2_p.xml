@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A propensity score was computed using a multivariable logistic regression model, with the treatment groups as the dependent variables and potential confounding factors as covariates. The following five variables were included in the propensity score matching: age, female, number of liver metastasis, synchronous liver metastasis, and with extrahepatic metastasis. All patients in the HAI group were matched 1:1 to patients in the non-HAI group, as reported previously.</p>

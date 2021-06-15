@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Davis</surname>
+    <given-names>AA</given-names>
+   </name>
+   <name>
+    <surname>Patel</surname>
+    <given-names>GV</given-names>
+   </name>
+  </person-group>. 
+  <article-title>The Role of PD-L1 Expression as a Predictive Biomarker: An Analysis of All US Food and Drug Administration (FDA) Approvals of Immune Checkpoint Inhibitors</article-title>. 
+  <source>J Immunother Cancer</source> (
+  <year>2019</year>) 
+  <volume>7</volume>:
+  <fpage>278</fpage>.  
+  <pub-id pub-id-type="doi">10.1186/s40425-019-0768-9</pub-id>
+  <pub-id pub-id-type="pmid">31655605</pub-id>
+ </mixed-citation>
+</ref>

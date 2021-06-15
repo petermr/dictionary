@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <label>16.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Darrab</surname>
+    <given-names>AA</given-names>
+   </name>
+   <name>
+    <surname>Fan</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Fernandes</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Zimmerman</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Worster</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>How does fast track affect quality of care in the emergency department?</article-title>
+  <source>Eur J Emerg Med</source>. (
+  <year>2006</year>) 
+  <volume>13</volume>:
+  <fpage>32</fpage>–
+  <lpage>5</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/00063110-200602000-00008</pub-id>
+  <?supplied-pmid 16374246?>
+  <pub-id pub-id-type="pmid">16374246</pub-id>
+ </mixed-citation>
+</ref>

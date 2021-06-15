@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Montori</surname>
+    <given-names>VM</given-names>
+   </name>
+   <name>
+    <surname>Wilczynski</surname>
+    <given-names>NL</given-names>
+   </name>
+   <name>
+    <surname>Morgan</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Haynes</surname>
+    <given-names>RB</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Optimal search strategies for retrieving systematic reviews from Medline: analytical survey</article-title>. 
+  <source>BMJ.</source> (
+  <year>2005</year>) 
+  <volume>330</volume>:
+  <fpage>68</fpage>. 
+  <pub-id pub-id-type="doi">10.1136/bmj.38336.804167.47</pub-id>
+  <?supplied-pmid 15619601?>
+  <pub-id pub-id-type="pmid">15619601</pub-id>
+ </mixed-citation>
+</ref>

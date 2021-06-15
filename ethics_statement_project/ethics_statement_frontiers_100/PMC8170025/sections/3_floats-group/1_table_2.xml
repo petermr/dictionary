@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Individual pride and collective pride in Chinese and American corpora.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+     <bold>China</bold>
+    </th>
+    <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+     <bold>America</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>z-</italic>score
+     </bold>
+    </th>
+   </tr>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Frequency</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Percent %</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Frequency</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Percent %</bold>
+    </th>
+    <th rowspan="1" colspan="1"/>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" colspan="6" rowspan="1">
+     <bold>Blog genres</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">   Individual pride</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">547</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">36.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">660</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">45.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−4.67</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">   Relational pride</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">532</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">35.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">444</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">30.3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3.09</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">   National pride</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">64</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4.3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">158</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−6.73</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">   General pride</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">350</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">23.4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">203</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6.75</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="6" rowspan="1">
+     <bold>News genres</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">   Individual pride</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">402</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">25.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">668</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">49.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−13.40</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">   Relational pride</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">657</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">42.0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">430</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">31.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.84</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">   National pride</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">414</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">26.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">117</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13.23</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">   General pride</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">92</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">145</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−4.66</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>The absolute value of z-score &gt;2 is considered to be significant</italic>.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

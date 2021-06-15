@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T3" position="float">
+ <label>TABLE 3</label>
+ <caption>
+  <p>The 
+   <italic>R</italic>
+   <sup>2</sup> of different models including PRS++.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Model</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">In-sample 
+     <italic>R</italic>
+     <sup>2</sup> in UKB
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>R</italic>
+     <sup>2</sup>
+     <sub>cv</sub> over 50-fold in UKB
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">In-sample 
+     <italic>R</italic>
+     <sup>2</sup> in FHS
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Out-of-sample 
+     <italic>R</italic>
+     <sup>2</sup> in FHS
+    </td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sex + PRS.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7034</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7135 (0.09)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7193</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.707</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sex + Parental height</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7353</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7517 (0.08)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7179</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7093</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sex + PRS.2 + Parental height</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7825</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7890 (0.10)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7828</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7678</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sex + PRS.2 + Parental height + Parental PSR.2s</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.8025</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.8150 (0.05)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.8113</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7866</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Full Model</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.8317</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7733 (0.07)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.8242</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">–
+     <sup>∗</sup>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <attrib>
+   <italic>*The full model out-of-sample R
+    <sup>2</sup> in FHS is not provided as some of the potential covariates in UKB are not available in FHS data.
+   </italic>
+  </attrib>
+ </table-wrap-foot>
+</table-wrap>

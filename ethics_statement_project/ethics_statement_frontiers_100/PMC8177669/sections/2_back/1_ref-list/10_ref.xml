@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Poissy</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Goutay</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Caplan</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Parmentier</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Duburcq</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Lassalle</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Pulmonary embolism in COVID-19 patients: awareness of an increased prevalence</article-title>. 
+  <source>Circulation.</source> (
+  <year>2020</year>) 
+  <volume>142</volume>:
+  <fpage>184</fpage>–
+  <lpage>6</lpage>. 
+  <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.120.047430</pub-id>
+  <?supplied-pmid 32330083?>
+  <pub-id pub-id-type="pmid">32330083</pub-id>
+ </mixed-citation>
+</ref>

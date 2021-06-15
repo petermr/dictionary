@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wit</surname>
+    <given-names>J. M.</given-names>
+   </name>
+   <name>
+    <surname>Oostdijk</surname>
+    <given-names>W.</given-names>
+   </name>
+  </person-group> (
+  <year>2011</year>). 
+  <article-title>Predicting adult height from a child’s current height.</article-title>
+  <source>
+   <italic>BMJ</italic>
+  </source>
+  <volume>343</volume>:
+  <issue>d6032</issue>. 
+  <pub-id pub-id-type="doi">10.1136/bmj.d6032</pub-id>
+  <?supplied-pmid 21952447?>
+  <pub-id pub-id-type="pmid">21952447</pub-id>
+ </mixed-citation>
+</ref>

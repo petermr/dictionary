@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Demographics.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>All patients</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>n</italic> = 296
+     </bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" colspan="2" rowspan="1">
+     <bold>Diagnosis</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Ulcerative colitis</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">99 (33.4)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Crohn's disease</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">64 (21.6)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Carcinoma</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">73 (24.7)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Varia</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">60 (20.3)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Emergency procedures</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">100 (33.8)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Age, years</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">50(15–83)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="2" rowspan="1">
+     <bold>Sex</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Female</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">125 (42.2)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Male</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">171 (57.8)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">BMI, kg/m
+     <sup>2</sup>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">23.9 (13.8–45.1)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="2" rowspan="1">
+     <bold>ASA</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">1, 2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">233 (78.7)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">3, 4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">63 (21.3)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">HOS</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">41 (13.9)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mortality</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1 (0.3)</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B23">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schulz</surname>
+    <given-names>K. F.</given-names>
+   </name>
+   <name>
+    <surname>Altman</surname>
+    <given-names>D. G.</given-names>
+   </name>
+   <name>
+    <surname>Moher</surname>
+    <given-names>D.</given-names>
+   </name>
+  </person-group> (
+  <year>2010</year>). 
+  <article-title>CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials.</article-title>
+  <source>
+   <italic>Trials</italic>
+  </source>
+  <volume>11</volume>
+  <fpage>1</fpage>–
+  <lpage>8</lpage>.
+  <pub-id pub-id-type="pmid">20059766</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Themes and subthemes.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Theme</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Sub themes</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Nurses are obligated to provide care for patients regardless</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">We are always available for patients</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Patient with Covid-19 has the right to be cared for</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">What if this patient one of my family members</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Ethical dilemma</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Nurses should not be forced: it should be voluntary</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">It is community and professional commitment</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Nurses are responsible to protect themselves</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

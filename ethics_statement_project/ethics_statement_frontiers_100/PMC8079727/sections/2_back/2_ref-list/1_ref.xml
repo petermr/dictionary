@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>von Brevern</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Radtke</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Lezius</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Feldmann</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Ziese</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Lempert</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Epidemiology of benign paroxysmal positional vertigo: a population based study</article-title>. 
+  <source>J Neurol Neurosurg Psychiatry.</source> (
+  <year>2007</year>) 
+  <volume>78</volume>:
+  <fpage>710</fpage>–
+  <lpage>5</lpage>. 
+  <pub-id pub-id-type="doi">10.1136/jnnp.2006.100420</pub-id>
+  <?supplied-pmid 17135456?>
+  <pub-id pub-id-type="pmid">17135456</pub-id>
+ </mixed-citation>
+</ref>

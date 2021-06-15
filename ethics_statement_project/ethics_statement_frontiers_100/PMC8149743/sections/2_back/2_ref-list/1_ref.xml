@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dmytrenko</surname>
+    <given-names>IV</given-names>
+   </name>
+   <name>
+    <surname>Fedorenko</surname>
+    <given-names>VG</given-names>
+   </name>
+   <name>
+    <surname>Shlyakhtychenko</surname>
+    <given-names>TY</given-names>
+   </name>
+   <name>
+    <surname>Sholoyko</surname>
+    <given-names>VV</given-names>
+   </name>
+   <name>
+    <surname>Lyubarets</surname>
+    <given-names>TF</given-names>
+   </name>
+   <name>
+    <surname>Malinkina</surname>
+    <given-names>TV</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>The efficiency of tyrosine kinase inhibitor therapy in patients with chronic myeloid leukemia exposed to ionizing radiation due to the Chornoby nuclear power plant accident</article-title>. 
+  <source>Probl Radiac Med Radiobiol.</source> (
+  <year>2014</year>) 
+  <volume>19</volume>:
+  <fpage>241</fpage>–
+  <lpage>55</lpage>.
+  <?supplied-pmid 25536562?>
+  <pub-id pub-id-type="pmid">25536562</pub-id>
+ </mixed-citation>
+</ref>

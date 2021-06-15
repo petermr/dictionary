@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B23">
+ <label>23.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhou</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Snoswell</surname>
+    <given-names>CL</given-names>
+   </name>
+   <name>
+    <surname>Harding</surname>
+    <given-names>LE</given-names>
+   </name>
+   <name>
+    <surname>Bambling</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Edirippulige</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Bai</surname>
+    <given-names>X</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>The role of telehealth in reducing the mental health burden from COVID-19</article-title>. 
+  <source>Telemed eHealth.</source> (
+  <year>2020</year>) 
+  <volume>26</volume>:
+  <fpage>377</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1089/tmj.2020.0068</pub-id>
+  <?supplied-pmid 32202977?>
+  <pub-id pub-id-type="pmid">32202977</pub-id>
+ </mixed-citation>
+</ref>

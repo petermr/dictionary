@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For our estimates, we consider the (up to) 100 most recent survey responses per region on April 20. The date is chosen because the mean period between illness onset and a 95% confidence of IgG antibodies presence is 14 days (
+ <xref rid="B16" ref-type="bibr">16</xref>). This results in 
+ <italic>n</italic> = 999 responses (59 ± 35 per region) across Spanish regions, with a cumulative reach of 
+ <inline-formula>
+  <math id="M2">
+   <munder class="msub">
+    <mrow>
+     <mo>∑</mo>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+    </mrow>
+   </munder>
+   <msub>
+    <mrow>
+     <mi>r</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mn>67</mn>
+   <mo>,</mo>
+   <mn>199</mn>
+  </math>
+ </inline-formula> (0.1827 ± 0.0701% of the regional population, and 0.1434% of the national population). On average, participants provide information for 
+ <italic>r</italic>
+ <sub>
+  <italic>i</italic>
+ </sub> = 74.6219 ± 38.0291 members in their social circle, which is coherent with Dunbar's acquaintance group and related studies that take social networks into consideration (
+ <xref rid="B17" ref-type="bibr">17</xref>). Within this dataset, our outlier removal methods excluded 19.8883 ± 9.2692% of responses, including spurious contributions as the original average reach per participant before filtering was &gt;5 · 10
+ <sup>15</sup>.
+</p>

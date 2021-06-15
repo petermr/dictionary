@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref ref-type="fig" rid="F2">Figure 2A</xref> presents how the number of responses per region affects the resulting value of 
+ <italic>R</italic>
+ <sup>2</sup>. This analysis indicates that 50 responses per region can already offer a reasonable estimation of cases. Including more responses may further increase accuracy, but the numbers remain reasonably stable. Naturally, it is important that responses are well-distributed across all regions. 
+ <xref ref-type="fig" rid="F2">Figure 2B</xref> depicts the effect of the day limit on 
+ <italic>R</italic>
+ <sup>2</sup> if we consider a date of ±1 week. Theoretically, a bell curve centered on the 20th should be expected, as estimating too early would imply too few cases are reported, and estimating too late would include more cases. We indeed observe an impact on accuracy, and the left half of the bell curve is more visible. The change in accuracy is mostly due to new daily responses collected on April 16th. The lack of the right half of the bell curve is due to the low number of new daily responses after April 16th, which implies that the daily estimates are computed with sets of responses with large intersections. Interestingly, a similarly high number of responses was collected on April 14th, with nearly no impact on accuracy.
+</p>

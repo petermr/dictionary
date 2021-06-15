@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T4" position="float">
+ <label>Table 4</label>
+ <caption>
+  <p>Pairwise comparison results for “branding attributes.”</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <sc>F</sc>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <sc>G</sc>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <sc>H</sc>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <sc>I</sc>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <sc>J</sc>
+     </bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Scholarly/scholarship</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">F 50.65%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">H 54.55%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">I 83.12%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">J 50.65%</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Advocate</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">G</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">H 55.84%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">I 85.71%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">J 57.14%</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Leadership/capacity for leadership</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">H</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">I 80.52%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">H 51.95%</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Clinical strength/expertise</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">I</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">I 78.95%</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Capacity builder</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">J</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>Respondents were forced to choose between each pairing. The number seen is the percentage of respondents who chose the attribute listed from the pairing. (e.g., in the pairing scholarly/scholarship vs. advocate or F vs. G, 50.65% of respondents chose scholarly/scholarship or F.)</italic>.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

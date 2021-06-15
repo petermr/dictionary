@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The external validation set was built by testing the PRS++ model trained from the United Kingdom biobank data on the FHS data. The out-of-sample 
+ <italic>R</italic>
+ <sup>2</sup> based on the PRS++ model estimates from the United Kingdom biobank data was 0.7866, while the one without parental contribution was 0.7070. The in-sample 
+ <italic>R</italic>
+ <sup>2</sup> of PRS++ in FHS data was 0.8113. Such a difference in 
+ <italic>R</italic>
+ <sup>2</sup> was possibly due to the different population stratifications in two datasets as all participants are self-reported white British in our UKB data while FHS took place in the United States. Nonetheless, the inclusion of parental information increases the accuracy of the height prediction (see 
+ <xref ref-type="fig" rid="F1">Figure 1</xref> and 
+ <xref rid="T3" ref-type="table">Table 3</xref>).
+</p>

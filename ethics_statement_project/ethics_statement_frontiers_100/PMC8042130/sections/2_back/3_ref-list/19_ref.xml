@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B19">
+ <label>19.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>van Diepen</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Norris</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Zheng</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Nagendran</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Graham</surname>
+    <given-names>MM</given-names>
+   </name>
+   <name>
+    <surname>Ortega</surname>
+    <given-names>DG</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Comparison of angiotensin-converting enzyme inhibitor and angiotensin receptor blocker management strategies before cardiac surgery: a pilot randomized controlled registry trial</article-title>. 
+  <source>J Am Heart Assoc.</source> (
+  <year>2018</year>) 
+  <volume>7</volume>:
+  <fpage>e009917</fpage>. 
+  <pub-id pub-id-type="doi">10.1161/JAHA.118.009917</pub-id>
+  <?supplied-pmid 30371293?>
+  <pub-id pub-id-type="pmid">30371293</pub-id>
+ </mixed-citation>
+</ref>

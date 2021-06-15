@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B25">
+ <label>25.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kuchenbuch</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>D'Onofrio</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Wirrell</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Jiang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Dupont</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Grinspan</surname>
+    <given-names>ZM</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>An accelerated shift in the use of remote systems in epilepsy due to the COVID-19 pandemic</article-title>. 
+  <source>Epilepsy Behav</source>. (
+  <year>2020</year>) 
+  <volume>112</volume>:
+  <fpage>107376</fpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.yebeh.2020107376</pub-id>
+  <?supplied-pmid 32882627?>
+  <pub-id pub-id-type="pmid">32882627</pub-id>
+ </mixed-citation>
+</ref>

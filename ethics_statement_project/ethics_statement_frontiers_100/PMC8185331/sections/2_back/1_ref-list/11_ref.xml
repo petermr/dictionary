@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Salem</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>Puccini</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Grothey</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Raghavan</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Goldberg</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Xiu</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Landscape of Tumor Mutation Load, Mismatch Repair Deficiency, and PD-L1 Expression in a Large Patient Cohort of Gastrointestinal Cancers</article-title>. 
+  <source>Mol Cancer Res</source> (
+  <year>2018</year>) 
+  <volume>16</volume>:
+  <page-range>805–12</page-range>.  
+  <pub-id pub-id-type="doi">10.1158/1541-7786.MCR-17-0735</pub-id>
+ </mixed-citation>
+</ref>

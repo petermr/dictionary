@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bycroft</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Freeman</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Petkova</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Band</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Elliott</surname>
+    <given-names>L. T.</given-names>
+   </name>
+   <name>
+    <surname>Sharp</surname>
+    <given-names>K.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2018</year>). 
+  <article-title>The UK Biobank resource with deep phenotyping and genomic data.</article-title>
+  <source>
+   <italic>Nature</italic>
+  </source>
+  <volume>562</volume>
+  <fpage>203</fpage>–
+  <lpage>209</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/s41586-018-0579-z</pub-id>
+  <?supplied-pmid 30305743?>
+  <pub-id pub-id-type="pmid">30305743</pub-id>
+ </mixed-citation>
+</ref>

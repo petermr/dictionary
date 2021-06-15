@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B24">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tibshirani</surname>
+    <given-names>R.</given-names>
+   </name>
+  </person-group> (
+  <year>1997</year>). 
+  <article-title>The lasso method for variable selection in the cox model.</article-title>
+  <source>
+   <italic>Stat Med.</italic>
+  </source>
+  <volume>16</volume>
+  <fpage>385</fpage>–
+  <lpage>395</lpage>. 
+  <pub-id pub-id-type="doi">10.1002/(sici)1097-0258(19970228)16:4&lt;385::aid-sim380&gt;3.0.co;2-3</pub-id>
+  <pub-id pub-id-type="pmid">9044528</pub-id>
+ </mixed-citation>
+</ref>

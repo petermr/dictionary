@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hoffmann</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Truong</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Schoenfeld</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Chou</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Woodard</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Nagurney</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Coronary CT angiography versus standard evaluation in acute chest pain</article-title>. 
+  <source>N Engl J Med.</source> (
+  <year>2012</year>) 
+  <volume>367</volume>:
+  <fpage>299</fpage>–
+  <lpage>308</lpage>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1201161</pub-id>
+  <?supplied-pmid 27006119?>
+  <pub-id pub-id-type="pmid">22830462</pub-id>
+ </mixed-citation>
+</ref>

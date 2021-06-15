@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Summary of patient's characteristics.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Patient</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Age (year)</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Sex</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Infection</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Bacterium</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Type of infection</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Lymphocytes (/mm
+      <sup>
+       <bold>3</bold>
+      </sup>) Normal ranges: 800–4,000
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>CD8+ absolute value (/mm
+      <sup>
+       <bold>3</bold>
+      </sup>) Normal ranges: 500–900
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>CD8+ percentage Normal ranges: 31–40</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>CD4+/CD8+ ratio Normal ranges: 1–2</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Delay between infection and dosage (months)</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">77</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Total hip arthroplasty infection</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>P. multocida</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Chronic</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1,292</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">220</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">17</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">64</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hand tendon sheath infection</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>P. multocida</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Acute</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3,009</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">620</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">20</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">47</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hand tendon sheath infection</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>P. multocida</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Acute</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2,420</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">395</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">38</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">27</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Osteitis</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>P. canis</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sub-acute</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1,935</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">320</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3.0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">38</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hand tendon sheath infection</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>P. canis</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Acute</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1,511</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">413</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">27</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">67</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">M</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hand tendon sheath infection</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>P. multocida</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Acute</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2,407</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">503</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">20.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">46</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hand tendon sheath infection</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">None (antibiotics for 3 days before surgery)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Acute</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2,693</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">482</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">17.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">59</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hand tendon sheath infection</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">None (Antibiotics for 2 days before surgery)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Acute</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1,976</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">481</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">24.4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

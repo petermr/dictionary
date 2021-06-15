@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>TABLE 1</label>
+ <caption>
+  <p>Results of the measurement model.</p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Construct</bold>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Item</bold>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Standardized factor loading</bold>
+    </td>
+    <td valign="top" align="center" colspan="2" rowspan="1">
+     <bold>Construct reliability</bold>
+     <hr/>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Convergent validity</bold>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Alpha</bold>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>CR</bold>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>AVE</bold>
+    </td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">SR</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SR1</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.867</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.902</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.921</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.756</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">SR2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.894</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">SR3</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.847</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">EE</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">EE1</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.803</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.828</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.837</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.633</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">EE2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.699</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">EE3</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.875</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">CU1</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.805</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.850</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.850</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.655</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">CU2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.813</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">CU3</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.809</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">JP</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">JP1</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.833</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.872</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.872</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.695</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">JP2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.828</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">JP3</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.839</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">PU1</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.816</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.843</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.844</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.644</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">PU2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.764</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">PU3</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.826</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">SN</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SN1</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.847</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.876</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.877</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.704</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">SN2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.861</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">SN3</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.809</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PBC</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">PBC1</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.808</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.838</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.839</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.635</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">PBC2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.826</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">PBC3</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.755</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">BI</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">BI1</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.886</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.913</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.913</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.777</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">BI2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.887</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">BI3</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.872</td>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <attrib>
+   <italic>Alpha, Cronbach’s alpha; CR, composite reliability; AVE, average variance extracted; SR, social recognition; EE, environmental ethics; CU, curiosity; JP, joy of purchase; PU, perceived usefulness; SN, subjective norm; PBC, perceived behavioral control; BI, behavioral intention.</italic>
+  </attrib>
+ </table-wrap-foot>
+</table-wrap>

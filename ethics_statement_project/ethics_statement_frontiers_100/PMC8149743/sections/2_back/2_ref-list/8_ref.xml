@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <label>8.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Preston</surname>
+    <given-names>DL</given-names>
+   </name>
+   <name>
+    <surname>Kusumi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Tomonaga</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Izumi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Ron</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Kuramoto</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Cancer incidence in atomic bomb survivors. Part III. Leukemia, lymphoma and multiple myeloma, 1950-1987</article-title>. 
+  <source>Radiat Res.</source> (
+  <year>1994</year>) 
+  <volume>137</volume>:
+  <fpage>S68</fpage>–
+  <lpage>97</lpage>. 
+  <pub-id pub-id-type="doi">10.2307/3578893</pub-id>
+  <?supplied-pmid 8127953?>
+  <pub-id pub-id-type="pmid">8127953</pub-id>
+ </mixed-citation>
+</ref>

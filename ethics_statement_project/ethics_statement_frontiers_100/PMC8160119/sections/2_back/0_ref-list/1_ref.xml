@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Torjesen</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Covid-19: Norway investigates 23 deaths in frail elderly patients after vaccination</article-title>. 
+  <source>BMJ.</source> (
+  <year>2021</year>) 
+  <volume>372</volume>: 
+  <fpage>n149</fpage>. 
+  <pub-id pub-id-type="doi">10.1136/bmj.n149</pub-id>
+  <?supplied-pmid 33451975?>
+  <pub-id pub-id-type="pmid">33451975</pub-id>
+ </mixed-citation>
+</ref>

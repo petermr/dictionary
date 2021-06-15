@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <sec>
+  <title>Introduction</title>
+  <p>The insufficient understanding and misdiagnosis of clinically diagnosed pulmonary tuberculosis (PTB) without an aetiological evidence is a major problem in the diagnosis of tuberculosis (TB). This study aims to confirm the value of Long non-coding RNA (lncRNA) n344917 in the diagnosis of PTB and construct a rapid, accurate, and universal prediction model.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p>A total of 536 patients were prospectively and consecutively recruited, including clinically diagnosed PTB, PTB with an aetiological evidence and non-TB disease controls, who were admitted to West China hospital from Dec 2014 to Dec 2017. The expression levels of lncRNA n344917 of all patients were analyzed using reverse transcriptase quantitative real-time PCR. Then, the laboratory findings, electronic health record (EHR) information and expression levels of n344917 were used to construct a prediction model through the Least Absolute Shrinkage and Selection Operator algorithm and multivariate logistic regression.</p>
+ </sec>
+ <sec>
+  <title>Results</title>
+  <p>The factors of n344917, age, CT calcification, cough, TBIGRA, low-grade fever and weight loss were included in the prediction model. It had good discrimination (area under the curve = 0.88, cutoff = 0.657, sensitivity = 88.98%, specificity = 86.43%, positive predictive value = 85.61%, and negative predictive value = 89.63%), consistency and clinical availability. It also showed a good replicability in the validation cohort. Finally, it was encapsulated as an open-source and free web-based application for clinical use and is available online at 
+   <ext-link ext-link-type="uri" xlink:href="https://ziruinptb.shinyapps.io/shiny/" xmlns:xlink="http://www.w3.org/1999/xlink">https://ziruinptb.shinyapps.io/shiny/</ext-link>.
+  </p>
+ </sec>
+ <sec>
+  <title>Conclusion</title>
+  <p>Combining the novel potential molecular biomarker n344917, laboratory and EHR variables, this web-based prediction model could serve as a user-friendly, accurate platform to improve the clinical diagnosis of PTB.</p>
+ </sec>
+</abstract>

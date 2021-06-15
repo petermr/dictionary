@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B20">
+ <label>20.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ponzi</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Alesi</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Lepri</surname>
+    <given-names>FR</given-names>
+   </name>
+   <name>
+    <surname>Genovese</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Loddo</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Mucciolo</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Uniparental isodisomy of chromosome 1 results in glycogen storage disease type III with profound growth retardation</article-title>. 
+  <source>Mol Genet Genomic Med.</source> (
+  <year>2019</year>) 
+  <volume>7</volume>:
+  <fpage>e634</fpage>. 
+  <pub-id pub-id-type="doi">10.1002/mgg3.634</pub-id>
+  <?supplied-pmid 30916492?>
+  <pub-id pub-id-type="pmid">30916492</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>Linear regression models of BAL protein concentrations correlated with Brody score. Linear regression analysis of the relative fluorescent units (rfu) of the seven proteins that correlated with Brody scores. 
+   <bold>(A)</bold> Myeloperoxidase, 
+   <bold>(B)</bold> Azurocidin, 
+   <bold>(C)</bold> Complement C3, 
+   <bold>(D)</bold> C3a anaphylatoxin des Arginine, 
+   <bold>(E)</bold> X-ray repair CCP-6, 
+   <bold>(F)</bold> Cytokine receptor common subunit gamma, and 
+   <bold>(G)</bold> IL-22. Spearman's Rho = r. Coefficient of determination = 
+   <italic>R</italic>
+   <sup>2</sup>. Dashed lines represent 95% confidence intervals.
+  </p>
+ </caption>
+ <graphic xlink:href="fped-09-640184-g0001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hwang</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <name>
+    <surname>Doshi</surname>
+    <given-names>RN</given-names>
+   </name>
+   <name>
+    <surname>Peter</surname>
+    <given-names>CT</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>PS</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Vein of marshall cannulation for the analysis of electrical activity in patients with focal atrial fibrillation</article-title>. 
+  <source>Circulation.</source> (
+  <year>2000</year>) 
+  <volume>101</volume>:
+  <fpage>1503</fpage>–
+  <lpage>5</lpage>. 
+  <pub-id pub-id-type="doi">10.1161/01.cir.101.13.1503</pub-id>
+  <?supplied-pmid 10747341?>
+  <pub-id pub-id-type="pmid">10747341</pub-id>
+ </mixed-citation>
+</ref>

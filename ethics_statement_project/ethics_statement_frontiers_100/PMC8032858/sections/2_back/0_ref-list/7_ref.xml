@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chang</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Mo</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Yuan</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Tao</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Peng</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>FS</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Time kinetics of viral clearance and resolution of symptoms in novel coronavirus infection</article-title>. 
+  <source>Am J Respir Crit Care Med.</source> (
+  <year>2020</year>) 
+  <volume>201</volume>:
+  <fpage>1150</fpage>–
+  <lpage>2</lpage>. 
+  <pub-id pub-id-type="doi">10.1164/rccm.202003-0524LE</pub-id>
+  <?supplied-pmid 32200654?>
+  <pub-id pub-id-type="pmid">32200654</pub-id>
+ </mixed-citation>
+</ref>

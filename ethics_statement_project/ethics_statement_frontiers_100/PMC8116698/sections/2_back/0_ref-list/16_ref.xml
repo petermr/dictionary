@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <label>16.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cruz</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Chow</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>O'Kelly</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Marotta</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Spears</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Montanera</surname>
+    <given-names>W</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Delayed ipsilateral parenchymal hemorrhage following flow diversion for the treatment of anterior circulation aneurysms</article-title>. 
+  <source>Am J Neuroradiol.</source> (
+  <year>2012</year>) 
+  <volume>33</volume>:
+  <fpage>603</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.3174/ajnr.A3065</pub-id>
+  <?supplied-pmid 22403783?>
+  <pub-id pub-id-type="pmid">22403783</pub-id>
+ </mixed-citation>
+</ref>

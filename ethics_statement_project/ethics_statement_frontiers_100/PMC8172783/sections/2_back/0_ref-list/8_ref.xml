@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <label>8.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yesavage</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Blind</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Rose</surname>
+    <given-names>TL</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Development and validation of a geriatric depression screening scale: a preliminary report</article-title>. 
+  <source>J Psychiatric Res.</source> (
+  <year>1982</year>) 
+  <volume>17</volume>:
+  <fpage>37</fpage>–
+  <lpage>49</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/0022-3956(82)90033-4</pub-id>
+  <?supplied-pmid 7183759?>
+  <pub-id pub-id-type="pmid">7183759</pub-id>
+ </mixed-citation>
+</ref>

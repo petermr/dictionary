@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Statistical analysis and graphic design were performed using R version 3.5.2 (the R Foundation for Statistical Computing, 
+ <ext-link ext-link-type="uri" xlink:href="http://www.r-project.org" xmlns:xlink="http://www.w3.org/1999/xlink">www.r-project.org</ext-link>). Since days to recovery were not normally distributed, non-parametric testing using the Mann-Whitney 
+ <italic>U</italic>-test was performed. To compare treatment success after the first maneuver, a chi-square test was applied. Differences were considered significant if 
+ <italic>p</italic> &lt; 0.05.
+</p>

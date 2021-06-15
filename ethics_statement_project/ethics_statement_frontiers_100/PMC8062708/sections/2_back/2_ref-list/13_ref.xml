@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B13">
+ <label>13.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bernard</surname>
+    <given-names>HR</given-names>
+   </name>
+   <name>
+    <surname>Hallett</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Iovita</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Johnsen</surname>
+    <given-names>EC</given-names>
+   </name>
+   <name>
+    <surname>Lyerla</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>McCarty</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Counting hard-to-count populations: the network scale-up method for public health</article-title>. 
+  <source>Sex Transm Infect</source>. (
+  <year>2010</year>) 
+  <volume>86</volume>:
+  <fpage>ii11</fpage>–
+  <lpage>5</lpage>. 
+  <pub-id pub-id-type="doi">10.1136/sti.2010.044446</pub-id>
+  <?supplied-pmid 21106509?>
+  <pub-id pub-id-type="pmid">21106509</pub-id>
+ </mixed-citation>
+</ref>

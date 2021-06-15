@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B18">
+ <label>18.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Spronken</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Brouwers</surname>
+    <given-names>EPM</given-names>
+   </name>
+   <name>
+    <surname>Vermunt</surname>
+    <given-names>JK</given-names>
+   </name>
+   <name>
+    <surname>Arends</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Oerlemans</surname>
+    <given-names>WG</given-names>
+   </name>
+   <name>
+    <surname>Van Der Klink</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Identifying return to work trajectories among employees on sick leave due to mental health problems using latent class transition analysis</article-title>. 
+  <source>BMJ Open.</source> (
+  <year>2020</year>) 
+  <volume>10</volume>:
+  <fpage>e032016</fpage>. 
+  <pub-id pub-id-type="doi">10.1136/bmjopen-2019-032016</pub-id>
+  <?supplied-pmid 32107267?>
+  <pub-id pub-id-type="pmid">32107267</pub-id>
+ </mixed-citation>
+</ref>

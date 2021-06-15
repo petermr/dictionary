@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <label>8.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Korkmaz</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>Oto</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Saraçlar</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Oram</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Oram</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Ugurlu</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Levels of IgE in the serum of patients with coronary arterial disease</article-title>. 
+  <source>Int J Cardiol.</source> (
+  <year>1991</year>) 
+  <volume>31</volume>:
+  <fpage>199</fpage>–
+  <lpage>204</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/0167-5273(91)90216-C</pub-id>
+  <?supplied-pmid 1869329?>
+  <pub-id pub-id-type="pmid">1869329</pub-id>
+ </mixed-citation>
+</ref>

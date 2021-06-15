@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shen</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Zheng</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Ren</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Du</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Dong</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Z</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Anlotinib: a novel multi-targeting tyrosine kinase inhibitor in clinical development</article-title>. 
+  <source>J Hematol Oncol</source> (
+  <year>2018</year>) 
+  <volume>11</volume>:
+  <page-range>120–30</page-range>.  
+  <pub-id pub-id-type="doi">10.1186/s13045-018-0664-7</pub-id>
+ </mixed-citation>
+</ref>

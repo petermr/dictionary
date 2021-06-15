@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <label>16</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Uren</surname>
+    <given-names>PJ</given-names>
+   </name>
+   <name>
+    <surname>Penalva</surname>
+    <given-names>LOF</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>AD</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Riborex: fast and flexible identification of differential translation from Ribo-seq data</article-title>. 
+  <source>Bioinformatics</source> (
+  <year>2017</year>) 
+  <volume>33</volume>(
+  <issue>11</issue>):
+  <page-range>1735–7</page-range>. 
+  <pub-id pub-id-type="doi">10.1093/bioinformatics/btx047</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Baseline characteristics of the 584 participants by bedtime.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>At or before 9 p.m</bold>.
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>9–11 p.m</bold>.
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>After 11 p.m</bold>.
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>P</italic>-value
+     </bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>N</italic> (%)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">238 (22.8%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 (64.5%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">133 (12.7%)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Age</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">75.6 (SD 8.0)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">70.7 (SD 7.9)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">68.8 (SD 7.5)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.71</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Female</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">139 (58.7%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">392 (58.3)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">64 (48.1%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.08</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Income≥1200RMB/month</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">231 (97.0%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">663 (98.2%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">128 (96.1%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.380</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">College education or more</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">32 (13.5%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">234 (34.8%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">53 (39.9%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>&lt;0.001</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">BMI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">25.5 (SD 3.8)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">24.9 (SD 3.3)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">24.7 (3.6)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.186</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Current smoking</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14 (5.9%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">54 (8.1%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">26 (19.6%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>&lt;0.001</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Alcohol drinking</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">23 (9.8%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">44 (6.6%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16 (12.0%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.05</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Physical activity</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">83 (35.6%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">202 (30.4%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">54 (40.9%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.04</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Depression symptoms</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">31 (12.9%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">84 (12.4%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">17 (12.6%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.990</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hypertension</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">161 (67.9%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">368 (54.7%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">68 (51.1%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.001</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Heart disease</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">44 (18.6%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">97 (14.5%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">17 (12.9%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.23</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Diabetes</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">49 (20.7%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">113 (16.8%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12 (9.0%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.02</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">APOE e4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">45 (21.6%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">89 (14.4%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">19 (14.6%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.04</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sleep duration</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6.9 (SD 1.3)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6.9 (SD 1.2)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6.7 (SD 1.1)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.245</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sleep efficiency</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">85.0 (SD 13.6)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">83.1 (SD 14.4)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">85.7 (SD 12.6)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.171</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PSQI score</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4.48 (SD 3.07)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4.87 (SD 3.45)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4.91 (SD 3.14)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.538</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">MMSE</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">27.6 (SD 2.9)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">28.1 (SD 2.2)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">28.6 (SD 2.0)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.01</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">MMSE at follow-up
+     <xref ref-type="table-fn" rid="TN1">
+      <sup>*</sup>
+     </xref>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">23.8 (SD 7.1)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">27.3 (SD 2.9)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">27.4 (SD 3.8)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>&lt;0.001</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Incident of dementia
+     <xref ref-type="table-fn" rid="TN1">
+      <sup>*</sup>
+     </xref>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">26 (24.5%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">20 (5.0%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1 (1.2%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>&lt;0.001</bold>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="TN1">
+   <label>*</label>
+   <p>
+    <italic>Among the 584 participants who completed the follow-up interview. Bold values indicate statistically significant</italic>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

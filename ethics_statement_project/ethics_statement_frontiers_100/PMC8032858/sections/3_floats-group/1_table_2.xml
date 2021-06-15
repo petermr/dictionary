@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Median time till viral clearance.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>N</italic> (184)
+     </bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Hazards of viral clearance
+      <xref ref-type="table-fn" rid="TN3">
+       <sup>
+        <bold>a</bold>
+       </sup>
+      </xref> [HR (95% CI)]
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Time till viral clearance [median (IQR)]</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>p</italic>-value—log rank test
+     </bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" colspan="5" rowspan="1">
+     <bold>Sex</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Males</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">69</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">1.1 (0.7–1.5)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11 (8–14)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.622</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Females</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">115</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Reference group</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12 (10–14)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="5" rowspan="1">
+     <bold>Age group</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">0–29</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">25</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Reference group</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11 (8–13)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.265</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">30–39</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">23</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.7 (0.4–1.3)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11 (8–13)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">40–49</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">39</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.8 (0.5–1.4)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11 (8–13)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">50–59</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">56</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.7 (0.4–1.2)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12 (9–14.5)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">60+</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">41</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.6 (0.4–1.0)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13 (9–14)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="5" rowspan="1">
+     <bold>Symptoms</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Asymptomatic</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">145</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Reference group</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11 (8–14)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.491</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Symptomatic</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">39</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">1.08 (0.7–1.5)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11 (9–14)</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="TN3">
+   <label>a</label>
+   <p>
+    <italic>Adjusted for all predictor variables</italic>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

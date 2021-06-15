@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Histograms of all results were visually analyzed to detect possible outliers. As the Clinical and Laboratory Standards Institute recommends, the values were retained rather than deleted unless they were known to be aberrant observations (
+ <xref rid="B11" ref-type="bibr">11</xref>). Normality of the distribution of native or transformed values was tested using the Anderson–Darling test. Finally, reference intervals and 90% confidence intervals (CI) of the limits were determined using the Reference Value Advisor macroinstructions (
+ <xref rid="B12" ref-type="bibr">12</xref>) for Excel (Microsoft Corp., Redmond, WA, USA), with the guidance of American Society for Veterinary Clinical Pathology reference interval guidelines (
+ <xref rid="B13" ref-type="bibr">13</xref>). As the sample size was too small (
+ <italic>n</italic> &lt;40) to compute a non-parametric reference interval, the robust method with a Box-Cox transformation was used after checking the symmetry of the distribution. The effect of blood and oropharyngeal contamination was tested using GraphPad Prism 8.0 (GraphPad Software Inc., La Jolla, USA) and statistical significance was set at 
+ <italic>P</italic> &lt; 0.05. Unpaired 
+ <italic>T</italic>-test assuming Gaussian distribution was performed.
+</p>

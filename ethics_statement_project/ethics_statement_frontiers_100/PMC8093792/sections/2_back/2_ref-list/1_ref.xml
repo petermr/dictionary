@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>White</surname>
+    <given-names>AC</given-names>
+   </name>
+   <name>
+    <surname>Kumpe</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Roark</surname>
+    <given-names>CD</given-names>
+   </name>
+   <name>
+    <surname>Case</surname>
+    <given-names>DE</given-names>
+   </name>
+   <name>
+    <surname>Seinfeld</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Patterns, predictors, and outcomes of postprocedure delayed hemorrhage following flow diversion for intracranial aneurysm treatment</article-title>. 
+  <source>World Neurosurg.</source> (
+  <year>2018</year>) 
+  <volume>115</volume>:
+  <fpage>e97</fpage>–
+  <lpage>e104</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.wneu.2018.03.190</pub-id>
+  <?supplied-pmid 29626682?>
+  <pub-id pub-id-type="pmid">29626682</pub-id>
+ </mixed-citation>
+</ref>

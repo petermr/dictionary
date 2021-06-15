@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15">
+ <label>15.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Beaman</surname>
+    <given-names>BL</given-names>
+   </name>
+   <name>
+    <surname>Burnside</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Edwards</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Causey</surname>
+    <given-names>W</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Nocardial infections in the United States, 1972-1974</article-title>. 
+  <source>J Infect Dis.</source> (
+  <year>1976</year>) 
+  <volume>134</volume>:
+  <fpage>286</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/infdis/134.3.286</pub-id>
+  <?supplied-pmid 789786?>
+  <pub-id pub-id-type="pmid">789786</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B20">
+ <label>20.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kontoyiannis</surname>
+    <given-names>DP</given-names>
+   </name>
+   <name>
+    <surname>Ruoff</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Hooper</surname>
+    <given-names>DC</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Nocardia bacteremia. Report of 4 cases and review of the literature</article-title>. 
+  <source>Medicine.</source> (
+  <year>1998</year>) 
+  <volume>77</volume>:
+  <fpage>255</fpage>–
+  <lpage>67</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/00005792-199807000-00004</pub-id>
+  <?supplied-pmid 9715730?>
+  <pub-id pub-id-type="pmid">9715730</pub-id>
+ </mixed-citation>
+</ref>

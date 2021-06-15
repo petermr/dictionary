@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B88">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Williams</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>MacKinnon</surname>
+    <given-names>D. P.</given-names>
+   </name>
+  </person-group> (
+  <year>2008</year>). 
+  <article-title>Resampling and distribution of the product methods for testing indirect effects in complex models.</article-title>
+  <source>
+   <italic>Struct. Equ. Modeling</italic>
+  </source>
+  <volume>15</volume>
+  <fpage>23</fpage>–
+  <lpage>51</lpage>. 
+  <pub-id pub-id-type="doi">10.1080/10705510701758166</pub-id>
+  <?supplied-pmid 20179778?>
+  <pub-id pub-id-type="pmid">20179778</pub-id>
+ </mixed-citation>
+</ref>

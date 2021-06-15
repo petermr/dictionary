@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Motzer</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Escudier</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>McDermott</surname>
+    <given-names>DF</given-names>
+   </name>
+   <name>
+    <surname>George</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Hammers</surname>
+    <given-names>HJ</given-names>
+   </name>
+   <name>
+    <surname>Srinivas</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Nivolumab Versus Everolimus in Advanced Renal-Cell Carcinoma</article-title>. 
+  <source>N Engl J Med</source> (
+  <year>2015</year>) 
+  <volume>373</volume>(
+  <issue>19</issue>):
+  <page-range>1803–13</page-range>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1510665</pub-id>
+ </mixed-citation>
+</ref>

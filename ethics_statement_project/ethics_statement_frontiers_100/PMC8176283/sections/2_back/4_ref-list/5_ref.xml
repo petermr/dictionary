@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Manichaikul</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Mychaleckyj</surname>
+    <given-names>J. C.</given-names>
+   </name>
+   <name>
+    <surname>Rich</surname>
+    <given-names>S. S.</given-names>
+   </name>
+   <name>
+    <surname>Daly</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Sale</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>W. M.</given-names>
+   </name>
+  </person-group> (
+  <year>2010</year>). 
+  <article-title>Robust relationship inference in genome-wide association studies.</article-title>
+  <source>
+   <italic>Bioinformatics</italic>
+  </source>
+  <volume>26</volume>
+  <fpage>2867</fpage>–
+  <lpage>2873</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/bioinformatics/btq559</pub-id>
+  <?supplied-pmid 20926424?>
+  <pub-id pub-id-type="pmid">20926424</pub-id>
+ </mixed-citation>
+</ref>

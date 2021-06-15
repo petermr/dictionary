@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <label>16.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Patterson</surname>
+    <given-names>TF</given-names>
+   </name>
+   <name>
+    <surname>Thompson</surname>
+    <given-names>GR III</given-names>
+   </name>
+   <name>
+    <surname>Denning</surname>
+    <given-names>DW</given-names>
+   </name>
+   <name>
+    <surname>Fishman</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Hadley</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Herbrecht</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Practice guidelines for the diagnosis and management of aspergillosis: 2016 update by the infectious diseases Society of America</article-title>. 
+  <source>Clin Infect Dis.</source> (
+  <year>2016</year>) 
+  <volume>63</volume>:
+  <fpage>e1</fpage>–
+  <lpage>60</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/cid/ciw326</pub-id>
+  <?supplied-pmid 27481947?>
+  <pub-id pub-id-type="pmid">27365388</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Seaborn</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Simard</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Provost</surname>
+    <given-names>PR</given-names>
+   </name>
+   <name>
+    <surname>Piedboeuf</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Tremblay</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Sex hormone metabolism in lung development and maturation</article-title>. 
+  <source>Trends Endocrinol Metab.</source> (
+  <year>2010</year>) 
+  <volume>21</volume>:
+  <fpage>729</fpage>–
+  <lpage>38</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.tem.2010.09.001</pub-id>
+  <?supplied-pmid 20971653?>
+  <pub-id pub-id-type="pmid">20971653</pub-id>
+ </mixed-citation>
+</ref>

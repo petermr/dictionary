@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fn-group>
+ <fn id="footnote1">
+  <label>1</label>
+  <p>Excerpt from workers’ instructions: “There are two types of players in this experiment, employers and workers. You have been randomly selected to be a worker” and “A third participant has been randomly chosen to be an employer.” “You and the other worker are invited to work individually on a task on behalf of the employer.” See 
+   <xref ref-type="supplementary-material" rid="DS1">Supplementary Appendix A</xref> for full instructions.
+  </p>
+ </fn>
+ <fn id="footnote2">
+  <label>2</label>
+  <p>We can only speculate why these subjects’ held beliefs that were at odds with the information given about the employer’s information. However, for this analysis, we include these workers if not stated otherwise.</p>
+ </fn>
+ <fn id="footnote3">
+  <label>3</label>
+  <p>We also allowed for alternative activities (e.g., internet surfing), and the instructions explicitly stated, 
+   <italic>“</italic>You choose how to spend your time in the experiment. Nevertheless, we require that you stay in the designated space throughout the experiment. You can use your mobile phone to browse the internet, but make sure it is in silent mode before we start.”
+  </p>
+ </fn>
+ <fn id="footnote4">
+  <label>4</label>
+  <p>In 
+   <xref ref-type="supplementary-material" rid="DS1">Supplementary Appendix Table 8</xref>, we present more detailed summary statistics for each treatment. This table shows some workers (only four in total) chose to refrain from providing effort, and these workers all participated in treatments where effort was not observed by the employer.
+  </p>
+ </fn>
+ <fn id="footnote5">
+  <label>5</label>
+  <p>See 
+   <xref ref-type="supplementary-material" rid="DS1">Supplementary Appendix Table 11</xref> for non-parametric tests of differences in the background variables between treatments.
+  </p>
+ </fn>
+ <fn id="footnote6">
+  <label>6</label>
+  <p>An 
+   <italic>F</italic>-test on whether the coefficients are jointly equal to zero is rejected [Wald test: 
+   <italic>F</italic>(3, 233) = 3.34, 
+   <italic>p</italic> = 0.02].
+  </p>
+ </fn>
+</fn-group>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Literature review of reported cases of primary teratoma in medulla oblongata.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Investigator</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Age</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Gender</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Size (cm)</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Operation</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Pathology</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Outcome</bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Symptom</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Koh et al. (
+     <xref rid="B3" ref-type="bibr">3</xref>)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">14 years old</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Male</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Subtotal resection and chemoradiotherapy</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mixed-GCT: 95%mature teratoma and 5% germinoma</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Alive after 12 mons</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Left hemiparesis, gait disturbance, and multiple cranial nerve palsies for 10 days</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Tsuzuki et al. (
+     <xref rid="B5" ref-type="bibr">5</xref>)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">39 years old</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Male</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Subtotal resection and chemoradiotherapy</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Malignant teratoma</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Died after 3 mons</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Progressive gait disturbance for 3 mons</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Li et al. (
+     <xref rid="B4" ref-type="bibr">4</xref>)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">9 years old</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Male</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">1.4*0.8*1.0</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Total resection</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mature teratoma</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Died after 1 mon</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Neck pain and repeated paroxysmal vomiting for 6 mons</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Li et al. (
+     <xref rid="B4" ref-type="bibr">4</xref>)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">10 years old</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Male</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">3.4*3.6*3.2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Total resection</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mature teratoma</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Alive at 59 mons</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Intermittent headache for 1 mon</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Present case</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">15 years old</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Male</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">3.2*3.1*2.8</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Total resection</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mature teratoma</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Alive at 15 mons</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Gait disturbance and weakness of limbs for 13 years</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

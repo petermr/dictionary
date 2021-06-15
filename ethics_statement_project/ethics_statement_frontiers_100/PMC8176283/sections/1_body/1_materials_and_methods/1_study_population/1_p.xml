@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The United Kingdom Biobank
+ <sup>
+  <xref ref-type="fn" rid="footnote1">1</xref>
+ </sup> is a large, prospective population-based cohort study that enrolled approximately 500,000 participants aged 40 to 69 between 2006 and 2010 ref. (
+ <xref rid="B8" ref-type="bibr">Sudlow et al., 2015</xref>). The study has collected a multitude of phenotypic data from questionnaires, physical and biological measurements, and electronic health records as well as genome-wide genotype data. We used the KING software to identify parent–child pairs ref. (
+ <xref rid="B5" ref-type="bibr">Manichaikul et al., 2010</xref>; 
+ <xref rid="B1" ref-type="bibr">Bycroft et al., 2018</xref>). We excluded pairs where the parent is less than 18 years older than the child. We then grouped the pairs into father–child pairs, mother–child pairs, and mother–father–child trios. Because the predictor PRS was based on samples of European ancestry, we only included trios where all members are self-reported white British. In total, we identified 1,017 trios of European ancestry.
+</p>

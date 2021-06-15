@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Top reported comorbidities and medications associated with deaths following COVID-19 vaccination by the location of vaccination.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+     <bold>All locations</bold>
+     <italic>
+      <bold>N</bold>
+     </italic>
+     <bold>=</bold>
+     <bold>55</bold>
+    </th>
+    <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+     <bold>Long-term care facilities</bold>
+     <italic>
+      <bold>N</bold>
+     </italic>
+     <bold>=</bold>
+     <bold>37</bold>
+    </th>
+    <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+     <bold>Other locations</bold>
+     <italic>
+      <bold>N</bold>
+     </italic>
+     <bold>=</bold>
+     <bold>18</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>P</italic>
+     </bold>
+    </th>
+   </tr>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>N</italic>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>%</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>N</italic>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>%</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>N</italic>
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>%</bold>
+    </th>
+    <th rowspan="1" colspan="1"/>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" colspan="8" rowspan="1">
+     <bold>Comorbidities</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hypertension</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">22</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">40.0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">37.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">44.4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.6390</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Dementia</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">17</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">30.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">15</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">40.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.0267</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">COPD</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">23.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">24.3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">22.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.0000</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Diabetes</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">21.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">27.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.4993</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Heart failure</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">24.3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.1399</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hyperlipidemia</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.0000</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anemia</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.2497</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CKD</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.6713</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Stroke</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.0000</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Atrial fibrillation</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.6514</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Depression</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.6514</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Fall</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.1621</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">GERD</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.0000</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="8" rowspan="1">
+     <bold>Medications</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Acetaminophen</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">21.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.2441</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Aspirin</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.0000</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Amlodipine</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7079</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Metoprolol</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.7079</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Omeprazole</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.4058</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Potassium</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.1621</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Vitamin D</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.1621</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Docusate</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.1603</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Furosemide</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13.5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.1603</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Lisinopril</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.6583</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mirtazapine</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.6583</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Tamsulosin</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.0000</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>COVID-19, coronavirus disease 2019; COPD, chronic obstructive pulmonary disease; CKD, chronic kidney disease; GERD, gastroesophageal reflux disease</italic>.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

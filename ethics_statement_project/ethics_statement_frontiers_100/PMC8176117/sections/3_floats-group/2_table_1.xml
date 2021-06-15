@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Summary of clinicopathological characteristics of the two cases.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">Case No</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Age</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Sex</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Smoking history, years</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Histology</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">PD-L1 expression</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Treatment of ICIs</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Best response to ICIs</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Treatment for SCLC</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Patients outcome post SCLC therapy</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">69</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Male</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">30</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SCC</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">≥50%</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sintilimab
+     <break/>(q3wk)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">PR</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">NA</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Died</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">71</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Male</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">34</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SCC</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1%</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Nivolumab
+     <break/>(q2wk)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">PD</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">EP</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Died</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>SCC, squamous cell carcinomas; PR, partial response; PD, progression of disease; EP, etoposide plus cisplatin; ICIs, immune checkpoint inhibitors; PD-L1, programmed cell death-ligand 1.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

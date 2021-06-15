@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Higgins</surname>
+    <given-names>J. P.</given-names>
+   </name>
+   <name>
+    <surname>Altman</surname>
+    <given-names>D. G.</given-names>
+   </name>
+   <name>
+    <surname>Gøtzsche</surname>
+    <given-names>P. C.</given-names>
+   </name>
+   <name>
+    <surname>Jüni</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Moher</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Oxman</surname>
+    <given-names>A. D.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2011</year>). 
+  <article-title>The Cochrane Collaboration’s tool for assessing risk of bias in randomised trials.</article-title>
+  <source>
+   <italic>Bmj</italic>
+  </source>
+  <volume>343</volume>:
+  <issue>d5928</issue>. 
+  <pub-id pub-id-type="doi">10.1136/bmj.d5928</pub-id>
+  <?supplied-pmid 22008217?>
+  <pub-id pub-id-type="pmid">22008217</pub-id>
+ </mixed-citation>
+</ref>

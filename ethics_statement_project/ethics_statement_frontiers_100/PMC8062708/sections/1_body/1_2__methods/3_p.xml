@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To ensure total anonymity, the surveys are hosted on a private instance of LimeSurvey (
+ <xref rid="B15" ref-type="bibr">15</xref>). Data is aggregated daily, and in this process the responses are shuffled so no single entry can be back-traced to its user. All the data is published in a public Github repository. The study design was reviewed and approved by the ethics committee of the IMDEA Networks Institute. The survey includes an informed consent.
+</p>

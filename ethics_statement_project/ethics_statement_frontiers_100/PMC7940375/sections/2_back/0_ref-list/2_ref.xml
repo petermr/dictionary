@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B2">
+ <label>2.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hatemi</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Christensen</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Bang</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Bodaghi</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Celik</surname>
+    <given-names>AF</given-names>
+   </name>
+   <name>
+    <surname>Fortune</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>2018 update of the EULAR recommendations for the management of Behcet's syndrome</article-title>. 
+  <source>Ann Rheum Dis.</source> (
+  <year>2018</year>) 
+  <volume>77</volume>:
+  <fpage>808</fpage>–
+  <lpage>18</lpage>. 
+  <pub-id pub-id-type="doi">10.1136/annrheumdis-2018-213225</pub-id>
+  <?supplied-pmid 29625968?>
+  <pub-id pub-id-type="pmid">29625968</pub-id>
+ </mixed-citation>
+</ref>

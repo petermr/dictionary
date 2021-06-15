@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B2">
+ <label>2.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Raghu</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Remy-Jardin</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Myers</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Richeldi</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Ryerson</surname>
+    <given-names>CJ</given-names>
+   </name>
+   <name>
+    <surname>Lederer</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Diagnosis of idiopathic pulmonary fibrosis. An official ATS/ERS/JRS/ALAT clinical practice guideline</article-title>. 
+  <source>Am J Respir Crit Care Med</source>. (
+  <year>2018</year>) 
+  <volume>198</volume>:
+  <fpage>e44</fpage>–
+  <lpage>68</lpage>. 
+  <pub-id pub-id-type="doi">10.1164/rccm.201807-1255ST</pub-id>
+  <?supplied-pmid 30168753?>
+  <pub-id pub-id-type="pmid">30168753</pub-id>
+ </mixed-citation>
+</ref>

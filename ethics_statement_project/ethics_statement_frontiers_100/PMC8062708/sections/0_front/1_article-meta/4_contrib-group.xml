@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Garcia-Agundez</surname>
+   <given-names>Augusto</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="corresp" rid="c001">
+   <sup>*</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/580997/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ojo</surname>
+   <given-names>Oluwasegun</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hernández-Roig</surname>
+   <given-names>Harold A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1246613/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Baquero</surname>
+   <given-names>Carlos</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">
+   <sup>4</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1212645/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Frey</surname>
+   <given-names>Davide</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Georgiou</surname>
+   <given-names>Chryssis</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff6">
+   <sup>6</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1277386/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Goessens</surname>
+   <given-names>Mathieu</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff7">
+   <sup>7</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lillo</surname>
+   <given-names>Rosa E.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff8">
+   <sup>8</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Menezes</surname>
+   <given-names>Raquel</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff9">
+   <sup>9</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nicolaou</surname>
+   <given-names>Nicolas</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff10">
+   <sup>10</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1067077/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ortega</surname>
+   <given-names>Antonio</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff11">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Stavrakis</surname>
+   <given-names>Efstathios</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff10">
+   <sup>10</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fernandez Anta</surname>
+   <given-names>Antonio</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1043233/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+</contrib-group>

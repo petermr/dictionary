@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B24">
+ <label>24.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>von Elm</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Altman</surname>
+    <given-names>DG</given-names>
+   </name>
+   <name>
+    <surname>Egger</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Pocock</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Gøtzsche</surname>
+    <given-names>PC</given-names>
+   </name>
+   <name>
+    <surname>Vandenbroucke</surname>
+    <given-names>JP</given-names>
+   </name>
+  </person-group>. 
+  <article-title>The strengthening the reporting of observational studies in epidemiology (STROBE) statement: guidelines for reporting observational studies</article-title>. 
+  <source>Lancet.</source> (
+  <year>2007</year>) 
+  <volume>370</volume>:
+  <fpage>1453</fpage>–
+  <lpage>7</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(07)61602-X</pub-id>
+  <?supplied-pmid 25046131?>
+  <pub-id pub-id-type="pmid">18064739</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Assenza</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Lanzone</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Brigo</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Coppola</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Di Gennaro</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Di Lazzaro</surname>
+    <given-names>V</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Epilepsy care in the time of COVID-19 pandemic in Italy: risk factors for seizure worsening</article-title>. 
+  <source>Front Neurol.</source> (
+  <year>2020</year>) 
+  <volume>11</volume>:
+  <fpage>737</fpage>. 
+  <pub-id pub-id-type="doi">10.3389/fneur.202000737</pub-id>
+  <?supplied-pmid 32719655?>
+  <pub-id pub-id-type="pmid">32719655</pub-id>
+ </mixed-citation>
+</ref>

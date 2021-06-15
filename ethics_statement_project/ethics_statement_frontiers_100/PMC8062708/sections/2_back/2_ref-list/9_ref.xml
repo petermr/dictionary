@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B9">
+ <label>9.</label>
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ojo</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>García-Agundez</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Girault</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Hernández</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Cabana</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>García-García</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>CoronaSurveys: using surveys with indirect reporting to estimate the incidence and evolution of epidemics</article-title>. In: 
+  <source>KDD Workshop Humanitarian Mapping</source>, 
+  <publisher-loc>San Diego, CA</publisher-loc> (
+  <year>2020</year>).
+ </mixed-citation>
+</ref>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B26">
+ <label>26</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shao</surname>
+    <given-names>DD</given-names>
+   </name>
+   <name>
+    <surname>Xue</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Krall</surname>
+    <given-names>EB</given-names>
+   </name>
+   <name>
+    <surname>Bhutkar</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Piccioni</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>X</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>KRAS and YAP1 converge to regulate EMT and tumor survival</article-title>. 
+  <source>Cell</source> (
+  <year>2014</year>) 
+  <volume>158</volume>(
+  <issue>1</issue>):
+  <page-range>171–84</page-range>. 
+  <pub-id pub-id-type="doi">10.1016/j.cell.2014.06.004</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Survey response rates.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Respondent category</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Number of respondents</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Response rate</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">DCYMH Faculty</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">73/145</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">50.3%</td>
+   </tr>
+   <tr style="border-bottom: thin solid #000000;">
+    <td valign="top" align="left" rowspan="1" colspan="1">Current CAP trainees</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4/10</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">40.0%</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Total</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">77/155</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">49.7%</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Together with novel molecular biomarkers, many studies have focused on integrating laboratory and electronic medical records (EHR) variables in a combined prediction model. 
+ <xref rid="B7" ref-type="bibr">El-Solh et al. (1999)</xref> developed an artificial neural network model based on demographic variables, constitutional symptoms and radiographic findings, which can predict active PTB with a high accuracy (
+ <italic>c</italic>-indices ± SEM = 0.947 ± 0.028). However, the value of this model in the clinically diagnosed PTB was not investigated. In addition, due to the limitations of the sample size, different populations and lack of external validation, it is difficult for many prediction models to precisely identify TB (
+ <xref rid="B27" ref-type="bibr">Van Wyk et al., 2017</xref>). Many studies tried to find a possible solution to these problems. 
+ <xref rid="B6" ref-type="bibr">Cross et al. (2013)</xref> demonstrated that adding appropriate biomarker information could improve the accuracy of case reclassification by at least 10%. Therefore, we hypothesized that a prediction model based on effective lncRNA, laboratory and EHR variables can represent a promising rapid and universal method to enhance the identification of clinically diagnosed PTB.
+</p>

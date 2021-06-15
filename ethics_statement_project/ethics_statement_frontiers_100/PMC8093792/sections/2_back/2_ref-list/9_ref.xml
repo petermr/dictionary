@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B9">
+ <label>9.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Becske</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Kallmes</surname>
+    <given-names>DF</given-names>
+   </name>
+   <name>
+    <surname>Saatci</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>McDougall</surname>
+    <given-names>CG</given-names>
+   </name>
+   <name>
+    <surname>Szikora</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Lanzino</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Pipeline for uncoilable or failed aneurysms: results from a multicenter clinical trial</article-title>. 
+  <source>Radiology.</source> (
+  <year>2013</year>) 
+  <volume>267</volume>:
+  <fpage>858</fpage>–
+  <lpage>68</lpage>. 
+  <pub-id pub-id-type="doi">10.1148/radiol.13120099</pub-id>
+  <?supplied-pmid 23418004?>
+  <pub-id pub-id-type="pmid">23418004</pub-id>
+ </mixed-citation>
+</ref>

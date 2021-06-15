@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B14">
+ <label>14.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fine</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Eames</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Heymann</surname>
+    <given-names>DL</given-names>
+   </name>
+  </person-group>. 
+  <article-title>“Herd immunity”: a rough guide</article-title>. 
+  <source>Clin Infect Dis.</source> (
+  <year>2011</year>) 
+  <volume>52</volume>:
+  <fpage>911</fpage>–
+  <lpage>6</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/cid/cir007</pub-id>
+  <?supplied-pmid 21427399?>
+  <pub-id pub-id-type="pmid">21427399</pub-id>
+ </mixed-citation>
+</ref>

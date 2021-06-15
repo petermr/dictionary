@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We used summary statistics of two prominent height GWAS studies as allelic scoring references to construct the PRS. The first GWAS reported 697 SNPs in year 2014, denoted as GWAS-2014. The second GWAS is a meta-analysis between GWAS-2014 and UKB GWAS that reported 3,290 SNPs, and we denote this as GWAS-2018 ref. (
+ <xref rid="B15" ref-type="bibr">Yengo et al., 2018</xref>). We denote PRS generated from these two GWAS as PRS.0 (697 SNPs) and PRS.1 (3290 SNPs), respectively. We then applied more liberal thresholds based on GWAS-2018 to include many more marginal significant SNPs that are expected to increase the prediction power of PRS ref. (
+ <xref rid="B7" ref-type="bibr">Purcell et al., 2009</xref>; 
+ <xref rid="B3" ref-type="bibr">Inouye et al., 2018</xref>). We used a widely accepted P+T approach to pick independent SNPs whose 
+ <italic>p</italic> value is lower than 1e-02, 1e-03, 1e-04, 1e-05, 1e-06, 1e-07, and 1e-08, and we denoted these PRS as PRS.2, PRS.3, PRS.4, PRS.5, PRS.6, PRS.7, and PRS.8, accordingly. Given that GWAS-2018 includes some of the ∼3,000 samples used for this study, we ran another UKB-only height GWAS without these ∼3,000 samples and meta-analyzed it with the GIANT-2014 results, denoting this new meta-analysis as GWAS-2018b. We then generated a new set of PRS.2 to PRS.8 using the GWAS-2018b set as a reference, but we found that all seven PRS were extremely similar, with 
+ <italic>r</italic>
+ <sup>2</sup> &gt; 0.99, suggesting essentially no complementarity. We kept the PRS derived from GWAS-2018, since it is publicly available. We first used PLINK software ref. (
+ <xref rid="B6" ref-type="bibr">Purcell et al., 2007</xref>) to prune the full GWAS summary statistics to pick independent SNPs, based on a LD reference panel of the 1,000 genome project phase III. The pruning parameters were: 1 Mb sliding window and LD 
+ <italic>r</italic>
+ <sup>2</sup> of 0.1. We then used the PLINK “–score” function to calculate a PRS, based on the pruned list of SNPs. Both steps were run for each chromosome in parallel. Finally, we added up all the PRS for each chromosome into a single genome-wide PRS.
+</p>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T3" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Comparison of imaging outcomes between the two groups.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Imaging outcomes</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Granular bone graft group</bold>
+     <break/>
+     <bold> (
+      <italic>N</italic> = 25)
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Transverse process bone graft group</bold>
+     <break/>
+     <bold> (
+      <italic>N</italic> = 27)
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>P</italic>-value
+     </bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Preoperative Cobb angle (°)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">15.2 ± 11.3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">15.2 ± 15.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.995</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Postoperative Cobb angle (°)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.0 ± 7.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.2 ± 12.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.938</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Last follow-up Cobb angle (°)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6.5 ± 7.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6.4 ± 12.6</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.997</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Cobb angle correction (°)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10.2 ± 5.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9.9 ± 7.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.896</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Cobb angle loss (°)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.5 ± 0.4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.2 ± 0.3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Bone graft fusion time (month)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.0 ± 0.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6.3 ± 1.0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

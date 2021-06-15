@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T4" position="float">
+ <label>Table 4</label>
+ <caption>
+  <p>Multivariable logistic regression of risk factors for the development of HOS.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>OR (95 % CI)</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>P</italic>-value
+     </bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Age</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.055 (1.025-1.086)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Diagnosis</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.035</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Ulcerative colitis (UC)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">–</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">–</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    (reference)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Crohn's disease (CD)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11.326 (1.799-71.289)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.010</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Carcinoma</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.555 (0.396-16.478)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.324</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Other</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4.026 (0.593-27.305)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.154</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Surgical procedure</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.008</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Left-sided colectomy (reference)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">–</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">–</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Ileo pouch-anal anastomosis</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">67.304 (7.006-646.581)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    (IPAA)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Procto-colectomy</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9.970 (0.803-123.755)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.074</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Right-sided colectomy</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8.559 (1.483-49.380)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.016</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Sole Ileostomy</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8.303 (1.652-41.728)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.010</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">    Small bowel resection</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11.910 (1.718-82.580)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.012</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>OR, odds ratio; CI, confidence interval</italic>.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

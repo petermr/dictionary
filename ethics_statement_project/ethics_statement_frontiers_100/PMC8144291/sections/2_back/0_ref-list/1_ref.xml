@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wong</surname>
+    <given-names>AW</given-names>
+   </name>
+   <name>
+    <surname>Fidler</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Marcoux</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Johannson</surname>
+    <given-names>KA</given-names>
+   </name>
+   <name>
+    <surname>Assayag</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Fisher</surname>
+    <given-names>JH</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Practical considerations for the diagnosis and treatment of fibrotic interstitial lung disease during the COVID-19 pandemic</article-title>. 
+  <source>Chest.</source> (
+  <year>2020</year>) 
+  <volume>158</volume>:
+  <fpage>1069</fpage>–
+  <lpage>78</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.chest.2020.04.019</pub-id>
+  <pub-id pub-id-type="pmid">32333929</pub-id>
+ </mixed-citation>
+</ref>

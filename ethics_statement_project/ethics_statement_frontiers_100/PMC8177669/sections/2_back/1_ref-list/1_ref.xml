@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ranucci</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Ballotta</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Di Dedda</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Bayshnikova</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Dei Poli</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Resta</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>The procoagulant pattern of patients with Covid-19 acute respiratory distress syndrome</article-title>. 
+  <source>J Thromb Haemost.</source> (
+  <year>2020</year>) 
+  <volume>18</volume>:
+  <fpage>1747</fpage>–
+  <lpage>51</lpage>. 
+  <pub-id pub-id-type="doi">10.1111/jth.14854</pub-id>
+  <?supplied-pmid 32302448?>
+  <pub-id pub-id-type="pmid">32302448</pub-id>
+ </mixed-citation>
+</ref>

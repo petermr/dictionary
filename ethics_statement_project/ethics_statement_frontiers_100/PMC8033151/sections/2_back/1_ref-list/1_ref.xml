@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xu</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Feng</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Zhao</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Liao</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Ji</surname>
+    <given-names>W</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Nonstrict and individual enhanced recovery after surgery (ERAS) in partial hepatectomy</article-title>. 
+  <source>Springerplus</source>. (
+  <year>2016</year>) 
+  <volume>5</volume>:
+  <fpage>2011</fpage>. 
+  <pub-id pub-id-type="doi">10.1186/s40064-016-3688-x</pub-id>
+  <?supplied-pmid 27933266?>
+  <pub-id pub-id-type="pmid">27933266</pub-id>
+ </mixed-citation>
+</ref>

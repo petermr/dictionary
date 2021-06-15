@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f2" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>OS in matched HAI and non-HAI group. Median OS was 14.0 months 
+   <italic>vs.</italic> 10.8 months in patients with and without HAI (log-rank test, 
+   <italic>P</italic> = 0.001).
+  </p>
+ </caption>
+ <graphic xlink:href="fonc-11-652426-g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

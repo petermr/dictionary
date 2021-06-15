@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brody</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Kosorok</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Broderick</surname>
+    <given-names>LS</given-names>
+   </name>
+   <name>
+    <surname>Foster</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Laxova</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Reproducibility of a scoring system for computed tomography scanning in cystic fibrosis</article-title>. 
+  <source>J Thorac Imaging</source>. (
+  <year>2006</year>) 
+  <volume>21</volume>:
+  <fpage>14</fpage>–
+  <lpage>21</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/01.rti.0000203937.82276.ce</pub-id>
+  <?supplied-pmid 16538150?>
+  <pub-id pub-id-type="pmid">16538150</pub-id>
+ </mixed-citation>
+</ref>

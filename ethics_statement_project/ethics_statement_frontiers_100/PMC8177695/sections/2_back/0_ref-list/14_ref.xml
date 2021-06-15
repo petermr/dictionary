@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B14">
+ <label>14.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Clavien</surname>
+    <given-names>PA</given-names>
+   </name>
+   <name>
+    <surname>Barkun</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>de</surname>
+    <given-names>Oliveira ML</given-names>
+   </name>
+   <name>
+    <surname>Vauthey</surname>
+    <given-names>JN</given-names>
+   </name>
+   <name>
+    <surname>Dindo</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Schulick</surname>
+    <given-names>RD</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>The clavien-dindo classification of surgical complications: five-year experience</article-title>. 
+  <source>Ann Surg.</source> (
+  <year>2009</year>) 
+  <volume>250</volume>:
+  <fpage>187</fpage>–
+  <lpage>96</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/SLA.0b013e3181b13ca2</pub-id>
+  <?supplied-pmid 19638912?>
+  <pub-id pub-id-type="pmid">19638912</pub-id>
+ </mixed-citation>
+</ref>

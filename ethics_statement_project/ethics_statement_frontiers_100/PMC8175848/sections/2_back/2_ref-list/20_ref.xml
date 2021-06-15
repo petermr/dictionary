@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B20">
+ <label>20.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>John</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Child</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Hix</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Maskill</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Bowers</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Catanzariti</surname>
+    <given-names>AR</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>A retrospective analysis of anterior calcaneal osteotomy with allogenic bone graft</article-title>. 
+  <source>J Foot Ankle Surg.</source> (
+  <year>2010</year>) 
+  <volume>49</volume>:
+  <fpage>375</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1053/j.jfas.2009.12.007</pub-id>
+  <?supplied-pmid 20382548?>
+  <pub-id pub-id-type="pmid">20382548</pub-id>
+ </mixed-citation>
+</ref>

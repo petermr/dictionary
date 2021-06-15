@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-formula id="S3.E1">
+ <label>(1)</label>
+ <math id="M4">
+  <mrow>
+   <mrow>
+    <mrow>
+     <mi>l</mi>
+     <mi>o</mi>
+     <mpadded width="+2.8pt">
+      <mi>w</mi>
+     </mpadded>
+     <mi>g</mi>
+     <mi>r</mi>
+     <mi>a</mi>
+     <mi>d</mi>
+     <mpadded width="+2.8pt">
+      <mi>e</mi>
+     </mpadded>
+     <mi>f</mi>
+     <mi>e</mi>
+     <mi>v</mi>
+     <mi>e</mi>
+     <mi>r</mi>
+     <mo>+</mo>
+     <mn>0.6216830</mn>
+     <mo>*</mo>
+     <mi>l</mi>
+     <mi>o</mi>
+     <mi>s</mi>
+     <mi>s</mi>
+     <mo stretchy="false">)</mo>
+    </mrow>
+    <mo stretchy="false">)</mo>
+   </mrow>
+   <mo stretchy="false">)</mo>
+   <mo>,</mo>
+   <mo stretchy="false">(</mo>
+   <mi>c</mi>
+   <mi>u</mi>
+   <mi>t</mi>
+   <mi>o</mi>
+   <mi>f</mi>
+   <mi>f</mi>
+   <mo>=</mo>
+   <mn>0.657</mn>
+   <mo stretchy="false">)</mo>
+   <mo>.</mo>
+  </mrow>
+ </math>
+</disp-formula>

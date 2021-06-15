@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Figliozzi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Masci</surname>
+    <given-names>PG</given-names>
+   </name>
+   <name>
+    <surname>Ahmadi</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Tondi</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Koutli</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Aimo</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Predictors of adverse prognosis in COVID-19: a systematic review and meta-analysis</article-title>. 
+  <source>Eur J Clin Invest</source>. (
+  <year>2020</year>) 
+  <volume>50</volume>:
+  <fpage>e13362</fpage>. 
+  <pub-id pub-id-type="doi">10.1111/eci.13362</pub-id>
+  <?supplied-pmid 32726868?>
+  <pub-id pub-id-type="pmid">32726868</pub-id>
+ </mixed-citation>
+</ref>

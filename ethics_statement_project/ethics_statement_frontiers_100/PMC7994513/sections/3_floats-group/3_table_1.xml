@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Reports of thyroid metastases from breast carcinoma.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">Study</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Year</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">No. of patients</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Age(years)</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Sex</th>
+    <th valign="top" align="left" rowspan="1" colspan="1">Histology</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Interval between Breast cancer and thyroid metastasis (months)</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Others metastasis</th>
+    <th valign="top" align="left" rowspan="1" colspan="1">Treatment</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Survival time after diagnosis (months)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Kim et al. (
+     <xref rid="B3" ref-type="bibr">3</xref>)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2005</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">34–55</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Ductal carcinoma</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18–85</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Lung, neck LN</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Chemotherapy</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4–26</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Owens et al. (
+     <xref rid="B10" ref-type="bibr">10</xref>)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2005</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">64</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">NA</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Liver, shoulder</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">NA</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Zhou et al. (
+     <xref rid="B1" ref-type="bibr">1</xref>)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2019</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">43–69</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Adenocarcinoma, Ductal carcinoma, Signet ring cell carcinoma,</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6–82</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Chest wall, Lung, Cervical and
+     <break/>Mediastinal LN
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Chemotherapy, total
+     <break/>thyroidectomy, Right lobectomy
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4–45</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Egana et al. (
+     <xref rid="B11" ref-type="bibr">11</xref>)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2012</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">83</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Infiltrating lobular carcinoma</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Live and bone</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Left lobectomy</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Lacka et al. (
+     <xref rid="B6" ref-type="bibr">6</xref>)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2012</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">54</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Ductal-lobular carcinoma</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Live, lung</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Total
+     <break/>thyroidectomy
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Bourcier et al. (
+     <xref rid="B19" ref-type="bibr">19</xref>)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">54</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Lobular carcinoma</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Cervical LN</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Total thyroidectomy and cervical lymph node dissection, Endocrine therapy</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Pensabene et al. (
+     <xref rid="B4" ref-type="bibr">4</xref>)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">64</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Infiltrating lobular carcinoma</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Bone</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Left lobectomy</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">45</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Ghias et al. (
+     <xref rid="B5" ref-type="bibr">5</xref>)
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2019</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">67</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Ductal carcinoma</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Right cerebellopontine angle</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Right lobectomy</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Present study</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2021</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">54</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">F</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Ductal carcinoma</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">22</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Cervical LN, chest wall</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Chemotherapy</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>F, female; LN, lymph node; NA, Not available.</p>
+ </table-wrap-foot>
+</table-wrap>

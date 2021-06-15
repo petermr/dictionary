@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Primer sequence.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">Gene</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Primer</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Sequence (5'-3')</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Length</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Location</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" rowspan="2" align="left" colspan="1">YAP1</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Forward</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">TTTTACCGCGTCTCCCTGATT</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">21</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">607-627</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Reverse</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">AGAAACACCTGGGCTAGTAGAAA</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">23</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">819-797</td>
+   </tr>
+   <tr>
+    <td valign="top" rowspan="2" align="left" colspan="1">GAPDH</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Forward</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">GGAGCGAGATCCCTCCAAAAT</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">21</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">108-128</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Reverse</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">GGCTGTTGTCATACTTCTCATGG</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">23</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">304-282</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

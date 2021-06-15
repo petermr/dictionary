@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B2">
+ <label>2.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Leng</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Musiek</surname>
+    <given-names>ES</given-names>
+   </name>
+   <name>
+    <surname>Hu</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Cappuccio</surname>
+    <given-names>FP</given-names>
+   </name>
+   <name>
+    <surname>Yaffe</surname>
+    <given-names>K</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Association between circadian rhythms and neurodegenerative diseases</article-title>. 
+  <source>Lancet Neurol.</source> (
+  <year>2019</year>) 
+  <volume>18</volume>:
+  <fpage>307</fpage>–
+  <lpage>18</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S1474-4422(18)30461-7</pub-id>
+  <?supplied-pmid 30784558?>
+  <pub-id pub-id-type="pmid">30784558</pub-id>
+ </mixed-citation>
+</ref>

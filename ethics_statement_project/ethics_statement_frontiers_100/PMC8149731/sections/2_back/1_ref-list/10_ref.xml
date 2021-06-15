@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Thijssen</surname>
+    <given-names>DHJ</given-names>
+   </name>
+   <name>
+    <surname>Bruno</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>van Mil</surname>
+    <given-names>ACCM</given-names>
+   </name>
+   <name>
+    <surname>Holder</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Faita</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Greyling</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Expert consensus and evidence-based recommendations for the assessment of flow-mediated dilation in humans</article-title>. 
+  <source>Eur Heart J</source>. (
+  <year>2019</year>) 
+  <volume>40</volume>:
+  <fpage>2534</fpage>–
+  <lpage>47</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/eurheartj/ehz350</pub-id>
+  <?supplied-pmid 31211361?>
+  <pub-id pub-id-type="pmid">31211361</pub-id>
+ </mixed-citation>
+</ref>

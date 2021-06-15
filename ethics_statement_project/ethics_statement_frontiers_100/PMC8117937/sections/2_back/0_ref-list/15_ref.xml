@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15">
+ <label>15</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sun</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Spill</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Zaman</surname>
+    <given-names>MH</given-names>
+   </name>
+  </person-group>. 
+  <article-title>A computational model of YAP/TAZ mechanosensingJ</article-title>. 
+  <source>Biophys J</source> (
+  <year>2016</year>) 
+  <volume>110</volume>(
+  <issue>11</issue>):
+  <page-range>2540–50</page-range>. 
+  <pub-id pub-id-type="doi">10.1016/j.bpj.2016.04.040</pub-id>
+ </mixed-citation>
+</ref>

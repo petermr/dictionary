@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Talan</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Citron</surname>
+    <given-names>DM</given-names>
+   </name>
+   <name>
+    <surname>Abrahamian</surname>
+    <given-names>FM</given-names>
+   </name>
+   <name>
+    <surname>Moran</surname>
+    <given-names>GJ</given-names>
+   </name>
+   <name>
+    <surname>Goldstein</surname>
+    <given-names>EJ</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Bacteriologic analysis of infected dog and cat bites. Emergency Medicine Animal Bite Infection Study Group</article-title>. 
+  <source>N Engl J Med.</source> (
+  <year>1999</year>) 
+  <volume>340</volume>:
+  <fpage>85</fpage>–
+  <lpage>92</lpage>. 
+  <pub-id pub-id-type="doi">10.1056/NEJM199901143400202</pub-id>
+  <?supplied-pmid 9887159?>
+  <pub-id pub-id-type="pmid">9887159</pub-id>
+ </mixed-citation>
+</ref>

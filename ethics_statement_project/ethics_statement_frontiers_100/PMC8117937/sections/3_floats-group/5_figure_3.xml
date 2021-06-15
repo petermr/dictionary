@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f3" position="float">
+ <label>Figure 3</label>
+ <caption>
+  <p>UMMD treatment 
+   <italic>in vivo</italic> promotes YAP1 translation efficiency. 
+   <bold>(A)</bold> RNA-seq detection of YAP1 expression in CMM mouse tumor tissues; 
+   <bold>(B)</bold> RT-qPCR detection of YAP1 mRNA expression in CMM mouse tumor tissues; 
+   <bold>(C)</bold> Ribo-seq detection of YAP1 expression in CMM mouse tumor tissues. *
+   <italic>p</italic> &lt; 0.05.
+  </p>
+ </caption>
+ <graphic xlink:href="fonc-11-619167-g003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

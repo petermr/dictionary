@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B52">
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Martella</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Kray</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Clementini</surname>
+    <given-names>E.</given-names>
+   </name>
+  </person-group> (
+  <year>2015</year>). “
+  <article-title>A gamification framework for volunteered geographic information</article-title>,” in 
+  <source>
+   <italic>AGILE 2015</italic>
+  </source>, 
+  <role>eds</role>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Bacao</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Santos</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Painho</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group> (
+  <publisher-loc>Cham</publisher-loc>: 
+  <publisher-name>Springer</publisher-name>), 
+  <fpage>73</fpage>–
+  <lpage>89</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/978-3-319-16787-9_5</pub-id>
+ </mixed-citation>
+</ref>

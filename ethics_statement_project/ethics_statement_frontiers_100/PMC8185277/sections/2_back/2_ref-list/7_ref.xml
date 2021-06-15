@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>El-Solh</surname>
+    <given-names>A. A.</given-names>
+   </name>
+   <name>
+    <surname>Hsiao</surname>
+    <given-names>C. B.</given-names>
+   </name>
+   <name>
+    <surname>Goodnough</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Serghani</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Grant</surname>
+    <given-names>B. J. B.</given-names>
+   </name>
+  </person-group> (
+  <year>1999</year>). 
+  <article-title>Predicting active pulmonary tuberculosis using an artificial neural network.</article-title>
+  <source>
+   <italic>Chest</italic>
+  </source>
+  <volume>116</volume>
+  <fpage>968</fpage>–
+  <lpage>973</lpage>. 
+  <pub-id pub-id-type="doi">10.1378/chest.116.4.968</pub-id>
+  <?supplied-pmid 10531161?>
+  <pub-id pub-id-type="pmid">10531161</pub-id>
+ </mixed-citation>
+</ref>

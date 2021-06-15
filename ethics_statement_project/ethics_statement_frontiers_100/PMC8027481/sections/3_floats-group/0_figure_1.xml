@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>MRI scan showing a giant mass in the left breast with skin ulceration. Without chest wall infiltration or axillary lymph node metastasis were observed. 
+   <bold>(A)</bold> Sagittal MR scanning, 
+   <bold>(B)</bold> Horizontal MR scanning.
+  </p>
+ </caption>
+ <graphic xlink:href="fendo-12-651568-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

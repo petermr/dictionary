@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McClure</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Cataldi</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>O'Leary</surname>
+    <given-names>ST</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Vaccine hesitancy: where we are and where we are going</article-title>. 
+  <source>Clin Ther.</source> (
+  <year>2017</year>) 
+  <volume>39</volume>:
+  <fpage>1550</fpage>–
+  <lpage>62</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.clinthera.2017.07.003</pub-id>
+  <?supplied-pmid 28774498?>
+  <pub-id pub-id-type="pmid">28774498</pub-id>
+ </mixed-citation>
+</ref>

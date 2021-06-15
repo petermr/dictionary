@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Landry</surname>
+    <given-names>CS</given-names>
+   </name>
+   <name>
+    <surname>Grubbs</surname>
+    <given-names>EG</given-names>
+   </name>
+   <name>
+    <surname>Hernandez</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Hu</surname>
+    <given-names>MI</given-names>
+   </name>
+   <name>
+    <surname>Hansen</surname>
+    <given-names>MO</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>JE</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Predictable criteria for selective, rather than routine, calcium supplementation following thyroidectomy</article-title>. 
+  <source>Arch Surg</source>. (
+  <year>2012</year>) 
+  <volume>147</volume>:
+  <fpage>338</fpage>. 
+  <pub-id pub-id-type="doi">10.1001/archsurg.2011.1406</pub-id>
+  <?supplied-pmid 22184134?>
+  <pub-id pub-id-type="pmid">22184134</pub-id>
+ </mixed-citation>
+</ref>

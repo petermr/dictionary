@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Panagiotou</surname>
+    <given-names>OA</given-names>
+   </name>
+   <name>
+    <surname>Kosar</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>White</surname>
+    <given-names>EM</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Risk factors associated with all-cause 30-day mortality in nursing home residents with COVID-19</article-title>. 
+  <source>JAMA Intern Med</source>. (
+  <year>2021</year>) 
+  <volume>181</volume>:
+  <fpage>439</fpage>–
+  <lpage>48</lpage>. 
+  <pub-id pub-id-type="doi">10.1001/jamainternmed.2020.7968</pub-id>
+  <?supplied-pmid 33394006?>
+  <pub-id pub-id-type="pmid">33394006</pub-id>
+ </mixed-citation>
+</ref>

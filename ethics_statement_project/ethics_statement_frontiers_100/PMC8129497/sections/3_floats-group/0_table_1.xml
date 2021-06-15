@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Clinical information and SDS scores.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Pre-group (
+      <italic>n</italic> = 10)
+     </bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Within-group (
+      <italic>n</italic> = 9)
+     </bold>
+    </th>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>
+      <italic>p</italic>-value
+     </bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sex (female), 
+     <italic>n</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">3 (30%)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">4 (44%)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.558</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Age at evaluation (years)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">mean 30.7, SD 14.2, median 27</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">mean 34.7, SD 11.5, median 37</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.51</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Type of epilepsy</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">7 TLE, 2 FLE, 1 OLE</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">7 TLE, 2 FLE</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">na</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">IQ</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">mean 85.8, SD 20.7, median 89.5</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">mean 84.3, SD 18.1, median 86</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.871</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">SDS score</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">mean 39.9, SD 6.4, median 41.5</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">mean 33.2, SD 6.45, median 32</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.037
+     <xref ref-type="table-fn" rid="TN1">
+      <sup>*</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Seizure frequency</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">mean 2.6, SD 0.84, median 3.0</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">mean 2.67, SD 1.12, median 3</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.794</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Duration from onset to SDS evaluation (m)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">mean 115.5, SD 113.2, median 72</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">mean 193.3, SD 155.7, median 144</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.19</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">No. of ASMs</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">mean 2, SD 0.94, median 2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">mean 1.89, SD 0.928, median 2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.787</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>SD, standard deviation; SDS, self-rating depression scale; TLE, temporal lobe epilepsy; FLE, frontal lobe epilepsy; OLE, occipital lobe epilepsy; IQ, intelligence quotient; ASM, anti-seizure medication; m, months. Seizure frequency was classified as: (1) daily; (2) weekly; (3) monthly; or (4) yearly</italic>.
+  </p>
+  <fn id="TN1">
+   <label>*</label>
+   <p>
+    <italic>significant difference, p &lt; 0.05</italic>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

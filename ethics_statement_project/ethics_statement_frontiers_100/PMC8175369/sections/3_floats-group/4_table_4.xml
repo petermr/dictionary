@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T4" position="float">
+ <label>TABLE 4</label>
+ <caption>
+  <p>Structural model analysis.</p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>DV</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>IV</bold>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Unstd. regression weight</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>SE</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>t</italic>-Value
+     </bold>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Std. path coefficient</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>R</italic>
+      <sup>2</sup>
+     </bold>
+    </td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CU</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">SR</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.145</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.042</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3.447</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.163***</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.580</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">EE</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.689</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.057</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12.166</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.648***</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">JP</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">SR</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.191</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.040</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4.746</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.202***</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.783</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">EE</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.840</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.056</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14.893</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.744***</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PU</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">SR</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.082</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.045</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.848</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.065</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.685</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">EE</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.859</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.062</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13.844</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.769***</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">SN</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">SR</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.261</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.043</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6.030</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.275***</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.613</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">EE</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.659</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.056</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11.795</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.580***</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PBC</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">SR</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.183</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.041</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4.454</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.206***</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.650</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">EE</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.699</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.054</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12.896</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.660***</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">BI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">CU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.036</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.048</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.741</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.036*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.549</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">JP</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.332</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.063</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.252</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.357***</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">PU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.126</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.055</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.278</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.134*</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">SN</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.105</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.046</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.274</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.114*</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">PBC</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.200</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.054</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">3.712</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.201***</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <attrib>
+   <italic>DV, dependent variable; IV, independent variable; SR, social recognition; EE, environmental ethics; CU, curiosity; JP, joy of purchase; PU, perceived usefulness; SN, subjective norm; PBC, perceived behavioral control; BI, behavioral intention. *
+    <italic>p</italic>-value &lt; 0.05. ***
+    <italic>p-</italic>value &lt; 0.001.
+   </italic>
+  </attrib>
+ </table-wrap-foot>
+</table-wrap>

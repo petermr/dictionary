@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B27">
+ <label>27</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhou</surname>
+    <given-names>SC</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>TT</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>YX</given-names>
+   </name>
+   <name>
+    <surname>Guo</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Yu</surname>
+    <given-names>JH</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>An Ultrasound Radiomics Nomogram for Preoperative Prediction of Central Neck Lymph Node Metastasis in Papillary Thyroid Carcinoma</article-title>. 
+  <source>Front Oncol</source> (
+  <year>2020</year>) 
+  <volume>10</volume>:
+  <elocation-id>1591</elocation-id>.  
+  <pub-id pub-id-type="doi">10.3389/fonc.2020.01591</pub-id>
+  <pub-id pub-id-type="pmid">33014810</pub-id>
+ </mixed-citation>
+</ref>

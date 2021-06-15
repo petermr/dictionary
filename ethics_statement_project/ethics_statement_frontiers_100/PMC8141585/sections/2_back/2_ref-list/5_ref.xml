@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref5">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Crump</surname>
+    <given-names>M. J.</given-names>
+   </name>
+   <name>
+    <surname>McDonnell</surname>
+    <given-names>J. V.</given-names>
+   </name>
+   <name>
+    <surname>Gureckis</surname>
+    <given-names>T. M.</given-names>
+   </name>
+  </person-group> (
+  <year>2013</year>). 
+  <article-title>Evaluating amazon's mechanical turk as a tool for experimental behavioral research</article-title>. 
+  <source>PloS one</source>
+  <volume>8</volume>:
+  <fpage>e57410</fpage>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0057410</pub-id>, PMID: 
+  <?supplied-pmid 23516406?>
+  <pub-id pub-id-type="pmid">23516406</pub-id>
+ </mixed-citation>
+</ref>

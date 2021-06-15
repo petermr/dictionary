@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In the LC-MS spectra of lamb serum with high or low ADG, 10,231 metabolites were initially found. After quality control and discernment, 462 compounds were reliably detected. The PCA score plot presented that the first and second principal components (PCs) clarified 22.3 and 12.6% of the variation, respectively (
+ <xref ref-type="fig" rid="F1">Figure 1A</xref>). As expected, the separated plot representing high and low ADG can be observed in the PCA plot. Next, PLS-DA was executed to exhibit the variations between the high and low ADG lambs. As shown in 
+ <xref ref-type="fig" rid="F1">Figure 1B</xref>, the PLS-DA analysis demonstrated that the serum metabolites of the low ADG lambs distinctly differed from those of the high ADG lambs. Correspondingly, the values of R2Y and Q2 were 0.998 and 0.796, respectively (
+ <xref ref-type="fig" rid="F1">Figure 1</xref>), indicating good interpretability and predictability by this PLS-DA model. A value of Q2 = 1 indicates a perfect discrimination of metabolites profiles between groups.
+</p>

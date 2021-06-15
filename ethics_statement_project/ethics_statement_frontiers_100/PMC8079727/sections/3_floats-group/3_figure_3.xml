@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F3" position="float">
+ <label>Figure 3</label>
+ <caption>
+  <p>Comparison of the Sémont with the SémontPLUS maneuver. 
+   <bold>(A)</bold> Scatter plot of the time to recover for the Sémont (left) and the SémontPLUS maneuver (right) in days. 
+   <bold>(B)</bold> Histogram of time to recover for the Sémont (red) and the SémontPLUS maneuver, purple, which is due to the overlay of red (SM) and blue (SM+), in days.
+  </p>
+ </caption>
+ <graphic xlink:href="fneur-12-652573-g0003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

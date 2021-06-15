@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B21">
+ <label>21.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mander</surname>
+    <given-names>BA</given-names>
+   </name>
+   <name>
+    <surname>Winer</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Walker</surname>
+    <given-names>MP</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Sleep and human aging</article-title>. 
+  <source>Neuron.</source> (
+  <year>2017</year>) 
+  <volume>94</volume>:
+  <fpage>19</fpage>–
+  <lpage>36</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.neuron.2017.02.004</pub-id>
+  <pub-id pub-id-type="pmid">28384471</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The overall model 
+ <italic>F</italic> test for the multiple regression conducted to predict the square root-transformed GAD-7 total scores from gender, sum of the experienced pandemic-related inconveniencies and their interaction was insignificant, 
+ <italic>F</italic>
+ <sub>(3, 60)</sub> = 2.48, 
+ <italic>p</italic> = 0.070, 
+ <italic>R</italic>
+ <sup>2</sup> = 0.110, 
+ <inline-formula>
+  <math id="M1">
+   <msubsup>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mi>a</mi>
+     <mi>d</mi>
+     <mi>j</mi>
+    </mrow>
+    <mrow>
+     <mn>2</mn>
+    </mrow>
+   </msubsup>
+  </math>
+ </inline-formula> = 0.066. The overall model F test for the linear model that predicts the square root transformed PHQ-8 total scores from gender, sum of the experienced pandemic-related inconveniencies and the interaction of both was significant, 
+ <italic>F</italic>
+ <sub>(3, 60)</sub> = 6.09, 
+ <italic>p</italic> = 0.001, 
+ <italic>R</italic>
+ <sup>2</sup> = 0.223, 
+ <inline-formula>
+  <math id="M2">
+   <msubsup>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mi>a</mi>
+     <mi>d</mi>
+     <mi>j</mi>
+    </mrow>
+    <mrow>
+     <mn>2</mn>
+    </mrow>
+   </msubsup>
+  </math>
+ </inline-formula> = 0.195. The results of the omnibus tests revealed that the interaction of gender with the sum of the experienced pandemic-related inconveniencies was the only significant effect, 
+ <italic>F</italic>
+ <sub>(1, 60)</sub> = 4.16, 
+ <italic>p</italic> = 0.046, 
+ <italic>R</italic>
+ <sup>2</sup> = 0.109, 
+ <inline-formula>
+  <math id="M3">
+   <msubsup>
+    <mrow>
+     <mi>η</mi>
+    </mrow>
+    <mrow>
+     <mi>p</mi>
+    </mrow>
+    <mrow>
+     <mn>2</mn>
+    </mrow>
+   </msubsup>
+  </math>
+ </inline-formula> = 0.065. This indicates that gender moderates the impact on the total PHQ-8 scores of experienced inconveniencies. As can be inferred from the regression lines and confidence intervals bands shown in 
+ <xref ref-type="fig" rid="F3">Figure 3</xref>, in boys the level of predicted total PHQ scores are similar for varying values of the sum of experienced inconveniencies, 
+ <italic>b</italic> = 0.029, with CI
+ <sub>95%</sub> from −0.238 to 0.297, 
+ <italic>t</italic>
+ <sub>(28)</sub> = 0.220, 
+ <italic>p</italic> = 0.826, whereas in girls as the sum of the experienced inconveniences increases, the predicted total PHQ scores gradually increase, 
+ <italic>b</italic> = 0.378, with CI
+ <sub>95%</sub> from 0.165 to 0.590, 
+ <italic>t</italic>
+ <sub>(32)</sub> = 3.55, 
+ <italic>p</italic> &lt; 0.001.
+</p>

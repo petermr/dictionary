@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Singh</surname>
+    <given-names>HJL</given-names>
+   </name>
+   <name>
+    <surname>Couch</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Yap</surname>
+    <given-names>K</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Mobile health apps that help with COVID-19 management: scoping review</article-title>. 
+  <source>Jmir Nurs.</source> (
+  <year>2020</year>) 
+  <volume>3</volume>:
+  <fpage>e20596</fpage>. 
+  <pub-id pub-id-type="doi">10.2196/20596</pub-id>
+  <?supplied-pmid 32897271?>
+  <pub-id pub-id-type="pmid">32897271</pub-id>
+ </mixed-citation>
+</ref>

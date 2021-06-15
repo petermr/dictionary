@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Comparison of clinical outcomes between the two groups.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Clinical outcomes</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Granular bone graft group</bold>
+     <break/>
+     <bold> (
+      <italic>N</italic> = 25)
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Transverse process bone graft group</bold>
+     <break/>
+     <bold> (
+      <italic>N</italic> = 27)
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>P</italic>-value
+     </bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Operative time (min)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">188.4 ± 47.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">206.3 ± 32.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.115</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Operative blood loss (ml)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">382.0 ± 258.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">461.1 ± 399.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.405</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hospital stay (day)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11.7 ± 4.3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13.4 ± 3.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.154</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="4" rowspan="1">
+     <bold>VAS score</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Preoperative</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.4 ± 1.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.5 ± 1.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.628</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Last follow-up</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.7 ± 0.8
+     <xref ref-type="table-fn" rid="TN1">
+      <sup>a</sup>
+     </xref>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.4 ± 0.5
+     <xref ref-type="table-fn" rid="TN1">
+      <sup>a</sup>
+     </xref>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.065</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="4" rowspan="1">
+     <bold>ESR (mm/h)</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Preoperative</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">55.8 ± 25.3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">55.7 ± 29.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.992</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Last follow-up</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14.1 ± 4.3
+     <xref ref-type="table-fn" rid="TN1">
+      <sup>a</sup>
+     </xref>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13.0 ± 4.0
+     <xref ref-type="table-fn" rid="TN1">
+      <sup>a</sup>
+     </xref>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.370</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" colspan="4" rowspan="1">
+     <bold>CRP (mg/L)</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Preoperative</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">30.5 ± 28.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">29.6 ± 26.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.907</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Last follow-up</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6.5 ± 3.9
+     <xref ref-type="table-fn" rid="TN1">
+      <sup>a</sup>
+     </xref>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6.9 ± 5.2
+     <xref ref-type="table-fn" rid="TN1">
+      <sup>a</sup>
+     </xref>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.785</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>ESR, erythrocyte sedimentation rate; CRP, C-reactive protein</italic>.
+  </p>
+  <fn id="TN1">
+   <label>a</label>
+   <p>
+    <italic>P &lt; 0.05, compared with preoperative</italic>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

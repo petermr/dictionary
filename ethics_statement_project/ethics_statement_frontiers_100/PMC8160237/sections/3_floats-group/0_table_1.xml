@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Results of t or χ
+   <sup>2</sup>-test and binary logistic regression analysis of restoration and non-restoration groups.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Restoration</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Non-restoration</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>t</italic> or χ
+      <sup>
+       <bold>2</bold>
+      </sup>-values
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Odds ratio</bold>
+    </th>
+    <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+     <bold>95% Confidence interval</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>p</italic>
+     </bold>
+    </th>
+   </tr>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Group (
+      <italic>N</italic> = 65)
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Group (
+      <italic>N</italic> = 12)
+     </bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>p</italic>
+     </bold>
+    </th>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Lower limit</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Upper limit</bold>
+    </th>
+    <th rowspan="1" colspan="1"/>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Age (years)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">42.7 ± 8.7</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">45.8 ± 7.0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>t</italic> = −1.13, 
+     <break/>
+     <italic>p</italic> = 0.261
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.876</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.708</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.083</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.220</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Gender (female: male)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">17: 48</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4: 8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">χ
+     <sup>2</sup> = 0.263, 
+     <break/>
+     <italic>p</italic> = 0.608
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.278</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.253</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6.446</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.766</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Frequency of RTW program participation</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">72.1 ± 42.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">44.0 ± 26.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>t</italic> = 3.1, 
+     <break/>
+     <italic>p</italic> = 0.005
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.973</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.952</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.995</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.016</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Program (old: new)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">36: 29</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8: 4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">χ
+     <sup>2</sup> = 0.526, 
+     <break/>
+     <italic>p</italic> = 0.465
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.464</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.097</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.216</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.336</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Total work experience (years)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">20.8 ± 9.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">26.3 ± 8.3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>t</italic> = −1.8, 
+     <break/>
+     <italic>p</italic> = 0.076
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.194</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.986</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.448</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.070</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>RTW, return-to-work</italic>.
+  </p>
+  <p>
+   <italic>Binary logistic regression analysis with forced entry showed the significance of the model (χ
+    <sup>2</sup> = 12.594, p = 0.027) and that the frequency of RTW program participation was significantly associated with work restoration (more frequency, more restoration), but not with the other factors
+   </italic>.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

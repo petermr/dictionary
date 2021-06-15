@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B9">
+ <label>9.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Valen-Sendstad</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Steinman</surname>
+    <given-names>DA</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Mind the gap: impact of computational fluid dynamics solution strategy on prediction of intracranial aneurysm hemodynamics and rupture status indicators</article-title>. 
+  <source>Am J Neuroradiol.</source> (
+  <year>2014</year>) 
+  <volume>35</volume>:
+  <fpage>536</fpage>–
+  <lpage>43</lpage>. 
+  <pub-id pub-id-type="doi">10.3174/ajnr.A3793</pub-id>
+  <?supplied-pmid 24231854?>
+  <pub-id pub-id-type="pmid">24231854</pub-id>
+ </mixed-citation>
+</ref>

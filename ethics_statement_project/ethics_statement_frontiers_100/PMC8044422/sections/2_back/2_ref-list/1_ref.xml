@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>VanDevanter</surname>
+    <given-names>DR</given-names>
+   </name>
+   <name>
+    <surname>Kahle</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>O'Sullivan</surname>
+    <given-names>AK</given-names>
+   </name>
+   <name>
+    <surname>Sikirica</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Hodgkins</surname>
+    <given-names>PS</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Cystic fibrosis in young children: a review of disease manifestation, progression, and response to early treatment</article-title>. 
+  <source>J Cyst Fibros.</source> (
+  <year>2016</year>) 
+  <volume>15</volume>:
+  <fpage>147</fpage>–
+  <lpage>57</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.jcf.2015.09.008</pub-id>
+  <?supplied-pmid 26454351?>
+  <pub-id pub-id-type="pmid">26454351</pub-id>
+ </mixed-citation>
+</ref>

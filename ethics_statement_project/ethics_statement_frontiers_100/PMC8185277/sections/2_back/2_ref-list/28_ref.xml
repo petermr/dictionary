@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B28">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vickers</surname>
+    <given-names>A. J.</given-names>
+   </name>
+   <name>
+    <surname>Cronin</surname>
+    <given-names>A. M.</given-names>
+   </name>
+   <name>
+    <surname>Elkin</surname>
+    <given-names>E. B.</given-names>
+   </name>
+   <name>
+    <surname>Gonen</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group> (
+  <year>2008</year>). 
+  <article-title>Extensions to decision curve analysis, a novel method for evaluating diagnostic tests, prediction models and molecular markers.</article-title>
+  <source>
+   <italic>BMC Med. Inform. Decis. Mak.</italic>
+  </source>
+  <volume>8</volume>:
+  <issue>53</issue>. 
+  <pub-id pub-id-type="doi">10.1186/1472-6947-8-53</pub-id>
+  <?supplied-pmid 19036144?>
+  <pub-id pub-id-type="pmid">19036144</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B6">
+ <label>6.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McCracken</surname>
+    <given-names>IR</given-names>
+   </name>
+   <name>
+    <surname>Saginc</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>He</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Huseynov</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Daniels</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Lack of evidence of angiotensin-converting enzyme 2 expression and replicative infection by SARS-CoV-2 in human endothelial cells</article-title>. 
+  <source>Circulation</source>. (
+  <year>2021</year>) 
+  <volume>143</volume>:
+  <fpage>865</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1101/2020.12.02.391664</pub-id>
+  <?supplied-pmid 33405941?>
+  <pub-id pub-id-type="pmid">33405941</pub-id>
+ </mixed-citation>
+</ref>

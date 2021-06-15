@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B2">
+ <label>2.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chalmers</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Glasziou</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Avoidable waste in the production and reporting of research evidence</article-title>. 
+  <source>Lancet.</source> (
+  <year>2009</year>) 
+  <volume>374</volume>:
+  <fpage>86</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(09)60329-9</pub-id>
+  <?supplied-pmid 19935040?>
+  <pub-id pub-id-type="pmid">19525005</pub-id>
+ </mixed-citation>
+</ref>

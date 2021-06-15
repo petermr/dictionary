@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kuzniewicz</surname>
+    <given-names>MW</given-names>
+   </name>
+   <name>
+    <surname>Puopolo</surname>
+    <given-names>KM</given-names>
+   </name>
+   <name>
+    <surname>Fischer</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Walsh</surname>
+    <given-names>EM</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Newman</surname>
+    <given-names>TB</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>A quantitative, risk-based approach to the management of neonatal early-onset sepsis</article-title>. 
+  <source>JAMA Pediatr.</source> (
+  <year>2017</year>) 
+  <volume>171</volume>:
+  <fpage>365</fpage>–
+  <lpage>71</lpage>. 
+  <pub-id pub-id-type="doi">10.1001/jamapediatrics.2016.4678</pub-id>
+  <?supplied-pmid 29940076?>
+  <pub-id pub-id-type="pmid">28241253</pub-id>
+ </mixed-citation>
+</ref>

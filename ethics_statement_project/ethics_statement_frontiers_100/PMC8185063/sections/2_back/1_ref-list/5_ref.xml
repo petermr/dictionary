@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ruscher</surname>
+    <given-names>KA</given-names>
+   </name>
+   <name>
+    <surname>Fisher</surname>
+    <given-names>JN</given-names>
+   </name>
+   <name>
+    <surname>Hughes</surname>
+    <given-names>CD</given-names>
+   </name>
+   <name>
+    <surname>Neff</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Lerer</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <name>
+    <surname>Hight</surname>
+    <given-names>DW</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>National trends in the surgical management of Meckel's diverticulum</article-title>. 
+  <source>J Pediatr Surg.</source> (
+  <year>2011</year>) 
+  <volume>46</volume>:
+  <fpage>893</fpage>–
+  <lpage>6</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.jpedsurg.2011.02.024</pub-id>
+  <?supplied-pmid 21616248?>
+  <pub-id pub-id-type="pmid">21616248</pub-id>
+ </mixed-citation>
+</ref>

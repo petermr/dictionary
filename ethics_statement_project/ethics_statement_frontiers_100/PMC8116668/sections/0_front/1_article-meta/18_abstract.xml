@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <p>
+  <bold>Background:</bold> Growing evidence has suggested a link between poor sleep quality and increased risk of dementia. However, little is known about the association between sleep timing, an important behavior marker of circadian rhythms, and dementia risk in older adults, and whether this is independent of sleep duration or quality.
+ </p>
+ <p>
+  <bold>Methods:</bold> We included data from 1,051 community-dwelling older men and women (aged≥ 60y) without dementia from the Shanghai Aging Study. At baseline, participants reported sleep timing, duration, and quality using the Chinese version of the Pittsburgh Sleep Quality Index (CPSQI). Dementia diagnosis over the following 7.3 years was determined by neurologists using DSM-IV criteria. We used Cox proportional hazards models to examine the association between bedtime (before 9 p.m., after 11 p.m. vs. 9–11 p.m.), rise time (before 6 a.m., after 8 a.m. vs. 6–8 a.m.), and risk of dementia.
+ </p>
+ <p>
+  <bold>Results:</bold> A total of 238 (22.8%), 675 (64.5%), and 133 (12.7%) participants reported going to bed before 9 p.m., between 9 and 11 p.m., and after 11 p.m., respectively, while 272 (26%), 626 (59.9%), and 148 (14.2%) reported getting up before 6 a.m., between 6 and 8 a.m., and after 8 a.m., respectively. Participants who reported going to bed earlier had a lower education level, were less likely to be smokers, more likely to have hypertension or diabetes, and had longer sleep duration but poorer sleep quality compared to those who reported a later bedtime. We found 47 incidents of dementia among 584 participants followed up over an average of 7.3 years. After adjustment for demographics, education, income, body mass index, depressive symptoms, smoking, alcohol use, physical activity, comorbidities, APOE4 genotype, and baseline MMSE, those with a bedtime of before 9 p.m. were two times more likely to develop dementia [hazard ratio (HR)=2.16 (95%CI: 1.06–4.40)], compared to those going to bed between 9 and 11 p.m. Later bedtime (i.e., after 11 p.m.) showed the opposite but had a non-significant association with dementia risk (HR=0.15, 95%CI: 0.02–1.29). We did not find an association for rise time and risk of dementia.
+ </p>
+ <p>
+  <bold>Conclusion:</bold> Earlier sleep timing in older adults without dementia was associated with an increased risk of dementia. Future studies should examine the underlying mechanisms of this association and explore the usefulness of sleep timing as a preclinical marker for dementia.
+ </p>
+</abstract>

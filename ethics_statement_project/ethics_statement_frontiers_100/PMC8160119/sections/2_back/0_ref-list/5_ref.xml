@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shimabukuro</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Nair</surname>
+    <given-names>N</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Allergic reactions including anaphylaxis after receipt of the first dose of Pfizer-BioNTech COVID-19 vaccine</article-title>. 
+  <source>JAMA</source>. (
+  <year>2021</year>) 
+  <volume>325</volume>:
+  <fpage>780</fpage>–
+  <lpage>1</lpage>. 
+  <pub-id pub-id-type="doi">10.1001/jama.2021.0600</pub-id>
+  <?supplied-pmid 33641264?>
+  <pub-id pub-id-type="pmid">33475702</pub-id>
+ </mixed-citation>
+</ref>

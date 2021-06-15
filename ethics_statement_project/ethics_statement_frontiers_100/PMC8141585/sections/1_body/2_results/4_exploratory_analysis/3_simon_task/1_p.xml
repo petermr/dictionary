@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The two-way ANOVA (Group X Block) revealed a main effect for Block, 
+ <italic>F</italic>(4.9, 648.3) = 5.31, 
+ <italic>p</italic> &lt; 0.01, 
+ <italic>ƞ</italic>
+ <sup>2</sup>
+ <italic>
+  <sub>p</sub>
+ </italic> = 0.04. RT in Block 1 (500.95 ± 85.41 ms) was slower than the RTs in the rest of the blocks (between 474.68 ± 59.89 and 480.41 ± 66.77 ms), except for Block 3 (482.09 ± 64.17 ms). There was no group effect, 
+ <italic>F</italic>(2, 133) = 0.48, 
+ <italic>p</italic> = 0.62, 
+ <italic>ƞ</italic>
+ <sup>2</sup>
+ <italic>
+  <sub>p</sub>
+ </italic> = 0.01, nor an interaction, 
+ <italic>F</italic>(14, 931) = 0.72, 
+ <italic>p</italic> = 0.76, 
+ <italic>ƞ</italic>
+ <sup>2</sup>
+ <italic>
+  <sub>p</sub>
+ </italic> = 0.01.
+</p>

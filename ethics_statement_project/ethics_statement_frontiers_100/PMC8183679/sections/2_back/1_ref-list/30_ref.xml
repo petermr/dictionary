@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B30">
+ <label>30.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Moylett</surname>
+    <given-names>EH</given-names>
+   </name>
+   <name>
+    <surname>Pacheco</surname>
+    <given-names>SE</given-names>
+   </name>
+   <name>
+    <surname>Brown-Elliott</surname>
+    <given-names>BA</given-names>
+   </name>
+   <name>
+    <surname>Perry</surname>
+    <given-names>TR</given-names>
+   </name>
+   <name>
+    <surname>Buescher</surname>
+    <given-names>ES</given-names>
+   </name>
+   <name>
+    <surname>Birmingham</surname>
+    <given-names>MC</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Clinical experience with linezolid for the treatment of nocardia infection</article-title>. 
+  <source>Clin Infect Dis.</source> (
+  <year>2003</year>) 
+  <volume>36</volume>:
+  <fpage>313</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1086/345907</pub-id>
+  <?supplied-pmid 12539073?>
+  <pub-id pub-id-type="pmid">12539073</pub-id>
+ </mixed-citation>
+</ref>

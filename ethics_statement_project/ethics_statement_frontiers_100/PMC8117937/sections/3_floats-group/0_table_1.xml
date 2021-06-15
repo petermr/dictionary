@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Clinicopathological characteristics of patients.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">Number</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Percentage (%)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">age</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">≤50</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">26</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">40.62</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">&gt;50</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">38</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">59.38</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">sex</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">male</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">29</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">45.31</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">femal</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">35</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">54.69</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Lesion</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">neck</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14.06</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">trunk</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">17</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">26.56</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">others</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">38</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">59.38</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Cell subtype</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Epithelioid</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">36</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">56.25</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Fusocellular</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">28</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">43.75</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Organization Type</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Nodular</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">25.00</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">other</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">48</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">75.00</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Clark classification</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">I-III</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">18</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">28.12</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">IV-V</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">46</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">71.88</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Breslow thickness (mm)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">≤2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">19</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">29.69</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">&gt;2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">45</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">70.31</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">BRAF (V600E) mutation</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">no</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">33</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">51.56</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">yes</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">31</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">48.44</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Tumor growth phase</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Radial</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">15.62</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Vertical</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">54</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">84.38</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mitosis count</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">≤5/HPF</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">42</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">65.62</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">&gt;5/HPF</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">22</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">34.38</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

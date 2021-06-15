@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Budoff</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Dowe</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Jollis</surname>
+    <given-names>JG</given-names>
+   </name>
+   <name>
+    <surname>Gitter</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Sutherland</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Halamert</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Diagnostic performance of 64-multidetector row coronary computed tomographic angiography for evaluation of coronary artery stenosis in individuals without known coronary artery disease: results from the prospective multicenter ACCURACY (assessment by coronary computed tomographic angiography of individuals undergoing invasive coronary angiography) trial</article-title>. 
+  <source>J Am Coll Cardiol.</source> (
+  <year>2008</year>) 
+  <volume>52</volume>:
+  <fpage>1724</fpage>–
+  <lpage>32</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.jacc.2008.07.031</pub-id>
+  <?supplied-pmid 19007693?>
+  <pub-id pub-id-type="pmid">19007693</pub-id>
+ </mixed-citation>
+</ref>

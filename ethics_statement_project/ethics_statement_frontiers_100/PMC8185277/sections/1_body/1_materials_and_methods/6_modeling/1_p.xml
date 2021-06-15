@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In the derivation cohort, the Least Absolute Shrinkage and Selection Operator (LASSO) regression analysis was used for variable selection, which is an important method in data fitting (
+ <xref rid="B24" ref-type="bibr">Tibshirani, 1997</xref>). LASSO regression constructs a penalty function [penalty term: Sum (abs(b)) &lt; = 
+ <italic>t</italic>] to compress the coefficients of the variables. The variables with a coefficient of 0 are eliminated, and a panel of optimal and representative variables are finally obtained. This can effectively avoid the influence of factors like the number of variables, different orders of magnitude, various units and possible co-linearity between the indicators on the classical analysis methods (
+ <xref rid="B30" ref-type="bibr">Vreeman et al., 2015</xref>; 
+ <xref rid="B20" ref-type="bibr">Privé et al., 2019</xref>). In this regard, LASSO can enhance the generalization ability of the refined model. Then, the predictive model was constructed by incorporating the representative variables selected by LASSO into logistic regression. The model was then further optimized and internally validated through 10-fold cross-validation to select the final model.
+</p>

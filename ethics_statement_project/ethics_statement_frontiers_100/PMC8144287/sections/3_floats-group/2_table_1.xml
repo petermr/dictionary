@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Summary of results.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>General characteristics</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Total 27</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Age (years)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Range 20–73 (Mean 52)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Gender – Female</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14 (52 %)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>ASCVD risk factors</bold>
+    </td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">&gt;3</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Presentation of ACS</bold>
+    </td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Chest pain/Unstable Angina</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">NSTEMI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">13</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>CT findings</bold>
+    </td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Normal</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mild to Moderate</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">9</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Critical</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Treatment strategy</bold>
+    </td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">PCI (In-patient)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CABG (In-patient)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CABG (Deferred)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Conservative</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">20</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">EF (mean)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Range 15–65 % (Mean 50%)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Length of Hospital Stay</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0–5 days (Mean 1 day)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Chest pain/Unstable Angina</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0–2 days (Mean 0 days)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">NSTEMI</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0–5 days (Mean 1.6 days)</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

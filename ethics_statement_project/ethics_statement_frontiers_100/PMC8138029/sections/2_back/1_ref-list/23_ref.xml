@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B23">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sackett</surname>
+    <given-names>D. L.</given-names>
+   </name>
+   <name>
+    <surname>Rosenberg</surname>
+    <given-names>W. M. C.</given-names>
+   </name>
+   <name>
+    <surname>Gray</surname>
+    <given-names>J. A. M.</given-names>
+   </name>
+   <name>
+    <surname>Haynes</surname>
+    <given-names>R. B.</given-names>
+   </name>
+   <name>
+    <surname>Richardson</surname>
+    <given-names>W. S.</given-names>
+   </name>
+  </person-group> (
+  <year>1996</year>). 
+  <article-title>Evidence based medicine: What it is and what it isn’t.</article-title>
+  <source>
+   <italic>Br. Med. J.</italic>
+  </source>
+  <volume>312</volume>
+  <fpage>71</fpage>–
+  <lpage>72</lpage>. 
+  <pub-id pub-id-type="doi">10.1136/bmj.312.7023.71</pub-id>
+  <?supplied-pmid 8555924?>
+  <pub-id pub-id-type="pmid">8555924</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>TABLE 1</label>
+ <caption>
+  <p>Design and treatments.</p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">Luck known</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Luck unknown</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Effort observed</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">EOLK</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">EOLU</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Effort unobserved</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">EULK</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">EULU</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

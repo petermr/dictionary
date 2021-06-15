@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The survey deployed in the CoronaSurveys project can be answered via browser or mobile app. After the participant indicates the region (Spanish autonomous community) for which information will be provided, two additional questions are presented: 
+ <list list-type="order">
+  <list-item>
+   <p>
+    <italic>How many people do you know in your area for which you know their health condition?</italic> The answer to this question by participant 
+    <italic>i</italic> is the 
+    <italic>Reach r</italic>
+    <sub>
+     <italic>i</italic>
+    </sub>.
+   </p>
+  </list-item>
+  <list-item>
+   <p>
+    <italic>How many of those were diagnosed with or have symptoms of COVID-19?</italic> The answer to this question by participant 
+    <italic>i</italic> is the 
+    <italic>Cumulative Number of Cases c</italic>
+    <sub>
+     <italic>i</italic>
+    </sub>.
+   </p>
+  </list-item>
+ </list>
+</p>

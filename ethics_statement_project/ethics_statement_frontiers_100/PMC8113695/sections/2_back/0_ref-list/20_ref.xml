@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B20">
+ <label>20</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Conroy</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Desseigne</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Ychou</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Bouche</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Guimbaud</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Becouarn</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>FOLFIRINOX Versus Gemcitabine for Metastatic Pancreatic Cancer</article-title>. 
+  <source>N Engl J Med</source> (
+  <year>2011</year>) 
+  <volume>364</volume>:
+  <page-range>1817–25</page-range>.  
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1011923</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lin</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Sabnis</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>Chan</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Olivas</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Cade</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Pazarentzos</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>The Hippo effector YAP promotes resistance to RAF-and MEK-targeted cancer therapies</article-title>. 
+  <source>Nat Genet</source> (
+  <year>2015</year>) 
+  <volume>47</volume>(
+  <issue>3</issue>):
+  <page-range>250–6</page-range>. 
+  <pub-id pub-id-type="doi">10.1038/ng.3218</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>
+   <bold>(A)</bold> Bone marrow examination of the patient. 
+   <bold>(B)</bold> Erythrocytic examination of the patient. 
+   <bold>(C)</bold> Gene mutation of the family. 
+   <bold>(D)</bold> Gene chip detection of the family. 
+   <bold>(E)</bold> The family pedigree.
+  </p>
+ </caption>
+ <graphic xlink:href="fped-09-630329-g0001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

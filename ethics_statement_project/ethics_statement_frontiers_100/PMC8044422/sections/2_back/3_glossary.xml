@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <def-list>
+  <title>Abbreviations</title>
+  <def-item>
+   <term>CF</term>
+   <def>
+    <p>cystic fibrosis</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BAL</term>
+   <def>
+    <p>bronchoalveolar lavage</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IL</term>
+   <def>
+    <p>interleukin</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MMP-9</term>
+   <def>
+    <p>matrix metalloproteinase 9.</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

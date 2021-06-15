@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Martinez-Hernandez</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Guasp</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Garcia-Serra</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Maudes</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Arino</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Sepulveda</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Clinical significance of anti-NMDAR concurrent with glial or neuronal surface antibodies</article-title>. 
+  <source>Neurology.</source> (
+  <year>2020</year>) 
+  <volume>94</volume>:
+  <fpage>e2302</fpage>–
+  <lpage>10</lpage>. 
+  <pub-id pub-id-type="doi">10.1212/WNL.0000000000009239</pub-id>
+  <?supplied-pmid 32161029?>
+  <pub-id pub-id-type="pmid">32161029</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B27">
+ <label>27.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Jin</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Cao</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Optimal specimen type for accurate diagnosis of infectious peripheral pulmonary lesions by mNGS</article-title>. 
+  <source>BMC Pulm Med.</source> (
+  <year>2020</year>) 
+  <volume>20</volume>:
+  <fpage>268</fpage>. 
+  <pub-id pub-id-type="doi">10.1186/s12890-020-01298-1</pub-id>
+  <?supplied-pmid 33059646?>
+  <pub-id pub-id-type="pmid">33059646</pub-id>
+ </mixed-citation>
+</ref>
