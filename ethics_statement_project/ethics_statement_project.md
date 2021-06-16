@@ -7,9 +7,11 @@
   - [3.3. Mini-Corpus #3](#33-mini-corpus-3)
 - [4. `ami` dictionary - Ontology](#4-ami-dictionary---ontology)
 - [5. Updates](#5-updates)
-  - [5.1. Entity Recognition using spaCy and NLTK with automatic scraping (2021-06-09)](#51-entity-recognition-using-spacy-and-nltk-with-automatic-scraping-2021-06-09)
-  - [5.2. Entity Recognition using spaCy (2021-06-06)](#52-entity-recognition-using-spacy-2021-06-06)
-  - [5.3. Ethics Statment Prototype dictionary (2021-06-01)](#53-ethics-statment-prototype-dictionary-2021-06-01)
+  - [5.1. SPARQL Class (2021-06-16) - Potential Integration with ami](#51-sparql-class-2021-06-16---potential-integration-with-ami)
+  - [5.2. Better globbing, Regex and SPARQL Wrapper (2021-06-15)](#52-better-globbing-regex-and-sparql-wrapper-2021-06-15)
+  - [5.3. Entity Recognition using spaCy and NLTK with automatic scraping (2021-06-09)](#53-entity-recognition-using-spacy-and-nltk-with-automatic-scraping-2021-06-09)
+  - [5.4. Entity Recognition using spaCy (2021-06-06)](#54-entity-recognition-using-spacy-2021-06-06)
+  - [5.5. Ethics Statment Prototype dictionary (2021-06-01)](#55-ethics-statment-prototype-dictionary-2021-06-01)
 - [6. Meeting Records](#6-meeting-records)
   - [6.1. 2021-06-10](#61-2021-06-10)
   - [6.2. 2021-06-03](#62-2021-06-03)
@@ -32,7 +34,7 @@ We hope to create dictionaries (ontologies) of,
 The WikiProject page 
 https://www.wikidata.org/wiki/Wikidata:WikiProject_Ethics
 # 3. Test Mini-Corpora - Using `pygetpapers`
-I have created two mini-corpora, both of them with slightly different queries. Since they are too large (1000 and 2000 papers, respectively), I've uploaded the JSON file containing the metadata for the individual corpus. 
+I have created two mini-corpora, both of them with slightly different queries. Since they are too large (1000 and 2000 papers, respectively), I've uploaded only the metadata (JSON files) of these corpora. 
 ## 3.1. Mini-Corpus #1
 ```
 pygetpapers -q (METHODS:'ethics statement') -k 1000 -x -o ethics_statement_corpus_1000
@@ -49,27 +51,41 @@ The `JSON` file is available, [here](https://github.com/petermr/dictionary/blob/
 This is a [smaller corpus](https://github.com/petermr/dictionary/tree/main/ethics_statement_project/e_cancer_clinical_trial_50) of 50 papers on cancer clinical trial. 
 
 # 4. `ami` dictionary - Ontology
-I have created a prototype dictionary after analysing the Ethics Statement section of Mini-Corpus #1 using [`ami_gui.py`](https://github.com/petermr/openDiagram/blob/master/physchem/python/ami_gui.py). The tool does phrase extraction using [RAKE](https://pypi.org/project/rake-nltk/). It also saves the selected phrases into the `keywords.txt` file in the mini-corpus (C-Project) directory.  
+I have created a prototype dictionary, after analysing the Ethics Statement sections of Mini-Corpus #1  by using phrase extraction feature of [`ami_gui.py`](https://github.com/petermr/openDiagram/blob/master/physchem/python/ami_gui.py). `ami` uses ([RAKE](https://pypi.org/project/rake-nltk/) to extract and weigh phrases from text. The selected phrases are automatically saved into `keywords.txt` file in the mini-corpus (C-Project) directory.  
 
-I have hand-selected ~ 80 terms from my initial analysis. Using legacy `ami3`, I have created the `.txt` file into a dictionary in `.xml` format. 
+I have hand-selected ~ 80 terms from my initial analysis. Using legacy `ami3`, I have converted the `.txt` file into a dictionary in `.xml` format. 
 ```
 C:\Users\shweata\ethics_statement_corpus_1000\results>amidict -v --dictionary ethics_statement --directory rake --input rake/keywords.txt create --informat list --outformats xml,html
 ```
 The prototype dictionary is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/results/rake/ethics_statement.xml). 
 
 # 5. Updates
-## 5.1. Entity Recognition using spaCy and NLTK with automatic scraping (2021-06-09)
+## 5.1. SPARQL Class (2021-06-16) - Potential Integration with ami
+[SPARQL class](sparql.py)
+- In today's CEVOpen coding session, we turned the wrapper to a class. 
+- We also explored logging and automatic documentation using `pyment` package. 
+
+## 5.2. Better globbing, Regex and SPARQL Wrapper (2021-06-15)
+[New notebook](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/Ethics_staement_dictionary_globbing_annotation_shweata.ipynb)
+- Noise in text was one of our main concerns. See the previous notebook to see what I mean. I noticed that Frontiers journal had explicit Ehtics Statement and better structure. So, I decided to create a corpus of 100 papers from Frontiers journal. 
+- After sectioning the paper, I glob the Ethics Statement section from each paper and dump all the statements to a txt file. 
+- And as before, I use SpaCy to do Named Entity-Recognition. 
+- I've also explored using Regular Expression to retrieve more information on Ethics Committee and whether an approval was required in the first place or not. 
+- We also would want to do a supervised search using `pyami` on these Ethics Statement. For that, we would like to query Wikidata and retrieve, let's say, Research Councils or Universitites. We (Peter and I) have a prototype implementation of SPARQLWrapper which queries Wikidata and returns SPARQL endpoint in XML format. We can, potentially, turn the enpoint into an `ami` dictionary. 
+- Needs better documentation
+
+## 5.3. Entity Recognition using spaCy and NLTK with automatic scraping (2021-06-09)
   I have now created a [new notebook](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/Ethics_statement_project_scraping_txt_file_containing_ethics.ipynb) which,
 -  globs sections of papers in CProject with the word 'ethic' in it.
 -  writes the paragraphs in the globbed section to a [`.txt`](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/ethics_statement_clinical_trial_50.txt) file.
 -  does Named Entity-Recognition using spaCy
 -  The entities with ORG label retrieves Ethics Committee names. 
 @Daniel and @PMR: There is a lot of noise because I don't have control over which paragraphs I write. The spaCy model isn't accurate either. Any directions would be helpful. 
-##  5.2. Entity Recognition using spaCy (2021-06-06)
+##  5.4. Entity Recognition using spaCy (2021-06-06)
 The [notebook I've written](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/Ethics_Statement_Entity_Recognition_spacy.ipynb) does Entity Recognition with which I've been able to pull out names of Ethics Committee. 
 - I manually scraped roughly 20 Ethics_Statements from a corpus on clinical trials and used spaCY for entity recognition. It is still a prototype, and I hope to extend it to a lot more papers. 
 - I have not used any models to do named entity recognition. ML would be useful in this case. 
-## 5.3. Ethics Statment Prototype dictionary (2021-06-01)
+## 5.5. Ethics Statment Prototype dictionary (2021-06-01)
 I have created a prototype dictionary after analysing the Ethics Statement section of Mini-Corpus #1 using [`ami_gui.py`](https://github.com/petermr/openDiagram/blob/master/physchem/python/ami_gui.py). It is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/results/rake/ethics_statement.xml).
 # 6. Meeting Records
 ## 6.1. 2021-06-10
