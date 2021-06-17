@@ -13,12 +13,13 @@
   - [5.4. Entity Recognition using spaCy (2021-06-06)](#54-entity-recognition-using-spacy-2021-06-06)
   - [5.5. Ethics Statment Prototype dictionary (2021-06-01)](#55-ethics-statment-prototype-dictionary-2021-06-01)
 - [6. Meeting Records](#6-meeting-records)
-  - [6.1. 2021-06-10](#61-2021-06-10)
-  - [6.2. 2021-06-03](#62-2021-06-03)
-  - [6.3. 2021-05-27](#63-2021-05-27)
-  - [6.4. 2021-05-20](#64-2021-05-20)
-  - [6.5. 2021-05-10](#65-2021-05-10)
-  - [6.6. 2021-05-07](#66-2021-05-07)
+  - [6.1. 2021-06-17](#61-2021-06-17)
+  - [6.2. 2021-06-10](#62-2021-06-10)
+  - [6.3. 2021-06-03](#63-2021-06-03)
+  - [6.4. 2021-05-27](#64-2021-05-27)
+  - [6.5. 2021-05-20](#65-2021-05-20)
+  - [6.6. 2021-05-10](#66-2021-05-10)
+  - [6.7. 2021-05-07](#67-2021-05-07)
 - [7. Tasks](#7-tasks)
 - [8. Previous Documentation](#8-previous-documentation)
   - [8.1. Intial Exploration](#81-intial-exploration)
@@ -67,7 +68,7 @@ The prototype dictionary is available, [here](https://github.com/petermr/diction
 
 ## 5.2. Better globbing, Regex and SPARQL Wrapper (2021-06-15)
 [New notebook](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/Ethics_staement_dictionary_globbing_annotation_shweata.ipynb)
-- Noise in text was one of our main concerns. See the previous notebook to see what I mean. I noticed that Frontiers journal had explicit Ehtics Statement and better structure. So, I decided to create a corpus of 100 papers from Frontiers journal. 
+- Noise in text was one of our main concerns. See the previous notebook to see what I mean. I noticed that Frontiers journal had explicit Ehtics Statement label and better structure. So, I decided to create a corpus of 100 papers from Frontiers journal. 
 - After sectioning the paper, I glob the Ethics Statement section from each paper and dump all the statements to a txt file. 
 - And as before, I use SpaCy to do Named Entity-Recognition. 
 - I've also explored using Regular Expression to retrieve more information on Ethics Committee and whether an approval was required in the first place or not. 
@@ -88,7 +89,18 @@ The [notebook I've written](https://github.com/petermr/dictionary/blob/main/ethi
 ## 5.5. Ethics Statment Prototype dictionary (2021-06-01)
 I have created a prototype dictionary after analysing the Ethics Statement section of Mini-Corpus #1 using [`ami_gui.py`](https://github.com/petermr/openDiagram/blob/master/physchem/python/ami_gui.py). It is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/results/rake/ethics_statement.xml).
 # 6. Meeting Records
-## 6.1. 2021-06-10
+## 6.1. 2021-06-17
+- Shweata presented an enhanced version of her previous Notebook. More information here. 
+- Try different publishers (PLOS, Hindawi, Springer Nature, Elsevier) and Stem Cell Research
+- We might involve citizens in annotation where they go through ethics statement and label them. (semi-annotation)
+- n-gram word cloud. 
+- Part of speech tagging
+- RDF -> build connections
+- We might look at conflict of interest. 
+  - people -> company
+  - people -> stock
+  
+## 6.2. 2021-06-10
 - Shweata presented her initial work with entity recognition. Comments from Daniel and Peter. 
   - Use regex along with globing
   - Tfidf to weigh the terms
@@ -96,24 +108,24 @@ I have created a prototype dictionary after analysing the Ethics Statement secti
     - Human Annotation model - coming up with two sets of data, one with phrases which are most common in Ethics Statement and other which aren't. We can then build a model to extract named entities. 
     - Semantic Model - Coming up with a set of rules which we can use to extract named entities, approval numbers and so on.
 - Explore Wikidata for research councils and universities. Here is a [query](https://w.wiki/3Tsu) Daniel wrote to begin with. By doing so, we might get a better gauge for what's there and what isn't. 
-## 6.2. 2021-06-03
+## 6.3. 2021-06-03
 - We have added the dictionary terms as lexemes to Wikidata
 - Our next focus would be to retrieve the Ethics Committees involved in the approval process. -> Named entity recognition
 - Find more interesting terms related to Ethics Statement using TF-IDF.
 
-## 6.3. 2021-05-27
+## 6.4. 2021-05-27
 - @Daniel: Exploring with Wikidata Lexemes and Ethics Statement
 - Wikdata Game - You learn or Wikidata learns or both!
   - We can come up with a Wikidata game where we ask people whether a phrase - we extracted from `ami`using RAKE - is usually present in Ethics Statement or not.
 
-## 6.4. 2021-05-20
+## 6.5. 2021-05-20
 - We need a way to automate the retrieval of the Ethics Statement. We could do sectioning and retrieve them. But it's harder because most papers don't have a dedicated Ethics Statement (usually buried in the methods section). So, we'll have to create a dictionary, using the phrase we've initially extracted, to help with information retrieval (i.e., get Ethics Statement paragraph from papers). (Q: How does SpaCY give those phrase ranks?)
 - After getting, let's say, 1000 Ethics Statement, we can again try unsupervised or even supervised phrase extraction. We can refine our dictionaries and also start extracting hospital names, committee names and their identifiers, and so on.
 
-## 6.5. 2021-05-10
+## 6.6. 2021-05-10
 - Build a dictionary manually with frequently used n-grams in Ethics Statements.
 
-## 6.6. 2021-05-07
+## 6.7. 2021-05-07
 - Create a dictionary with commonly used phrases (engrams) in Ethics Statements
 - Pull out identifiers from these statements
 - Pull out Ethics Committees and add them to Wikidata
