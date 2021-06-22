@@ -1,63 +1,183 @@
-import os
-import pandas as pd
-import pathlib
-import re
-from glob import glob
-import xml.etree.ElementTree as ET
-import spacy 
-from spacy import displacy
+class EthicStatements:
+    """ """
 
-HOME= 'C:/Users/shweata/dictionary/ethics_statement_project'
+    def __init__(self):
+        pass
 
-#!pip install git+git://github.com/petermr/pygetpapers
-QUERY = "ethics statement frontiers"
-HITS = 10
-OUTPUT = 'ethics_statement_frontiers_10'
+    def demo(self):
+        """ """
+        import os
+        path_to_project = os.getcwd()
+        QUERY = "ethics statement frontiers"
+        HITS = 10
+        OUTPUT = 'ethics_statement_frontiers_100'
+        self.create_project_and_make_csv(path_to_project,QUERY,HITS,OUTPUT)
 
+    def create_project_and_make_csv(self,path_to_project,QUERY,HITS,OUTPUT):
+        """
 
-import os
-#os.system(f'cmd /k "pygetpapers -q "{QUERY}" -k {HITS} -o {OUTPUT} -x"')
-#https://datatofish.com/command-prompt-python/
+        :param path_to_project: 
+        :param QUERY: 
+        :param HITS: 
+        :param OUTPUT: 
 
-#!git clone https://github.com/petermr/ami3.git
-#!cd ami3
-#!mvn install -Dmaven.test.skip=true
-#os.system(f'cmd /k "ami -p {OUTPUT} section"')
+        """
+        import os
+        self.create_project_files(QUERY,HITS,OUTPUT)
+        self.install_ami()
+        dict_with_parsed_xml=self.make_dict_with_pmcids(path_to_project,OUTPUT)
+        self.add_ethic_statements_to_dict(dict_with_parsed_xml)
+        self.convert_dict_to_csv(path=f'{OUTPUT}.csv', dict_with_parsed_xml=dict_with_parsed_xml)
 
+    def create_project_files(self,QUERY,HITS,OUTPUT):
+        """
 
-ethics_statements = glob(os.path.join(HOME, OUTPUT, 'PMC*', 'sections','*', '[0-9]_ethic*', '[1_9]_p.xml'))
-print(ethics_statements)
+        :param QUERY: param HITS:
+        :param OUTPUT: param HITS:
+        :param HITS: 
 
-file1 = open(f'{OUTPUT}.txt', "w+", encoding='utf-8')
-
-for file in ethics_statements:
-    tree = ET.parse(file)
-    root = tree.getroot()
-    for para in root.iter('p'):
-        #file1.write('para.text')
-        print (para.text, file = file1)
-
-text = pathlib.Path(f"{OUTPUT}.txt").read_text(encoding='utf-8')
-
-nlp = spacy.load("en_core_web_sm")
-doc = nlp(text)
-#entities_html = displacy.render(doc, style="ent", page=True)
-displacy.serve(doc, style="ent")
-
-entities = []
-labels = []
-position_start = []
-position_end = []
+        """
+        import os
+        os.system(f'pygetpapers -q "{QUERY}" -k {HITS} -o {OUTPUT} -x')
+        os.system(f"ami -p {OUTPUT} section")
 
 
-for ent in doc.ents:
-    entities.append(ent)
-    labels.append(ent.label_)
-    position_start.append(ent.start_char)
-    position_end.append(ent.end_char)
+    def install_ami(self):
+        """ """
+        import os
+        os.system("git clone https://github.com/petermr/ami3.git")
+        os.system("cd ami3")
+        os.system("mvn install -Dmaven.test.skip=true")
 
-#displacy.serve(doc, style="ent")
-    
-df = pd.DataFrame({'Entities':entities,'Labels':labels,'Position_Start':position_start, 'Position_End':position_end})
-#pd.set_option("display.max_rows", None, "display.max_columns", None)
-df.to_csv(f'{OUTPUT}_labelled_entities.csv', encoding='utf-8')
+
+    def make_dict_with_pmcids(self,path_to_project, output):
+        """
+
+        :param path_to_project: param output:
+        :param output: 
+
+        """
+        import os
+        from glob import glob
+        dict_with_parsed_xml = {}
+        ethics_statements = glob(os.path.join(
+            path_to_project, output, 'PMC*', 'sections', '*', '[0-9]_ethic*', '[1_9]_p.xml'))
+        for statement in ethics_statements:
+            self.find_pmcid_from_file_name_and_make_dict_key(dict_with_parsed_xml, statement)
+        return dict_with_parsed_xml
+
+    def find_pmcid_from_file_name_and_make_dict_key(self, dict_with_parsed_xml, statement):
+        """
+
+        :param dict_with_parsed_xml: param statement:
+        :param statement: 
+
+        """
+        for word in statement.split('\\'):
+            if word.startswith('PMC'):
+                pmcid = word
+                dict_with_parsed_xml[pmcid] = {}
+                dict_with_parsed_xml[pmcid]['file'] = statement
+
+    def add_ethic_statements_to_dict(self,dict_with_parsed_xml):
+        """
+
+        :param dict_with_parsed_xml: 
+
+        """
+        import spacy
+        nlp = spacy.load("en_core_web_sm")
+        import xml.etree.ElementTree as ET
+        for ethics_statement in dict_with_parsed_xml:
+            tree = ET.parse(dict_with_parsed_xml[ethics_statement]['file'])
+            root = tree.getroot()
+            self.iterate_over_xml_and_populate_dict(dict_with_parsed_xml, ethics_statement, nlp, root)
+
+    def iterate_over_xml_and_populate_dict(self, dict_with_parsed_xml, ethics_statement, nlp, root):
+        """
+
+        :param dict_with_parsed_xml: param ethics_statement:
+        :param nlp: param root:
+        :param ethics_statement: 
+        :param root: 
+
+        """
+        for para in root.iter('p'):
+            dict_with_parsed_xml[ethics_statement]['parsed'] = para.text
+            doc = nlp(dict_with_parsed_xml[ethics_statement]['parsed'])
+            entities, labels, position_end, position_start = self.make_required_lists()
+            for ent in doc.ents:
+                self.add_parsed_entities_to_lists(ent, entities, labels, position_end, position_start)
+            self.add_lists_to_dict(dict_with_parsed_xml, entities, ethics_statement, labels, position_end,
+                                   position_start)
+
+    def make_required_lists(self):
+        """ """
+        entities = []
+        labels = []
+        position_start = []
+        position_end = []
+        return entities, labels, position_end, position_start
+
+    def add_lists_to_dict(self, dict_with_parsed_xml, entities, ethics_statement, labels, position_end, position_start):
+        """
+
+        :param dict_with_parsed_xml: param entities:
+        :param ethics_statement: param labels:
+        :param position_end: param position_start:
+        :param entities: 
+        :param labels: 
+        :param position_start: 
+
+        """
+        dict_with_parsed_xml[ethics_statement]['entities'] = entities
+        dict_with_parsed_xml[ethics_statement]['labels'] = labels
+        dict_with_parsed_xml[ethics_statement]['position_start'] = position_start
+        dict_with_parsed_xml[ethics_statement]['position_end'] = position_end
+
+    def add_parsed_entities_to_lists(self, ent, entities, labels, position_end, position_start):
+        """
+
+        :param ent: param entities:
+        :param labels: param position_end:
+        :param position_start: 
+        :param entities: 
+        :param position_end: 
+
+        """
+        entities.append(ent)
+        labels.append(ent.label_)
+        position_start.append(ent.start_char)
+        position_end.append(ent.end_char)
+
+    def convert_dict_to_csv(self,path,dict_with_parsed_xml):
+        """
+
+        :param path: param dict_with_parsed_xml:
+        :param dict_with_parsed_xml: 
+
+        """
+        import pandas as pd
+        df = pd.DataFrame(dict_with_parsed_xml)
+        df = df.T
+        df.to_csv(path, encoding='utf-8')
+
+
+ethic_statement_creator=EthicStatements()
+ethic_statement_creator.demo()
+
+#
+
+# displacy.serve(doc, style="ent")
+
+# displacy.serve(doc, style="ent")
+# https://datatofish.com/command-prompt-python/
+
+'''
+
+def display_graph_of_dependensies(self, dict_with_parsed_xml):
+    for ethic in display_graph_of_dependensies:
+        doc = nlp(display_graph_of_dependensies[ethic]['parsed'])
+        displacy.serve(doc, style="dep")
+
+'''
