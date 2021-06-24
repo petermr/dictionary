@@ -18,8 +18,8 @@ class EthicStatements:
         import os
         path_to_project = os.getcwd()
         QUERY = "(METHODS:'stem cell') AND ethics statement AND frontiers"
-        HITS = 20
-        OUTPUT = 'ethics_statement_frontiers_2_20'
+        HITS =  1000
+        OUTPUT = 'ethics_statement_frontiers_1000'
         self.create_project_and_make_csv(path_to_project,QUERY,HITS,OUTPUT)
 
     def create_project_and_make_csv(self,path_to_project,QUERY,HITS,OUTPUT):
@@ -32,7 +32,7 @@ class EthicStatements:
 
         """
         import os
-        #self.create_project_files(QUERY,HITS,OUTPUT)
+        self.create_project_files(QUERY,HITS,OUTPUT)
         #self.install_ami()
         dict_with_parsed_xml=self.make_dict_with_pmcids(path_to_project,OUTPUT)
         self.add_ethic_statements_to_dict(dict_with_parsed_xml)
@@ -176,7 +176,7 @@ class EthicStatements:
         df = df.T
         df.to_csv(path, encoding='utf-8')
         logging.basicConfig(level=logging.INFO)
-        logging.info("wrote output to csv")
+        logging.info(f"wrote output to {path}")
         
 
 

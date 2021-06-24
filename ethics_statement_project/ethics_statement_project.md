@@ -16,6 +16,7 @@
   - [5.6. Entity Recognition using spaCy (2021-06-06)](#56-entity-recognition-using-spacy-2021-06-06)
   - [5.7. Ethics Statment Prototype dictionary (2021-06-01)](#57-ethics-statment-prototype-dictionary-2021-06-01)
 - [6. Meeting Records](#6-meeting-records)
+  - [2021-06-24](#2021-06-24)
   - [6.1. 2021-06-17](#61-2021-06-17)
   - [6.2. 2021-06-10](#62-2021-06-10)
   - [6.3. 2021-06-03](#63-2021-06-03)
@@ -189,6 +190,20 @@ The [notebook I've written](https://github.com/petermr/dictionary/blob/main/ethi
 ## 5.7. Ethics Statment Prototype dictionary (2021-06-01)
 I have created a prototype dictionary after analysing the Ethics Statement section of Mini-Corpus #1 using [`ami_gui.py`](https://github.com/petermr/openDiagram/blob/master/physchem/python/ami_gui.py). It is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/results/rake/ethics_statement.xml).
 # 6. Meeting Records
+## 2021-06-24
+- Shweata presented her updates on the code. Read more about it in the updates section dated 2021-06-23. 
+- Daniel - Next step would be to feed the mined Ethics Committee names to Wikidata. 
+- Shweata will commit the `.csv` to the project directory so that Daniel can pick it up and upload to Wikidata
+- PMR demonstrated `pygetpapers`'s integration with crossref
+- The project directory has become messy as it has grown gradually. We will have to refactor. 
+- A potenial step would be to have a feedback loop between Wikidata and `ami`. 
+An interative workflow:
+Wikidata SPARQL (SPARQLWrapper) -> `amidict` -> `ami search`
+Papers -> (Ethics Statements) -> Ethics Committees (using spaCy) -> Wikidata
+- Here is a [query](https://w.wiki/3Y58) Daniel wrote to get us started.
+- We might also want to look at crowdsourcing parts of the works that goes into the project - a mixture of automation and manual work
+- Rule-based matching, regex or keyword searches are something to look at. 
+- 
 ## 6.1. 2021-06-17
 - Shweata presented an enhanced version of her previous Notebook. More information [here](#53-better-globbing-regex-and-sparql-wrapper-2021-06-15). 
 Comments and directions:
