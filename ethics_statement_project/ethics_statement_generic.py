@@ -8,9 +8,18 @@ class EthicStatements:
         """ """
         import os
         path_to_project = os.getcwd()
-        QUERY = "ethics statement frontiers"
-        HITS = 10
-        OUTPUT = 'ethics_statement_frontiers_100'
+        QUERY = "ethics statement springer nature"
+        HITS = 100
+        OUTPUT = 'ethics_statement_frontiers_springer_nature_100'
+        self.create_project_and_make_csv(path_to_project,QUERY,HITS,OUTPUT)
+    
+    def frontiers_ethics_statement(self):
+   
+        import os
+        path_to_project = os.getcwd()
+        QUERY = "(METHODS:'stem cell') AND ethics statement AND frontiers"
+        HITS = 20
+        OUTPUT = 'ethics_statement_frontiers_2_20'
         self.create_project_and_make_csv(path_to_project,QUERY,HITS,OUTPUT)
 
     def create_project_and_make_csv(self,path_to_project,QUERY,HITS,OUTPUT):
@@ -23,11 +32,11 @@ class EthicStatements:
 
         """
         import os
-        self.create_project_files(QUERY,HITS,OUTPUT)
-        self.install_ami()
+        #self.create_project_files(QUERY,HITS,OUTPUT)
+        #self.install_ami()
         dict_with_parsed_xml=self.make_dict_with_pmcids(path_to_project,OUTPUT)
         self.add_ethic_statements_to_dict(dict_with_parsed_xml)
-        self.convert_dict_to_csv(path=f'{OUTPUT}.csv', dict_with_parsed_xml=dict_with_parsed_xml)
+        self.convert_dict_to_csv(path=f'{OUTPUT}_spacy.csv', dict_with_parsed_xml=dict_with_parsed_xml)
 
     def create_project_files(self,QUERY,HITS,OUTPUT):
         """
@@ -59,9 +68,12 @@ class EthicStatements:
         """
         import os
         from glob import glob
+        import logging
         dict_with_parsed_xml = {}
         ethics_statements = glob(os.path.join(
             path_to_project, output, 'PMC*', 'sections', '*', '[0-9]_ethic*', '[1_9]_p.xml'))
+        logging.basicConfig(level=logging.INFO)
+        logging.info(ethics_statements)
         for statement in ethics_statements:
             self.find_pmcid_from_file_name_and_make_dict_key(dict_with_parsed_xml, statement)
         return dict_with_parsed_xml
@@ -85,8 +97,9 @@ class EthicStatements:
         :param dict_with_parsed_xml: 
 
         """
-        import spacy
+        import spacy 
         nlp = spacy.load("en_core_web_sm")
+        #nlp = spacy.load("en_core_sci_sm")
         import xml.etree.ElementTree as ET
         for ethics_statement in dict_with_parsed_xml:
             tree = ET.parse(dict_with_parsed_xml[ethics_statement]['file'])
@@ -157,16 +170,21 @@ class EthicStatements:
         :param dict_with_parsed_xml: 
 
         """
+        import logging
         import pandas as pd
         df = pd.DataFrame(dict_with_parsed_xml)
         df = df.T
         df.to_csv(path, encoding='utf-8')
+        logging.basicConfig(level=logging.INFO)
+        logging.info("wrote output to csv")
+        
 
 
 ethic_statement_creator=EthicStatements()
-ethic_statement_creator.demo()
+#ethic_statement_creator.demo()
+ethic_statement_creator.frontiers_ethics_statement()
 
-#
+
 
 # displacy.serve(doc, style="ent")
 
@@ -180,4 +198,9 @@ def display_graph_of_dependensies(self, dict_with_parsed_xml):
         doc = nlp(display_graph_of_dependensies[ethic]['parsed'])
         displacy.serve(doc, style="dep")
 
+'''
+
+'''
+Credits to Ayush Garg for helping with linking PMC to the parsed text and the entities recognized. 
+He has also converted the code into a class. 
 '''

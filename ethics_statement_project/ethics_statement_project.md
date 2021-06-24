@@ -7,7 +7,8 @@
   - [3.3. Mini-Corpus #3](#33-mini-corpus-3)
 - [4. `ami` dictionary - Ontology](#4-ami-dictionary---ontology)
 - [5. Updates](#5-updates)
-  - [5.1. Moving away from Jupyter Notebook, trying out different publishers](#51-moving-away-from-jupyter-notebook-trying-out-different-publishers)
+  - [5.1. Moving away from Jupyter Notebook, trying out different publishers (2021-06-23)](#51-moving-away-from-jupyter-notebook-trying-out-different-publishers-2021-06-23)
+    - [To-do](#to-do)
   - [5.2. Exploration on 2021-06-18](#52-exploration-on-2021-06-18)
   - [5.3. SPARQL Class (2021-06-16) - Potential Integration with ami](#53-sparql-class-2021-06-16---potential-integration-with-ami)
   - [5.4. Better globbing, Regex and SPARQL Wrapper (2021-06-15)](#54-better-globbing-regex-and-sparql-wrapper-2021-06-15)
@@ -63,7 +64,7 @@ C:\Users\shweata\ethics_statement_corpus_1000\results>amidict -v --dictionary et
 The prototype dictionary is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/results/rake/ethics_statement.xml). 
 
 # 5. Updates
-## 5.1. Moving away from Jupyter Notebook, trying out different publishers
+## 5.1. Moving away from Jupyter Notebook, trying out different publishers (2021-06-23)
 [New script](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/ethics_statement_generic.py)
 - I've moved away from Jupyter Notebook, for now. It was hard for me to move things around and make changes. 
 - made the  code conformant and modular (huge thanks to @ayushgarg). Turned the code into a class. 
@@ -75,6 +76,11 @@ The prototype dictionary is available, [here](https://github.com/petermr/diction
 - Trying out different publishers
   - springer nature doesn't have useful file naming system
   - PLOS doesn't label Ethics Statement either
+
+### To-do
+- Add logging
+- Wordcloud - not sure how to proceed
+  
 
 ## 5.2. Exploration on 2021-06-18
 - I did some experimentation by trying different publishers in EPMC queries. Surprisingly, I did not find ABSTRACTS in the abstracts. So I stuck to searching METHODS section. 
