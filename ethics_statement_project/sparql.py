@@ -1,5 +1,9 @@
 from logging import debug
 
+# from SPARQLWrapper import XML
+# from sparqlwrapper import *
+from SPARQLWrapper import Wrapper
+
 
 class Sparql:
     def __init__(self) -> None:
@@ -63,7 +67,8 @@ class Sparql:
     @classmethod
     def test_sparql(cls):
         """ """
-        import SPARQLWrapper
+        # from SPARQLWrapper import Wrapper
+        from sparqlwrapper import Wrapper, XML
         WIKIDATA_SPARQL_ENDPOINT_URL = "https://query.wikidata.org/sparql"
         #SPARQL query
         query = """#research council
@@ -85,7 +90,7 @@ class Sparql:
         
         import sys
         import logging
-        from SPARQLWrapper import SPARQLWrapper, XML
+        from SPARQLWrapper import XML
         user_agent = "WDQS-example Python/%s.%s" % (sys.version_info[0], sys.version_info[1])
         # TODO adjust user agent; see https://w.wiki/CX6
         sparql = SPARQLWrapper(endpoint_url, agent=user_agent)
