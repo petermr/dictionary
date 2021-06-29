@@ -5,7 +5,8 @@ class EthicStatements:
     """ """
 
     def __init__(self):
-        pass
+        import logging
+        logging.basicConfig(level=logging.INFO)
 
     def demo(self):
         """ """
@@ -101,7 +102,6 @@ class EthicStatements:
         dict_with_parsed_xml = {}
         ethics_statements = glob(os.path.join(
             working_directory, output, 'PMC*', 'sections', '**', '*', '[1_9]_p.xml'), recursive=True)
-        logging.basicConfig(level=logging.INFO)
         for statement in ethics_statements:
             self.find_pmcid_from_file_name_and_make_dict_key(
                 dict_with_parsed_xml, statement)
@@ -247,7 +247,6 @@ class EthicStatements:
         df = pd.DataFrame(dict_with_parsed_xml)
         df = df.T
         df.to_csv(path, encoding='utf-8')
-        logging.basicConfig(level=logging.INFO)
         logging.info(f"wrote output to {path}")
 
     def remove_tems_which_have_false_terms(self, dict_with_parsed_xml):
