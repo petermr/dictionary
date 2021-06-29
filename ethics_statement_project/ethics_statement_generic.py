@@ -128,8 +128,11 @@ class EthicStatements:
 
         """
         import spacy
-        nlp = spacy.load("en_core_web_sm")
-        # nlp = spacy.load("en_core_sci_sm")
+        import os
+        os.system(
+            'pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_sm-0.4.0.tar.gz')
+        # nlp = spacy.load("en_core_web_sm")
+        nlp = spacy.load("en_core_sci_sm")
         import xml.etree.ElementTree as ET
         for ethics_statement in dict_with_parsed_xml:
             tree = ET.parse(dict_with_parsed_xml[ethics_statement]['file'])
