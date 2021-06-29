@@ -102,11 +102,10 @@ class EthicStatements:
         ethics_statements = glob(os.path.join(
             working_directory, output, 'PMC*', 'sections', '**', '*', '[1_9]_p.xml'), recursive=True)
         logging.basicConfig(level=logging.INFO)
-        print(ethics_statements)
-        logging.info(f"Found {len(ethics_statements)} ethics statements")
         for statement in ethics_statements:
             self.find_pmcid_from_file_name_and_make_dict_key(
                 dict_with_parsed_xml, statement)
+        logging.info(f"Found {len(dict_with_parsed_xml)} ethics statements")
         return dict_with_parsed_xml
 
     def find_pmcid_from_file_name_and_make_dict_key(self, dict_with_parsed_xml, statement):
@@ -121,8 +120,6 @@ class EthicStatements:
                 pmcid = word
                 dict_with_parsed_xml[pmcid] = {}
                 dict_with_parsed_xml[pmcid]['file'] = statement
-            else:
-                print('word not pmc')
 
     def add_ethic_statements_to_dict(self, dict_with_parsed_xml):
         """
@@ -258,6 +255,8 @@ class EthicStatements:
         for statement in dict_with_parsed_xml:
             if dict_with_parsed_xml[statement]['has_terms'] == False:
                 statement_to_pop.append(statement)
+                print(f"term not found for {statement}")
+
         for term in statement_to_pop:
             dict_with_parsed_xml.pop(term)
 
