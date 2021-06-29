@@ -1,3 +1,6 @@
+import os
+
+
 class EthicStatements:
     """ """
 
@@ -7,29 +10,45 @@ class EthicStatements:
     def demo(self):
         """ """
         import os
-        path_to_project = os.getcwd()
+        working_directory = os.getcwd()
         QUERY = "ethics statement frontiers"
         HITS = 10
         OUTPUT = 'ethics_statement_frontiers_100'
-        self.create_project_and_make_csv(path_to_project,QUERY,HITS,OUTPUT)
+        self.create_project_and_make_csv(
+            working_directory, QUERY, HITS, OUTPUT)
 
-    def create_project_and_make_csv(self,path_to_project,QUERY,HITS,OUTPUT):
+    def test_term_creation(self, working_directory, QUERY, HITS, OUTPUT, TERMS_XML_PATH):
+        import os
+        self.create_project_files(QUERY, HITS, OUTPUT)
+        # self.install_ami()
+        dict_with_parsed_xml = self.make_dict_with_pmcids(
+            working_directory, OUTPUT)
+        terms = self.get_terms_from_ami_xml(TERMS_XML_PATH)
+        self.add_if_file_contains_terms(
+            terms=terms, dict_with_parsed_xml=dict_with_parsed_xml)
+        self.add_ethic_statements_to_dict(dict_with_parsed_xml)
+        self.convert_dict_to_csv(
+            path=f'{OUTPUT}.csv', dict_with_parsed_xml=dict_with_parsed_xml)
+
+    def create_project_and_make_csv(self, working_directory, QUERY, HITS, OUTPUT):
         """
 
-        :param path_to_project: 
+        :param working_directory: 
         :param QUERY: 
         :param HITS: 
         :param OUTPUT: 
 
         """
         import os
-        self.create_project_files(QUERY,HITS,OUTPUT)
+        self.create_project_files(QUERY, HITS, OUTPUT)
         self.install_ami()
-        dict_with_parsed_xml=self.make_dict_with_pmcids(path_to_project,OUTPUT)
+        dict_with_parsed_xml = self.make_dict_with_pmcids(
+            working_directory, OUTPUT)
         self.add_ethic_statements_to_dict(dict_with_parsed_xml)
-        self.convert_dict_to_csv(path=f'{OUTPUT}.csv', dict_with_parsed_xml=dict_with_parsed_xml)
+        self.convert_dict_to_csv(
+            path=f'{OUTPUT}.csv', dict_with_parsed_xml=dict_with_parsed_xml)
 
-    def create_project_files(self,QUERY,HITS,OUTPUT):
+    def create_project_files(self, QUERY, HITS, OUTPUT):
         """
 
         :param QUERY: param HITS:
@@ -41,7 +60,6 @@ class EthicStatements:
         os.system(f'pygetpapers -q "{QUERY}" -k {HITS} -o {OUTPUT} -x')
         os.system(f"ami -p {OUTPUT} section")
 
-
     def install_ami(self):
         """ """
         import os
@@ -49,11 +67,10 @@ class EthicStatements:
         os.system("cd ami3")
         os.system("mvn install -Dmaven.test.skip=true")
 
-
-    def make_dict_with_pmcids(self,path_to_project, output):
+    def make_dict_with_pmcids(self, working_directory, output):
         """
 
-        :param path_to_project: param output:
+        :param working_directory: param output:
         :param output: 
 
         """
@@ -61,9 +78,10 @@ class EthicStatements:
         from glob import glob
         dict_with_parsed_xml = {}
         ethics_statements = glob(os.path.join(
-            path_to_project, output, 'PMC*', 'sections', '*', '[0-9]_ethic*', '[1_9]_p.xml'))
+            working_directory, output, 'PMC*', 'sections', '*', '*', '[1_9]_p.xml'))
         for statement in ethics_statements:
-            self.find_pmcid_from_file_name_and_make_dict_key(dict_with_parsed_xml, statement)
+            self.find_pmcid_from_file_name_and_make_dict_key(
+                dict_with_parsed_xml, statement)
         return dict_with_parsed_xml
 
     def find_pmcid_from_file_name_and_make_dict_key(self, dict_with_parsed_xml, statement):
@@ -79,7 +97,7 @@ class EthicStatements:
                 dict_with_parsed_xml[pmcid] = {}
                 dict_with_parsed_xml[pmcid]['file'] = statement
 
-    def add_ethic_statements_to_dict(self,dict_with_parsed_xml):
+    def add_ethic_statements_to_dict(self, dict_with_parsed_xml):
         """
 
         :param dict_with_parsed_xml: 
@@ -91,7 +109,25 @@ class EthicStatements:
         for ethics_statement in dict_with_parsed_xml:
             tree = ET.parse(dict_with_parsed_xml[ethics_statement]['file'])
             root = tree.getroot()
-            self.iterate_over_xml_and_populate_dict(dict_with_parsed_xml, ethics_statement, nlp, root)
+            self.iterate_over_xml_and_populate_dict(
+                dict_with_parsed_xml, ethics_statement, nlp, root)
+
+    def add_if_file_contains_terms(terms, dict_with_parsed_xml):
+        for statement in dict_with_parsed_xml:
+            dict_with_parsed_xml[statement]['has_terms'] = False
+            for term in terms:
+                if dict_with_parsed_xml[statement]['parsed'] == term:
+                    dict_with_parsed_xml[statement]['has_terms'] = True
+                    break
+
+    def get_terms_from_ami_xml(xml_path):
+        import xml.etree.ElementTree as ET
+        tree = ET.parse(xml_path)
+        root = tree.getroot()
+        terms = []
+        for para in root.iter('entry'):
+            terms.append(para.attrib["term"])
+        return terms
 
     def iterate_over_xml_and_populate_dict(self, dict_with_parsed_xml, ethics_statement, nlp, root):
         """
@@ -107,7 +143,8 @@ class EthicStatements:
             doc = nlp(dict_with_parsed_xml[ethics_statement]['parsed'])
             entities, labels, position_end, position_start = self.make_required_lists()
             for ent in doc.ents:
-                self.add_parsed_entities_to_lists(ent, entities, labels, position_end, position_start)
+                self.add_parsed_entities_to_lists(
+                    ent, entities, labels, position_end, position_start)
             self.add_lists_to_dict(dict_with_parsed_xml, entities, ethics_statement, labels, position_end,
                                    position_start)
 
@@ -150,7 +187,7 @@ class EthicStatements:
         position_start.append(ent.start_char)
         position_end.append(ent.end_char)
 
-    def convert_dict_to_csv(self,path,dict_with_parsed_xml):
+    def convert_dict_to_csv(self, path, dict_with_parsed_xml):
         """
 
         :param path: param dict_with_parsed_xml:
@@ -163,9 +200,10 @@ class EthicStatements:
         df.to_csv(path, encoding='utf-8')
 
 
-ethic_statement_creator=EthicStatements()
-ethic_statement_creator.demo()
-
+ethic_statement_creator = EthicStatements()
+# ethic_statement_creator.demo()
+ethic_statement_creator.test_term_creation(
+    "term_creation_test_cancer_clinal", "Cancer clinical trial", 50, os.getcwd(), "D:\main_projects\\repositories\dictionary\ethics_statement_project\\results\\rake\ethics_statement.xml")
 #
 
 # displacy.serve(doc, style="ent")
