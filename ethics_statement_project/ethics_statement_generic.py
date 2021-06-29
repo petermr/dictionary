@@ -24,11 +24,12 @@ class EthicStatements:
         dict_with_parsed_xml = self.make_dict_with_pmcids(
             working_directory, OUTPUT)
         terms = self.get_terms_from_ami_xml(TERMS_XML_PATH)
+        self.add_ethic_statements_to_dict(dict_with_parsed_xml)
         self.add_if_file_contains_terms(
             terms=terms, dict_with_parsed_xml=dict_with_parsed_xml)
-        self.add_ethic_statements_to_dict(dict_with_parsed_xml)
+
         self.convert_dict_to_csv(
-            path=f'{OUTPUT}.csv', dict_with_parsed_xml=dict_with_parsed_xml)
+            path=f'{OUTPUT}_20210629.csv', dict_with_parsed_xml=dict_with_parsed_xml)
 
     def frontiers_ethics_statement(self):
 
@@ -89,7 +90,7 @@ class EthicStatements:
         import logging
         dict_with_parsed_xml = {}
         ethics_statements = glob(os.path.join(
-            working_directory, output, 'PMC*', 'sections', '*', '[0-9]_ethic*', '[1_9]_p.xml'))
+            working_directory, output, 'PMC*', 'sections', '**', '*', '[1_9]_p.xml'), recursive=True)
         logging.basicConfig(level=logging.INFO)
         logging.info(ethics_statements)
         for statement in ethics_statements:
@@ -130,7 +131,7 @@ class EthicStatements:
         for statement in dict_with_parsed_xml:
             dict_with_parsed_xml[statement]['has_terms'] = False
             for term in terms:
-                if dict_with_parsed_xml[statement]['parsed'] == term:
+               if term in dict_with_parsed_xml[statement]['parsed']:
                     dict_with_parsed_xml[statement]['has_terms'] = True
                     break
 
@@ -220,7 +221,7 @@ class EthicStatements:
 ethic_statement_creator = EthicStatements()
 # ethic_statement_creator.demo()
 ethic_statement_creator.test_term_creation(
-    os.getcwd(), "Cancer clinical trial", 50, "ethics_statement_frontiers_100", "C:\\users\\shweata\dictionary\ethics_statement_project\\results\\rake\ethics_statement.xml")
+    os.getcwd(), "Cancer clinical trial", 50, "e_cancer_clinical_trial_50", "C:\\users\\shweata\dictionary\ethics_statement_project\\results\\rake\ethics_statement.xml")
 #
 
 # displacy.serve(doc, style="ent")
