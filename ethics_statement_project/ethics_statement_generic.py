@@ -19,7 +19,7 @@ class EthicStatements:
 
     def test_term_creation(self, working_directory, QUERY, HITS, OUTPUT, TERMS_XML_PATH):
         import os
-        self.create_project_files(QUERY, HITS, OUTPUT)
+        #self.create_project_files(QUERY, HITS, OUTPUT)
         # self.install_ami()
         dict_with_parsed_xml = self.make_dict_with_pmcids(
             working_directory, OUTPUT)
@@ -126,7 +126,7 @@ class EthicStatements:
             self.iterate_over_xml_and_populate_dict(
                 dict_with_parsed_xml, ethics_statement, nlp, root)
 
-    def add_if_file_contains_terms(terms, dict_with_parsed_xml):
+    def add_if_file_contains_terms(self,terms, dict_with_parsed_xml):
         for statement in dict_with_parsed_xml:
             dict_with_parsed_xml[statement]['has_terms'] = False
             for term in terms:
@@ -134,7 +134,7 @@ class EthicStatements:
                     dict_with_parsed_xml[statement]['has_terms'] = True
                     break
 
-    def get_terms_from_ami_xml(xml_path):
+    def get_terms_from_ami_xml(self,xml_path):
         import xml.etree.ElementTree as ET
         tree = ET.parse(xml_path)
         root = tree.getroot()
@@ -220,7 +220,7 @@ class EthicStatements:
 ethic_statement_creator = EthicStatements()
 # ethic_statement_creator.demo()
 ethic_statement_creator.test_term_creation(
-    "term_creation_test_cancer_clinal", "Cancer clinical trial", 50, os.getcwd(), "D:\main_projects\\repositories\dictionary\ethics_statement_project\\results\\rake\ethics_statement.xml")
+    os.getcwd(), "Cancer clinical trial", 50, "ethics_statement_frontiers_100", "C:\\users\\shweata\dictionary\ethics_statement_project\\results\\rake\ethics_statement.xml")
 #
 
 # displacy.serve(doc, style="ent")
