@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="ethics_commitee">
+ <desc>Created from SPARQL query</desc>
+ <entry term="Ethics Committee of the American Society for Reproductive Medicine" wikidataURL="http://www.wikidata.org/entity/Q94657657" wikidataID="Q94657657"/>
+ <entry term="Q104437950" wikidataURL="http://www.wikidata.org/entity/Q104437950" wikidataID="Q104437950"/>
+ <entry term="Q105546615" wikidataURL="http://www.wikidata.org/entity/Q105546615" wikidataID="Q105546615"/>
+ <entry term="National Ethics Committee of Senegal" wikidataURL="http://www.wikidata.org/entity/Q105725690" wikidataID="Q105725690"/>
+ <entry term="Research Ethics Committee of Galway University Hospitals" wikidataURL="http://www.wikidata.org/entity/Q106580821" wikidataID="Q106580821"/>
+ <entry term="Social and Behavioural Research Ethics Committee of Flinders University" wikidataURL="http://www.wikidata.org/entity/Q106644501" wikidataID="Q106644501"/>
+ <entry term="Beaumont Hospital Ethics Committee" wikidataURL="http://www.wikidata.org/entity/Q107172445" wikidataID="Q107172445"/>
+ <entry term="Ethics Board of the Center of Regenerative Medicine in Barcelona" wikidataURL="http://www.wikidata.org/entity/Q107306657" wikidataID="Q107306657"/>
+ <entry term="Hartford Hospital Ethics Committee" wikidataURL="http://www.wikidata.org/entity/Q107306694" wikidataID="Q107306694"/>
+ <entry term="Ethics board of the Prince Felipe Research Centre" wikidataURL="http://www.wikidata.org/entity/Q107306805" wikidataID="Q107306805"/>
+ <entry term="Scotland A Research Ethics Committee" wikidataURL="http://www.wikidata.org/entity/Q107306814" wikidataID="Q107306814"/>
+ <entry term="Federal Commission for Medical and Scientific Research on embryos in vitro" wikidataURL="http://www.wikidata.org/entity/Q107306934" wikidataID="Q107306934"/>
+ <entry term="Ethics Committee of the University of Debrecen" wikidataURL="http://www.wikidata.org/entity/Q107345824" wikidataID="Q107345824"/>
+ <entry term="Q107345890" wikidataURL="http://www.wikidata.org/entity/Q107345890" wikidataID="Q107345890"/>
+</dictionary>
