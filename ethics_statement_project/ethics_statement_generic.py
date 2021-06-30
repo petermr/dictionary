@@ -37,9 +37,10 @@ class EthicStatements:
         self.add_ethic_statements_to_dict(dict_with_parsed_xml)
         self.add_if_file_contains_terms(
             terms=terms, dict_with_parsed_xml=dict_with_parsed_xml)
-        #self.remove_tems_which_have_false_terms(dict_with_parsed_xml=dict_with_parsed_xml)
+        self.remove_tems_which_have_false_terms(
+            dict_with_parsed_xml=dict_with_parsed_xml)
         self.convert_dict_to_csv(
-            path=f'{OUTPUT}_20210630.csv', dict_with_parsed_xml=dict_with_parsed_xml)
+            path=f'{OUTPUT}_2021063012.csv', dict_with_parsed_xml=dict_with_parsed_xml)
 
     def frontiers_ethics_statement(self):
         """ """
@@ -100,26 +101,22 @@ class EthicStatements:
         from glob import glob
         import logging
         dict_with_parsed_xml = {}
-        ethics_statements = glob(os.path.join(
-            working_directory, output, 'PMC*', 'sections','**', '[1_9]_p.xml'),recursive=True )
-        for statement in ethics_statements:
+        all_paragraphs = glob(os.path.join(
+            working_directory, output, '*', 'sections', '**', '[1_9]_p.xml'), recursive=True)
+        for statement in all_paragraphs:
             self.find_pmcid_from_file_name_and_make_dict_key(
                 dict_with_parsed_xml, statement)
         logging.info(f"Found {len(dict_with_parsed_xml)} ethics statements")
         return dict_with_parsed_xml
 
-    def find_pmcid_from_file_name_and_make_dict_key(self, dict_with_parsed_xml, statement):
+    def find_pmcid_from_file_name_and_make_dict_key(self, dict_with_parsed_xml, paragraph_file):
         """
 
         :param dict_with_parsed_xml:
         :param statement:
 
         """
-        for word in statement.split('\\'):
-            if word.startswith('PMC'):
-                pmcid = word
-                dict_with_parsed_xml[pmcid] = {}
-                dict_with_parsed_xml[pmcid]['file'] = statement
+        dict_with_parsed_xml[paragraph_file] = {}
 
     def add_ethic_statements_to_dict(self, dict_with_parsed_xml):
         """
@@ -135,7 +132,7 @@ class EthicStatements:
         #nlp = spacy.load("en_core_sci_sm")
         import xml.etree.ElementTree as ET
         for ethics_statement in dict_with_parsed_xml:
-            tree = ET.parse(dict_with_parsed_xml[ethics_statement]['file'])
+            tree = ET.parse(ethics_statement)
             root = tree.getroot()
             self.iterate_over_xml_and_populate_dict(
                 dict_with_parsed_xml, ethics_statement, nlp, root)
@@ -151,7 +148,7 @@ class EthicStatements:
             dict_with_parsed_xml[statement]['has_terms'] = False
             for term in terms:
                 if term in dict_with_parsed_xml[statement]['parsed']:
-                    dict_with_parsed_xml[statement]['has_terms'] = True
+                    dict_with_parsed_xml[statement]['has_terms'] = term
                     break
 
     def get_terms_from_ami_xml(self, xml_path):
@@ -261,8 +258,9 @@ class EthicStatements:
 
 
 ethic_statement_creator = EthicStatements()
-#ethic_statement_creator.demo()
-ethic_statement_creator.test_term_creation(os.getcwd(), "ethics statement frontiers", 30, "ethics_statement_frontiers_30", "C:\\users\shweata\dictionary\ethics_statement_project\\results\\rake\ethics_statement.xml")
+# ethic_statement_creator.demo()
+ethic_statement_creator.test_term_creation(os.getcwd(), 'ethics_statement_frontiers_100', 30, 'ethics_statement_frontiers_100', os.path.join(
+    os.getcwd(), 'results', 'rake', 'ethics_statement.xml'))
 #
 
 # displacy.serve(doc, style="ent")

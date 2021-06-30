@@ -1,7 +1,5 @@
-import xmltodict
-import xml.etree.ElementTree as ET
-tree = ET.parse(
-    "D:\main_projects\\repositories\dictionary\ethics_statement_project\\results\\rake\ethics_statement.xml")
-root = tree.getroot()
-for para in root.iter('entry'):
-    print(para.attrib["term"])
+from glob import glob
+import os
+ethics_statements = glob(os.path.join(
+    os.getcwd(), 'ethics_statement_frontiers_100', 'PMC*', 'sections', '**', '[1_9]_p.xml'), recursive=True)
+print(ethics_statements)
