@@ -14,22 +14,22 @@ class EthicStatements:
         working_directory = os.getcwd()
         QUERY = "ethics statement frontiers"
         HITS = 10
-        OUTPUT = 'ethics_statement_frontiers_100'
+        OUTPUT = 'e_cancer_trial_30'
         self.create_project_and_make_csv(
             working_directory, QUERY, HITS, OUTPUT)
 
     def test_term_creation(self, working_directory, QUERY, HITS, OUTPUT, TERMS_XML_PATH):
         """
 
-        :param working_directory: param QUERY:
-        :param HITS: param OUTPUT:
+        :param working_directory: 
+        :param HITS: 
         :param TERMS_XML_PATH:
         :param QUERY:
         :param OUTPUT:
 
         """
         import os
-        # self.create_project_files(QUERY, HITS, OUTPUT)
+        #self.create_project_files(QUERY, HITS, OUTPUT)
         # self.install_ami()
         dict_with_parsed_xml = self.make_dict_with_pmcids(
             working_directory, OUTPUT)
@@ -37,9 +37,9 @@ class EthicStatements:
         self.add_ethic_statements_to_dict(dict_with_parsed_xml)
         self.add_if_file_contains_terms(
             terms=terms, dict_with_parsed_xml=dict_with_parsed_xml)
-        # self.remove_tems_which_have_false_terms(dict_with_parsed_xml=dict_with_parsed_xml)
+        #self.remove_tems_which_have_false_terms(dict_with_parsed_xml=dict_with_parsed_xml)
         self.convert_dict_to_csv(
-            path=f'{OUTPUT}_20210629.csv', dict_with_parsed_xml=dict_with_parsed_xml)
+            path=f'{OUTPUT}_20210630.csv', dict_with_parsed_xml=dict_with_parsed_xml)
 
     def frontiers_ethics_statement(self):
         """ """
@@ -55,8 +55,8 @@ class EthicStatements:
     def create_project_and_make_csv(self, working_directory, QUERY, HITS, OUTPUT):
         """
 
-        :param working_directory: param HITS:
-        :param QUERY: param OUTPUT:
+        :param working_directory: 
+        :param QUERY:
         :param HITS:
         :param OUTPUT:
 
@@ -73,7 +73,7 @@ class EthicStatements:
     def create_project_files(self, QUERY, HITS, OUTPUT):
         """
 
-        :param QUERY: param OUTPUT:
+        :param QUERY:
         :param HITS:
         :param OUTPUT:
 
@@ -92,7 +92,7 @@ class EthicStatements:
     def make_dict_with_pmcids(self, working_directory, output):
         """
 
-        :param working_directory: param output:
+        :param working_directory: 
         :param output:
 
         """
@@ -101,7 +101,7 @@ class EthicStatements:
         import logging
         dict_with_parsed_xml = {}
         ethics_statements = glob(os.path.join(
-            working_directory, output, 'PMC*', 'sections', '**', '*', '[1_9]_p.xml'), recursive=True)
+            working_directory, output, 'PMC*', 'sections','**', '[1_9]_p.xml'),recursive=True )
         for statement in ethics_statements:
             self.find_pmcid_from_file_name_and_make_dict_key(
                 dict_with_parsed_xml, statement)
@@ -111,7 +111,7 @@ class EthicStatements:
     def find_pmcid_from_file_name_and_make_dict_key(self, dict_with_parsed_xml, statement):
         """
 
-        :param dict_with_parsed_xml: param statement:
+        :param dict_with_parsed_xml:
         :param statement:
 
         """
@@ -131,8 +131,8 @@ class EthicStatements:
         import os
         os.system(
             'pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_sm-0.4.0.tar.gz')
-        # nlp = spacy.load("en_core_web_sm")
-        nlp = spacy.load("en_core_sci_sm")
+        nlp = spacy.load("en_core_web_sm")
+        #nlp = spacy.load("en_core_sci_sm")
         import xml.etree.ElementTree as ET
         for ethics_statement in dict_with_parsed_xml:
             tree = ET.parse(dict_with_parsed_xml[ethics_statement]['file'])
@@ -143,7 +143,7 @@ class EthicStatements:
     def add_if_file_contains_terms(self, terms, dict_with_parsed_xml):
         """
 
-        :param terms: param dict_with_parsed_xml:
+        :param terms: 
         :param dict_with_parsed_xml:
 
         """
@@ -171,8 +171,8 @@ class EthicStatements:
     def iterate_over_xml_and_populate_dict(self, dict_with_parsed_xml, ethics_statement, nlp, root):
         """
 
-        :param dict_with_parsed_xml: param nlp:
-        :param ethics_statement: param root:
+        :param dict_with_parsed_xml: 
+        :param ethics_statement:
         :param nlp:
         :param root:
 
@@ -182,14 +182,11 @@ class EthicStatements:
                 dict_with_parsed_xml[ethics_statement]['parsed'] = para.text
             else:
                 dict_with_parsed_xml[ethics_statement]['parsed'] = "empty"
-            try:
-                doc = nlp(dict_with_parsed_xml[ethics_statement]['parsed'])
-                entities, labels, position_end, position_start = self.make_required_lists()
-                for ent in doc.ents:
-                    self.add_parsed_entities_to_lists(
-                        entities, labels, position_end, position_start, ent)
-            except:
-                pass
+            doc = nlp(dict_with_parsed_xml[ethics_statement]['parsed'])
+            entities, labels, position_end, position_start = self.make_required_lists()
+            for ent in doc.ents:
+                self.add_parsed_entities_to_lists(
+                    entities, labels, position_end, position_start, ent)
             self.add_lists_to_dict(dict_with_parsed_xml, entities, ethics_statement, labels, position_end,
                                    position_start)
 
@@ -204,9 +201,9 @@ class EthicStatements:
     def add_lists_to_dict(self, dict_with_parsed_xml, entities, ethics_statement, labels, position_end, position_start):
         """
 
-        :param dict_with_parsed_xml: param ethics_statement:
-        :param position_end: param entities:
-        :param position_start: param labels:
+        :param dict_with_parsed_xml: 
+        :param position_end: 
+        :param position_start:
         :param entities:
         :param ethics_statement:
         :param labels:
@@ -220,9 +217,9 @@ class EthicStatements:
     def add_parsed_entities_to_lists(self, entities, labels, position_end, position_start, ent=None):
         """
 
-        :param ent: Default value = None)
-        :param labels: param position_start:
-        :param position_end: param entities:
+        :param ent: 
+        :param labels: 
+        :param position_end: 
         :param entities:
         :param position_start:
 
@@ -264,9 +261,8 @@ class EthicStatements:
 
 
 ethic_statement_creator = EthicStatements()
-# ethic_statement_creator.demo()
-ethic_statement_creator.test_term_creation(
-    os.getcwd(), "Cancer clinical trial", 50, "e_cancer_clinical_trial_50", "D:\main_projects\\repositories\dictionary\ethics_statement_project\\results\\rake\ethics_statement.xml")
+#ethic_statement_creator.demo()
+ethic_statement_creator.test_term_creation(os.getcwd(), "ethics statement frontiers", 30, "ethics_statement_frontiers_30", "C:\\users\shweata\dictionary\ethics_statement_project\\results\\rake\ethics_statement.xml")
 #
 
 # displacy.serve(doc, style="ent")
