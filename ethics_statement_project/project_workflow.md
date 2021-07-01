@@ -15,7 +15,7 @@ From our exploratory analysis of `XML` sections of papers retrieved from `pygetp
 
 When working with labelled sections, we can easily filter ethics statements from the rest of the sections - using glob. We, then, employ [spaCy](https://spacy.io/) to extract named entities (i.e., the ethics committees) and [`pke`](https://github.com/boudinfl/pke) for extracting key phrases. At this point, we can feed the data to Wikidata. 
 
-By feeding the information to Wikidata, we can use SPARQLWrapper to get all the ethics committees and key phrases into `ami` dictionaries (XML). The dictionaries can help us retrieve ethics statements from unlabelled sections. Like before, we can use spaCy and `pke` to extract, potentially, new ethics committees and more key phrases. 
+By feeding the information to Wikidata, we can use SPARQLWrapper to get all the ethics committees and key phrases converted into `ami` dictionaries (XML). The dictionaries can help us retrieve ethics statements from unlabelled sections. Like before, we can use spaCy and `pke` to extract, potentially, new ethics committees and more key phrases. 
 
 Retrieve information -> extract information -> use extracted information to retrive information -> extract more information 
 
