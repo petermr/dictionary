@@ -222,7 +222,8 @@ I have created a prototype dictionary after analysing the Ethics Statement secti
   - Come up with boilers plates for ethics statements
   - Sentence-level similarity -> Score the sentences based on boiler plates
     - fish for entities
-    - determining the context
+    - determining the contex
+    - Similar to SPAM dectectors!
 - Shweata, then, presented her initial work with PKE, a python key phrase extracting toolkit. She demonstrated multiple models that can be accessed through PKE to extract key phrases. Comments from Daniel and PMR:
   - Instead of relying on one approach, we could somehow combine these approaches to come up with useful set of terms. It could be by multiplying the scores we get out of each model. 
   - We could manually come up with boiler plate phrases, and then run it through, let's say, YAKE to come up with key phrases. 
