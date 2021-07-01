@@ -10,7 +10,7 @@ parsed_ethics_statement = df.parsed.to_list()
 logging.basicConfig(level=logging.INFO)
 logging.info(parsed_ethics_statement)
 
-df_intro = pd.read_csv(os.path.join(HOME, 'ethics_statement_frontiers_100_intro_spacy.csv'), usecols = ['parsed'])
+df_intro = pd.read_csv(os.path.join(HOME,'__ethics_statement_generic_results_csv', 'ethics_statement_frontiers_100_intro_spacy.csv'), usecols = ['parsed'])
 #print(df)
 parsed_intro = df_intro.parsed.to_list()
 logging.basicConfig(level=logging.INFO)
@@ -27,7 +27,7 @@ import pandas as pd
 
 vectorizer = TfidfVectorizer(stop_words='english')
 X = vectorizer.fit_transform(combined_parsed)
-true_k = 3
+true_k = 2
 
 model = KMeans(n_clusters=true_k, init='k-means++', max_iter=100, n_init=1)
 model.fit(X)

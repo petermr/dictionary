@@ -8,11 +8,11 @@
   - [3.4. Mini-corpus #4](#34-mini-corpus-4)
 - [4. `ami` dictionary - Ontology](#4-ami-dictionary---ontology)
 - [5. Updates](#5-updates)
+  - [PKE (20210701)](#pke-20210701)
   - [5.1. Code review with PMR and Ayush (20210630)](#51-code-review-with-pmr-and-ayush-20210630)
   - [5.2. Meeting on Tuesday (20210629)](#52-meeting-on-tuesday-20210629)
   - [5.3. Meeting on Sunday (20210627)](#53-meeting-on-sunday-20210627)
   - [5.4. Moving away from Jupyter Notebook, trying out different publishers (2021-06-23)](#54-moving-away-from-jupyter-notebook-trying-out-different-publishers-2021-06-23)
-    - [5.4.1. To-do](#541-to-do)
   - [5.5. Exploration on 2021-06-18](#55-exploration-on-2021-06-18)
   - [5.6. SPARQL Class (2021-06-16) - Potential Integration with ami](#56-sparql-class-2021-06-16---potential-integration-with-ami)
   - [5.7. Better globbing, Regex and SPARQL Wrapper (2021-06-15)](#57-better-globbing-regex-and-sparql-wrapper-2021-06-15)
@@ -20,6 +20,7 @@
   - [5.9. Entity Recognition using spaCy (2021-06-06)](#59-entity-recognition-using-spacy-2021-06-06)
   - [5.10. Ethics Statment Prototype dictionary (2021-06-01)](#510-ethics-statment-prototype-dictionary-2021-06-01)
 - [6. Meeting Records](#6-meeting-records)
+  - [2021-07-01](#2021-07-01)
   - [6.1. 2021-06-24](#61-2021-06-24)
   - [6.2. 2021-06-17](#62-2021-06-17)
   - [6.3. 2021-06-10](#63-2021-06-10)
@@ -77,6 +78,8 @@ C:\Users\shweata\ethics_statement_corpus_1000\results>amidict -v --dictionary et
 The prototype dictionary is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/results/rake/ethics_statement.xml). 
 
 # 5. Updates
+## PKE (20210701)
+- PKE is a key phrase extraction Python toolkit. There are multiple models like TFIDF, Text Rank, Topic Rank, and so on. 
 ## 5.1. Code review with PMR and Ayush (20210630)
 - Ayush and Shweata updated about their work on Ethics Statement. They have come up with a prototype to build a feedback loop of looking for ethics committees and key phrases in labelled sections and using them to filter unlabeled ethics statements. They also spent a huge chunk of time debugging their code. They had to re-think their logic of getting the dictionary key by splitting the path. This resulted in getting only the last paragraphs of each section - which was the problem. We resolved it by changing the dictionary key to the section of the path independent of the users working directory.
 - In relation to Ethics Statement. Comments from PMR:
@@ -100,11 +103,6 @@ The prototype dictionary is available, [here](https://github.com/petermr/diction
 - Trying out different publishers
   - springer nature doesn't have useful file naming system
   - PLOS doesn't label Ethics Statement either
-
-### 5.4.1. To-do
-- Add logging
-- Wordcloud - not sure how to proceed
-  
 
 ## 5.5. Exploration on 2021-06-18
 - I did some experimentation by trying different publishers in EPMC queries. Surprisingly, I did not find ABSTRACTS in the abstracts. So I stuck to searching METHODS section. 
@@ -213,6 +211,32 @@ The [notebook I've written](https://github.com/petermr/dictionary/blob/main/ethi
 ## 5.10. Ethics Statment Prototype dictionary (2021-06-01)
 I have created a prototype dictionary after analysing the Ethics Statement section of Mini-Corpus #1 using [`ami_gui.py`](https://github.com/petermr/openDiagram/blob/master/physchem/python/ami_gui.py). It is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/results/rake/ethics_statement.xml).
 # 6. Meeting Records
+## 2021-07-01
+[Workflow](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/project_workflow.md)
+- Shweata presented the prototype workflow for the project. You can look at the MD page for more information. Comments from Daniel and PMR: 
+  - Think about integrating into Wikidata. Once we have the Ethics Committees, we might want to query Wikidata if it exists or not. 
+  - We might want to have logfiles - which contains extracted information. 
+  - It would be useful to have a blacklist - a stopwords list to weed out unnecessary noise
+  - Since we have implemented filtering using terms in the dictionaries, we might want to score the retrieved paragraphs based on the number of terms hit. 
+  - In the entities column of the `.csv`, it would be useful to have a deliminter other than a comma. -> `.tsv`(?)
+  - Come up with boilers plates for ethics statements
+  - Sentence-level similarity -> Score the sentences based on boiler plates
+    - fish for entities
+    - determining the context
+- Shweata, then, presented her initial work with PKE, a python key phrase extracting toolkit. She demonstrated multiple models that can be accessed through PKE to extract key phrases. Comments from Daniel and PMR:
+  - Instead of relying on one approach, we could somehow combine these approaches to come up with useful set of terms. It could be by multiplying the scores we get out of each model. 
+  - We could manually come up with boiler plate phrases, and then run it through, let's say, YAKE to come up with key phrases. 
+  - It'd be useful to give more weight to longer phrases. 
+- Useful questions to ask:
+  -  What percentage have of ethics statements have an approval number? It might be useful to compare between two years. 
+  -  WHO did WHAT to WHOM?
+- Daniel will share a guide to ensure better reproducibility when using Jupyter Notebooks. 
+- Main tasks:
+  - Get away from publisher-specificity.
+  - Boiler plates
+  - Sentence level similarities
+  - Experiment with key phrase extractions. 
+- Identifying main subjects of papers. We could then determine whether if we want to look for ethics statements or not, and so on. 
 ## 6.1. 2021-06-24
 - Shweata presented her updates on the code. Read more about it in the updates section dated 2021-06-23. 
 - Daniel - Next step would be to feed the mined Ethics Committee names to Wikidata. 
