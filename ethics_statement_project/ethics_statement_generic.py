@@ -40,7 +40,7 @@ class EthicStatements:
         self.remove_tems_which_have_false_terms(
             dict_with_parsed_xml=dict_with_parsed_xml)
         self.convert_dict_to_csv(
-            path=f'{OUTPUT}_2021063012.csv', dict_with_parsed_xml=dict_with_parsed_xml)
+            path=f'{OUTPUT}_19091212.csv', dict_with_parsed_xml=dict_with_parsed_xml)
 
     def frontiers_ethics_statement(self):
         """ """
@@ -126,8 +126,7 @@ class EthicStatements:
         """
         import spacy
         import os
-        os.system(
-            'pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_sm-0.4.0.tar.gz')
+        #os.system('pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_sm-0.4.0.tar.gz')
         nlp = spacy.load("en_core_web_sm")
         #nlp = spacy.load("en_core_sci_sm")
         import xml.etree.ElementTree as ET
@@ -174,18 +173,24 @@ class EthicStatements:
         :param root:
 
         """
-        for para in root.iter('p'):
-            if para.text:
-                dict_with_parsed_xml[ethics_statement]['parsed'] = para.text
-            else:
-                dict_with_parsed_xml[ethics_statement]['parsed'] = "empty"
-            doc = nlp(dict_with_parsed_xml[ethics_statement]['parsed'])
-            entities, labels, position_end, position_start = self.make_required_lists()
-            for ent in doc.ents:
-                self.add_parsed_entities_to_lists(
-                    entities, labels, position_end, position_start, ent)
-            self.add_lists_to_dict(dict_with_parsed_xml, entities, ethics_statement, labels, position_end,
-                                   position_start)
+        import xml.etree.ElementTree as ET
+        from bs4 import BeautifulSoup
+        try:
+            xmlstr = ET.tostring(root, encoding='utf8', method='xml')
+            print(xmlstr)
+            soup = BeautifulSoup(xmlstr)
+            text = soup.get_text()
+            print(text)
+            dict_with_parsed_xml[ethics_statement]['parsed'] = text
+        except:
+            dict_with_parsed_xml[ethics_statement]['parsed'] = "empty"
+        doc = nlp(dict_with_parsed_xml[ethics_statement]['parsed'])
+        entities, labels, position_end, position_start = self.make_required_lists()
+        for ent in doc.ents:
+            self.add_parsed_entities_to_lists(
+                entities, labels, position_end, position_start, ent)
+        self.add_lists_to_dict(dict_with_parsed_xml, entities, ethics_statement, labels, position_end,
+                               position_start)
 
     def make_required_lists(self):
         """ """
@@ -259,7 +264,7 @@ class EthicStatements:
 
 ethic_statement_creator = EthicStatements()
 # ethic_statement_creator.demo()
-ethic_statement_creator.test_term_creation(os.getcwd(), 'ethics_statement_frontiers_100', 30, 'ethics_statement_frontiers_100', os.path.join(
+ethic_statement_creator.test_term_creation(os.getcwd(), 'e_cancer_clinical_trial_50', 30, 'e_cancer_clinical_trial_50', os.path.join(
     os.getcwd(), 'results', 'rake', 'ethics_statement.xml'))
 #
 
