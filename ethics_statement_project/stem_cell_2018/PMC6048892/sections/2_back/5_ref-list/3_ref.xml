@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Slotman</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Faivre-Finn</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Kramer</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Rankin</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Snee</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Hatton</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Prophylactic cranial irradiation in extensive small-cell lung cancer</article-title>
+  <source>N Engl J Med.</source>
+  <year>2007</year>
+  <volume>357</volume>
+  <fpage>664</fpage>
+  <lpage>672</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa071780</pub-id>
+  <?supplied-pmid 17699816?>
+  <pub-id pub-id-type="pmid">17699816</pub-id>
+ </element-citation>
+</ref>

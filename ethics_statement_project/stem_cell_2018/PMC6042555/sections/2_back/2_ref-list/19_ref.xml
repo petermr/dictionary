@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R19">
+ <label>19.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Rawson</surname>
+    <given-names>TM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Moore</surname>
+    <given-names>LSP</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Hernandez</surname>
+    <given-names>B</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>A systematic review of clinical decision support systems for antimicrobial management: are we failing to investigate these interventions appropriately?</article-title>
+  <source>Clin Microbiol Infect</source>
+  <year>2017</year>;
+  <volume>23</volume>:
+  <fpage>524</fpage>–
+  <lpage>32</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.cmi.2017.02.028</pub-id>
+  <pub-id pub-id-type="pmid">28268133</pub-id>
+ </mixed-citation>
+</ref>

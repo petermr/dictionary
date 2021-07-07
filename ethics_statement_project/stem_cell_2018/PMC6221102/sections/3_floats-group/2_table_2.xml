@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="ajh25238-tbl-0002" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>OS in patients with AML ≥55 years of age and aged &gt;60 years, compared with historical controls</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <thead valign="bottom">
+   <tr>
+    <th align="left" valign="bottom" rowspan="1" colspan="1"/>
+    <th style="border-bottom:solid 1px #000000" rowspan="2" align="left" valign="bottom" colspan="1">Total</th>
+    <th style="border-bottom:solid 1px #000000" colspan="5" align="left" valign="bottom" rowspan="1">AML cytogenetic risk</th>
+   </tr>
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="bottom" rowspan="1" colspan="1"/>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Favorable</th>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Intermediate I</th>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Intermediate II</th>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Adverse</th>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Not evaluated</th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td colspan="7" align="left" valign="top" rowspan="1">Patients aged ≥55 years with AML</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">58</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">12</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">15</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">13</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">16</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Deaths
+     <xref ref-type="fn" rid="ajh25238-note-0008">a</xref>, 
+     <italic>n</italic> (%)
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">36 (62.1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (16.7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">9 (60.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">10 (76.9)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">13 (81.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (100)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Disease under study</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">29 (50.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (8.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">7 (46.7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">10 (76.9)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">10 (62.5)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (50.0)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Unknown</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4 (6.9)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (13.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (6.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (50.0)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">11 (19.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (8.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (20.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (15.4)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4 (25.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (50.0)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Number censored, 
+     <italic>n</italic> (%)
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">22 (37.9)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">10 (83.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">6 (40.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (23.1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (18.8)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="left" valign="top" colspan="1">Probability of survival at month 12 (80% CI)
+     <xref ref-type="fn" rid="ajh25238-note-0009">b</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">64.0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">82.5</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">80.0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">64.2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">37.5</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">50.0</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">(55.1‐71.6)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(62.0‐92.6)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(62.6‐89.9)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(42.8‐79.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(22.4‐52.6)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(7.7‐82.9)</td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="left" valign="top" colspan="1">Median OS (80% CI)
+     <xref ref-type="fn" rid="ajh25238-note-0010">c</xref>, months
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">14.7</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">19.3</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">13.4</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">8.5</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">8.4</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">(13.1‐19.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(NE‐NE)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(13.1‐NE)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(9.0‐14.7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(5.8‐12.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(0.5‐16.3)</td>
+   </tr>
+   <tr>
+    <td colspan="7" align="left" valign="top" rowspan="1">Patients aged &gt;60 years with AML</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">44</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">9</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">12</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">11</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">10</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Deaths
+     <xref ref-type="fn" rid="ajh25238-note-0008">a</xref>, 
+     <italic>n</italic> (%)
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">29 (65.9)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (11.1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">9 (75.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">9 (81.8)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">8 (80.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (100)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Disease under study</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">23 (52.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">7 (58.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">9 (81.8)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">6 (60.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (50.0)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Unknown</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (6.8)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (16.7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (50.0)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">10 (22.7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (11.1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (25.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (18.2)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (30.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (50.0)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Number censored, 
+     <italic>n</italic> (%)
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">15 (34.1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">8 (88.9)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (25.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (18.2)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (20.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="left" valign="top" colspan="1">Probability of survival at month 12 (80% CI)
+     <xref ref-type="fn" rid="ajh25238-note-0009">b</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">62.4</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">88.9</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">75.0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">60.6</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">30.0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">50.0</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">(52.1‐71.1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(65.4‐96.8)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(54.6‐87.2)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(38.3‐77.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(13.4‐48.7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(7.7‐82.9)</td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="left" valign="top" colspan="1">Median OS (80% CI)
+     <xref ref-type="fn" rid="ajh25238-note-0010">c</xref>, months
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">14.5</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">15.7</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">13.4</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">8.5</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">8.4</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">(13.0‐17.7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(NE‐NE)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(13.0‐19.4)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(7.9‐13.7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(4.0‐9.7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(0.5‐16.3)</td>
+   </tr>
+   <tr>
+    <td colspan="7" align="left" valign="top" rowspan="1">Historical controls
+     <xref ref-type="fn" rid="ajh25238-note-0011">d</xref> (
+     <italic>n</italic> = 710)
+     <xref rid="ajh25238-bib-0032" ref-type="ref">32</xref>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="left" valign="top" colspan="1">Median OS (95% CI), months</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">8.7</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">14.6</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">9.5</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">9.2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4.8</td>
+    <td rowspan="2" align="left" valign="top" colspan="1">‐</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">(7.8‐9.7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(11.7‐17.6)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(7.3‐11.7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(7.1‐11.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(3.7‐5.9)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="ajh25238-note-0007">
+   <p>Abbreviations
+    <bold>:</bold> AML, acute myeloid leukemia; CI, confidence interval; NE, not estimable; OS, overall survival.
+   </p>
+  </fn>
+  <fn id="ajh25238-note-0008">
+   <label>a</label>
+   <p>Patients may have multiple reasons for cause of death.</p>
+  </fn>
+  <fn id="ajh25238-note-0009">
+   <label>b</label>
+   <p>Calculated from the product‐limit method.</p>
+  </fn>
+  <fn id="ajh25238-note-0010">
+   <label>c</label>
+   <p>Based on the Brookmeyer and Crowley method.</p>
+  </fn>
+  <fn id="ajh25238-note-0011">
+   <label>d</label>
+   <p>Treatment with 7 + 3 schedule.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

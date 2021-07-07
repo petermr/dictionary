@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dunn</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Jamil</surname>
+    <given-names>LH</given-names>
+   </name>
+   <name>
+    <surname>Brown</surname>
+    <given-names>LS</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>MELD accurately predicts mortality in patients with alcoholic hepatitis</article-title>
+  <source>Hepatology</source>
+  <year>2005</year>
+  <volume>41</volume>
+  <fpage>353</fpage>
+  <lpage>358</lpage>
+  <pub-id pub-id-type="doi">10.1002/hep.20503</pub-id>
+  <pub-id pub-id-type="pmid">15660383</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b11-1040189">
+ <label>11.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Esteva</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Kuprel</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Novoa</surname>
+    <given-names>RA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Dermatologist-level classification of skin cancer with deep neural networks</article-title>. 
+  <source>Nature</source>. 
+  <year>2017</year>;
+  <volume>542</volume>(
+  <issue>7639</issue>):
+  <fpage>115</fpage>–
+  <lpage>118</lpage>.
+  <pub-id pub-id-type="pmid">28117445</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes>
+ <p content-type="self-citation">
+  <mixed-citation publication-type="journal" id="ajh25238-cit-9001">
+   <string-name>
+    <surname>Cortes</surname>
+    <given-names>JE</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Douglas Smith</surname>
+    <given-names>B</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Wang</surname>
+    <given-names>ES</given-names>
+   </string-name>, et al. 
+   <article-title>Glasdegib in combination with cytarabine and daunorubicin in patients with AML or high‐risk MDS: Phase 2 study results</article-title>. 
+   <source xml:lang="en">Am J Hematol</source>. 
+   <year>2018</year>;
+   <volume>93</volume>
+   <fpage>1301</fpage>–
+   <lpage>1310</lpage>. 
+   <pub-id pub-id-type="doi">10.1002/ajh.25238</pub-id>
+   <pub-id pub-id-type="pmid">30074259</pub-id>
+  </mixed-citation>
+ </p>
+ <fn-group id="ajh25238-ntgp-0001">
+  <fn id="ajh25238-note-0001">
+   <p>Presented in abstract and poster form at the 22nd annual meeting of the European Hematology Association, Madrid, Spain, June 22‐25, 2017.</p>
+  </fn>
+  <fn id="ajh25238-note-0501">
+   <p>
+    <bold>Funding information</bold> Pfizer Inc.
+   </p>
+  </fn>
+ </fn-group>
+</notes>

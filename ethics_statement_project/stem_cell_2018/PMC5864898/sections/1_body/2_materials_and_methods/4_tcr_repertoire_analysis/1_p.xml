@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>All sequencing files were annotated according to IMGT/High-Vquest. Only productive reads were taken into consideration for downstream processing of annotated sequences. Repertoire analyses were based on CDR3 amino acid sequences. Annotated V-chains were counted and CDR3 sequences were ranked according to their abundance to finally normalize the results to the percentage of productive reads within the given sample. All bioinformatics analysis was conducted using R (version 3.2.2) and bash shell commands. Shannon indices were calculated with the R library “vegan” and Morisita–Horn indices with VDJtools (
+ <xref rid="B47" ref-type="bibr">47</xref>) and TcR (
+ <xref rid="B48" ref-type="bibr">48</xref>). Analysis scripts are available upon request.
+</p>

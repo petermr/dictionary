@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="sct312331-bib-0010">
+ <label>10</label>
+ <mixed-citation publication-type="journal" id="sct312331-cit-0010">
+  <string-name>
+   <surname>Glenn</surname>
+   <given-names>JD</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Smith</surname>
+   <given-names>MD</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Calabresi</surname>
+   <given-names>PA</given-names>
+  </string-name> et al. 
+  <article-title>Mesenchymal stem cells differentially modulate effector CD8+ T cell subsets and exacerbate experimental autoimmune encephalomyelitis</article-title>. 
+  <source xml:lang="en">Stem Cells</source>
+  <year>2014</year>;
+  <volume>32</volume>:
+  <fpage>2744</fpage>‐
+  <lpage>2755</lpage>.
+  <pub-id pub-id-type="pmid">24911892</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rollig</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Bornhauser</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Thiede</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Long-term prognosis of acute myeloid leukemia according to the new genetic risk classification of the European LeukemiaNet recommendations: evaluation of the proposed reporting system</article-title>
+  <source>J Clin Oncol</source>
+  <year>2011</year>
+  <volume>29</volume>
+  <fpage>2758</fpage>
+  <lpage>2765</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2010.32.8500</pub-id>
+  <?supplied-pmid 21632498?>
+  <pub-id pub-id-type="pmid">21632498</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Willcox</surname>
+    <given-names>CR</given-names>
+   </name>
+   <name>
+    <surname>Pitard</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Netzer</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Couzi</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Salim</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Silberzahn</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cytomegalovirus and tumor stress surveillance by binding of a human gammadelta T cell antigen receptor to endothelial protein C receptor</article-title>. 
+  <source>Nat Immunol</source> (
+  <year>2012</year>) 
+  <volume>13</volume>:
+  <fpage>872</fpage>–
+  <lpage>9</lpage>.
+  <pub-id pub-id-type="doi">10.1038/ni.2394</pub-id>
+  <pub-id pub-id-type="pmid">22885985</pub-id>
+ </mixed-citation>
+</ref>

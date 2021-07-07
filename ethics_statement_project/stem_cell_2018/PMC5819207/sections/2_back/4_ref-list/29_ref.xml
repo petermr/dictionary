@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR29">
+ <label>29.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Savoldo</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Ramos</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Mims</surname>
+    <given-names>MP</given-names>
+   </name>
+   <name>
+    <surname>Keating</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Carrum</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Kamble</surname>
+    <given-names>RT</given-names>
+   </name>
+   <name>
+    <surname>Bollard</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Gee</surname>
+    <given-names>AP</given-names>
+   </name>
+   <name>
+    <surname>Mei</surname>
+    <given-names>Z</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>CD28 costimulation improves expansion and persistence of chimeric antigen receptor-modified T cells in lymphoma patients</article-title>
+  <source>J Clin Invest</source>
+  <year>2011</year>
+  <volume>121</volume>
+  <issue>5</issue>
+  <fpage>1822</fpage>
+  <lpage>1826</lpage>
+  <pub-id pub-id-type="doi">10.1172/JCI46110</pub-id>
+  <?supplied-pmid 21540550?>
+  <pub-id pub-id-type="pmid">21540550</pub-id>
+ </element-citation>
+</ref>

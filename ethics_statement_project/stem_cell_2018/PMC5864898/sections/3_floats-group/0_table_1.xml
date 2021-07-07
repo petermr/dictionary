@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Baseline characteristics of healthy individuals and both cohorts of chronic HCV patients.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" valign="top" rowspan="1" colspan="1"/>
+    <th align="center" valign="top" rowspan="1" colspan="1">Healthy</th>
+    <th align="center" valign="top" rowspan="1" colspan="1">Chronic HCV (longitudinal samples)</th>
+    <th align="center" valign="top" rowspan="1" colspan="1">Chronic HCV (one time-point)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic> (m/f)
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">9 (4/5), 5 (3/2)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">10 (5/5)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">14 (8/6)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Age (years)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">41 (26–51), 44 (21–66)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">54 (47–60)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">54 (25–79)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">HCV RNA (IU/mL)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">2,913,000 (140,000–6,700,000)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1,893,000 (76,000–6,300,000)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">HCV genotype</td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">ALT (U/L)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">96.2 (51–289)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">65.4 (22–138)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">AST (U/L)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">54.6 (24–108)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">52.3 (24–108)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">gGT (U/L)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">55.9 (21–107)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">108.6 (14–558)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Fibroscan (kPa)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">7.4 (5.4–12.3)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">7.9 (2.2–24.3)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Abs. lymphocyte count</td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">2,150 (1,600–3,300)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">2,121 (1,200–3,200)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>ALT, alanine aminotransferase; AST, aspartate aminotransferase; gGT, gamma-glutamyl transpeptidase; HCV, hepatitis C virus</italic>.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

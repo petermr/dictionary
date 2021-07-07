@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Patel</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Dhillon</surname>
+    <given-names>MS</given-names>
+   </name>
+   <name>
+    <surname>Aggarwal</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Marwaha</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Jain</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Treatment with platelet-rich plasma is more effective than placebo for knee osteoarthritis: a prospective, double-blind, randomized trial</article-title>
+  <source>Am J Sports Med</source>
+  <year>2013</year>
+  <volume>41</volume>
+  <fpage>356</fpage>
+  <lpage>364</lpage>
+  <pub-id pub-id-type="doi">10.1177/0363546512471299</pub-id>
+  <?supplied-pmid 23299850?>
+  <pub-id pub-id-type="pmid">23299850</pub-id>
+ </element-citation>
+</ref>

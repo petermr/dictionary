@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <label>34.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Salvador</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Hansen</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Cramer</surname>
+    <given-names>DE</given-names>
+   </name>
+   <name>
+    <surname>Kong</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Yan</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Yeast-derived beta-glucan augments the therapeutic efficacy mediated by anti-vascular endothelial growth factor monoclonal antibody in human carcinoma xenograft models</article-title>
+  <source>Clin Cancer Res</source>
+  <year>2008</year>
+  <volume>14</volume>
+  <fpage>1239</fpage>
+  <lpage>1247</lpage>
+  <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-07-1669</pub-id>
+  <?supplied-pmid 18281559?>
+  <pub-id pub-id-type="pmid">18281559</pub-id>
+ </element-citation>
+</ref>

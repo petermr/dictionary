@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Eisenhauer</surname>
+    <given-names>EA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1)</article-title>
+  <source>Eur. J. Cancer</source>
+  <year>2009</year>
+  <volume>45</volume>
+  <fpage>228</fpage>
+  <lpage>247</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ejca.2008.10.026</pub-id>
+  <?supplied-pmid 19097774?>
+  <pub-id pub-id-type="pmid">19097774</pub-id>
+ </element-citation>
+</ref>

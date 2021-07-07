@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="sct312264-tbl-0002" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Population studied (
+   <italic>n</italic> = 9)
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <thead valign="bottom">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Group</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Age, years</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Sex</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Diagnosis</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Transplant type</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Survival after transplant, years</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Time from transplant to BOS‐2, years</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1"> FEV
+     <sub>1</sub>:
+     <break/> percent of baseline
+     <xref ref-type="fn" rid="sct312264-note-0004">a</xref>
+    </th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">FVC, L</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">FVC, %</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">FEV
+     <sub>1</sub>, L
+    </th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">FEV
+     <sub>1</sub>,%
+    </th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">FEV
+     <sub>1</sub> FVC
+    </th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">FEF 
+     <sub>25–75</sub>, L
+    </th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">FEF 
+     <sub>25–75</sub>, %
+    </th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Group 1</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">75</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">F</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">COPD</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Single (R)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">10.1</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">5.5</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">53%</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1.78</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">59</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1.09</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">46</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.60</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.3</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">23</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">75</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">M</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">COPD</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Single (R)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">6.4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4.6</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">62%</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">2.19</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">50</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1.16</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">35</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.53</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">16</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">M</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">IPF</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Single (R)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">10.7</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">9.0</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">59%</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">2.29</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1.58</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">54</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.69</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.9</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">34</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Group 2</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">63</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">F</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">BOS</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Double</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4.7</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">3.4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">59%</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1.88</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">76</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1.50</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">75</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.79</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1.3</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">64</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">74</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">M</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">COPD</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Single (L)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">12.5</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">5.9</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">56%</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1.68</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">44</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1.13</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">38</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.67</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">20</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">71</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">M</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">PCD</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Double</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">8.0</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">
+     <bold>6.0</bold>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">53%</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4.91</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">102</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">2.70</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">74</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.55</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1.1</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">37</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Group 3</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">73</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">M</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">COPD</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Double</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">6.6</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">2.4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">60%</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">2.95</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">78</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">2.14</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">73</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.73</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1.4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">52</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">59</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">M</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">IPF</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Double</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">2.5</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1.4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">53%</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">2.18</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">44</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1.55</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">40</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.71</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">29</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">61</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">M</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">IPF</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Double</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">6.0</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">5.0</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">56%</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">3.32</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">67</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1.68</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">45</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.51</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.7</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">23</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Total patient population
+     <sup>b</sup>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td valign="top" rowspan="1" colspan="1"/>
+    <td valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Average </td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">69.0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">7.5</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">4.8</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">57%</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.58</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">64.4</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.61</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">53.33</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.64</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.84</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">33.11</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">STDEV</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">6.3</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">3.2</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.2</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">3%</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.03</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">18.8</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.5</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">16.4</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.4</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">15.9</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Median </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">71</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">6.6</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">5.0</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">56%</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.19</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">60.0</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.55</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">46</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.67</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.90</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">29</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Max </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">75</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">12.5</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">9.0</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">62%</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">4.91</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">102.0</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.70</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">75</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.79</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.40</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">64</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Min </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">59</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td valign="top" rowspan="1" colspan="1"/>
+    <td valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">2.5</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">53%</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.68</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">44.0</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.09</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">35</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.51</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.30</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">16</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="sct312264-note-0004">
+   <label>a</label>
+   <p>FEV1: percent of baseline: represents the percent of baseline, using baseline as the highest FEV1 value achieved after transplant.
+    <sup>b</sup>Of the 9 patients, 7 were male and 2 were female. Diagnoses included COPD (4), IPF (3), PCD (1), and BOS (1). Five of the included patients were recipients of a a double lung transplant, and 4 were recipients of a single lung transplant.
+   </p>
+  </fn>
+  <fn id="sct312264-note-0005">
+   <p>Abbreviations: BOS, bronchiolitis obliterans syndrome; COPD, chronic obstructive pulmonary disease; F, female; FEF
+    <sub>25–75</sub>, forced expiratory flow at 25%–75%; FEV
+    <sub>1</sub>, forced expiratory volume in 1 second; FVC, forced vital capacity; FVC/FEV
+    <sub>1</sub>, forced vital capacity to forced expiratory volume in 1 second ratio; IPF, idiopathic pulmonary fibrosis; M, male; Max, maximum; Min, minimum; PCD, primary ciliary dyskinesia; STDEV, standard deviation.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

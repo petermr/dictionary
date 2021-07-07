@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Hu</surname>
+    <given-names>CS</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>XZ</given-names>
+   </name>
+   <name>
+    <surname>Hu</surname>
+    <given-names>GQ</given-names>
+   </name>
+   <name>
+    <surname>Cheng</surname>
+    <given-names>ZB</given-names>
+   </name>
+   <name>
+    <surname>Sun</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Concurrent chemoradiotherapy plus adjuvant chemotherapy versus concurrent chemoradiotherapy alone in patients with locoregionally advanced nasopharyngeal carcinoma: a phase 3 multicentre randomised controlled trial</article-title>
+  <source>Lancet Oncol</source>
+  <year>2012</year>
+  <volume>13</volume>
+  <issue>2</issue>
+  <fpage>163</fpage>
+  <lpage>171</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(11)70320-5</pub-id>
+  <pub-id pub-id-type="pmid">22154591</pub-id>
+ </element-citation>
+</ref>

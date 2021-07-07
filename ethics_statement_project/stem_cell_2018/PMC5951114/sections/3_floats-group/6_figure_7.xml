@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F7" position="float">
+ <label>Figure 7</label>
+ <caption>
+  <p>Natural killer (NK) cells are cytotoxic toward helper T (Th) cells through necrosis but not apoptosis. Memory CD4
+   <sup>+</sup> T cells from healthy subject PBMC were activated with anti-CD3, anti-CD28, and Th17 polarizing factors, either in the absence or presence of NK cells for 4 days. Samples were stained with CD3, CD56, 7AAD, and annexin V. Representative plots of T cells (CD4
+   <sup>+</sup>CD56
+   <sup>−</sup>) cultured without 
+   <bold>(A)</bold> or with NK cells 
+   <bold>(B)</bold> are shown. The average proportion of necrotic (7-AAD
+   <sup>+</sup>annexinV
+   <sup>+</sup>) T cells is shown 
+   <bold>(C)</bold>. Open bars = memory CD4 T cells, closed bars = memory CD4
+   <sup>+</sup> T cells plus NK cells. 
+   <italic>N</italic> = 8 samples. A time-course analysis of apoptotic (7-AAD
+   <sup>−</sup>annexin V
+   <sup>+</sup>) T cells is shown 
+   <bold>(D)</bold>. Open circles indicate memory CD4 T cells alone and filled squares indicate T cells plus NK cells.
+  </p>
+ </caption>
+ <graphic xlink:href="fimmu-09-00834-g007" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

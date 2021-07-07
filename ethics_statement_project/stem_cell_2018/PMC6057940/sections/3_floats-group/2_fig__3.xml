@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <p>Paracrine Hedgehog signaling at cellular resolution. 
+   <bold>a</bold> Freshly isolated M6-Ctrl (blue), M6-Hh (magenta) and M6-Hh tumors + SMOi (100 mg/kg/bid; pink violin plot) were captured using 10x Chromium technology and the Cell Ranger Single Cell Software Suite 2.0 was used to perform demultiplexing, barcode processing, and single-cell 3′gene counting. 
+   <italic>t</italic>-SNE plot shows the subcellular clusters present in the breast TME of M6 tumors. Unless stated, 
+   <italic>P</italic> values are highly significant (Supplementary Data 
+   <xref rid="MOESM4" ref-type="media">2</xref>). 
+   <bold>b</bold> Single-cell RNA-Seq analysis reveals significant enrichment of GSEA groups related to ECM organization and production specifically in the CAF population of M6-Hh tumors (ECM-related processes highlighted in red; FDR 
+   <italic>q</italic> value &lt; 0.05)
+  </p>
+ </caption>
+ <graphic xlink:href="41467_2018_5220_Fig3_HTML" id="d29e1236" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

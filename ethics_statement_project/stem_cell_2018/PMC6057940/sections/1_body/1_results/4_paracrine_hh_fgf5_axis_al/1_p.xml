@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par21">To identify additional mechanisms by which stromal signaling promotes the acquisition of a CSC phenotype, we turned our attention to 
+ <italic>Fgf5</italic>, which was strongly upregulated in Hh-activated stroma compared to controls (Fig. 
+ <xref rid="Fig2" ref-type="fig">2a, c</xref> and Supplementary Data 
+ <xref rid="MOESM3" ref-type="media">1</xref> and 
+ <xref rid="MOESM4" ref-type="media">2</xref>). qRT-PCR analysis of whole tumors confirmed ~60-fold upregulation of 
+ <italic>Fgf5</italic> mRNA in M6-Hh tumors, which was reversed upon SMOi treatment (Fig. 
+ <xref rid="Fig5" ref-type="fig">5a</xref>). Notably, a sole subset of Hh-activated CAFs exhibited robust 
+ <italic>Fgf5</italic> expression at single-cell resolution (
+ <italic>P</italic> = 9.16×10
+ <sup>−12</sup>), reflecting the close spatial localization of these CAFs with M6-Hh cells (Fig. 
+ <xref rid="Fig5" ref-type="fig">5b</xref>). 
+ <italic>Fgf5</italic> was not expressed by any of the other cell populations (Fig. 
+ <xref rid="Fig5" ref-type="fig">5b</xref>). Immunohistochemical analysis of phospho-FGFR revealed potent receptor activation in epithelial cells adjacent to M6-Hh tumor stroma, which was reversed upon SMOi treatment (Fig. 
+ <xref rid="Fig5" ref-type="fig">5c</xref>
+ <bold>)</bold>. To explore the role of FGF5 in the acquisition of the CSC phenotype, M6-Ctrl cells were treated with recombinant FGF5 protein in vitro and proliferation, stem cell marker expression and sphere-forming capacity were evaluated. FGF5 treatment led to an increase in proliferation under serum and growth factor deprivation (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">5a</xref>). Importantly, the stemness markers 
+ <italic>Id3</italic> and 
+ <italic>Sox10</italic> were also robustly upregulated (Fig. 
+ <xref rid="Fig5" ref-type="fig">5d</xref>) and primary and secondary sphere-forming capacity increased by ~3-fold (Fig. 
+ <xref rid="Fig5" ref-type="fig">5e</xref> and Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">5b</xref>), suggesting a specific effect of FGF5 signaling on stemness.
+</p>

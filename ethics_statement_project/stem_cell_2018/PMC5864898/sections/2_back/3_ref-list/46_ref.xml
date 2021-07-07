@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B46">
+ <label>46</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ryan</surname>
+    <given-names>PL</given-names>
+   </name>
+   <name>
+    <surname>Sumaria</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Holland</surname>
+    <given-names>CJ</given-names>
+   </name>
+   <name>
+    <surname>Bradford</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Izotova</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Grandjean</surname>
+    <given-names>CL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Heterogeneous yet stable Vdelta2(+) T-cell profiles define distinct cytotoxic effector potentials in healthy human individuals</article-title>. 
+  <source>Proc Natl Acad Sci U S A</source> (
+  <year>2016</year>) 
+  <volume>113</volume>:
+  <fpage>14378</fpage>–
+  <lpage>83</lpage>.
+  <pub-id pub-id-type="doi">10.1073/pnas.1611098113</pub-id>
+  <pub-id pub-id-type="pmid">27911793</pub-id>
+ </mixed-citation>
+</ref>

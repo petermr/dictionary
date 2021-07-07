@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lucey</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Mathurin</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Morgan</surname>
+    <given-names>TR</given-names>
+   </name>
+  </person-group>
+  <article-title>Alcoholic hepatitis</article-title>
+  <source>N Engl J Med</source>
+  <year>2009</year>
+  <volume>360</volume>
+  <fpage>2758</fpage>
+  <lpage>2769</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMra0805786</pub-id>
+  <pub-id pub-id-type="pmid">19553649</pub-id>
+ </element-citation>
+</ref>

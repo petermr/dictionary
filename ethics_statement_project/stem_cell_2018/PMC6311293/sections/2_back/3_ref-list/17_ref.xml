@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B18">
+ <label>18</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pospisil</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Kazda</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Bulik</surname>
+    <given-names>M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Hippocampal proton MR spectroscopy as a novel approach in the assessment of radiation injury and the correlation to neurocognitive function impairment: initial experiences</article-title>
+  <source>
+   <italic toggle="yes">Journal of Radiation Oncology</italic>
+  </source>
+  <year>2015</year>
+  <volume>10</volume>
+  <issue>1</issue>
+  <pub-id pub-id-type="doi">10.1186/s13014-015-0518-1</pub-id>
+ </element-citation>
+</ref>

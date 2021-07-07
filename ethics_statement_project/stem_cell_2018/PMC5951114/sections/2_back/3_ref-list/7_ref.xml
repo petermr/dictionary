@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Poli</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Michel</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Thérésine</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Andres</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Hentges</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Zimmer</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>. 
+  <article-title>CD56bright natural killer (NK) cells: an important NK cell subset</article-title>. 
+  <source>Immunology</source> (
+  <year>2009</year>) 
+  <volume>126</volume>:
+  <fpage>458</fpage>–
+  <lpage>65</lpage>.
+  <pub-id pub-id-type="doi">10.1111/j.1365-2567.2008.03027.x</pub-id>
+  <?supplied-pmid 19278419?>
+  <pub-id pub-id-type="pmid">19278419</pub-id>
+ </mixed-citation>
+</ref>

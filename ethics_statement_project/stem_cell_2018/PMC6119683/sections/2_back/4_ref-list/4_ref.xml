@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gagne</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Patrick</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Mogun</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Solomon</surname>
+    <given-names>DH</given-names>
+   </name>
+  </person-group>
+  <article-title>Antidepressants and fracture risk in older adults: a comparative safety analysis</article-title>
+  <source>Clin. Pharmacol. Ther.</source>
+  <year>2011</year>
+  <volume>89</volume>
+  <fpage>880</fpage>
+  <lpage>887</lpage>
+  <pub-id pub-id-type="doi">10.1038/clpt.2011.54</pub-id>
+  <?supplied-pmid 21508938?>
+  <pub-id pub-id-type="pmid">21508938</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Santegoets</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>van den Eertwegh</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>van de Loosdrecht</surname>
+    <given-names>AA</given-names>
+   </name>
+   <name>
+    <surname>Scheper</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>de Gruijl</surname>
+    <given-names>TD</given-names>
+   </name>
+  </person-group>
+  <article-title>Human dendritic cell line models for DC differentiation and clinical DC vaccination studies</article-title>
+  <source>J Leukoc Biol</source>
+  <year>2008</year>
+  <volume>84</volume>
+  <fpage>1364</fpage>
+  <lpage>1373</lpage>
+  <pub-id pub-id-type="doi">10.1189/jlb.0208092</pub-id>
+  <?supplied-pmid 18664532?>
+  <pub-id pub-id-type="pmid">18664532</pub-id>
+ </element-citation>
+</ref>

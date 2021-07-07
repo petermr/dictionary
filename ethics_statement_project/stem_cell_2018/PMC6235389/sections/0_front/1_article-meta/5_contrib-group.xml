@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Qiuyan</given-names>
+  </name>
+  <address>
+   <email>chenqy@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Tang</surname>
+   <given-names>Linquan</given-names>
+  </name>
+  <address>
+   <email>tanglq@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Na</given-names>
+  </name>
+  <address>
+   <email>liun1@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Han</surname>
+   <given-names>Feng</given-names>
+  </name>
+  <address>
+   <email>hanfeng@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Guo</surname>
+   <given-names>Ling</given-names>
+  </name>
+  <address>
+   <email>guoling@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Guo</surname>
+   <given-names>Shanshan</given-names>
+  </name>
+  <address>
+   <email>guoshsh@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Jianwei</given-names>
+  </name>
+  <address>
+   <email>wangjw@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Huai</given-names>
+  </name>
+  <address>
+   <email>huailiu@csu.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ye</surname>
+   <given-names>Yanfang</given-names>
+  </name>
+  <address>
+   <email>yeyanfang1@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Lu</given-names>
+  </name>
+  <address>
+   <email>zhanglu_gyfyy@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Liting</given-names>
+  </name>
+  <address>
+   <email>liult@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Pan</given-names>
+  </name>
+  <address>
+   <email>wangpan@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Yingqin</given-names>
+  </name>
+  <address>
+   <email>liyingq@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>He</surname>
+   <given-names>Qingmei</given-names>
+  </name>
+  <address>
+   <email>heqm@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Xiaoqun</given-names>
+  </name>
+  <address>
+   <email>yangxiaoj@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tang</surname>
+   <given-names>Qingnan</given-names>
+  </name>
+  <address>
+   <email>tangqn@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Yang</given-names>
+  </name>
+  <address>
+   <email>liyang@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liang</surname>
+   <given-names>YuJing</given-names>
+  </name>
+  <address>
+   <email>liangyuj@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sun</surname>
+   <given-names>XueSong</given-names>
+  </name>
+  <address>
+   <email>sunxs@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xie</surname>
+   <given-names>Chuanmiao</given-names>
+  </name>
+  <address>
+   <email>xiechm@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mo</surname>
+   <given-names>Yunxian</given-names>
+  </name>
+  <address>
+   <email>moyx@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Guo</surname>
+   <given-names>Ying</given-names>
+  </name>
+  <address>
+   <email>guoying@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sun</surname>
+   <given-names>Rui</given-names>
+  </name>
+  <address>
+   <email>sunrui@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mo</surname>
+   <given-names>Haoyuan</given-names>
+  </name>
+  <address>
+   <email>mohy@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cao</surname>
+   <given-names>Kajia</given-names>
+  </name>
+  <address>
+   <email>caokj@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Guo</surname>
+   <given-names>Xiang</given-names>
+  </name>
+  <address>
+   <email>guoxiang@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zeng</surname>
+   <given-names>Musheng</given-names>
+  </name>
+  <address>
+   <email>zengmsh@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Mai</surname>
+   <given-names>Haiqiang</given-names>
+  </name>
+  <address>
+   <email>maihq@sysucc.org.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0037-6257</contrib-id>
+  <name>
+   <surname>Ma</surname>
+   <given-names>Jun</given-names>
+  </name>
+  <address>
+   <email>majun@sysucc.org</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>State Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine, Guangdong Key Laboratory of Nasopharyngeal Carcinoma Diagnosis and Therapy, Sun Yat-sen University Cancer Center, Guangzhou, 510060 P. R. China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1803 6191</institution-id>
+   <institution-id institution-id-type="GRID">grid.488530.2</institution-id>
+   <institution>Department of Nasopharyngeal Carcinoma, </institution>
+   <institution>Sun Yat-sen University Cancer Center, </institution>
+  </institution-wrap>Guangzhou, 510060 P. R. China 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1803 6191</institution-id>
+   <institution-id institution-id-type="GRID">grid.488530.2</institution-id>
+   <institution>Department of Ultrasound, </institution>
+   <institution>Sun Yat-sen University Cancer Center, </institution>
+  </institution-wrap>Guangzhou, 510060 P. R. China 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0379 7164</institution-id>
+   <institution-id institution-id-type="GRID">grid.216417.7</institution-id>
+   <institution>Department of Radiation Oncology, </institution>
+   <institution>Key Laboratory of Translational Radiation Oncology, Hunan Cancer Hospital and The Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, </institution>
+  </institution-wrap>Changsha, 410013 P. R. China 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1791 7851</institution-id>
+   <institution-id institution-id-type="GRID">grid.412536.7</institution-id>
+   <institution>Department of Science and Education, </institution>
+   <institution>Sun Yat-sen Memorial Hospital, </institution>
+  </institution-wrap>Guangzhou, 510120 P. R. China 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.470124.4</institution-id>
+   <institution>Department of Radiation Oncology, </institution>
+   <institution>The First Affiliated Hospital of Guangzhou Medical University, </institution>
+  </institution-wrap>Guangzhou, 510120 P. R. China 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1803 6191</institution-id>
+   <institution-id institution-id-type="GRID">grid.488530.2</institution-id>
+   <institution>Department of Imaging, </institution>
+   <institution>Sun Yat-sen University Cancer Center, </institution>
+  </institution-wrap>Guangzhou, 510060 P. R. China 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1803 6191</institution-id>
+   <institution-id institution-id-type="GRID">grid.488530.2</institution-id>
+   <institution>Department of Clinical Trial Center, </institution>
+   <institution>Sun Yat-sen University Cancer Center, </institution>
+  </institution-wrap>Guangzhou, 510060 P. R. China 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1803 6191</institution-id>
+   <institution-id institution-id-type="GRID">grid.488530.2</institution-id>
+   <institution>Department of Radiation Oncology, </institution>
+   <institution>Sun Yat-sen University Cancer Center, </institution>
+  </institution-wrap>Guangzhou, 510060 P. R. China 
+ </aff>
+</contrib-group>

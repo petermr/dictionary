@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Data were processed using in‐house code and the open source Fieldtrip tool box 
+ <xref rid="sct312347-bib-0051" ref-type="ref">51</xref> under MATLAB 2014a. Data were filtered with a 1–100 Hz bandpass filter and a 60 Hz notch filter. Participant videos were inspected for inattention to the video and gross movement artifact, and these time points were removed from analyses. Persistent bad electrodes that were deviant in 33% of trials were interpolated using spline interpolation. Data were decomposed using second order blind identification (SOBI) as implemented in EEGLAB 
+ <xref rid="sct312347-bib-0052" ref-type="ref">52</xref>, 
+ <xref rid="sct312347-bib-0053" ref-type="ref">53</xref>. Topographic maps of SOBI components were inspected and electrooculogram and electromyogram components were removed. The best 30–40 one second epochs with minimal movement contamination were retained. Remaining deviant electrodes were identified on a trial‐by‐trial basis and interpolated. Data were then re‐referenced to the common average. Finally, a fast Fourier transformation was performed on the rectangular windowed time series. For each of the three stimulus conditions, the presentation with the least amount of movement artifact was used for the final analysis.
+</p>

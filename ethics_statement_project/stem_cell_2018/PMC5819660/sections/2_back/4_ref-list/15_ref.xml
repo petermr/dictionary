@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vlaar</surname>
+    <given-names>AP</given-names>
+   </name>
+   <name>
+    <surname>Juffermans</surname>
+    <given-names>NP</given-names>
+   </name>
+  </person-group>
+  <article-title>Transfusion-related acute lung injury: a clinical review</article-title>
+  <source>Lancet.</source>
+  <year>2013</year>
+  <volume>382</volume>
+  <fpage>984</fpage>
+  <lpage>994</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(12)62197-7</pub-id>
+  <?supplied-pmid 23642914?>
+  <pub-id pub-id-type="pmid">23642914</pub-id>
+ </element-citation>
+</ref>

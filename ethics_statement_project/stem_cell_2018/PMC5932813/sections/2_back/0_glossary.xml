@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>BSI</term>
+   <def>
+    <p id="Par5">Bloodstream infection</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CNS</term>
+   <def>
+    <p id="Par6">Coagulase-negative staphylococci</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CRBSI</term>
+   <def>
+    <p id="Par7">Catheter-related bloodstream infection</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CVC</term>
+   <def>
+    <p id="Par8">Central venous catheter</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EUCAST</term>
+   <def>
+    <p id="Par9">European Society of Clinical Microbiology and Infectious Diseases</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HSCT</term>
+   <def>
+    <p id="Par10">Haematopoietic stem-cell transplantation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HUB</term>
+   <def>
+    <p id="Par11">University Hospital of Bellvitge</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HUVR</term>
+   <def>
+    <p id="Par12">Hospital Universitario Virgen del Rocío</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ICO Hospitalet</term>
+   <def>
+    <p id="Par13">Institut Català d’Oncologia L’Hospitalet</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IDIBELL</term>
+   <def>
+    <p id="Par14">Institute of Biomedical Research of Bellvitge</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PICC</term>
+   <def>
+    <p id="Par15">Peripherally inserted central catheter</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

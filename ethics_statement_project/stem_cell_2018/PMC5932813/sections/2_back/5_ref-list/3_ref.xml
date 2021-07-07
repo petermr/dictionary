@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Crnich</surname>
+    <given-names>CJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Estimating excess length of stay due to central line-associated bloodstream infection: separating the wheat from the chaff</article-title>
+  <source>Infect Control Hosp Epidemiol</source>
+  <year>2010</year>
+  <volume>31</volume>
+  <fpage>1115</fpage>
+  <lpage>1117</lpage>
+  <pub-id pub-id-type="doi">10.1086/656594</pub-id>
+  <?supplied-pmid 20923283?>
+  <pub-id pub-id-type="pmid">20923283</pub-id>
+ </element-citation>
+</ref>

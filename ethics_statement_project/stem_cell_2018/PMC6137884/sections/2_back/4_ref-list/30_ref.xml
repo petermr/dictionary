@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wojakowski</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Jadczyk</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Michalewska-Włudarczyk</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Effects of transendocardial delivery of bone marrow-derived CD133+ cells on left ventricle perfusion and function in patients with refractory angina</article-title>
+  <source>Circ Res</source>
+  <year>2017</year>
+  <volume>120</volume>
+  <fpage>670</fpage>
+  <lpage>680</lpage>
+  <pub-id pub-id-type="doi">10.1161/CIRCRESAHA.116.309009</pub-id>
+  <pub-id pub-id-type="pmid">27903568</pub-id>
+ </element-citation>
+</ref>

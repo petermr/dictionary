@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par23">For the GWAS a genetic sample size calculation was performed to estimate the number of cases required in the current study [
+ <xref ref-type="bibr" rid="CR22">22</xref>]. As it is impossible to estimate the allelic frequencies in our population, the following assumptions were made for the power calculation: 1) a high risk allele frequency of 0.2, 2) a genome-wide significant significance level (5*10
+ <sup>− 8</sup>), 3) a cohort size larger than 
+ <italic>n</italic> = 800 and 4) a case to control ratio of 1:2. Based on these assumptions, we determined that the number of recruited patients provided statistical power (80%) to identify variants with an odds ratio of at least 1.8.
+</p>

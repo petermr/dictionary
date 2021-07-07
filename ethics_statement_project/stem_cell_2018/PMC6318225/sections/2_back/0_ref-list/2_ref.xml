@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib2">
+ <label>2</label>
+ <element-citation publication-type="journal" id="sbref20">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sonneveld</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Avet-Loiseau</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Lonial</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Treatment of multiple myeloma with high-risk cytogenetics: a consensus of the International Myeloma Working Group</article-title>
+  <source>Blood</source>
+  <volume>127</volume>
+  <year>2016</year>
+  <fpage>2955</fpage>
+  <lpage>2962</lpage>
+  <pub-id pub-id-type="pmid">27002115</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR29">
+ <label>29.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Evans</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Beland</surname>
+    <given-names>SG</given-names>
+   </name>
+   <name>
+    <surname>Kulaga</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Wolfson</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Kingwell</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Marriott</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Koch</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Makhani</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Morrow</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Fisk</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Incidence and prevalence of multiple sclerosis in the Americas: a systematic review</article-title>
+  <source>Neuroepidemiology</source>
+  <year>2013</year>
+  <volume>40</volume>
+  <fpage>195</fpage>
+  <lpage>210</lpage>
+  <pub-id pub-id-type="doi">10.1159/000342779</pub-id>
+  <?supplied-pmid 23363936?>
+  <pub-id pub-id-type="pmid">23363936</pub-id>
+ </element-citation>
+</ref>

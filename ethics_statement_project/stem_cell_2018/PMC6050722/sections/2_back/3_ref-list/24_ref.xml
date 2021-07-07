@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ramchandani</surname>
+    <given-names>RP</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Booth</surname>
+    <given-names>BP</given-names>
+   </name>
+   <name>
+    <surname>Ibrahim</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Johnson</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Rahman</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The role of SN-38 exposure, UGT1A1*28 polymorphism, and baseline bilirubin level in predicting severe irinotecan toxicity</article-title>
+  <source>J Clin Pharmacol</source>
+  <year>2007</year>
+  <volume>47</volume>
+  <fpage>78</fpage>
+  <lpage>86</lpage>
+  <pub-id pub-id-type="doi">10.1177/0091270006295060</pub-id>
+  <?supplied-pmid 17192505?>
+  <pub-id pub-id-type="pmid">17192505</pub-id>
+ </element-citation>
+</ref>

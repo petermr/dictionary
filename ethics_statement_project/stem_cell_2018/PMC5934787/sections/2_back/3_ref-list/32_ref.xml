@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Urbich</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Dimmeler</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Endothelial progenitor cells functional characterization</article-title>
+  <source>Trends Cardiovasc Med</source>
+  <year>2004</year>
+  <volume>14</volume>
+  <fpage>318</fpage>
+  <lpage>322</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tcm.2004.10.001</pub-id>
+  <?supplied-pmid 15596109?>
+  <pub-id pub-id-type="pmid">15596109</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="sct312331-bib-0001">
+ <label>1</label>
+ <mixed-citation publication-type="journal" id="sct312331-cit-0001">
+  <string-name>
+   <surname>Feldmann</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Brennan</surname>
+   <given-names>FM</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Maini</surname>
+   <given-names>RN</given-names>
+  </string-name>. 
+  <article-title>Rheumatoid arthritis</article-title>. 
+  <source xml:lang="en">Cell</source>
+  <year>1996</year>;
+  <volume>85</volume>:
+  <fpage>307</fpage>‐
+  <lpage>310</lpage>.
+  <pub-id pub-id-type="pmid">8616886</pub-id>
+ </mixed-citation>
+</ref>

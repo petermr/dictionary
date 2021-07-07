@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Terwijn</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>van Putten</surname>
+    <given-names>WL</given-names>
+   </name>
+   <name>
+    <surname>Kelder</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>High prognostic impact of flow cytometric minimal residual disease detection in acute myeloid leukemia: data from the HOVON/SAKK AML 42A study</article-title>
+  <source>J Clin Oncol</source>
+  <year>2013</year>
+  <volume>31</volume>
+  <fpage>3889</fpage>
+  <lpage>3897</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2012.45.9628</pub-id>
+  <?supplied-pmid 24062400?>
+  <pub-id pub-id-type="pmid">24062400</pub-id>
+ </element-citation>
+</ref>

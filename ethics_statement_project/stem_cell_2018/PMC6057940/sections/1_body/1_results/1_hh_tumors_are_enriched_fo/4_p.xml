@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par10">Gene set enrichment analysis (GSEA) and gene ontology (GO) analysis of the purified epithelial fraction highlighted enrichment for genes specifically and almost exclusively associated with mammary stemness and invasion, consistent with the morphologically undifferentiated phenotype previously observed in Hh-overexpressing tumors
+ <sup>
+  <xref ref-type="bibr" rid="CR6">6</xref>
+ </sup> (Fig. 
+ <xref rid="Fig1" ref-type="fig">1c, d</xref> and Supplementary Data 
+ <xref rid="MOESM3" ref-type="media">1</xref>). To examine the CSC phenotype in greater detail, epithelial cells were profiled by flow cytometry. M6-Hh tumors had a higher proportion of CD61
+ <sup>hi</sup> cells, previously shown to be a marker of mouse mammary CSCs
+ <sup>
+  <xref ref-type="bibr" rid="CR15">15</xref>
+ </sup>, within the EpCAM
+ <sup>+</sup>CD24
+ <sup>hi</sup>CD29
+ <sup>+</sup> cancer cell population (55.3% in M6-Hh tumors vs. 36.4% in M6-Ctrl  tumors; Fig. 
+ <xref rid="Fig1" ref-type="fig">1e</xref>). M6-Hh tumors also had elevated expression of the stemness markers 
+ <italic>Id3</italic>, 
+ <italic>Gpc3</italic>, 
+ <italic>Thy1</italic>, 
+ <italic>Sox10</italic>, 
+ <italic>and Krt6</italic>, validating the RNA-Seq data (Fig. 
+ <xref rid="Fig1" ref-type="fig">1b, f</xref>). Following transplantation of low numbers of sorted primary M6-Hh and M6-Ctrl cells into naive recipients, tumors were detectable earlier, formed at a higher frequency and survival was shorter in the M6-Hh group (Fig. 
+ <xref rid="Fig1" ref-type="fig">1g, h</xref>). Limiting dilution assays
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup> were used to quantitate the impact of Hh signaling on tumor-initiating capacity. M6-Ctrl and M6-Hh tumor cells were isolated by FACS and transplanted at various dilutions. M6-Hh cells had significantly higher tumor-initiating capacity (1 in 435) compared with M6-Ctrl cells (1 in 1088; Fig. 
+ <xref rid="Fig1" ref-type="fig">1i</xref>). Importantly, the proliferation and expression of CSC markers were indistinguishable between M6-Ctrl and M6-Hh cells in monoculture, indicating that Hh expression in M6 cells does not regulate CSC properties in a cell-autonomous manner (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">1e</xref>).
+</p>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0204870.ref013">
+ <label>13</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Gordon</surname>
+   <given-names>SR</given-names>
+  </name>, 
+  <name>
+   <surname>Maute</surname>
+   <given-names>RL</given-names>
+  </name>, 
+  <name>
+   <surname>Dulken</surname>
+   <given-names>BW</given-names>
+  </name>, 
+  <name>
+   <surname>Hutter</surname>
+   <given-names>G</given-names>
+  </name>, 
+  <name>
+   <surname>George</surname>
+   <given-names>BM</given-names>
+  </name>, 
+  <name>
+   <surname>McCracken</surname>
+   <given-names>MN</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>PD-1 expression by tumour-associated macrophages inhibits phagocytosis and tumour immunity</article-title>. 
+  <source>Nature</source>. 
+  <year>2017</year>;
+  <volume>545</volume>(
+  <issue>7655</issue>):
+  <fpage>495</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nature22396</pub-id> .
+  <?supplied-pmid 28514441?>
+  <pub-id pub-id-type="pmid">28514441</pub-id>
+ </mixed-citation>
+</ref>

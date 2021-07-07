@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wagner</surname>
+    <given-names>LM</given-names>
+   </name>
+   <name>
+    <surname>Danks</surname>
+    <given-names>MK</given-names>
+   </name>
+  </person-group>
+  <article-title>New therapeutic targets for the treatment of high-risk neuroblastoma</article-title>
+  <source>J Cell Biochem</source>
+  <year>2009</year>
+  <volume>107</volume>
+  <fpage>46</fpage>
+  <lpage>57</lpage>
+  <pub-id pub-id-type="doi">10.1002/jcb.22094</pub-id>
+  <?supplied-pmid 19277986?>
+  <pub-id pub-id-type="pmid">19277986</pub-id>
+ </element-citation>
+</ref>

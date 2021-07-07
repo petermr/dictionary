@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR44">
+ <label>44.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Satti</surname>
+    <given-names>HS</given-names>
+   </name>
+   <name>
+    <surname>Waheed</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Ahmed</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Ahmed</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Akram</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Aziz</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Autologous mesenchymal stromal cell transplantation for spinal cord injury: a phase I pilot study</article-title>
+  <source>Cytotherapy</source>
+  <year>2016</year>
+  <volume>18</volume>
+  <fpage>518</fpage>
+  <lpage>522</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jcyt.2016.01.004</pub-id>
+  <?supplied-pmid 26971680?>
+  <pub-id pub-id-type="pmid">26971680</pub-id>
+ </element-citation>
+</ref>

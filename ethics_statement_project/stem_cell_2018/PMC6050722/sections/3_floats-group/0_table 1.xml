@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Clinical features of AML patients according to 
+   <italic>UGT1A1</italic> genotypes
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="2">Clinical features</th>
+    <th align="left" rowspan="2">Total (n = 726)</th>
+    <th align="left" colspan="3">
+     <italic>UGT1A1</italic>*
+     <italic>28</italic>
+    </th>
+    <th align="left" colspan="3">
+     <italic>UGT1A1</italic>*
+     <italic>6</italic>
+    </th>
+   </tr>
+   <tr>
+    <th align="left">*
+     <italic>1/</italic>*
+     <italic>1</italic> (n = 579)
+    </th>
+    <th align="left">*
+     <italic>28/</italic>− (n = 147)
+    </th>
+    <th align="left">
+     <italic>P</italic> value
+    </th>
+    <th align="left">*
+     <italic>1/</italic>*
+     <italic>1</italic> (n = 493)
+    </th>
+    <th align="left">*
+     <italic>6/</italic>− (n = 233)
+    </th>
+    <th align="left">
+     <italic>P</italic> value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Age, years</td>
+    <td align="left">41 ± 14</td>
+    <td align="left">41 ± 14</td>
+    <td align="left">41 ± 15</td>
+    <td char="." align="char">0.816</td>
+    <td align="left">41 ± 14</td>
+    <td align="left">42 ± 14</td>
+    <td char="." align="char">0.799</td>
+   </tr>
+   <tr>
+    <td align="left">Male sex, n (%)</td>
+    <td align="left">400 (55.1)</td>
+    <td align="left">317 (54.7)</td>
+    <td align="left">83 (56.5)</td>
+    <td char="." align="char">0.709</td>
+    <td align="left">280 (56.8)</td>
+    <td align="left">120 (51.5)</td>
+    <td char="." align="char">0.181</td>
+   </tr>
+   <tr>
+    <td align="left">Smoking, n (%)</td>
+    <td align="left">171(23.6)</td>
+    <td align="left">141 (24.4)</td>
+    <td align="left">30 (20.4)</td>
+    <td char="." align="char">0.314</td>
+    <td align="left">125 (25.4)</td>
+    <td align="left">46 (19.7)</td>
+    <td char="." align="char">0.096</td>
+   </tr>
+   <tr>
+    <td align="left">Drinking, n (%)</td>
+    <td align="left">108 (14.9)</td>
+    <td align="left">91 (15.7)</td>
+    <td align="left">17 (11.6)</td>
+    <td char="." align="char">0.206</td>
+    <td align="left">69 (14.0)</td>
+    <td align="left">39 (16.7)</td>
+    <td char="." align="char">0.332</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="8">FAB classification, n (%)</td>
+   </tr>
+   <tr>
+    <td align="left"> M0</td>
+    <td align="left">3 (0.4)</td>
+    <td align="left">2 (0.3)</td>
+    <td align="left">1 (0.7)</td>
+    <td char="." align="char">0.918</td>
+    <td align="left">1 (0.2)</td>
+    <td align="left">2 (0.9)</td>
+    <td char="." align="char">0.204</td>
+   </tr>
+   <tr>
+    <td align="left"> M1</td>
+    <td align="left">38 (5.2)</td>
+    <td align="left">10 (5.2)</td>
+    <td align="left">11 (7.5)</td>
+    <td align="left"/>
+    <td align="left">33 (6.7)</td>
+    <td align="left">8 (3.4)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> M2</td>
+    <td align="left">372 (51.2)</td>
+    <td align="left">298 (51.5)</td>
+    <td align="left">74 (50.3)</td>
+    <td align="left"/>
+    <td align="left">258 (52.3)</td>
+    <td align="left">114 (48.9)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> M4</td>
+    <td align="left">149 (20.5)</td>
+    <td align="left">118 (20.4)</td>
+    <td align="left">28 (19.0)</td>
+    <td align="left"/>
+    <td align="left">94 (19.1)</td>
+    <td align="left">52 (23.3)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> M5</td>
+    <td align="left">146 (20.1)</td>
+    <td align="left">117 (20.2)</td>
+    <td align="left">29 (19.7)</td>
+    <td align="left"/>
+    <td align="left">97 (19.7)</td>
+    <td align="left">49 (21.0)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> M6</td>
+    <td align="left">17 (2.3)</td>
+    <td align="left">13 (2.2)</td>
+    <td align="left">4 (2.7)</td>
+    <td align="left"/>
+    <td align="left">9 (1.8)</td>
+    <td align="left">8 (3.4)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> M7</td>
+    <td align="left">1 (0.1)</td>
+    <td align="left">1 (0.2)</td>
+    <td align="left">–</td>
+    <td align="left"/>
+    <td align="left">1 (0.2)</td>
+    <td align="left">–</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="8">AML type, n (%)</td>
+   </tr>
+   <tr>
+    <td align="left"> De novo AML</td>
+    <td align="left">692 (95.3)</td>
+    <td align="left">551 (95.2)</td>
+    <td align="left">141 (95.9)</td>
+    <td char="." align="char">0.699</td>
+    <td align="left">469 (95.1)</td>
+    <td align="left">223 (95.7)</td>
+    <td char="." align="char">0.732</td>
+   </tr>
+   <tr>
+    <td align="left"> Secondary AML</td>
+    <td align="left">34 (4.7)</td>
+    <td align="left">28 (4.8)</td>
+    <td align="left">6 (4.1)</td>
+    <td align="left"/>
+    <td align="left">24 (4.9)</td>
+    <td align="left">10 (4.7)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="8">Parameters at diagnosis</td>
+   </tr>
+   <tr>
+    <td align="left"> WBC count, × 10
+     <sup>9</sup>/l
+    </td>
+    <td align="left">40.07 ± 62.15</td>
+    <td align="left">39.54 ± 62.53</td>
+    <td align="left">42.17 ± 60.80</td>
+    <td char="." align="char">0.650</td>
+    <td align="left">40.70 ± 59.07</td>
+    <td align="left">38.72 ± 68.37</td>
+    <td char="." align="char">0.691</td>
+   </tr>
+   <tr>
+    <td align="left"> RBC count, × 10
+     <sup>12</sup>/l
+    </td>
+    <td align="left">2.33 ± 1.64</td>
+    <td align="left">2.26 ± 0.77</td>
+    <td align="left">2.60 ± 3.33</td>
+    <td char="." align="char">0.232</td>
+    <td align="left">2.39 ± 1.93</td>
+    <td align="left">2.21 ± 0.73</td>
+    <td char="." align="char">0.173</td>
+   </tr>
+   <tr>
+    <td align="left"> Hemoglobin, g/l</td>
+    <td align="left">73.98 ± 21.68</td>
+    <td align="left">73.64 ± 21.86</td>
+    <td align="left">75.36 ± 20.99</td>
+    <td char="." align="char">0.395</td>
+    <td align="left">74.61 ± 22.25</td>
+    <td align="left">72.66 ± 20.44</td>
+    <td char="." align="char">0.261</td>
+   </tr>
+   <tr>
+    <td align="left"> Platelets count, × 10
+     <sup>9</sup>/l
+    </td>
+    <td align="left">55.41 ± 64.40</td>
+    <td align="left">54.70 ± 60.73</td>
+    <td align="left">58.22 ± 77.45</td>
+    <td char="." align="char">0.559</td>
+    <td align="left">53.90 ± 61.17</td>
+    <td align="left">58.62 ± 70.80</td>
+    <td char="." align="char">0.360</td>
+   </tr>
+   <tr>
+    <td align="left"> Neutrophil count, × 10
+     <sup>9</sup>/l
+    </td>
+    <td align="left">13.44 ± 33.00</td>
+    <td align="left">13.51 ± 34.56</td>
+    <td align="left">13.14 ± 26.04</td>
+    <td char="." align="char">0.905</td>
+    <td align="left">13.98 ± 32.47</td>
+    <td align="left">12.29 ± 34.23</td>
+    <td char="." align="char">0.525</td>
+   </tr>
+   <tr>
+    <td align="left"> LDH, U/l</td>
+    <td align="left">564.6 ± 725.2</td>
+    <td align="left">561.2 ± 771.9</td>
+    <td align="left">578.2 ± 501.1</td>
+    <td char="." align="char">0.806</td>
+    <td align="left">566.4 ± 758.5</td>
+    <td align="left">560.9 ± 651.7</td>
+    <td char="." align="char">0.926</td>
+   </tr>
+   <tr>
+    <td align="left"> Bone marrow blasts, %</td>
+    <td align="left">65.37 ± 20.88</td>
+    <td align="left">64.94 ± 20.81</td>
+    <td align="left">67.02 ± 21.12</td>
+    <td char="." align="char">0.291</td>
+    <td align="left">65.98 ± 21.21</td>
+    <td align="left">64.08 ± 20.15</td>
+    <td char="." align="char">0.267</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="8">Risk stratifications, n (%)</td>
+   </tr>
+   <tr>
+    <td align="left"> Low risk</td>
+    <td align="left">152 (20.9)</td>
+    <td align="left">115 (19.9)</td>
+    <td align="left">37 (25.2)</td>
+    <td char="." align="char">0.553</td>
+    <td align="left">98 (19.9)</td>
+    <td align="left">54 (23.2)</td>
+    <td char="." align="char">0.142</td>
+   </tr>
+   <tr>
+    <td align="left"> Intermediate risk</td>
+    <td align="left">330 (45.5)</td>
+    <td align="left">267 (46.1)</td>
+    <td align="left">63 (42.9)</td>
+    <td align="left"/>
+    <td align="left">230 (46.7)</td>
+    <td align="left">100 (42.9)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> High risk</td>
+    <td align="left">140 (19.3)</td>
+    <td align="left">114 (19.7)</td>
+    <td align="left">26 (17.7)</td>
+    <td align="left"/>
+    <td align="left">102 (20.7)</td>
+    <td align="left">38 (16.3)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> Unknown</td>
+    <td align="left">104 (14.3)</td>
+    <td align="left">83(14.3)</td>
+    <td align="left">21 (14.3)</td>
+    <td align="left"/>
+    <td align="left">63 (12.8)</td>
+    <td align="left">41 (17.6)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">HSCT, n (%)</td>
+    <td align="left">124 (17.1)</td>
+    <td align="left">94 (16.2)</td>
+    <td align="left">30 (20.4)</td>
+    <td char="." align="char">0.230</td>
+    <td align="left">89 (18.1)</td>
+    <td align="left">35 (15.0)</td>
+    <td char="." align="char">0.311</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>*
+   <italic>28/</italic>− or *
+   <italic>6/</italic>− represents mutant homozygous and heterozygous of corresponding loci on 
+   <italic>UGT1A1</italic>
+  </p>
+  <p>Risk stratification based on NCCN guidelines version 1.2015 acute myeloid leukemia</p>
+  <p>
+   <italic>FAB Classification</italic> French–Britain–American Classification, 
+   <italic>HSCT</italic> hematopoietic stem cell transplantation, 
+   <italic>LDH</italic> lactate dehydrogenase, 
+   <italic>RBC</italic> red blood cell, 
+   <italic>WBC</italic> white blood cell
+  </p>
+  <p>
+   <italic>P</italic> value was based on χ
+   <sup>2</sup> test for categorical variables and student’s 
+   <italic>t</italic> test for continuous variables
+  </p>
+ </table-wrap-foot>
+</table-wrap>

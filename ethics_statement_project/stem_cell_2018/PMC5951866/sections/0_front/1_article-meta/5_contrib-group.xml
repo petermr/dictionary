@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Pettengell</surname>
+   <given-names>Ruth</given-names>
+  </name>
+  <address>
+   <phone>+44 20 8725 5454</phone>
+   <email>rpetteng@sgul.ac.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Coiffier</surname>
+   <given-names>Bertrand</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1896-9015</contrib-id>
+  <name>
+   <surname>Egorov</surname>
+   <given-names>Anton</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Singer</surname>
+   <given-names>Jack</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sivcheva</surname>
+   <given-names>Lilia</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.439523.a</institution-id>
+   <institution>St George’s Hospital, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.264200.2</institution-id>
+   <institution>Institute of Medical and Biomedical Education, </institution>
+   <institution>St George’s University of London, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0288 2594</institution-id>
+   <institution-id institution-id-type="GRID">grid.411430.3</institution-id>
+   <institution>Centre Hospitalier Lyon Sud, </institution>
+  </institution-wrap>Pierre-Bénite, Lyon, France 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2163 3905</institution-id>
+   <institution-id institution-id-type="GRID">grid.418301.f</institution-id>
+   <institution>Institut de Recherches Internationales Servier (IRIS), </institution>
+  </institution-wrap>Suresnes, France 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>Cell Therapeutics Inc. (CTI), Seattle, WA USA 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>MHAT “Hristo Botev”, Vratsa, Bulgaria 
+ </aff>
+</contrib-group>

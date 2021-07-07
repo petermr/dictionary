@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib1">
+ <label>1</label>
+ <element-citation publication-type="journal" id="sref1">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pignon</surname>
+    <given-names>J.P.</given-names>
+   </name>
+   <name>
+    <surname>le Maitre</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Maillard</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Bourhis</surname>
+    <given-names>J.</given-names>
+   </name>
+   <collab>MACH-NC Collaborative Group</collab>
+  </person-group>
+  <article-title>Meta-analysis of chemotherapy in head and neck cancer (MACH-NC): an update on 93 randomised trials and 17,346 patients</article-title>
+  <source>Radiother Oncol</source>
+  <volume>92</volume>
+  <year>2009</year>
+  <fpage>4</fpage>
+  <lpage>14</lpage>
+  <pub-id pub-id-type="pmid">19446902</pub-id>
+ </element-citation>
+</ref>

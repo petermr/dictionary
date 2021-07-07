@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Main study outcomes and corresponding hypotheses evaluated within the COMPASS trial</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Outcome component</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Relevant hypothesis 
+     <break/>(If not otherwise stated, the hypothesis refers to the expected effect of the intervention.)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Rationale for outcome selection</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Primary outcome</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Days of therapy (DOT) of antibiotics* per admission.</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Reduction in antibiotic use through shortening of duration of treatment and reduction in combination therapies.</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">DOT is an easily measurable, objectively assessable, outcome that is supported by expert consensus.
+     <xref rid="R23" ref-type="bibr">23</xref> Admission was chosen as the denominator for the primary outcome rather than PDs since reductions in antimicrobial treatment duration (reflected by a reduction in DOT) may induce a reduction of length of stay (LOS). This may have as consequence that DOT per PDs changes little despite a reduction in antibiotic exposure since both the numerator and denominator are reduced.
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Secondary outcomes: quantitative antimicrobial use†</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">DOT per 100 patient-days (PD). 
+     <break/>Defined daily doses (DDD) per 100 PD and per admission. 
+     <break/>Antimicrobial days (ADs)‡ per 100 PD and per admission. 
+     <break/>Days per treatment period overall and for specific indications.§
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Reduction in antimicrobial use through shortening of duration of treatment and reduction in combination therapies.</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">DDDs are the most widely used metric for antimicrobial consumption and are therefore most suitable for comparisons with other settings. ADs are a further metric that has been proposed to assess antibiotic use. Both PDs and admissions have been proposed as denominators.
+     <xref rid="R23" ref-type="bibr">23 28–31</xref>
+     <break/>A treatment period is defined as antibiotic treatment not interrupted by more than one calendar day or discharge.
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" rowspan="2" align="left" colspan="1">Secondary outcomes: clinical outcomes</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Thirty-day mortality 
+     <break/>In hospital mortality.
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">The intervention is safe and does not result in an increase in mortality or readmissions.</td>
+    <td valign="top" rowspan="2" align="left" colspan="1">Clinical outcomes are included to demonstrate the safety of the intervention, the improvement of quality of care and the absence of unintended consequences. The clinical outcomes are chosen based on their objectivity, the ease of obtaining the data and expert consensus.
+     <xref rid="R28" ref-type="bibr">28 32</xref>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Unplanned hospital readmissions within Thirty days after discharge. 
+     <break/>Hospital LOS. 
+     <break/>Intensive or intermediate care unit admission from COMPASS wards.
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Similar LOS or a reduction in the LOS. 
+     <break/>No increase in the no of intensive care unit or intermediate care unit admissions.
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Secondary outcomes: qualitative antimicrobial use</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Concordance of empirical antibiotic therapy with local guidelines (taking into account justified exceptions) with regard to the choice of molecules and duration of treatment. 
+     <break/>Switch to oral therapy when appropriate 
+     <break/>De-escalation of antimicrobial therapy by calendar day 4 of treatment 
+     <break/>Appropriate diagnostic exams.
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Improved quality of antimicrobial use.</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Improving the quality of antimicrobial use is one of the key goals of antimicrobial stewardship (AMS). Valid, reliable and universally accepted metrics for measuring appropriateness of antimicrobial use are difficult to define and labour-intensive to assess.
+     <xref rid="R30" ref-type="bibr">30</xref> Qualitative antimicrobial use outcomes will be assessed through manual review of a random selection of charts (at least 50 charts per ward over the 12-month period) by infectious diseases specialists using prespecified criteria for appropriateness. A subselection of charts (about 10% of the sample) will be reviewed independently by two reviewers (blinded to ward assignment) to determine interobserver variability.
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Secondary outcomes: microbiological outcomes and healthcare-associated infections</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Incidence of healthcare facility-onset 
+     <italic>Clostridium difficile</italic> denominated per 10 000 PD and admission (attributed to unit). 
+     <break/>Incident clinical cultures with multidrug resistant organisms (MRSA, ESBL-E, CPE, VRE, multidrug resistant 
+     <italic>Pseudomonas aeruginosa</italic>) denominated per 1000 PD and admission.
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Reduced incidence of healthcare facility-onset 
+     <italic>C. difficile</italic> infection (CDI). 
+     <break/>Reduced incidence of multidrug-resistant organisms.
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Limiting CDI and the emergence and transmission of AMR is one of the key goals of AMS. There is expert consensus that the incidence of CDI and drug-resistant pathogens are key metrics to assess the impact of AMS.
+     <xref rid="R23" ref-type="bibr">23</xref>
+     <break/>Since these outcomes are influenced by numerous other factors and would require a very large sample size, they are secondary outcomes and not primary outcomes in this study.
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Secondary outcomes physician satisfaction</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">User satisfaction with the system.</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Users will be satisfied with the system.</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">A major obstacle to the use of CDSS is the lack of buy-in from prescribers and unintended consequences such as ‘alert fatigue’.</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Secondary outcomes: economic</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Costs of administered antimicrobials (overall and by class) per admission and per admission receiving antibiotics. 
+     <break/>Costs of the intervention 
+     <break/>Total costs of hospitalisation.
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Decreased overall direct costs for antimicrobials.</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Reducing the cost of antimicrobial therapy is a goal secondary to that of improving quality of care and patient safety but is one of great interest to administrators.
+     <xref rid="R33" ref-type="bibr">33</xref> All costs will be assessed from the perspective of the hospital.
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Other outcomes</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Number of infectious diseases consultations.</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">No difference in the number of infectious diseases consultations between the groups.</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">An unintended consequence of the intervention may be an increase in the requests for infectious diseases consultations which may impact antibiotic use and patient outcomes.
+     <xref rid="R34" ref-type="bibr">34</xref>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tblfn2">
+   <p>*The primary outcome will be DOT for antibiotics belonging to Anatomical Therapeutic Chemical Classification System class J01 (anti-infectives for systemic use) plus oral metronidazole (P01AB01), oral vancomycin (A07AA09), rifampicin (J04AB02) and fidaxomicin (A07AA12).</p>
+  </fn>
+  <fn id="tblfn3">
+   <p>†In addition to overall antibiotic use as defined above, outcomes for DOT and DDD will also be assessed for different antibiotic classes, for antifungals, for non-HIV antivirals and for selected specific antibiotics.</p>
+  </fn>
+  <fn id="tblfn4">
+   <p>‡The metric AD is equivalent to ‘length of therapy’.
+    <xref rid="R35" ref-type="bibr">35</xref>
+   </p>
+  </fn>
+  <fn id="tblfn5">
+   <p>§To make a comparison possible between intervention and control wards, the ‘diagnosis’ will be based on administrative discharge data. The most common infections (community-acquired pneumonia, upper urinary tract infection, etc) will be analysed.</p>
+  </fn>
+  <fn id="tblfn6">
+   <p>CDSS, Computerised Decision Support System; COMPASS, COMPuterized Antibiotic Stewardship Study; CPE, carbapenemase-producing 
+    <italic>Enterobacteriaceae</italic>; ESBL-E, extended-spectrum beta-lactamase producing 
+    <italic>Enterobacteriaceae</italic>; MRSA, methicillin-resistant 
+    <italic>Staphylococcus aureus</italic>; VRE, vancomycin-resistant enterococci.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

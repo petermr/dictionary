@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sheetz</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>King</surname>
+    <given-names>GL</given-names>
+   </name>
+  </person-group>
+  <article-title>Molecular understanding of hyperglycemia’s adverse effects for diabetic complications</article-title>
+  <source>JAMA</source>
+  <year>2002</year>
+  <volume>288</volume>
+  <fpage>2579</fpage>
+  <lpage>2588</lpage>
+  <pub-id pub-id-type="doi">10.1001/jama.288.20.2579</pub-id>
+  <?supplied-pmid 12444865?>
+  <pub-id pub-id-type="pmid">12444865</pub-id>
+ </element-citation>
+</ref>

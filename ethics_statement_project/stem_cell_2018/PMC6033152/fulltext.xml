@@ -1,0 +1,305 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Peripher Nerv Syst</journal-id><journal-id journal-id-type="iso-abbrev">J. Peripher. Nerv. Syst</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1529-8027</journal-id><journal-id journal-id-type="publisher-id">JNS</journal-id><journal-title-group><journal-title>Journal of the Peripheral Nervous System</journal-title></journal-title-group><issn pub-type="ppub">1085-9489</issn><issn pub-type="epub">1529-8027</issn><publisher><publisher-name>Wiley Periodicals, Inc.</publisher-name><publisher-loc>Malden, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6033152</article-id><article-id pub-id-type="doi">10.1111/jns.12267</article-id><article-id pub-id-type="publisher-id">JNS12267</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Report</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Reports</subject></subj-group></article-categories><title-group><article-title>A randomised, multi&#x02010;centre phase III study of 3 different doses of intravenous immunoglobulin 10% in patients with chronic inflammatory demyelinating polyradiculoneuropathy (ProCID trial): Study design and protocol</article-title><alt-title alt-title-type="left-running-head">Cornblath et al.</alt-title></title-group><contrib-group><contrib id="jns12267-cr-0001" contrib-type="author" corresp="yes"><name><surname>Cornblath</surname><given-names>David R.</given-names></name><address><email>dcornbl@jhmi.edu</email></address><xref ref-type="aff" rid="jns12267-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jns12267-cr-0002" contrib-type="author"><name><surname>Hartung</surname><given-names>Hans&#x02010;Peter</given-names></name><xref ref-type="aff" rid="jns12267-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jns12267-cr-0003" contrib-type="author"><name><surname>Katzberg</surname><given-names>Hans D.</given-names></name><xref ref-type="aff" rid="jns12267-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jns12267-cr-0004" contrib-type="author"><name><surname>Merkies</surname><given-names>Ingemar S. J.</given-names></name><xref ref-type="aff" rid="jns12267-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jns12267-cr-0005" contrib-type="author" corresp="yes"><name><surname>van Doorn</surname><given-names>Pieter A.</given-names></name><address><email>p.a.vandoorn@erasmusmc.nl</email></address><xref ref-type="aff" rid="jns12267-aff-0005">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="jns12267-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Johns Hopkins University School of Medicine</institution>
+<named-content content-type="city">Baltimore</named-content>
+<named-content content-type="country-part">Maryland</named-content>
+</aff><aff id="jns12267-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Neurology, Medical Faculty</named-content>
+<institution>Heinrich Heine University</institution>
+<named-content content-type="city">D&#x000fc;sseldorf</named-content>
+<country country="DE">Germany</country>
+</aff><aff id="jns12267-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Neurology, University of Toronto</named-content>
+<institution>Toronto General Hospital/UHN</institution>
+<named-content content-type="city">Toronto</named-content>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="jns12267-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Maastricht University Medical Center</institution>
+<named-content content-type="city">Maastricht</named-content>
+<country country="NL">The Netherlands</country>
+</aff><aff id="jns12267-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Erasmus University Medical Center</institution>
+<named-content content-type="city">Rotterdam</named-content>
+<country country="NL">The Netherlands</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+David R. Cornblath, MD, Professor, Neurology, John Hopkins University School of Medicine, Meyer 6&#x02010;181a, 601 North Wolfe Street, Baltimore, MD 21287&#x02010;7681.<break/>
+Email: <email>dcornbl@jhmi.edu</email><break/>
+Pieter A. van Doorn, MD, Professor, Neurology, Erasmus MC University Medical Center, PO Box 2040, 3000 CA Rotterdam, The Netherlands.<break/>
+Email: <email>p.a.vandoorn@erasmusmc.nl</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>4</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2018</year></pub-date><volume>23</volume><issue>2</issue><issue-id pub-id-type="doi">10.1111/jns.2018.23.issue-2</issue-id><fpage>108</fpage><lpage>114</lpage><history><date date-type="received"><day>31</day><month>1</month><year>2018</year></date><date date-type="accepted"><day>27</day><month>3</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Peripheral Nerve Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. Journal of the Peripheral Nervous System published by Wiley Periodicals, Inc. on behalf of Peripheral Nerve Society.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JNS-23-108.pdf"/><abstract><p>Patients with chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) show varying degrees of response to intravenous immunoglobulin (IVIg) therapy. This randomised phase III study in patients with CIDP (ProCID trial) will compare the efficacy and safety of 3 different doses (0.5, 1.0, and 2.0 g/kg) of IVIg 10% (panzyga) administered every 3 weeks for 24&#x02009;weeks. The primary efficacy endpoint is the rate of treatment response, defined as a decrease in adjusted inflammatory neuropathy cause and treatment disability score of &#x02265;1 point, in the IVIg 1.0 g/kg arm at week 24. Patients with definite or probable CIDP according to European Federation of Neurological Sciences/Peripheral Nerve Society criteria with IVIg or corticosteroid dependency and active disease are eligible. All potentially eligible patients will undergo IVIg or corticosteroid dose reduction (washout phase) over &#x02264;12&#x02009;weeks or until deterioration of CIDP (active disease). Patients with deterioration during the washout phase will be randomised to receive study treatment during a dose&#x02010;evaluation phase starting with a loading dose of IVIg 2.0 g/kg followed by maintenance treatment with IVIg 0.5, 1.0, or 2.0 g/kg every 3 weeks. Rescue medication (2 doses of IVIg 2.0 g/kg given 3 weeks apart) will be administered to patients in the IVIg 0.5 and 1.0 g/kg groups who deteriorate after week 3 and before week 18 or who do not improve at week 6. Safety, tolerability and quality of life will be assessed. The ProCID study will provide new information on the best maintenance dose of IVIg for patients with CIDP.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jns12267-kwd-0001">chronic inflammatory demyelinating polyradiculoneuropathy</kwd><kwd id="jns12267-kwd-0002">intravenous immunoglobulin</kwd><kwd id="jns12267-kwd-0003">randomised&#x02010;controlled trial</kwd><kwd id="jns12267-kwd-0004">study design</kwd><kwd id="jns12267-kwd-0005">trial protocol</kwd></kwd-group><funding-group><award-group><funding-source>Octapharma Pharmazeutika Produktionsgesm. b.H., Vienna, Austria</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="7"/><word-count count="4620"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jns12267</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.3 mode:remove_FC converted:05.07.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jns12267-cit-9001">
+<string-name>
+<surname>Cornblath</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Hartung</surname>
+<given-names>H&#x02010;P</given-names>
+</string-name>, <string-name>
+<surname>Katzberg</surname>
+<given-names>HD</given-names>
+</string-name>, <string-name>
+<surname>Merkies</surname>
+<given-names>ISJ</given-names>
+</string-name>, <string-name>
+<surname>van Doorn</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>A randomised, multi&#x02010;centre phase III study of 3 different doses of intravenous immunoglobulin 10% in patients with chronic inflammatory demyelinating polyradiculoneuropathy (ProCID trial): Study design and protocol</article-title>. <source xml:lang="en">J Peripher Nerv Syst</source>. <year>2018</year>;<volume>23</volume>:<fpage>108</fpage>&#x02013;<lpage>114</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/jns.12267">https://doi.org/10.1111/jns.12267</ext-link>
+<pub-id pub-id-type="pmid">29603842</pub-id></mixed-citation>
+</p><fn-group id="jns12267-ntgp-0101"><fn id="jns12267-note-0101"><p>
+<bold>Funding information</bold> Octapharma Pharmazeutika Produktionsgesm. b.H., Vienna, Austria</p></fn></fn-group></notes></front><body><sec id="jns12267-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) is an acquired peripheral neuropathy, for which first&#x02010;line therapy options include intravenous immunoglobulin (IVIg), corticosteroids, and plasma exchange.<xref rid="jns12267-bib-0001" ref-type="ref">1</xref> The degree of treatment response to immunoglobulin differs between patients with CIDP, and the time to and duration of maximum effect can vary from weeks to months.<xref rid="jns12267-bib-0002" ref-type="ref">2</xref> In the IVIg in CIDP Efficacy (ICE) study of 117 patients with CIDP, maintenance treatment with IVIg 1 g/kg every 3 weeks over 24&#x02009;weeks was shown to be effective<xref rid="jns12267-bib-0003" ref-type="ref">3</xref>; however, the European Federation of Neurological Sciences (EFNS)/Peripheral Nerve Society (PNS) 2010 guidelines recommend that the appropriate IVIg maintenance dose and frequency needs to be individualised based on the patient's treatment response, typically at 0.4 to 1.2 g/kg every 2 to 6 weeks.<xref rid="jns12267-bib-0001" ref-type="ref">1</xref>
+</p><p>In almost all of the previous clinical studies of IVIg in patients with CIDP, only one dose of IVIg was assessed.<xref rid="jns12267-bib-0003" ref-type="ref">3</xref>, <xref rid="jns12267-bib-0004" ref-type="ref">4</xref>, <xref rid="jns12267-bib-0005" ref-type="ref">5</xref>, <xref rid="jns12267-bib-0006" ref-type="ref">6</xref>, <xref rid="jns12267-bib-0007" ref-type="ref">7</xref>, <xref rid="jns12267-bib-0008" ref-type="ref">8</xref>, <xref rid="jns12267-bib-0009" ref-type="ref">9</xref>, <xref rid="jns12267-bib-0010" ref-type="ref">10</xref>, <xref rid="jns12267-bib-0011" ref-type="ref">11</xref> The efficacy and safety of different induction doses of IVIg (0.05, 0.2, or 0.4 g/kg/d for 5 days) has been evaluated head&#x02010;to&#x02010;head in only one non&#x02010;placebo&#x02010;controlled study of Japanese patients with CIDP (<italic>n</italic>&#x02009;=&#x02009;40) or multi&#x02010;focal motor neuropathy (<italic>n</italic>&#x02009;=&#x02009;20), in which dose&#x02010;dependent improvements in electrophysiology and clinical disease at 5 weeks were observed in all patients.<xref rid="jns12267-bib-0012" ref-type="ref">12</xref> The Polyneuropathy and Treatment with Hizentra (PATH) study, which investigated 2 different maintenance doses of weekly subcutaneous immunoglobulin (SCIg) 0.2 or 0.4 g/kg in 172 patients with CIDP, showed that both doses of SCIg had significantly superior efficacy to placebo.<xref rid="jns12267-bib-0013" ref-type="ref">13</xref>, <xref rid="jns12267-bib-0014" ref-type="ref">14</xref>
+</p><p>The ProCID study is a randomised, multi&#x02010;centre, phase III trial of IVIg in patients with CIDP that will compare the efficacy and safety of 3 different maintenance doses (0.5, 1.0, and 2.0 g/kg) of IVIg (panzyga) administered every 3 weeks over 24&#x02009;weeks, following an induction dose of 2 g/kg. Data from the ProCID study will provide important new information on the best maintenance dose of IVIg to use when treating patients with CIDP. Here, we report the design and protocol of the ProCID study.</p></sec><sec id="jns12267-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jns12267-sec-0003"><label>2.1</label><title>Study design</title><p>The ProCID study is a prospective, randomised, double&#x02010;blind, parallel&#x02010;group, multi&#x02010;centre, phase III trial. An overview of the study design is shown in Figure <xref rid="jns12267-fig-0001" ref-type="fig">1</xref>. The trial started in May 2017 and is expected to be completed by the end of 2019, corresponding to a total study duration of 30&#x02009;months. The study will be conducted according to the ethical principles of the Declaration of Helsinki, and in compliance with the study protocol, International Conference on Harmonisation&#x02010;Good Clinical Practice E6 regulations, and applicable regulatory requirements. Trial registration: EudraCT 2015&#x02010;005443&#x02010;14; NCT02638207.</p><fig fig-type="Figure" xml:lang="en" id="jns12267-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Overview of ProCID study design. CIDP, chronic inflammatory demyelinating polyradiculoneuropathy; INCAT, inflammatory neuropathy cause and treatment; I&#x02010;RODS, inflammatory Rasch&#x02010;built overall disability scale; IVIg, intravenous immunoglobulin; MCID&#x02010;SE, minimum clinically important difference&#x02010;SE; PGIC, patient global impression of change</p></caption><graphic id="nlm-graphic-1" xlink:href="JNS-23-108-g001"/></fig></sec><sec id="jns12267-sec-0004"><label>2.2</label><title>Patient population</title><p>The study will enrol a minimum of 140 adult patients with definite or probable CIDP according to EFNS/PNS criteria<xref rid="jns12267-bib-0001" ref-type="ref">1</xref> from approximately 45 study sites worldwide. The enrolment period is expected to last for about 20&#x02009;months. Eligible patients will be those who have active disease (defined below) and are dependent on IVIg or corticosteroids.</p><p>Full study inclusion and exclusion criteria are shown in Table <xref rid="jns12267-tbl-0001" ref-type="table">1</xref>.</p><table-wrap id="jns12267-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Study inclusion and exclusion criteria</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Inclusion criteria</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jns12267-list-0001"><list-item id="jns12267-li-0001"><p>Age &#x02265;18&#x02009;years</p></list-item><list-item id="jns12267-li-0002"><p>A diagnosis of definite or probable CIDP according to the EFNS/PNS 2010 guideline, including patients with MADSAM or pure motor CIDP</p></list-item><list-item id="jns12267-li-0003"><p>Currently dependent on immunoglobulin or corticosteroid treatment</p></list-item><list-item id="jns12267-li-0004"><p>Active disease (ie, not in remission) with progression or relapse prior to study entry or during the washout phase</p></list-item><list-item id="jns12267-li-0005"><p>Weakness of at least 2 limbs</p></list-item><list-item id="jns12267-li-0006"><p>Adjusted INCAT disability score of 2 to 9, with a score of 2 exclusively from leg disability</p></list-item><list-item id="jns12267-li-0007"><p>Written, fully informed, voluntary consent before conduction of any study&#x02010;related procedures</p></list-item></list>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Exclusion criteria</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jns12267-list-0002"><list-item id="jns12267-li-0008"><p>Unifocal forms of CIDP, pure sensory CIDP or MMN with conduction block</p></list-item><list-item id="jns12267-li-0009"><p>Previous failure of immunoglobulin treatment</p></list-item><list-item id="jns12267-li-0010"><p>Treatment with immunomodulatory or immunosuppressive agents (eg, ciclosporin, methotrexate, mitoxantrone, mycophenolate mofetil or azathioprine) within 6 months of study baseline</p></list-item><list-item id="jns12267-li-0011"><p>Treatment with rituximab, alemtuzumab, cyclophosphamide, or other intensive chemotherapy, previous lymphoid irradiation or stem cell transplantation within 12&#x02009;months of study baseline</p></list-item><list-item id="jns12267-li-0012"><p>Respiratory impairment requiring mechanical ventilation</p></list-item><list-item id="jns12267-li-0013"><p>Myelopathy or evidence of CNS demyelination or significant persisting neurological deficits from stroke or CNS trauma</p></list-item><list-item id="jns12267-li-0014"><p>Clinical evidence of peripheral neuropathy from another cause such as connective tissue disease or systemic lupus erythematosus, HIV infection, hepatitis or Lyme disease, cancer (with the exception of basal cell skin cancer), or IgM paraproteinaemia with anti&#x02010;myelin&#x02010;associated glycoprotein antibodies</p></list-item><list-item id="jns12267-li-0015"><p>Diabetic neuropathy, with the exception stable HbA1c (not exceeding the required normal values) in treated patients with diabetes</p></list-item><list-item id="jns12267-li-0016"><p>Body mass index &#x02265;40&#x02009;kg/m<sup>2</sup>
+</p></list-item><list-item id="jns12267-li-0017"><p>Cardiac insufficiency (NHYA III/IV), cardiomyopathy, significant cardiac dysrhythmia requiring treatment, or unstable or advanced ischaemic heart disease</p></list-item><list-item id="jns12267-li-0018"><p>Severe liver disease (ALT 3&#x000d7; greater than normal) or severe kidney disease (creatinine levels 1.5&#x000d7; greater than normal)</p></list-item><list-item id="jns12267-li-0019"><p>Hepatitis B, hepatitis C, or HIV infection</p></list-item><list-item id="jns12267-li-0020"><p>Thromboembolic events, including a history of DVT within 12&#x02009;months of study baseline, any history PE, or susceptibility to DVT or PE</p></list-item><list-item id="jns12267-li-0021"><p>Uncompensated hypothyroidism (abnormally high TSH and abnormally low thyroxine) or known vitamin B<sub>12</sub> deficiency without adequate substitution therapy</p></list-item><list-item id="jns12267-li-0022"><p>Medical conditions that may alter protein catabolism and/or IgG utilisation (eg, protein&#x02010;losing enteropathy, nephrotic syndrome)</p></list-item><list-item id="jns12267-li-0023"><p>Known IgA deficiency with antibodies to IgA</p></list-item><list-item id="jns12267-li-0024"><p>History of hypersensitivity, anaphylaxis or severe systemic response to immunoglobulin, blood or plasma&#x02010;derived products, or any component of panzyga</p></list-item><list-item id="jns12267-li-0025"><p>Known blood hyperviscosity or other hypercoagulable states</p></list-item><list-item id="jns12267-li-0026"><p>Use of other blood or plasma&#x02010;derived products within 3 months of study baseline</p></list-item><list-item id="jns12267-li-0027"><p>Past or present history of drug or alcohol abuse within 5 years of study baseline</p></list-item><list-item id="jns12267-li-0028"><p>An inability or unwillingness to understand or comply with the study protocol</p></list-item><list-item id="jns12267-li-0029"><p>Participation in another interventional clinical study with an investigational medicinal product treatment currently or within 3 months of baseline</p></list-item><list-item id="jns12267-li-0030"><p>Women who are breast feeding, pregnant, planning on becoming pregnant, or unwilling to use effective birth control during the study</p></list-item></list>
+</td></tr></tbody></table><table-wrap-foot><fn id="jns12267-note-0001"><p>ALT, alanine aminotransferase; CIDP, chronic inflammatory demyelinating polyradiculoneuropathy; CNS, central nervous system; DVT, deep vein thrombosis; EFNS, European Federation of Neurological Societies; HbA1c, glycated haemoglobin; HIV, human immunodeficiency virus; IgA/G/M, immunoglobulin A/G/M; INCAT, Inflammatory Neuropathy Cause and Treatment; MADSAM, multi&#x02010;focal acquire demyelinating sensory and motor neuropathy; MMN, multi&#x02010;focal motor neuropathy; NHYA, New York Heart Association; PE, pulmonary embolism; PNS, Peripheral Nerve Society; TSH, thyroid&#x02010;stimulating hormone.</p></fn></table-wrap-foot></table-wrap><p>After screening, eligible patients will undergo a predefined reduction of immunoglobulin or corticosteroids over a maximum of 12&#x02009;weeks or until deterioration (washout phase). Immunoglobulin doses will be reduced by 25% at each sequential infusion, and corticosteroids will be reduced as per investigator discretion.</p><p>Patients with deterioration of CIDP during the washout phase (ie, those with active disease) will be randomised to receive study treatment. Deterioration is defined as a decrease in the patients' global impression of change (PGIC) scale plus one of the following: (1) an increase of &#x02265;1 point on the adjusted inflammatory neuropathy cause and treatment (INCAT) disability score,<xref rid="jns12267-bib-0006" ref-type="ref">6</xref> (2) a decrease of &#x02265;8 kPa in grip strength in one hand,<xref rid="jns12267-bib-0015" ref-type="ref">15</xref> or (3) an Inflammatory Rasch&#x02010;built Overall Disability Scale (I&#x02010;RODS) minimum clinically important difference SE (MCID&#x02010;SE) cut&#x02010;off of &#x02212;1.96 or less.<xref rid="jns12267-bib-0016" ref-type="ref">16</xref>, <xref rid="jns12267-bib-0017" ref-type="ref">17</xref>
+</p><p>Patients who do not experience deterioration of CIDP during the 12&#x02010;week washout phase (ie, those with inactive disease during the 12&#x02009;weeks) will not continue in the study. During the study, the investigator may decide to withdraw patients in cases of adverse events (AEs), poor compliance, withdrawal of patient consent, pregnancy, risk of severe harm due to continued study treatment or protocol procedures, disease development that interferes with study treatment or meets an exclusion criterion, or administration of an immunoglobulin product other than panzyga. Additional patients will be enrolled when the proportion of patients who withdraw exceeds 10% (unless the planned number of patients in the dose group has already been achieved). Replacement patients will be assigned to the same dose group as the withdrawn patients; however, patients who withdraw from the study because of safety issues will not be replaced.</p></sec><sec id="jns12267-sec-0005"><label>2.3</label><title>Study treatment</title><p>All patients who worsen in the washout phase will receive an initial loading dose of IVIg 2.0 g/kg. Patients will then be centrally randomised to maintenance treatment using an interactive web response system and stratified by previous immunoglobulin or corticosteroid treatment using a stratified block design. Patients will be assigned in a 1:2:1 ratio to receive double&#x02010;blind maintenance IVIg (panzyga) doses of 0.5, 1.0, or 2.0 g/kg, respectively, administered every 3 weeks (&#x000b1;4 days) for 24&#x02009;weeks (dose&#x02010;evaluation phase).</p><p>To maintain blinding during the dose&#x02010;evaluation phase, all patients will receive the same infusion volume as in the 2.0 g/kg treatment arm, using saline solution to match the volume in the 0.5 and 1.0 g/kg treatment arms. Each infusion will be administered over 2 consecutive days, and the content of each infusion bag will be concealed with an overpouch (normally used for light protection) and new identical labels on both IVIg and saline bags. The IVIg and saline solutions will not be mixed prior to administration (ie, no dilution of IVIg will occur).</p><p>Rescue medication with 2 doses of IVIg 2.0 g/kg given 3 weeks apart may be administered to the patients in the IVIg 0.5 and 1.0 g/kg groups if they have: (1) deterioration of CIDP (defined as an increase in adjusted INCAT disability score of &#x02265;1 point) after week 3 and before week 18; or (2) no improvement in CIDP (defined as an unchanged adjusted INCAT disability score) at week 6. After administration of rescue medication, these patients discontinue study treatment and attend an end&#x02010;of&#x02010;study assessment visit at 3 weeks after the second rescue dose. Patients in the IVIg 2.0 g/kg group with deterioration of CIDP after week 3 and before week 18 or no improvement at week 6 will also discontinue study treatment.</p><p>A summary of permitted and prohibited concomitant medications during the study is shown in Table <xref rid="jns12267-tbl-0002" ref-type="table">2</xref>.</p><table-wrap id="jns12267-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Summary of permitted and prohibited concomitant medications</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Permitted medications</th><th align="left" valign="bottom" rowspan="1" colspan="1">Prohibited medications</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jns12267-list-0003"><list-item id="jns12267-li-0031"><p>Stable doses of azathioprine (if receiving for &#x02265;12&#x02009;months prior to baseline)<list list-type="bullet" id="jns12267-list-0004"><list-item id="jns12267-li-0032"><p>Azathioprine should be continued at the same dosage during study treatment</p></list-item></list>
+</p></list-item><list-item id="jns12267-li-0033"><p>Stable doses of corticosteroids (prednisolone or equivalent) &#x02264;20&#x02009;mg/d or equivalent in patients with prior corticosteroid therapy</p></list-item><list-item id="jns12267-li-0034"><p>Paracetamol as needed for mild pain</p></list-item></list>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jns12267-list-0005"><list-item id="jns12267-li-0035"><p>Any other blood or plasma&#x02010;derived products (except for emergency reasons)</p></list-item><list-item id="jns12267-li-0036"><p>Patients who receive immunoglobulin preparations other than panzyga will be withdrawn from the study</p></list-item><list-item id="jns12267-li-0037"><p>Corticosteroids (prednisolone or equivalent)&#x02009;&#x0003e;&#x02009;20&#x02009;mg/d or equivalent</p></list-item><list-item id="jns12267-li-0038"><p>Plasma exchange</p></list-item><list-item id="jns12267-li-0039"><p>Ciclosporin, methotrexate, mitoxantrone, mycophenolate mofetil, interferon or other immunosuppressive or immunomodulatory drugs</p></list-item><list-item id="jns12267-li-0040"><p>Rituximab, alemtuzumab, cyclophosphamide, or other chemotherapeutic regimens</p></list-item><list-item id="jns12267-li-0041"><p>Any experimental treatment</p></list-item><list-item id="jns12267-li-0042"><p>Routine pre&#x02010;medication to alleviate potential tolerability issues<xref ref-type="fn" rid="jns12267-note-0002">a</xref>
+</p></list-item></list>
+</td></tr></tbody></table><table-wrap-foot><fn id="jns12267-note-0002"><label>a</label><p>Patients who experience 2 consecutive infusion&#x02010;related adverse events may receive pre&#x02010;medication with antipyretics, antihistamines, or antiemetic agents.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jns12267-sec-0006"><label>2.4</label><title>Study endpoints</title><p>The primary efficacy endpoint is the proportion of patients in the IVIg 1.0 g/kg group with response to treatment at week 24 (defined as a decrease in adjusted INCAT disability score of &#x02265;1 point). The adjusted INCAT disability score differs from the standard score by exclusion of changes in upper limb function from 0 (normal) to 1 (minor symptoms) or from 1 to 0, as these changes are not considered to be clinically relevant in all patients.<xref rid="jns12267-bib-0003" ref-type="ref">3</xref>
+</p><p>The following secondary efficacy endpoints will also be assessed: proportion of patients in the IVIg 0.5 and 2.0 g/kg groups vs the IVIg 1.0 g/kg group with response to treatment at week 24 based on the adjusted INCAT disability score, grip strength (assessed by Martin Handheld Vigorimeter, Gebr&#x000fc;der Martin GmbH &#x00026; Co. KG, Tuttlingen, Germany) using the MCID cut&#x02010;off of 8 kPa, and I&#x02010;RODS score using the MCID&#x02010;SE cut&#x02010;off of &#x02212;1.96 or less<xref rid="jns12267-bib-0016" ref-type="ref">16</xref>; the time to first confirmed worsening (ie, increase from baseline by &#x02265;1 point) in the adjusted INCAT disability score; the time to improvement (ie, 1 point decrease from baseline) in adjusted INCAT disability score; the time to first confirmed worsening from baseline in I&#x02010;RODS score; the time to decrease in I&#x02010;RODS score; mean change from baseline to end&#x02010;of&#x02010;study assessment visit in grip strength of both hands, I&#x02010;RODS score, Pain Intensity Numeric Rating Scale (PI&#x02010;NRS), and sum of the distal evoked amplitude of 4 right&#x02010;sided and 4 left&#x02010;sided motor nerves (peroneal, tibial, ulnar, and median); and the absolute number of improvers in grip strength and I&#x02010;RODS during the study.</p><p>Exploratory efficacy endpoints will include the mean change from baseline to study end in Modified Fatigue Severity Scale (FSS), number of patients with improvement of &#x02265;4 points in Medical Research Council (MRC) sum score at week 12 or at time of rescue medication, and Short&#x02010;Form 36&#x02010;item (SF&#x02010;36) health survey physical component score, mental component score, and their 8 health domains; and the time to decrease in MRC sum score to baseline (or below) after temporary increase.</p><p>Safety endpoints will be assessed throughout the 24&#x02010;week dose&#x02010;evaluation phase and will include the incidence of all AEs; short&#x02010;term tolerance parameters, including vital signs; physical and neurological examination findings; and laboratory parameters (haematology and clinical chemistry) and tests for viral safety.</p><p>The schedule of assessments performed at each study visit is summarised in Figure <xref rid="jns12267-fig-0002" ref-type="fig">2</xref>.</p><fig fig-type="Figure" xml:lang="en" id="jns12267-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Schedule of study visit assessments during the dose&#x02010;evaluation phase. AEs, adverse events; FSS, fatigue severity scale; INCAT, inflammatory neuropathy cause and treatment; I&#x02010;RODS, inflammatory Rasch&#x02010;built overall disability scale; MRC, Medical Research Council; PGIC, Patients' global impression of change; PI&#x02010;NRS, pain intensity numeric rating scale; SF&#x02010;36, short form 36 items health status</p></caption><graphic id="nlm-graphic-3" xlink:href="JNS-23-108-g002"/></fig></sec><sec id="jns12267-sec-0007"><label>2.5</label><title>Statistical analysis</title><p>The statistical analysis will be delegated under an agreement of transfer of responsibilities to an external contract research organisation.</p><p>Calculation of the sample size is based on the proportion of patients with treatment response in the IVIg 1.0 g/kg group. Based on previous trials,<xref rid="jns12267-bib-0003" ref-type="ref">3</xref>, <xref rid="jns12267-bib-0007" ref-type="ref">7</xref> a threshold of 42% responders was chosen for the evaluation of the primary endpoint. To achieve a power of &#x02265;80%, a minimum of 62 evaluable patients in the IVIg 1.0 g/kg group is needed. Therefore, the study plans to enrol 70 patients in this group to account for possible dropouts. For the comparison between doses, half of the eligible patients will be enrolled in the standard dose group (1.0 g/kg) and the other half in the lower (0.5 g/kg) and higher (2.0 g/kg) dose groups. The total target enrolment is 140 patients.</p><p>Statistical evaluation of the primary and secondary endpoints will be presented for each randomisation stratum (ie, prior treatment with IVIg or corticosteroids) separately. No further subgroup analyses are pre&#x02010;specified. Further comparisons between CIDP variants may be added post hoc as indicated by the data.</p><p>The statistical analysis will consider the safety set (SAF), full analysis set (FAS), and per&#x02010;protocol set (PPS) patient populations (Table <xref rid="jns12267-tbl-0003" ref-type="table">3</xref>). The primary endpoint analysis will be conducted for the FAS and PPS, the secondary endpoints will be evaluated in the FAS and in the PPS (in case the 2 populations differ by &#x0003e;5%), and the safety analysis will be conducted in the SAF. All efficacy and safety analyses will be summarised using descriptive statistics.</p><table-wrap id="jns12267-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Definitions of study patient populations</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Patient population</th><th align="left" valign="bottom" rowspan="1" colspan="1">Definition</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">SAF</td><td align="left" valign="top" rowspan="1" colspan="1">All randomised patients who receive at least part of one infusion of study treatment</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">FAS</td><td align="left" valign="top" rowspan="1" colspan="1">According to the intent&#x02010;to&#x02010;treat principle, and includes all patients from the SAF population for whom data were collected post&#x02010;infusion of study treatment</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PPS</td><td align="left" valign="top" rowspan="1" colspan="1">A subset of the FAS, which excludes patients with significant protocol deviations that could potentially significantly affect evaluation of the primary outcome<xref ref-type="fn" rid="jns12267-note-0004">a</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="jns12267-note-0003"><p>FAS, full analysis set; PPS, per&#x02010;protocol set; SAF, safety set.</p></fn><fn id="jns12267-note-0004"><label>a</label><p>The classification of protocol violations will be conducted and documented before the database is locked, the data is unblinded and the statistical analyses are performed.</p></fn></table-wrap-foot></table-wrap><p>In general, data derivations will be based on observed values only, and missing data will not be imputed. If missing values occur in the confirmatory analysis of the FAS primary endpoint, they will be imputed as worst observed values (ie, observed patients will be analysed as a non&#x02010;responder).</p></sec></sec><sec id="jns12267-sec-0008"><label>3</label><title>DISCUSSION</title><p>The ProCID study is a randomised, double&#x02010;blind, multi&#x02010;centre, phase III trial that has been designed to compare 3 different IVIg maintenance doses for the treatment of patients with CIDP: 0.5, 1.0, and 2.0 g/kg once every 3 weeks for 24&#x02009;weeks. The use of 3 maintenance dose groups in the dose&#x02010;evaluation phase will allow for confirmation of the clinical efficacy of IVIg observed in previous clinical trials.<xref rid="jns12267-bib-0003" ref-type="ref">3</xref>, <xref rid="jns12267-bib-0004" ref-type="ref">4</xref>, <xref rid="jns12267-bib-0005" ref-type="ref">5</xref>, <xref rid="jns12267-bib-0006" ref-type="ref">6</xref>, <xref rid="jns12267-bib-0007" ref-type="ref">7</xref>, <xref rid="jns12267-bib-0008" ref-type="ref">8</xref>, <xref rid="jns12267-bib-0009" ref-type="ref">9</xref>, <xref rid="jns12267-bib-0010" ref-type="ref">10</xref>, <xref rid="jns12267-bib-0011" ref-type="ref">11</xref>, <xref rid="jns12267-bib-0012" ref-type="ref">12</xref>
+</p><p>In a post hoc analysis of the ICE study, almost half of IVIg responders showed improvement in adjusted INCAT disability scores within the first 3 weeks of treatment (ie, after the initial 2.0 g/kg loading dose).<xref rid="jns12267-bib-0018" ref-type="ref">18</xref> To be comparable with data from the ICE study,<xref rid="jns12267-bib-0003" ref-type="ref">3</xref> the primary endpoint of the ProCID study will be the proportion of patients in the IVIg 1.0 g/kg group with response to treatment, as defined by an improvement from baseline of &#x02265;1 point on the adjusted INCAT disability score. Consistent with the ICE<xref rid="jns12267-bib-0003" ref-type="ref">3</xref> and Privigen Impact on Mobility and Autonomy (PRIMA)<xref rid="jns12267-bib-0007" ref-type="ref">7</xref> studies, the primary endpoint of this study will be assessed at week 24.</p><p>The only other randomised&#x02010;controlled study to have prospectively evaluated the efficacy of different IVIg doses observed a dose&#x02010;response relationship following a single dose of IVIg 0.25, 1.0 or 2.0 g/kg over 5 days.<xref rid="jns12267-bib-0012" ref-type="ref">12</xref> Among 60 patients with CIDP or multi&#x02010;focal motor neuropathy who received treatment, high&#x02010;dose IVIg therapy (2.0 g/kg) was associated with a higher initial response rate compared with the 0.25 and 1.0 g/kg doses (response rates of 60% vs 15% and 21%, respectively) at 5 weeks; 24&#x02010;week data were not presented in this study.<xref rid="jns12267-bib-0012" ref-type="ref">12</xref> However, this study was not randomised and did not include a placebo group.<xref rid="jns12267-bib-0019" ref-type="ref">19</xref> In the PATH study of 172 patients with definite or probable CIDP who received weekly SCIg 0.2 or 0.4 g/kg or placebo, the proportion of patients who had a relapse was 19% with SCIg 0.4 g/kg and 33% with SCIg 0.2 g/kg.<xref rid="jns12267-bib-0014" ref-type="ref">14</xref> Although the difference in relapse rates between SCIg doses was not significant, relapse rates with both SCIg doses were significantly lower than with placebo (56%; <italic>P</italic>&#x02009;&#x0003c;&#x02009;.001).<xref rid="jns12267-bib-0014" ref-type="ref">14</xref>
+</p><p>The ProCID study will also evaluate whether different maintenance doses of IVIg may result in changes in treatment response in patients with definite or probable CIDP, and whether this efficacy will differ compared with that observed in the ICE<xref rid="jns12267-bib-0003" ref-type="ref">3</xref> and PRIMA<xref rid="jns12267-bib-0007" ref-type="ref">7</xref> studies. While maintenance doses of IVIg vary considerably, most patients start with a standard maintenance dose of 1 g/kg every 3 weeks (or equivalent), with subsequent dose adjustments being made as needed. This study will evaluate whether a higher or lower starting dose to the maintenance phase is better than the widely used standard dose of 1 g/kg every 3 weeks and will assess the safety and tolerability of these additional doses to provide clinicians further data in choosing IVIg maintenance doses for patients with CIDP.</p></sec></body><back><ack id="jns12267-sec-0009"><title>ACKNOWLEDGEMENTS</title><p>We thank Sarah Greig, PhD, of Springer Healthcare Communications who prepared the outline and subsequent drafts of this manuscript. We also thank Doris Hinterberger and Elisabeth Clodi of Octapharma Pharmazeutika Produktionsges.m.b.H for their valuable input. Funding for this study, the medical writing assistance, and Open Access for this article was provided by Octapharma Pharmazeutika Produktionsges.m.b.H.</p><sec id="jns12267-sec-0010" sec-type="COI-statement"><title>Conflict of interest</title><p>H.&#x02010;P.H. has received honoraria for consulting, serving on steering committees and speaking from Baxter, Bayer Healthcare, CSL Behring, Kedrion, LFB, Octapharma, Syntimmune; H.D.K. has received honoraria for consulting, serving on steering committees and data safety monitoring boards, and has received research support from CSL Behring, Grifols Biotherapeutics, Sanofi Genzyme, Flexpharma and Octapharma; P.A.D. has received honoraria for consulting and serving on steering committees from Baxter, CSL Behring, Octapharma and Kedrion, and research support from Baxter, Grifols and Sanquin Blood supply; D.R.C. serves as consultant to Acetylon Pharmaceuticals Inc., Alcobra Pharma, Alnylam Pharmaceuticals, Annexon Biosciences, Akros Pharma, Biotest Pharmaceuticals Inc., Boehringer Ingelheim, Cigna Health Management Inc., CSL Behring, DP Clinical Inc., GlaxoSmithKline, Grifols SA, Karos Pharmaceuticals Inc., Neurocrine Biosciences, Novartis Corp., Octapharma AG, Pharnext SAS and Sun Pharmaceuticals, Syntimmune; is on a Data Safety Monitoring Board for Pfizer Inc., Ionis Pharmaceuticals, GlaxoSmithKline, Axovant Sciences Ltd.; has technology licencing agreements through Johns Hopkins University with Acetylon Pharmaceuticals Inc., AstraZeneca Pharmaceuticals, Calithera Biosciences, Genentech Inc., Neurocrine Biosciences, Merrimack Pharmaceuticals Inc., Seattle Genetics Inc., Shire Development LLC; and serves on the Board of Directors for the GBS&#x02010;CIDP Foundation International, Foundation for Peripheral Neuropathy, and The Peripheral Nerve Society; ISJ Merkies has received honoraria for serving on the steering committee for Talecris, Biotest, LFB Biopharmaceuticals, CSL Behring, Novartis and Grifols; and has received grants from the Talecris Talents Program, GBS CIDP Foundation International, Prinses Beatrix Spierfonds and the European Union Seventh Framework Programme.</p></sec><sec id="jns12267-sec-0011"><title>Author contributions</title><p>The sponsor designed the clinical study in close cooperation with the steering committee (D.R.C., H.&#x02010;P.H., I.S.J.M., and P.A.D.) and the coordinating investigator (H.D.K.). This manuscript has been written in collaboration with the members of the steering committee and the coordinating investigator based on the study protocol (amended version 03; March 9, 2017). The authors obtained approval from the sponsor but made the final decision to submit the manuscript. All authors have reviewed the manuscript and approved the final version to be published.</p></sec></ack><ref-list id="jns12267-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="jns12267-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jns12267-cit-0001">
+<string-name>
+<surname>van den Bergh</surname>
+<given-names>PY</given-names>
+</string-name>, <string-name>
+<surname>Hadden</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Bouche</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>European Federation of Neurological Societies/Peripheral Nerve Society guideline on management of chronic inflammatory demyelinating polyradiculoneuropathy: report of a joint task force of the European Federation of Neurological Societies and the Peripheral Nerve Society &#x02013; first revision</article-title>. <source xml:lang="en">Eur J Neurol</source>. <year>2010</year>;<volume>17</volume>:<fpage>356</fpage>&#x02010;<lpage>363</lpage>.<pub-id pub-id-type="pmid">20456730</pub-id></mixed-citation></ref><ref id="jns12267-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jns12267-cit-0002">
+<string-name>
+<surname>Kuitwaard</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>van Doorn</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>Newer therapeutic options for chronic inflammatory demyelinating polyradiculoneuropathy</article-title>. <source xml:lang="en">Drugs</source>. <year>2009</year>;<volume>69</volume>:<fpage>987</fpage>&#x02010;<lpage>1001</lpage>.<pub-id pub-id-type="pmid">19496628</pub-id></mixed-citation></ref><ref id="jns12267-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jns12267-cit-0003">
+<string-name>
+<surname>Hughes</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Donofrio</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bril</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Intravenous immune globulin (10% caprylate&#x02010;chromatography purified) for the treatment of chronic inflammatory demyelinating polyradiculoneuropathy (ICE study): a randomised placebo&#x02010;controlled trial</article-title>. <source xml:lang="en">Lancet Neurol</source>. <year>2008</year>;<volume>7</volume>:<fpage>136</fpage>&#x02010;<lpage>144</lpage>.<pub-id pub-id-type="pmid">18178525</pub-id></mixed-citation></ref><ref id="jns12267-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jns12267-cit-0004">
+<string-name>
+<surname>Dyck</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Litchy</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Kratz</surname>
+<given-names>KM</given-names>
+</string-name>, et al. <article-title>A plasma exchange versus immune globulin infusion trial in chronic inflammatory demyelinating polyradiculoneuropathy</article-title>. <source xml:lang="en">Ann Neurol</source>. <year>1994</year>;<volume>36</volume>:<fpage>838</fpage>&#x02010;<lpage>845</lpage>.<pub-id pub-id-type="pmid">7998769</pub-id></mixed-citation></ref><ref id="jns12267-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jns12267-cit-0005">
+<string-name>
+<surname>Hahn</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Bolton</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Zochodne</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Feasby</surname>
+<given-names>TE</given-names>
+</string-name>. <article-title>Intravenous immunoglobulin treatment in chronic inflammatory demyelinating polyneuropathy. A double&#x02010;blind, placebo&#x02010;controlled, cross&#x02010;over study</article-title>. <source xml:lang="en">Brain</source>. <year>1996</year>;<volume>119</volume>(<issue>pt 4</issue>):<fpage>1067</fpage>&#x02010;<lpage>1077</lpage>.<pub-id pub-id-type="pmid">8813271</pub-id></mixed-citation></ref><ref id="jns12267-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jns12267-cit-0006">
+<string-name>
+<surname>Hughes</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bensa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Willison</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Randomized controlled trial of intravenous immunoglobulin versus oral prednisolone in chronic inflammatory demyelinating polyradiculoneuropathy</article-title>. <source xml:lang="en">Ann Neurol</source>. <year>2001</year>;<volume>50</volume>:<fpage>195</fpage>&#x02010;<lpage>201</lpage>.<pub-id pub-id-type="pmid">11506402</pub-id></mixed-citation></ref><ref id="jns12267-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jns12267-cit-0007">
+<string-name>
+<surname>L&#x000e9;ger</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>De Bleecker</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Sommer</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Efficacy and safety of Privigen&#x000ae; in patients with chronic inflammatory demyelinating polyneuropathy: results of a prospective, single&#x02010;arm, open&#x02010;label phase III study (the PRIMA study)</article-title>. <source xml:lang="en">J Peripher Nerv Syst</source>. <year>2013</year>;<volume>18</volume>:<fpage>130</fpage>&#x02010;<lpage>140</lpage>.<pub-id pub-id-type="pmid">23781960</pub-id></mixed-citation></ref><ref id="jns12267-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jns12267-cit-0008">
+<string-name>
+<surname>Mendell</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Barohn</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Freimer</surname>
+<given-names>ML</given-names>
+</string-name>, et al. <article-title>Randomized controlled trial of IVIg in untreated chronic inflammatory demyelinating polyradiculoneuropathy</article-title>. <source xml:lang="en">Neurology</source>. <year>2001</year>;<volume>56</volume>:<fpage>445</fpage>&#x02010;<lpage>449</lpage>.<pub-id pub-id-type="pmid">11222785</pub-id></mixed-citation></ref><ref id="jns12267-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jns12267-cit-0009">
+<string-name>
+<surname>Nobile&#x02010;Orazio</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Cocito</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Jann</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Intravenous immunoglobulin versus intravenous methylprednisolone for chronic inflammatory demyelinating polyradiculoneuropathy: a randomised controlled trial</article-title>. <source xml:lang="en">Lancet Neurol</source>. <year>2012</year>;<volume>11</volume>:<fpage>493</fpage>&#x02010;<lpage>502</lpage>.<pub-id pub-id-type="pmid">22578914</pub-id></mixed-citation></ref><ref id="jns12267-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jns12267-cit-0010">
+<string-name>
+<surname>van Doorn</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Brand</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Strengers</surname>
+<given-names>PF</given-names>
+</string-name>, <string-name>
+<surname>Meulstee</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Vermeulen</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>High&#x02010;dose intravenous immunoglobulin treatment in chronic inflammatory demyelinating polyneuropathy: a double&#x02010;blind, placebo&#x02010;controlled, crossover study</article-title>. <source xml:lang="en">Neurology</source>. <year>1990</year>;<volume>40</volume>:<fpage>209</fpage>&#x02010;<lpage>212</lpage>.<pub-id pub-id-type="pmid">2405291</pub-id></mixed-citation></ref><ref id="jns12267-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jns12267-cit-0011">
+<string-name>
+<surname>Vermeulen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>van Doorn</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Brand</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Strengers</surname>
+<given-names>PF</given-names>
+</string-name>, <string-name>
+<surname>Jennekens</surname>
+<given-names>FG</given-names>
+</string-name>, <string-name>
+<surname>Busch</surname>
+<given-names>HF</given-names>
+</string-name>. <article-title>Intravenous immunoglobulin treatment in patients with chronic inflammatory demyelinating polyneuropathy: a double blind, placebo controlled study</article-title>. <source xml:lang="en">J Neurol Neurosurg Psychiatry</source>. <year>1993</year>;<volume>56</volume>:<fpage>36</fpage>&#x02010;<lpage>39</lpage>.<pub-id pub-id-type="pmid">8429321</pub-id></mixed-citation></ref><ref id="jns12267-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jns12267-cit-0012">
+<string-name>
+<surname>Kubori</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mezaki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kaji</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>The clinical usefulness of high&#x02010;dose intravenous immunoglobulin therapy for chronic inflammatory demyelinating polyneuropathy and multifocal motor neuropathy</article-title>. <source xml:lang="en">No To Shinkei</source>. <year>1999</year>;<volume>51</volume>:<fpage>127</fpage>&#x02010;<lpage>135</lpage>.<pub-id pub-id-type="pmid">10198901</pub-id></mixed-citation></ref><ref id="jns12267-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jns12267-cit-0013">
+<string-name>
+<surname>van Schaik</surname>
+<given-names>IN</given-names>
+</string-name>, <string-name>
+<surname>van Geloven</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Bril</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Subcutaneous immunoglobulin for maintenance treatment in chronic inflammatory demyelinating polyneuropathy (the PATH study): study protocol for a randomized controlled trial</article-title>. <source xml:lang="en">Trials</source>. <year>2016</year>;<volume>17</volume>:<fpage>345</fpage>.<pub-id pub-id-type="pmid">27455854</pub-id></mixed-citation></ref><ref id="jns12267-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jns12267-cit-0014">
+<string-name>
+<surname>van Schaik</surname>
+<given-names>IN</given-names>
+</string-name>, <string-name>
+<surname>Bril</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>van Geloven</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Subcutaneous immunoglobulin for maintenance treatment in chronic inflammatory demyelinating polyneuropathy (PATH): a randomised, double&#x02010;blind, placebo&#x02010;controlled, phase 3 trial</article-title>. <source xml:lang="en">Lancet Neurol</source>. <year>2017</year>;<volume>17</volume>:<fpage>35</fpage>&#x02010;<lpage>46</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/s1474-4422(17)30378-2">https://doi.org/10.1016/s1474-4422(17)30378-2</ext-link>.<pub-id pub-id-type="pmid">29122523</pub-id></mixed-citation></ref><ref id="jns12267-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jns12267-cit-0015">
+<string-name>
+<surname>Merkies</surname>
+<given-names>IS</given-names>
+</string-name>, <string-name>
+<surname>Schmitz</surname>
+<given-names>PI</given-names>
+</string-name>, <string-name>
+<surname>Samijn</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Meche</surname>
+<given-names>FG</given-names>
+</string-name>, <string-name>
+<surname>Toyka</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name>
+<surname>van Doorn</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>Assessing grip strength in healthy individuals and patients with immune&#x02010;mediated polyneuropathies</article-title>. <source xml:lang="en">Muscle Nerve</source>. <year>2000</year>;<volume>23</volume>:<fpage>1393</fpage>&#x02010;<lpage>1401</lpage>.<pub-id pub-id-type="pmid">10951442</pub-id></mixed-citation></ref><ref id="jns12267-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jns12267-cit-0016">
+<string-name>
+<surname>Draak</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Vanhoutte</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name>
+<surname>van Nes</surname>
+<given-names>SI</given-names>
+</string-name>, et al. <article-title>Changing outcome in inflammatory neuropathies: Rasch&#x02010;comparative responsiveness</article-title>. <source xml:lang="en">Neurology</source>. <year>2014</year>;<volume>83</volume>:<fpage>2124</fpage>&#x02010;<lpage>2132</lpage>.<pub-id pub-id-type="pmid">25378677</pub-id></mixed-citation></ref><ref id="jns12267-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jns12267-cit-0017">
+<string-name>
+<surname>van Nes</surname>
+<given-names>SI</given-names>
+</string-name>, <string-name>
+<surname>Vanhoutte</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name>
+<surname>van Doorn</surname>
+<given-names>PA</given-names>
+</string-name>, et al. <article-title>Rasch&#x02010;built overall disability scale (R&#x02010;ODS) for immune&#x02010;mediated peripheral neuropathies</article-title>. <source xml:lang="en">Neurology</source>. <year>2011</year>;<volume>76</volume>:<fpage>337</fpage>&#x02010;<lpage>345</lpage>.<pub-id pub-id-type="pmid">21263135</pub-id></mixed-citation></ref><ref id="jns12267-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jns12267-cit-0018">
+<string-name>
+<surname>Latov</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Dalakas</surname>
+<given-names>MC</given-names>
+</string-name>, et al. <article-title>Timing and course of clinical response to intravenous immunoglobulin in chronic inflammatory demyelinating polyradiculoneuropathy</article-title>. <source xml:lang="en">Arch Neurol</source>. <year>2010</year>;<volume>67</volume>:<fpage>802</fpage>&#x02010;<lpage>807</lpage>.<pub-id pub-id-type="pmid">20457948</pub-id></mixed-citation></ref><ref id="jns12267-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jns12267-cit-0019">
+<string-name>
+<surname>Eftimov</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Winer</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Vermeulen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>de Haan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>van Schaik</surname>
+<given-names>IN</given-names>
+</string-name>. <article-title>Intravenous immunoglobulin for chronic inflammatory demyelinating polyradiculoneuropathy</article-title>. <source xml:lang="en">Cochrane Database Syst Rev</source>. <year>2013</year>;<fpage>CD001797</fpage>.<pub-id pub-id-type="pmid">24379104</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cas13719-bib-0010">
+ <label>10</label>
+ <mixed-citation publication-type="journal" id="cas13719-cit-0010">
+  <string-name>
+   <surname>Hermine</surname>
+   <given-names>O</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hoster</surname>
+   <given-names>E</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Walewski</surname>
+   <given-names>J</given-names>
+  </string-name>, et al. 
+  <article-title>Addition of high‐dose cytarabine to immunochemotherapy before autologous stem‐cell transplantation in patients aged 65 years or younger with mantle cell lymphoma (MCL Younger): a randomised, open‐label, phase 3 trial of the European Mantle Cell Lymphoma Network</article-title>. 
+  <source xml:lang="en">Lancet</source>. 
+  <year>2016</year>;
+  <volume>388</volume>:
+  <fpage>565</fpage>‐
+  <lpage>575</lpage>.
+  <pub-id pub-id-type="pmid">27313086</pub-id>
+ </mixed-citation>
+</ref>

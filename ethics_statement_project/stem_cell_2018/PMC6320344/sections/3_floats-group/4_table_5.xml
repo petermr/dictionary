@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab5">
+ <label>Table 5</label>
+ <caption>
+  <p>Transplantation and engraftment in patients with CD34+ count &lt; 10 cells/µl</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th>Pre-plerixafor era (
+     <italic>n</italic> = 15)
+    </th>
+    <th>Plerixafor era (
+     <italic>n</italic> = 40)
+    </th>
+    <th>
+     <italic>p</italic>-value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Patients proceeding to SCT; 
+     <italic>n</italic> (%)
+    </td>
+    <td>7/15 (47)</td>
+    <td>33/40 (83)</td>
+    <td>0.02
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>SCT patients achieving platelet engraftment</td>
+    <td>4/7 (57)</td>
+    <td>20/33 (61)</td>
+    <td>1.00
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>SCT patients achieving neutrophil engraftment</td>
+    <td>6/7 (86)</td>
+    <td>29/33 (88)</td>
+    <td>1.00
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="4">Days—Apheresis to SCT</td>
+   </tr>
+   <tr>
+    <td> 
+     <italic> n</italic>
+    </td>
+    <td>4</td>
+    <td>33</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> Mean (SD)</td>
+    <td>73 (61)</td>
+    <td>61 (50)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> Median (Min; Max)</td>
+    <td>53 (32; 208)</td>
+    <td>42 (28; 286)</td>
+    <td>0.29
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="4">Days—SCT to platelet engraftment</td>
+   </tr>
+   <tr>
+    <td>  
+     <italic>n</italic>
+    </td>
+    <td>4</td>
+    <td>33</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> Mean (SD)</td>
+    <td>20 (17)</td>
+    <td>16 (12)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> Median (Min; Max)</td>
+    <td>13 (10; 45)</td>
+    <td>14 (1; 58)</td>
+    <td>0.94
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="4">Days—SCT to neutrophil engraftment</td>
+   </tr>
+   <tr>
+    <td> 
+     <italic> n</italic>
+    </td>
+    <td>6</td>
+    <td>29</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> Mean (SD)</td>
+    <td>14 (8)</td>
+    <td>14 (4)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> Median (Min; Max)</td>
+    <td>11 (9; 31)</td>
+    <td>13 (9; 24)</td>
+    <td>0.38
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="4">LOS—SCT hospital stay</td>
+   </tr>
+   <tr>
+    <td>  
+     <italic>n</italic>
+    </td>
+    <td>9</td>
+    <td>32</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> Mean (SD)</td>
+    <td>29 (17)</td>
+    <td>29 (10)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> Median (Min; Max)</td>
+    <td>24 (6;60)</td>
+    <td>28 (21; 65)</td>
+    <td>0.42
+     <sup>b</sup>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <sup>b</sup>Wilcoxon rank sum
+  </p>
+  <p>
+   <sup>d</sup>Fisher’s exact
+  </p>
+ </table-wrap-foot>
+</table-wrap>

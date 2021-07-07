@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Adams</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Development of the proteasome inhibitor PS-341</article-title>
+  <source>Oncologist</source>
+  <year>2002</year>
+  <volume>7</volume>
+  <fpage>9</fpage>
+  <lpage>16</lpage>
+  <pub-id pub-id-type="doi">10.1634/theoncologist.7-1-9</pub-id>
+  <?supplied-pmid 11854543?>
+  <pub-id pub-id-type="pmid">11854543</pub-id>
+ </element-citation>
+</ref>

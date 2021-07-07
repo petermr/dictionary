@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wee</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Tan</surname>
+    <given-names>EH</given-names>
+   </name>
+   <name>
+    <surname>Tai</surname>
+    <given-names>BC</given-names>
+   </name>
+   <name>
+    <surname>Wong</surname>
+    <given-names>HB</given-names>
+   </name>
+   <name>
+    <surname>Leong</surname>
+    <given-names>SS</given-names>
+   </name>
+   <name>
+    <surname>Tan</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Randomized trial of radiotherapy versus concurrent chemoradiotherapy followed by adjuvant chemotherapy in patients with American Joint Committee on Cancer/International Union against cancer stage III and IV nasopharyngeal cancer of the endemic variety</article-title>
+  <source>J Clin Oncol</source>
+  <year>2005</year>
+  <volume>23</volume>
+  <issue>27</issue>
+  <fpage>6730</fpage>
+  <lpage>6738</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2005.16.790</pub-id>
+  <pub-id pub-id-type="pmid">16170180</pub-id>
+ </element-citation>
+</ref>

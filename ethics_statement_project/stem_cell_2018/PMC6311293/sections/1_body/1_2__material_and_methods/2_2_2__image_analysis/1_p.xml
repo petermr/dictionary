@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The location of BM was described in the first instance as temporal, occipital, parietal, frontal, or other (cerebellum, brain stem, diencephalon, or leptomeningeal BM) and BM were subsequently quantified within each region. MRI scans (T1 weighted sequence with intravenous administration of contrast agent) were transferred and imported into Eclipse™ radiotherapy treatment planning system (Varian Medical Systems, Palo Alto, CA), which enables smart contouring tools such as individual structures segmentation, isotropic expansions, and several Boolean operations. Left (LH) and right hippocampi (RH) were separately contoured in all patients referring to RTOG contouring atlas (Hippocampal contouring: a contouring Atlas for RTOG 0933) [
+ <xref rid="B22" ref-type="bibr">22</xref>]. An expansion of 5 mm was performed to create left and right HAZ [
+ <xref rid="B14" ref-type="bibr">14</xref>, 
+ <xref rid="B23" ref-type="bibr">23</xref>]. All BM in the proximity of HAZ were manually contoured. The centre of all metastases (as the initial focal point of metastatic settlement) was also spatially correlated to both hippocampi and HAZ. All structures were double-checked and approved by experienced radiologists. Intersections of contoured BM and LH, RH, and pertinent HAZ were analyzed using Boolean operators (
+ <xref ref-type="fig" rid="fig1">Figure 1</xref>).
+</p>

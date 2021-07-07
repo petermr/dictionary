@@ -1,0 +1,476 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7634</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6144249</article-id><article-id pub-id-type="doi">10.1002/cam4.1690</article-id><article-id pub-id-type="publisher-id">CAM41690</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Clinical Cancer Research</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Programmed environmental illumination during autologous stem cell transplantation hospitalization for the treatment of multiple myeloma reduces severity of depression: A preliminary randomized controlled trial</article-title><alt-title alt-title-type="left-running-head">VALDIMARSDOTTIR et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="cam41690-cr-0001" contrib-type="author" corresp="yes"><name><surname>Valdimarsdottir</surname><given-names>Hei&#x000f0;d&#x000ed;s B.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9976-0007</contrib-id><address><email>Heiddisb@ru.is</email></address><xref ref-type="aff" rid="cam41690-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cam41690-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam41690-cr-0002" contrib-type="author"><name><surname>Figueiro</surname><given-names>Mariana G.</given-names></name><xref ref-type="aff" rid="cam41690-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam41690-cr-0003" contrib-type="author"><name><surname>Holden</surname><given-names>William</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0498-0005</contrib-id><xref ref-type="aff" rid="cam41690-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam41690-cr-0004" contrib-type="author"><name><surname>Lutgendorf</surname><given-names>Susan</given-names></name><xref ref-type="aff" rid="cam41690-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cam41690-cr-0005" contrib-type="author"><name><surname>Wu</surname><given-names>Lisa M.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2241-9905</contrib-id><xref ref-type="aff" rid="cam41690-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cam41690-cr-0006" contrib-type="author"><name><surname>Ancoli&#x02010;Israel</surname><given-names>Sonia</given-names></name><xref ref-type="aff" rid="cam41690-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cam41690-cr-0007" contrib-type="author"><name><surname>Chen</surname><given-names>Jason</given-names></name><xref ref-type="aff" rid="cam41690-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam41690-cr-0008" contrib-type="author"><name><surname>Hoffman&#x02010;Peterson</surname><given-names>Ariella</given-names></name><xref ref-type="aff" rid="cam41690-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam41690-cr-0009" contrib-type="author"><name><surname>Granski</surname><given-names>Julia</given-names></name><xref ref-type="aff" rid="cam41690-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam41690-cr-0010" contrib-type="author"><name><surname>Prescott</surname><given-names>Nina</given-names></name><xref ref-type="aff" rid="cam41690-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam41690-cr-0011" contrib-type="author"><name><surname>Vega</surname><given-names>Alejandro</given-names></name><xref ref-type="aff" rid="cam41690-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam41690-cr-0012" contrib-type="author"><name><surname>Stern</surname><given-names>Natalie</given-names></name><xref ref-type="aff" rid="cam41690-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam41690-cr-0013" contrib-type="author"><name><surname>Winkel</surname><given-names>Gary</given-names></name><xref ref-type="aff" rid="cam41690-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam41690-cr-0014" contrib-type="author"><name><surname>Redd</surname><given-names>William H.</given-names></name><xref ref-type="aff" rid="cam41690-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="cam41690-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Psychology</named-content>
+<institution>Reykjavik University</institution>
+<named-content content-type="city">Reykjavik</named-content>
+<country country="IS">Iceland</country>
+</aff><aff id="cam41690-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Population Health Science and Policy</named-content>
+<institution>Icahn School of Medicine at Mount Sinai</institution>
+<named-content content-type="city">New York City</named-content>
+<named-content content-type="country-part">New York</named-content>
+</aff><aff id="cam41690-aff-0003">
+<label><sup>3</sup></label>
+<institution>Rensselaer Polytechnic Institute</institution>
+<named-content content-type="city">Troy</named-content>
+<named-content content-type="country-part">New York</named-content>
+</aff><aff id="cam41690-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Departments of Psychology and Brain Sciences, Obstetrics and Gynecology, and Urology</named-content>
+<institution>University of Iowa College of Liberal Arts and Sciences</institution>
+<named-content content-type="city">Iowa City</named-content>
+<named-content content-type="country-part">Iowa</named-content>
+</aff><aff id="cam41690-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Medical Social Sciences</named-content>
+<institution>Northwestern University Feinberg School of Medicine</institution>
+<named-content content-type="city">Chicago</named-content>
+<named-content content-type="country-part">Illinois</named-content>
+</aff><aff id="cam41690-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Psychiatry</named-content>
+<institution>University of California San Diego</institution>
+<named-content content-type="city">La Jolla</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence:</bold> Hei&#x000f0;d&#x000ed;s B. Valdimarsdottir, Psychology, Reykjavik University, Mentaveg 1, 101 Reykjavik, Iceland (<email>Heiddisb@ru.is</email>).</corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>8</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2018</year></pub-date><volume>7</volume><issue>9</issue><issue-id pub-id-type="doi">10.1002/cam4.2018.7.issue-9</issue-id><fpage>4345</fpage><lpage>4353</lpage><history><date date-type="received"><day>09</day><month>5</month><year>2018</year></date><date date-type="rev-recd"><day>31</day><month>5</month><year>2018</year></date><date date-type="accepted"><day>16</day><month>6</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Cancer Medicine</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:CAM4-7-4345.pdf"/><abstract id="cam41690-abs-0001"><title>Abstract</title><sec id="cam41690-sec-0001"><title>Background</title><p>Over a third of multiple myeloma (<styled-content style="fixed-case">MM</styled-content>) patients report clinical levels of depression during autologous stem cell transplant (<styled-content style="fixed-case">ASCT</styled-content>) hospitalization. We report preliminary results from a randomized clinical trial investigating the effect of Programmed Environmental Illumination (<styled-content style="fixed-case">PEI</styled-content>) of hospital rooms on depression.</p></sec><sec id="cam41690-sec-0002"><title>Methods</title><p>Patients (N&#x000a0;=&#x000a0;187) scheduled to receive an <styled-content style="fixed-case">ASCT</styled-content> were assessed for eligibility. Those who met study eligibility criteria (n&#x000a0;=&#x000a0;44) were randomly assigned to one of two <styled-content style="fixed-case">PEI</styled-content> conditions involving delivery of either circadian active bright white light (<styled-content style="fixed-case">BWL</styled-content>) or circadian inactive dim white light (<styled-content style="fixed-case">DWL</styled-content>) throughout the room from 7 to 10&#x000a0;<sc>am</sc> daily during hospitalization. Patients completed the Center for Epidemiological Studies Depression Scale (<styled-content style="fixed-case">CES</styled-content>&#x02010;D) prior to hospitalization, at days 2 and 7 post&#x02010;transplant, and on the third day of engraftment.</p></sec><sec id="cam41690-sec-0003"><title>Results</title><p>General linear model analyses revealed no difference between the groups in <styled-content style="fixed-case">CES</styled-content>&#x02010;D total score at baseline (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.7859). A longitudinal linear mixed model analysis revealed a significant interaction between time of assessment and light condition [<italic>F</italic>(3,107)&#x000a0;=&#x000a0;2.90; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.0386; &#x00273;<sup>2&#x000a0;</sup>=&#x000a0;0.08)], indicating that <styled-content style="fixed-case">PEI</styled-content> prevented the development of depression during hospitalization, with effects reaching significance by the third day of engraftment. At the third day of engraftment, 68.4% of the participants in the <styled-content style="fixed-case">DWL</styled-content> comparison condition met the criteria for clinically significant depression compared to 42.1% in the <styled-content style="fixed-case">BWL</styled-content> condition.</p></sec><sec id="cam41690-sec-0004"><title>Conclusion</title><p>These findings demonstrate that <styled-content style="fixed-case">PEI</styled-content> using <styled-content style="fixed-case">BWL</styled-content> during <styled-content style="fixed-case">MM ASCT</styled-content> hospitalization is effective in reducing the development of depression. Future studies should examine the mechanisms whereby <styled-content style="fixed-case">PEI</styled-content> improves depression.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cam41690-kwd-0001">Autologous Stem Cell Transplant</kwd><kwd id="cam41690-kwd-0002">Bright Light Therapy</kwd><kwd id="cam41690-kwd-0003">Circadian Rhythms</kwd><kwd id="cam41690-kwd-0004">Multiple Myeloma</kwd></kwd-group><funding-group><award-group><funding-source>Division of Cancer Prevention, National Cancer Institute</funding-source><award-id>5R21CA209419&#x02010;02</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="1"/><page-count count="9"/><word-count count="5684"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>cam41690</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.9 mode:remove_FC converted:19.09.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam41690-cit-1001">
+<string-name>
+<surname>Valdimarsdottir</surname>
+<given-names>HB</given-names>
+</string-name>, <string-name>
+<surname>Figueiro</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Holden</surname>
+<given-names>W</given-names>
+</string-name>, et&#x000a0;al. <article-title>Programmed environmental illumination during autologous stem cell transplantation hospitalization for the treatment of multiple myeloma reduces severity of depression: A preliminary randomized controlled trial</article-title>. <source xml:lang="en">Cancer Med</source>. <year>2018</year>;<volume>7</volume>:<fpage>4345</fpage>&#x02013;<lpage>4353</lpage>. <pub-id pub-id-type="doi">10.1002/cam4.1690</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="cam41690-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Autologous stem cell transplantation (ASCT) is the standard of care for newly diagnosed multiple myeloma (MM) patients determined able to withstand high&#x02010;dose chemotherapy.<xref rid="cam41690-bib-0001" ref-type="ref">1</xref> ASCT hospitalization is associated with high levels of both clinically diagnosed depression and self&#x02010;reported depressive symptoms. This depression rises rapidly within the first week of hospitalization.<xref rid="cam41690-bib-0002" ref-type="ref">2</xref>, <xref rid="cam41690-bib-0003" ref-type="ref">3</xref>, <xref rid="cam41690-bib-0004" ref-type="ref">4</xref> One study found that while 7.8% of patients were clinically depressed during the week preceding hospitalization, 36.7% of patients were clinically depressed by day eight of hospitalization.<xref rid="cam41690-bib-0004" ref-type="ref">4</xref>
+</p><p>Depression during ASCT hospitalization has been associated with higher levels of post&#x02010;traumatic stress disorder, lower quality of life, and enduring depression in the months and years following the transplant.<xref rid="cam41690-bib-0005" ref-type="ref">5</xref>, <xref rid="cam41690-bib-0006" ref-type="ref">6</xref>, <xref rid="cam41690-bib-0007" ref-type="ref">7</xref> Furthermore, clinical depression following ASCT predicts mortality;<xref rid="cam41690-bib-0003" ref-type="ref">3</xref>, <xref rid="cam41690-bib-0008" ref-type="ref">8</xref> one study found that patients with major depression were three times more likely to die between 6 and 12&#x000a0;months following ASCT than those without major depression.<xref rid="cam41690-bib-0008" ref-type="ref">8</xref>
+</p><p>Despite the high levels of depression during ASCT hospitalization and its adverse effects on psychological adjustment and mortality following ASCT, depression is underdiagnosed and undertreated among MM patients.<xref rid="cam41690-bib-0009" ref-type="ref">9</xref> Moreover, current approaches to treating depression during ASCT hospitalization are limited. Pharmacological interventions, such as antidepressant medications, pose potential risks for interaction with specific drugs used during the ASCT and show little benefit over placebo.<xref rid="cam41690-bib-0010" ref-type="ref">10</xref> Although nonpharmacological interventions such as cognitive behavioral therapy and exercise are effective in treating depression in cancer patients,<xref rid="cam41690-bib-0011" ref-type="ref">11</xref>, <xref rid="cam41690-bib-0012" ref-type="ref">12</xref> they are extremely difficult to implement during ASCT hospitalization due to severe patient debility. Patients are rendered emotionally and physically exhausted; they have little interest in food, television, or even conversing with family members.</p><p>An easy to deliver, low&#x02010;burden and inexpensive intervention to alleviate depression is light therapy. Light therapy has been extensively used to treat seasonal affective disorder (SAD),<xref rid="cam41690-bib-0013" ref-type="ref">13</xref> and two recent meta&#x02010;analyses showed that light therapy is effective in reducing nonseasonal depression as well.<xref rid="cam41690-bib-0014" ref-type="ref">14</xref>, <xref rid="cam41690-bib-0015" ref-type="ref">15</xref> One hypothesized mechanism through which light therapy reduces depression involves the promotion of circadian entrainment. Individuals suffering from depression exhibit circadian disruption such as disturbances in the timing of sleep, melatonin, and cortisol rhythms.<xref rid="cam41690-bib-0016" ref-type="ref">16</xref> Cancer and its treatment are also associated with circadian disruption.<xref rid="cam41690-bib-0017" ref-type="ref">17</xref>, <xref rid="cam41690-bib-0018" ref-type="ref">18</xref>, <xref rid="cam41690-bib-0019" ref-type="ref">19</xref> Given that light is one of the strongest <italic>zeitgebers</italic> for the circadian system, it is logical to hypothesize that a lighting system designed to promote circadian entrainment in a hospital setting may reduce depressive symptoms.</p><p>Previous studies have administered bright white light (BWL) in various forms including handheld light boxes that deliver 2500&#x000a0;lux at the eye for 2&#x000a0;hours or 10&#x000a0;000&#x000a0;lux at the eye for 30&#x000a0;minutes to treat both seasonal and nonseasonal depression.<xref rid="cam41690-bib-0013" ref-type="ref">13</xref>, <xref rid="cam41690-bib-0015" ref-type="ref">15</xref> The retinal mechanisms underlying circadian phototransduction (ie, how the retina converts light signals into electrical signals for the master clock and regulates circadian rhythms) have recently been elucidated. It is now well established that suppression of melatonin synthesis, a marker of the clock, is maximally sensitive to short&#x02010;wavelength light with a peak around 460&#x000a0;nm.</p><p>Rea and colleagues proposed a mathematical model of human circadian phototransduction based upon published spectral sensitivity data,<xref rid="cam41690-bib-0020" ref-type="ref">20</xref>, <xref rid="cam41690-bib-0021" ref-type="ref">21</xref> retinal neurophysiology, and neuroanatomy, including the operating characteristics of circadian phototransduction, ranging from response threshold to saturation.<xref rid="cam41690-bib-0022" ref-type="ref">22</xref>, <xref rid="cam41690-bib-0023" ref-type="ref">23</xref>, <xref rid="cam41690-bib-0024" ref-type="ref">24</xref> According to the Rea model, spectral irradiance at the cornea is first converted into circadian light (CL<sub>A</sub>) reflecting the spectral sensitivity of the circadian system that is then transformed into a circadian stimulus (CS). The CS value reflects the absolute sensitivity of the circadian system. Thus, CS is a measure of the <italic>effectiveness</italic> of retinal light to stimulate the human circadian system, as measured by acute melatonin suppression, from threshold (CS&#x000a0;=&#x000a0;0.1 or 10% melatonin suppression) to saturation (CS&#x000a0;=&#x000a0;0.7, or 70% melatonin suppression). It is important to note that CL<sub>A</sub> and CS characterize the spectral and absolute sensitivities of light&#x02010;induced nocturnal melatonin suppression via the biological clock. CL<sub>A</sub> and CS are assumed to characterize the spectral and absolute sensitivities of the entire human circadian system because the suprachiasmatic nucleus (SCN) is the central link in a wide variety of daily regulatory functions such as hormone production and sleep. For the purpose of this study, it was accepted that the spectral and absolute sensitivities of nocturnal melatonin suppression are similar to those controlling light&#x02010;induced changes of circadian timing, or circadian entrainment.</p><p>Disrupted circadian rhythms co&#x02010;occur with depression, both of which manifest through insomnia and early morning awakening. Indeed, these are common diagnostic criteria for clinical depression.<xref rid="cam41690-bib-0016" ref-type="ref">16</xref> Sleep propensity rhythms closely associate with endogenous melatonin rhythms, and melatonin acts as both a soporific (sleep&#x02010;promoting), and chronobiotic (circadian&#x02010;entraining) agent. It is unclear, however, whether depressed individuals exhibit increased or decreased melatonin secretion, with studies supporting both notions.<xref rid="cam41690-bib-0025" ref-type="ref">25</xref> Interestingly, the antidepressant action of exogenous melatonin has been robustly demonstrated in animal studies.<xref rid="cam41690-bib-0025" ref-type="ref">25</xref>, <xref rid="cam41690-bib-0026" ref-type="ref">26</xref>, <xref rid="cam41690-bib-0027" ref-type="ref">27</xref> Agomelatine, a widely used antidepressant and structural derivative of melatonin, is a melatonin receptor (MT1 &#x00026; MT2) agonist as well as a serotonin receptor (5&#x02010;HT<sub>2c</sub>) antagonist. Whether its antidepressant action can be attributed to a synergistic effect or to one of its receptor interactions independently is unknown.<xref rid="cam41690-bib-0028" ref-type="ref">28</xref> Melatonin's relationship to depressed mood may instead be due to its chronobiotic activity. A healthy endogenous melatonin rhythm may be necessary, but not sufficient, to relieve depression with underlying circadian rhythm disruption. Melatonin, whether endogenous or exogenous, will synchronize the SCN; therefore, it is imperative to control its timing in order to entrain circadian rhythms. This can be accomplished using light therapy.</p><p>In the present study, we investigated the use of a novel ambient lighting intervention, Programmed Environmental Illumination (PEI) using freestanding light fixtures that delivered either Bright White Light (BWL) or Dim White Light (DWL) daily during hospitalization. The BWL delivered a CS&#x000a0;&#x02265;&#x000a0;0.30 at the eye between 7 and 10&#x000a0;<sc>am</sc> daily during hospitalization. A similar lighting system delivering a CS&#x000a0;&#x02265;&#x000a0;0.30 showed a significant improvement in sleep, mood, and behavior in our field research with Alzheimer's disease patients and other populations.<xref rid="cam41690-bib-0023" ref-type="ref">23</xref>, <xref rid="cam41690-bib-0029" ref-type="ref">29</xref>, <xref rid="cam41690-bib-0030" ref-type="ref">30</xref>, <xref rid="cam41690-bib-0031" ref-type="ref">31</xref> Relative to other light delivery systems, such as light boxes or light goggles, PEI requires no patient effort; the patient is able to remain passive in bed as the circadian stimulating light illuminates the room.</p><p>The present research investigates the impact of delivering circadian active light (CS&#x000a0;=&#x000a0;0.3 BWL) from 7 to 10&#x000a0;<sc>am</sc> to MM patients during their ASCT hospital stay compared to patients receiving circadian inactive light (CS&#x000a0;=&#x000a0;0.1, DWL). We hypothesized that participants exposed to the BWL would experience lower levels of depression during hospitalization than those exposed to the DWL. These analyses are part of a larger program of research examining the effects of PEI in treating cancer&#x02010;related fatigue during and following ASCT.</p></sec><sec id="cam41690-sec-0006"><label>2</label><title>METHODS</title><sec id="cam41690-sec-0007"><label>2.1</label><title>Participants</title><p>Participant flow through the study is shown in Figure&#x000a0;<xref rid="cam41690-fig-0001" ref-type="fig">1</xref>. Data were analyzed from 44&#x000a0;MM patients undergoing ASCT at Mount Sinai Hospital in New York, NY. Eligibility criteria included: first ASCT; 21&#x000a0;years of age or older; and English language proficiency. Exclusion criteria included: previous stem cell transplantation (autologous or allogeneic), pregnancy, eye diseases limiting the patient's ability to process light (eg, untreated cataracts, severe glaucoma, macular degeneration, blindness, pupil dilation problems, or retina damage), secondary cancer diagnosis within the last 5&#x000a0;years, severe sleep disorders (eg, Narcolepsy), history of bipolar disorder or manic episodes (a contra&#x02010;indication for light treatment), severe psychological impairment (eg, hospitalization for depressive episode in the past 12&#x000a0;months), and/or previous use of light therapy to alleviate fatigue or depressive symptoms. The Mt. Sinai Program for the Protection of Human Subjects approved the study.</p><fig fig-type="Figure" xml:lang="en" id="cam41690-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>CONSORT: trial participant flow.</p></caption><graphic id="nlm-graphic-3" xlink:href="CAM4-7-4345-g001"/></fig></sec><sec id="cam41690-sec-0008"><label>2.2</label><title>Procedure</title><p>Study personnel approached MM patients during their regular clinical visits. Study personnel described the study, obtained signed consent and administered the screening/eligibility measures questionnaires. Participants who qualified for the study were randomized using a block randomization table to either the bright white light (BWL; n<italic>&#x000a0;</italic>=<italic>&#x000a0;</italic>23) or the dim white light comparison group (DWL; n<italic>&#x000a0;</italic>=<italic>&#x000a0;</italic>21) group.<xref rid="cam41690-bib-0032" ref-type="ref">32</xref> Following randomization, an un&#x02010;blinded study coordinator programmed each light fixture to the correct light condition prior to installation. All conditions were concealed from both the patient and the blinded study coordinators who administered the psychological questionnaires and communicated with patients. Patients completed the Center for Epidemiological Studies Depression scale (CES&#x02010;D) independently using a study iPad. Exceptions were made for patients experiencing debilitating fatigue, in which case the surveys were administered orally. Blinded coordinators did not enter the hospital rooms while the light fixtures were turned on. Study participants completed CES&#x02010;D at four timepoints: baseline, prior to hospitalization, day 2 post&#x02010;transplant, day 7 post&#x02010;transplant, and the third day (approximately day 14 post&#x02010;transplant) of engraftment. Engraftment was defined as the period where the patient's absolute neutrophil count is above 500&#x000a0;cells/mm<sup>3</sup>. After three consecutive days above this value, the patient is considered fully engrafted; this is a marker of successful transplantation required for discharge.</p></sec><sec id="cam41690-sec-0009"><label>2.3</label><title>Programmed environmental illumination (PEI)</title><p>Acuity Brands provided freestanding light fixtures (Figure&#x000a0;<xref rid="cam41690-fig-0002" ref-type="fig">2</xref>) delivering a CS value of 0.3 for the active, bright white light (BWL) condition (1300&#x000a0;lux at the eye level of the patients) and a CS of 0.1 for the dim white light (DWL) condition (90&#x000a0;lux at the eye level of the patients). Therefore, the BWL was designed to deliver circadian active light while the DWL was designed to deliver circadian inactive light. Ambient light illuminated the entire room. As is shown in Figure&#x000a0;<xref rid="cam41690-fig-0003" ref-type="fig">3</xref>, both BWL (<italic>M</italic>&#x000a0;=&#x000a0;0.339, SEM&#x000a0;=&#x000a0;0.06) and DWL (<italic>M</italic>&#x000a0;=&#x000a0;0.116, SEM&#x000a0;=&#x000a0;0.055) were successful in delivering light at the intended CS values. The light fixtures, previously programmed to the respective light condition, remained in the patients' hospital rooms for the duration of hospitalization and were calibrated to turn on every morning from 7 to 10&#x000a0;<sc>am</sc>. During this time, patients were instructed to go about their normal activities, which could include leaving their hospital room. Based on prior research, 30&#x000a0;minutes a day of circadian active bright white light was sufficient in reducing fatigue.<xref rid="cam41690-bib-0033" ref-type="ref">33</xref> A 3&#x02010;hour time frame was chosen to ensure at least 30&#x000a0;minutes of exposure regardless of activity from 7 to 10&#x000a0;<sc>am</sc>. In order to verify that the correct dose of light was received, Daysimeters, light meters calibrated to measure CS, were placed behind the patient's bed, on the light fixture, and on their chest, worn as a pendant by the patient during waking hours for the entire hospital stay. The Daysimeter is a research tool manufactured by the Lighting Research Center at Rensselaer Polytechnic Institute; they are not commercially available.<xref rid="cam41690-bib-0034" ref-type="ref">34</xref> As hypothesized, those in the BWL condition received light of a significantly (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) higher CS value than those in the DWL (Figure&#x000a0;<xref rid="cam41690-fig-0003" ref-type="fig">3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="cam41690-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Freestanding light fixture</p></caption><graphic id="nlm-graphic-5" xlink:href="CAM4-7-4345-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="cam41690-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Mean&#x000a0;&#x000b1;&#x000a0;Standard Deviation of <styled-content style="fixed-case">CS</styled-content> obtained from the bed Daysimeters values included are from the hours when the lighting intervention was programmed to be energized. As hypothesized, there was a significant difference in <styled-content style="fixed-case">CS</styled-content> values received in the morning between the two groups</p></caption><graphic id="nlm-graphic-7" xlink:href="CAM4-7-4345-g003"/></fig></sec><sec id="cam41690-sec-0010"><label>2.4</label><title>Measures</title><p>Depressive symptoms were measured using the 20&#x02010;item Center for Epidemiologic Studies Depression Scale (CES&#x02010;D).<xref rid="cam41690-bib-0035" ref-type="ref">35</xref> A cutoff score of 16 or greater identifies individuals at risk for clinical depression. The CES&#x02010;D has been shown to be a reliable measure for assessing the number, types, and duration of depressive symptoms across racial, gender, and age categories (Cronbach's alpha &#x02265;0.85). Concurrent validity by clinical and self&#x02010;report criteria as well as substantial evidence of construct validity has been demonstrated. The CES&#x02010;D was reliable in the present study (Cronbach's alpha&#x000a0;=&#x000a0;0.81, N&#x000a0;=&#x000a0;44) and has been established as a valid and reliable measure of depression among cancer patients.<xref rid="cam41690-bib-0036" ref-type="ref">36</xref>
+</p></sec><sec id="cam41690-sec-0011"><label>2.5</label><title>Statistical analysis</title><p>Using an intent&#x02010;to&#x02010;treat analysis and data from all randomized participants, the BWL condition was compared to a DWL condition. To determine equivalence between the BWL and DWL groups at baseline, a general linear model (GLM) was conducted. For the main analyses, a repeated&#x02010;measures linear mixed model (LMM) was used to evaluate change in depressive symptomatology over time using a random intercepts model. This approach makes use of all the data that each patient provided in parameter estimation and significance testing, even if some of the repeated measures are missing.</p><p>Although the present research represented a trial effort to determine the effect size that would guide power considerations in a larger study, we used the results of Redd et&#x000a0;al<xref rid="cam41690-bib-0033" ref-type="ref">33</xref> to obtain an estimate of the effect size for the time by treatment condition interaction associated with the depression measure in the present pilot investigation. In the Redd et&#x000a0;al<xref rid="cam41690-bib-0033" ref-type="ref">33</xref> study of fatigue in stem cell transplantation survivors, the interaction effect size was 0.98, indicating that a sample size of 60 patients would be sufficient to obtain a good estimate of effect size for power using the data from the present study.<xref rid="cam41690-bib-0037" ref-type="ref">37</xref> In the present report, 44 patients were evaluated as part of an interim analysis.</p></sec></sec><sec id="cam41690-sec-0012"><label>3</label><title>RESULTS</title><sec id="cam41690-sec-0013"><label>3.1</label><title>Participant characteristics</title><p>Table&#x000a0;<xref rid="cam41690-tbl-0001" ref-type="table">1</xref> summarizes the sample's descriptive demographic and medical data, indicating that most study participants were male (59%), relatively well educated (65% reported a college or graduate degree), upper income (50% reported incomes above $80&#x000a0;000 per year), and either married or in a marriage equivalent (64%). The majority (59%) were Caucasian, and 27% self&#x02010;identified as Black or African American. At the time of transplant, the majority of participants (54%) had reached a very good partial response to treatment, were not on depression medications (91%), and were stage I (50%) on the International Staging System (ISS). Using the HCT comorbidity index, 59% had scores at 2 points or below. Importantly, there were no differences between the groups on demographic or medical variables (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.2).</p><table-wrap id="cam41690-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Patient demographic and medical variables</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">BWL</th><th style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">DWL</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">n / (%)</th><th align="left" valign="top" rowspan="1" colspan="1">n / (%)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Gender (n&#x000a0;=&#x000a0;44)</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;23</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;21</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">14 (61)</td><td align="left" rowspan="1" colspan="1">12 (57)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">9 (39)</td><td align="left" rowspan="1" colspan="1">9 (43)</td></tr><tr><td align="left" rowspan="1" colspan="1">Race/Ethnicity (n&#x000a0;=&#x000a0;44)</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;23</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;21</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Black or African&#x02010;American</td><td align="left" rowspan="1" colspan="1">9 (39)</td><td align="left" rowspan="1" colspan="1">3 (14)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">White</td><td align="left" rowspan="1" colspan="1">12 (52)</td><td align="left" rowspan="1" colspan="1">14 (67)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">2 (9)</td><td align="left" rowspan="1" colspan="1">4 (19)</td></tr><tr><td align="left" rowspan="1" colspan="1">Marital status (n&#x000a0;=&#x000a0;44)</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;23</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;21</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not Married</td><td align="left" rowspan="1" colspan="1">10 (43)</td><td align="left" rowspan="1" colspan="1">6 (29)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Currently married/marriage equivalent</td><td align="left" rowspan="1" colspan="1">13 (57)</td><td align="left" rowspan="1" colspan="1">15 (71)</td></tr><tr><td align="left" rowspan="1" colspan="1">Children at home (n&#x000a0;=&#x000a0;40)</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;21</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;19</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">15 (71)</td><td align="left" rowspan="1" colspan="1">8 (42)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">6 (29)</td><td align="left" rowspan="1" colspan="1">11 (58)</td></tr><tr><td align="left" rowspan="1" colspan="1">Education (n&#x000a0;=&#x000a0;43)</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;23</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;20</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">High school or less</td><td align="left" rowspan="1" colspan="1">4 (17)</td><td align="left" rowspan="1" colspan="1">5 (25)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Partial college</td><td align="left" rowspan="1" colspan="1">2 (9)</td><td align="left" rowspan="1" colspan="1">4 (20)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">College graduate</td><td align="left" rowspan="1" colspan="1">17 (74)</td><td align="left" rowspan="1" colspan="1">11 (55)</td></tr><tr><td align="left" rowspan="1" colspan="1">Employed (n&#x000a0;=&#x000a0;44)</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;23</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;21</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">13 (57)</td><td align="left" rowspan="1" colspan="1">12 (57)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">10 (43)</td><td align="left" rowspan="1" colspan="1">9 (43)</td></tr><tr><td align="left" rowspan="1" colspan="1">Annual income (in dollars) (n&#x000a0;=&#x000a0;40)</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;20</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;20</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Below 80&#x000a0;000</td><td align="left" rowspan="1" colspan="1">8 (40)</td><td align="left" rowspan="1" colspan="1">12 (60)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Above 80&#x000a0;000</td><td align="left" rowspan="1" colspan="1">12 (60)</td><td align="left" rowspan="1" colspan="1">8 (40)</td></tr><tr><td align="left" rowspan="1" colspan="1">Pre&#x02010;HCT disease status (n&#x000a0;=&#x000a0;44)</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;23</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;21</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No evidence of disease</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0 (0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Complete response</td><td align="left" rowspan="1" colspan="1">1 (4)</td><td align="left" rowspan="1" colspan="1">1 (5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Near complete response</td><td align="left" rowspan="1" colspan="1">1 (4)</td><td align="left" rowspan="1" colspan="1">1 (5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Very good partial response</td><td align="left" rowspan="1" colspan="1">14 (61)</td><td align="left" rowspan="1" colspan="1">10 (48)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Partial response</td><td align="left" rowspan="1" colspan="1">6 (26)</td><td align="left" rowspan="1" colspan="1">6 (28)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Stable disease</td><td align="left" rowspan="1" colspan="1">1 (4)</td><td align="left" rowspan="1" colspan="1">1 (5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Progressive disease</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">2 (9)</td></tr><tr><td align="left" rowspan="1" colspan="1">HCT comorbidity index total score (n&#x000a0;=&#x000a0;44)</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;23</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;21</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">4 (17)</td><td align="left" rowspan="1" colspan="1">4 (19)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">2 (9)</td><td align="left" rowspan="1" colspan="1">1 (5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">8 (35)</td><td align="left" rowspan="1" colspan="1">7 (33)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">4 (17)</td><td align="left" rowspan="1" colspan="1">4 (19)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">1 (5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">1 (4)</td><td align="left" rowspan="1" colspan="1">2 (9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">1 (4)</td><td align="left" rowspan="1" colspan="1">1 (5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">2 (9)</td><td align="left" rowspan="1" colspan="1">1 (5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">1 (4)</td><td align="left" rowspan="1" colspan="1">0 (0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression medication Pre&#x02010;HCT</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;23</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;21</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">21 (91)</td><td align="left" rowspan="1" colspan="1">19 (90)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">2 (9)</td><td align="left" rowspan="1" colspan="1">2 (10)</td></tr><tr><td align="left" rowspan="1" colspan="1">ISS stage</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;23</td><td align="left" rowspan="1" colspan="1">n&#x000a0;=&#x000a0;21</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">13 (57)</td><td align="left" rowspan="1" colspan="1">9 (42)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">1 (4)</td><td align="left" rowspan="1" colspan="1">5 (24)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">1 (4)</td><td align="left" rowspan="1" colspan="1">1 (5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Unspecified</td><td align="left" rowspan="1" colspan="1">8 (35)</td><td align="left" rowspan="1" colspan="1">6 (29)</td></tr></tbody></table><table-wrap-foot><fn id="cam41690-note-0001"><p>Table reports tracked demographic and medical variables and their prevalence within the sample. All demographic information was gathered through self&#x02010;report questionnaires. All medical information was gathered through medical chart screening, including a pretransplant physician assessment that included the HCT comorbidity score, ISS stage and status of disease. Chi&#x02010;square analyses revealed no significant differences between the groups on any demographic or medical variables.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cam41690-sec-0014"><label>3.2</label><title>Expectancy</title><p>The credibility/expectancy scale was administered at baseline for all participants and at day 2 post&#x02010;transplant and third day of engraftment (both following patient exposure to conditions) for a subset of the participants. All data were analyzed for differences. There were no significant differences between the BWL and DWL groups at baseline [<italic>F</italic>(1,41)&#x000a0;=&#x000a0;0.723; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.400], day 2 post&#x02010;transplant [<italic>F</italic>(1,11)&#x000a0;=&#x000a0;0.010; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.923], and on the third day of engraftment [<italic>F</italic>(1,11)&#x000a0;=&#x000a0;0.494; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.497].</p></sec><sec id="cam41690-sec-0015"><label>3.3</label><title>Depressive symptoms</title><p>The GLM analysis of the CES&#x02010;D total score revealed no significant difference in depressive symptoms between the BWL (n&#x000a0;=&#x000a0;23, <italic>M</italic>&#x000a0;=&#x000a0;9.26, SD&#x000a0;=&#x000a0;7.03) and DWL (n&#x000a0;=&#x000a0;21, <italic>M</italic>&#x000a0;=&#x000a0;9.86, SD&#x000a0;=&#x000a0;7.43) groups at baseline (<italic>P</italic>&#x000a0;=&#x000a0;0.7859).&#x000a0;The repeated&#x02010;measures LMM indicated that the main effect of time on CES&#x02010;D total score was significant [<italic>F</italic>(3,110)&#x000a0;=&#x000a0;13.35;&#x000a0;<italic>P</italic>&#x000a0;&#x0003c; 0.0001]&#x000a0;. Specifically, there was an increase in depressive symptoms for all study participants during transplant hospitalization (Mean Baseline&#x000a0;=&#x000a0;9.54; Mean Day 2&#x02014;Post&#x02010;Transplant&#x000a0;=&#x000a0;12.09; Mean Day 7&#x02014;Post&#x02010;Transplant&#x000a0;=&#x000a0;16.18; Mean Day 14&#x02014;Engraftment&#x000a0;=&#x000a0;18.97). The interaction of the time by treatment condition effect was significant&#x000a0;[<italic>F</italic>(3,107)&#x000a0;=&#x000a0;2.90; <italic>P</italic>&#x000a0;=&#x000a0;0.0386], with a medium effect size (&#x00273;<sup>2&#x000a0;</sup>=&#x000a0;0.08). This result means that changes in depression over time differed depending on whether the patient was exposed to either the DWL or BWL condition. A graphical plot of the interaction (Figure&#x000a0;<xref rid="cam41690-fig-0004" ref-type="fig">4</xref>) illustrates how the BWL and DWL groups differed in their trajectories of depressive symptoms over the study period. Figure&#x000a0;<xref rid="cam41690-fig-0004" ref-type="fig">4</xref> shows a greater increase in depressive symptoms for patients in the DWL condition compared to patients in the BWL condition beginning at day 7 post&#x02010;transplant&#x000a0;and peaking on the third day of engraftment. Additionally, Figure&#x000a0;<xref rid="cam41690-fig-0004" ref-type="fig">4</xref> shows that the mean levels of depression were below the clinical depression cutoff of 16 on the CES&#x02010;D scale in the BWL group at all timepoints, while this was not the case in the DWL group.</p><fig fig-type="Figure" xml:lang="en" id="cam41690-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Mean &#x000b1; Standard Deviation of CES&#x02010;D scores obtained at each time point. As hypothesized, there was a significant difference in CES&#x02010;D total scores by Day 14 post&#x02010;transplant (day 3 of engraftment).</p></caption><graphic id="nlm-graphic-9" xlink:href="CAM4-7-4345-g004"/></fig></sec><sec id="cam41690-sec-0016"><label>3.4</label><title>Clinical depression</title><p>At baseline, 28.6% and 17.4% of the participants in the DWL and BWL, respectively, were above the clinical depression cutoff of 16 on the CES&#x02010;D. At day 7 post&#x02010;transplant, about 40% of participants in both groups scored above the clinical cutoff. However, at the third day of engraftment, 68.4% of participants in the DWL group scored above the clinical cutoff compared to 42.1% of the participants in the BWL group.</p></sec></sec><sec id="cam41690-sec-0017"><label>4</label><title>DISCUSSION</title><p>The present study examined the effectiveness of Programmed Environmental Illumination (PEI) using freestanding light fixtures in the hospital room delivering circadian active bright white light (BWL) from 7 to 10&#x000a0;<sc>am</sc> daily to reduce depressive symptoms during ASCT. PEI using BWL reduced the severity of depressive symptoms during hospitalization compared to circadian inactive dim white light (DWL). To our knowledge, this is the first study to show beneficial effects of PEI on depressive symptoms among MM patients undergoing ASCT.</p><p>The BWL and DWL groups differed in both their trajectory and final levels of depressive symptoms during hospitalization. Mean levels of depressive symptoms increased sharply during the first week of hospitalization in both groups, then leveled off in the BWL group but continued to increase in the DWL condition until the third day of engraftment. Mean levels of depression were below the clinical depression cutoff on the CES&#x02010;D scale in the BWL group at all timepoints. However, the DWL group remained above the clinical cutoff beginning at day 7.</p><p>Depressive symptoms that met the CES&#x02010;D clinical cutoff criteria for depression showed a similar pattern. In both the BWL and the DWL groups, the proportion of patients meeting the clinical cutoff criteria increased from approximately 20% at baseline to approximately 40% at day 7 post&#x02010;transplant. The proportion of patients meeting the depression cutoff criteria then continued to increase in the DWL group, but remained stable the BWL group with 68.4% and 42.1% meeting the depression cutoff criteria, respectively, at the third day of engraftment.</p><p>It is important to draw attention to the impact of PEI on depression in relation to how sick ASCT patients are during their hospitalization. As mentioned in the introduction, their exhaustion renders them able to do very little as their hospitalization continues. Both patients and physicians attribute the hospitalization period with the highest degrees of distress, often viewing it as unmodifiable.<xref rid="cam41690-bib-0038" ref-type="ref">38</xref>, <xref rid="cam41690-bib-0039" ref-type="ref">39</xref> The capability of PEI to prevent the worsening of depressive symptoms indicates real clinical benefit.</p><p>The discovery of a clinically significant benefit from PEI in the prevention of escalating depression adds to the growing literature demonstrating that BWL can effectively treat depressive symptoms in diverse populations.<xref rid="cam41690-bib-0022" ref-type="ref">22</xref>, <xref rid="cam41690-bib-0040" ref-type="ref">40</xref>, <xref rid="cam41690-bib-0041" ref-type="ref">41</xref>, <xref rid="cam41690-bib-0042" ref-type="ref">42</xref> These results have the potential for major clinical implications as depressive symptoms during hospitalization affect not only patient quality of life<xref rid="cam41690-bib-0005" ref-type="ref">5</xref>, <xref rid="cam41690-bib-0007" ref-type="ref">7</xref> but also increases their risk of subsequent morbidity and mortality.<xref rid="cam41690-bib-0008" ref-type="ref">8</xref>
+</p><p>The findings may also have major implications for lighting in hospital rooms. Circadian active ambient light in the hospital room may not only reduce depressive symptoms but also other common symptoms of circadian disruption experienced by hospitalized cancer patients including fatigue and sleep disturbances. Our previous studies have shown that systematic light exposure delivering BWL by light book reduced fatigue and improved sleep efficiency among cancer survivors.<xref rid="cam41690-bib-0033" ref-type="ref">33</xref>, <xref rid="cam41690-bib-0043" ref-type="ref">43</xref> We also found that PEI reduced depression in Alzheimer's disease patients.<xref rid="cam41690-bib-0022" ref-type="ref">22</xref>, <xref rid="cam41690-bib-0023" ref-type="ref">23</xref>, <xref rid="cam41690-bib-0024" ref-type="ref">24</xref> Future studies should include comprehensive measures of common side effects during hospitalization as well as biological measures of circadian rhythm disruption to allow for examination of the mechanisms whereby light might impact these side effects.</p><p>The results reported here must be interpreted in the context of its limitations. First, the study is preliminary with a relatively small sample size and is based on a larger program of research examining the effects of light to treat cancer&#x02010;related fatigue. Second, the results presented here did not include post&#x02010;hospitalization assessments of depressive symptoms. It is not yet known if PEI using BWL during hospitalization affects depressive symptoms during the post&#x02010;transplant period. Third, the potential mechanisms underlying the effects of BWL on depressive symptoms were not examined; however, our primary hypothesis is that circadian entrainment plays a role.</p><p>The present findings demonstrate that an easy to deliver, low cost intervention alleviates depression during hospitalization for autologous stem cell transplantation. The light intervention may have application across a wide range of clinical settings and patient populations.</p></sec><sec id="cam41690-sec-0019"><title>CONFLICT OF INTEREST</title><p>No conflicts of interest to disclose.</p></sec></body><back><ack id="cam41690-sec-0018"><title>ACKNOWLEDGMENT</title><p>Research reported in this manuscript was supported by the National Cancer Institute of the National Institutes of Health under Award Number 5R21CA209419&#x02010;02, and by Acuity Brands Lighting, Inc. by building and donating light fixtures used in the study.</p></ack><ref-list content-type="cited-references" id="cam41690-bibl-0001"><title>REFERENCES</title><ref id="cam41690-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam41690-cit-0001">
+<string-name>
+<surname>Bruno</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rotta</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Patriarca</surname>
+<given-names>F</given-names>
+</string-name>, et&#x000a0;al. <article-title>A comparison of allografting with autografting for newly diagnosed myeloma</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2007</year>;<volume>356</volume>:<fpage>1110</fpage>&#x02010;<lpage>1120</lpage>.<pub-id pub-id-type="pmid">17360989</pub-id></mixed-citation></ref><ref id="cam41690-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam41690-cit-0002">
+<string-name>
+<surname>Fife</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name>
+<surname>Huster</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Cornetta</surname>
+<given-names>KG</given-names>
+</string-name>, et&#x000a0;al. <article-title>Longitudinal study of adaptation to the stress of bone marrow transplantation</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2000</year>;<volume>18</volume>:<fpage>1539</fpage>&#x02010;<lpage>1549</lpage>.<pub-id pub-id-type="pmid">10735903</pub-id></mixed-citation></ref><ref id="cam41690-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam41690-cit-0003">
+<string-name>
+<surname>Prieto</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Atala</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Blanch</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Role of depression as a predictor of mortality among cancer patients after stem&#x02010;cell transplantation</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2005</year>;<volume>23</volume>:<fpage>6063</fpage>&#x02010;<lpage>6071</lpage>.<pub-id pub-id-type="pmid">16087949</pub-id></mixed-citation></ref><ref id="cam41690-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam41690-cit-0004">
+<string-name>
+<surname>El&#x02010;Jawahri</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Traeger</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name>
+<surname>Kuzmuk</surname>
+<given-names>K</given-names>
+</string-name>, et&#x000a0;al. <article-title>Quality of life and mood of patients and family caregivers during hospitalization for hematopoietic stem cell transplantation</article-title>. <source xml:lang="en">Cancer</source>. <year>2015</year>;<volume>121</volume>:<fpage>951</fpage>&#x02010;<lpage>959</lpage>.<pub-id pub-id-type="pmid">25469752</pub-id></mixed-citation></ref><ref id="cam41690-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam41690-cit-0005">
+<string-name>
+<surname>Broers</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kaptein</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Le Cessie</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Psychological functioning and quality of life following bone marrow transplantation: a 3&#x02010;year follow&#x02010;up study</article-title>. <source xml:lang="en">J Psychosom Res</source>. <year>2000</year>;<volume>48</volume>:<fpage>11</fpage>&#x02010;<lpage>21</lpage>.<pub-id pub-id-type="pmid">10750625</pub-id></mixed-citation></ref><ref id="cam41690-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam41690-cit-0006">
+<string-name>
+<surname>Hjermstad</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Evensen</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Kval&#x000f8;y</surname>
+<given-names>SO</given-names>
+</string-name>, et&#x000a0;al. <article-title>Health&#x02010;related quality of life 1&#x000a0;year after allogeneic or autologous stem&#x02010;cell transplantation: a prospective study</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>1999</year>;<volume>17</volume>:<fpage>706</fpage>.<pub-id pub-id-type="pmid">10080617</pub-id></mixed-citation></ref><ref id="cam41690-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam41690-cit-0007">
+<string-name>
+<surname>El&#x02010;Jawahri</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>LeBlanc</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>VanDusen</surname>
+<given-names>H</given-names>
+</string-name>, et&#x000a0;al. <article-title>Effect of inpatient palliative care on quality of life 2&#x000a0;weeks after hematopoietic stem cell transplantation: A randomized clinical trial</article-title>. <source xml:lang="en">JAMA</source>. <year>2016</year>;<volume>316</volume>:<fpage>2094</fpage>&#x02010;<lpage>2103</lpage>.<pub-id pub-id-type="pmid">27893130</pub-id></mixed-citation></ref><ref id="cam41690-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam41690-cit-0008">
+<string-name>
+<surname>Loberiza</surname>
+<given-names>FR</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Rizzo</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Bredeson</surname>
+<given-names>CN</given-names>
+</string-name>, et&#x000a0;al. <article-title>Association of depressive syndrome and early deaths among patients after stem&#x02010;cell transplantation for malignant diseases</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2002</year>;<volume>20</volume>:<fpage>2118</fpage>&#x02010;<lpage>2126</lpage>.<pub-id pub-id-type="pmid">11956273</pub-id></mixed-citation></ref><ref id="cam41690-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam41690-cit-0009">
+<string-name>
+<surname>Li</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>N</given-names>
+</string-name>, et&#x000a0;al. <article-title>Anti&#x02010;depressant use in patients with multiple myeloma less common than expected</article-title>. <source xml:lang="en">Blood</source>. <year>2016</year>;<volume>128</volume>:<fpage>2420</fpage>.</mixed-citation></ref><ref id="cam41690-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam41690-cit-0010">
+<string-name>
+<surname>Ostuzzi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Matcham</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Dauchy</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Antidepressants for the treatment of depression in people with cancer</article-title>. <source xml:lang="en">Cochrane Database Syst Rev</source>. <year>2015</year>;<volume>4</volume>:<fpage>Cd011006</fpage>.</mixed-citation></ref><ref id="cam41690-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam41690-cit-0011">
+<string-name>
+<surname>Duijts</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name>
+<surname>Faber</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Oldenburg</surname>
+<given-names>HS</given-names>
+</string-name>, et&#x000a0;al. <article-title>Effectiveness of behavioral techniques and physical exercise on psychosocial functioning and health&#x02010;related quality of life in breast cancer patients and survivors&#x02013;a meta&#x02010;analysis</article-title>. <source xml:lang="en">Psychooncology</source>. <year>2011</year>;<volume>20</volume>:<fpage>115</fpage>&#x02010;<lpage>126</lpage>.<pub-id pub-id-type="pmid">20336645</pub-id></mixed-citation></ref><ref id="cam41690-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam41690-cit-0012">
+<string-name>
+<surname>Stagl</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Bouchard</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Lechner</surname>
+<given-names>SC</given-names>
+</string-name>, et&#x000a0;al. <article-title>Long&#x02010;term psychological benefits of cognitive&#x02010;behavioral stress management for women with breast cancer: 11&#x02010;year follow&#x02010;up of a randomized controlled trial</article-title>. <source xml:lang="en">Cancer</source>. <year>2015</year>;<volume>121</volume>:<fpage>1873</fpage>&#x02010;<lpage>1881</lpage>.<pub-id pub-id-type="pmid">25809235</pub-id></mixed-citation></ref><ref id="cam41690-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam41690-cit-0013">
+<string-name>
+<surname>Nussbaumer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Kaminski&#x02010;Hartenthaler</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Forneris</surname>
+<given-names>CA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Light therapy for preventing seasonal affective disorder</article-title>. <source xml:lang="en">Cochrane Database Syst Rev</source>. <year>2015</year>;<volume>11</volume>:<fpage>Cd011269</fpage>.</mixed-citation></ref><ref id="cam41690-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam41690-cit-0014">
+<string-name>
+<surname>Perera</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Eisen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bhatt</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Light therapy for non&#x02010;seasonal depression: systematic review and meta&#x02010;analysis</article-title>. <source xml:lang="en">BJPsych Open</source>. <year>2016</year>;<volume>2</volume>:<fpage>116</fpage>&#x02010;<lpage>126</lpage>.<pub-id pub-id-type="pmid">27703764</pub-id></mixed-citation></ref><ref id="cam41690-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam41690-cit-0015">
+<string-name>
+<surname>Al&#x02010;Karawi</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Jubair</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Bright light therapy for nonseasonal depression: meta&#x02010;analysis of clinical trials</article-title>. <source xml:lang="en">J Affect Disord</source>. <year>2016</year>;<volume>198</volume>:<fpage>64</fpage>&#x02010;<lpage>71</lpage>.<pub-id pub-id-type="pmid">27011361</pub-id></mixed-citation></ref><ref id="cam41690-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam41690-cit-0016">
+<string-name>
+<surname>Germain</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kupfer</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Circadian rhythm disturbances in depression</article-title>. <source xml:lang="en">Hum Psychopharmacol</source>. <year>2008</year>;<volume>23</volume>:<fpage>571</fpage>&#x02010;<lpage>585</lpage>.<pub-id pub-id-type="pmid">18680211</pub-id></mixed-citation></ref><ref id="cam41690-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam41690-cit-0017">
+<string-name>
+<surname>Innominato</surname>
+<given-names>PF</given-names>
+</string-name>, <string-name>
+<surname>Roche</surname>
+<given-names>VP</given-names>
+</string-name>, <string-name>
+<surname>Palesh</surname>
+<given-names>OG</given-names>
+</string-name>, et&#x000a0;al. <article-title>The circadian timing system in clinical oncology</article-title>. <source xml:lang="en">Ann Med</source>. <year>2014</year>;<volume>46</volume>:<fpage>191</fpage>&#x02010;<lpage>207</lpage>.<pub-id pub-id-type="pmid">24915535</pub-id></mixed-citation></ref><ref id="cam41690-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam41690-cit-0018">
+<string-name>
+<surname>Lamia</surname>
+<given-names>KA</given-names>
+</string-name>. <article-title>Ticking time bombs: connections between circadian clocks and cancer</article-title>. <source xml:lang="en">F1000Res</source>. <year>2017</year>;<volume>6</volume>:<fpage>1910</fpage>.<pub-id pub-id-type="pmid">29152229</pub-id></mixed-citation></ref><ref id="cam41690-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam41690-cit-0019">
+<string-name>
+<surname>Shilts</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hughey</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Evidence for widespread dysregulation of circadian clock progression in human cancer</article-title>. <source xml:lang="en">PeerJ</source>. <year>2018</year>;<volume>6</volume>:<fpage>e4327</fpage>.<pub-id pub-id-type="pmid">29404219</pub-id></mixed-citation></ref><ref id="cam41690-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam41690-cit-0020">
+<string-name>
+<surname>Rea</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Figueiro</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Bullough</surname>
+<given-names>JD</given-names>
+</string-name>, et&#x000a0;al. <article-title>A model of phototransduction by the human circadian system</article-title>. <source xml:lang="en">Brain Res Brain Res Rev</source>. <year>2005</year>;<volume>50</volume>:<fpage>213</fpage>&#x02010;<lpage>228</lpage>.<pub-id pub-id-type="pmid">16216333</pub-id></mixed-citation></ref><ref id="cam41690-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam41690-cit-0021">
+<string-name>
+<surname>Rea</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Figueiro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bierman</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Modelling the spectral sensitivity of the human circadian system</article-title>. <source xml:lang="en">Light Res Technol</source>. <year>2012</year>;<volume>44</volume>:<fpage>386</fpage>&#x02010;<lpage>396</lpage>.</mixed-citation></ref><ref id="cam41690-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam41690-cit-0022">
+<string-name>
+<surname>Figueiro</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Plitnick</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Lok</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Tailored lighting intervention improves measures of sleep, depression, and agitation in persons with Alzheimer's disease and related dementia living in long&#x02010;term care facilities</article-title>. <source xml:lang="en">Clin Interv Aging</source>. <year>2014</year>;<volume>9</volume>:<fpage>1527</fpage>&#x02010;<lpage>1537</lpage>.<pub-id pub-id-type="pmid">25246779</pub-id></mixed-citation></ref><ref id="cam41690-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam41690-cit-0023">
+<string-name>
+<surname>Figueiro</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Hunter</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Higgins</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>Tailored lighting intervention for persons with dementia and caregivers living at home</article-title>. <source xml:lang="en">Sleep Health</source>. <year>2015</year>;<volume>1</volume>:<fpage>322</fpage>&#x02010;<lpage>330</lpage>.<pub-id pub-id-type="pmid">27066526</pub-id></mixed-citation></ref><ref id="cam41690-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam41690-cit-0024">
+<string-name>
+<surname>Figueiro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Plitnick</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rea</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Research note: a self&#x02010;luminous light table for persons with Alzheimer's disease</article-title>. <source xml:lang="en">Light Res Technol</source>. <year>2016</year>;<volume>48</volume>:<fpage>253</fpage>&#x02010;<lpage>259</lpage>.<pub-id pub-id-type="pmid">27171939</pub-id></mixed-citation></ref><ref id="cam41690-bib-0025"><label>25</label><mixed-citation publication-type="book" id="cam41690-cit-0025">
+<string-name>
+<surname>Norman</surname>
+<given-names>TR</given-names>
+</string-name>. <chapter-title>Agomelatine, melatonin and depression</chapter-title> In: <person-group person-group-type="editor"><name><surname>L&#x000f3;pez&#x02010;Mu&#x000f1;oz</surname><given-names>F</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Srinivasan</surname><given-names>V</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>de Berardis</surname><given-names>D</given-names></name></person-group>, et&#x000a0;al., eds. <source xml:lang="en">Melatonin, neuroprotective agents and antidepressant therapy</source>. <publisher-loc>New Delhi, India</publisher-loc>: <publisher-name>Springer</publisher-name>; <year>2016</year>:<fpage>229</fpage>&#x02010;<lpage>247</lpage>.</mixed-citation></ref><ref id="cam41690-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam41690-cit-0026">
+<string-name>
+<surname>Binfare</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Mantovani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Budni</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Involvement of dopamine receptors in the antidepressant&#x02010;like effect of melatonin in the tail suspension test</article-title>. <source xml:lang="en">Eur J Pharmacol</source>. <year>2010</year>;<volume>638</volume>:<fpage>78</fpage>&#x02010;<lpage>83</lpage>.<pub-id pub-id-type="pmid">20406627</pub-id></mixed-citation></ref><ref id="cam41690-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam41690-cit-0027">
+<string-name>
+<surname>Detanico</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Piato</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Freitas</surname>
+<given-names>JJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>Antidepressant&#x02010;like effects of melatonin in the mouse chronic mild stress model</article-title>. <source xml:lang="en">Eur J Pharmacol</source>. <year>2009</year>;<volume>607</volume>:<fpage>121</fpage>&#x02010;<lpage>125</lpage>.<pub-id pub-id-type="pmid">19249298</pub-id></mixed-citation></ref><ref id="cam41690-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam41690-cit-0028">
+<string-name>
+<surname>de Bodinat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Guardiola&#x02010;Lemaitre</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Mocaer</surname>
+<given-names>E</given-names>
+</string-name>, et&#x000a0;al. <article-title>Agomelatine, the first melatonergic antidepressant: discovery, characterization and development</article-title>. <source xml:lang="en">Nat Rev Drug Discov</source>. <year>2010</year>;<volume>9</volume>:<fpage>628</fpage>&#x02010;<lpage>642</lpage>.<pub-id pub-id-type="pmid">20577266</pub-id></mixed-citation></ref><ref id="cam41690-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam41690-cit-0029">
+<string-name>
+<surname>Young</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>Figueiro</surname>
+<given-names>MG</given-names>
+</string-name>, et&#x000a0;al. <article-title>At&#x02010;sea trial of 24&#x02010;h&#x02010;based submarine watchstanding schedules with high and low correlated color temperature light sources</article-title>. <source xml:lang="en">J Biol Rhythms</source>. <year>2015</year>;<volume>30</volume>:<fpage>144</fpage>&#x02010;<lpage>154</lpage>.<pub-id pub-id-type="pmid">25838419</pub-id></mixed-citation></ref><ref id="cam41690-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam41690-cit-0030">
+<string-name>
+<surname>Figueiro</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Rea</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Lack of short&#x02010;wavelength light during the school day delays dim light melatonin onset (DLMO) in middle school students</article-title>. <source xml:lang="en">Neuro Endocrinol Lett</source>. <year>2010</year>;<volume>31</volume>:<fpage>92</fpage>&#x02010;<lpage>96</lpage>.<pub-id pub-id-type="pmid">20150866</pub-id></mixed-citation></ref><ref id="cam41690-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cam41690-cit-0031">
+<string-name>
+<surname>Sloane</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Figueiro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Light as therapy for sleep disorders and depression in older adults</article-title>. <source xml:lang="en">Clin Geriatr</source>. <year>2008</year>;<volume>16</volume>:<fpage>25</fpage>&#x02010;<lpage>31</lpage>.<pub-id pub-id-type="pmid">24285919</pub-id></mixed-citation></ref><ref id="cam41690-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cam41690-cit-0032">
+<string-name>
+<surname>Efird</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Blocked randomization with randomly selected block sizes</article-title>. <source xml:lang="en">Int J Environ Res Public Health</source>. <year>2011</year>;<volume>8</volume>:<fpage>15</fpage>&#x02010;<lpage>20</lpage>.<pub-id pub-id-type="pmid">21318011</pub-id></mixed-citation></ref><ref id="cam41690-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cam41690-cit-0033">
+<string-name>
+<surname>Redd</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Valdimarsdottir</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Systematic light exposure in the treatment of cancer&#x02010;related fatigue: a preliminary study</article-title>. <source xml:lang="en">Psychooncology</source>. <year>2014</year>;<volume>23</volume>:<fpage>1431</fpage>&#x02010;<lpage>1434</lpage>.<pub-id pub-id-type="pmid">24798589</pub-id></mixed-citation></ref><ref id="cam41690-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cam41690-cit-0034">
+<string-name>
+<surname>Figueiro</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Hamner</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bierman</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Comparisons of three practical field devices used to measure personal light exposures and activity levels</article-title>. <source xml:lang="en">Light Res Technol</source>. <year>2013</year>;<volume>45</volume>:<fpage>421</fpage>&#x02010;<lpage>434</lpage>.<pub-id pub-id-type="pmid">24443644</pub-id></mixed-citation></ref><ref id="cam41690-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cam41690-cit-0035">
+<string-name>
+<surname>Radloff</surname>
+<given-names>LS</given-names>
+</string-name>. <article-title>The CES&#x02010;D Scale</article-title>. <source xml:lang="en">Appl Psychol Meas</source>. <year>1977</year>;<volume>1</volume>:<fpage>385</fpage>&#x02010;<lpage>401</lpage>.</mixed-citation></ref><ref id="cam41690-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cam41690-cit-0036">
+<string-name>
+<surname>Hann</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Winter</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Jacobsen</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Measurement of depressive symptoms in cancer patients: evaluation of the Center for Epidemiological Studies Depression Scale (CES&#x02010;D)</article-title>. <source xml:lang="en">J Psychosom Res</source>. <year>1999</year>;<volume>46</volume>:<fpage>437</fpage>&#x02010;<lpage>443</lpage>.<pub-id pub-id-type="pmid">10404478</pub-id></mixed-citation></ref><ref id="cam41690-bib-0037"><label>37</label><mixed-citation publication-type="book" id="cam41690-cit-0037">
+<string-name>
+<surname>Cohen</surname>
+<given-names>J</given-names>
+</string-name>. <source xml:lang="en">Statistical Power Analysis for the Behavioral Sciences</source>. <publisher-loc>Hillsdale, NJ</publisher-loc>: <publisher-name>L. Erlbaum Associates</publisher-name>; <year>1988</year>.</mixed-citation></ref><ref id="cam41690-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cam41690-cit-0038">
+<string-name>
+<surname>Kiss</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Abdolell</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jamal</surname>
+<given-names>N</given-names>
+</string-name>, et&#x000a0;al. <article-title>Long&#x02010;term medical outcomes and quality&#x02010;of&#x02010;life assessment of patients with chronic myeloid leukemia followed at least 10&#x000a0;years after allogeneic bone marrow transplantation</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2002</year>;<volume>20</volume>:<fpage>2334</fpage>&#x02010;<lpage>2343</lpage>.<pub-id pub-id-type="pmid">11981005</pub-id></mixed-citation></ref><ref id="cam41690-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cam41690-cit-0039">
+<string-name>
+<surname>Braamse</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Gerrits</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>van Meijel</surname>
+<given-names>B</given-names>
+</string-name>, et&#x000a0;al. <article-title>Predictors of health&#x02010;related quality of life in patients treated with auto&#x02010; and allo&#x02010;SCT for hematological malignancies</article-title>. <source xml:lang="en">Bone Marrow Transplant</source>. <year>2012</year>;<volume>47</volume>:<fpage>757</fpage>&#x02010;<lpage>769</lpage>.<pub-id pub-id-type="pmid">21725373</pub-id></mixed-citation></ref><ref id="cam41690-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cam41690-cit-0040">
+<string-name>
+<surname>Camardese</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Leone</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Serrani</surname>
+<given-names>R</given-names>
+</string-name>, et&#x000a0;al. <article-title>Augmentation of light therapy in difficult&#x02010;to&#x02010;treat depressed patients: an open&#x02010;label trial in both unipolar and bipolar patients</article-title>. <source xml:lang="en">Neuropsychiatr Dis Treat</source>. <year>2015</year>;<volume>11</volume>:<fpage>2331</fpage>&#x02010;<lpage>2338</lpage>.<pub-id pub-id-type="pmid">26396517</pub-id></mixed-citation></ref><ref id="cam41690-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cam41690-cit-0041">
+<string-name>
+<surname>Goel</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Terman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Terman</surname>
+<given-names>JS</given-names>
+</string-name>, et&#x000a0;al. <article-title>Controlled trial of bright light and negative air ions for chronic depression</article-title>. <source xml:lang="en">Psychol Med</source>. <year>2005</year>;<volume>35</volume>:<fpage>945</fpage>&#x02010;<lpage>955</lpage>.<pub-id pub-id-type="pmid">16045061</pub-id></mixed-citation></ref><ref id="cam41690-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cam41690-cit-0042">
+<string-name>
+<surname>Epperson</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Terman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Terman</surname>
+<given-names>JS</given-names>
+</string-name>, et&#x000a0;al. <article-title>Randomized clinical trial of bright light therapy for antepartum depression: preliminary findings</article-title>. <source xml:lang="en">J Clin Psychiatry</source>. <year>2004</year>;<volume>65</volume>:<fpage>421</fpage>&#x02010;<lpage>425</lpage>.<pub-id pub-id-type="pmid">15096083</pub-id></mixed-citation></ref><ref id="cam41690-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cam41690-cit-0043">
+<string-name>
+<surname>Wu</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Amidi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Valdimarsdottir</surname>
+<given-names>H</given-names>
+</string-name>, et&#x000a0;al. <article-title>The effect of systematic light exposure on sleep in a mixed group of fatigued cancer survivors</article-title>. <source xml:lang="en">J Clin Sleep Med</source>. <year>2018</year>;<volume>14</volume>(<issue>1</issue>):<fpage>31</fpage>&#x02010;<lpage>39</lpage>. <pub-id pub-id-type="doi">10.5664/jcsm.6874</pub-id>.<pub-id pub-id-type="pmid">29198295</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="ajh25238-tbl-0001" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Summary of proportions of patients with investigator‐reported complete remission (full analysis set), by age group</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <thead valign="bottom">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="bottom" rowspan="1" colspan="1"/>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Total</th>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">≥55 years</th>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">&lt;55 years</th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Total</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic> = 69
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic> = 60
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic> = 9
+    </td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">CR, 
+     <italic>n</italic> (%)
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">32 (46.4)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">24 (40.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">8 (88.9)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">80% CI
+     <xref ref-type="fn" rid="ajh25238-note-0006">a</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(38.7‐54.1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(31.9‐48.1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(75.5‐100.0)</td>
+   </tr>
+   <tr>
+    <td colspan="4" align="left" valign="top" rowspan="1">Cytogenetic risk</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Good/intermediate</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic> = 48
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic> = 41
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic> = 7
+    </td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">CR, 
+     <italic>n</italic> (%)
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">26 (54.2)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">20 (48.8)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">6 (85.7)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">80% exact CI
+     <xref ref-type="fn" rid="ajh25238-note-0006">a</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(45.0‐63.4)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(38.8‐58.8)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(68.8‐100.0)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Poor</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic> = 19
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic> = 17
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic> = 2
+    </td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">CR, 
+     <italic>n</italic> (%)
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">5 (26.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (17.6)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (100.0)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">80% exact CI
+     <xref ref-type="fn" rid="ajh25238-note-0006">a</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(13.4‐39.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(5.8‐29.5)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(100.0‐100.0)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Not evaluated</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic> = 2
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic> = 2
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <italic>n</italic> = 0
+    </td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">CR, 
+     <italic>n</italic> (%)
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (50.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (50.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">‐</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">80% exact CI
+     <xref ref-type="fn" rid="ajh25238-note-0006">a</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(4.7‐95.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">(4.7‐95.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">‐</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="ajh25238-note-0002">
+   <p>Abbreviations
+    <bold>:</bold> AML, acute myeloid leukemia; CI, confidence interval; CR, complete remission; MDS, myelodysplastic syndromes.
+   </p>
+  </fn>
+  <fn id="ajh25238-note-0003">
+   <p>For AML, good/intermediate cytogenetic risk = favorable, intermediate‐I and intermediate‐II risk groups; poor cytogenetic risk = adverse risk group.</p>
+  </fn>
+  <fn id="ajh25238-note-0004">
+   <p>For MDS, good/intermediate cytogenetic risk = good and intermediate risk groups; poor cytogenetic risk = poor risk group.</p>
+  </fn>
+  <fn id="ajh25238-note-0005">
+   <p>CR included both confirmed and unconfirmed responses for MDS patients.</p>
+  </fn>
+  <fn id="ajh25238-note-0006">
+   <label>a</label>
+   <p>Using normal approximation and CIs are expressed in percentages.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

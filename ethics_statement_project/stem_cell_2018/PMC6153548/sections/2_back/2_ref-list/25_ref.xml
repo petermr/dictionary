@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>EQ</given-names>
+   </name>
+   <name>
+    <surname>Balthasar</surname>
+    <given-names>JP</given-names>
+   </name>
+  </person-group>
+  <article-title>Monoclonal antibody pharmacokinetics and pharmacodynamics</article-title>
+  <source>Clin Pharmacol Ther</source>
+  <year>2008</year>
+  <volume>84</volume>
+  <fpage>548</fpage>
+  <lpage>558</lpage>
+  <pub-id pub-id-type="doi">10.1038/clpt.2008.170</pub-id>
+  <?supplied-pmid 18784655?>
+  <pub-id pub-id-type="pmid">18784655</pub-id>
+ </element-citation>
+</ref>

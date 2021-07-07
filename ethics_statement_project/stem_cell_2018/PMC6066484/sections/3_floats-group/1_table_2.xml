@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Efficacy outcomes and follow-up status</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th>
+     <bold>All patients</bold>
+    </th>
+    <th>
+     <bold>Phase 2 dose</bold>
+    </th>
+   </tr>
+   <tr>
+    <th/>
+    <th>
+     <bold>(N</bold> 
+     <bold>=</bold> 
+     <bold>48)</bold>
+    </th>
+    <th>
+     <bold>(N</bold> 
+     <bold>=</bold> 
+     <bold>45)</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Overall response rate</td>
+    <td>77% (95%CI: 63, 88)</td>
+    <td>78% (95%CI: 63, 89)</td>
+   </tr>
+   <tr>
+    <td>≥VGPR Response Rate</td>
+    <td>35% (95%CI: 22, 50)</td>
+    <td>38% (95%CI: 24, 53)</td>
+   </tr>
+   <tr>
+    <td> sCR</td>
+    <td>3</td>
+    <td>3</td>
+   </tr>
+   <tr>
+    <td> CR</td>
+    <td>0</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td> VGPR</td>
+    <td>14</td>
+    <td>14</td>
+   </tr>
+   <tr>
+    <td> PR</td>
+    <td>20</td>
+    <td>18</td>
+   </tr>
+   <tr>
+    <td> MR</td>
+    <td>9</td>
+    <td>8</td>
+   </tr>
+   <tr>
+    <td> SD</td>
+    <td>2</td>
+    <td>2</td>
+   </tr>
+   <tr>
+    <td colspan="3">Overall Response Rate by FISH</td>
+   </tr>
+   <tr>
+    <td> High risk</td>
+    <td>88% (95%CI: 47, 100)</td>
+    <td>88% (95%CI: 47, 100)</td>
+   </tr>
+   <tr>
+    <td> Standard risk</td>
+    <td>75% (95%CI: 59, 87)</td>
+    <td>76% (95%CI: 59, 88)</td>
+   </tr>
+   <tr>
+    <td>Median overall survival
+     <sup>a</sup>
+    </td>
+    <td>NA</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td> 12 Months</td>
+    <td>100%</td>
+    <td>100%</td>
+   </tr>
+   <tr>
+    <td>Median progression-free survival
+     <sup>a</sup>
+    </td>
+    <td>NA (95%CI: 31.3, NA)</td>
+    <td>NA (95%CI: 31.3, NA)</td>
+   </tr>
+   <tr>
+    <td>Median duration of response
+     <sup>a</sup>
+    </td>
+    <td>NA (95%CI: 30.3, NA)</td>
+    <td>NA (95%CI: 30.3, NA)</td>
+   </tr>
+   <tr>
+    <td>Median time to response</td>
+    <td>1.9 mos (range: 0.9–4.8)</td>
+    <td>1.9 mos (range: 0.9–4.8)</td>
+   </tr>
+   <tr>
+    <td>Patients with progression</td>
+    <td>11 (22.9%)</td>
+    <td>11 (24.4%)</td>
+   </tr>
+   <tr>
+    <td>Patients alive</td>
+    <td>46 (95.8%)</td>
+    <td>43 (95.6%)</td>
+   </tr>
+   <tr>
+    <td>Median follow-up (alive patients)</td>
+    <td>25.6 mos
+     <break/>(range: 12.3–44.6)
+    </td>
+    <td>25.1 mos
+     <break/>(range: 12.3–40.7)
+    </td>
+   </tr>
+   <tr>
+    <td>Last cycle administered</td>
+    <td>7 (range: 3–46)</td>
+    <td>7 (range: 3–44)</td>
+   </tr>
+   <tr>
+    <td>On treatment</td>
+    <td>8</td>
+    <td>7</td>
+   </tr>
+   <tr>
+    <td colspan="3">Reason For ending treatment</td>
+   </tr>
+   <tr>
+    <td> Refused further treatment</td>
+    <td>3 (7.5%)</td>
+    <td>2 (5.3%)</td>
+   </tr>
+   <tr>
+    <td> Adverse event</td>
+    <td>3 (7.5%)</td>
+    <td>3 (7.9%)</td>
+   </tr>
+   <tr>
+    <td> Disease progression</td>
+    <td>10 (25.0%)</td>
+    <td>10 (26.3%)</td>
+   </tr>
+   <tr>
+    <td> Alternate treatment</td>
+    <td>19 (47.5%)</td>
+    <td>18 (47.4%)</td>
+   </tr>
+   <tr>
+    <td> Lack of response</td>
+    <td>5 (10.4%)</td>
+    <td>5 (11.1%)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>CI</italic> confidence interval, 
+   <italic>mo</italic> month, 
+   <italic>NA</italic> not attained
+  </p>
+  <p>
+   <sup>a</sup> Kaplan–Meier
+  </p>
+ </table-wrap-foot>
+</table-wrap>

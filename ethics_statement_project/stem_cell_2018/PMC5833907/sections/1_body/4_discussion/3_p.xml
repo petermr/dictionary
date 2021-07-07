@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par30">Belief networks are directed acyclic graphs that represent a probabilistic structure. There is a direct relationship between the graphical model and a particular probability distribution form. They consist of vertices (or nodes) and directed edges (arrows). Each edge points from one node (called the parent node) to another node (the child node). In a belief network each node is used to represent a random variable, and each directed edge represents an immediate dependence or direct influence. We used a learning algorithm to create a TAN Bayes graph structure in which a single-class variable has no parents and all other variables have the class as a parent and at most one other attribute as a parent. The probability tables are filled out using Expectation Maximization, as previously described in Sansot et al. [
+ <xref ref-type="bibr" rid="CR13">13</xref>].
+</p>

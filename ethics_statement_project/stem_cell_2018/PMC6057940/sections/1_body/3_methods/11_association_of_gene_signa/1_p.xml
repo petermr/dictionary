@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par56">A stringent mouse gene signature was derived through differential expression analysis of the stromal fraction of M6-Hh tumors in comparison to the stroma of M6-Ctrl or M6-Hh tumors treated with SMOi. The stromal mouse gene signature was then converted to human genes using NCBI homolog gene list v68 (
+ <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/homologene" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.ncbi.nlm.nih.gov/homologene</ext-link>). The converted gene list consists of 146 upregulated genes and 39 downregulated genes in the Hh-activated stromal population (Supplementary Data 
+ <xref rid="MOESM3" ref-type="media">1</xref>). The gene list was further assessed for survival analysis using the TCGA breast invasive carcinoma cohort. The processed TCGA data were downloaded from cBioPortal
+ <sup>
+  <xref ref-type="bibr" rid="CR72">72</xref>
+ </sup> based on the TCGA study
+ <sup>
+  <xref ref-type="bibr" rid="CR19">19</xref>
+ </sup>. The gene signature score was defined by a weighted average method for each sample in the TCGA cohort. Survival curves were estimated using the Kaplan−Meier method, with overall survival used as the outcome metric.
+</p>

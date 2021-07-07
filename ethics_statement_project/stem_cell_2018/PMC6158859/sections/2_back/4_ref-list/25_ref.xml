@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McCarthy</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Das</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Kretzschmar</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Delaneau</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Wood</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Teumer</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Kang</surname>
+    <given-names>HM</given-names>
+   </name>
+   <name>
+    <surname>Fuchsberger</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Danecek</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Sharp</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A reference panel of 64,976 haplotypes for genotype imputation</article-title>
+  <source>Nat Genet</source>
+  <year>2016</year>
+  <volume>48</volume>
+  <issue>10</issue>
+  <fpage>1279</fpage>
+  <lpage>1283</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.3643</pub-id>
+  <pub-id pub-id-type="pmid">27548312</pub-id>
+ </element-citation>
+</ref>

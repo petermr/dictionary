@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Summary of cerebrospinal fluid analytes prior to (pre) and after (post) intrathecal adipose-derived mesenchymal stem cell (ASC) administration in healthy horses</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="2">Site of collection</th>
+    <th colspan="2">Total protein (mg/dL)</th>
+    <th colspan="2">Nucleated cell count (cells/μL)</th>
+    <th colspan="2">Neutrophil (%)</th>
+    <th colspan="2">Small mono (%)</th>
+    <th colspan="2">Large mono (%)</th>
+   </tr>
+   <tr>
+    <th>Pre</th>
+    <th>Post</th>
+    <th>Pre</th>
+    <th>Post</th>
+    <th>Pre</th>
+    <th>Post</th>
+    <th>Pre</th>
+    <th>Post</th>
+    <th>Pre</th>
+    <th>Post</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>LS</td>
+    <td>84</td>
+    <td>72</td>
+    <td>13</td>
+    <td>7</td>
+    <td>0</td>
+    <td>10</td>
+    <td>59</td>
+    <td>89</td>
+    <td>41</td>
+    <td>1</td>
+   </tr>
+   <tr>
+    <td>LS</td>
+    <td>59</td>
+    <td>67</td>
+    <td>9</td>
+    <td>13</td>
+    <td>2</td>
+    <td>0</td>
+    <td>88</td>
+    <td>91</td>
+    <td>10</td>
+    <td>9</td>
+   </tr>
+   <tr>
+    <td>LS
+     <bold>*</bold>
+    </td>
+    <td>64</td>
+    <td>64</td>
+    <td>1</td>
+    <td>4</td>
+    <td>19</td>
+    <td>84</td>
+    <td>23</td>
+    <td>15</td>
+    <td>58</td>
+    <td>1</td>
+   </tr>
+   <tr>
+    <td>AO</td>
+    <td>88</td>
+    <td>121</td>
+    <td>1</td>
+    <td>6</td>
+    <td>47</td>
+    <td>5</td>
+    <td>39</td>
+    <td>83</td>
+    <td>14</td>
+    <td>12</td>
+   </tr>
+   <tr>
+    <td>AO</td>
+    <td>55</td>
+    <td>81</td>
+    <td>&lt; 1</td>
+    <td>6</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>96</td>
+    <td>0</td>
+    <td>4</td>
+   </tr>
+   <tr>
+    <td>AO
+     <bold>*</bold>
+    </td>
+    <td>77</td>
+    <td>85</td>
+    <td>&lt; 1</td>
+    <td>26</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+    <td>90</td>
+    <td>0</td>
+    <td>2</td>
+   </tr>
+   <tr>
+    <td>Mean</td>
+    <td>71.2</td>
+    <td>81.7</td>
+    <td>4.2</td>
+    <td>10.3</td>
+    <td>11.3</td>
+    <td>16.7</td>
+    <td>34.8</td>
+    <td>77.3</td>
+    <td>20.5</td>
+    <td>4.8</td>
+   </tr>
+   <tr>
+    <td>P value</td>
+    <td colspan="2">0.18</td>
+    <td colspan="2">0.21</td>
+    <td colspan="2">0.72</td>
+    <td colspan="2">0.06</td>
+    <td colspan="2">0.20</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Reference intervals: total protein &lt; 100 mg/dL; nucleated cell count &lt; 5 cells/μL 
+   <bold>*</bold> Technetium-labeled cells
+  </p>
+  <p>
+   <italic>LS</italic>, lumbosacral; 
+   <italic>AO</italic>, atlanto-occipital; 
+   <italic>mono</italic>, mononuclear cells
+  </p>
+ </table-wrap-foot>
+</table-wrap>

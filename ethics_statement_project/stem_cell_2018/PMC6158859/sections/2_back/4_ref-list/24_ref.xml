@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Das</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Forer</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Schonherr</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Sidore</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Locke</surname>
+    <given-names>AE</given-names>
+   </name>
+   <name>
+    <surname>Kwong</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Vrieze</surname>
+    <given-names>SI</given-names>
+   </name>
+   <name>
+    <surname>Chew</surname>
+    <given-names>EY</given-names>
+   </name>
+   <name>
+    <surname>Levy</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>McGue</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Next-generation genotype imputation service and methods</article-title>
+  <source>Nat Genet</source>
+  <year>2016</year>
+  <volume>48</volume>
+  <issue>10</issue>
+  <fpage>1284</fpage>
+  <lpage>1287</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.3656</pub-id>
+  <pub-id pub-id-type="pmid">27571263</pub-id>
+ </element-citation>
+</ref>

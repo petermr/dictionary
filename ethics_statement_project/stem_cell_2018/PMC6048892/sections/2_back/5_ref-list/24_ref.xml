@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Marks</surname>
+    <given-names>LB</given-names>
+   </name>
+   <name>
+    <surname>Yorke</surname>
+    <given-names>ED</given-names>
+   </name>
+   <name>
+    <surname>Jackson</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Ten Haken</surname>
+    <given-names>RK</given-names>
+   </name>
+   <name>
+    <surname>Constine</surname>
+    <given-names>LS</given-names>
+   </name>
+   <name>
+    <surname>Eisbruch</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Use of Normal Tissue Complication Probability Models in the Clinic</article-title>
+  <source>Int J Radiat Oncol.</source>
+  <year>2010</year>
+  <volume>76</volume>
+  <fpage>S10</fpage>
+  <lpage>S19</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2009.07.1754</pub-id>
+ </element-citation>
+</ref>

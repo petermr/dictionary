@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>ACCoRd study registration inclusion and exclusion criteria</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <tbody>
+   <tr>
+    <td>Inclusion criteria</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>1. Diagnosed with relapsed MM (with measurable disease according to IMWG criteria) previously treated with ASCT)
+     <break/>2. First progressive disease (PD) at least 12 months following first ASCT, requiring therapy
+     <break/>3. Eastern Cooperative Oncology Group (ECOG) Performance Status 0–2
+     <break/>4. Aged at least 18 years
+     <break/>5. Participants must have the following blood results within 14 days before registration:
+     <break/> (a) Absolute neutrophil count (ANC) ≥ 1 × 10
+     <sup>9</sup>/L
+     <break/> (b) Platelet count ≥ 75 × 10
+     <sup>9</sup>/L. If the participant has ≥ 50% bone marrow infiltration, a platelet count of ≥ 50 × 10
+     <sup>9</sup>/L is allowed. 
+     <italic>Platelet transfusions are not allowed within 3 days before registration in order to meet these values</italic>
+     <break/>6. Adequate renal function within 14 days before registration:
+     <break/> (a) Creatinine clearance ≥ 30 ml/min (calculated according to the Cockcroft-Gault equation or other locally approved formula)
+     <break/>7. Adequate hepatobiliary function within 14 days before registration:
+     <break/> (a) Total bilirubin &lt;  2 × upper limit of normal (ULN)
+     <break/> (b) Alanine aminotransferase (ALT) &lt; 2 × ULN
+     <break/>8. Adequate pulmonary function within 14 days before registration:
+     <break/> (a) Adequate respiratory functional reserve (delineated by carbon monoxide transfer coefficient (K
+     <sub>CO</sub>)/diffusing capacity for carbon monoxide (D
+     <sub>LCO</sub>) (carbon monoxide diffusion in the lung) of ≥ 50%). No evidence of a history of pulmonary disease. If a significant history, then a review by a respiratory medicine physician is required
+     <break/>9. Adequate cardiac function within 12 weeks before registration:
+     <break/> (a) Left ventricular ejection fraction (LVEF) ≥ 40%. Note: repeat confirmation of cardiac function is needed if treatment is given between this assessment and registration
+     <break/>10. Female participants who:
+     <break/> (a) Are not of childbearing potential, OR
+     <break/> (b) If they are of childbearing potential, agree to practice two effective methods of contraception, at the same time, from the time of signing the informed consent form until 90 days after the last dose of study drug, OR
+     <break/> (c) Agree to practice true abstinence when this is in line with the preferred and usual lifestyle of the subject. (Periodic abstinence [e.g. calendar, ovulation, symptothermal, post-ovulation methods] and withdrawal are not acceptable methods of contraception.)
+     <break/>Male participants, even if surgically sterilised (i.e. status post-vasectomy), must agree to one of the following:
+     <break/> (a) Agree to practice effective barrier contraception during the entire study treatment period and through 90 days after the last dose of study drug, OR
+     <break/> (b) Agree to practice true abstinence when this is in line with the preferred and usual lifestyle of the subject. (Periodic abstinence [e.g. calendar, ovulation, symptothermal, post-ovulation methods] and withdrawal are not acceptable methods of contraception.)
+     <break/>Contraception for female and male participants must be in accordance with (and with consent to) the Celgene Thalidomide Pregnancy Prevention Programme
+     <break/>11. If female and of childbearing potential, must have a negative pregnancy test performed by a healthcare professional in accordance with the Celgene Thalidomide Pregnancy Prevention Programme
+     <break/>12. Patients agree not to receive other clinical trials treatment, including investigational medicinal products (IMPs) not included in this trial, within 30 days of trial registration and throughout the duration of the trial, until disease progression
+     <break/>13. Able to provide written informed consent
+    </td>
+    <td/>
+   </tr>
+   <tr>
+    <td>Exclusion criteria</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>1. Received prior second-line therapy for their relapsed disease other than local radiotherapy, therapeutic plasma exchange or dexamethasone (up to a maximum of 200 mg is allowed but not within 30 days prior to registration). Radiotherapy sufficient to alleviate or control pain of local invasion is permitted, but must not be within 14 days before registration. Patients who have received hemi-body radiation or similar since relapse will not be eligible
+     <break/>2. ≥ Grade 2 peripheral neuropathy within 14 days before registration
+     <break/>3. Known HIV seropositivity
+     <break/>4. Known resistance, intolerance or sensitivity to any component of the planned therapies
+     <break/>5. Any medical or psychiatric condition which, in the opinion of the investigator, contraindicates the participant’s participation in this study
+     <break/>6. Previous or concurrent malignancies at other sites (excluding completely resected non-melanoma skin cancer or carcinoma in situ of any type, such as cervical cancer)
+     <break/>7. Pregnant, lactating or breast-feeding female participants
+     <break/>8. Failure to have fully recovered (i.e. ≤ Grade 1 toxicity) from the reversible effects of prior chemotherapy
+     <break/>9. Major surgery within 14 days before registration
+     <break/>10. Central nervous system involvement with myeloma
+     <break/>11. Ongoing or active infection requiring systemic antibiotic therapy or other serious infection within 14 days before registration
+     <break/>12. Evidence of current uncontrolled cardiovascular conditions, including uncontrolled hypertension, uncontrolled cardiac arrhythmias, symptomatic congestive heart failure, unstable angina or myocardial infarction within the past 6 months
+     <break/>13. Systemic treatment, within 14 days before the first dose of ixazomib, with strong CYP3A inducers (e.g. rifampin, rifapentine, rifabutin, carbamazepine, phenytoin, phenobarbital), or use of 
+     <italic>Ginkgo biloba</italic> or St. John’s wort
+     <break/>14. Known gastrointestinal (GI) disease or GI procedure that could interfere with the oral absorption or tolerance of ixazomib, including difficulty swallowing
+     <break/>15. Patients who have previously been treated with ixazomib or participated in a study with ixazomib whether treated with ixazomib or not
+     <break/>16. Participant has current or prior hepatitis B or C infection
+    </td>
+    <td/>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R2">
+ <label>[2]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Platt</surname>
+    <given-names>OS</given-names>
+   </name>
+   <name>
+    <surname>Brambilla</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Rosse</surname>
+    <given-names>WF</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mortality in sickle cell disease—life expectancy and risk factors for early death</article-title>. 
+  <source>N Engl J Med</source>
+  <year>1994</year>;
+  <volume>330</volume>:
+  <elocation-id>1639</elocation-id>–
+  <lpage>44</lpage>.
+  <pub-id pub-id-type="pmid">7993409</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR29">
+ <label>29.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ma</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Dai</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>
+  <article-title>Principal component analysis based methods in bioinformatics studies</article-title>
+  <source>Brief Bioinform</source>
+  <year>2011</year>
+  <volume>12</volume>
+  <issue>6</issue>
+  <fpage>714</fpage>
+  <lpage>722</lpage>
+  <pub-id pub-id-type="doi">10.1093/bib/bbq090</pub-id>
+  <pub-id pub-id-type="pmid">21242203</pub-id>
+ </element-citation>
+</ref>

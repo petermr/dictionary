@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Flomenberg</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Devine</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Dipersio</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Liesveld</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>McCarty</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Rowley</surname>
+    <given-names>SD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The use of AMD3100 plus G-CSF for autologous hematopoietic progenitor cell mobilization is superior to G-CSF alone</article-title>
+  <source>Blood</source>
+  <year>2005</year>
+  <volume>106</volume>
+  <fpage>1867</fpage>
+  <lpage>74</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2005-02-0468</pub-id>
+  <pub-id pub-id-type="pmid">15890685</pub-id>
+ </element-citation>
+</ref>

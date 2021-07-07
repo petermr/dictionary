@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Beeharry</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Di Rora</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Yen</surname>
+    <given-names>TJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Pixantrone induces cell death through mitotic perturbations and subsequent aberrant cell divisions</article-title>
+  <source>Cancer Biol Ther</source>
+  <year>2015</year>
+  <volume>16</volume>
+  <issue>9</issue>
+  <fpage>1397</fpage>
+  <lpage>1406</lpage>
+  <pub-id pub-id-type="doi">10.1080/15384047.2015.1070979</pub-id>
+  <?supplied-pmid 26177126?>
+  <pub-id pub-id-type="pmid">26177126</pub-id>
+ </element-citation>
+</ref>

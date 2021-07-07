@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Valenti</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cancer stem cells regulate cancer-associated fibroblasts via activation of Hedgehog signaling in mammary gland tumors</article-title>
+  <source>Cancer Res.</source>
+  <year>2017</year>
+  <volume>77</volume>
+  <fpage>2134</fpage>
+  <lpage>2147</lpage>
+  <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-15-3490</pub-id>
+  <?supplied-pmid 28202523?>
+  <pub-id pub-id-type="pmid">28202523</pub-id>
+ </element-citation>
+</ref>

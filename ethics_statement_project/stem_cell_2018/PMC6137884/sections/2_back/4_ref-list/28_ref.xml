@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Povsic</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <name>
+    <surname>Henry</surname>
+    <given-names>TD</given-names>
+   </name>
+   <name>
+    <surname>Traverse</surname>
+    <given-names>JH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The RENEW trial: efficacy and safety of intramyocardial autologous CD34+ cell administration in patients with refractory angina</article-title>
+  <source>JACC Cardiovasc Interv</source>
+  <year>2016</year>
+  <volume>9</volume>
+  <fpage>1576</fpage>
+  <lpage>1585</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jcin.2016.05.003</pub-id>
+  <pub-id pub-id-type="pmid">27491607</pub-id>
+ </element-citation>
+</ref>

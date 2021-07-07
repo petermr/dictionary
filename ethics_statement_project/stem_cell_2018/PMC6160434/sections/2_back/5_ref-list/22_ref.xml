@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brown</surname>
+    <given-names>I</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genetic polymorphism in ornithine decarboxylase and risk of breast cancer</article-title>
+  <source>Fam Cancer</source>
+  <year>2009</year>
+  <volume>8</volume>
+  <fpage>307</fpage>
+  <lpage>311</lpage>
+  <pub-id pub-id-type="doi">10.1007/s10689-009-9237-9</pub-id>
+  <?supplied-pmid 19225907?>
+  <pub-id pub-id-type="pmid">19225907</pub-id>
+ </element-citation>
+</ref>

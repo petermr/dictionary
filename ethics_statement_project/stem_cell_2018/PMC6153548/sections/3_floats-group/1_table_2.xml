@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Dose-escalation schedule and dose-limiting toxicities</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Dose (mg/kg)</th>
+    <th>Prophylaxis</th>
+    <th>Evaluable patients (
+     <italic>n</italic> = 48*)
+    </th>
+    <th>Patients with DLT</th>
+    <th>Dose-limiting toxicity</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>0.1</td>
+    <td>None</td>
+    <td>3</td>
+    <td>0</td>
+    <td>–</td>
+   </tr>
+   <tr>
+    <td>0.2</td>
+    <td>None</td>
+    <td>8</td>
+    <td>0</td>
+    <td>–</td>
+   </tr>
+   <tr>
+    <td>0.4</td>
+    <td>None</td>
+    <td>5</td>
+    <td>2</td>
+    <td>Grade 3 febrile neutropenia</td>
+   </tr>
+   <tr>
+    <td>0.8</td>
+    <td>None</td>
+    <td>2</td>
+    <td>2</td>
+    <td>Grade 4 neutropenia;
+     <break/>Grade 2 peripheral sensory neuropathy
+    </td>
+   </tr>
+   <tr>
+    <td>0.4</td>
+    <td>Steroids</td>
+    <td>3</td>
+    <td>0</td>
+    <td>–</td>
+   </tr>
+   <tr>
+    <td>0.7</td>
+    <td>Steroids</td>
+    <td>3</td>
+    <td>0</td>
+    <td>–</td>
+   </tr>
+   <tr>
+    <td>1.0</td>
+    <td>Steroids</td>
+    <td>3</td>
+    <td>1</td>
+    <td>Grade 3 febrile neutropenia</td>
+   </tr>
+   <tr>
+    <td>1.0</td>
+    <td>Steroids + G-CSF</td>
+    <td>3</td>
+    <td>0</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>1.4</td>
+    <td>Steroids + G-CSF</td>
+    <td>6</td>
+    <td>1</td>
+    <td>Grade 4 thrombocytopenia</td>
+   </tr>
+   <tr>
+    <td>1.8</td>
+    <td>Steroids + G-CSF</td>
+    <td>12</td>
+    <td>2</td>
+    <td>Grade 3 febrile neutropenia;
+     <break/>Grade 3 febrile neutropenia plus grade 4 neutropenia and thrombocytopenia
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>*One patient (0.2 mg/kg cohort) discontinued from study prior to the safety evaluation performed 21 days following the first administration of IMGN529 and was thus non-evaluable for DLT assessment</p>
+ </table-wrap-foot>
+</table-wrap>

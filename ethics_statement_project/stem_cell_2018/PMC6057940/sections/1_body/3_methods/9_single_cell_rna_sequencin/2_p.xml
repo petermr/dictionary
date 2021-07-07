@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par53">The Cell Ranger Single Cell Software v2.0 (10× Genomics) was used to process raw bcl files to perform sample demultiplexing, barcode processing and single-cell 3′ gene counting (
+ <ext-link ext-link-type="uri" xlink:href="https://software.10xgenomics.com/single-cell/overview/welcome" xmlns:xlink="http://www.w3.org/1999/xlink">https://software.10xgenomics.com/single-cell/overview/welcome</ext-link>). Reads were mapped to the mm10 mouse reference genome. The Cell Ranger aggregation pipeline was used to normalize the sequencing depths of multiple datasets (based on the proportion of mapped reads) to recompute a combined gene−cell barcode matrix.
+</p>

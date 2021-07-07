@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T4" orientation="portrait" position="float">
+ <label>Table 4.</label>
+ <caption>
+  <p>Univariate and Multivariate Cox Models for Predictors of Infection and Bloodstream Infection</p>
+ </caption>
+ <table frame="vsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" valign="bottom" rowspan="2" colspan="1">Variable</th>
+    <th align="center" valign="bottom" colspan="4" rowspan="1">Predictors of Infection</th>
+    <th align="center" valign="bottom" colspan="4" rowspan="1">Predictors of Bloodstream Infection</th>
+   </tr>
+   <tr>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Univariate HR (95% CI)</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">
+     <italic>P</italic> Value
+    </th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Multivariate HR (95% CI)</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">
+     <italic>P</italic> Value
+    </th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Univariate HR (95% CI)</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">
+     <italic>P</italic> Value
+    </th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Multivariate HR (95% CI)</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">
+     <italic>P</italic> Value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">Age ≥50 y</td>
+    <td rowspan="1" colspan="1">1.04 (.43–2.39)</td>
+    <td align="center" rowspan="1" colspan="1">.92</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td rowspan="1" colspan="1">0.64 (.12–2.51)</td>
+    <td align="center" rowspan="1" colspan="1">.54</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Female sex</td>
+    <td rowspan="1" colspan="1">1.29 (.51–3.00)</td>
+    <td align="center" rowspan="1" colspan="1">.57</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td rowspan="1" colspan="1">2.76 (.71–10.69)</td>
+    <td align="center" rowspan="1" colspan="1">.14</td>
+    <td rowspan="1" colspan="1"> 2.63 (.67–10.37)</td>
+    <td align="center" rowspan="1" colspan="1">.16</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Prior chemotherapy (≥3 lines)</td>
+    <td rowspan="1" colspan="1">0.86 (.38–2.03)</td>
+    <td align="center" rowspan="1" colspan="1">.72</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td rowspan="1" colspan="1">1.66 (.42–9.04)</td>
+    <td align="center" rowspan="1" colspan="1">.48</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Prior allogeneic HSCT</td>
+    <td rowspan="1" colspan="1">0.77 (.30–1.79)</td>
+    <td align="center" rowspan="1" colspan="1">.55</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td rowspan="1" colspan="1">1.07 (.25–4.03)</td>
+    <td align="center" rowspan="1" colspan="1">.92</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Conditioning regimen</td>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Cy 1.5 g/m
+     <sup>2</sup>
+    </td>
+    <td rowspan="1" colspan="1">1.00 (—)</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td rowspan="1" colspan="1">1.00 (—)</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td rowspan="1" colspan="1">1.00 (—)</td>
+    <td rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Cy 3.0 g/m
+     <sup>2</sup>
+    </td>
+    <td rowspan="1" colspan="1">0.47 (.18–1.36)</td>
+    <td align="center" rowspan="1" colspan="1">.16</td>
+    <td rowspan="1" colspan="1">0.35 (.12–1.05)</td>
+    <td align="center" rowspan="1" colspan="1">.06</td>
+    <td rowspan="1" colspan="1">1.12 (.21–11.16)</td>
+    <td rowspan="1" colspan="1">.9</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Cy/Flu or Cy/Clo</td>
+    <td rowspan="1" colspan="1">1.41 (.49–4.21)</td>
+    <td align="center" rowspan="1" colspan="1">.52</td>
+    <td rowspan="1" colspan="1">0.83 (.23–3.02)</td>
+    <td align="center" rowspan="1" colspan="1">.77</td>
+    <td rowspan="1" colspan="1">2.58 (.42–26.63)</td>
+    <td align="center" rowspan="1" colspan="1">.31</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Morphologic disease (≥5% blasts or extramedullary disease)</td>
+    <td rowspan="1" colspan="1">1.76 (.74–4.72)</td>
+    <td align="center" rowspan="1" colspan="1">.21</td>
+    <td rowspan="1" colspan="1">0.65 (.18–2.25)</td>
+    <td align="center" rowspan="1" colspan="1">.50</td>
+    <td rowspan="1" colspan="1">1.72 (.44–9.35)</td>
+    <td align="center" rowspan="1" colspan="1">.45</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">CAR T-cell dose (3 × 10
+     <sup>6</sup>/kg vs 1 × 10
+     <sup>6</sup>/kg)
+    </td>
+    <td rowspan="1" colspan="1">0.44 (.19–1.01)</td>
+    <td align="center" rowspan="1" colspan="1">.05</td>
+    <td rowspan="1" colspan="1">0.47 (.16–1.35)</td>
+    <td align="center" rowspan="1" colspan="1">.16</td>
+    <td rowspan="1" colspan="1">0.72 (.19–2.78)</td>
+    <td align="center" rowspan="1" colspan="1">.62</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Hypogammaglobulinemia (IgG &lt;600 mg/dL)</td>
+    <td rowspan="1" colspan="1">1.10 (.32–5.66)</td>
+    <td align="center" rowspan="1" colspan="1">.89</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td rowspan="1" colspan="1">2.21 (.24–292.76)</td>
+    <td align="center" rowspan="1" colspan="1">.56</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+    <td align="center" rowspan="1" colspan="1">…</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">CRS grade ≥3
+     <sup>a</sup>
+    </td>
+    <td rowspan="1" colspan="1">2.64 (1.11–6.03)</td>
+    <td align="center" rowspan="1" colspan="1">.03</td>
+    <td rowspan="1" colspan="1">2.67 (1.00–7.34)</td>
+    <td align="center" rowspan="1" colspan="1">.05</td>
+    <td rowspan="1" colspan="1">20.21 (4.40–192.13)</td>
+    <td align="center" rowspan="1" colspan="1">&lt;.001</td>
+    <td rowspan="1" colspan="1">19.97 (4.32–190.31)</td>
+    <td align="center" rowspan="1" colspan="1">&lt;.001</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="fn-13">
+   <p>Abbreviations: CAR, chimeric antigen receptor; CI, confidence interval; Clo, clofarabine; CRS, cytokine release syndrome; Cy, cyclophosphamide; Flu, fludarabine; HR, hazard ratio; HSCT, hematopoietic stem cell transplantation; IgG, immunoglobulin G.</p>
+  </fn>
+  <fn id="fn-14">
+   <p>
+    <sup>a</sup>Analyzed as a time-dependent predictor. All the analysis time was CRS grade 3–4.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

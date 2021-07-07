@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Freynhagen</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Baron</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Gockel</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Tölle</surname>
+    <given-names>TR</given-names>
+   </name>
+  </person-group>
+  <article-title>painDETECT: a new screening questionnaire to identify neuropathic components in patients with back pain</article-title>
+  <source>Curr Med Res Opin</source>
+  <year>2006</year>
+  <volume>22</volume>
+  <fpage>1911</fpage>
+  <lpage>1920</lpage>
+  <pub-id pub-id-type="doi">10.1185/030079906X132488</pub-id>
+  <?supplied-pmid 17022849?>
+  <pub-id pub-id-type="pmid">17022849</pub-id>
+ </element-citation>
+</ref>

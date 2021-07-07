@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par64">Stromal collagen fiber organization and crosslinking were assessed using GLCM
+ <sup>
+  <xref ref-type="bibr" rid="CR24">24</xref>
+ </sup> analysis to characterize the texture of a sample and determine the correlation of the SHG signal within the matrix. The correlation plots represent the similarity in signal strength between pixels. A slower decay shows a more organized and correlated network of collagen fibers than in samples with a faster decay. GLCM analysis was performed in ImageJ.
+</p>

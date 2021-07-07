@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="table5-0963689718820271" orientation="portrait" position="float">
+ <label>Table 5.</label>
+ <caption>
+  <p>Neuropsychological Scores.</p>
+ </caption>
+ <alternatives>
+  <graphic xlink:href="10.1177_0963689718820271-table5" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <thead>
+    <tr>
+     <th colspan="3" rowspan="1">Patient</th>
+     <th rowspan="1" colspan="1">1</th>
+     <th rowspan="1" colspan="1">2</th>
+     <th rowspan="1" colspan="1">3</th>
+     <th rowspan="1" colspan="1">4</th>
+     <th rowspan="1" colspan="1">5</th>
+     <th rowspan="1" colspan="1">6</th>
+     <th rowspan="1" colspan="1">7</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td colspan="2" rowspan="4">Cognitive assessments*</td>
+     <td rowspan="1" colspan="1">Baseline</td>
+     <td rowspan="1" colspan="1">112 nor</td>
+     <td rowspan="1" colspan="1">108 nor</td>
+     <td rowspan="1" colspan="1">72 mild</td>
+     <td rowspan="1" colspan="1">121 nor</td>
+     <td rowspan="1" colspan="1">112 nor</td>
+     <td rowspan="1" colspan="1">112 nor</td>
+     <td rowspan="1" colspan="1">112 nor</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">1 year</td>
+     <td rowspan="1" colspan="1">122 nor</td>
+     <td rowspan="1" colspan="1">117 nor</td>
+     <td rowspan="1" colspan="1">70 mild</td>
+     <td rowspan="1" colspan="1">114 nor</td>
+     <td rowspan="1" colspan="1">93 nor</td>
+     <td rowspan="1" colspan="1">96 mild</td>
+     <td rowspan="1" colspan="1">95 nor</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">2 years</td>
+     <td rowspan="1" colspan="1">119 nor</td>
+     <td rowspan="1" colspan="1">117 nor</td>
+     <td rowspan="1" colspan="1">95.5 nor</td>
+     <td rowspan="1" colspan="1">124 nor</td>
+     <td rowspan="1" colspan="1">90 mild</td>
+     <td rowspan="1" colspan="1">124 nor</td>
+     <td rowspan="1" colspan="1">80 mod</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">4 years</td>
+     <td rowspan="1" colspan="1">119 nor</td>
+     <td rowspan="1" colspan="1">116 nor</td>
+     <td rowspan="1" colspan="1">64 mod</td>
+     <td rowspan="1" colspan="1"/>
+     <td rowspan="1" colspan="1">88 mod</td>
+     <td rowspan="1" colspan="1">120 nor</td>
+     <td rowspan="1" colspan="1">86 mod</td>
+    </tr>
+    <tr>
+     <td rowspan="8" colspan="1">Affective assessments</td>
+     <td rowspan="4" colspan="1">Depression**</td>
+     <td rowspan="1" colspan="1">Baseline</td>
+     <td rowspan="1" colspan="1">1 min</td>
+     <td rowspan="1" colspan="1">19 mild</td>
+     <td rowspan="1" colspan="1">10 min</td>
+     <td rowspan="1" colspan="1">11 min</td>
+     <td rowspan="1" colspan="1">15 mild</td>
+     <td rowspan="1" colspan="1">5 min</td>
+     <td rowspan="1" colspan="1">7 min</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">1 year</td>
+     <td rowspan="1" colspan="1">4 min</td>
+     <td rowspan="1" colspan="1">9 min</td>
+     <td rowspan="1" colspan="1">9 min</td>
+     <td rowspan="1" colspan="1">4 min</td>
+     <td rowspan="1" colspan="1">7 min</td>
+     <td rowspan="1" colspan="1">8 min</td>
+     <td rowspan="1" colspan="1">9 min</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">2 years</td>
+     <td rowspan="1" colspan="1">3 min</td>
+     <td rowspan="1" colspan="1">19 mild</td>
+     <td rowspan="1" colspan="1">5 min</td>
+     <td rowspan="1" colspan="1">9 min</td>
+     <td rowspan="1" colspan="1">3 min</td>
+     <td rowspan="1" colspan="1">0 min</td>
+     <td rowspan="1" colspan="1">12 min</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">4 years</td>
+     <td rowspan="1" colspan="1">10 min</td>
+     <td rowspan="1" colspan="1">28 mod</td>
+     <td rowspan="1" colspan="1">6 min</td>
+     <td rowspan="1" colspan="1"/>
+     <td rowspan="1" colspan="1">10 min</td>
+     <td rowspan="1" colspan="1">8 min</td>
+     <td rowspan="1" colspan="1">7 min</td>
+    </tr>
+    <tr>
+     <td rowspan="4" colspan="1">Anxiety***</td>
+     <td rowspan="1" colspan="1">Baseline</td>
+     <td rowspan="1" colspan="1">2 min</td>
+     <td rowspan="1" colspan="1">30 sev</td>
+     <td rowspan="1" colspan="1">13 mild</td>
+     <td rowspan="1" colspan="1">8 mild</td>
+     <td rowspan="1" colspan="1">33 sev</td>
+     <td rowspan="1" colspan="1">31 sev</td>
+     <td rowspan="1" colspan="1">12 mild</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">1 year</td>
+     <td rowspan="1" colspan="1">9 mild</td>
+     <td rowspan="1" colspan="1">31 sev</td>
+     <td rowspan="1" colspan="1">7 min</td>
+     <td rowspan="1" colspan="1">7 min</td>
+     <td rowspan="1" colspan="1">26 sev</td>
+     <td rowspan="1" colspan="1">4 min</td>
+     <td rowspan="1" colspan="1">21 mod</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">2 years</td>
+     <td rowspan="1" colspan="1">11 mild</td>
+     <td rowspan="1" colspan="1">37 sev</td>
+     <td rowspan="1" colspan="1">6 min</td>
+     <td rowspan="1" colspan="1">8 mild</td>
+     <td rowspan="1" colspan="1">22 mod</td>
+     <td rowspan="1" colspan="1">10 mild</td>
+     <td rowspan="1" colspan="1">34 sev</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">4 years</td>
+     <td rowspan="1" colspan="1">16 mod</td>
+     <td rowspan="1" colspan="1">35 sev</td>
+     <td rowspan="1" colspan="1">18 mod</td>
+     <td rowspan="1" colspan="1"/>
+     <td rowspan="1" colspan="1">22 mod</td>
+     <td rowspan="1" colspan="1">13 mild</td>
+     <td rowspan="1" colspan="1">25 mod</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <fn id="table-fn5-0963689718820271">
+   <p>* NEUROPSI cognitive performance scale, for ages 31–50 years: 112–102/normal, 101–97/mild, 96–88/moderate, 87–78/severe; for ages 51–65 years: 101–93/normal, 92–88/mild, 87–80/moderate, 79–72/severe; for ages 66–85 years: 91–78, normal; 77–72, mild; 71–59, moderate; 58–46, severe. **BDI, Beck Depression Inventory: 0–13/minimal, 14–19/mild, 20–28/moderate, 29–63/severe. ***BAI, Beck Anxiety Inventory: 0–7/minimal, 8–15/mild, 16–25/moderate, 26–63/severe. P4 had no 4-year follow-up. Neuropsychological performance before and after surgery remained largely unchanged.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vincent</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Rello</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Marshall</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Silva</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Anzueto</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Martin</surname>
+    <given-names>CD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>International study of the prevalence and outcomes of infection in intensive care units</article-title>
+  <source>JAMA.</source>
+  <year>2009</year>
+  <volume>302</volume>
+  <fpage>2323</fpage>
+  <lpage>2329</lpage>
+  <pub-id pub-id-type="doi">10.1001/jama.2009.1754</pub-id>
+  <?supplied-pmid 19952319?>
+  <pub-id pub-id-type="pmid">19952319</pub-id>
+ </element-citation>
+</ref>

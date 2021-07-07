@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Peng</given-names>
+  </name>
+  <address>
+   <email>chenp2018@outlook.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Zhu</surname>
+   <given-names>Ke-Wei</given-names>
+  </name>
+  <address>
+   <email>zhukew2018@outlook.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Dao-Yu</given-names>
+  </name>
+  <address>
+   <email>zhangdy920@hotmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yan</surname>
+   <given-names>Han</given-names>
+  </name>
+  <address>
+   <email>yanhan501@csu.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Han</given-names>
+  </name>
+  <address>
+   <email>m13187036421@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Yan-Ling</given-names>
+  </name>
+  <address>
+   <email>158111092@csu.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cao</surname>
+   <given-names>Shan</given-names>
+  </name>
+  <address>
+   <email>caoshan2016@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhou</surname>
+   <given-names>Gan</given-names>
+  </name>
+  <address>
+   <email>zhougan77@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zeng</surname>
+   <given-names>Hui</given-names>
+  </name>
+  <address>
+   <email>xyzengh@hotmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Shu-Ping</given-names>
+  </name>
+  <address>
+   <email>shuping1207@126.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhao</surname>
+   <given-names>Xie-Lan</given-names>
+  </name>
+  <address>
+   <email>Zhaoxl9198@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Jing</given-names>
+  </name>
+  <address>
+   <email>yangjing_0101@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4956-8727</contrib-id>
+  <name>
+   <surname>Chen</surname>
+   <given-names>Xiao-Ping</given-names>
+  </name>
+  <address>
+   <email>chenxp74@hotmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0379 7164</institution-id>
+   <institution-id institution-id-type="GRID">grid.216417.7</institution-id>
+   <institution>Department of Clinical Pharmacology, Xiangya Hospital, </institution>
+   <institution>Central South University, </institution>
+  </institution-wrap>Changsha, 410008 Hunan People’s Republic of China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0379 7164</institution-id>
+   <institution-id institution-id-type="GRID">grid.216417.7</institution-id>
+   <institution>Institute of Clinical Pharmacology, </institution>
+   <institution>Central South University; Hunan Key Laboratory of Pharmacogenetics, </institution>
+  </institution-wrap>Changsha, 410078 Hunan People’s Republic of China 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0379 7164</institution-id>
+   <institution-id institution-id-type="GRID">grid.216417.7</institution-id>
+   <institution>National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, </institution>
+   <institution>Central South University, </institution>
+  </institution-wrap>Changsha, 410008 Hunan People’s Republic of China 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0379 7164</institution-id>
+   <institution-id institution-id-type="GRID">grid.216417.7</institution-id>
+   <institution>Department of Hematology, Xiangya Hospital, </institution>
+   <institution>Central South University, </institution>
+  </institution-wrap>Changsha, 410008 Hunan People’s Republic of China 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.412633.1</institution-id>
+   <institution>Department of Pharmacy, </institution>
+   <institution>The First Affiliated Hospital of Zhengzhou University, </institution>
+  </institution-wrap>Zhengzhou, 450052 Henan People’s Republic of China 
+ </aff>
+</contrib-group>

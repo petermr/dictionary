@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rades</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Dziggel</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Segedin</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Oblak</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Nagy</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Marita</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The first survival score for patients with brain metastases from small cell lung cancer (SCLC)</article-title>
+  <source>Clin Neurol Neurosurg.</source>
+  <year>2013</year>
+  <volume>115</volume>
+  <fpage>2029</fpage>
+  <lpage>2032</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.clineuro.2013.06.019</pub-id>
+  <?supplied-pmid 23871680?>
+  <pub-id pub-id-type="pmid">23871680</pub-id>
+ </element-citation>
+</ref>

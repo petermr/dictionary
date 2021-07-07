@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sylvan</surname>
+   <given-names>Sandra Eketorp</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1040797">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Asklid</surname>
+   <given-names>Anna</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1040797">1</xref>
+  <xref ref-type="aff" rid="af2-1040797">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Johansson</surname>
+   <given-names>Hemming</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1040797">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Klintman</surname>
+   <given-names>Jenny</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-1040797">3</xref>
+  <xref ref-type="aff" rid="af4-1040797">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bjellvi</surname>
+   <given-names>Jenny</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-1040797">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tolvgård</surname>
+   <given-names>Staffan</given-names>
+  </name>
+  <xref ref-type="aff" rid="af6-1040797">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kimby</surname>
+   <given-names>Eva</given-names>
+  </name>
+  <xref ref-type="aff" rid="af7-1040797">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Norin</surname>
+   <given-names>Stefan</given-names>
+  </name>
+  <xref ref-type="aff" rid="af7-1040797">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Andersson</surname>
+   <given-names>Per-Ola</given-names>
+  </name>
+  <xref ref-type="aff" rid="af8-1040797">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Karlsson</surname>
+   <given-names>Claes</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1040797">1</xref>
+  <xref ref-type="aff" rid="af9-1040797">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Karlsson</surname>
+   <given-names>Karin</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-1040797">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lauri</surname>
+   <given-names>Birgitta</given-names>
+  </name>
+  <xref ref-type="aff" rid="af10-1040797">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mattsson</surname>
+   <given-names>Mattias</given-names>
+  </name>
+  <xref ref-type="aff" rid="af11-1040797">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sandstedt</surname>
+   <given-names>Anna Bergendahl</given-names>
+  </name>
+  <xref ref-type="aff" rid="af12-1040797">12</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Strandberg</surname>
+   <given-names>Maria</given-names>
+  </name>
+  <xref ref-type="aff" rid="af13-1040797">13</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Österborg</surname>
+   <given-names>Anders</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1040797">1</xref>
+  <xref ref-type="aff" rid="af9-1040797">9</xref>
+  <xref rid="fn1-1040797" ref-type="author-notes">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hansson</surname>
+   <given-names>Lotta</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1040797">1</xref>
+  <xref ref-type="aff" rid="af9-1040797">9</xref>
+  <xref rid="fn1-1040797" ref-type="author-notes">*</xref>
+  <xref ref-type="corresp" rid="c1-1040797"/>
+ </contrib>
+</contrib-group>

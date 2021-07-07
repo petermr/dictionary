@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lombardo</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Obach</surname>
+    <given-names>RS</given-names>
+   </name>
+   <name>
+    <surname>Dicapua</surname>
+    <given-names>FM</given-names>
+   </name>
+   <name>
+    <surname>Bakken</surname>
+    <given-names>GA</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Potter</surname>
+    <given-names>DM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A hybrid mixture discriminant analysis-random forest computational model for the prediction of volume of distribution of drugs in human</article-title>
+  <source>J Med Chem.</source>
+  <year>2006</year>
+  <volume>49</volume>
+  <fpage>2262</fpage>
+  <lpage>2267</lpage>
+  <?supplied-pmid 16570922?>
+  <pub-id pub-id-type="pmid">16570922</pub-id>
+ </element-citation>
+</ref>

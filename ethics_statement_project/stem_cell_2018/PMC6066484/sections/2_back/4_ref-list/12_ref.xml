@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Richardson</surname>
+    <given-names>PG</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Extended follow-up of a phase 3 trial in relapsed multiple myeloma: final time-to-event results of the APEX trial</article-title>
+  <source>Blood</source>
+  <year>2007</year>
+  <volume>110</volume>
+  <fpage>3557</fpage>
+  <lpage>3560</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2006-08-036947</pub-id>
+  <?supplied-pmid 17690257?>
+  <pub-id pub-id-type="pmid">17690257</pub-id>
+ </element-citation>
+</ref>

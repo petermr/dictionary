@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <sec>
+  <title>Introduction</title>
+  <p>Inappropriate use of antimicrobials in hospitals contributes to antimicrobial resistance. Antimicrobial stewardship (AMS) interventions aim to improve antimicrobial prescribing, but they are often resource and personnel intensive. Computerised decision supportsystems (CDSSs) seem a promising tool to improve antimicrobial prescribing but have been insufficiently studied in clinical trials.</p>
+ </sec>
+ <sec>
+  <title>Methods and analysis</title>
+  <p>The COMPuterized Antibiotic Stewardship Study trial, is a publicly funded, open-label, cluster randomised, controlled superiority trial which aims to determine whether a multimodal CDSS intervention integrated in the electronic health record (EHR) reduces overall antibiotic exposure in adult patients hospitalised in wards of two secondary and one tertiary care centre in Switzerland compared with ‘standard-of-care’ AMS. Twenty-four hospital wards will be randomised 1:1 to either intervention or control, using a ‘pair-matching’ approach based on baseline antibiotic use, specialty and centre. The intervention will consist of (1) decision support for the choice of antimicrobial treatment and duration of treatment for selected indications (based on indication entry), (2) accountable justification for deviation from the local guidelines (with regard to the choice of molecules and duration), (3) alerts for self-guided re-evaluation of treatment on calendar day 4 of antimicrobial therapy and (4) monthly ward-level feedback of antimicrobial prescribing indicators. The primary outcome will be the difference in overall systemic antibiotic use measured in days of therapy per admission based on administration data recorded in the EHR over the whole intervention period (12 months), taking into account clustering. Secondary outcomes include qualitative and quantitative antimicrobial use indicators, economic outcomes and clinical, microbiological and patient safety indicators.</p>
+ </sec>
+ <sec>
+  <title>Ethics and dissemination</title>
+  <p>Ethics approval was obtained for all participating sites (Comission Cantonale d'Éthique de la Recherche (CCER)2017–00454). The results of the trial will be submitted for publication in a peer-reviewed journal. Further dissemination activities will be presentations/posters at national and international conferences.</p>
+ </sec>
+ <sec>
+  <title>Trial registration number</title>
+  <p>
+   <ext-link ext-link-type="uri" xlink:href="NCT03120975" specific-use="clinicaltrial pre-results" xmlns:xlink="http://www.w3.org/1999/xlink">NCT03120975</ext-link>; Pre-results.
+  </p>
+ </sec>
+</abstract>

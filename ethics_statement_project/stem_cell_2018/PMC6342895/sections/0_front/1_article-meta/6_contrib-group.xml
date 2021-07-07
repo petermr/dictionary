@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2452-8032</contrib-id>
+  <name>
+   <surname>Marini</surname>
+   <given-names>Carolina</given-names>
+  </name>
+  <address>
+   <phone>00351 912 754 834</phone>
+   <email>carolinamarini@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Maia</surname>
+   <given-names>Tânia</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bergantim</surname>
+   <given-names>Rui</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pires</surname>
+   <given-names>Jorge</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Aguiar</surname>
+   <given-names>Eliana</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Guimarães</surname>
+   <given-names>José Eduardo</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Trigo</surname>
+   <given-names>Fernanda</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9375 4688</institution-id>
+   <institution-id institution-id-type="GRID">grid.414556.7</institution-id>
+   <institution>Centro Hospitalar de São João, </institution>
+  </institution-wrap>Porto, Portugal 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 1503 7226</institution-id>
+   <institution-id institution-id-type="GRID">grid.5808.5</institution-id>
+   <institution>Faculdade de Medicina da Universidade do Porto, </institution>
+  </institution-wrap>Porto, Portugal 
+ </aff>
+</contrib-group>

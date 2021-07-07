@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chang</surname>
+    <given-names>EL</given-names>
+   </name>
+   <name>
+    <surname>Wefel</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Hess</surname>
+    <given-names>KR</given-names>
+   </name>
+   <name>
+    <surname>Allen</surname>
+    <given-names>PK</given-names>
+   </name>
+   <name>
+    <surname>Lang</surname>
+    <given-names>FF</given-names>
+   </name>
+   <name>
+    <surname>Kornguth</surname>
+    <given-names>DG</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Neurocognition in patients with brain metastases treated with radiosurgery or radiosurgery plus whole-brain irradiation: a randomised controlled trial</article-title>
+  <source>Lancet Oncol.</source>
+  <year>2009</year>
+  <volume>10</volume>
+  <fpage>1037</fpage>
+  <lpage>1044</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(09)70263-3</pub-id>
+  <?supplied-pmid 19801201?>
+  <pub-id pub-id-type="pmid">19801201</pub-id>
+ </element-citation>
+</ref>

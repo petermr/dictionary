@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Santamaria</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Chillon</surname>
+    <given-names>MC</given-names>
+   </name>
+   <name>
+    <surname>Garcia-Sanz</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Perez</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Caballero</surname>
+    <given-names>MD</given-names>
+   </name>
+   <name>
+    <surname>Ramos</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Molecular stratification model for prognosis in cytogenetically normal acute myeloid leukemia</article-title>
+  <source>Blood</source>
+  <year>2009</year>
+  <volume>114</volume>
+  <fpage>148</fpage>
+  <lpage>152</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2008-11-187724</pub-id>
+  <?supplied-pmid 19398719?>
+  <pub-id pub-id-type="pmid">19398719</pub-id>
+ </element-citation>
+</ref>

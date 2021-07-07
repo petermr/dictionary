@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Roussel</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Bortezomib and high-dose melphalan as conditioning regimen before autologous stem cell transplantation in patients with de novo multiple myeloma: a phase 2 study of the Intergroupe Francophone du Myelome (IFM)</article-title>
+  <source>Blood</source>
+  <year>2010</year>
+  <volume>115</volume>
+  <issue>1</issue>
+  <fpage>32</fpage>
+  <lpage>37</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2009-06-229658</pub-id>
+  <?supplied-pmid 19884643?>
+  <pub-id pub-id-type="pmid">19884643</pub-id>
+ </element-citation>
+</ref>

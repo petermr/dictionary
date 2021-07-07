@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="table1-1076029618792302" orientation="portrait" position="float">
+ <label>Table 1.</label>
+ <caption>
+  <p>Results Mutational Analysis in Patient and Control Groups.
+   <sup>a</sup>
+  </p>
+ </caption>
+ <alternatives>
+  <graphic xlink:href="10.1177_1076029618792302-table1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <thead>
+    <tr>
+     <th colspan="6" rowspan="1">Mutation</th>
+    </tr>
+    <tr>
+     <th rowspan="2" colspan="1"/>
+     <th rowspan="1" colspan="1">Normal</th>
+     <th colspan="4" rowspan="1">Mutant</th>
+    </tr>
+    <tr>
+     <th rowspan="1" colspan="1">Normal (%)</th>
+     <th rowspan="1" colspan="1">Heterozygous (%)</th>
+     <th rowspan="1" colspan="1">Homozygous (%)</th>
+     <th rowspan="1" colspan="1">χ
+      <sup>2</sup>
+     </th>
+     <th rowspan="1" colspan="1">
+      <italic>P</italic>
+     </th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td rowspan="1" colspan="1">Patient (n = 51)</td>
+     <td rowspan="1" colspan="1">8 (15.7%)</td>
+     <td rowspan="1" colspan="1">29 (56.9%)</td>
+     <td rowspan="1" colspan="1">14 (27.5%)</td>
+     <td rowspan="1" colspan="1">6.60</td>
+     <td rowspan="1" colspan="1">.037</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">Control (n = 51)</td>
+     <td rowspan="1" colspan="1">19 (37.3%)</td>
+     <td rowspan="1" colspan="1">19 (37.3%)</td>
+     <td rowspan="1" colspan="1">13 (25.5%)</td>
+     <td rowspan="1" colspan="1"/>
+     <td rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">OR (95% CI)</td>
+     <td rowspan="1" colspan="1">–</td>
+     <td rowspan="1" colspan="1">3.63 (1.32-9.94)</td>
+     <td rowspan="1" colspan="1">2.56 (0.84-7.83)</td>
+     <td rowspan="1" colspan="1"/>
+     <td rowspan="1" colspan="1"/>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <fn id="table-fn1-1076029618792302">
+   <p>Abbreviations: CI, confidence interval; OR, odds ratio; VKOR, vitamin K epoxide reductase.</p>
+  </fn>
+  <fn id="table-fn2-1076029618792302">
+   <p>
+    <sup>a</sup> In terms of VKORC1-1639 mutation: (a) Those with the heterozygous genotype were 3.63 times more risky than those with the normal genotype. (b) Homozygous group has 2.56 times more disease risk than normal genotype group. (c) No significant difference between heterozygous and homozygous mutant group. (d) No significant difference between normal and homozygous mutant group.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

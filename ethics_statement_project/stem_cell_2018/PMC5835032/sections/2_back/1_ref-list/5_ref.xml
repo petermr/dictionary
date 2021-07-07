@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Collins</surname>
+    <given-names>RH</given-names>
+    <suffix>Jr</suffix>
+   </name>
+   <name>
+    <surname>Shpilberg</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Drobyski</surname>
+    <given-names>WR</given-names>
+   </name>
+   <name>
+    <surname>Porter</surname>
+    <given-names>DL</given-names>
+   </name>
+   <name>
+    <surname>Giralt</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Champlin</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Donor leukocyte infusions in 140 patients with relapsed malignancy after allogeneic bone marrow transplantation</article-title>. 
+  <source>J Clin Oncol</source> (
+  <year>1997</year>) 
+  <volume>15</volume>(
+  <issue>2</issue>):
+  <fpage>433</fpage>–
+  <lpage>44</lpage>.
+  <pub-id pub-id-type="doi">10.1200/JCO.1997.15.2.433</pub-id>
+  <?supplied-pmid 9053463?>
+  <pub-id pub-id-type="pmid">9053463</pub-id>
+ </mixed-citation>
+</ref>

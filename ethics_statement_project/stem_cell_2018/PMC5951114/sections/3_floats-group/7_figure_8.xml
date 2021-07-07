@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F8" position="float">
+ <label>Figure 8</label>
+ <caption>
+  <p>Natural killer (NK) cells augment IL-17A and 
+   <italic>RORC</italic> levels in memory CD4 T cells. Purified memory CD4
+   <sup>+</sup> T cells from healthy subject PBMCs were activated with anti-CD3, anti-CD28, and Th17 polarizing factors without (open diamond) or with NK cells (closed square). Cytokines IL-17A 
+   <bold>(A)</bold> and IFN-γ 
+   <bold>(B)</bold> were measured in the supernatant by enzyme-linked immunosorbent assay. Expression of 
+   <italic>RORC</italic>
+   <bold>(C)</bold> and 
+   <italic>IL17A</italic>
+   <bold>(D)</bold> mRNA was measured by qPCR at the indicated time points. Data are representative of three samples. Groups included non-activated memory CD4
+   <sup>+</sup> T cells (T nil; closed circles), activated memory CD4
+   <sup>+</sup> T cells (T; open circle), activated memory CD4
+   <sup>+</sup> T cells with NK cells (T NK; closed squares), and NK cells cultured alone with IL-2 (NK IL-2; open squares). Representative plots of IL-17A and IFN-γ expression in NK cells (CD3
+   <sup>−</sup>CD56
+   <sup>+</sup>) are shown 
+   <bold>(E,F)</bold>.
+  </p>
+ </caption>
+ <graphic xlink:href="fimmu-09-00834-g008" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bose</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Chan</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Guerrero</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Maristany</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Qiu</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Walsh</surname>
+    <given-names>RM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Binding of soluble yeast beta-glucan to human neutrophils and monocytes is complement-dependent</article-title>
+  <source>Front Immunol</source>
+  <year>2013</year>
+  <volume>4</volume>
+  <fpage>230</fpage>
+  <pub-id pub-id-type="doi">10.3389/fimmu.2013.00230</pub-id>
+  <?supplied-pmid 23964276?>
+  <pub-id pub-id-type="pmid">23964276</pub-id>
+ </element-citation>
+</ref>

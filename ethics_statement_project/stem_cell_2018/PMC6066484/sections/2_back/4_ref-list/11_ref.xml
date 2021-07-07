@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Orlowski</surname>
+    <given-names>RZ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Phase I trial of the proteasome inhibitor PS-341 in patients with refractory hematologic malignancies</article-title>
+  <source>J. Clin. Oncol.</source>
+  <year>2002</year>
+  <volume>20</volume>
+  <fpage>4420</fpage>
+  <lpage>4427</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2002.01.133</pub-id>
+  <?supplied-pmid 12431963?>
+  <pub-id pub-id-type="pmid">12431963</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B47">
+ <label>47</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Muraro</surname>
+    <given-names>PA</given-names>
+   </name>
+   <name>
+    <surname>Douek</surname>
+    <given-names>DC</given-names>
+   </name>
+   <name>
+    <surname>Packer</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Chung</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Guenaga</surname>
+    <given-names>FJ</given-names>
+   </name>
+   <name>
+    <surname>Cassiani-Ingoni</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Thymic output generates a new and diverse TCR repertoire after autologous stem cell transplantation in multiple sclerosis patients</article-title>. 
+  <source>J Exp Med</source> (
+  <year>2005</year>) 
+  <volume>201</volume>:
+  <fpage>805</fpage>–
+  <lpage>16</lpage>.
+  <pub-id pub-id-type="doi">10.1084/jem.20041679</pub-id>
+  <?supplied-pmid 15738052?>
+  <pub-id pub-id-type="pmid">15738052</pub-id>
+ </mixed-citation>
+</ref>

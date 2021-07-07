@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0204870.g002" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0204870.g002</object-id>
+ <label>Fig 2</label>
+ <caption>
+  <p>Boxplots of distributions of percentage of positive cells for (A) the 
+   <italic>untreated</italic> group and (B) the 
+   <italic>treated</italic> group. Wilcoxon signed-rank test P values are included comparing biopsy 1 and 2 in the 
+   <italic>untreated</italic> group, and primary and relapse biopsies in the 
+   <italic>treated</italic> group.
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0204870.g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tucker</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Vinciotti</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Garway-Heath</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>A spatio-temporal Bayesian network classifier for understanding visual field deterioration</article-title>
+  <source>Artif Intell Med.</source>
+  <year>2005</year>
+  <volume>34</volume>
+  <fpage>163</fpage>
+  <lpage>177</lpage>
+  <?supplied-pmid 15894180?>
+  <pub-id pub-id-type="pmid">15894180</pub-id>
+ </element-citation>
+</ref>

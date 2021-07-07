@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Previous therapy received by the 17 patients with a CR/CRu</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Patient number</th>
+    <th align="left">Prior regimen</th>
+    <th align="left">Duration of prior regimen, days</th>
+    <th align="left">Response to last regimen</th>
+    <th align="left">Time between end of last regimen and initiation of pixantrone, days</th>
+    <th align="left">Duration of response to pixantrone, days</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">1</td>
+    <td align="left">Rituximab plus etoposide, carmustine, methylprednisolone</td>
+    <td char="." align="char">114</td>
+    <td align="left">PR</td>
+    <td char="." align="char">506</td>
+    <td char="." align="char">121</td>
+   </tr>
+   <tr>
+    <td align="left">2</td>
+    <td align="left">R-CHOP</td>
+    <td char="." align="char">67</td>
+    <td align="left">CR</td>
+    <td char="." align="char">637</td>
+    <td char="." align="char">679</td>
+   </tr>
+   <tr>
+    <td align="left">3</td>
+    <td align="left">Chlorambucil
+     <sup>a</sup>
+    </td>
+    <td char="." align="char">99</td>
+    <td align="left">Stable disease</td>
+    <td char="." align="char">238</td>
+    <td char="." align="char">18</td>
+   </tr>
+   <tr>
+    <td align="left">4</td>
+    <td align="left">R-DHAP</td>
+    <td char="." align="char">202</td>
+    <td align="left">Stable disease</td>
+    <td char="." align="char">512</td>
+    <td char="." align="char">151</td>
+   </tr>
+   <tr>
+    <td align="left">5</td>
+    <td align="left">Cytarabine, dexamethasone, ifosfamide</td>
+    <td char="." align="char">3</td>
+    <td align="left">PD</td>
+    <td char="." align="char">53</td>
+    <td char="." align="char">213</td>
+   </tr>
+   <tr>
+    <td align="left">6</td>
+    <td align="left">ICE</td>
+    <td char="." align="char">117</td>
+    <td align="left">CR</td>
+    <td char="." align="char">249</td>
+    <td char="." align="char">56</td>
+   </tr>
+   <tr>
+    <td align="left">7</td>
+    <td align="left">ICE</td>
+    <td char="." align="char">28</td>
+    <td align="left">PD</td>
+    <td char="." align="char">54</td>
+    <td char="." align="char">623</td>
+   </tr>
+   <tr>
+    <td align="left">8</td>
+    <td align="left">Cytarabine, dexamethasone, cisplatin</td>
+    <td char="." align="char">43</td>
+    <td align="left">PD</td>
+    <td char="." align="char">226</td>
+    <td char="." align="char">633</td>
+   </tr>
+   <tr>
+    <td align="left">9</td>
+    <td align="left">CVP</td>
+    <td char="." align="char">90</td>
+    <td align="left">PR</td>
+    <td char="." align="char">2043</td>
+    <td char="." align="char">1
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">10</td>
+    <td align="left">CVP</td>
+    <td char="." align="char">47</td>
+    <td align="left">PR</td>
+    <td char="." align="char">1108</td>
+    <td char="." align="char">63</td>
+   </tr>
+   <tr>
+    <td align="left">11</td>
+    <td align="left">ESHAP</td>
+    <td char="." align="char">96</td>
+    <td align="left">PR</td>
+    <td char="." align="char">275</td>
+    <td char="." align="char">448</td>
+   </tr>
+   <tr>
+    <td align="left">12</td>
+    <td align="left">Rituximab plus cytarabine, dexamethasone, carboplatin</td>
+    <td char="." align="char">115</td>
+    <td align="left">CRu</td>
+    <td char="." align="char">602</td>
+    <td char="." align="char">308</td>
+   </tr>
+   <tr>
+    <td align="left">13</td>
+    <td align="left">R-CHOP</td>
+    <td char="." align="char">107</td>
+    <td align="left">CR</td>
+    <td char="." align="char">354</td>
+    <td char="." align="char">166</td>
+   </tr>
+   <tr>
+    <td align="left">14</td>
+    <td align="left">Dexamethasone, gemcitabine</td>
+    <td char="." align="char">229</td>
+    <td align="left">PR</td>
+    <td char="." align="char">335</td>
+    <td char="." align="char">80</td>
+   </tr>
+   <tr>
+    <td align="left">15</td>
+    <td align="left">CVP</td>
+    <td char="." align="char">109</td>
+    <td align="left">PR</td>
+    <td char="." align="char">622</td>
+    <td char="." align="char">82</td>
+   </tr>
+   <tr>
+    <td align="left">16</td>
+    <td align="left">R-ESHAP</td>
+    <td char="." align="char">105</td>
+    <td align="left">PR</td>
+    <td char="." align="char">171</td>
+    <td char="." align="char">333</td>
+   </tr>
+   <tr>
+    <td align="left">17</td>
+    <td align="left">Cyclophosphamide
+     <sup>a</sup>
+    </td>
+    <td char="." align="char">5</td>
+    <td align="left">Stable disease</td>
+    <td char="." align="char">50</td>
+    <td char="." align="char">291</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>CR</italic> complete response, 
+   <italic>CRu</italic> unconfirmed complete response, 
+   <italic>CVP</italic> cyclophosphamide, vincristine, prednisone, 
+   <italic>ESHAP</italic> cytarabine, dexamethasone, cisplatin, etoposide, 
+   <italic>ICE</italic> ifosfamide, carboplatin, etoposide, 
+   <italic>PD</italic> progressive disease, 
+   <italic>PR</italic> partial response, 
+   <italic>R-CHOP</italic> rituximab plus cyclophosphamide, doxorubicin, vincristine, prednisone, 
+   <italic>R-DHAP</italic> rituximab plus dexamethasone, high-dose cytarabine, cisplatin, 
+   <italic>R-ESHAP</italic> rituximab plus etoposide, methylprednisolone, high-dose cytarabine, cisplatin
+  </p>
+  <p>
+   <sup>a</sup>Protocol violation due to monotherapy as previous therapy
+  </p>
+  <p>
+   <sup>b</sup>Patient censored without a true progression or death
+  </p>
+ </table-wrap-foot>
+</table-wrap>

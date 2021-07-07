@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Walter</surname>
+    <given-names>RB</given-names>
+   </name>
+   <name>
+    <surname>Othus</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Borthakur</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Ravandi</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Cortes</surname>
+    <given-names>JE</given-names>
+   </name>
+   <name>
+    <surname>Pierce</surname>
+    <given-names>SA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Prediction of early death after induction therapy for newly diagnosed acute myeloid leukemia with pretreatment risk scores: a novel paradigm for treatment assignment</article-title>
+  <source>J Clin Oncol</source>
+  <year>2011</year>
+  <volume>29</volume>
+  <fpage>4417</fpage>
+  <lpage>4423</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2011.35.7525</pub-id>
+  <?supplied-pmid 21969499?>
+  <pub-id pub-id-type="pmid">21969499</pub-id>
+ </element-citation>
+</ref>

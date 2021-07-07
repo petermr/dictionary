@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Puan</surname>
+    <given-names>KJ</given-names>
+   </name>
+   <name>
+    <surname>Jin</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Sarikonda</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Raker</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>HK</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Preferential recognition of a microbial metabolite by human Vgamma2Vdelta2 T cells</article-title>. 
+  <source>Int Immunol</source> (
+  <year>2007</year>) 
+  <volume>19</volume>:
+  <fpage>657</fpage>–
+  <lpage>73</lpage>.
+  <pub-id pub-id-type="doi">10.1093/intimm/dxm031</pub-id>
+  <?supplied-pmid 17446209?>
+  <pub-id pub-id-type="pmid">17446209</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0011">
+ <label>11.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Cohen</surname>
+    <given-names>SH</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Gerding</surname>
+    <given-names>DN</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Johnson</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>; 
+  <person-group person-group-type="author">
+   <collab>Society for Healthcare Epidemiology of America; Infectious Diseases Society of America</collab>
+  </person-group>
+  <article-title>Clinical practice guidelines for 
+   <italic>Clostridium difficile</italic> infection in adults: 2010 update by the Society for Healthcare Epidemiology of America (SHEA) and the Infectious Diseases Society of America (IDSA)
+  </article-title>. 
+  <source>Infect Control Hosp Epidemiol</source>
+  <year>2010</year>; 
+  <volume>31</volume>:
+  <fpage>431</fpage>–
+  <lpage>55</lpage>.
+  <pub-id pub-id-type="pmid">20307191</pub-id>
+ </mixed-citation>
+</ref>

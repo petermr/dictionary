@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f1-1040189" position="float">
+ <label>Figure 1.</label>
+ <caption>
+  <p>A machine-learning workflow reveals clusters of patients with chronic graft-
+   <italic>versus</italic>-host disease with shared organ involvement phenotypes. t-SNE/viSNE plots show organ scores (heat) for each patient (represented by a dot) on a scale where heat indicates organ involvement. Patients who are closer together are more similar while those who are farther apart are generally more different from each other. All organ domains shown were used to generate the viSNE plots, except National Institutes of Health-Severity which was not used as a parameter to generate the viSNE maps. FlowSOM clustering is shown (right) for the seven clusters of patients, with each cluster color overlaid as a dimension on the viSNE plot. For example, Cluster 7 is pink.
+  </p>
+ </caption>
+ <graphic xlink:href="104189.fig1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R17">
+ <label>17.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Nachtigall</surname>
+    <given-names>I</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Tafelski</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Deja</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Long-term effect of computer-assisted decision support for antibiotic treatment in critically ill patients: a prospective ’before/after' cohort study</article-title>. 
+  <source>BMJ Open</source>
+  <year>2014</year>;
+  <volume>4</volume>:
+  <elocation-id>e005370</elocation-id>
+  <pub-id pub-id-type="doi">10.1136/bmjopen-2014-005370</pub-id>
+ </mixed-citation>
+</ref>

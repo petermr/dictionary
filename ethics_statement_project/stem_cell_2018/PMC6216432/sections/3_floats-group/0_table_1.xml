@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="sct312347-tbl-0001" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Baseline characteristics of included participants</p>
+ </caption>
+ <table frame="hsides" rules="cols">
+  <col align="left" span="1"/>
+  <col align="center" span="1"/>
+  <thead valign="bottom">
+   <tr style="border-bottom:solid 1px #000000">
+    <th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">Characteristics</th>
+    <th style="border-bottom:solid 1px #000000" align="center" valign="bottom" rowspan="1" colspan="1">Value (
+     <italic>n</italic> = 25)
+    </th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td colspan="2" align="left" valign="top" rowspan="1">Sex, no. (%)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">21 (84.0%)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4 (16.0%)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Age, yr, median (range)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4.62 (2.26–5.97)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left" valign="top" rowspan="1">Race, no. (%)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">White</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">22 (88%)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">3 (12%)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left" valign="top" rowspan="1">Ethnicity, no. (%)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Hispanic</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">2 (8%)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Non‐Hispanic</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">23 (92%)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">ADOS severity score, median (range)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">8 (6–10)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Nonverbal intelligence quotient, median (range)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">65 (22–123)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left" valign="top" rowspan="1">CGI‐S, no. (%)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Barely evident</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4 (16.0%)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Moderate ASD symptoms</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">3 (12.0%)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Moderately severe ASD</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">10 (40.0%)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Severe ASD symptoms</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">8 (32.0%)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="sct312347-note-0001">
+   <p>Abbreviations: ADOS, Autism Diagnostic Observation Schedule; ASD, autism spectrum disorder; CGI‐S, Clinical Global Impression‐Severity.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

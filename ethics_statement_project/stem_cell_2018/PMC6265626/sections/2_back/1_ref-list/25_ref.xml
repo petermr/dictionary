@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="sct312351-bib-0025">
+ <label>25</label>
+ <mixed-citation publication-type="journal" id="sct312351-cit-0025">
+  <string-name>
+   <surname>Ioannidis</surname>
+   <given-names>JP</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Evans</surname>
+   <given-names>SJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Gotzsche</surname>
+   <given-names>PC</given-names>
+  </string-name> et al. 
+  <article-title>Better reporting of harms in randomized trials: An extension of the CONSORT statement</article-title>. 
+  <source xml:lang="en">Ann Intern Med</source>
+  <year>2004</year>;
+  <volume>141</volume>:
+  <fpage>781</fpage>–
+  <lpage>788</lpage>.
+  <pub-id pub-id-type="pmid">15545678</pub-id>
+ </mixed-citation>
+</ref>

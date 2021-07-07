@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jiang</surname>
+    <given-names>XY</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>DB</given-names>
+   </name>
+   <name>
+    <surname>Jiang</surname>
+    <given-names>YZ</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>LN</given-names>
+   </name>
+   <name>
+    <surname>Cheng</surname>
+    <given-names>LQ</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>B</given-names>
+   </name>
+  </person-group>
+  <article-title>PGC-1α prevents apoptosis in adipose-derived stem cells by reducing reactive oxygen species production in a diabetic microenvironment</article-title>
+  <source>Diabetes Res Clin Pract</source>
+  <year>2013</year>
+  <volume>100</volume>
+  <issue>3</issue>
+  <fpage>368</fpage>
+  <lpage>375</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.diabres.2013.03.036</pub-id>
+  <?supplied-pmid 23618552?>
+  <pub-id pub-id-type="pmid">23618552</pub-id>
+ </element-citation>
+</ref>

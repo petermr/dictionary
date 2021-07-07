@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR33">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>LL</given-names>
+   </name>
+   <name>
+    <surname>Liao</surname>
+    <given-names>YF</given-names>
+   </name>
+   <name>
+    <surname>Zeng</surname>
+    <given-names>TS</given-names>
+   </name>
+   <name>
+    <surname>Yu</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>HQ</given-names>
+   </name>
+   <name>
+    <surname>Feng</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>
+  <article-title>Effect of metformin plus gliclazide compared with metformin alone on circulating endothelial progenitor cell in type 2 diabetic patients</article-title>
+  <source>Endocrine</source>
+  <year>2010</year>
+  <volume>38</volume>
+  <fpage>266</fpage>
+  <lpage>275</lpage>
+  <pub-id pub-id-type="doi">10.1007/s12020-010-9383-8</pub-id>
+  <?supplied-pmid 20972736?>
+  <pub-id pub-id-type="pmid">20972736</pub-id>
+ </element-citation>
+</ref>

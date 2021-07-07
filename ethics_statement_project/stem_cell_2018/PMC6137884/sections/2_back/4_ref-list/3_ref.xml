@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Henry</surname>
+    <given-names>TD</given-names>
+   </name>
+   <name>
+    <surname>Satran</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Hodges</surname>
+    <given-names>JS</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Long-term survival in patients with refractory angina</article-title>
+  <source>Eur Heart J</source>
+  <year>2013</year>
+  <volume>34</volume>
+  <fpage>2683</fpage>
+  <lpage>2688</lpage>
+  <pub-id pub-id-type="doi">10.1093/eurheartj/eht165</pub-id>
+  <pub-id pub-id-type="pmid">23671156</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="pone.0201570.t001" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0201570.t001</object-id>
+ <label>Table 1</label>
+ <caption>
+  <title>Comparative relative risk reduction (RRR), 95% confidence intervals, and p-values associated with differences in foaling proportions between GonaCon-treated and control mares during 2009–2017.</title>
+ </caption>
+ <alternatives>
+  <graphic id="pone.0201570.t001g" xlink:href="pone.0201570.t001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <colgroup span="1">
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th align="left" rowspan="2" colspan="1">Year</th>
+     <th align="center" rowspan="1" colspan="1">Relative Risk Reduction</th>
+     <th align="center" colspan="2" rowspan="1">95% Confidence Interval</th>
+     <th align="center" rowspan="2" colspan="1">p-value</th>
+    </tr>
+    <tr>
+     <th align="center" rowspan="1" colspan="1">(RRR)</th>
+     <th align="center" rowspan="1" colspan="1">Lower</th>
+     <th align="center" rowspan="1" colspan="1">Upper</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td align="center" rowspan="1" colspan="1">2009</td>
+     <td align="center" rowspan="1" colspan="1">0.0852</td>
+     <td align="center" rowspan="1" colspan="1">0.3757</td>
+     <td align="center" rowspan="1" colspan="1">-0.3402</td>
+     <td align="center" rowspan="1" colspan="1">0.6500</td>
+    </tr>
+    <tr>
+     <td align="center" rowspan="1" colspan="1">2010</td>
+     <td align="center" rowspan="1" colspan="1">-0.0555</td>
+     <td align="center" rowspan="1" colspan="1">0.2750</td>
+     <td align="center" rowspan="1" colspan="1">-0.5301</td>
+     <td align="center" rowspan="1" colspan="1">0.7797</td>
+    </tr>
+    <tr>
+     <td align="center" rowspan="1" colspan="1">
+      <bold>2011</bold>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <bold>0.3732</bold>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <bold>0.6028</bold>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <bold>0.0109</bold>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <bold>0.0381
+       <xref ref-type="table-fn" rid="t001fn001">*</xref>
+      </bold>
+     </td>
+    </tr>
+    <tr>
+     <td align="center" rowspan="1" colspan="1">2012</td>
+     <td align="center" rowspan="1" colspan="1">0.2857</td>
+     <td align="center" rowspan="1" colspan="1">0.5178</td>
+     <td align="center" rowspan="1" colspan="1">-0.0581</td>
+     <td align="center" rowspan="1" colspan="1">0.0861</td>
+    </tr>
+    <tr>
+     <td align="center" rowspan="1" colspan="1">2013</td>
+     <td align="center" rowspan="1" colspan="1">-0.0384</td>
+     <td align="center" rowspan="1" colspan="1">0.2826</td>
+     <td align="center" rowspan="1" colspan="1">-0.5032</td>
+     <td align="center" rowspan="1" colspan="1">0.8430</td>
+    </tr>
+    <tr>
+     <td align="center" rowspan="1" colspan="1">2014</td>
+     <td align="center" rowspan="1" colspan="1">-0.08</td>
+     <td align="center" rowspan="1" colspan="1">0.3216</td>
+     <td align="center" rowspan="1" colspan="1">-0.7194</td>
+     <td align="center" rowspan="1" colspan="1">0.7482</td>
+    </tr>
+    <tr>
+     <td align="center" rowspan="1" colspan="1">
+      <bold>2015</bold>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <bold>1</bold>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <bold>1</bold>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <bold>NA</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>2.57E-09
+       <xref ref-type="table-fn" rid="t001fn001">*</xref>
+      </bold>
+     </td>
+    </tr>
+    <tr>
+     <td align="center" rowspan="1" colspan="1">2016</td>
+     <td align="center" rowspan="1" colspan="1">0.8095</td>
+     <td align="center" rowspan="1" colspan="1">0.9236</td>
+     <td align="center" rowspan="1" colspan="1">0.5247</td>
+     <td align="left" rowspan="1" colspan="1">1.94E-06
+      <xref ref-type="table-fn" rid="t001fn001">*</xref>
+     </td>
+    </tr>
+    <tr>
+     <td align="center" rowspan="1" colspan="1">2017</td>
+     <td align="center" rowspan="1" colspan="1">0.9451</td>
+     <td align="center" rowspan="1" colspan="1">0.9920</td>
+     <td align="center" rowspan="1" colspan="1">0.6217</td>
+     <td align="center" rowspan="1" colspan="1">4.15E-07
+      <xref ref-type="table-fn" rid="t001fn001">*</xref>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <fn id="t001fn001">
+   <p>*Significant p-values (&lt;0.05).</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

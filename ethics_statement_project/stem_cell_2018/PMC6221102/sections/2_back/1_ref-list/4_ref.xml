@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ajh25238-bib-0004">
+ <label>4</label>
+ <mixed-citation publication-type="journal" id="ajh25238-cit-0004">
+  <string-name>
+   <surname>Löwenberg</surname>
+   <given-names>B</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Ossenkoppele</surname>
+   <given-names>GJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>van Putten</surname>
+   <given-names>W</given-names>
+  </string-name>, et al. 
+  <article-title>High‐dose daunorubicin in older patients with acute myeloid leukemia</article-title>. 
+  <source xml:lang="en">N Engl J Med.</source>
+  <year>2009</year>;
+  <volume>361</volume>:
+  <fpage>1235</fpage>‐
+  <lpage>1248</lpage>.
+  <pub-id pub-id-type="pmid">19776405</pub-id>
+ </mixed-citation>
+</ref>

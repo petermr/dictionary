@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Summary of PK parameters</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th>G-CSF + Plerixafor 20 mg SC FD (
+     <italic>n</italic> = 30)
+    </th>
+    <th>G-CSF + Plerixafor 0.24 mg/kg SC WB (
+     <italic>n</italic> = 31)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="3">AUC
+     <sub>0–10</sub> (ng*h/ml)
+    </td>
+   </tr>
+   <tr>
+    <td>  Mean ± SD</td>
+    <td>4040 ± 602</td>
+    <td>2820 ± 436</td>
+   </tr>
+   <tr>
+    <td> Geometric mean (CV%)</td>
+    <td>3990 (14.9)</td>
+    <td>2790 (15.4)</td>
+   </tr>
+   <tr>
+    <td colspan="3">
+     <italic>C</italic>
+     <sub>max</sub> (ng/ml)
+    </td>
+   </tr>
+   <tr>
+    <td>  Mean ± SD</td>
+    <td>957 ± 216</td>
+    <td>711 ± 136</td>
+   </tr>
+   <tr>
+    <td>  Geometric mean (CV%)</td>
+    <td>933 (22.5)</td>
+    <td>(698) (19.1)</td>
+   </tr>
+   <tr>
+    <td colspan="3">
+     <italic>T</italic>
+     <sub>max</sub> (h)
+    </td>
+   </tr>
+   <tr>
+    <td>  Median (min, max)</td>
+    <td>0.50 (0.42, 1.08)</td>
+    <td>0.50 (0.42, 1.02)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>AUC</italic>
+   <sub>
+    <italic>0–10</italic>
+   </sub> area under the concentration–time curve from 0 to 10 h, 
+   <italic>C</italic>
+   <sub>
+    <italic>max</italic>
+   </sub> maximum observed concentration, 
+   <italic>CV</italic> coefficient of variation, 
+   <italic>FD</italic> fixed dose, 
+   <italic>G-CSF</italic> granulocyte colony-stimulating factor, 
+   <italic>PK</italic> pharmacokinetics, 
+   <italic>SC</italic> subcutaneous, 
+   <italic>SD</italic> standard deviation, 
+   <italic>T</italic>
+   <sub>
+    <italic>max</italic>
+   </sub> time to maximum concentration, 
+   <italic>WB</italic> weight-based
+  </p>
+ </table-wrap-foot>
+</table-wrap>

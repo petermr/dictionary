@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mutunga</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Fulton</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Bullock</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Batchelor</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Gascoigne</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Gillespie</surname>
+    <given-names>JI</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Circulating endothelial cells in patients with septic shock</article-title>
+  <source>Am J Respir Crit Care Med.</source>
+  <year>2001</year>
+  <volume>163</volume>
+  <fpage>195</fpage>
+  <lpage>200</lpage>
+  <pub-id pub-id-type="doi">10.1164/ajrccm.163.1.9912036</pub-id>
+  <?supplied-pmid 11208646?>
+  <pub-id pub-id-type="pmid">11208646</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R4">
+ <label>4.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Davey</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Marwick</surname>
+    <given-names>CA</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Scott</surname>
+    <given-names>CL</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Interventions to improve antibiotic prescribing practices for hospital inpatients</article-title>. 
+  <source>Cochrane Database Syst Rev</source>
+  <year>2017</year>;
+  <volume>2</volume>:
+  <fpage>CD003543</fpage>
+  <pub-id pub-id-type="doi">10.1002/14651858.CD003543.pub4</pub-id>
+  <pub-id pub-id-type="pmid">28178770</pub-id>
+ </mixed-citation>
+</ref>

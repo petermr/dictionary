@@ -1,0 +1,701 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Stem Cells Transl Med</journal-id><journal-id journal-id-type="iso-abbrev">Stem Cells Transl Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2157-6580</journal-id><journal-id journal-id-type="publisher-id">SCT3</journal-id><journal-title-group><journal-title>Stem Cells Translational Medicine</journal-title></journal-title-group><issn pub-type="ppub">2157-6564</issn><issn pub-type="epub">2157-6580</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6216432</article-id><article-id pub-id-type="doi">10.1002/sctm.18-0090</article-id><article-id pub-id-type="publisher-id">SCT312347</article-id><article-categories><subj-group subj-group-type="overline"><subject>Cord Blood</subject></subj-group><subj-group subj-group-type="heading"><subject>Translational Research Articles and Reviews</subject><subj-group subj-group-type="heading"><subject>Cord Blood</subject></subj-group></subj-group></article-categories><title-group><article-title>Electrophysiological Biomarkers Predict Clinical Improvement in an Open&#x02010;Label Trial Assessing Efficacy of Autologous Umbilical Cord Blood for Treatment of Autism</article-title><alt-title alt-title-type="right-running-head">EEG Biomarkers in Umbilical Cord Blood Clinical Trial</alt-title><alt-title alt-title-type="left-running-head">Murias, Major, Compton et al.</alt-title></title-group><contrib-group><contrib id="sct312347-cr-0001" contrib-type="author"><name><surname>Murias</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="sct312347-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="sct312347-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="sct312347-cr-0002" contrib-type="author"><name><surname>Major</surname><given-names>Samantha</given-names></name><xref ref-type="aff" rid="sct312347-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="sct312347-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="sct312347-cr-0003" contrib-type="author"><name><surname>Compton</surname><given-names>Scott</given-names></name><xref ref-type="aff" rid="sct312347-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="sct312347-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="sct312347-cr-0004" contrib-type="author"><name><surname>Buttinger</surname><given-names>Jessica</given-names></name><xref ref-type="aff" rid="sct312347-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="sct312347-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="sct312347-cr-0005" contrib-type="author"><name><surname>Sun</surname><given-names>Jessica M.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8085-1013</contrib-id><xref ref-type="aff" rid="sct312347-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="sct312347-cr-0006" contrib-type="author"><name><surname>Kurtzberg</surname><given-names>Joanne</given-names></name><xref ref-type="aff" rid="sct312347-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="sct312347-cr-0007" contrib-type="author" corresp="yes"><name><surname>Dawson</surname><given-names>Geraldine</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1410-2764</contrib-id><address><email>geraldine.dawson@duke.edu</email></address><xref ref-type="aff" rid="sct312347-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="sct312347-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="sct312347-aff-0003">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="sct312347-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Duke Institute for Brain Sciences</named-content>
+<institution>Duke University</institution>
+<named-content content-type="city">Durham</named-content>
+<named-content content-type="country-part">North Carolina</named-content>
+<country country="US">USA</country>
+</aff><aff id="sct312347-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Duke Center for Autism and Brain Development</named-content>
+<institution>Duke University</institution>
+<named-content content-type="city">Durham</named-content>
+<named-content content-type="country-part">North Carolina</named-content>
+<country country="US">USA</country>
+</aff><aff id="sct312347-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Psychiatry and Behavioral Sciences</named-content>
+<institution>Duke University</institution>
+<named-content content-type="city">Durham</named-content>
+<named-content content-type="country-part">North Carolina</named-content>
+<country country="US">USA</country>
+</aff><aff id="sct312347-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Robertson Clinical and Translational Cell Therapy Program</named-content>
+<institution>Duke University</institution>
+<named-content content-type="city">Durham</named-content>
+<named-content content-type="country-part">North Carolina</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Correspondence: Geraldine Dawson, Ph.D., Duke Center for Autism and Brain Development, Duke University, 2608 Erwin Road, Suite 300, Durham, North Carolina 27705, USA. Telephone: (919) 668&#x02010;0070, e&#x02010;mail: <email>geraldine.dawson@duke.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>8</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2018</year></pub-date><volume>7</volume><issue>11</issue><issue-id pub-id-type="doi">10.1002/sct3.2018.7.issue-11</issue-id><fpage>783</fpage><lpage>791</lpage><history><date date-type="received"><day>16</day><month>4</month><year>2018</year></date><date date-type="accepted"><day>05</day><month>6</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 AlphaMed Press <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <sc>stem cells translational medicine</sc> published by Wiley Periodicals, Inc. on behalf of AlphaMed Press</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:SCT3-7-783.pdf"/><abstract><title>Abstract</title><p>This study was a phase I, single&#x02010;center, and open&#x02010;label trial of a single intravenous infusion of autologous umbilical cord blood in young children with autism spectrum disorder (ASD). Twenty&#x02010;five children between the ages of 2 and 6 with a confirmed diagnosis of ASD and a qualified banked autologous umbilical cord blood unit were enrolled. Safety results and clinical outcomes measured at 6 and 12 months post&#x02010;infusion have been previously published. The purpose of the present analysis was to explore whether measures of electroencephalography (EEG) theta, alpha, and beta power showed evidence of change after treatment and whether baseline EEG characteristics were predictive of clinical improvement. The primary endpoint was the parent&#x02010;reported Vineland adaptive behavior scales&#x02010;II socialization subscale score, collected at baseline, 6&#x02010; and 12&#x02010;month visits. In addition, the expressive one word picture vocabulary test 4 and the clinical global impression&#x02010;improvement scale were administered. Electrophysiological recordings were taken during viewing of dynamic social and nonsocial stimuli at 6 and 12 months post&#x02010;treatment. Significant changes in EEG spectral characteristics were found by 12 months post&#x02010;infusion, which were characterized by increased alpha and beta power and decreased EEG theta power. Furthermore, higher baseline posterior EEG beta power was associated with a greater degree of improvement in social communication symptoms, highlighting the potential for an EEG biomarker to predict variation in outcome. Taken together, the results suggest that EEG measures may be useful endpoints for future ASD clinical trials. <sc>stem cells translational medicine</sc>
+<italic>2018;7:783&#x02013;791</italic>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="sct312347-kwd-0001">Autologous</kwd><kwd id="sct312347-kwd-0002">Umbilical cord blood</kwd></kwd-group><funding-group><award-group><funding-source>Marcus Foundation</funding-source><award-id>NCT02176317</award-id></award-group></funding-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="9"/><word-count count="7670"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>sct312347</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.5.1 mode:remove_FC converted:05.11.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>
+<boxed-text position="anchor" content-type="box" orientation="portrait"><caption><title>Significance Statement</title></caption><p>In this phase I open&#x02010;label trial evaluating treatment of autism symptoms with autologous umbilical cord blood, changes in EEG spectral power were found by 12 months post&#x02010;treatment. Higher baseline posterior EEG beta power predicted greater improvement in symptoms.</p></boxed-text>
+</p><sec id="sct312347-sec-0001"><title>Introduction</title><p>Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by social communication deficits and the presence of repetitive behaviors and restricted interests <xref rid="sct312347-bib-0001" ref-type="ref">1</xref>. Behavioral intervention, especially if provided early and intensively, can result in substantially improved outcomes <xref rid="sct312347-bib-0002" ref-type="ref">2</xref>. However, many individuals with autism exhibit significant impairments in social and communication abilities, despite having received early behavioral intervention. As such, there continues to be a great need for more effective treatments for ASD.</p><p>Evaluating the efficacy of novel treatments is challenging due to the heterogeneity of the disorder and lack of well&#x02010;validated brain&#x02010;based measures that can predict response to treatment and/or assess changes in neural functioning. Candidates for brain&#x02010;based ASD biomarkers include electroencephalography (EEG) <xref rid="sct312347-bib-0003" ref-type="ref">3</xref>, <xref rid="sct312347-bib-0004" ref-type="ref">4</xref>, <xref rid="sct312347-bib-0005" ref-type="ref">5</xref>, <xref rid="sct312347-bib-0006" ref-type="ref">6</xref>, fMRI <xref rid="sct312347-bib-0007" ref-type="ref">7</xref>, <xref rid="sct312347-bib-0008" ref-type="ref">8</xref>, <xref rid="sct312347-bib-0009" ref-type="ref">9</xref>, and MRI, including diffusion tensor imaging <xref rid="sct312347-bib-0010" ref-type="ref">10</xref>, <xref rid="sct312347-bib-0011" ref-type="ref">11</xref>, <xref rid="sct312347-bib-0012" ref-type="ref">12</xref>. EEG is of particular interest because it offers a feasible and relatively inexpensive way to assess changes in brain function with high temporal resolution, allowing for the characterization of aberrant brain networks with millisecond precision.</p><p>Several studies have demonstrated the potential usefulness of EEG as a biomarker related to treatment efficacy. Dawson et al. <xref rid="sct312347-bib-0013" ref-type="ref">13</xref> used EEG to measure treatment response to early intensive behavioral intervention based on the early start Denver model (ESDM) in a randomized controlled trial evaluating toddlers with ASD. Based on event related brain potentials (ERPs) to faces versus objects, it was found that the children who received ESDM behavioral intervention exhibited a faster neural response (shorter Nc ERP latency) when viewing faces than objects, whereas children receiving treatment as usual in the community showed the reverse pattern (shorter Nc latency to objects than to faces). Furthermore, children with ASD who had received ESDM showed a pattern of brain activity that was similar to a typically developing comparison group, characterized by increased cortical activation (reflected in decreased alpha power and increased theta power) while viewing faces compared with objects; the children receiving treatment as usual showed the reverse pattern. Normalized patterns of brain activity were correlated with improvements in social behavior. Faja et al. <xref rid="sct312347-bib-0014" ref-type="ref">14</xref> used face expertise training for individuals with ASD and found that the training was associated with improvement in recognition of inverted faces and timing of cortical responses recorded from ERPs. Additionally, Van Heck et al. <xref rid="sct312347-bib-0015" ref-type="ref">15</xref> used EEG markers of hemispheric symmetry to measure treatment response to the Program for the Education and Enrichment of Relational Skills in a randomized controlled trial for adolescents with ASD, finding that EEG symmetry was associated with more social contacts and knowledge and fewer ASD symptoms. These studies provide evidence that EEG is a promising efficacy biomarker in clinical trials for ASD.</p><p>Results from observational studies using EEG have helped to identify spatial and temporal abnormalities in children and adults with ASD as well as infants at risk for ASD. These studies offer potential treatment endpoints. Some of the key findings include disrupted cortical network connectivity <xref rid="sct312347-bib-0016" ref-type="ref">16</xref>, <xref rid="sct312347-bib-0017" ref-type="ref">17</xref>, <xref rid="sct312347-bib-0018" ref-type="ref">18</xref>, <xref rid="sct312347-bib-0019" ref-type="ref">19</xref>, an altered &#x0201c;resting state,&#x0201d; <xref rid="sct312347-bib-0020" ref-type="ref">20</xref>, <xref rid="sct312347-bib-0021" ref-type="ref">21</xref> and atypical spectral power <xref rid="sct312347-bib-0016" ref-type="ref">16</xref>, <xref rid="sct312347-bib-0018" ref-type="ref">18</xref>, <xref rid="sct312347-bib-0022" ref-type="ref">22</xref>, <xref rid="sct312347-bib-0023" ref-type="ref">23</xref>, <xref rid="sct312347-bib-0024" ref-type="ref">24</xref>. In a recent review of EEG resting state studies, Wang et al. <xref rid="sct312347-bib-0021" ref-type="ref">21</xref> described a U&#x02010;shaped power profile of ASD characterized by excessive power in low&#x02010;frequency (delta, theta) and high&#x02010;frequency bands (gamma) and reduced power in a midrange frequency band (alpha, beta), which may result from abnormal GABAergic tone in inhibitory circuits. Furthermore, patterns of spectral power and functional connectivity have been found to be associated with severity of ASD symptoms and specific ASD subtypes <xref rid="sct312347-bib-0024" ref-type="ref">24</xref>, <xref rid="sct312347-bib-0025" ref-type="ref">25</xref>, <xref rid="sct312347-bib-0026" ref-type="ref">26</xref>, <xref rid="sct312347-bib-0027" ref-type="ref">27</xref>. Infants at high&#x02010;risk for ASD exhibit unique EEG profiles before the onset of the full syndrome, highlighting its potential use as an endophenotype before behavioral manifestations of ASD emerge <xref rid="sct312347-bib-0020" ref-type="ref">20</xref>, <xref rid="sct312347-bib-0024" ref-type="ref">24</xref>.</p><p>Although studies using EEG biomarkers in ASD clinical trials have primarily focused on alpha and theta activity, other frequency bands are relevant to ASD. Specifically, abnormalities in beta band activity (13&#x02013;30 Hz), which has an established role in movement, movement preparation, and steady muscular contractions <xref rid="sct312347-bib-0028" ref-type="ref">28</xref>, <xref rid="sct312347-bib-0029" ref-type="ref">29</xref>, <xref rid="sct312347-bib-0030" ref-type="ref">30</xref>, <xref rid="sct312347-bib-0031" ref-type="ref">31</xref>, have been reported in ASD <xref rid="sct312347-bib-0016" ref-type="ref">16</xref>, <xref rid="sct312347-bib-0032" ref-type="ref">32</xref>, <xref rid="sct312347-bib-0033" ref-type="ref">33</xref>, <xref rid="sct312347-bib-0034" ref-type="ref">34</xref>, <xref rid="sct312347-bib-0035" ref-type="ref">35</xref>. Bangel et al. <xref rid="sct312347-bib-0036" ref-type="ref">36</xref> reported widespread reductions in beta phase synchrony in individuals with ASD during the presentation of globally coherent dot patterns, suggesting that disruptions in the beta band may contribute to the disrupted sensory and perceptual integration that is observed in ASD. Two studies have shown that beta band activity is disrupted during presentation of emotional faces in patients with ASD and typically developing individuals with high rates of ASD symptoms <xref rid="sct312347-bib-0037" ref-type="ref">37</xref>, <xref rid="sct312347-bib-0038" ref-type="ref">38</xref>. Another study found reduced long range beta connectivity in individuals with ASD during a visual name&#x02010;presentation task that included familiar names <xref rid="sct312347-bib-0039" ref-type="ref">39</xref>. Furthermore, reduced beta event related desynchronization during a motor imagery task was associated with ASD severity <xref rid="sct312347-bib-0033" ref-type="ref">33</xref>. Frohlich et al. <xref rid="sct312347-bib-0040" ref-type="ref">40</xref> investigated EEG biomarkers in the 15q11.2&#x02010;q13.1 gene (Dup 15q syndrome), a genetic copy number variant that accounts for 1%&#x02013;3% of ASD cases. Increased beta power in Dup15q patients compared to typically developing children was found, further supporting the use of beta band activity to characterize ASD and related conditions. Taken together, these findings suggest that beta band activity shows substantial promise as a potential biomarker for ASD, in addition to the commonly studied theta and alpha bands.</p><p>This study is an analysis of secondary outcomes in an exploratory, open&#x02010;label, phase I clinical trial designed to test the safety of an intravenous infusion of autologous umbilical cord blood as a treatment for social communication impairments in ASD (<italic>N</italic> = 25). In addition to the primary purpose of assessing safety, this open&#x02010;label trial was designed to identify potential clinical outcomes and biomarkers that showed initial evidence of usefulness for a planned randomized, double&#x02010;blind clinical trial (<italic>N</italic> = 180), currently underway. The safety and primary clinical outcome data have previously been published <xref rid="sct312347-bib-0041" ref-type="ref">41</xref>. The purpose of this analysis was to explore whether EEG biomarkers show evidence of change after treatment and/or are useful in predicting response to treatment. Specifically, we explore whether (a) measures of EEG theta, alpha, and beta power change over a 12&#x02010;month period following treatment and (b) whether baseline EEG characteristics predict positive changes in social communication and language clinical outcomes.</p></sec><sec id="sct312347-sec-0002"><title>Materials and Methods</title><sec id="sct312347-sec-0003"><title>Study Design and Overview</title><p>This study was a phase I, single&#x02010;center, and open&#x02010;label trial of a single intravenous infusion of autologous umbilical cord blood in 25 children with ASD. All children were initially enrolled in a screening protocol to obtain medical records and information about their banked cord blood unit. All participants' caregivers completed a pre&#x02010;study screening interview by phone and provided medical records and videos for review by the study team to determine eligibility for the trial. Children with a confirmed diagnosis of ASD and a qualified banked autologous umbilical cord blood unit were eligible to participate. Written informed consent was obtained for both the screening and the treatment phases of the trial. The trial was approved by the Duke University Health System Institutional Review Board and conducted under IND #15949. Participants and their caregivers traveled to Duke University three times as part of their participation in the study. At their baseline visit, they were evaluated and received a single intravenous autologous cord blood infusion. At 6 and 12 months post&#x02010;infusion, participants returned for follow&#x02010;up clinical assessments. Additional caregiver interviews and questionnaires were collected at 3 and 9 months post&#x02010;infusion.</p></sec><sec id="sct312347-sec-0004"><title>Umbilical Cord Blood Units</title><p>All participants had to have an available autologous umbilical cord blood unit banked at a family or public cord blood bank. During screening, potential participants' cord blood reports were reviewed to ensure they met the following pre&#x02010;cryopreservation criteria: (a) total nucleated cell count (TNCC) of 1&#x02013;5 &#x000d7; 10<sup>7</sup> per kilogram, (b) sterility cultures which were performed and negative, (c) negative maternal infectious disease markers tested on the maternal donor or cord blood product (minimally including hepatitis B, hepatitis C, human immunodeficiency virus, human T&#x02010;lymphotrophic virus, and syphilis), and (d) test sample available for additional testing. If the participant and his/her cord blood unit were likely to be eligible, a sample of the cord blood unit was shipped to Duke for confirmation of identity and potency testing <xref rid="sct312347-bib-0042" ref-type="ref">42</xref>. Low&#x02010;resolution HLA testing was performed on both the participant and a sample of the cord blood unit for identity confirmation. If the CD45 viability on the test sample was &#x0003e;40% and HLA&#x02010;identity was confirmed, the cryopreserved cord blood unit was shipped in a dry shipper to Duke Hospital Stem Cell Transplant Laboratory, where it was stored under liquid nitrogen until the day of infusion.</p></sec><sec id="sct312347-sec-0005"><title>Autologous Umbilical Cord Blood Infusion</title><p>On the day of infusion, the cord blood was thawed and washed in dextran 40 plus 5% human serum albumin (DA) and placed in 1.25 ml/kg DA for administration <xref rid="sct312347-bib-0043" ref-type="ref">43</xref>. Thawed cord blood units were tested for enumeration of TNCC, viable CD34 cells, colony&#x02010;forming units, cell viability via trypan blue, and sterility cultures. On the day of infusion, children were admitted to the Duke Children's Health Center Day Hospital, an outpatient treatment center, for their infusion. After premedication with Benadryl (0.5 mg/kg IV), Solu&#x02010;Medrol (0.5 mg/kg IV), and, if the child was awake and able to take oral medications, Tylenol (10 mg/kg PO), participants received either a portion of or their entire cord blood unit, adjusted to deliver 1&#x02013;5 &#x000d7; 10<sup>7</sup> cells per kilogram, via peripheral IV infusion more than 2&#x02013;30 minutes. Intravenous fluids were administered at 1.5 times maintenance for 30 minutes to 2 hours after the cord blood infusion. Vital signs and pulse oximetry were monitored continuously during the infusion.</p></sec><sec id="sct312347-sec-0006"><title>Participants</title><p>Participants between 2 and 6 years of age (median age 4.6 years; range 2.26&#x02013;5.97) who met criteria for a clinical diagnosis of ASD based on the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM&#x02010;5) were included in the study. The DSM&#x02010;5 diagnosis of ASD was established by expert clinicians and informed by the Autism Diagnostic Observation Schedule, Second Edition <xref rid="sct312347-bib-0044" ref-type="ref">44</xref> and the Autism Diagnostic Interview, Revised <xref rid="sct312347-bib-0045" ref-type="ref">45</xref>. Additional inclusion criteria included (a) a nonverbal intelligence quotient (NVIQ) of&#x02009;&#x02265;&#x02009;35 on the Stanford&#x02013;Binet Intelligence Scales for Early Childhood, Fifth Edition <xref rid="sct312347-bib-0046" ref-type="ref">46</xref> or Mullen Scales of Early Learning <xref rid="sct312347-bib-0047" ref-type="ref">47</xref>, (b) availability of a qualified autologous umbilical cord blood unit, (c) participant was stable on their current medications for at least 2 months prior to the infusion, (d) ability to travel to Duke University three times (baseline and 6 and 12 months post&#x02010;baseline), and (e) parents were English speaking. Exclusion criteria included (a) a history of prior cell therapy, (b) use of intravenous immunoglobulin or other anti&#x02010;inflammatory medications (with the exception of non&#x02010;steroidal anti&#x02010;inflammatory drugs), (c) known genetic (e.g., fragile X) or other significant medical comorbidity, (d) obvious physical dysmorphology suggestive of a genetic syndrome, (e) an uncontrolled seizure disorder, (f) significantly impaired renal or liver function, and (g) clinically significant abnormalities in complete blood count. See Table <xref rid="sct312347-tbl-0001" ref-type="table">1</xref> for baseline characteristics of the sample.</p><table-wrap id="sct312347-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline characteristics of included participants</p></caption><table frame="hsides" rules="cols"><col align="left" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">Characteristics</th><th style="border-bottom:solid 1px #000000" align="center" valign="bottom" rowspan="1" colspan="1">Value (<italic>n</italic> = 25)</th></tr></thead><tbody valign="top"><tr><td colspan="2" align="left" valign="top" rowspan="1">Sex, no. (%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">21 (84.0%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">4 (16.0%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, yr, median (range)</td><td align="center" valign="top" rowspan="1" colspan="1">4.62 (2.26&#x02013;5.97)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Race, no. (%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">White</td><td align="center" valign="top" rowspan="1" colspan="1">22 (88%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other</td><td align="center" valign="top" rowspan="1" colspan="1">3 (12%)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Ethnicity, no. (%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Hispanic</td><td align="center" valign="top" rowspan="1" colspan="1">2 (8%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Non&#x02010;Hispanic</td><td align="center" valign="top" rowspan="1" colspan="1">23 (92%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ADOS severity score, median (range)</td><td align="center" valign="top" rowspan="1" colspan="1">8 (6&#x02013;10)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Nonverbal intelligence quotient, median (range)</td><td align="center" valign="top" rowspan="1" colspan="1">65 (22&#x02013;123)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">CGI&#x02010;S, no. (%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Barely evident</td><td align="center" valign="top" rowspan="1" colspan="1">4 (16.0%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Moderate ASD symptoms</td><td align="center" valign="top" rowspan="1" colspan="1">3 (12.0%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Moderately severe ASD</td><td align="center" valign="top" rowspan="1" colspan="1">10 (40.0%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Severe ASD symptoms</td><td align="center" valign="top" rowspan="1" colspan="1">8 (32.0%)</td></tr></tbody></table><table-wrap-foot><fn id="sct312347-note-0001"><p>Abbreviations: ADOS, Autism Diagnostic Observation Schedule; ASD, autism spectrum disorder; CGI&#x02010;S, Clinical Global Impression&#x02010;Severity.</p></fn></table-wrap-foot></table-wrap></sec><sec id="sct312347-sec-0007"><title>Clinical outcome measures</title><sec id="sct312347-sec-0008"><title>Social Communication Skills</title><p>The primary endpoint was the Vineland adaptive behavior scales&#x02010;II (VABS) <xref rid="sct312347-bib-0048" ref-type="ref">48</xref> socialization subscale standard score. VABS is a well&#x02010;standardized measure with strong reliability and validity. The VABS was collected from the participant's primary caregiver at baseline and 6&#x02010; and 12&#x02010;month visits.</p></sec><sec id="sct312347-sec-0009"><title>Expressive Language</title><p>The expressive one word picture vocabulary test 4 (EOWPVT) <xref rid="sct312347-bib-0049" ref-type="ref">49</xref> is a clinician&#x02010;administered assessment which measures an individual's ability to match a spoken word with an image of an object, action, or concept. The EOWPVT was administered to each child at the baseline and 6&#x02010; and 12&#x02010;month visits. The change in the raw score, a count of the number of spoken words, was used to measure change in expressive language over the course of the trial.</p></sec><sec id="sct312347-sec-0010"><title>Clinical Improvement</title><p>The clinical global impression&#x02010;improvement (CGI&#x02010;I) scale is a commonly used rating scale that measures clinical improvement as baseline <xref rid="sct312347-bib-0050" ref-type="ref">50</xref>. The CGI&#x02010;I is a seven&#x02010;point scale indicating the degree of improvement or worsening of ASD symptoms relative to baseline. Based on all available information, each participant was rated as 1 = &#x0201c;very much improved&#x0201d;; 2 = &#x0201c;much improved&#x0201d;; 3 = &#x0201c;minimally improved&#x0201d;; 4 = &#x0201c;no change&#x0201d;; 5 = &#x0201c;minimally worse&#x0201d;; 6 = &#x0201c;much worse&#x0201d;; or 7 = &#x0201c;very much worse.&#x0201d; Each participant was assigned a CGI&#x02010;I rating at the 6&#x02010; and 12&#x02010;month visits, and each referenced the degree of improvement or worsening relative to baseline. Ratings were made by experienced clinicians with expertise in ASD.</p></sec></sec><sec id="sct312347-sec-0011"><title>EEG Measures</title><sec id="sct312347-sec-0012"><title>Protocol</title><p>Electroencephalography data were collected at baseline, 6&#x02010; and 12&#x02010;month visits. Continuous EEG was recorded while three videos were shown twice to participants (total of 6 videos, 6 minutes). Video content included nursery rhymes (high social content, video 1), brightly colored toys (low social content, video 2), and bubbles (low social content, video 3). The order of videos was counterbalanced to eliminate any potential order effects. During the stimulus presentation, two behavioral assistants accompanied the child. The behavioral assistants ensured that standard conditions were in place during each experiment, including dimming the lights, seating participants in their parent's lap in a comfortable armchair 65 inches from the monitor and redirecting participants in instances of movement and/or poor attention to the videos. Video recording synchronized with the EEG was used throughout the session to allow post&#x02010;session editing of periods of inattention. EEG data were recorded from 124 electrodes with reference to Cz using a Hydrocel Geodesic Sensor Net and Net Amps 400 amplifier (Electrical Geodesics, Eugene, OR). Data were collected using Netstation 4.5.6 with a sampling rate of 1,000 Hz.</p></sec><sec id="sct312347-sec-0013"><title>EEG Preprocessing and Data Attrition</title><p>Data were processed using in&#x02010;house code and the open source Fieldtrip tool box <xref rid="sct312347-bib-0051" ref-type="ref">51</xref> under MATLAB 2014a. Data were filtered with a 1&#x02013;100 Hz bandpass filter and a 60 Hz notch filter. Participant videos were inspected for inattention to the video and gross movement artifact, and these time points were removed from analyses. Persistent bad electrodes that were deviant in 33% of trials were interpolated using spline interpolation. Data were decomposed using second order blind identification (SOBI) as implemented in EEGLAB <xref rid="sct312347-bib-0052" ref-type="ref">52</xref>, <xref rid="sct312347-bib-0053" ref-type="ref">53</xref>. Topographic maps of SOBI components were inspected and electrooculogram and electromyogram components were removed. The best 30&#x02013;40 one second epochs with minimal movement contamination were retained. Remaining deviant electrodes were identified on a trial&#x02010;by&#x02010;trial basis and interpolated. Data were then re&#x02010;referenced to the common average. Finally, a fast Fourier transformation was performed on the rectangular windowed time series. For each of the three stimulus conditions, the presentation with the least amount of movement artifact was used for the final analysis.</p><p>Of the 25 total participants in the trial, 18 participants (72% of original sample) were able to provide sufficient artifact&#x02010;free data during the baseline visit in all three stimulus conditions (toys, social, and bubbles) and were included in this analysis. At the 6&#x02010;month visit 17 participants (94% of baseline sample, 68% of original sample) provided data for the toys and social conditions while 16 participants (89% of baseline sample, 64% of original sample) provided data for the bubbles condition. At the 12&#x02010;month visit 18 participants (100% of baseline sample, 72% of original sample) provided data for all three stimulus conditions. Attrition was due to drop out, noncompliance with study procedures, and excessive movement artifact.</p></sec><sec id="sct312347-sec-0014"><title>EEG Variables</title><p>Absolute and relative spectral power (defined between 3 and 30 Hz) was examined during the social, toys, and bubbles conditions in three brain regions of interest (frontal, central, and posterior), per McEvoy et al. <xref rid="sct312347-bib-0054" ref-type="ref">54</xref> Twelve electrodes covering the left hemisphere, right hemisphere, and midline were included in each of the three regions. Power values for each region were calculated by averaging the 12 electrodes within the region. The four power bands analyzed consisted of theta power (5&#x02013;7 Hz), alpha power (8&#x02013;10 Hz), beta 1 power (11&#x02013;20 Hz), and beta 2 power (21&#x02013;30 Hz).</p></sec></sec><sec id="sct312347-sec-0015"><title>Statistical Analysis</title><p>To evaluate whether there were significant changes in EEG power over time, the 6&#x02010; and 12&#x02010;month time points were compared to the baseline time point using repeated&#x02010;measures ANOVA. Next, to evaluate whether baseline EEG measures were predictive of clinical outcomes, bivariate linear regression models were conducted. For baseline EEG measures that were found to be predictive of clinical outcome, we also evaluated whether baseline EEG improved prediction of outcomes beyond prediction based on models using only NVIQ, which was previously found to be a strong predictor in our primary analyses of clinical outcomes <xref rid="sct312347-bib-0041" ref-type="ref">41</xref>.</p><p>All EEG data were log&#x02010;transformed to correct for skewness. The log&#x02010;transformed data followed a normal or near normal distribution and the data met the assumptions for linear regression including no outliers and independent observations. Baseline NVIQ scores were standardized by subtracting the grand mean from each score and dividing this difference by the standard deviation of the sample. A <italic>p</italic> value of .05 was chosen to establish statistical significance. Statistical analyses were performed using SAS software Version 9.4 (SAS Institute, Inc., Cary, NC).</p></sec></sec><sec id="sct312347-sec-0016"><title>Results</title><sec id="sct312347-sec-0017"><title>EEG Changes Over Time</title><sec id="sct312347-sec-0018"><title>Absolute EEG Power</title><p>Mean and standard deviations for baseline EEG absolute power variables are shown in Table <xref rid="sct312347-tbl-0002" ref-type="table">2</xref>. A significant reduction in absolute posterior theta power during the bubbles condition was found at 12 months (<italic>F</italic>(1, 32) = 4.81, <italic>p</italic> = .04). Significant increases in absolute frontal alpha power during the social and bubbles conditions were found at 6 months (<italic>F</italic>(1, 33) = 4.13, <italic>p</italic> = .05 and <italic>F</italic>(1, 32) = 4.41, <italic>p</italic> = .04, respectively). No significant changes in absolute beta power were found.</p><table-wrap id="sct312347-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Mean and standard deviations for baseline EEG absolute power variables (&#x003bc;V<sup>2</sup>)</p></caption><table frame="hsides" rules="cols"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th colspan="2" align="center" valign="bottom" rowspan="1">Toys EEG power</th><th colspan="2" align="center" valign="bottom" rowspan="1">Social EEG power</th><th colspan="2" align="center" valign="bottom" rowspan="1">Bubbles EEG power</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Theta</td><td colspan="6" align="left" valign="top" rowspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">(5&#x02013;7 Hz)</td><td align="left" valign="top" rowspan="1" colspan="1">Frontal</td><td align="left" valign="top" rowspan="1" colspan="1">6.0 (2.8)</td><td align="left" valign="top" rowspan="1" colspan="1">Frontal</td><td align="left" valign="top" rowspan="1" colspan="1">5.6 (2.2)</td><td align="left" valign="top" rowspan="1" colspan="1">Frontal</td><td align="left" valign="top" rowspan="1" colspan="1">5.7 (2.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Central</td><td align="left" valign="top" rowspan="1" colspan="1">5.8 (3.5)</td><td align="left" valign="top" rowspan="1" colspan="1">Central</td><td align="left" valign="top" rowspan="1" colspan="1">5.7 (3.1)</td><td align="left" valign="top" rowspan="1" colspan="1">Central</td><td align="left" valign="top" rowspan="1" colspan="1">6.1 (3.5)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Posterior</td><td align="left" valign="top" rowspan="1" colspan="1">6.9 (3.8)</td><td align="left" valign="top" rowspan="1" colspan="1">Posterior</td><td align="left" valign="top" rowspan="1" colspan="1">7.4 (3.9)</td><td align="left" valign="top" rowspan="1" colspan="1">Posterior</td><td align="left" valign="top" rowspan="1" colspan="1">8.7 (5.6)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Alpha</td><td colspan="6" align="left" valign="top" rowspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">(8&#x02013;10 Hz)</td><td align="left" valign="top" rowspan="1" colspan="1">Frontal</td><td align="left" valign="top" rowspan="1" colspan="1">3.2 (1.5)</td><td align="left" valign="top" rowspan="1" colspan="1">Frontal</td><td align="left" valign="top" rowspan="1" colspan="1">2.9 (1.4)</td><td align="left" valign="top" rowspan="1" colspan="1">Frontal</td><td align="left" valign="top" rowspan="1" colspan="1">2.9 (1.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Central</td><td align="left" valign="top" rowspan="1" colspan="1">4.4 (2.8)</td><td align="left" valign="top" rowspan="1" colspan="1">Central</td><td align="left" valign="top" rowspan="1" colspan="1">4.2 (2.8)</td><td align="left" valign="top" rowspan="1" colspan="1">Central</td><td align="left" valign="top" rowspan="1" colspan="1">3.8 (2.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Posterior</td><td align="left" valign="top" rowspan="1" colspan="1">4.6 (2.1)</td><td align="left" valign="top" rowspan="1" colspan="1">Posterior</td><td align="left" valign="top" rowspan="1" colspan="1">4.1 (2.1)</td><td align="left" valign="top" rowspan="1" colspan="1">Posterior</td><td align="left" valign="top" rowspan="1" colspan="1">4.8 (2.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Beta 1</td><td colspan="6" align="left" valign="top" rowspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">(11&#x02013;20 Hz)</td><td align="left" valign="top" rowspan="1" colspan="1">Frontal</td><td align="left" valign="top" rowspan="1" colspan="1">1.0 (0.7)</td><td align="left" valign="top" rowspan="1" colspan="1">Frontal</td><td align="left" valign="top" rowspan="1" colspan="1">1.0 (0.9)</td><td align="left" valign="top" rowspan="1" colspan="1">Frontal</td><td align="left" valign="top" rowspan="1" colspan="1">0.9 (0.5)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Central</td><td align="left" valign="top" rowspan="1" colspan="1">0.7 (0.4)</td><td align="left" valign="top" rowspan="1" colspan="1">Central</td><td align="left" valign="top" rowspan="1" colspan="1">0.7 (0.4)</td><td align="left" valign="top" rowspan="1" colspan="1">Central</td><td align="left" valign="top" rowspan="1" colspan="1">0.6 (0.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Posterior</td><td align="left" valign="top" rowspan="1" colspan="1">0.8 (0.3)</td><td align="left" valign="top" rowspan="1" colspan="1">Posterior</td><td align="left" valign="top" rowspan="1" colspan="1">0.7 (0.3)</td><td align="left" valign="top" rowspan="1" colspan="1">Posterior</td><td align="left" valign="top" rowspan="1" colspan="1">0.8 (0.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Beta 2</td><td colspan="6" align="left" valign="top" rowspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">(21&#x02013;30 Hz)</td><td align="left" valign="top" rowspan="1" colspan="1">Frontal</td><td align="left" valign="top" rowspan="1" colspan="1">0.9 (1.4)</td><td align="left" valign="top" rowspan="1" colspan="1">Frontal</td><td align="left" valign="top" rowspan="1" colspan="1">0.8 (1.1)</td><td align="left" valign="top" rowspan="1" colspan="1">Frontal</td><td align="left" valign="top" rowspan="1" colspan="1">0.7 (0.8)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Central</td><td align="left" valign="top" rowspan="1" colspan="1">0.4 (0.4)</td><td align="left" valign="top" rowspan="1" colspan="1">Central</td><td align="left" valign="top" rowspan="1" colspan="1">0.4 (0.3)</td><td align="left" valign="top" rowspan="1" colspan="1">Central</td><td align="left" valign="top" rowspan="1" colspan="1">0.3 (0.2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Posterior</td><td align="left" valign="top" rowspan="1" colspan="1">0.3 (0.2)</td><td align="left" valign="top" rowspan="1" colspan="1">Posterior</td><td align="left" valign="top" rowspan="1" colspan="1">0.3 (0.2)</td><td align="left" valign="top" rowspan="1" colspan="1">Posterior</td><td align="left" valign="top" rowspan="1" colspan="1">0.3 (0.2)</td></tr></tbody></table><table-wrap-foot><fn id="sct312347-note-0002"><p>Abbreviation: EEG, electroencephalography.</p></fn></table-wrap-foot></table-wrap></sec><sec id="sct312347-sec-0019"><title>Relative EEG Power</title><p>A significant reduction in relative posterior theta power during the social condition was found at 12 months (<italic>F</italic>(1, 33) = 4.98, <italic>p</italic> = .03). A significant increase in relative central alpha power was observed during the toys condition at 6 months (<italic>F</italic>(1, 33) = 4.21, <italic>p</italic> = .05). A significant increase in relative frontal and central alpha power was found during the toys condition at 12 months (<italic>F</italic>(1, 33) = 5.20, <italic>p</italic> = .029 and <italic>F</italic>(1, 33) = 3.94, <italic>p</italic> = .055, respectively). Significant or marginally significant increases in relative posterior beta 1 power (11&#x02013;20 Hz) were found during the bubbles, toys, and social conditions at 12 months (<italic>F</italic>(1, 32) = 4.19, <italic>p</italic> = .048; <italic>F</italic>(1, 33) = 3.63, <italic>p</italic> = .065; <italic>F</italic>(1, 33) = 3.88, <italic>p</italic> = .057, respectively).</p></sec></sec><sec id="sct312347-sec-0020"><title>EEG Prediction of Clinical Outcomes</title><p>Baseline relative EEG alpha, theta, and beta power and baseline absolute alpha and theta baseline power measures recorded over the frontal, central, and posterior regions were not found to be predictive of clinical outcomes (all <italic>p</italic>s &#x0003e; .05). However, consistent correlations between baseline absolute beta EEG power and the VABS socialization subscale score (the primary endpoint) were found. Correlations between the primary endpoint (Vineland social communication standard score) and baseline beta 2 absolute power are shown in Table <xref rid="sct312347-tbl-0003" ref-type="table">3</xref>. These significant associations were driven primarily by baseline absolute posterior beta 2 power (21&#x02013;30 Hz) as can be seen in Table <xref rid="sct312347-tbl-0003" ref-type="table">3</xref>. Specifically, higher posterior beta 2 power was associated with increases in social abilities on the VABS across all three video conditions. Correlations between posterior beta 2 power and the EOWPVT and CGI&#x02010;I outcomes were only marginally significant or nonsignificant.</p><table-wrap id="sct312347-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Correlations between primary endpoint (Vineland social communication) and baseline beta 2 absolute power with unadjusted <italic>p</italic> values</p></caption><table frame="hsides" rules="cols"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Brain region</th><th align="left" valign="bottom" rowspan="1" colspan="1">Condition</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic> value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Frontal</td><td align="left" valign="top" rowspan="1" colspan="1">Bubbles</td><td align="left" valign="top" rowspan="1" colspan="1">N.S.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Toys</td><td align="left" valign="top" rowspan="1" colspan="1">N.S.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Social</td><td align="left" valign="top" rowspan="1" colspan="1">N.S.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Central</td><td align="left" valign="top" rowspan="1" colspan="1">Bubbles</td><td align="left" valign="top" rowspan="1" colspan="1">.42<xref ref-type="fn" rid="sct312347-note-0003">&#x02020;</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Toys</td><td align="left" valign="top" rowspan="1" colspan="1">N.S.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Social</td><td align="left" valign="top" rowspan="1" colspan="1">N.S.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Posterior</td><td align="left" valign="top" rowspan="1" colspan="1">Bubbles</td><td align="left" valign="top" rowspan="1" colspan="1">.41<xref ref-type="fn" rid="sct312347-note-0003">&#x02020;</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Toys</td><td align="left" valign="top" rowspan="1" colspan="1">.77<xref ref-type="fn" rid="sct312347-note-0003">***</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Social</td><td align="left" valign="top" rowspan="1" colspan="1">.56<xref ref-type="fn" rid="sct312347-note-0003">*</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="sct312347-note-0003"><p>
+<sup>&#x02020;</sup>
+<italic>p</italic> &#x0003c; .10, *<italic>p</italic> &#x0003c; .05, **<italic>p</italic> &#x0003c; .01, ***<italic>p</italic> &#x0003c; .001.</p></fn><fn id="sct312347-note-0004"><p>Abbreviation: N.S., nonsignificant.</p></fn></table-wrap-foot></table-wrap><p>In light of the finding that posterior beta 2 power was significantly correlated with our primary endpoint across both the toys and social conditions, we next examined whether posterior beta 2 power, recorded in these two conditions, improved our ability to predict clinical outcomes at the 12&#x02010;month visit beyond prediction based on nonverbal NVIQ at the 12&#x02010;month visit. Baseline NVIQ was found to be strongly correlated with clinical outcomes, as reported in our previous paper. In this subsample of children who had EEG data for this study, baseline NVIQ was again found to be associated with improvement on the VABS socialization subscale (<italic>R</italic>
+<sup>2</sup> = .21, <italic>p</italic> = .06) at 12 months follow&#x02010;up. Children with higher baseline NVIQ were predicted to show more improvement in the clinical outcome, with NVIQ explaining 21% of the variance in the social communication outcome. However, adding EEG in a regression model using Type I SS (i.e., where each parameter is adjusted only for the preceding effects in the model) demonstrated that beta 2 power significantly improved model predictions. NVIQ and baseline posterior absolute beta 2 power from the toys condition together explain 64% of the variance in VABS socialization subscale score (<italic>R</italic>
+<sup>2</sup> = .64, <italic>p</italic> &#x0003c; .001) at 12 months. NVIQ and baseline posterior absolute beta 2 power from the social condition together explain 44% of the variance in the social communication outcome (<italic>R</italic>
+<sup>2</sup> = .44, <italic>p</italic> = .02). Figures <xref rid="sct312347-fig-0001" ref-type="fig">1</xref> and <xref rid="sct312347-fig-0002" ref-type="fig">2</xref> show regression plots with prediction and confidence limits. The blue lines and blue shading are regression plots that included baseline NVIQ. The red lines and red shading are the final regression plot that included the addition of beta 2 power (order&#x02010;dependent or hierarchical) and illustrate the improvement in prediction achieved by including this information.</p><fig fig-type="Figure" xml:lang="en" id="sct312347-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Hierarchical regression plots, including CLM and CLI, predicting VABS socialization subscale from baseline NVIQ and EEG beta 2 absolute power in the toys condition. Abbreviations: CLI, confidence limit interval; CLM, confidence limit for the mean; EEG, electroencephalography; NVIQ, nonverbal intelligence quotient; VABS, Vineland adaptive behavior scales&#x02010;II.</p></caption><graphic id="nlm-graphic-1" xlink:href="SCT3-7-783-g001"/></fig><fig fig-type="Figure" xml:lang="en" id="sct312347-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Hierarchical regression plots, including CLM and CLI, predicting VABS socialization subscale from baseline NVIQ and EEG beta 2 absolute power in the social condition. Abbreviations: CLI, confidence limit interval; CLM, confidence limit for the mean; EEG, electroencephalography; NVIQ, nonverbal intelligence quotient; VABS, Vineland adaptive behavior scales&#x02010;II.</p></caption><graphic id="nlm-graphic-3" xlink:href="SCT3-7-783-g002"/></fig></sec></sec><sec id="sct312347-sec-0021"><title>Discussion</title><p>In this phase I open&#x02010;label study, we explored whether EEG biomarkers show evidence of change after intravenous treatment with autologous umbilical cord blood in young children with autism. In addition, we tested whether measures derived from spontaneous EEG were useful in predicting degree of improvement in social communication abilities. In this sample of 25 children who were found to exhibit improvements in social communication (VABS), expressive language (EOWPVT), and overall clinical improvement, as assessed via the CGI&#x02010;I <xref rid="sct312347-bib-0041" ref-type="ref">41</xref>, we first explored whether there was any evidence of change in the spectral characteristics of the EEG, as assessed via recordings of spontaneous EEG taken while children watched movies with differing content at baseline, and 6 and 12 months post&#x02010;treatment. Of particular interest is the U&#x02010;shaped power profile of ASD characterized by excessive power in low&#x02010;frequency (delta, theta) and high&#x02010;frequency bands (gamma) and reduced power in midrange frequency bands (alpha, beta) <xref rid="sct312347-bib-0021" ref-type="ref">21</xref>. Interestingly, the children in this study showed a &#x0201c;normalization&#x0201d; of spectral features of their EEG, characterized by significant reductions in both absolute and relative theta power over the posterior regions and significant increases in absolute frontal alpha power and in relative frontal and central alpha power, as well as increases in relative posterior beta power (11&#x02013;20 Hz) by 12 months post&#x02010;treatment. Evidence of increases in relative posterior beta power at 12 months were also found. Evidence suggests that autism is associated with disruptions in GABAergic interneuron development <xref rid="sct312347-bib-0055" ref-type="ref">55</xref>, <xref rid="sct312347-bib-0056" ref-type="ref">56</xref>, <xref rid="sct312347-bib-0057" ref-type="ref">57</xref> which may be caused by an excitatory/inhibitory imbalance <xref rid="sct312347-bib-0058" ref-type="ref">58</xref>. Such disruptions have been posited as an explanation for reduction in alpha frequencies often found in autism, as this would reflect higher than normal levels of excitation <xref rid="sct312347-bib-0021" ref-type="ref">21</xref>. Increased power in lower frequencies, such as theta and delta, might reflect compensatory mechanisms. In this study, this atypical pattern shifted toward a more normal pattern (increased alpha and decreased theta power).</p><p>Changes in EEG spectral characteristics were more frequently observed 12 months post&#x02010;infusion than 6 months post&#x02010;infusion, possibly because EEG changes are related to more long&#x02010;term restructuring of neural circuitry. Distinct changes were observed for videos with high social content and low social content. The different stimulus conditions may represent conditions of varying reward value which dictate engagement states. The differential results by stimulus type suggest that the EEG changes over time are caused by differential changes in reward value. This aligns with Stavropoulos and Carver <xref rid="sct312347-bib-0059" ref-type="ref">59</xref> who report reward related changes in alpha and theta bands. The authors hypothesized that the abnormalities in reward evaluation and processing common in ASD are associated with differences in theta (reward processing) and alpha (engagement state) bands. More work will be needed to determine if umbilical cord blood therapy may be influencing reward processing and engagement states, and thus positively impacting social communication abilities and peer relations, in young children with ASD.</p><p>Based on an increasing number of studies demonstrating beta band disruptions in individuals with ASD compared to TD controls <xref rid="sct312347-bib-0033" ref-type="ref">33</xref>, <xref rid="sct312347-bib-0036" ref-type="ref">36</xref>, <xref rid="sct312347-bib-0037" ref-type="ref">37</xref>, <xref rid="sct312347-bib-0038" ref-type="ref">38</xref>, <xref rid="sct312347-bib-0039" ref-type="ref">39</xref> we hypothesized that indices of beta band power may be sensitive to change over the course of the clinical trial. Not only were changes in relative beta power statistically significant at 12 months post&#x02010;infusion in posterior brain regions (toys, social, and bubbles conditions), but baseline beta power was also predictive of improved social communication skills, as measured via parent report on the VABS. Higher baseline beta power was associated with more improvement in the social communication clinical outcome. Baseline NVIQ alone explained 21% of the variance in the social communication outcome, while baseline NVIQ and beta power during the toys condition together explained 64% of the variance in the outcome. This indicates that a large percentage of variance can be explained using only two explanatory variables, which is advantageous because there is a reduced chance of overfitting and explaining random noise that is unique to the current sample. These exploratory findings will allow predictions in our larger placebo&#x02010;controlled trial evaluating the efficacy of umbilical cord blood in young children with ASD, which is underway.</p><p>The present results are encouraging as they suggest that beta band spectral power may be used to identify patients that will respond well to the umbilical cord blood treatment. Only baseline posterior beta power, and not theta or alpha power, was associated with clinical improvement. Furthermore, posterior beta power increased significantly in the trial. Beta oscillations have been theorized to serve larger scale communication between sensorimotor regions and distant brain regions <xref rid="sct312347-bib-0029" ref-type="ref">29</xref> allowing for the &#x0201c;maintenance of the current sensorimotor or cognitive state&#x0201d; <xref rid="sct312347-bib-0060" ref-type="ref">60</xref>. Deficits in executive functioning, including response inhibition, cognitive flexibility, working memory, and adaptability, are well&#x02010;established in individuals with ASD <xref rid="sct312347-bib-0061" ref-type="ref">61</xref>, <xref rid="sct312347-bib-0062" ref-type="ref">62</xref>, <xref rid="sct312347-bib-0063" ref-type="ref">63</xref>, <xref rid="sct312347-bib-0064" ref-type="ref">64</xref>. Beta oscillations may play a role in cognitive flexibility and maintaining a status quo despite changes in the external environment. As individuals with more severe ASD symptoms have demonstrated reduced beta power <xref rid="sct312347-bib-0033" ref-type="ref">33</xref>, beta band disruptions may be contributing to executive function deficits. In this study, participants with higher beta power at the onset of the trial demonstrated more improvement than those with lower beta power. Children with ASD with higher beta power may have more skills related to integrating information and adapting to change, thus allowing for greater improvement in complex domains such as socialization and communication.</p><p>The current findings may be influenced by follow&#x02010;up duration, treatment expectancy, and participant age. New patterns of EEG power may manifest after 12 months; likewise, changes we did observe may no longer be present after the 12&#x02010;month follow&#x02010;up time. Future work should incorporate more longitudinal time points to model the developmental trajectory of EEG power. While changes in EEG power will not be affected by parental expectancy (i.e., placebo effect), the associations between EEG power and parent&#x02010;reported clinical outcomes may be sensitive to differences in treatment expectancy. Future double&#x02010;blind placebo&#x02010;controlled trials will help to control for this bias. Finally, we expect differential brain growth over the course of 1 year in the youngest and oldest children due to differences in developmental stages across the 2&#x02013;6 years age range. In an open&#x02010;label trial, we cannot attribute the positive changes in EEG observed to the umbilical cord treatment. However, we provide preliminary evidence that measures of EEG power in theta, alpha, and beta bands are sensitive to change over the course of a 12&#x02010;month open&#x02010;label clinical trial testing umbilical cord blood therapy for ASD, and that an EEG biomarker shows promise in identifying children who are likely to exhibit the highest level of improvement in their social communication skills.</p></sec><sec id="sct312347-sec-0022"><title>Conclusion</title><p>We demonstrated the feasibility of using EEG measures in an open&#x02010;label, phase I trial of intravenous infusion of autologous umbilical cord blood in young children with ASD. We described significant changes in EEG power reflected in a normalization of the EEG spectral characteristics by 12 months post&#x02010;infusion. Furthermore, higher baseline EEG beta 2 power was associated with a greater degree of improvement in social communication symptoms. Baseline measures of EEG beta 2 power and NVIQ together were highly predictive of treatment response, highlighting the potential for EEG as a tool to discriminate between children with varying degrees of improvement after treatment with autologous umbilical cord blood. These outcomes will be further evaluated on completion of the ongoing randomized phase II, placebo&#x02010;controlled study of cord blood in young children with ASD.</p></sec><sec id="sct312347-sec-0025"><title>Author Contributions</title><p>G.D., J.M.S., and J.K.: conception and design, collection and/or assembly of data, data analysis and interpretation, manuscript writing, final approval of manuscript. M.M.: conception and design, collection and/or assembly of data, data analysis and interpretation, manuscript writing. S.C.: data analysis and interpretation. S.M.: collection and/or assembly of data, data analysis and interpretation, manuscript writing. J.B.: data analysis and interpretation, manuscript writing.</p></sec><sec id="sct312347-sec-0024"><title>Disclosure of Potential Conflicts of Interest</title><p>G.D. is on the Scientific Advisory Board and receives research funding from Janssen Research and Development, LLC, is a consultant for Roche Pharmaceuticals and Akili, Inc., receives research funding from PerkinElmer, and receives royalties from Guilford Press and University of Oxford Press. J.K. is Director of the Carolinas Cord Blood Bank and Medical Director of Cord: Use Cord Blood Bank. The other authors indicated no potential conflicts of interest.</p></sec></body><back><ack id="sct312347-sec-0023"><title>Acknowledgments</title><p>We thank the Marcus Foundation (NCT02176317) for their financial support, the children who participated and their families, and the following staff members: Todd Calnan, Crystal Chiang, Kendyl Cole, Michelle Perry, Mallory Harris, Jennifer Newman, Katherine S. Davlantis, Elizabeth Paisley, Charlotte Stoute, and Elizabeth Sturdivant.</p></ack><ref-list id="sct312347-bibl-0001" content-type="cited-references"><title>References</title><ref id="sct312347-bib-0001"><label>1</label><mixed-citation publication-type="book" id="sct312347-cit-0001">
+<collab collab-type="authors">American Psychiatric Association</collab>
+. <source xml:lang="en">Diagnostic and Statistical Manual of Mental Disorders (DSM&#x02010;5&#x000ae;)</source>. <publisher-loc>Washington, DC</publisher-loc>: <publisher-name>American Psychiatric Association</publisher-name>, <year>2013</year>.</mixed-citation></ref><ref id="sct312347-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="sct312347-cit-0002">
+<string-name>
+<surname>Dawson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Munson</surname>
+<given-names>J</given-names>
+</string-name> et al. <article-title>Randomized, controlled trial of an intervention for toddlers with autism: The Early Start Denver Model</article-title>. <source xml:lang="en">Pediatrics</source>
+<year>2010</year>;<volume>125</volume>:<fpage>e17</fpage>&#x02013;<lpage>e23</lpage>.<pub-id pub-id-type="pmid">19948568</pub-id></mixed-citation></ref><ref id="sct312347-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="sct312347-cit-0003">
+<string-name>
+<surname>Carver</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Dawson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Panagiotides</surname>
+<given-names>H</given-names>
+</string-name> et al. <article-title>Age&#x02010;related differences in neural correlates of face recognition during the toddler and preschool years</article-title>. <source xml:lang="en">Dev Psychobiol</source>
+<year>2003</year>;<volume>42</volume>:<fpage>148</fpage>&#x02013;<lpage>159</lpage>.<pub-id pub-id-type="pmid">12555279</pub-id></mixed-citation></ref><ref id="sct312347-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="sct312347-cit-0004">
+<string-name>
+<surname>Grice</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Halit</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Farroni</surname>
+<given-names>T</given-names>
+</string-name> et al. <article-title>Neural correlates of eye&#x02010;gaze detection in young children with autism</article-title>. <source xml:lang="en">Cortex J Devoted Study Nerv Syst Behav</source>
+<year>2005</year>;<volume>41</volume>:<fpage>342</fpage>&#x02013;<lpage>353</lpage>.</mixed-citation></ref><ref id="sct312347-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="sct312347-cit-0005">
+<string-name>
+<surname>McPartland</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Crowley</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Perszyk</surname>
+<given-names>DR</given-names>
+</string-name> et al. <article-title>Temporal dynamics reveal atypical brain response to social exclusion in autism</article-title>. <source xml:lang="en">Dev Cogn Neurosci</source>
+<year>2011</year>;<volume>1</volume>:<fpage>271</fpage>&#x02013;<lpage>279</lpage>.<pub-id pub-id-type="pmid">21731598</pub-id></mixed-citation></ref><ref id="sct312347-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="sct312347-cit-0006">
+<string-name>
+<surname>Webb</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>EJH</given-names>
+</string-name>, <string-name>
+<surname>Merkle</surname>
+<given-names>K</given-names>
+</string-name> et al. <article-title>Developmental change in the ERP responses to familiar faces in toddlers with autism spectrum disorders versus typical development</article-title>. <source xml:lang="en">Child Dev</source>
+<year>2011</year>;<volume>82</volume>:<fpage>1868</fpage>&#x02013;<lpage>1886</lpage>.<pub-id pub-id-type="pmid">22004249</pub-id></mixed-citation></ref><ref id="sct312347-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="sct312347-cit-0007">
+<string-name>
+<surname>Emerson</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nishino</surname>
+<given-names>T</given-names>
+</string-name> et al. <article-title>Functional neuroimaging of high&#x02010;risk 6&#x02010;month&#x02010;old infants predicts a diagnosis of autism at 24 months of age</article-title>. <source xml:lang="en">Sci Transl Med</source>
+<year>2017</year>;<volume>9</volume>:<fpage>eaag2882</fpage>.<pub-id pub-id-type="pmid">28592562</pub-id></mixed-citation></ref><ref id="sct312347-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="sct312347-cit-0008">
+<string-name>
+<surname>Nunes</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Peatfield</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Vakorin</surname>
+<given-names>V</given-names>
+</string-name> et al. <article-title>Idiosyncratic organization of cortical networks in autism spectrum disorder</article-title>. <source xml:lang="en">NeuroImage</source>
+<year>2018</year> [Epub ahead of print].</mixed-citation></ref><ref id="sct312347-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="sct312347-cit-0009">
+<string-name>
+<surname>Shen</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Keown</surname>
+<given-names>CL</given-names>
+</string-name> et al. <article-title>Functional connectivity of the amygdala is disrupted in preschool&#x02010;aged children with autism spectrum disorder</article-title>. <source xml:lang="en">J Am Acad Child Adolesc Psychiatry</source>
+<year>2016</year>;<volume>55</volume>:<fpage>817</fpage>&#x02013;<lpage>824</lpage>.<pub-id pub-id-type="pmid">27566123</pub-id></mixed-citation></ref><ref id="sct312347-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="sct312347-cit-0010">
+<string-name>
+<surname>Chang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>
+<given-names>NN</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>T</given-names>
+</string-name> et al. <article-title>Structural change of the corpus callosum fibers in toddlers with autism spectrum disorder: Two&#x02010;year follow&#x02010;up</article-title>. <source xml:lang="en">Zhonghua Er Ke Za Zhi Chin J Pediatr</source>
+<year>2017</year>;<volume>55</volume>:<fpage>920</fpage>&#x02013;<lpage>925</lpage>.</mixed-citation></ref><ref id="sct312347-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="sct312347-cit-0011">
+<string-name>
+<surname>Solso</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Proudfoot</surname>
+<given-names>J</given-names>
+</string-name> et al. <article-title>DTI provides evidence of possible axonal over&#x02010;connectivity in frontal lobes in ASD toddlers</article-title>. <source xml:lang="en">Biol Psychiatry</source>
+<year>2016</year>;<volume>79</volume>:<fpage>676</fpage>&#x02013;<lpage>684</lpage>.<pub-id pub-id-type="pmid">26300272</pub-id></mixed-citation></ref><ref id="sct312347-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="sct312347-cit-0012">
+<string-name>
+<surname>Wolff</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gerig</surname>
+<given-names>G</given-names>
+</string-name> et al. <article-title>Differences in white matter fiber tract development present from 6 to 24 months in infants with autism</article-title>. <source xml:lang="en">Am J Psychiatry</source>
+<year>2012</year>;<volume>169</volume>:<fpage>589</fpage>&#x02013;<lpage>600</lpage>.<pub-id pub-id-type="pmid">22362397</pub-id></mixed-citation></ref><ref id="sct312347-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="sct312347-cit-0013">
+<string-name>
+<surname>Dawson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>EJH</given-names>
+</string-name>, <string-name>
+<surname>Merkle</surname>
+<given-names>K</given-names>
+</string-name> et al. <article-title>Early behavioral intervention is associated with normalized brain activity in young children with autism</article-title>. <source xml:lang="en">J Am Acad Child Adolesc Psychiatry</source>
+<year>2012</year>;<volume>51</volume>:<fpage>1150</fpage>&#x02013;<lpage>1159</lpage>.<pub-id pub-id-type="pmid">23101741</pub-id></mixed-citation></ref><ref id="sct312347-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="sct312347-cit-0014">
+<string-name>
+<surname>Faja</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Webb</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>E</given-names>
+</string-name> et al. <article-title>The effects of face expertise training on the behavioral performance and brain activity of adults with high functioning autism spectrum disorders</article-title>. <source xml:lang="en">J Autism Dev Disord</source>
+<year>2012</year>;<volume>42</volume>:<fpage>278</fpage>&#x02013;<lpage>293</lpage>.<pub-id pub-id-type="pmid">21484517</pub-id></mixed-citation></ref><ref id="sct312347-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="sct312347-cit-0015">
+<string-name>
+<surname>Van Hecke</surname>
+<given-names>AVV</given-names>
+</string-name>, <string-name>
+<surname>Stevens</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Carson</surname>
+<given-names>AM</given-names>
+</string-name> et al. <article-title>Measuring the plasticity of social approach: A randomized controlled trial of the effects of the PEERS intervention on EEG asymmetry in adolescents with autism spectrum disorders</article-title>. <source xml:lang="en">J Autism Dev Disord</source>
+<year>2015</year>;<volume>45</volume>:<fpage>316</fpage>&#x02013;<lpage>335</lpage>.<pub-id pub-id-type="pmid">23812665</pub-id></mixed-citation></ref><ref id="sct312347-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="sct312347-cit-0016">
+<string-name>
+<surname>Coben</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Hudspeth</surname>
+<given-names>W</given-names>
+</string-name> et al. <article-title>EEG power and coherence in autistic spectrum disorder</article-title>. <source xml:lang="en">Clin Neurophysiol</source>
+<year>2008</year>;<volume>119</volume>:<fpage>1002</fpage>&#x02013;<lpage>1009</lpage>.<pub-id pub-id-type="pmid">18331812</pub-id></mixed-citation></ref><ref id="sct312347-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="sct312347-cit-0017">
+<string-name>
+<surname>Duffy</surname>
+<given-names>FH</given-names>
+</string-name>, <string-name>
+<surname>Als</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>A stable pattern of EEG spectral coherence distinguishes children with autism from neuro&#x02010;typical controls &#x02010; a large case control study</article-title>. <source xml:lang="en">BMC Med</source>
+<year>2012</year>;<volume>10</volume>:<fpage>64</fpage>.<pub-id pub-id-type="pmid">22730909</pub-id></mixed-citation></ref><ref id="sct312347-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="sct312347-cit-0018">
+<string-name>
+<surname>Murias</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Webb</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Greenson</surname>
+<given-names>J</given-names>
+</string-name> et al. <article-title>Resting state cortical connectivity reflected in EEG coherence in individuals with autism</article-title>. <source xml:lang="en">Biol Psychiatry</source>
+<year>2007</year>;<volume>62</volume>:<fpage>270</fpage>&#x02013;<lpage>273</lpage>.<pub-id pub-id-type="pmid">17336944</pub-id></mixed-citation></ref><ref id="sct312347-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="sct312347-cit-0019">
+<string-name>
+<surname>Shou</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Mosconi</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name> et al. <article-title>Electrophysiological signatures of atypical intrinsic brain connectivity networks in autism</article-title>. <source xml:lang="en">J Neural Eng</source>
+<year>2017</year>;<volume>14</volume>:<fpage>046010</fpage>.<pub-id pub-id-type="pmid">28540866</pub-id></mixed-citation></ref><ref id="sct312347-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="sct312347-cit-0020">
+<string-name>
+<surname>Tierney</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Gabard&#x02010;Durnam</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Vogel&#x02010;Farley</surname>
+<given-names>V</given-names>
+</string-name> et al. <article-title>Developmental trajectories of resting EEG power: An endophenotype of autism spectrum disorder</article-title>. <source xml:lang="en">PLoS One</source>
+<year>2012</year>;<volume>7</volume>:<fpage>e39127</fpage>.<pub-id pub-id-type="pmid">22745707</pub-id></mixed-citation></ref><ref id="sct312347-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="sct312347-cit-0021">
+<string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Barstein</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ethridge</surname>
+<given-names>LE</given-names>
+</string-name> et al. <article-title>Resting state EEG abnormalities in autism spectrum disorders</article-title>. <source xml:lang="en">J Neurodev Disord</source>
+<year>2013</year>;<volume>5</volume>:<fpage>24</fpage>.<pub-id pub-id-type="pmid">24040879</pub-id></mixed-citation></ref><ref id="sct312347-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="sct312347-cit-0022">
+<string-name>
+<surname>Brown</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gruber</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Boucher</surname>
+<given-names>J</given-names>
+</string-name> et al. <article-title>Gamma abnormalities during perception of illusory figures in autism</article-title>. <source xml:lang="en">Cortex</source>
+<year>2005</year>;<volume>41</volume>:<fpage>364</fpage>&#x02013;<lpage>376</lpage>.<pub-id pub-id-type="pmid">15871601</pub-id></mixed-citation></ref><ref id="sct312347-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="sct312347-cit-0023">
+<string-name>
+<surname>Milne</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Scope</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pascalis</surname>
+<given-names>O</given-names>
+</string-name> et al. <article-title>Independent component analysis reveals atypical electroencephalographic activity during visual perception in individuals with autism</article-title>. <source xml:lang="en">Biol Psychiatry</source>
+<year>2009</year>;<volume>65</volume>:<fpage>22</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">18774554</pub-id></mixed-citation></ref><ref id="sct312347-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="sct312347-cit-0024">
+<string-name>
+<surname>Orekhova</surname>
+<given-names>EV</given-names>
+</string-name>, <string-name>
+<surname>Elsabbagh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>EJ</given-names>
+</string-name> et al. <article-title>EEG hyper&#x02010;connectivity in high&#x02010;risk infants is associated with later autism</article-title>. <source xml:lang="en">J Neurodev Disord</source>
+<year>2014</year>;<volume>6</volume>:<fpage>40</fpage>.<pub-id pub-id-type="pmid">25400705</pub-id></mixed-citation></ref><ref id="sct312347-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="sct312347-cit-0025">
+<string-name>
+<surname>Cornew</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>
+<given-names>TPL</given-names>
+</string-name>, <string-name>
+<surname>Blaskey</surname>
+<given-names>L</given-names>
+</string-name> et al. <article-title>Resting&#x02010;state oscillatory activity in autism spectrum disorders</article-title>. <source xml:lang="en">J Autism Dev Disord</source>
+<year>2012</year>;<volume>42</volume>:<fpage>1884</fpage>&#x02013;<lpage>1894</lpage>.<pub-id pub-id-type="pmid">22207057</pub-id></mixed-citation></ref><ref id="sct312347-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="sct312347-cit-0026">
+<string-name>
+<surname>Dawson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Klinger</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Panagiotides</surname>
+<given-names>H</given-names>
+</string-name> et al. <article-title>Subgroups of autistic children based on social behavior display distinct patterns of brain activity</article-title>. <source xml:lang="en">J Abnorm Child Psychol</source>
+<year>1995</year>;<volume>23</volume>:<fpage>569</fpage>&#x02013;<lpage>583</lpage>.<pub-id pub-id-type="pmid">8568080</pub-id></mixed-citation></ref><ref id="sct312347-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="sct312347-cit-0027">
+<string-name>
+<surname>Sutton</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Burnette</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Mundy</surname>
+<given-names>PC</given-names>
+</string-name> et al. <article-title>Resting cortical brain activity and social behavior in higher functioning children with autism</article-title>. <source xml:lang="en">J Child Psychol Psychiatry</source>
+<year>2005</year>;<volume>46</volume>:<fpage>211</fpage>&#x02013;<lpage>222</lpage>.<pub-id pub-id-type="pmid">15679529</pub-id></mixed-citation></ref><ref id="sct312347-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="sct312347-cit-0028">
+<string-name>
+<surname>Baker</surname>
+<given-names>SN</given-names>
+</string-name>. <article-title>Oscillatory interactions between sensorimotor cortex and the periphery</article-title>. <source xml:lang="en">Curr Opin Neurobiol</source>
+<year>2007</year>;<volume>17</volume>:<fpage>649</fpage>&#x02013;<lpage>655</lpage>.<pub-id pub-id-type="pmid">18339546</pub-id></mixed-citation></ref><ref id="sct312347-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="sct312347-cit-0029">
+<string-name>
+<surname>Kilavik</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Zaepffel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Brovelli</surname>
+<given-names>A</given-names>
+</string-name> et al. <article-title>The ups and downs of beta oscillations in sensorimotor cortex</article-title>. <source xml:lang="en">Exp Neurol</source>
+<year>2013</year>;<volume>245</volume>:<fpage>15</fpage>&#x02013;<lpage>26</lpage>.<pub-id pub-id-type="pmid">23022918</pub-id></mixed-citation></ref><ref id="sct312347-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="sct312347-cit-0030">
+<string-name>
+<surname>Klostermann</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Nikulin</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>K&#x000fc;hn</surname>
+<given-names>A</given-names>
+</string-name> et al. <article-title>Task&#x02010;related differential dynamics of EEG alpha&#x02010; and beta&#x02010;band synchronization in cortico&#x02010;basal motor structures</article-title>. <source xml:lang="en">Eur J Neurosci</source>
+<year>2007</year>;<volume>25</volume>:<fpage>1604</fpage>&#x02013;<lpage>1615</lpage>.<pub-id pub-id-type="pmid">17425586</pub-id></mixed-citation></ref><ref id="sct312347-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="sct312347-cit-0031">
+<string-name>
+<surname>Pfurtscheller</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Stanc&#x000e1;k</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Edlinger</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>On the existence of different types of central beta rhythms below 30 Hz</article-title>. <source xml:lang="en">Electroencephalogr Clin Neurophysiol</source>
+<year>1997</year>;<volume>102</volume>:<fpage>316</fpage>&#x02013;<lpage>325</lpage>.<pub-id pub-id-type="pmid">9146493</pub-id></mixed-citation></ref><ref id="sct312347-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="sct312347-cit-0032">
+<string-name>
+<surname>Boersma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kemner</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>De Reus</surname>
+<given-names>MA</given-names>
+</string-name> et al. <article-title>Disrupted functional brain networks in autistic toddlers</article-title>. <source xml:lang="en">Brain Connect</source>
+<year>2012</year>;<volume>3</volume>:<fpage>41</fpage>&#x02013;<lpage>49</lpage>.</mixed-citation></ref><ref id="sct312347-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="sct312347-cit-0033">
+<string-name>
+<surname>Ewen</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Lakshmanan</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Pillai</surname>
+<given-names>AS</given-names>
+</string-name> et al. <article-title>Decreased modulation of EEG oscillations in high&#x02010;functioning autism during a motor control task</article-title>. <source xml:lang="en">Front Hum Neurosci</source>
+<year>2016</year>;<volume>10</volume>:<fpage>198</fpage>.<pub-id pub-id-type="pmid">27199719</pub-id></mixed-citation></ref><ref id="sct312347-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="sct312347-cit-0034">
+<string-name>
+<surname>Hames</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rajmohan</surname>
+<given-names>R</given-names>
+</string-name> et al. <article-title>Visual, auditory, and cross modal sensory processing in adults with autism: An EEG power and BOLD fMRI investigation</article-title>. <source xml:lang="en">Front Hum Neurosci</source>
+<year>2016</year>;<volume>10</volume>:<fpage>167</fpage>.<pub-id pub-id-type="pmid">27148020</pub-id></mixed-citation></ref><ref id="sct312347-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="sct312347-cit-0035">
+<string-name>
+<surname>Lazarev</surname>
+<given-names>VV</given-names>
+</string-name>, <string-name>
+<surname>Pontes</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mitrofanov</surname>
+<given-names>AA</given-names>
+</string-name> et al. <article-title>Reduced interhemispheric connectivity in childhood autism detected by electroencephalographic photic driving coherence</article-title>. <source xml:lang="en">J Autism Dev Disord</source>
+<year>2015</year>;<volume>45</volume>:<fpage>537</fpage>&#x02013;<lpage>547</lpage>.<pub-id pub-id-type="pmid">24097142</pub-id></mixed-citation></ref><ref id="sct312347-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="sct312347-cit-0036">
+<string-name>
+<surname>Bangel</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Batty</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>AX</given-names>
+</string-name> et al. <article-title>Reduced beta band connectivity during number estimation in autism</article-title>. <source xml:lang="en">NeuroImage Clin</source>
+<year>2014</year>;<volume>6</volume>:<fpage>202</fpage>&#x02013;<lpage>213</lpage>.<pub-id pub-id-type="pmid">25379432</pub-id></mixed-citation></ref><ref id="sct312347-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="sct312347-cit-0037">
+<string-name>
+<surname>Cooper</surname>
+<given-names>NR</given-names>
+</string-name>, <string-name>
+<surname>Simpson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Till</surname>
+<given-names>A</given-names>
+</string-name> et al. <article-title>Beta event&#x02010;related desynchronization as an index of individual differences in processing human facial expression: further investigations of autistic traits in typically developing adults</article-title>. <source xml:lang="en">Front Hum Neurosci</source>
+<year>2013</year>;<volume>7</volume>:<fpage>159</fpage>.<pub-id pub-id-type="pmid">23630489</pub-id></mixed-citation></ref><ref id="sct312347-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="sct312347-cit-0038">
+<string-name>
+<surname>Luckhardt</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kr&#x000f6;ger</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cholemkery</surname>
+<given-names>H</given-names>
+</string-name> et al. <article-title>Neural correlates of explicit versus implicit facial emotion processing in ASD</article-title>. <source xml:lang="en">J Autism Dev Disord</source>
+<year>2017</year>;<volume>47</volume>:<fpage>1944</fpage>&#x02013;<lpage>1955</lpage>.<pub-id pub-id-type="pmid">28497246</pub-id></mixed-citation></ref><ref id="sct312347-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="sct312347-cit-0039">
+<string-name>
+<surname>Nowicka</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cygan</surname>
+<given-names>HB</given-names>
+</string-name>, <string-name>
+<surname>Tacikowski</surname>
+<given-names>P</given-names>
+</string-name> et al. <article-title>Name recognition in autism: EEG evidence of altered patterns of brain activity and connectivity</article-title>. <source xml:lang="en">Mol Autism</source>
+<year>2016</year>;<volume>7</volume>:<fpage>38</fpage>.<pub-id pub-id-type="pmid">27602201</pub-id></mixed-citation></ref><ref id="sct312347-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="sct312347-cit-0040">
+<string-name>
+<surname>Frohlich</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Senturk</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Saravanapandian</surname>
+<given-names>V</given-names>
+</string-name> et al. <article-title>A quantitative electrophysiological biomarker of duplication 15q11.2&#x02010;q13.1 syndrome</article-title>. <source xml:lang="en">PLoS One</source>
+<year>2016</year>;<volume>11</volume>:<fpage>e0167179</fpage>.<pub-id pub-id-type="pmid">27977700</pub-id></mixed-citation></ref><ref id="sct312347-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="sct312347-cit-0041">
+<string-name>
+<surname>Dawson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Davlantis</surname>
+<given-names>KS</given-names>
+</string-name> et al. <article-title>Autologous cord blood infusions are safe and feasible in young children with autism spectrum disorder: Results of a single&#x02010;center phase I open&#x02010;label trial</article-title>. <source xml:lang="en">Stem Cells Translational Medicine</source>
+<year>2017</year>;<volume>6</volume>:<fpage>1332</fpage>&#x02013;<lpage>1339</lpage>.<pub-id pub-id-type="pmid">28378499</pub-id></mixed-citation></ref><ref id="sct312347-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="sct312347-cit-0042">
+<string-name>
+<surname>Shoulars</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Noldner</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Troy</surname>
+<given-names>JD</given-names>
+</string-name> et al. <article-title>Development and validation of a rapid, aldehyde dehydrogenase bright&#x02013;based cord blood potency assay</article-title>. <source xml:lang="en">Blood</source>
+<year>2016</year>;<volume>127</volume>:<fpage>2346</fpage>&#x02013;<lpage>2354</lpage>.<pub-id pub-id-type="pmid">26968535</pub-id></mixed-citation></ref><ref id="sct312347-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="sct312347-cit-0043">
+<string-name>
+<surname>Rubinstein</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dobrila</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Rosenfield</surname>
+<given-names>RE</given-names>
+</string-name> et al. <article-title>Processing and cryopreservation of placental/umbilical cord blood for unrelated bone marrow reconstitution</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<year>1995</year>;<volume>92</volume>:<fpage>10119</fpage>&#x02013;<lpage>10122</lpage>.<pub-id pub-id-type="pmid">7479737</pub-id></mixed-citation></ref><ref id="sct312347-bib-0044"><label>44</label><mixed-citation publication-type="book" id="sct312347-cit-0044">
+<string-name>
+<surname>Lord</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Rutter</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>DiLavore</surname>
+<given-names>P</given-names>
+</string-name> et al. <source xml:lang="en">Autism Diagnostic Observation Schedule: ADOS&#x02010;2</source>. <publisher-loc>Los Angeles, CA</publisher-loc>: <publisher-name>Western Psychological Services</publisher-name>, <year>2012</year>.</mixed-citation></ref><ref id="sct312347-bib-0045"><label>45</label><mixed-citation publication-type="book" id="sct312347-cit-0045">
+<string-name>
+<surname>Rutter</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Le Couteur</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lord</surname>
+<given-names>C</given-names>
+</string-name>. <source xml:lang="en">Autism Diagnostic Interview&#x02010;Revised</source>. <publisher-loc>Los Angeles, CA</publisher-loc>: <publisher-name>Western Psychological Services</publisher-name>, <year>2005</year>.</mixed-citation></ref><ref id="sct312347-bib-0046"><label>46</label><mixed-citation publication-type="book" id="sct312347-cit-0046">
+<string-name>
+<surname>Roid</surname>
+<given-names>GH</given-names>
+</string-name>. <source xml:lang="en">Stanford&#x02010;Binet Intelligence Scales for Early Childhood (Early SB5)</source>. <edition>5th</edition> ed. <publisher-loc>Itasca, IL</publisher-loc>: <publisher-name>Riverside Publishing</publisher-name>, <year>2003</year>.</mixed-citation></ref><ref id="sct312347-bib-0047"><label>47</label><mixed-citation publication-type="book" id="sct312347-cit-0047">
+<string-name>
+<surname>Mullen</surname>
+<given-names>E</given-names>
+</string-name>. <source xml:lang="en">Mullen Scales of Early Learning: AGS</source>. <publisher-loc>Bloomington, MN</publisher-loc>: <publisher-name>NCS Pearson</publisher-name>, <year>1995</year>.</mixed-citation></ref><ref id="sct312347-bib-0048"><label>48</label><mixed-citation publication-type="book" id="sct312347-cit-0048">
+<string-name>
+<surname>Sparrow</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cicchetti</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Balla</surname>
+<given-names>D</given-names>
+</string-name>. <source xml:lang="en">Vineland Adaptive Behavior Scales: Survey Forms Manual</source>. <edition>2nd</edition> ed. <publisher-loc>Minneap, MN</publisher-loc>: <publisher-name>NCS Pearson</publisher-name>, <year>2005</year>.</mixed-citation></ref><ref id="sct312347-bib-0049"><label>49</label><mixed-citation publication-type="book" id="sct312347-cit-0049">
+<string-name>
+<surname>Martin</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Brownell</surname>
+<given-names>R</given-names>
+</string-name>. <source xml:lang="en">Expressive One&#x02010;Word Picture Vocabulary Test (EOWPVT&#x02010;4)</source>. <edition>4th</edition> ed. <publisher-loc>Novato, CA</publisher-loc>: <publisher-name>Academic Therapy Publications</publisher-name>, <year>2011</year>.</mixed-citation></ref><ref id="sct312347-bib-0050"><label>50</label><mixed-citation publication-type="book" id="sct312347-cit-0050">
+<person-group person-group-type="editor"><name><surname>Guy</surname><given-names>W</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Bonato</surname><given-names>R</given-names></name></person-group>, eds. <source xml:lang="en">CGI: Clinical Global Impressions</source>. <publisher-loc>Chevy Chase, MD</publisher-loc>: <publisher-name>National Institute of Mental Health</publisher-name>, <year>1970</year>.</mixed-citation></ref><ref id="sct312347-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="sct312347-cit-0051">
+<string-name>
+<surname>Oostenveld</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Fries</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Maris</surname>
+<given-names>E</given-names>
+</string-name> et al. <article-title>FieldTrip: Open source software for advanced analysis of MEG, EEG, and invasive electrophysiological data</article-title>. <source xml:lang="en">Comput Intel Neurosci</source>
+<year>2011</year>;<volume>2011</volume>:<fpage>1</fpage>&#x02013;<lpage>9</lpage>.</mixed-citation></ref><ref id="sct312347-bib-0052"><label>52</label><mixed-citation publication-type="book" id="sct312347-cit-0052">
+<string-name>
+<surname>Belouchrani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Abed&#x02010;Meraim</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Cardoso</surname>
+<given-names>JF</given-names>
+</string-name> et al. Second order blind separation of temporally correlated sources. Proceeding Int Conf Digit Signal Process, <publisher-loc>Cyprus, Greece</publisher-loc>, <year>1993</year>;<fpage>346</fpage>&#x02013;<lpage>351</lpage>.</mixed-citation></ref><ref id="sct312347-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="sct312347-cit-0053">
+<string-name>
+<surname>Delorme</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Makeig</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>EEGLAB: An open source toolbox for analysis of single&#x02010;trial EEG dynamics including independent component analysis</article-title>. <source xml:lang="en">J Neurosci Methods</source>
+<year>2004</year>;<volume>134</volume>:<fpage>9</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">15102499</pub-id></mixed-citation></ref><ref id="sct312347-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="sct312347-cit-0054">
+<string-name>
+<surname>McEvoy</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hasenstab</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Senturk</surname>
+<given-names>D</given-names>
+</string-name> et al. <article-title>Physiologic artifacts in resting state oscillations in young children: Methodological considerations for noisy data</article-title>. <source xml:lang="en">Brain Imaging Behav</source>
+<year>2015</year>;<volume>9</volume>:<fpage>104</fpage>&#x02013;<lpage>114</lpage>.<pub-id pub-id-type="pmid">25563227</pub-id></mixed-citation></ref><ref id="sct312347-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="sct312347-cit-0055">
+<string-name>
+<surname>Casanova</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Buxhoeveden</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Switala</surname>
+<given-names>AE</given-names>
+</string-name> et al. <article-title>Minicolumnar pathology in autism</article-title>. <source xml:lang="en">Neurology</source>
+<year>2002</year>;<volume>58</volume>:<fpage>428</fpage>&#x02013;<lpage>432</lpage>.<pub-id pub-id-type="pmid">11839843</pub-id></mixed-citation></ref><ref id="sct312347-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="sct312347-cit-0056">
+<string-name>
+<surname>Cellot</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Cherubini</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>GABAergic signaling as therapeutic target for autism spectrum disorders</article-title>. <source xml:lang="en">Front Pediatr</source>
+<year>2014</year>;<volume>2</volume>:<fpage>70</fpage>.<pub-id pub-id-type="pmid">25072038</pub-id></mixed-citation></ref><ref id="sct312347-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="sct312347-cit-0057">
+<string-name>
+<surname>Levitt</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Eagleson</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Powell</surname>
+<given-names>EM</given-names>
+</string-name>. <article-title>Regulation of neocortical interneuron development and the implications for neurodevelopmental disorders</article-title>. <source xml:lang="en">Trends Neurosci</source>
+<year>2004</year>;<volume>27</volume>:<fpage>400</fpage>&#x02013;<lpage>406</lpage>.<pub-id pub-id-type="pmid">15219739</pub-id></mixed-citation></ref><ref id="sct312347-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="sct312347-cit-0058">
+<string-name>
+<surname>Jensen</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Mazaheri</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Shaping functional architecture by oscillatory alpha activity: Gating by inhibition</article-title>. <source xml:lang="en">Front Hum Neurosci</source>
+<year>2010</year>;<volume>4</volume>:<fpage>186</fpage>.<pub-id pub-id-type="pmid">21119777</pub-id></mixed-citation></ref><ref id="sct312347-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="sct312347-cit-0059">
+<string-name>
+<surname>Stavropoulos</surname>
+<given-names>KKM</given-names>
+</string-name>, <string-name>
+<surname>Carver</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>Oscillatory rhythm of reward: Anticipation and processing of rewards in children with and without autism</article-title>. <source xml:lang="en">Mol Autism</source>
+<year>2018</year>;<volume>9</volume>:<fpage>4</fpage>.<pub-id pub-id-type="pmid">29423131</pub-id></mixed-citation></ref><ref id="sct312347-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="sct312347-cit-0060">
+<string-name>
+<surname>Engel</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Fries</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Beta&#x02010;band oscillations&#x02014;Signalling the status quo?</article-title>
+<source xml:lang="en">Curr Opin Neurobiol</source>
+<year>2010</year>;<volume>20</volume>:<fpage>156</fpage>&#x02013;<lpage>165</lpage>.<pub-id pub-id-type="pmid">20359884</pub-id></mixed-citation></ref><ref id="sct312347-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="sct312347-cit-0061">
+<string-name>
+<surname>Hill</surname>
+<given-names>EL</given-names>
+</string-name>. <article-title>Executive dysfunction in autism</article-title>. <source xml:lang="en">Trends Cogn Sci</source>
+<year>2004</year>;<volume>8</volume>:<fpage>26</fpage>&#x02013;<lpage>32</lpage>.<pub-id pub-id-type="pmid">14697400</pub-id></mixed-citation></ref><ref id="sct312347-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="sct312347-cit-0062">
+<string-name>
+<surname>Adams</surname>
+<given-names>NC</given-names>
+</string-name>, <string-name>
+<surname>Jarrold</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Inhibition in autism: Children with autism have difficulty inhibiting irrelevant distractors but not prepotent responses</article-title>. <source xml:lang="en">J Autism Dev Disord</source>
+<year>2012</year>;<volume>42</volume>:<fpage>1052</fpage>&#x02013;<lpage>1063</lpage>.<pub-id pub-id-type="pmid">21830170</pub-id></mixed-citation></ref><ref id="sct312347-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="sct312347-cit-0063">
+<string-name>
+<surname>Kouklari</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Monks</surname>
+<given-names>CP</given-names>
+</string-name> et al. <article-title>Hot and cool executive function and its relation to theory of mind in children with and without autism spectrum disorder</article-title>. <source xml:lang="en">J Cogn Dev</source>
+<year>2017</year>;<volume>18</volume>:<fpage>399</fpage>&#x02013;<lpage>418</lpage>.</mixed-citation></ref><ref id="sct312347-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="sct312347-cit-0064">
+<string-name>
+<surname>Garon</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name>
+<surname>Bryson</surname>
+<given-names>SE</given-names>
+</string-name>. <article-title>Early executive dysfunction in ASD: Simple versus complex skills</article-title>. <source xml:lang="en">Autism Res</source>
+<year>2018</year>;<volume>11</volume>:<fpage>318</fpage>&#x02013;<lpage>330</lpage>.<pub-id pub-id-type="pmid">29149519</pub-id></mixed-citation></ref></ref-list></back></article>

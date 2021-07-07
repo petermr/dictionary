@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pettengell</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Sebban</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Zinzani</surname>
+    <given-names>PL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Monotherapy with pixantrone in histologically confirmed relapsed or refractory aggressive B-cell non-Hodgkin lymphoma: post-hoc analyses from a phase III trial</article-title>
+  <source>Br J Haematol</source>
+  <year>2016</year>
+  <volume>174</volume>
+  <issue>5</issue>
+  <fpage>692</fpage>
+  <lpage>699</lpage>
+  <pub-id pub-id-type="doi">10.1111/bjh.14101</pub-id>
+  <?supplied-pmid 27118109?>
+  <pub-id pub-id-type="pmid">27118109</pub-id>
+ </element-citation>
+</ref>

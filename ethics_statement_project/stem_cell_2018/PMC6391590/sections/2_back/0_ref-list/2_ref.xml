@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib2">
+ <label>2</label>
+ <element-citation publication-type="book" id="sref2">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Giugliani</surname>
+    <given-names>R.</given-names>
+   </name>
+  </person-group>
+  <chapter-title>The mucopolysaccharidoses</chapter-title>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Mehta</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Winchester</surname>
+    <given-names>B.</given-names>
+   </name>
+  </person-group>
+  <source>Lysosomal Storage Disorders: A Practical Guide</source>
+  <edition>First Edition</edition>
+  <year>2012</year>
+  <publisher-name>Wiley-Blackwell</publisher-name>
+  <fpage>94</fpage>
+  <lpage>100</lpage>
+ </element-citation>
+</ref>

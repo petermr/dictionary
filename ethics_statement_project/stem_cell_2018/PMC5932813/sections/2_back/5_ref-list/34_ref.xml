@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <label>34.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tenover</surname>
+    <given-names>FC</given-names>
+   </name>
+   <name>
+    <surname>Arbeit</surname>
+    <given-names>RD</given-names>
+   </name>
+   <name>
+    <surname>Goering</surname>
+    <given-names>RV</given-names>
+   </name>
+   <name>
+    <surname>Mickelsen</surname>
+    <given-names>PA</given-names>
+   </name>
+   <name>
+    <surname>Murray</surname>
+    <given-names>BE</given-names>
+   </name>
+   <name>
+    <surname>Persing</surname>
+    <given-names>DH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Interpreting chromosomal DNA restriction patterns produced by pulsed-field gel electrophoresis: criteria for bacterial strain typing</article-title>
+  <source>J Clin Microbiol</source>
+  <year>1995</year>
+  <volume>33</volume>
+  <fpage>2233</fpage>
+  <lpage>2239</lpage>
+  <?supplied-pmid 7494007?>
+  <pub-id pub-id-type="pmid">7494007</pub-id>
+ </element-citation>
+</ref>

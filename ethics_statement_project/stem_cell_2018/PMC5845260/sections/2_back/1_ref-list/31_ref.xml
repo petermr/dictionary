@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Foley</surname>
+    <given-names>PL</given-names>
+   </name>
+   <name>
+    <surname>Vesterinen</surname>
+    <given-names>HM</given-names>
+   </name>
+   <name>
+    <surname>Laird</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Sena</surname>
+    <given-names>ES</given-names>
+   </name>
+   <name>
+    <surname>Colvin</surname>
+    <given-names>LA</given-names>
+   </name>
+   <name>
+    <surname>Chandran</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>MacLeod</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Fallon</surname>
+    <given-names>MT</given-names>
+   </name>
+  </person-group>
+  <article-title>Prevalence and natural history of pain in adults with multiple sclerosis: systematic review and meta-analysis</article-title>
+  <source>Pain</source>
+  <year>2013</year>
+  <volume>154</volume>
+  <fpage>632</fpage>
+  <lpage>642</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.pain.2012.12.002</pub-id>
+  <?supplied-pmid 23318126?>
+  <pub-id pub-id-type="pmid">23318126</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Transplant-related toxicity by age, the dose of melphalan and in the elderly group</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th>≤ 65 vs &gt; 65</th>
+    <th>&gt; 65: rMEL vs MEL200</th>
+    <th>MEL200: ≤ 65 vs &gt; 65</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="4">Myelotoxicity</td>
+   </tr>
+   <tr>
+    <td> Aplasia (median days)</td>
+    <td>12 vs 12 (
+     <italic>p</italic> 0.55)
+    </td>
+    <td>12 vs 11 (
+     <italic>p</italic> 0.025)
+    </td>
+    <td>12 vs 11 (
+     <italic>p</italic> 0.051)
+    </td>
+   </tr>
+   <tr>
+    <td> PLT recovery (median days)</td>
+    <td>12 vs 12 (
+     <italic>p</italic> 0.74)
+    </td>
+    <td>12 vs 12 (
+     <italic>p</italic> 0.11)
+    </td>
+    <td>12 vs 12 (
+     <italic>p</italic> 0.43)
+    </td>
+   </tr>
+   <tr>
+    <td> PLT support (median units)</td>
+    <td>1 vs 2 (
+     <italic>p</italic> 0.32)
+    </td>
+    <td>1 vs 2 (
+     <italic>p</italic> 0.20)
+    </td>
+    <td>1 vs 2 (
+     <italic>p</italic> 0.06)
+    </td>
+   </tr>
+   <tr>
+    <td> RBC support (median units)</td>
+    <td>0 vs 0.5 (
+     <italic>p</italic> 0.32)
+    </td>
+    <td>0 vs 1 (
+     <italic>p</italic> 0.17)
+    </td>
+    <td>0 vs 1 (
+     <italic>p</italic> 0.06)
+    </td>
+   </tr>
+   <tr>
+    <td colspan="4">Non-hematopoietic toxicity—infection</td>
+   </tr>
+   <tr>
+    <td> Fever (median days)</td>
+    <td>2 vs 2 (
+     <italic>p</italic> 0.86)
+    </td>
+    <td>1 vs 2 (
+     <italic>p</italic> 0.29)
+    </td>
+    <td>2 vs 2 (
+     <italic>p</italic> 0.30)
+    </td>
+   </tr>
+   <tr>
+    <td> CRP (median mg/L)</td>
+    <td>147 vs 139 (
+     <italic>p</italic> 0.71)
+    </td>
+    <td>156 vs 129 (
+     <italic>p</italic> 0.52)
+    </td>
+    <td>145 vs 129 (
+     <italic>p</italic> 0.45)
+    </td>
+   </tr>
+   <tr>
+    <td> Antibiotics (median number)</td>
+    <td>2 vs 2 (
+     <italic>p</italic> 0.75)
+    </td>
+    <td>1 vs 2 (
+     <italic>p</italic> 0.17)
+    </td>
+    <td>2 vs 2 (
+     <italic>p</italic> 0.32)
+    </td>
+   </tr>
+   <tr>
+    <td> Antibiotics (median days)</td>
+    <td>9 vs 7 (
+     <italic>p</italic> 0.20)
+    </td>
+    <td>7 vs 11 (
+     <italic>p</italic> 0.019)
+    </td>
+    <td>9 vs 11 (
+     <italic>p</italic> 0.21)
+    </td>
+   </tr>
+   <tr>
+    <td colspan="4">Non-hematopoietic toxicity—mucositis</td>
+   </tr>
+   <tr>
+    <td> Grade (median)</td>
+    <td>III vs III (
+     <italic>p</italic> 0.55)
+    </td>
+    <td>II vs III (
+     <italic>p</italic> 0.028)
+    </td>
+    <td>III vs III (
+     <italic>p</italic> 0.09)
+    </td>
+   </tr>
+   <tr>
+    <td> IV morphine (% who need)</td>
+    <td>55% vs 41% (
+     <italic>p</italic> 0.18)
+    </td>
+    <td>28% vs 63% (
+     <italic>p</italic> 0.12)
+    </td>
+    <td>56% vs 63% (
+     <italic>p</italic> 0.75)
+    </td>
+   </tr>
+   <tr>
+    <td> IV morphine (median days)</td>
+    <td>3 vs 0 (
+     <italic>p</italic> 0.13)
+    </td>
+    <td>0 vs 3 (
+     <italic>p</italic> 0.08)
+    </td>
+    <td>3 vs 3 (
+     <italic>p</italic> 0.61)
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

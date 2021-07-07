@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2">
+ <label>Figure 2</label>
+ <caption>
+  <p>Pharmacokinetics of JR-141 in Patients with MPS II</p>
+  <p>(A) Plasma concentrations of JR-141 were measured in two patients in the dose-escalation study. The indicated amount of the drug was administered intravenously once a week, and the duration of each infusion was 3 hr. JR-141 was detected in a dose-dependent manner and disappeared 24 hr after infusion. (B) JR-141 in the plasma was quantified after the first and final administrations. Data are presented as the mean results (with SD bars) for six patients receiving each dosage (1.0 or 2.0 mg/kg/week). Time 3, 9, 21: time from the end of JR-141 administration. No differences in the pharmacokinetics were observed between the first and final (fourth) administration.</p>
+ </caption>
+ <graphic xlink:href="gr2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Haioun</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Lepage</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Gisselbrecht</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Salles</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Coiffier</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Brice</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Survival benefit of high-dose therapy in poor-risk aggressive non-Hodgkin’s lymphoma: final analysis of the prospective LNH87-2 protocol—a groupe d’Etude des lymphomes de l’Adulte study</article-title>
+  <source>J Clin Oncol</source>
+  <year>2000</year>
+  <volume>18</volume>
+  <fpage>3025</fpage>
+  <lpage>30</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2000.18.16.3025</pub-id>
+  <pub-id pub-id-type="pmid">10944137</pub-id>
+ </element-citation>
+</ref>

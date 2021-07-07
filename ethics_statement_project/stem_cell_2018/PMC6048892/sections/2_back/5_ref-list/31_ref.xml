@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Videtic</surname>
+    <given-names>GMM</given-names>
+   </name>
+   <name>
+    <surname>Adelstein</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Mekhail</surname>
+    <given-names>TM</given-names>
+   </name>
+   <name>
+    <surname>Rice</surname>
+    <given-names>TW</given-names>
+   </name>
+   <name>
+    <surname>Stevens</surname>
+    <given-names>GHJ</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>S-Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Validation of the RTOG recursive partitioning analysis (RPA) classification for small-cell lung cancer-only brain metastases</article-title>
+  <source>Int J Radiat Oncol Biol Phys.</source>
+  <year>2007</year>
+  <volume>67</volume>
+  <fpage>240</fpage>
+  <lpage>243</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2006.08.019</pub-id>
+  <?supplied-pmid 17056192?>
+  <pub-id pub-id-type="pmid">17056192</pub-id>
+ </element-citation>
+</ref>

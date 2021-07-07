@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tefferi</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Targeted next-generation sequencing in myelodysplastic syndromes and prognostic interaction between mutations and IPSS-R</article-title>
+  <source>Am. J. Hematol.</source>
+  <year>2017</year>
+  <volume>92</volume>
+  <fpage>1311</fpage>
+  <lpage>1317</lpage>
+  <pub-id pub-id-type="doi">10.1002/ajh.24901</pub-id>
+  <?supplied-pmid 28875545?>
+  <pub-id pub-id-type="pmid">28875545</pub-id>
+ </element-citation>
+</ref>

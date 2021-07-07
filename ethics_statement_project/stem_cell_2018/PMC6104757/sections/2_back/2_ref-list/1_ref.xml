@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Al-Dhaher</surname>
+    <given-names>FF</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Pope</surname>
+    <given-names>JE</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Ouimet</surname>
+    <given-names>JM</given-names>
+   </name>
+  </person-group>
+  <article-title>Determinants of morbidity and mortality of systemic sclerosis in Canada</article-title>. 
+  <source>Semin Arthritis Rheum</source>
+  <year>2010</year>;
+  <volume>39</volume>:
+  <fpage>269</fpage>–
+  <lpage>77</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.semarthrit.2008.06.002</pub-id>
+  <pub-id pub-id-type="pmid">18706680</pub-id>
+ </mixed-citation>
+</ref>

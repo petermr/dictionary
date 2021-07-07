@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A limitation of the machine-learning approach is that it is not possible to add new patients to this analysis without shifting the current clusters. This was overcome by the decision-tree approach. Validation with an external cohort as well as comparison with other risk stratification tools for chronic GvHD
+ <sup>
+  <xref rid="b31-1040189" ref-type="bibr">31</xref>
+ </sup> should further strengthen the findings of the computational and decision-tree analyses. We were unable to analyze whether clusters predicted response to therapy, as this was an observational cohort in which patients were on any systemic therapy at study entry. Thus, treatment response is an outcome of interest in assessing the utility of machine learning for chronic GvHD outcome stratification. An external validation cohort is pending for this analysis. External validation of machine-learning approaches is the gold standard, and external validation is necessary prior to clinical application of the findings.
+</p>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Graham</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Ozment</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Tegtmeyer</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Lai</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Braner</surname>
+    <given-names>DA</given-names>
+   </name>
+  </person-group>
+  <article-title>Central venous catheterization</article-title>
+  <source>N Engl J Med.</source>
+  <year>2007</year>
+  <volume>356</volume>
+  <fpage>e21</fpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMvcm055053</pub-id>
+  <?supplied-pmid 17522396?>
+  <pub-id pub-id-type="pmid">17522396</pub-id>
+ </element-citation>
+</ref>

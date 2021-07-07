@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B30">
+ <label>30</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Puig-Pey</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Bohne</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Benitez</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Lopez</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Martinez-Llordella</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Oppenheimer</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Characterization of gammadelta T cell subsets in organ transplantation</article-title>. 
+  <source>Transpl Int</source> (
+  <year>2010</year>) 
+  <volume>23</volume>:
+  <fpage>1045</fpage>–
+  <lpage>55</lpage>.
+  <pub-id pub-id-type="doi">10.1111/j.1432-2277.2010.01095.x</pub-id>
+  <pub-id pub-id-type="pmid">20477999</pub-id>
+ </mixed-citation>
+</ref>

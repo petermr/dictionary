@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Bayesian network model to predict the ability of the initial residual blood concentration of cyclosporine after hematopoietic stem cell transplantation to be in the therapeutic range. 
+   <italic>CsA</italic> cyclosporine, 
+   <italic>CYP</italic> cytochrome P450, 
+   <italic>F</italic> female, 
+   <italic>HSCT</italic> hematopoietic stem cell transplantation, 
+   <italic>M</italic> male
+  </p>
+ </caption>
+ <graphic xlink:href="40268_2017_223_Fig1_HTML" id="MO1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

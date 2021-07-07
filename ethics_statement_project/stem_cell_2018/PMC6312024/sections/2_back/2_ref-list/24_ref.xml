@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b24-1040189">
+ <label>24.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Van Gassen</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Callebaut</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Van Helden</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>FlowSOM: using self-organizing maps for visualization and interpretation of cytometry data</article-title>. 
+  <source>Cytometry A</source>. 
+  <year>2015</year>;
+  <volume>87</volume>(
+  <issue>7</issue>):
+  <fpage>636</fpage>–
+  <lpage>645</lpage>.
+  <pub-id pub-id-type="pmid">25573116</pub-id>
+ </mixed-citation>
+</ref>

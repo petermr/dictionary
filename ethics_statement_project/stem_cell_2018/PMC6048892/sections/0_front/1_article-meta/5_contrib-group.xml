@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5231-9097</contrib-id>
+  <name>
+   <surname>Bernhardt</surname>
+   <given-names>Denise</given-names>
+  </name>
+  <address>
+   <email>denise.bernhardt@med.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hommertgen</surname>
+   <given-names>Adriane</given-names>
+  </name>
+  <address>
+   <email>adriane.hommertgen@med.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Schmitt</surname>
+   <given-names>Daniela</given-names>
+  </name>
+  <address>
+   <email>daniela.schmitt@med.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>El Shafie</surname>
+   <given-names>Rami</given-names>
+  </name>
+  <address>
+   <email>rami.el-shafie@med.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Paul</surname>
+   <given-names>Angela</given-names>
+  </name>
+  <address>
+   <email>angela.paul@med.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>König</surname>
+   <given-names>Laila</given-names>
+  </name>
+  <address>
+   <email>laila.koenig@med.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mair-Walther</surname>
+   <given-names>Johanna</given-names>
+  </name>
+  <address>
+   <email>johanna.mair-walther@med.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Krisam</surname>
+   <given-names>Johannes</given-names>
+  </name>
+  <address>
+   <email>krisam@imbi.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Klose</surname>
+   <given-names>Christina</given-names>
+  </name>
+  <address>
+   <email>klose@mbi.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Welzel</surname>
+   <given-names>Thomas</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hörner-Rieber</surname>
+   <given-names>Juliane</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kappes</surname>
+   <given-names>Jutta</given-names>
+  </name>
+  <address>
+   <email>jutta.kappes@med.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Thomas</surname>
+   <given-names>Michael</given-names>
+  </name>
+  <address>
+   <email>michael.thomas@med.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Heußel</surname>
+   <given-names>Claus Peter</given-names>
+  </name>
+  <address>
+   <email>clauspeter.heussel@med.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Steins</surname>
+   <given-names>Martin</given-names>
+  </name>
+  <address>
+   <email>martin.steins@med.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kieser</surname>
+   <given-names>Meinhard</given-names>
+  </name>
+  <address>
+   <email>meinhard.kieser@imbi.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Debus</surname>
+   <given-names>Jürgen</given-names>
+  </name>
+  <address>
+   <email>juergen.debus@med.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rieken</surname>
+   <given-names>Stefan</given-names>
+  </name>
+  <address>
+   <email>stefan.rieken@med.uni-heidelberg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0328 4908</institution-id>
+   <institution-id institution-id-type="GRID">grid.5253.1</institution-id>
+   <institution>Department of Radiation Oncology, </institution>
+   <institution>University Hospital Heidelberg, </institution>
+  </institution-wrap>INF 400, 69120 Heidelberg, Germany 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.488831.e</institution-id>
+   <institution>Heidelberg Institute of Radiation Oncology (HIRO), </institution>
+  </institution-wrap>Heidelberg, Germany 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2190 4373</institution-id>
+   <institution-id institution-id-type="GRID">grid.7700.0</institution-id>
+   <institution>Department of Thoracic Oncology. Translational Lung Research Centre Heidelberg (TLRC-H), </institution>
+   <institution>Thoraxklinik, Heidelberg University, </institution>
+  </institution-wrap>Heidelberg, Germany 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2190 4373</institution-id>
+   <institution-id institution-id-type="GRID">grid.7700.0</institution-id>
+   <institution>Department of Pneumology, </institution>
+   <institution>Thoraxklinik, Heidelberg University, </institution>
+  </institution-wrap>Heidelberg, Germany 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0492 0584</institution-id>
+   <institution-id institution-id-type="GRID">grid.7497.d</institution-id>
+   <institution>Clinical Cooperation Unit Radiation Oncology, German Cancer Research Center (DKFZ), </institution>
+  </institution-wrap>Im Neuenheimer Feld 280, 69120 Heidelberg, Germany 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>Heidelberg Ion-Beam Therapy Center (HIT), Im Neuenheimer Feld 450, 69120 Heidelberg, Germany 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>Translational Lung Research Centre Heidelberg (TLRC-H), German Centre for Lung Research (DZL), Heidelberg, Germany 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0328 4908</institution-id>
+   <institution-id institution-id-type="GRID">grid.5253.1</institution-id>
+   <institution>Department of Neurooncology, </institution>
+   <institution>University Hospital of Heidelberg, </institution>
+  </institution-wrap>Im Neuenheimer Feld 672, 69120 Heidelberg, Germany 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2190 4373</institution-id>
+   <institution-id institution-id-type="GRID">grid.7700.0</institution-id>
+   <institution>Institute of Medical Biometry and Informatics, </institution>
+   <institution>University of Heidelberg, </institution>
+  </institution-wrap>Im Neuenheimer Feld 130.3, 69120 Heidelberg, Germany 
+ </aff>
+</contrib-group>

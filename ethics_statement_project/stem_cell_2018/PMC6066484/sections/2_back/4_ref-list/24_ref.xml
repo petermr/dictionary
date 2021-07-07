@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chauhan</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>In vitro and in vivo selective antitumor activity of a novel orally bioavailable proteasome inhibitor MLN9708 against multiple myeloma cells</article-title>
+  <source>Clin. Cancer Res.</source>
+  <year>2011</year>
+  <volume>17</volume>
+  <fpage>5311</fpage>
+  <lpage>5321</lpage>
+  <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-11-0476</pub-id>
+  <?supplied-pmid 21724551?>
+  <pub-id pub-id-type="pmid">21724551</pub-id>
+ </element-citation>
+</ref>

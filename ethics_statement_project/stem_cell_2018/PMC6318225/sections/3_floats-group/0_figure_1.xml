@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1">
+ <label>Figure 1</label>
+ <caption>
+  <p>Trial profile</p>
+  <p>*Randomisation occurred between May 26, 2010, and April 20, 2016. †Randomisation occurred between Jan 13, 2011, and Aug 11, 2017. ‡Censored for progression-free survival analysis.</p>
+ </caption>
+ <graphic xlink:href="gr1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

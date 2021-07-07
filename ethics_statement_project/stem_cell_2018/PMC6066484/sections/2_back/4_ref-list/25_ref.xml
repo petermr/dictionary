@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>EC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Antitumor activity of the investigational proteasome inhibitor MLN9708 in mouse models of B-cell and plasma cell malignancies</article-title>
+  <source>Clin. Cancer Res.</source>
+  <year>2011</year>
+  <volume>17</volume>
+  <fpage>7313</fpage>
+  <lpage>7323</lpage>
+  <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-11-0636</pub-id>
+  <?supplied-pmid 21903769?>
+  <pub-id pub-id-type="pmid">21903769</pub-id>
+ </element-citation>
+</ref>

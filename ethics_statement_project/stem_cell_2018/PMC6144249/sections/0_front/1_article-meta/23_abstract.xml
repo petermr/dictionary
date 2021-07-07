@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="cam41690-abs-0001">
+ <title>Abstract</title>
+ <sec id="cam41690-sec-0001">
+  <title>Background</title>
+  <p>Over a third of multiple myeloma (
+   <styled-content style="fixed-case">MM</styled-content>) patients report clinical levels of depression during autologous stem cell transplant (
+   <styled-content style="fixed-case">ASCT</styled-content>) hospitalization. We report preliminary results from a randomized clinical trial investigating the effect of Programmed Environmental Illumination (
+   <styled-content style="fixed-case">PEI</styled-content>) of hospital rooms on depression.
+  </p>
+ </sec>
+ <sec id="cam41690-sec-0002">
+  <title>Methods</title>
+  <p>Patients (N = 187) scheduled to receive an 
+   <styled-content style="fixed-case">ASCT</styled-content> were assessed for eligibility. Those who met study eligibility criteria (n = 44) were randomly assigned to one of two 
+   <styled-content style="fixed-case">PEI</styled-content> conditions involving delivery of either circadian active bright white light (
+   <styled-content style="fixed-case">BWL</styled-content>) or circadian inactive dim white light (
+   <styled-content style="fixed-case">DWL</styled-content>) throughout the room from 7 to 10 
+   <sc>am</sc> daily during hospitalization. Patients completed the Center for Epidemiological Studies Depression Scale (
+   <styled-content style="fixed-case">CES</styled-content>‐D) prior to hospitalization, at days 2 and 7 post‐transplant, and on the third day of engraftment.
+  </p>
+ </sec>
+ <sec id="cam41690-sec-0003">
+  <title>Results</title>
+  <p>General linear model analyses revealed no difference between the groups in 
+   <styled-content style="fixed-case">CES</styled-content>‐D total score at baseline (
+   <italic>P </italic>=
+   <italic> </italic>0.7859). A longitudinal linear mixed model analysis revealed a significant interaction between time of assessment and light condition [
+   <italic>F</italic>(3,107) = 2.90; 
+   <italic>P </italic>=
+   <italic> </italic>0.0386; ɳ
+   <sup>2 </sup>= 0.08)], indicating that 
+   <styled-content style="fixed-case">PEI</styled-content> prevented the development of depression during hospitalization, with effects reaching significance by the third day of engraftment. At the third day of engraftment, 68.4% of the participants in the 
+   <styled-content style="fixed-case">DWL</styled-content> comparison condition met the criteria for clinically significant depression compared to 42.1% in the 
+   <styled-content style="fixed-case">BWL</styled-content> condition.
+  </p>
+ </sec>
+ <sec id="cam41690-sec-0004">
+  <title>Conclusion</title>
+  <p>These findings demonstrate that 
+   <styled-content style="fixed-case">PEI</styled-content> using 
+   <styled-content style="fixed-case">BWL</styled-content> during 
+   <styled-content style="fixed-case">MM ASCT</styled-content> hospitalization is effective in reducing the development of depression. Future studies should examine the mechanisms whereby 
+   <styled-content style="fixed-case">PEI</styled-content> improves depression.
+  </p>
+ </sec>
+</abstract>

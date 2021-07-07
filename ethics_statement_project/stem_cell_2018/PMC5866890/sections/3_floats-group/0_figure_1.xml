@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1" orientation="portrait" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>Symptoms duration (days) by treatment. Box plot. Black bar: median value. Box: interquartile range. Whisker: last value within 1.5 times the interquartile range from the median. Circles: outliers with a value between 1.5 and 3.0 times the interquartile range from the median. Asterisks: outliers with a value over 3.0 times the interquartile range from the median. V: treatment with vitamins; A: treatment with anesthetics; P: treatment with drugs. Kruskal Wallis test: 
+   <italic>p</italic> &lt; 0.001.
+  </p>
+ </caption>
+ <graphic xlink:href="BMRI2018-1868254.001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

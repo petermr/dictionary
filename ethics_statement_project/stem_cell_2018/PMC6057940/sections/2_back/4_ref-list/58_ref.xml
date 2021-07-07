@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR58">
+ <label>58.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lu</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Ewald</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>Martin</surname>
+    <given-names>GR</given-names>
+   </name>
+   <name>
+    <surname>Werb</surname>
+    <given-names>Z</given-names>
+   </name>
+  </person-group>
+  <article-title>Genetic mosaic analysis reveals FGF receptor 2 function in terminal end buds during mammary gland branching morphogenesis</article-title>
+  <source>Dev. Biol.</source>
+  <year>2008</year>
+  <volume>321</volume>
+  <fpage>77</fpage>
+  <lpage>87</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ydbio.2008.06.005</pub-id>
+  <?supplied-pmid 18585375?>
+  <pub-id pub-id-type="pmid">18585375</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>AQoL</term>
+   <def>
+    <p id="Par5">Assessment of Quality of Life</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HREC</term>
+   <def>
+    <p id="Par6">Human Research Ethics Committee</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ICOAP</term>
+   <def>
+    <p id="Par7">Intermittent and Constant Osteoarthritis Pain questionnaire</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>KOOS</term>
+   <def>
+    <p id="Par8">Knee Injury and Osteoarthritis Outcome Score</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MOAKS</term>
+   <def>
+    <p id="Par9">Magnetic resonance imaging Osteoarthritis Knee Score</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MRI</term>
+   <def>
+    <p id="Par10">Magnetic resonance imaging</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NHMRC</term>
+   <def>
+    <p id="Par11">National Health and Medical Research Council</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NRS</term>
+   <def>
+    <p id="Par12">Numerical rating scale</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OA</term>
+   <def>
+    <p id="Par13">Osteoarthritis</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PASE</term>
+   <def>
+    <p id="Par14">Physical Activity Scale for the Elderly</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PRP</term>
+   <def>
+    <p id="Par15">Platelet-rich plasma</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>QALYs</term>
+   <def>
+    <p id="Par16">Quality Adjusted Life Years</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RCT</term>
+   <def>
+    <p id="Par17">Randomised controlled trial</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WHO HPQ</term>
+   <def>
+    <p id="Par18">World Health Organisation Health Performance Questionnaire</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Okada</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Delpy</surname>
+    <given-names>DT</given-names>
+   </name>
+  </person-group>
+  <article-title>Near-infrared light propagation in an adult head model. II. Effect of superficial tissue thickness on the sensitivity of the near-infrared spectroscopy signal</article-title>
+  <source>Appl Opt</source>
+  <year>2003</year>
+  <volume>42</volume>
+  <fpage>2915</fpage>
+  <lpage>2922</lpage>
+  <pub-id pub-id-type="doi">10.1364/AO.42.002915</pub-id>
+  <?supplied-pmid 12790440?>
+  <pub-id pub-id-type="pmid">12790440</pub-id>
+ </element-citation>
+</ref>

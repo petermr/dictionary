@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B26">
+ <label>26</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Boeck</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Hamann</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Pihusch</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Heller</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Diem</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Rolf</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Kinetics of dendritic cell chimerism and T cell chimerism in allogeneic hematopoietic stem cell recipients</article-title>. 
+  <source>Bone Marrow Transplant</source> (
+  <year>2006</year>) 
+  <volume>37</volume>(
+  <issue>1</issue>):
+  <fpage>57</fpage>–
+  <lpage>64</lpage>.
+  <pub-id pub-id-type="doi">10.1038/sj.bmt.1705217</pub-id>
+  <?supplied-pmid 16258529?>
+  <pub-id pub-id-type="pmid">16258529</pub-id>
+ </mixed-citation>
+</ref>

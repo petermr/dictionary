@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F4" position="float">
+ <label>Figure 4</label>
+ <caption>
+  <p>Monitoring of TRD repertoires of Vγ9
+   <sup>+</sup> and Vγ9
+   <sup>−</sup> γδ T cells in hepatitis C virus (HCV) patients over time. Next-generation sequencing results of TRD repertoires from sorted Vγ9
+   <sup>+</sup> or Vγ9
+   <sup>−</sup> cells of six chronic HCV patients receiving DAA therapy overtime (TS: therapy start; therapy week 1 and week 4: w1, w4; follow-up weeks: fu12, fu48). 
+   <bold>(A)</bold> TRD repertoire diversities were determined by Shannon values for Vγ9
+   <sup>+</sup> (left side) and Vγ9
+   <sup>−</sup> (right side) cells. Samples were normalized to 10,000 productive reads. 
+   <bold>(B)</bold> Frequency of top 20 TRD clones of sorted Vγ9
+   <sup>+</sup> (left side) and Vγ9
+   <sup>−</sup> (right side) cells. 
+   <bold>(C)</bold> Stacked area graphs illustrate the distribution of top 20 TRD clones within sorted Vγ9
+   <sup>+</sup> (left side) or Vγ9
+   <sup>−</sup> (right side) cells of chronic HCV patients from TS up to 1 year after DAA treatment (fu48). Vδ2
+   <sup>+</sup> clones are highlighted in gray, Vδ1
+   <sup>+</sup> clones in orange, and Vδ3
+   <sup>+</sup> clones in green. Light gray stands for non-top 20 TRD clones. Data sets were normalized to the percentage of productive reads. Horizontal lines represent median values. 
+   <bold>(D)</bold> To compare the TRD repertoire similarity between the given time points of either Vγ9
+   <sup>+</sup> (left side) or Vγ9
+   <sup>−</sup> (right side) cells, Morisita–Horn indices were calculated and visualized as dot plots. Zero means no overlap and one total overlap between all CDR3 sequences of two samples.
+  </p>
+ </caption>
+ <graphic xlink:href="fimmu-09-00510-g004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

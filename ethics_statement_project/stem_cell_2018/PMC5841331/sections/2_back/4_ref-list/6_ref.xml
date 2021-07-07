@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tefferi</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Revised response criteria for myelofibrosis: International Working Group-Myeloproliferative Neoplasms Research and Treatment (IWG-MRT) and European LeukemiaNet (ELN) consensus report</article-title>
+  <source>Blood</source>
+  <year>2013</year>
+  <volume>122</volume>
+  <fpage>1395</fpage>
+  <lpage>1398</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2013-03-488098</pub-id>
+  <?supplied-pmid 23838352?>
+  <pub-id pub-id-type="pmid">23838352</pub-id>
+ </element-citation>
+</ref>

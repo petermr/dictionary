@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wilson</surname>
+    <given-names>TC</given-names>
+   </name>
+   <name>
+    <surname>Snyder</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Southerland</surname>
+    <given-names>CC</given-names>
+   </name>
+  </person-group>
+  <article-title>Bullosis diabeticorum: is there a correlation between hyperglycemia and this symptomatology?</article-title>
+  <source>Wounds</source>
+  <year>2012</year>
+  <volume>24</volume>
+  <issue>12</issue>
+  <fpage>350</fpage>
+  <lpage>355</lpage>
+  <?supplied-pmid 25876219?>
+  <pub-id pub-id-type="pmid">25876219</pub-id>
+ </element-citation>
+</ref>

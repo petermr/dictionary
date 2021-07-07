@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gominet</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Compain</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Beloin</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Lebeaux</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Central venous catheters and biofilms: where do we stand in 2017?</article-title>
+  <source>APMIS</source>
+  <year>2017</year>
+  <volume>125</volume>
+  <fpage>365</fpage>
+  <lpage>375</lpage>
+  <pub-id pub-id-type="doi">10.1111/apm.12665</pub-id>
+  <?supplied-pmid 28407421?>
+  <pub-id pub-id-type="pmid">28407421</pub-id>
+ </element-citation>
+</ref>

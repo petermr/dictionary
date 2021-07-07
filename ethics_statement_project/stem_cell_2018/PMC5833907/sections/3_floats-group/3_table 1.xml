@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Population characteristics at initial time blood sampling for cyclosporine residual concentration after hematopoietic stem cell transplantation</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Variable</th>
+    <th align="left">Available patients (
+     <italic>n</italic> = 105)
+    </th>
+    <th align="left">Virtual subjects (
+     <italic>n</italic> = 1000)
+    </th>
+    <th align="left">Chi-square test (
+     <italic>α</italic> = 0.05)
+    </th>
+    <th align="left">
+     <italic>t</italic> test (
+     <italic>α</italic> = 0.05)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" colspan="5">Sex (%)</td>
+   </tr>
+   <tr>
+    <td align="left"> Male</td>
+    <td align="left">63.8</td>
+    <td align="left">61.2</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> Female</td>
+    <td align="left">36.2</td>
+    <td align="left">38.8</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">Age (years)</td>
+   </tr>
+   <tr>
+    <td align="left"> 0–2</td>
+    <td align="left">15.2</td>
+    <td align="left">15.9</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> 2–8</td>
+    <td align="left">37.1</td>
+    <td align="left">37.1</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> 8–14</td>
+    <td align="left">25.7</td>
+    <td align="left">26.7</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> &gt; 14</td>
+    <td align="left">21.9</td>
+    <td align="left">20.3</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">Weight (kg)</td>
+    <td align="left">30.1 ± 19</td>
+    <td align="left">29.5 ± 19</td>
+    <td align="left"/>
+    <td align="left">NS</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">Initial CsA residual trough blood concentration after HSCT (%)</td>
+   </tr>
+   <tr>
+    <td align="left"> Within therapeutic interval</td>
+    <td align="left">35.2</td>
+    <td align="left">36.6</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> Out of therapeutic interval</td>
+    <td align="left">64.8</td>
+    <td align="left">63.4</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">HSCT indication (%)</td>
+   </tr>
+   <tr>
+    <td align="left"> Malignant</td>
+    <td align="left">56.2</td>
+    <td align="left">58.2</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> Non-malignant</td>
+    <td align="left">43.8</td>
+    <td align="left">41.8</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">Mean hemoglobin (g/L)</td>
+   </tr>
+   <tr>
+    <td align="left"> &lt; 80</td>
+    <td align="left">9.5</td>
+    <td align="left">9.2</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> 80–110</td>
+    <td align="left">71.4</td>
+    <td align="left">71.4</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> &gt; 110</td>
+    <td align="left">19.1</td>
+    <td align="left">19.4</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">Mean creatinine versus age category (µmol/L)</td>
+   </tr>
+   <tr>
+    <td align="left"> Low</td>
+    <td align="left">54.3</td>
+    <td align="left">52.3</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> Normal</td>
+    <td align="left">31.4</td>
+    <td align="left">32.7</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> High</td>
+    <td align="left">14.3</td>
+    <td align="left">15</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">CRP &gt; 15 mg/L (%)</td>
+   </tr>
+   <tr>
+    <td align="left"> Yes</td>
+    <td align="left">48.6</td>
+    <td align="left">48.5</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> No</td>
+    <td align="left">51.4</td>
+    <td align="left">51.5</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">Mean dose before measurement (mg)</td>
+    <td align="left">56.9 ± 37</td>
+    <td align="left">56 ± 36</td>
+    <td align="left"/>
+    <td align="left">NS</td>
+   </tr>
+   <tr>
+    <td align="left">Last dose before measurement (mg)</td>
+    <td align="left">63.9 ± 39</td>
+    <td align="left">63.2 ± 39</td>
+    <td align="left"/>
+    <td align="left">NS</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">Cholestasis (%)</td>
+   </tr>
+   <tr>
+    <td align="left"> Yes</td>
+    <td align="left">0.9</td>
+    <td align="left">0.6</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> No</td>
+    <td align="left">99.1</td>
+    <td align="left">99.4</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">Interacting drug (%)</td>
+   </tr>
+   <tr>
+    <td align="left"> Yes</td>
+    <td align="left">36.2</td>
+    <td align="left">37.7</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> No</td>
+    <td align="left">63.8</td>
+    <td align="left">62.3</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">Documented infection (%)</td>
+   </tr>
+   <tr>
+    <td align="left"> Yes</td>
+    <td align="left">45.7</td>
+    <td align="left">48</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> No</td>
+    <td align="left">53.3</td>
+    <td align="left">52</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">Death (%)</td>
+   </tr>
+   <tr>
+    <td align="left"> Yes</td>
+    <td align="left">2.9</td>
+    <td align="left">2.4</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left"> No</td>
+    <td align="left">97.1</td>
+    <td align="left">97.6</td>
+    <td align="left">NS</td>
+    <td align="left"/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>CRP</italic> C-reactive protein, 
+   <italic>CsA</italic> cyclosporine, 
+   <italic>HSCT</italic> hematopoietic stem cell transplantation, 
+   <italic>NS</italic> not significant
+  </p>
+ </table-wrap-foot>
+</table-wrap>

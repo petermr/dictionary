@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Here, we describe a systematic, conceptual analysis of the impact of dose de-escalation on the long-term disease kinetics. Our simulation study relies on a mathematical description of TKI-treatment, which builds on a previously published CML model.
+ <sup>
+  <xref rid="b5-1031825" ref-type="bibr">5</xref>,
+  <xref rid="b17-1031825" ref-type="bibr">17</xref>
+ </sup> In contrast to the earlier approach, we use a simplified model which allows for a stringent analytical formulation of the disease dynamics without changing the overall qualitative system properties. The model parameters are estimated from available, patient-specific 
+ <italic>BCR-ABL1</italic> kinetics, determined within controlled clinical phase III trials [IRIS (
+ <italic>
+  <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov" xmlns:xlink="http://www.w3.org/1999/xlink">clinicaltrials.gov</ext-link> identifier: 0000634318
+ </italic>), CML IV (
+ <italic>
+  <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov" xmlns:xlink="http://www.w3.org/1999/xlink">clinicaltrials.gov</ext-link> identifier: 0005587419
+ </italic>)].
+</p>

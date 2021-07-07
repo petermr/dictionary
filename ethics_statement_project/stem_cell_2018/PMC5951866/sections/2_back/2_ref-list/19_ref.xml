@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Appio</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Landoni</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>La Targia</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Single-agent pixantrone as a bridge to autologous stem cell transplantation in a patient with refractory diffuse large B-cell lymphoma</article-title>
+  <source>Chemotherapy</source>
+  <year>2017</year>
+  <volume>62</volume>
+  <issue>3</issue>
+  <fpage>187</fpage>
+  <lpage>191</lpage>
+  <pub-id pub-id-type="doi">10.1159/000458147</pub-id>
+  <?supplied-pmid 28334700?>
+  <pub-id pub-id-type="pmid">28334700</pub-id>
+ </element-citation>
+</ref>

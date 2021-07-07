@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ruesch</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Walder</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Tramer</surname>
+    <given-names>MR</given-names>
+   </name>
+  </person-group>
+  <article-title>Complications of central venous catheters: internal jugular versus subclavian access—a systematic review</article-title>
+  <source>Crit Care Med.</source>
+  <year>2002</year>
+  <volume>30</volume>
+  <fpage>454</fpage>
+  <lpage>460</lpage>
+  <pub-id pub-id-type="doi">10.1097/00003246-200202000-00031</pub-id>
+  <?supplied-pmid 11889329?>
+  <pub-id pub-id-type="pmid">11889329</pub-id>
+ </element-citation>
+</ref>

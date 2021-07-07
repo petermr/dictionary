@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Tefferi</surname>
+   <given-names>Ayalew</given-names>
+  </name>
+  <address>
+   <phone>+507-284-2511</phone>
+   <email>tefferi.ayalew@mayo.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Barraco</surname>
+   <given-names>Daniela</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lasho</surname>
+   <given-names>Terra L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shah</surname>
+   <given-names>Sahrish</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Begna</surname>
+   <given-names>Kebede H.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0824-3715</contrib-id>
+  <name>
+   <surname>Al-Kali</surname>
+   <given-names>Aref</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5841-4105</contrib-id>
+  <name>
+   <surname>Hogan</surname>
+   <given-names>William J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Litzow</surname>
+   <given-names>Mark R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hanson</surname>
+   <given-names>Curtis A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ketterling</surname>
+   <given-names>Rhett P.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gangat</surname>
+   <given-names>Naseema</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pardanani</surname>
+   <given-names>Animesh</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0459 167X</institution-id>
+   <institution-id institution-id-type="GRID">grid.66875.3a</institution-id>
+   <institution>Division of Hematology, Department of Internal Medicine, </institution>
+   <institution>Mayo Clinic, </institution>
+  </institution-wrap>Rochester, MN USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0459 167X</institution-id>
+   <institution-id institution-id-type="GRID">grid.66875.3a</institution-id>
+   <institution>Division of Hematopathology, Department of Laboratory Medicine, </institution>
+   <institution>Mayo Clinic, </institution>
+  </institution-wrap>Rochester, MN USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0459 167X</institution-id>
+   <institution-id institution-id-type="GRID">grid.66875.3a</institution-id>
+   <institution>Division of Cytogenetics, Department of Laboratory Medicine, </institution>
+   <institution>Mayo Clinic, </institution>
+  </institution-wrap>Rochester, MN USA 
+ </aff>
+</contrib-group>

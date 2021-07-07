@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib3">
+ <label>3</label>
+ <element-citation publication-type="journal" id="sref3">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pointreau</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Garaud</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Chapet</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Sire</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Tuchais</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Tortochaux</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Randomized trial of induction chemotherapy with cisplatin and 5-fluorouracil with or without docetaxel for larynx preservation</article-title>
+  <source>J Natl Cancer Inst</source>
+  <volume>101</volume>
+  <year>2009</year>
+  <fpage>498</fpage>
+  <lpage>506</lpage>
+  <pub-id pub-id-type="pmid">19318632</pub-id>
+ </element-citation>
+</ref>

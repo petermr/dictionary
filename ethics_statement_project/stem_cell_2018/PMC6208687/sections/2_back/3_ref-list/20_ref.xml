@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Quan</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Couris</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Fushimi</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Graham</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Hider</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Januel</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Sundararajan</surname>
+    <given-names>V</given-names>
+   </name>
+  </person-group>
+  <article-title>Updating and validating the Charlson comorbidity index and score for risk adjustment in hospital discharge abstracts using data from 6 countries</article-title>
+  <source>Am J Epidemiol</source>
+  <year>2011</year>
+  <volume>173</volume>
+  <fpage>676</fpage>
+  <lpage>682</lpage>
+  <pub-id pub-id-type="doi">10.1093/aje/kwq433</pub-id>
+  <?supplied-pmid 21330339?>
+  <pub-id pub-id-type="pmid">21330339</pub-id>
+ </element-citation>
+</ref>

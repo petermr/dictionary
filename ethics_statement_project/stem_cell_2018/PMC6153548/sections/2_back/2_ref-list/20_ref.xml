@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cheson</surname>
+    <given-names>BD</given-names>
+   </name>
+   <name>
+    <surname>Pfistner</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Juweid</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>Gascoyne</surname>
+    <given-names>RD</given-names>
+   </name>
+   <name>
+    <surname>Specht</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Horning</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Revised response criteria for malignant lymphoma</article-title>
+  <source>J Clin Oncol</source>
+  <year>2007</year>
+  <volume>25</volume>
+  <fpage>579</fpage>
+  <lpage>586</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2006.09.2403</pub-id>
+  <?supplied-pmid 17242396?>
+  <pub-id pub-id-type="pmid">17242396</pub-id>
+ </element-citation>
+</ref>

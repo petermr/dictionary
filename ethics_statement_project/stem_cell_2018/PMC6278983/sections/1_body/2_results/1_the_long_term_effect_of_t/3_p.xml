@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We found that slope 
+ <italic>α</italic> can be expressed as 
+ <inline-formula>
+  <math id="mm6">
+   <mrow>
+    <mi>α</mi>
+    <mo>≈</mo>
+    <mo>−</mo>
+    <mi>q</mi>
+    <mo>=</mo>
+    <msub>
+     <mi>p</mi>
+     <mi>Y</mi>
+    </msub>
+    <mo>−</mo>
+    <msub>
+     <mi>e</mi>
+     <mrow>
+      <mi>T</mi>
+      <mi>K</mi>
+      <mi>I</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula>, thereby confirming that the initial treatment phase is dominated by the cytotoxic TKI effect on proliferating LSCs, which leads to a rapid reduction in 
+ <italic>BCR-ABL1</italic> levels. Dose-escalation studies for imatinib substantiate this result by indicating that a higher TKI dose leads to a more rapid response.
+ <sup>
+  <xref rid="b23-1031825" ref-type="bibr">23</xref>,
+  <xref rid="b24-1031825" ref-type="bibr">24</xref>
+ </sup> Similarly, slope 
+ <italic>β</italic> can be approximated as 
+ <inline-formula>
+  <math id="mm7">
+   <mrow>
+    <mi>β</mi>
+    <mo>≈</mo>
+    <mo>−</mo>
+    <msub>
+     <mi>p</mi>
+     <mrow>
+      <mi>X</mi>
+      <mi>Y</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula>, implying that after depletion of initially abundant proliferating LSCs, the treatment response is bounded by the rare activation of quiescent LSCs. This provides a consistent explanation for the slower long-term decrease in proliferating and quiescent LSCs. These analytical conclusions confirm previous findings,
+ <sup>
+  <xref rid="b5-1031825" ref-type="bibr">5</xref>–
+  <xref rid="b7-1031825" ref-type="bibr">7</xref>
+ </sup> but also allow further predictions on the effect of dose deescalation to be made.
+</p>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Beckwith</surname>
+    <given-names>KA</given-names>
+   </name>
+   <name>
+    <surname>Frissora</surname>
+    <given-names>FW</given-names>
+   </name>
+   <name>
+    <surname>Stefanovski</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Towns</surname>
+    <given-names>WH</given-names>
+   </name>
+   <name>
+    <surname>Cheney</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Mo</surname>
+    <given-names>X</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The CD37-targeted antibody-drug conjugate IMGN529 is highly active against human CLL and in a novel CD37 transgenic murine leukemia model</article-title>
+  <source>Leukemia</source>
+  <year>2014</year>
+  <volume>28</volume>
+  <fpage>1501</fpage>
+  <lpage>1510</lpage>
+  <pub-id pub-id-type="doi">10.1038/leu.2014.32</pub-id>
+  <?supplied-pmid 24445867?>
+  <pub-id pub-id-type="pmid">24445867</pub-id>
+ </element-citation>
+</ref>

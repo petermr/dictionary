@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Iyer</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Hall</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Das</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Mortell</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Ramirez</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Phenotype-genotype correlation of in vitro SN-38 (active metabolite of irinotecan) and bilirubin glucuronidation in human liver tissue with UGT1A1 promoter polymorphism</article-title>
+  <source>Clin Pharmacol Ther</source>
+  <year>1999</year>
+  <volume>65</volume>
+  <fpage>576</fpage>
+  <lpage>582</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0009-9236(99)70078-0</pub-id>
+  <?supplied-pmid 10340924?>
+  <pub-id pub-id-type="pmid">10340924</pub-id>
+ </element-citation>
+</ref>

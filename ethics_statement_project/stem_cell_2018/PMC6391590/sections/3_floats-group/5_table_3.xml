@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl3">
+ <label>Table 3</label>
+ <caption>
+  <p>Pharmacokinetic Parameters of JR-141 after Initial Administration</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Parameter</th>
+    <th>Group
+     <xref rid="tblfn2" ref-type="table-fn">a</xref>
+    </th>
+    <th>n</th>
+    <th>Mean</th>
+    <th>SD</th>
+    <th>Min</th>
+    <th>Median</th>
+    <th>Max</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="2">AUC0-t (ng·hr/mL)</td>
+    <td>L</td>
+    <td>6</td>
+    <td>14,687.9</td>
+    <td>10,503.5</td>
+    <td>2,711</td>
+    <td>14,717.8</td>
+    <td>28,759</td>
+   </tr>
+   <tr>
+    <td>H</td>
+    <td>6</td>
+    <td>37,473.8</td>
+    <td>13,580.8</td>
+    <td>15,802</td>
+    <td>37,205.5</td>
+    <td>56,065</td>
+   </tr>
+   <tr>
+    <td rowspan="2">Cmax (ng/mL)</td>
+    <td>L</td>
+    <td>6</td>
+    <td>4,180.0</td>
+    <td>2,453.6</td>
+    <td>1,180</td>
+    <td>4,010.0</td>
+    <td>7,900</td>
+   </tr>
+   <tr>
+    <td>H</td>
+    <td>6</td>
+    <td>11,338.3</td>
+    <td>6,838.9</td>
+    <td>6,080</td>
+    <td>8,635.0</td>
+    <td>24,700</td>
+   </tr>
+   <tr>
+    <td rowspan="2">t
+     <sub>max</sub> (hr)
+    </td>
+    <td>L</td>
+    <td>6</td>
+    <td>3.558</td>
+    <td>1.147</td>
+    <td>3.07</td>
+    <td>3.083</td>
+    <td>5.90</td>
+   </tr>
+   <tr>
+    <td>H</td>
+    <td>6</td>
+    <td>3.275</td>
+    <td>0.250</td>
+    <td>3.00</td>
+    <td>3.200</td>
+    <td>3.72</td>
+   </tr>
+   <tr>
+    <td rowspan="2">t
+     <sub>1/2</sub> (hr)
+    </td>
+    <td>L</td>
+    <td>2</td>
+    <td>4.898</td>
+    <td>0.944</td>
+    <td>4.23</td>
+    <td>4.898</td>
+    <td>5.56</td>
+   </tr>
+   <tr>
+    <td>H</td>
+    <td>3</td>
+    <td>4.099</td>
+    <td>0.513</td>
+    <td>3.72</td>
+    <td>3.894</td>
+    <td>4.68</td>
+   </tr>
+   <tr>
+    <td rowspan="2">MRT
+     <sub>0-t</sub> (hr)
+    </td>
+    <td>L</td>
+    <td>6</td>
+    <td>2.633</td>
+    <td>1.101</td>
+    <td>1.76</td>
+    <td>2.098</td>
+    <td>4.44</td>
+   </tr>
+   <tr>
+    <td>H</td>
+    <td>6</td>
+    <td>2.852</td>
+    <td>0.559</td>
+    <td>2.11</td>
+    <td>2.953</td>
+    <td>3.46</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>AUC
+    <sub>0-t</sub>, area under the concentration-time curve from zero to the time of the last measurable drug concentration; C
+    <sub>max</sub>, maximum concentration; t
+    <sub>max</sub>, time to maximum concentration; t
+    <sub>1/2</sub>, elimination half-life; MRT
+    <sub>0-t</sub>, mean residence time.
+   </p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tblfn2">
+   <label>a</label>
+   <p id="ntpara0015">L, 1.0 mg/kg/week; H, 2.0 mg/kg/week.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

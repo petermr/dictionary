@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Patient baseline demographic and clinical characteristics</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th>G-CSF + Plerixafor 20 mg SC FD (
+     <italic>n</italic> = 30)
+    </th>
+    <th>G-CSF + Plerixafor 0.24 mg/kg SC WB (
+     <italic>n</italic> = 31)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Age (years), mean ± SD</td>
+    <td>46.1 ± 13.4</td>
+    <td>47.8 ± 13.6</td>
+   </tr>
+   <tr>
+    <td>Men/women, 
+     <italic>n</italic>
+    </td>
+    <td>18/12</td>
+    <td>17/14</td>
+   </tr>
+   <tr>
+    <td colspan="3">Baseline peripheral blood CD34
+     <sup>+</sup> cell count, n (%)
+    </td>
+   </tr>
+   <tr>
+    <td>  &lt;10 cells/μL</td>
+    <td>20 (66.7)</td>
+    <td>21 (67.7)</td>
+   </tr>
+   <tr>
+    <td>  ≥10 cells/μL</td>
+    <td>10 (33.3)</td>
+    <td>10 (32.3)</td>
+   </tr>
+   <tr>
+    <td colspan="3">Disease type, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td>  B-cell</td>
+    <td>22 (73.3)</td>
+    <td>22 (71.0)</td>
+   </tr>
+   <tr>
+    <td>  T or NK cell</td>
+    <td>8 (26.7)</td>
+    <td>9 (29.0)</td>
+   </tr>
+   <tr>
+    <td colspan="3">Disease status, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td>  Complete remission</td>
+    <td>24 (80.0)</td>
+    <td>19 (61.3)</td>
+   </tr>
+   <tr>
+    <td>  Partial remission</td>
+    <td>6 (20.0)</td>
+    <td>12 (38.7)</td>
+   </tr>
+   <tr>
+    <td colspan="3">Remission number, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td>  First</td>
+    <td>20 (66.7)</td>
+    <td>18 (58.1)</td>
+   </tr>
+   <tr>
+    <td>  Second</td>
+    <td>10 (33.3)</td>
+    <td>13 (41.9)</td>
+   </tr>
+   <tr>
+    <td colspan="3">Prior therapy, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td>  Chemo/immuno-therapy</td>
+    <td>30 (100)</td>
+    <td>31 (100)</td>
+   </tr>
+   <tr>
+    <td>  Radiation</td>
+    <td>2 (6.7)</td>
+    <td>4 (12.9)</td>
+   </tr>
+   <tr>
+    <td colspan="3">ECOG performance status, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td>  0</td>
+    <td>26 (86.7)</td>
+    <td>21 (67.7)</td>
+   </tr>
+   <tr>
+    <td>  1</td>
+    <td>4 (13.3)</td>
+    <td>10 (32.3)</td>
+   </tr>
+   <tr>
+    <td colspan="3">Body weight (kg)</td>
+   </tr>
+   <tr>
+    <td>  Mean ± SD</td>
+    <td>61.4 ± 6.8</td>
+    <td>60.7 ± 8.9</td>
+   </tr>
+   <tr>
+    <td>  Median (min, max)</td>
+    <td>61.0 (48.5, 70.0)</td>
+    <td>64.0 (34.2, 70.0)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>ECOG</italic> Eastern Cooperative Oncology Group, 
+   <italic>FD</italic> fixed dose, 
+   <italic>G-CSF</italic> granulocyte colony-stimulating factor, 
+   <italic>SC</italic> subcutaneous, 
+   <italic>SD</italic> standard deviation, 
+   <italic>WB</italic> weight-based
+  </p>
+ </table-wrap-foot>
+</table-wrap>

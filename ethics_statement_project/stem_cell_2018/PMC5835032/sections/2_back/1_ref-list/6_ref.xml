@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B6">
+ <label>6</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Peggs</surname>
+    <given-names>KS</given-names>
+   </name>
+   <name>
+    <surname>Thomson</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Hart</surname>
+    <given-names>DP</given-names>
+   </name>
+   <name>
+    <surname>Geary</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Morris</surname>
+    <given-names>EC</given-names>
+   </name>
+   <name>
+    <surname>Yong</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Dose-escalated donor lymphocyte infusions following reduced intensity transplantation: toxicity, chimerism, and disease responses</article-title>. 
+  <source>Blood</source> (
+  <year>2004</year>) 
+  <volume>103</volume>(
+  <issue>4</issue>):
+  <fpage>1548</fpage>–
+  <lpage>56</lpage>.
+  <pub-id pub-id-type="doi">10.1182/blood-2003-05-1513</pub-id>
+  <?supplied-pmid 14576063?>
+  <pub-id pub-id-type="pmid">14576063</pub-id>
+ </mixed-citation>
+</ref>

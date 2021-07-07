@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR58">
+ <label>58.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Adams</surname>
+    <given-names>JH</given-names>
+   </name>
+   <name>
+    <surname>Doyle</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Ford</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Gennarelli</surname>
+    <given-names>TA</given-names>
+   </name>
+   <name>
+    <surname>Graham</surname>
+    <given-names>DI</given-names>
+   </name>
+   <name>
+    <surname>McLellan</surname>
+    <given-names>DR</given-names>
+   </name>
+  </person-group>
+  <article-title>Diffuse axonal injury in head injury: definition, diagnosis and grading</article-title>
+  <source>Histopathology</source>
+  <year>1989</year>
+  <volume>15</volume>
+  <issue>1</issue>
+  <fpage>49</fpage>
+  <lpage>59</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1365-2559.1989.tb03040.x</pub-id>
+  <?supplied-pmid 2767623?>
+  <pub-id pub-id-type="pmid">2767623</pub-id>
+ </element-citation>
+</ref>

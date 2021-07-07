@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Irwin</surname>
+    <given-names>MS</given-names>
+   </name>
+   <name>
+    <surname>Park</surname>
+    <given-names>JR</given-names>
+   </name>
+  </person-group>
+  <article-title>Neuroblastoma: paradigm for precision medicine</article-title>
+  <source>Pediatric clinics of North America</source>
+  <year>2015</year>
+  <volume>62</volume>
+  <fpage>225</fpage>
+  <lpage>256</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.pcl.2014.09.015</pub-id>
+  <?supplied-pmid 25435121?>
+  <pub-id pub-id-type="pmid">25435121</pub-id>
+ </element-citation>
+</ref>

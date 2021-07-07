@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib2">
+ <label>2</label>
+ <mixed-citation publication-type="journal">
+  <person-group>
+   <name>
+    <surname>Boulton</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>Vileikyte</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Ragnarson-Tennvall</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The global burden of diabetic foot disease</article-title>. 
+  <source>
+   <italic>Lancet</italic>
+  </source>. 
+  <year>2005</year>;
+  <volume>366</volume>:
+  <fpage>1719</fpage>–
+  <lpage>1724</lpage>.
+  <pub-id pub-id-type="pmid">16291066</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ajh25238-bib-0002">
+ <label>2</label>
+ <mixed-citation publication-type="journal" id="ajh25238-cit-0002">
+  <string-name>
+   <surname>Stone</surname>
+   <given-names>RM</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Mazzola</surname>
+   <given-names>E</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Neuberg</surname>
+   <given-names>D</given-names>
+  </string-name>, et al. 
+  <article-title>Phase III open‐label randomized study of cytarabine in combination with amonafide 
+   <sc>l</sc>‐malate or daunorubicin as induction therapy for patients with secondary acute myeloid leukemia
+  </article-title>. 
+  <source xml:lang="en">J Clin Oncol</source>. 
+  <year>2015</year>;
+  <volume>33</volume>:
+  <fpage>1252</fpage>‐
+  <lpage>1257</lpage>.
+  <pub-id pub-id-type="pmid">25732165</pub-id>
+ </mixed-citation>
+</ref>

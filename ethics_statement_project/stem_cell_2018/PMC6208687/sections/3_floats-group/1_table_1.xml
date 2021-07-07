@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Patient and tumour characteristics</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="2">Characteristic</th>
+    <th colspan="2">Trial-ineligible
+     <break/>(
+     <italic>n</italic> = 91)
+    </th>
+    <th colspan="2">Pot. trial-eligible
+     <break/>(
+     <italic>n</italic> = 194)
+    </th>
+    <th colspan="2">All patients
+     <break/>(
+     <italic>n</italic> = 285)
+    </th>
+   </tr>
+   <tr>
+    <th>Years</th>
+    <th>Min–max</th>
+    <th>Years</th>
+    <th>Min–max</th>
+    <th>Years</th>
+    <th>Min–max</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Median age at start of therapy</td>
+    <td>76.4</td>
+    <td>56.2–92.0</td>
+    <td>72.5</td>
+    <td>41.6–90.1</td>
+    <td>73.7</td>
+    <td>41.6–92.0</td>
+   </tr>
+   <tr>
+    <td/>
+    <td>Mean</td>
+    <td>SD</td>
+    <td>Mean</td>
+    <td>SD</td>
+    <td>Mean</td>
+    <td>SD</td>
+   </tr>
+   <tr>
+    <td>BMI at enrolment, kg/m
+     <sup>2</sup> (
+     <italic>n</italic> = 278)
+    </td>
+    <td>25.7</td>
+    <td>3.9</td>
+    <td>26.3</td>
+    <td>4.4</td>
+    <td>26.1</td>
+    <td>4.3</td>
+   </tr>
+   <tr>
+    <td>Sex</td>
+    <td>
+     <italic>n</italic>
+    </td>
+    <td>%</td>
+    <td>
+     <italic>n</italic>
+    </td>
+    <td>%</td>
+    <td>
+     <italic>n</italic>
+    </td>
+    <td>%</td>
+   </tr>
+   <tr>
+    <td> Female</td>
+    <td>36</td>
+    <td>39.6%</td>
+    <td>107</td>
+    <td>55.2%</td>
+    <td>143</td>
+    <td>50.2%</td>
+   </tr>
+   <tr>
+    <td> Male</td>
+    <td>55</td>
+    <td>60.4%</td>
+    <td>87</td>
+    <td>44.8%</td>
+    <td>142</td>
+    <td>49.8%</td>
+   </tr>
+   <tr>
+    <td>Patients with any comorbidity
+     <sup>a, b, c</sup>
+    </td>
+    <td>91</td>
+    <td>100%</td>
+    <td>136</td>
+    <td>70.1%</td>
+    <td>227</td>
+    <td>79.6%</td>
+   </tr>
+   <tr>
+    <td> Diabetes mellitus without diabetic compl.</td>
+    <td>20</td>
+    <td>22.0%</td>
+    <td>22</td>
+    <td>11.3%</td>
+    <td>42</td>
+    <td>14.7%</td>
+   </tr>
+   <tr>
+    <td> Diabetes mellitus with diabetic compl.</td>
+    <td>5</td>
+    <td>5.5%</td>
+    <td>4</td>
+    <td>2.1%</td>
+    <td>9</td>
+    <td>3.2%</td>
+   </tr>
+   <tr>
+    <td> Heart failure</td>
+    <td>29</td>
+    <td>31.9%</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>29</td>
+    <td>10.2%</td>
+   </tr>
+   <tr>
+    <td> Liver disease (mild)</td>
+    <td>5</td>
+    <td>5.5%</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>5</td>
+    <td>1.8%</td>
+   </tr>
+   <tr>
+    <td> Liver disease (moderate or severe)</td>
+    <td>3</td>
+    <td>3.3%</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>3</td>
+    <td>1.1%</td>
+   </tr>
+   <tr>
+    <td> Renal disease (moderate or severe)</td>
+    <td>30</td>
+    <td>33.0%</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>30</td>
+    <td>10.5%</td>
+   </tr>
+   <tr>
+    <td> Renal failure</td>
+    <td>55</td>
+    <td>60.4%</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>55</td>
+    <td>19.3%</td>
+   </tr>
+   <tr>
+    <td> Polyneuropathy</td>
+    <td>10</td>
+    <td>11.0%</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>10</td>
+    <td>3.5%</td>
+   </tr>
+   <tr>
+    <td> AIDS</td>
+    <td>1</td>
+    <td>1.1%</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>1</td>
+    <td>0.4%</td>
+   </tr>
+   <tr>
+    <td colspan="7">Charlson Comorbidity Index
+     <sup>a, c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td> CCI = 0</td>
+    <td>24</td>
+    <td>26.4%</td>
+    <td>157</td>
+    <td>80.9%</td>
+    <td>181</td>
+    <td>63.5%</td>
+   </tr>
+   <tr>
+    <td> CCI ≥ 1</td>
+    <td>67</td>
+    <td>73.6%</td>
+    <td>37</td>
+    <td>19.1%</td>
+    <td>104</td>
+    <td>36.5%</td>
+   </tr>
+   <tr>
+    <td colspan="7">Durie Salmon stage
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td> I</td>
+    <td>9</td>
+    <td>9.9%</td>
+    <td>14</td>
+    <td>7.2%</td>
+    <td>23</td>
+    <td>8.1%</td>
+   </tr>
+   <tr>
+    <td> II</td>
+    <td>22</td>
+    <td>24.2%</td>
+    <td>45</td>
+    <td>23.2%</td>
+    <td>67</td>
+    <td>23.5%</td>
+   </tr>
+   <tr>
+    <td> III</td>
+    <td>51</td>
+    <td>56.0%</td>
+    <td>119</td>
+    <td>61.3%</td>
+    <td>170</td>
+    <td>59.6%</td>
+   </tr>
+   <tr>
+    <td> Unknown/missing</td>
+    <td>9</td>
+    <td>9.9%</td>
+    <td>16</td>
+    <td>8.2%</td>
+    <td>25</td>
+    <td>8.8%</td>
+   </tr>
+   <tr>
+    <td colspan="7">ISS stage
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td> I</td>
+    <td>6</td>
+    <td>6.6%</td>
+    <td>45</td>
+    <td>23.2%</td>
+    <td>51</td>
+    <td>17.9%</td>
+   </tr>
+   <tr>
+    <td> II</td>
+    <td>15</td>
+    <td>16.5%</td>
+    <td>63</td>
+    <td>32.5%</td>
+    <td>78</td>
+    <td>27.4%</td>
+   </tr>
+   <tr>
+    <td> III</td>
+    <td>29</td>
+    <td>31.9%</td>
+    <td>20</td>
+    <td>10.3%</td>
+    <td>49</td>
+    <td>17.2%</td>
+   </tr>
+   <tr>
+    <td> Unknown
+     <sup>d</sup>
+    </td>
+    <td>41</td>
+    <td>45.1%</td>
+    <td>66</td>
+    <td>34.0%</td>
+    <td>107</td>
+    <td>37.5%</td>
+   </tr>
+   <tr>
+    <td>B symptoms
+     <sup>a</sup>
+    </td>
+    <td>11</td>
+    <td>12.1%</td>
+    <td>25</td>
+    <td>12.9%</td>
+    <td>36</td>
+    <td>12.6%</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <sup>a</sup>At the start of therapy
+  </p>
+  <p>
+   <sup>b</sup>At least one comorbidity according to Charlson [
+   <xref ref-type="bibr" rid="CR19">19</xref>] or additional concomitant diseases
+  </p>
+  <p>
+   <sup>c</sup>Charlson Comorbidity Index (CCI) according to Quan et al. [
+   <xref ref-type="bibr" rid="CR20">20</xref>]
+  </p>
+  <p>
+   <sup>d</sup>For some patients, the exact stage according to ISS could not be determined because of unknown parameters (β2-microglobulin or albumin)
+  </p>
+  <p>Abbreviations: BMI, body mass index; compl., complications; ISS, international staging system; max, maximum; min, minimum; SD, standard deviation</p>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Missing questionnaire data and relevant baseline factors were imputed using multiple imputation by chained equations (MICE) (White 
+ <italic>et al</italic>, 
+ <xref rid="bjh15459-bib-0024" ref-type="ref">2011</xref>). The imputation was conducted separately for the three analysis populations described above. In addition, the imputation was conducted by randomised induction treatment in the intensive and non‐intensive pathways and randomised treatment in the maintenance phase, therefore only individuals with the same randomisation allocation contributed to an individual's imputed value.
+</p>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The AALL1131 study was originally designed to investigate the addition of clofarabine to cyclophosphamide/etoposide as experimental arm 2 
+ <italic>versus</italic> cyclophosphamide/etoposide (experimental arm 1) 
+ <italic>versus</italic> the control arm in a 2:2:1 randomization for patients with VHR B-ALL. The study design was later amended to a 2:1 randomization between experimental arm 1 and the control arm, retaining those patients initially randomized to experimental arm 1 and the control arm, after the clofarabine arm (experimental arm 2) was closed because of unacceptable toxicity (September 2014).
+ <sup>
+  <xref rid="b7-1040986" ref-type="bibr">7</xref>
+ </sup> Patients classified as VHR were subsequently randomized after induction in a 1:2 fashion to cyclophosphamide (1 g/m
+ <sup>2</sup> day 29)/cytarabine (75 mg/m
+ <sup>2</sup> days 29-33 and 36-40)/6-mercaptopurine (60 mg/m
+ <sup>2</sup> days 29-42 consolidation) or thioguanine (60 mg/m
+ <sup>2</sup> days 29-42 during part 2 of delayed intensification) (control arm) or cyclophosphamide (440 mg/m
+ <sup>2</sup>, days 29-33)/etoposide (100 mg/m
+ <sup>2</sup>, days 29-33) (experimental arm 1) during part 2 of consolidation and delayed intensification. Both arms included the same dose and schedule of pegaspargase (2,500 IU/m
+ <sup>2</sup>) on day 43 and vincristine (1.5 mg/m
+ <sup>2</sup>) on days 43 and 50 of consolidation and delayed intensification. The delayed intensification also included intrathecal methotrexate on days 29 and 36 on all arms. Patients with CNS3 leukemia received 1800 cGy of cranial irradiation during the first month of maintenance therapy. Any patient with testicular leukemia at diagnosis that did not resolve by the end of induction received 2400 cGy testicular irradiation during consolidation. The remainder of the VHR therapy was identical between the two arms.
+ <sup>
+  <xref rid="b7-1040986" ref-type="bibr">7</xref>
+ </sup> The complete AALL1131 VHR treatment regimen is shown in 
+ <xref rid="t1-1040986" ref-type="table">Table 1</xref>. The study did not capture detailed information on patients who underwent hematopoietic stem cell transplantation off protocol therapy. The VHR randomization was powered (80%) to compare a 4-year DFS of 70% 
+ <italic>versus</italic> 79% (HR=0.661) using a two-sided log-rank test (α=5%). DFS was defined as the time from post-induction randomization to first event (death in remission, relapse, or second malignant neoplasm) or date of last contact for those who remained event-free. Survival rates were estimated using the method of Kaplan-Meier with standard errors of Peto 
+ <italic>et al</italic>.
+ <sup>
+  <xref rid="b9-1040986" ref-type="bibr">9</xref>,
+  <xref rid="b10-1040986" ref-type="bibr">10</xref>
+ </sup> Interim monitoring for efficacy utilized an αt
+ <sup>
+  <xref rid="b2-1040986" ref-type="bibr">2</xref>
+ </sup> spending function and futility monitoring was based on the method of Anderson and High,
+ <sup>
+  <xref rid="b11-1040986" ref-type="bibr">11</xref>
+ </sup> with the first interim analysis scheduled for when 20% of the expected DFS events had been observed. Prospective interim monitoring rules for efficacy and futility were included where futility would be determined for a one-sided 
+ <italic>P</italic>-value ≥0.7664. Cumulative incidence rates were computed using the cumulative incidence function for competing risks, and comparisons were made using the 
+ <italic>K</italic>-sample test.
+ <sup>
+  <xref rid="b12-1040986" ref-type="bibr">12</xref>
+ </sup> Proportions between the two arms were compared using a χ
+ <sup>2</sup> test or Fisher exact test. A 
+ <italic>P</italic> value &lt;0.05 was considered statistically significant for all comparisons. All analyses were performed using SAS software version 9.4 (SAS Institute, Cary, NC, USA). Graphics were generated with R version 2.13.1 (
+ <italic>
+  <ext-link ext-link-type="uri" xlink:href="http://www.r-project.org" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.r-project.org</ext-link>
+ </italic>).
+</p>

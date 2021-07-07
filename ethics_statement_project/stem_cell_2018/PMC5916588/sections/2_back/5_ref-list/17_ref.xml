@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bazarian</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Zhong</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Blyth</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Zhu</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Kavcic</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Peterson</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Diffusion tensor imaging detects clinically important axonal damage after mild traumatic brain injury: a pilot study</article-title>
+  <source>J Neurotrauma</source>
+  <year>2007</year>
+  <volume>24</volume>
+  <fpage>1447</fpage>
+  <lpage>1459</lpage>
+  <pub-id pub-id-type="doi">10.1089/neu.2007.0241</pub-id>
+  <?supplied-pmid 17892407?>
+  <pub-id pub-id-type="pmid">17892407</pub-id>
+ </element-citation>
+</ref>

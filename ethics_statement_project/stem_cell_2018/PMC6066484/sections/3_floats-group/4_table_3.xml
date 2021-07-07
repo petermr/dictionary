@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Treatment administration</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th>
+     <bold>All patients</bold>
+    </th>
+    <th>
+     <bold>Phase 2 dose</bold>
+    </th>
+   </tr>
+   <tr>
+    <th/>
+    <th>
+     <bold>(N</bold> 
+     <bold>=</bold> 
+     <bold>48)</bold>
+    </th>
+    <th>
+     <bold>(N</bold> 
+     <bold>=</bold> 
+     <bold>45)</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="3">Ixazomib</td>
+   </tr>
+   <tr>
+    <td> Number of cycles</td>
+    <td>620</td>
+    <td>561</td>
+   </tr>
+   <tr>
+    <td> Median dose (mg, Range)</td>
+    <td>12 (3–120)</td>
+    <td>12 (3–120)</td>
+   </tr>
+   <tr>
+    <td> Number of patients with dose reductions</td>
+    <td>6 (13%)</td>
+    <td>6 (13%)</td>
+   </tr>
+   <tr>
+    <td> Total number of dose reductions</td>
+    <td>8</td>
+    <td>8</td>
+   </tr>
+   <tr>
+    <td colspan="3">Cyclophosphamide</td>
+   </tr>
+   <tr>
+    <td> Number of cycles</td>
+    <td>382</td>
+    <td>357</td>
+   </tr>
+   <tr>
+    <td> Median dose (mg, Range)</td>
+    <td>2800 (0–5000)</td>
+    <td>3000 (0–5000)</td>
+   </tr>
+   <tr>
+    <td> Number of patients with dose reductions</td>
+    <td>16 (33%)</td>
+    <td>16 (36%)</td>
+   </tr>
+   <tr>
+    <td> Total number of dose reductions</td>
+    <td>24</td>
+    <td>24</td>
+   </tr>
+   <tr>
+    <td colspan="3">Dexamethasone</td>
+   </tr>
+   <tr>
+    <td> Number of cycles</td>
+    <td>386</td>
+    <td>361</td>
+   </tr>
+   <tr>
+    <td> Median dose (mg, range)</td>
+    <td>160 (0–160)</td>
+    <td>160 (0–160)</td>
+   </tr>
+   <tr>
+    <td> Number of patients with dose reductions</td>
+    <td>20 (42%)</td>
+    <td>18 (40%)</td>
+   </tr>
+   <tr>
+    <td> Total number of dose reductions</td>
+    <td>29</td>
+    <td>26</td>
+   </tr>
+   <tr>
+    <td colspan="3">Treatment delays</td>
+   </tr>
+   <tr>
+    <td> Number of patients</td>
+    <td>14 (25%)</td>
+    <td>12 (27%)</td>
+   </tr>
+   <tr>
+    <td> Total number of delays</td>
+    <td>19</td>
+    <td>15</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

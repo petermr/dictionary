@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Advani</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Coiffier</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Czuczman</surname>
+    <given-names>MS</given-names>
+   </name>
+   <name>
+    <surname>Dreyling</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Foran</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Gine</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Safety, pharmacokinetics, and preliminary clinical activity of inotuzumab ozogamicin, a novel immunoconjugate for the treatment of B-cell non-Hodgkin's lymphoma: results of a phase I study</article-title>
+  <source>J Clin Oncol</source>
+  <year>2010</year>
+  <volume>28</volume>
+  <fpage>2085</fpage>
+  <lpage>2093</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2009.25.1900</pub-id>
+  <?supplied-pmid 20308665?>
+  <pub-id pub-id-type="pmid">20308665</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par15">Accumulating evidence suggests that CAFs contribute to tumor growth upon Hh ligand activation
+ <sup>
+  <xref ref-type="bibr" rid="CR12">12</xref>,
+  <xref ref-type="bibr" rid="CR20">20</xref>
+ </sup>. However, the stroma of M6 tumors is composed of multiple cell types, any of which may be responsible for Hh-dependent gene expression changes. We used a single-cell RNA-sequencing (scRNA-Seq) approach to determine the cell population/s that respond to paracrine Hh signaling. The microfluidic 10× Chromium system was used to comprehensively profile gene expression at cellular resolution in thousands of cells isolated from freshly dissociated M6-Ctrl and M6-Hh tumors ± SMOi. In total, we compared 6064 FACS-isolated cells from M6-Ctrl tumors, 6200 cells from M6-Hh tumors, and 2686 single cells from M6-Hh tumor treated with SMOi.
+</p>

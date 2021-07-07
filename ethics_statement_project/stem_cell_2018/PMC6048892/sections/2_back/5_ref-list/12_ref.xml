@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kochhar</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Frytak</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Shaw</surname>
+    <given-names>EG</given-names>
+   </name>
+  </person-group>
+  <article-title>Survival of patients with extensive small-cell lung cancer who have only brain metastases at initial diagnosis</article-title>
+  <source>Am J Clin Oncol.</source>
+  <year>1997</year>
+  <volume>20</volume>
+  <fpage>125</fpage>
+  <lpage>127</lpage>
+  <pub-id pub-id-type="doi">10.1097/00000421-199704000-00003</pub-id>
+  <?supplied-pmid 9124183?>
+  <pub-id pub-id-type="pmid">9124183</pub-id>
+ </element-citation>
+</ref>

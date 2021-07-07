@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Curtis</surname>
+    <given-names>LH</given-names>
+   </name>
+   <name>
+    <surname>Whellan</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Hammill</surname>
+    <given-names>BG</given-names>
+   </name>
+   <name>
+    <surname>Hernandez</surname>
+    <given-names>AF</given-names>
+   </name>
+   <name>
+    <surname>Anstrom</surname>
+    <given-names>KJ</given-names>
+   </name>
+   <name>
+    <surname>Shea</surname>
+    <given-names>AM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Incidence and prevalence of heart failure in elderly persons, 1994-2003</article-title>
+  <source>
+   <italic>Arch Intern Med.</italic>
+  </source>
+  <year>2008</year>
+  <season>Feb 25</season>
+  <volume>168</volume>
+  <issue>4</issue>
+  <fpage>418</fpage>
+  <lpage>24</lpage>
+  <pub-id pub-id-type="pmid">18299498</pub-id>
+ </element-citation>
+</ref>

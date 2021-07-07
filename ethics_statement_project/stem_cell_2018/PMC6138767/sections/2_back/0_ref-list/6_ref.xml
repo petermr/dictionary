@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib6">
+ <label>6</label>
+ <element-citation publication-type="journal" id="sref6">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cohen</surname>
+    <given-names>E.E.W.</given-names>
+   </name>
+   <name>
+    <surname>Karrison</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Kocherginsky</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>C.H.</given-names>
+   </name>
+   <name>
+    <surname>Agulnik</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Mittal</surname>
+    <given-names>B.B.</given-names>
+   </name>
+  </person-group>
+  <article-title>DeCIDE: a phase III randomized trial of docetaxel (D), cisplatin (P), 5-fluorouracil (F) (TPF) induction chemotherapy (IC) in patients with N2/N3 locally advanced squamous cell carcinoma of the head and neck (SCCHN)</article-title>
+  <source>J Clin Oncol</source>
+  <volume>30</volume>
+  <issue>suppl</issue>
+  <year>2012</year>
+  <fpage>5500</fpage>
+ </element-citation>
+</ref>

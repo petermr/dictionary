@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Perin</surname>
+    <given-names>EC</given-names>
+   </name>
+   <name>
+    <surname>Silva</surname>
+    <given-names>GV</given-names>
+   </name>
+   <name>
+    <surname>Henry</surname>
+    <given-names>TD</given-names>
+   </name>
+   <name>
+    <surname>Cabreira-Hansen</surname>
+    <given-names>MG</given-names>
+   </name>
+   <name>
+    <surname>Moore</surname>
+    <given-names>WH</given-names>
+   </name>
+   <name>
+    <surname>Coulter</surname>
+    <given-names>SA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A randomized study of transendocardial injection of autologous bone marrow mononuclear cells and cell function analysis in ischemic heart failure (FOCUS-HF)</article-title>
+  <source>
+   <italic>Am Heart J</italic>
+  </source>
+  <year>2011</year>
+  <month>6</month>
+  <volume>161</volume>
+  <issue>6</issue>
+  <fpage>1078</fpage>
+  <lpage>87</lpage>
+  <pub-id pub-id-type="pmid">21641354</pub-id>
+ </element-citation>
+</ref>

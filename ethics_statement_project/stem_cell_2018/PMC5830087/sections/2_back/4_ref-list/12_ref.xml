@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ohm</surname>
+    <given-names>JE</given-names>
+   </name>
+   <name>
+    <surname>Carbone</surname>
+    <given-names>DP</given-names>
+   </name>
+  </person-group>
+  <article-title>VEGF as a mediator of tumor-associated immunodeficiency</article-title>
+  <source>Immunol Res</source>
+  <year>2001</year>
+  <volume>23</volume>
+  <fpage>263</fpage>
+  <lpage>272</lpage>
+  <pub-id pub-id-type="doi">10.1385/IR:23:2-3:263</pub-id>
+  <?supplied-pmid 11444391?>
+  <pub-id pub-id-type="pmid">11444391</pub-id>
+ </element-citation>
+</ref>

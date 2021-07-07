@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Innocenti</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Undevia</surname>
+    <given-names>SD</given-names>
+   </name>
+   <name>
+    <surname>Iyer</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>PX</given-names>
+   </name>
+   <name>
+    <surname>Das</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Kocherginsky</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genetic variants in the UDP-glucuronosyltransferase 1A1 gene predict the risk of severe neutropenia of irinotecan</article-title>
+  <source>J Clin Oncol</source>
+  <year>2004</year>
+  <volume>22</volume>
+  <fpage>1382</fpage>
+  <lpage>1388</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2004.07.173</pub-id>
+  <?supplied-pmid 15007088?>
+  <pub-id pub-id-type="pmid">15007088</pub-id>
+ </element-citation>
+</ref>

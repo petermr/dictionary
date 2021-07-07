@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For each individual patient, the treatment response at time 
+ <italic>t</italic> (
+ <italic>L
+  <sub>OB</sub>
+ </italic>(
+ <italic>t</italic>)), measured in the form 100% × 
+ <italic>BCR-ABL1/ABL1</italic>, is further described according to a biphasic characteristic, i.e. 
+ <disp-formula id="fd1-1031825">
+  <math id="mm1">
+   <mrow>
+    <msub>
+     <mi>L</mi>
+     <mrow>
+      <mi>O</mi>
+      <mi>B</mi>
+      <mi>S</mi>
+     </mrow>
+    </msub>
+    <mo stretchy="false">(</mo>
+    <mi>t</mi>
+    <mo stretchy="false">)</mo>
+    <mo>=</mo>
+    <mi>A</mi>
+    <mspace width="0.2em"/>
+    <msup>
+     <mi>e</mi>
+     <mrow>
+      <mi>α</mi>
+      <mi>t</mi>
+     </mrow>
+    </msup>
+    <mo>+</mo>
+    <mi>B</mi>
+    <mspace width="0.2em"/>
+    <msup>
+     <mi>e</mi>
+     <mrow>
+      <mi>β</mi>
+      <mi>t</mi>
+     </mrow>
+    </msup>
+   </mrow>
+  </math>
+  <label>(E1)</label>
+ </disp-formula>
+</p>

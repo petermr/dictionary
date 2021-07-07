@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Yan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ma</surname>
+   <given-names>Yu</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Ning</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Hongyan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Bing</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liang</surname>
+   <given-names>Ziwen</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ren</surname>
+   <given-names>Rui</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lu</surname>
+   <given-names>Debin</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Boey</surname>
+   <given-names>Johnson</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Armstrong</surname>
+   <given-names>David G.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Deng</surname>
+   <given-names>Wuquan</given-names>
+  </name>
+  <address>
+   <phone>+86 23 63692185</phone>
+   <email>wuquandeng@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0154 0904</institution-id>
+   <institution-id institution-id-type="GRID">grid.190737.b</institution-id>
+   <institution>Department of Endocrinology and Nephrology, Diabetic Foot Center, </institution>
+   <institution>Affliated Central Hospital of Chongqing University, Chongqing Emergency Medical Hospital, </institution>
+  </institution-wrap>Chongqing, China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>Department of Endocrinology, Southwest Hospital, Army Medical University, Chongqing, China 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>Department of Endocrinology, the 9th People’s Hospital of Chongqing, Chongqing, China 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9486 5048</institution-id>
+   <institution-id institution-id-type="GRID">grid.163555.1</institution-id>
+   <institution>Department of Podiatry, </institution>
+   <institution>Singapore General Hospital, </institution>
+  </institution-wrap>Bukit Merah, Singapore 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2156 6853</institution-id>
+   <institution-id institution-id-type="GRID">grid.42505.36</institution-id>
+   <institution>Department of Surgery, </institution>
+   <institution>Keck School of Medicine of the University of Southern California, </institution>
+  </institution-wrap>Los Angeles, CA USA 
+ </aff>
+</contrib-group>

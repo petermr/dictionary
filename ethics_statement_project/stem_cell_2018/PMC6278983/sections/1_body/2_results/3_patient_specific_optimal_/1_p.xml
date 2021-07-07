@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The calculation of patient-specific optimal TKI doses requires the knowledge of model parameters 
+ <italic>p
+  <sub>YX</sub>
+ </italic>, 
+ <italic>p
+  <sub>XY</sub>
+ </italic>, 
+ <italic>e
+  <sub>TKI</sub>
+ </italic>, and 
+ <italic>p
+  <sub>Y</sub>
+ </italic>. Whereas 
+ <italic>p
+  <sub>YX</sub>
+ </italic>, 
+ <italic>p
+  <sub>XY</sub>
+ </italic>, and 
+ <italic>q</italic>=
+ <italic>e
+  <sub>TKI</sub>
+ </italic>−
+ <italic>p
+  <sub>Y</sub>
+ </italic> can be estimated from time course data, the LSC proliferation rate 
+ <italic>pY</italic> is confounded with the individual TKI-effect 
+ <italic>e
+  <sub>TKI</sub>
+ </italic> and cannot be deduced directly. Therefore, we propose to estimate 
+ <italic>p
+  <sub>Y</sub>
+ </italic> by observing the transient increase in proliferating LSCs occurring after a first favorable dose reduction. Technically, we suggest a moderate initial reduction to fraction 
+ <italic>f</italic> of the standard dose, after the patient’s response under standard dose has been sufficiently quantified in terms of the kinetic parameters (
+ <italic>α,β,A,B</italic>) (
+ <xref ref-type="fig" rid="f3-1031825">Figure 3A</xref>). Although dose-halving (i.e. 
+ <italic>f</italic>=0.5) seems to be safe for this first de-escalation (see below), the proposed approach is valid for any reasonable reduction. After a transient increase in the 
+ <italic>BCR-ABL1</italic> levels, a new intercept 
+ <italic>B</italic>′ can be observed approximately 18 months after the dose reduction (
+ <xref ref-type="fig" rid="f3-1031825">Figure 3B</xref>). Based on the difference of intercepts 
+ <italic>B</italic> and 
+ <italic>B</italic>′, and the reduction fraction 
+ <italic>f</italic>, the proliferation rate 
+ <italic>p
+  <sub>Y</sub>
+ </italic> can be estimated (
+ <italic>Online Supplementary Text S9</italic>) by 
+ <disp-formula id="fd6-1031825">
+  <math id="mm9">
+   <mrow>
+    <msub>
+     <mi>p</mi>
+     <mi>Y</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+     <mo>|</mo>
+     <mi>α</mi>
+     <mo>|</mo>
+    </mrow>
+    <mfrac>
+     <mi>B</mi>
+     <mrow>
+      <mn>1</mn>
+      <mo>−</mo>
+      <mi>f</mi>
+     </mrow>
+    </mfrac>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mfrac>
+       <mi>f</mi>
+       <mi>B</mi>
+      </mfrac>
+      <mo>−</mo>
+      <mfrac>
+       <mn>1</mn>
+       <mrow>
+        <mi>B</mi>
+        <mo>′</mo>
+       </mrow>
+      </mfrac>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+  <label>(E6)</label>
+ </disp-formula>and the individual optimal dose reduction fraction 
+ <italic>f
+  <sub>OPT</sub>
+ </italic> can be calculated using 
+ <xref ref-type="disp-formula" rid="fd5-1031825">equation (E5)</xref>. This dose is predicted to retain the original long-term treatment efficiency (
+ <xref ref-type="fig" rid="f3-1031825">Figure 3C and D</xref>).
+</p>

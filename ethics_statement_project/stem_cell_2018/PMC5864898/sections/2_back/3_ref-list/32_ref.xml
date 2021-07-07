@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B32">
+ <label>32</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Agrati</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Alonzi</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>De Santis</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Castilletti</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Abbate</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Capobianchi</surname>
+    <given-names>MR</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Activation of Vgamma9Vdelta2 T cells by non-peptidic antigens induces the inhibition of subgenomic HCV replication</article-title>. 
+  <source>Int Immunol</source> (
+  <year>2006</year>) 
+  <volume>18</volume>:
+  <fpage>11</fpage>–
+  <lpage>8</lpage>.
+  <pub-id pub-id-type="doi">10.1093/intimm/dxh337</pub-id>
+  <?supplied-pmid 16361319?>
+  <pub-id pub-id-type="pmid">16361319</pub-id>
+ </mixed-citation>
+</ref>

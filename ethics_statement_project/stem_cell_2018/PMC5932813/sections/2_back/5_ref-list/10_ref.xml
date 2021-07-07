@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gudiol</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Tubau</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Calatayud</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Garcia-Vidal</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Cisnal</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Sánchez-Ortega</surname>
+    <given-names>I</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Bacteraemia due to multidrug-resistant Gram-negative bacilli in cancer patients: risk factors, antibiotic therapy and outcomes</article-title>
+  <source>J Antimicrob Chemother</source>
+  <year>2011</year>
+  <volume>66</volume>
+  <fpage>657</fpage>
+  <lpage>663</lpage>
+  <pub-id pub-id-type="doi">10.1093/jac/dkq494</pub-id>
+  <?supplied-pmid 21193475?>
+  <pub-id pub-id-type="pmid">21193475</pub-id>
+ </element-citation>
+</ref>

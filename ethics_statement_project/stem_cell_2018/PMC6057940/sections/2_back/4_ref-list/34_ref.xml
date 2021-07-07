@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <label>34.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pang</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A subpopulation of CD26+cancer stem cells with metastatic capacity in human colorectal cancer</article-title>
+  <source>Cell Stem Cell</source>
+  <year>2010</year>
+  <volume>6</volume>
+  <fpage>603</fpage>
+  <lpage>615</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.stem.2010.04.001</pub-id>
+  <?supplied-pmid 20569697?>
+  <pub-id pub-id-type="pmid">20569697</pub-id>
+ </element-citation>
+</ref>

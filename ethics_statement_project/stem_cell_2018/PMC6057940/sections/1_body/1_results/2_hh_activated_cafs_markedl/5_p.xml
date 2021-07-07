@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par16">As shown in Fig. 
+ <xref rid="Fig3" ref-type="fig">3a</xref>, unsupervised clustering analysis of 14,950 cells revealed populations of myeloid, neoplastic, endothelial, CAF and natural killer cells within the breast TME (Fig. 
+ <xref rid="Fig3" ref-type="fig">3a</xref>). Importantly, the upregulation of canonical Hh target genes 
+ <italic>Gli1</italic>, 
+ <italic>Ptch1</italic>, 
+ <italic>Ptch2</italic>, and 
+ <italic>Hhip</italic> and ECM genes such as 
+ <italic>Col4a1</italic>, 
+ <italic>Tspan11</italic>, 
+ <italic>St8sia2</italic>, and 
+ <italic> Tnfaip6</italic> was observed exclusively in the CAF population of M6-Hh tumors (Fig. 
+ <xref rid="Fig3" ref-type="fig">3a</xref>), and not in the other stromal cell types. More specifically, the ECM signature detected in the stroma of Hh-expressing tumors via “bulk” RNA-Seq was driven by CAF gene expression (Figs. 
+ <xref rid="Fig2" ref-type="fig">2b, c</xref>, 
+ <xref rid="Fig3" ref-type="fig">3b</xref>). scRNA-Seq also confirmed the lack of autocrine Hh pathway activation within the neoplastic cells (Fig. 
+ <xref rid="Fig3" ref-type="fig">3a</xref>). Treatment with SMOi almost completely reversed the Hh-dependent gene expression changes observed in CAFs without affecting gene expression in the other stromal cell types (Fig. 
+ <xref rid="Fig3" ref-type="fig">3a</xref>; Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">2d</xref> and Supplementary Data 
+ <xref rid="MOESM4" ref-type="media">2</xref>), highlighting the on-target activity of SMOi at the single-cell level.
+</p>

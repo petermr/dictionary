@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>PBMCs were thawed, washed twice, and stained for 20 min at room temperature for flow cytometric analysis and cell sorting with the following antibodies: LIVE/DEAD Fixable Green Dead cell Stain Kit, Thermofisher or DAPI; CD14-FITC, clone M5E2, BD Biosciences; CD19-FITC, clone HIB19, BD Biosciences; γδ TCR-PE, clone 11F2, eBiosciences; Vγ9-PE-Cy5, clone IMMU 360, Beckman Coulter; Vδ2-APC, clone 123R4, Miltenyi; CD45-APC-Cy7, clone 5B1, Miltenyi; CD3-BV786 and CD3-PECy7, clone UCHT1, BD Biosciences. After staining, PBMCs were washed twice and stored on ice until acquisition and sorting on a FACSAria Fusion cell sorter (BD Biosciences). HC and patients recruited at the Department of Gastroenterology, Hepatology and Endocrinology were sorted for CD14
+ <sup>−</sup>/CD19
+ <sup>−</sup> γδ T cells and HC recruited at the Institute for Immunology were sorted for CD45
+ <sup>+</sup>/CD3
+ <sup>+</sup> γδ T cells. Flow cytometry data were analyzed using the Flow Jo software V.9.8 (Tree Star Inc., Ashland, OR, USA).
+</p>

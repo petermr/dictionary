@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For other secondary/tertiary variables, the strategy is to use the mean value of the preceding and following value. If the preceding value is missing, the following value is used. If the following value is missing, the technique used is last value carried forward.</p>

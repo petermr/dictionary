@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B32">
+ <label>32</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Smith</surname>
+    <given-names>MD</given-names>
+   </name>
+   <name>
+    <surname>Calabresi</surname>
+    <given-names>PA</given-names>
+   </name>
+   <name>
+    <surname>Bhargava</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Dimethyl fumarate treatment alters NK cell function in multiple sclerosis</article-title>. 
+  <source>Eur J Immunol</source> (
+  <year>2017</year>) 
+  <volume>48</volume>(
+  <issue>2</issue>):
+  <fpage>380</fpage>–
+  <lpage>3</lpage>.
+  <pub-id pub-id-type="doi">10.1002/eji.201747277</pub-id>
+  <?supplied-pmid 29108094?>
+  <pub-id pub-id-type="pmid">29108094</pub-id>
+ </mixed-citation>
+</ref>

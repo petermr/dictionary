@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hare</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Fishman</surname>
+    <given-names>JE</given-names>
+   </name>
+   <name>
+    <surname>Gerstenblith</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Comparison of allogeneic vs autologous bone marrow-derived mesenchymal stem cells delivered by Transendocardial injection in patients with ischemic cardiomyopathy</article-title>
+  <source>Jama</source>
+  <year>2012</year>
+  <volume>308</volume>
+  <fpage>2369</fpage>
+  <pub-id pub-id-type="doi">10.1001/jama.2012.25321</pub-id>
+  <pub-id pub-id-type="pmid">23117550</pub-id>
+ </element-citation>
+</ref>

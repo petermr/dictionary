@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Reck</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>von Pawel</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Zatloukal</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Ramlau</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Gorbounova</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Hirsh</surname>
+    <given-names>V</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Phase III trial of cisplatin plus gemcitabine with either placebo or bevacizumab as first-line therapy for nonsquamous non-small-cell lung cancer: AVAiL</article-title>
+  <source>J Clin Oncol</source>
+  <year>2009</year>
+  <volume>27</volume>
+  <fpage>1227</fpage>
+  <lpage>1234</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2007.14.5466</pub-id>
+  <?supplied-pmid 19188680?>
+  <pub-id pub-id-type="pmid">19188680</pub-id>
+ </element-citation>
+</ref>

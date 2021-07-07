@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib24">
+ <label>24</label>
+ <element-citation publication-type="journal" id="sref24">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Posner</surname>
+    <given-names>M.R.</given-names>
+   </name>
+   <name>
+    <surname>Hershock</surname>
+    <given-names>D.M.</given-names>
+   </name>
+   <name>
+    <surname>Blajman</surname>
+    <given-names>C.R.</given-names>
+   </name>
+   <name>
+    <surname>Mickiewicz</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Winquist</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Gorbounova</surname>
+    <given-names>V.</given-names>
+   </name>
+  </person-group>
+  <article-title>Cisplatin and fluorouracil alone or with docetaxel in head and neck cancer</article-title>
+  <source>N Engl J Med</source>
+  <volume>357</volume>
+  <year>2007</year>
+  <fpage>1705</fpage>
+  <lpage>1715</lpage>
+  <pub-id pub-id-type="pmid">17960013</pub-id>
+ </element-citation>
+</ref>

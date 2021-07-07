@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib6">
+ <label>6</label>
+ <element-citation publication-type="journal" id="sbref60">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ludwig</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Durie</surname>
+    <given-names>BG</given-names>
+   </name>
+   <name>
+    <surname>McCarthy</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>IMWG consensus on maintenance therapy in multiple myeloma</article-title>
+  <source>Blood</source>
+  <volume>119</volume>
+  <year>2012</year>
+  <fpage>3003</fpage>
+  <lpage>3015</lpage>
+  <pub-id pub-id-type="pmid">22271445</pub-id>
+ </element-citation>
+</ref>

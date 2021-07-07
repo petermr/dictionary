@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Peiris-Pages</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Sotgia</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Lisanti</surname>
+    <given-names>MP</given-names>
+   </name>
+  </person-group>
+  <article-title>Chemotherapy induces the cancer-associated fibroblast phenotype, activating paracrine Hedgehog-GLI signalling in breast cancer cells</article-title>
+  <source>Oncotarget</source>
+  <year>2015</year>
+  <volume>6</volume>
+  <fpage>10728</fpage>
+  <lpage>10745</lpage>
+  <pub-id pub-id-type="doi">10.18632/oncotarget.3828</pub-id>
+  <?supplied-pmid 25915429?>
+  <pub-id pub-id-type="pmid">25915429</pub-id>
+ </element-citation>
+</ref>

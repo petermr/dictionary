@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The sample size calculation is based on the primary outcome (DOT per admission) and has been performed taking into account the pair-matched and clustered design of the study according to the approach proposed by Hayes and Bennett.
+ <xref rid="R22" ref-type="bibr">22</xref> Assuming 12 wards per arm, with an average size of 500 admissions, antibiotic use of 4.0 DOT/admission in the control group with an SD of 1.0 (based on preliminary antibiotic use data) and a two-sided type I error of 0.05 we would have a power of 80% to detect a relative difference in average DOT/admission between the intervention and control arm of at least 7.7%. Antibiotic stewardship interventions described in the published literature have often exceeded this effect size.
+</p>

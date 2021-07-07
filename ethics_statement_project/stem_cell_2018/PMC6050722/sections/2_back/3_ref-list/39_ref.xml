@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <collab>Cancer Genome Atlas Research N</collab>
+   <name>
+    <surname>Ley</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <name>
+    <surname>Miller</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Ding</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Raphael</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Mungall</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genomic and epigenomic landscapes of adult de novo acute myeloid leukemia</article-title>
+  <source>N Engl J Med</source>
+  <year>2013</year>
+  <volume>368</volume>
+  <fpage>2059</fpage>
+  <lpage>2074</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1301689</pub-id>
+  <pub-id pub-id-type="pmid">23634996</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">Cell therapy with bone marrow (BM)-derived progenitors has emerged as a promising therapeutic for refractory angina (RA) patients. In the present study, we evaluated the safety and preliminary efficacy of transcatheter delivery of autologous BM-derived advanced therapy medicinal product CD133
+   <sup>+</sup> cells (ATMP-CD133) in RA patients, correlating perfusion outcome with cell function.
+  </p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par2">In the phase I “Endocavitary Injection of Bone Marrow Derived CD133
+   <sup>+</sup> Cells in Ischemic Refractory Cardiomyopathy” (RECARDIO) trial, a total of 10 patients with left ventricular (LV) dysfunction (ejection fraction ≤ 45%) and evidence of reversible ischemia, as assessed by single-photon emission computed tomography (SPECT), underwent BM aspiration and fluoroscopy-based percutaneous endomyocardial delivery of ATMP-CD133. Patients were evaluated at 6 and 12 months for safety and preliminary efficacy endpoints. ATMP-CD133 samples were used for in vitro correlations.
+  </p>
+ </sec>
+ <sec>
+  <title>Results</title>
+  <p id="Par3">Patients were treated safely with a mean number of 6.57 ± 3.45 ×  10
+   <sup>6</sup> ATMP-CD133. At 6-month follow-up, myocardial perfusion at SPECT was significantly ameliorated in terms of changes in summed stress (from 18.2 ± 8.6 to 13.8 ± 7.8, 
+   <italic>p</italic> = 0.05) and difference scores (from 12.0 ± 5.3 to 6.1 ± 4.0, 
+   <italic>p</italic> = 0.02) and number of segments with inducible ischemia (from 7.3 ± 2.2 to 4.0 ± 2.7, 
+   <italic>p</italic> = 0.003). Similarly, Canadian Cardiovascular Society and New York Heart Association classes significantly improved at follow-up vs baseline (
+   <italic>p</italic> ≤ 0.001 and 
+   <italic>p</italic> = 0.007, respectively). Changes in summed stress score changes positively correlated with ATMP-CD133 release of proangiogenic cytokines HGF and PDGF-bb (
+   <italic>r</italic> = 0.80, 
+   <italic>p</italic> = 0.009 and 
+   <italic>r</italic> = 0.77, 
+   <italic>p</italic> = 0.01, respectively) and negatively with the proinflammatory cytokines RANTES (
+   <italic>r</italic> = − 0.79, 
+   <italic>p</italic> = 0.01) and IL-6 (
+   <italic>r</italic> = − 0.76, 
+   <italic>p</italic> = 0.02).
+  </p>
+ </sec>
+ <sec>
+  <title>Conclusion</title>
+  <p id="Par4">Results of the RECARDIO trial suggested safety and efficacy in terms of clinical and perfusion outcomes in patients with RA and LV dysfunction. The observed link between myocardial perfusion improvements and ATMP-CD133 secretome may represent a proof of concept for further mechanistic investigations.</p>
+ </sec>
+ <sec>
+  <title>Trial registration</title>
+  <p id="Par5">ClinicalTrials.gov, 
+   <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT02059681" xmlns:xlink="http://www.w3.org/1999/xlink">NCT02059681</ext-link>. Registered 11 February 2014.
+  </p>
+ </sec>
+</abstract>

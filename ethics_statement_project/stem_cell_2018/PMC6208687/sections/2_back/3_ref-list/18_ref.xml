@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bergin</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>McQuilten</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Moore</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Myeloma in the real world: what is really happening?</article-title>
+  <source>Clin Lymphoma Myeloma Leuk</source>
+  <year>2017</year>
+  <volume>17</volume>
+  <fpage>133</fpage>
+  <lpage>144.e1</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.clml.2016.12.002</pub-id>
+  <pub-id pub-id-type="pmid">28153487</pub-id>
+ </element-citation>
+</ref>

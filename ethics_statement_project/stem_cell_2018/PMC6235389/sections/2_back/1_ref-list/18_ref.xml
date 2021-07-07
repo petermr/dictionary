@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dings</surname>
+    <given-names>RP</given-names>
+   </name>
+   <name>
+    <surname>Loren</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Heun</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>McNiel</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Griffioen</surname>
+    <given-names>AW</given-names>
+   </name>
+   <name>
+    <surname>Mayo</surname>
+    <given-names>KH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Scheduling of radiation with angiogenesis inhibitors anginex and Avastin improves therapeutic outcome via vessel normalization</article-title>
+  <source>Clin Cancer Res</source>
+  <year>2007</year>
+  <volume>13</volume>
+  <issue>11</issue>
+  <fpage>3395</fpage>
+  <lpage>3402</lpage>
+  <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-06-2441</pub-id>
+  <pub-id pub-id-type="pmid">17545548</pub-id>
+ </element-citation>
+</ref>

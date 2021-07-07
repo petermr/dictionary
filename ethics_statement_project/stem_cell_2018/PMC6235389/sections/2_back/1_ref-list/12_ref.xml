@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Harris</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Garden</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Straube</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Glisson</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Xia</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Intensity-modulated radiation therapy with or without chemotherapy for nasopharyngeal carcinoma: radiation therapy oncology group phase II trial 0225</article-title>
+  <source>J Clin Oncol</source>
+  <year>2009</year>
+  <volume>27</volume>
+  <issue>22</issue>
+  <fpage>3684</fpage>
+  <lpage>3690</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2008.19.9109</pub-id>
+  <pub-id pub-id-type="pmid">19564532</pub-id>
+ </element-citation>
+</ref>

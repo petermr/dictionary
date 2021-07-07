@@ -1,0 +1,638 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Haematologica</journal-id><journal-id journal-id-type="iso-abbrev">Haematologica</journal-id><journal-id journal-id-type="hwp">haematol</journal-id><journal-id journal-id-type="publisher-id">Haematologica</journal-id><journal-title-group><journal-title>Haematologica</journal-title></journal-title-group><issn pub-type="ppub">0390-6078</issn><issn pub-type="epub">1592-8721</issn><publisher><publisher-name>Ferrata Storti Foundation</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6278989</article-id><article-id pub-id-type="pmid">29976742</article-id><article-id pub-id-type="doi">10.3324/haematol.2018.194571</article-id><article-id pub-id-type="publisher-id">1031806</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject><subj-group subj-group-type="heading"><subject>Bone Marrow Failure</subject></subj-group></subj-group></article-categories><title-group><article-title>Novel lineage depletion preserves autologous blood stem cells for
+gene therapy of Fanconi anemia complementation group A</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Adair</surname><given-names>Jennifer E.</given-names></name><xref ref-type="aff" rid="af1-1031806">1</xref><xref ref-type="aff" rid="af2-1031806">2</xref><xref ref-type="author-notes" rid="fn1-1031806">*</xref><xref ref-type="corresp" rid="c1-1031806"/></contrib><contrib contrib-type="author"><name><surname>Chandrasekaran</surname><given-names>Devikha</given-names></name><xref ref-type="aff" rid="af1-1031806">1</xref></contrib><contrib contrib-type="author"><name><surname>Sghia-Hughes</surname><given-names>Gabriella</given-names></name><xref ref-type="aff" rid="af1-1031806">1</xref></contrib><contrib contrib-type="author"><name><surname>Haworth</surname><given-names>Kevin G.</given-names></name><xref ref-type="aff" rid="af1-1031806">1</xref></contrib><contrib contrib-type="author"><name><surname>Woolfrey</surname><given-names>Ann E.</given-names></name><xref ref-type="aff" rid="af1-1031806">1</xref><xref ref-type="aff" rid="af2-1031806">2</xref></contrib><contrib contrib-type="author"><name><surname>Burroughs</surname><given-names>Lauri M.</given-names></name><xref ref-type="aff" rid="af1-1031806">1</xref><xref ref-type="aff" rid="af2-1031806">2</xref></contrib><contrib contrib-type="author"><name><surname>Choi</surname><given-names>Grace Y.</given-names></name><xref ref-type="aff" rid="af1-1031806">1</xref></contrib><contrib contrib-type="author"><name><surname>Becker</surname><given-names>Pamela S.</given-names></name><xref ref-type="aff" rid="af1-1031806">1</xref><xref ref-type="aff" rid="af2-1031806">2</xref></contrib><contrib contrib-type="author"><name><surname>Kiem</surname><given-names>Hans-Peter</given-names></name><xref ref-type="aff" rid="af1-1031806">1</xref><xref ref-type="aff" rid="af2-1031806">2</xref><xref ref-type="author-notes" rid="fn1-1031806">*</xref><xref ref-type="corresp" rid="c1-1031806"/></contrib></contrib-group><aff id="af1-1031806">
+<label>1</label>Fred Hutchinson Cancer Research Center</aff><aff id="af2-1031806">
+<label>2</label>University of Washington School of Medicine, Seattle, WA, USA</aff><author-notes><corresp id="c1-1031806"><bold>Correspondence:</bold><email>hkiem@fredhutch.org</email> or
+<email>jadair@fredhutch.org</email></corresp><fn id="fn1-1031806"><label>*</label><p>JEA and H-PK contributed equally to this work.</p></fn></author-notes><pub-date pub-type="ppub"><month>11</month><year>2018</year></pub-date><pub-date pub-type="epreprint"><day>05</day><month>7</month><year>2018</year></pub-date><volume>103</volume><issue>11</issue><fpage>1806</fpage><lpage>1814</lpage><history><date date-type="received"><day>06</day><month>4</month><year>2018</year></date><date date-type="accepted"><day>04</day><month>7</month><year>2018</year></date></history><permissions><copyright-statement>Copyright&#x000a9; 2018 Ferrata Storti
+Foundation</copyright-statement><copyright-year>2018</copyright-year><license license-type="open-access"><license-p>Material published in Haematologica is covered by copyright. All rights are
+reserved to the Ferrata Storti Foundation. Use of published material is
+allowed under the following terms and conditions:</license-p><license-p><ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/legalcode">https://creativecommons.org/licenses/by-nc/4.0/legalcode</ext-link>.
+Copies of published material are allowed for personal or internal use.
+Sharing published material for non-commercial purposes is subject to the
+following conditions:</license-p><license-p><ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/legalcode">https://creativecommons.org/licenses/by-nc/4.0/legalcode</ext-link>,
+sect. 3. Reproducing and sharing published material for commercial purposes
+is not allowed without permission in writing from the publisher.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="1031806.pdf"/><abstract><p>A hallmark of Fanconi anemia is accelerated decline in hematopoietic stem and
+progenitor cells (CD34 +) leading to bone marrow failure. Long-term treatment
+requires hematopoietic cell transplantation from an unaffected donor but is
+associated with potentially severe side-effects. Gene therapy to correct the
+genetic defect in the patient&#x02019;s own CD34<sup>+</sup> cells has been
+limited by low CD34<sup>+</sup> cell numbers and viability. Here we demonstrate
+an altered ratio of CD34<sup>Hi</sup> to CD34<sup>Lo</sup> cells in Fanconi
+patients relative to healthy donors, with exclusive <italic>in vitro</italic>
+repopulating ability in only CD34<sup>Hi</sup> cells, underscoring a need for
+novel strategies to preserve limited CD34<sup>+</sup> cells. To address this
+need, we developed a clinical protocol to deplete
+lineage<sup>+</sup>(CD3<sup>+</sup>, CD14<sup>+</sup>, CD16<sup>+</sup> and
+CD19<sup>+</sup>) cells from blood and marrow products. This process
+depletes &#x0003e;90% of lineage<sup>+</sup>cells while retaining
+&#x02265;60% of the initial CD34<sup>+</sup>cell fraction, reduces total
+nucleated cells by 1&#x02013;2 logs, and maintains transduction efficiency and
+cell viability following gene transfer. Importantly, transduced
+lineage<sup>&#x02212;</sup> cell products engrafted equivalently to that of
+purified CD34<sup>+</sup> cells from the same donor when xenotransplanted at
+matched CD34<sup>+</sup> cell doses. This novel selection strategy has been
+approved by the regulatory agencies in a gene therapy study for Fanconi anemia
+patients (<italic>NCI Clinical Trial Reporting Program Registry ID
+NCI-2011-00202; <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">clinicaltrials.gov</ext-link> identifier:
+01331018</italic>).</p></abstract></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Fanconi anemia (FA) is a rare monogenic disease with a wide array and variable
+presence of clinical symptoms, the hallmark of which is bone marrow (BM)
+failure.<sup><xref rid="b1-1031806" ref-type="bibr">1</xref></sup> The
+genetic basis of FA is a mutation in any one of 21 genes<sup><xref rid="b2-1031806" ref-type="bibr">2</xref></sup> whose protein components make up the
+FA/breast cancer pathway responsible for DNA repair of inter-strand crosslinks
+through nucleotide excision followed by homologous recombination. Resulting
+compromises in genetic integrity are associated with a nearly uniform decline in
+hematopoietic stem and progenitor cells (HSPCs), a 50% incidence of
+myelodysplastic syndrome or acute myeloid leukemia by adolescence, and a 25%
+lifetime incidence of head and neck squamous cell carcinoma or gynecological
+cancer.<sup><xref rid="b3-1031806" ref-type="bibr">3</xref></sup> In some
+patients, blood cell clones demonstrate spontaneous reversion to wild type (i.e.
+somatic mosaicism) leading to improved and stable blood cell counts for up to 27
+years.<sup><xref rid="b4-1031806" ref-type="bibr">4</xref>&#x02013;<xref rid="b6-1031806" ref-type="bibr">6</xref></sup> Thus, correction of the FA
+hematopoietic defect could significantly alter the disease&#x02019;s clinical
+course, and this has driven decades of research in HSPC gene therapy for FA.</p><p>While FA was recognized as an early candidate disorder for gene therapy, several
+obstacles have been identified that have delayed clinical success.<sup><xref rid="b3-1031806" ref-type="bibr">3</xref></sup> Initial clinical trials
+demonstrated a dramatic approximately 50-fold reduction in the number of true HSPCs
+in FA patients relative to other gene therapy patients, such as those treated for
+primary immune deficiencies.<sup><xref rid="b7-1031806" ref-type="bibr">7</xref></sup> Moreover, FA HSPCs were exceptionally fragile when manipulated
+<italic>ex vivo</italic> for gene transfer. No treated patient has demonstrated
+stable improvements in blood cell counts with long-term persistence of
+gene-corrected blood cells. These studies highlighted two needs for innovation in
+<italic>FA</italic> gene therapy: 1) to increase the number of available HSPCs
+for gene transfer and infusion; and 2) to increase the engraftment potential of
+these cells after gene transfer and infusion. Following the recommendations of the
+International FA Gene Therapy Working Group,<sup><xref rid="b8-1031806" ref-type="bibr">8</xref></sup> we launched a phase I clinical trial of gene
+therapy for FA complementation group A (FA-A) patients in 2011 (<italic><ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">clinicaltrials.gov</ext-link> identifier: 01331018</italic>). This trial
+design incorporates several features aiming to improve HSPC numbers and fitness.
+These include: i) a self-inactivating (SIN) lentiviral vector (LV) for transfer of
+the <italic>FANCA</italic> cDNA regulated by a human phosphoglycerate kinase (hPGK)
+promoter; ii) a short, overnight transduction to minimize <italic>ex vivo</italic>
+manipulation, as well as addition of the antioxidant N-acetylcysteine (NAC)
+throughout manipulation; and iii) culture under reduced oxygen (5%) to limit
+oxidative DNA damage.<sup><xref rid="b9-1031806" ref-type="bibr">9</xref></sup></p><p>The target HSPC population for gene transfer expresses the CD34 cell surface protein
+(CD34<sup>+</sup>). When stained with fluorophore-conjugated antibody against
+CD34 and analyzed by flow cytometry, a small proportion of BM cells are
+CD34<sup>+</sup>, representing both primitive stem cells and more committed
+progenitors.<sup><xref rid="b10-1031806" ref-type="bibr">10</xref></sup> The
+standard clinical procedure for isolating these cells first involves either BM
+collection or mobilization of the cells into circulation through cytokine
+stimulation with granulocyte colony stimulating factor (G-CSF) or, in certain
+clinical scenarios, a combination of G-CSF and the chemokine receptor CXCR4
+antagonist plerixafor, followed by peripheral blood leukapheresis (mAPH). Initial
+isolation technologies relied on CD34 antigen expression on the cell surface and
+utilized biotinavidin affinity, panning, or immununomagnetic bead-based approaches.
+Expected yields were 50% of available CD34<sup>+</sup> cells with highly
+variable purities, ranging from 20&#x02013;90% across techniques.<sup><xref rid="b11-1031806" ref-type="bibr">11</xref></sup> Of these, immunomagnetic
+bead-based positive selection is the most widely-applied today, with the first US
+Food and Drug Administration (FDA) approval of a clinical device for human use in
+2014. Advances in this technology to include automation have improved reliability in
+recovery to a mean yield of 70% with purities regularly over
+90%.<sup><xref rid="b12-1031806" ref-type="bibr">12</xref>,<xref rid="b13-1031806" ref-type="bibr">13</xref></sup> However, these values are
+based on BM and mAPH products wherein 1&#x02013;3% of total cells express
+CD34 antigen, and the majority of these cells display high levels of CD34. For FA
+patients, the frequency of CD34<sup>+</sup> cells is much lower:
+0.1&#x02013;1.5% in BM.<sup><xref rid="b14-1031806" ref-type="bibr">14</xref>,<xref rid="b15-1031806" ref-type="bibr">15</xref></sup> This
+implies that non-standard processes may be required to preserve the limited numbers
+of HSPCs for gene transfer in FA.</p><p>Here we report HSPC collection results for the first 3 patients treated on our study.
+Initially, this protocol proposed direct isolation of CD34<sup>+</sup> cells from BM
+without prior attempts at mobilization. The addition of a mobilization regimen with
+subsequent leukapheresis collections has permitted the evaluation of CD34 expression
+patterns in both product types and provided evidence for the need for alternative
+HSPC isolation strategies.</p></sec><sec sec-type="methods"><title>Methods</title><sec><title>Patient selection</title><p>This study was approved by an Institutional Review Board at Fred Hutchinson
+Cancer Research Center (Fred Hutch) in accordance with the Declaration of
+Helsinki and the FDA, and conformed to the National Institutes of Health
+Guidelines for Research Involving Recombinant DNA Molecules. Informed consent
+was obtained from all patients or guardians. FA patients aged 4 years or over
+were diagnosed by a positive test for increased sensitivity to chromosomal
+breakage with mitomycin C (MMC) or diepoxybutane. Correction of melphalan
+hypersensitivity following retroviral transduction of the FANCA cDNA identified
+Patient 3 as belonging to the FA-A complementation group. (<italic>Online
+Supplementary Table S1</italic>). FA-A patients who demonstrated normal
+karyotype in BM analyses as defined in the trial were considered eligible for
+the study. Characteristics of enrolled patients are available in <xref rid="t1-1031806" ref-type="table">Table 1</xref>.</p><table-wrap id="t1-1031806" position="float"><label>Table 1.</label><caption><p>Clinical characteristics of 3 patients with Fanconi Anemia A genetic
+defect enrolled in clinical trial NCT01331018.</p></caption><graphic xlink:href="1031806.tab1"/></table-wrap></sec><sec><title>Lentiviral vectors</title><p>All SIN lentiviral (LV) vectors were produced with a third-generation split
+packaging system and pseudotyped with vesicular stomatitis virus glycoprotein.
+LV used to transduce healthy donor cells encoded either an enhanced green
+fluorescent protein (eGFP) transgene (pRSC-PGK.eGFP-sW) or the full-length
+<italic>FANCA</italic> cDNA (pRSC-PGK.FANCA-sW), both regulated by an hPGK
+promoter. Research-grade vectors were produced by the Fred Hutch Vector
+Production Core (Principal Investigator: HPK). Clinical-grade LV (pRSC-PGK.
+<italic>FANCA</italic>-sW), was produced by the Indiana University Vector
+Production Facility (IUVPF, IN, USA) using a large-scale, validated process
+following Good Manufacturing Practices standards under an approved Drug Master
+File held by IUVPF. Infectious titer was determined by serial transduction of
+HT1080 human fibrosarcoma-derived cells and evaluated either by flow cytometry
+for eGFP expression or by quantitative polymerase chain reaction (qPCR).</p></sec><sec sec-type="methods"><title>Study design and HSPC isolation</title><p>Patients underwent either BM harvest with a target collection goal of 15 cc/kg
+body weight or were administered daily G-CSF (filgrastim; 16 &#x003bc;g/kg BID;
+days 1&#x02013;6) and plerixafor (240 &#x003bc;g/kg/day; days 4&#x02013;6)
+subcutaneously to mobilize CD34<sup>+</sup> cells. Mobilized patients were
+subjected to large volume leukapheresis when circulating CD34<sup>+</sup> blood
+cell counts were &#x02265;5 cells/ &#x003bc;L. Healthy donor blood products were
+purchased from a commercial source (BM products; StemExpress, Folsom, CA, USA)
+or institutional shared resources (mAPH products). Immunomagnetic beads were
+from Miltenyi Biotech, GmbH (Auburn, CA, USA). For BM products, RBC were
+debulked by hetastarch sedimentation prior to labeling on a CliniMACS
+Prodigy&#x02122; device (Miltenyi Biotec GmbH, Germany). For mAPH products, an
+initial platelet wash was performed prior to labeling. Custom programming for
+lineage depletion was designed and executed on the CliniMACS Prodigy&#x02122;
+device (Miltenyi Biotec, GmbH). Complete processing methods are included in the
+<italic>Online Supplementary Materials and Methods</italic>.</p></sec><sec><title>Transduction</title><p>CD34-enriched cells were cultured on RetroNectin&#x02122; (Takara Bio, Mountain
+View, CA, USA)-coated culture flasks at a density of 1&#x000d7;10<sup>6</sup>
+cells/mL and 2.9&#x000d7;10<sup>5</sup> cells/cm<sup>2</sup> in
+StemSpan&#x02122; ACF media (StemCell Technologies, Vancouver, BC, Canada),
+supplemented with 4 &#x003bc;g/mL of protamine sulfate (American Pharmaceutical
+Partners; APP, East Shaumburg, IL, USA), 100 ng/mL each of recombinant human
+stem cell factor (rhSCF), thrombopoietin (rhTPO) and Flt-3 ligand (rhFLT3L) (all
+from CellGenix GmbH, Freiburg, Germany), and 1 mM NAC (Cumberland
+Pharmaceuticals, Nashville, TN, USA). Cells were immediately transduced at a
+multiplicity of infection (MOI) of 5&#x02013;10 infectious units (IU)/cell.
+Following 12&#x02013;24 hours of incubation at 37&#x000b0;C, 5%
+CO<sub>2</sub> and 5% O<sub>2</sub>, cells were harvested for
+infusion and/or analyses.</p></sec><sec><title>Transplantation in NSG mice</title><p>All animal work was performed under protocol 1864 approved by the Fred Hutch
+Institutional Animal Care and Use Committee.
+NOD.Cg-PrkdcscidIL2r&#x003b3;tmlWj/Szj (NOD/SCID/IL2r&#x003b3;<sup>null</sup>,
+NSG) mice were housed at Fred Hutch in pathogen-free conditions approved by the
+American Association for Accreditation of Laboratory Animal Care.
+8&#x02013;12-week old mice received 275 cGy total body irradiation (TBI) from a
+Cesium source. Four hours after TBI, 1&#x000d7;10<sup>6</sup> gene-modified
+total nucleated cells (TNCs) re-suspended in 200 &#x003bc;L phosphate buffered
+saline (D-PBS, Life Technologies Corporation, Grand Island, NY, USA) containing
+1% heparin (APP) were infused <italic>via</italic> tail vein. Blood
+samples were collected into ethylenediaminetetraacetic acid (EDTA) Microtainers
+(BD Bioscience, San Jose, CA, USA) by retro-orbital puncture and diluted 1:1
+with PBS prior to analysis. At necropsy, spleen and BM were collected. Tissues
+were filtered through 70 &#x003bc;m mesh (BD Bioscience) and washed with
+Dulbecco&#x02019;s PBS (D-PBS).</p></sec><sec><title>Colony-forming cell assays</title><p>Transduced cell products were seeded in standard CFC assays in methylcellulose
+media (H4230, Stem Cell Technologies) as previously described<sup><xref rid="b16-1031806" ref-type="bibr">16</xref></sup> with the following
+exceptions: to assess FANCA gene function, MMC (Sigma Aldrich, St. Louis, MO,
+USA) was added at concentrations of 0 nM, 5 nM, 10 nM, or 20 nM. Complete colony
+DNA extraction and PCR methods are included in the <italic>Online Supplementary
+Materials and Methods</italic>.</p></sec><sec><title>Quantitative real-time PCR-based measurement of vector copy number</title><p>Vector copy number (VCN) per genome equivalent was assessed by TaqMan 5&#x02019;
+nuclease quantitative real-time PCR assay in duplicate reactions with an
+LV-specific primer/probe combination [forward,
+5&#x02019;-TGAAAGCGAAAGGGAAACCA; reverse, 5&#x02019;-CCGTGCGCGCTTCAG; probe,
+5&#x02019;-AGCTCTCTC-GACGCAGGACTCGGC (Integrated DNA Technologies; IDT,
+Coralville, IA, USA)] and in a separate reaction with a
+&#x003b2;-globin-specific primer/probe combination [forward,
+5&#x02019;-CCTATCA-GAAAGTGGTGGCTGG; reverse,
+5&#x02019;-TTGGACAGCAA-GAAAGTGAGCTT; probe,
+5&#x02019;-TGGCTAATGCCCTGGCCCA-CAAGTA (IDT)]. Two standard curves were
+established by serial dilution of gDNA isolated from a human cell line (HT1080)
+confirmed to contain a single integrant of the same LV backbone and from
+peripheral leukocytes collected from a healthy donor using both primer-probe
+sets independently.</p><p>Individual colony gDNA samples were subjected to multiplex real-time TaqMan qPCR
+to amplify the LV-specific product and an endogenous control (TaqMan Copy Number
+Reference assay RNaseP, Thermo Fisher Scientific, Pittsburgh, PA, USA). Samples
+with an average VCN &#x02265;0.5 were considered transduced.</p></sec><sec sec-type="methods"><title>Flow cytometry analysis of hematopoietic subsets</title><p>Stained cells were acquired on a FACSCanto&#x02122; II, FACSAria&#x02122; II or
+FACS LSR II (all from BD Bioscience) and analyzed using FlowJo software v.10.0.8
+(Tree Star Inc., Ashland, OR, USA). Analysis was performed on up to 20,000
+cells. Gates were established using Full Minus One stained controls.</p><p>Antibodies included anti-human CD34 (clone 563), CD16 (clone 3G8), CD3 (clone
+UCHT1), CD4 (clone L200), CD8 (clone RPA-T8), all from BD Biosciences; CD14
+(clone 61D3, Thermo Fisher Scientific, Pittsburgh, PA, USA); CD19 (clone 4G7, BD
+Pharmingen, San Diego, CA, USA); CD90 (clone 5E10), CD20 (clone 2H7), CD15
+(clone W6D3), all from Biolegend (San Diego, CA, USA); CD133 (clone 293C3,
+Miltenyi Biotec, GmbH); CD45 (clone D058-1283) and CD45RA (clone 5H9), both from
+BD Horizon (San Jose, CA, USA).</p><p>For mouse samples, antibodies were anti-mouse CD45-V500 (561487, clone 30-F11),
+anti-human CD45-PerCP (347464, clone 2D1), CD3-FITC (555332, clone UCHT1),
+CD4-V450 (560345, clone RPA-T4), CD8-APCCy7 (557834, clone SK1), CD20-PE
+(555623, clone 2H7), and CD14-APC (555824, clone 581), all from BD
+Biosciences.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Diminished CD34<sup>Hi</sup> expressing cells in FA-A BM and mAPH</title><p>Two enrolled patients underwent BM harvest to collect available CD34<sup>+</sup>
+HSPCs (Patients 1 and 2). The third patient underwent mobilization with
+filgrastim and plerixafor followed by peripheral blood leukapheresis (Patient
+3). All 3 patients demonstrated reduced CD34 expression and estimated numbers of
+CD34<sup>+</sup> cells in screening BM aspirate samples prior to collection
+and treatment, relative to healthy donor BM products, as well as in cell
+products collected for CD34<sup>+</sup> cell isolation and gene transfer (<xref ref-type="fig" rid="f1-1031806">Figure 1</xref>). Two levels of CD34
+expression were observed, CD34<sup>Lo</sup> [mean fluorescence intensity
+(MFI)=3453&#x000b1;516], and CD34<sup>Hi</sup> (MFI=19731&#x000b1;4103).
+Notably, the proportion of CD34<sup>Hi</sup> cells were markedly reduced in FA-A
+patients relative to those observed in healthy donors (<xref ref-type="fig" rid="f1-1031806">Figure 1</xref>).</p><fig id="f1-1031806" position="float"><label>Figure 1.</label><caption><p>Diminished CD34<sup>Hi</sup> hematopoietic cells from Fanconi Anemia A
+genetic defect (FA-A) patients. CD34 expression in baseline bone marrow
+(BM) (Patients 1, 2, 3, and healthy donor 1) or mobilized leukapheresis
+(mAPH) (Patient 3 and healthy donor 2) products was determined by
+fluorescence staining and flow cytometry analysis. Positive cell
+fractions are gated based on unstained and isotype stained control
+samples into two levels of CD34 expression: low expression,
+CD34<sup>Lo</sup>, or high expression, CD34<sup>Hi</sup>. The
+average mean fluorescence intensity (MFI) of CD34<sup>Lo</sup>
+population = 3453; standard error of the mean (SEM) = 516 and
+CD34<sup>Hi</sup> population = 19731; SEM = 4103.</p></caption><graphic xlink:href="1031806.fig1"/></fig></sec><sec><title>FA-A CD34<sup>Hi</sup> cells, but not CD34<sup>Lo</sup> cells, demonstrate
+<italic>in vitro</italic> repopulating capacity</title><p>To determine which CD34<sup>+</sup> cells demonstrated repopulation potential, we
+used colony-forming cell (CFC) potential as a surrogate. This required
+sufficient blood product to flow-sort CD34<sup>Lo</sup> and CD34<sup>Hi</sup>
+cells for <italic>in vitro</italic> assays. Only the mAPH product collected from
+Patient 3 was sufficient for this study. For direct comparison, we sort-purified
+CD34<sup>Lo</sup> and CD34<sup>Hi</sup> cells from a healthy donor mAPH
+product. Only CD34<sup>Hi</sup> cells from the FA-A patient demonstrated
+colony-forming potential (<xref ref-type="fig" rid="f2-1031806">Figure
+2A</xref>). In the healthy donor, CD34<sup>Hi</sup> cells also demonstrated the
+majority of CFC capacity in comparison with CD34<sup>Lo</sup> cells, and at much
+higher levels as compared to the FA-A patient (<xref ref-type="fig" rid="f2-1031806">Figure 2B</xref>). These data suggest repopulating capacity
+is restricted to CD34<sup>Hi</sup> cell fractions, underscoring the need to
+preserve as many of these cells as possible for gene transfer processes.</p><fig id="f2-1031806" position="float"><label>Figure 2.</label><caption><p><italic>In vitro</italic> repopulation potential restricted to
+CD34<sup>Hi</sup> hematopoietic cells. Mobilized leukapheresis from
+FA-A Patient 3 (Panel A) and a healthy donor (Panel B) were in parallel
+fluorescence stained with anti-CD34 antibody and sort-purified for
+CD34<sup>Hi</sup> and CD34<sup>Lo</sup> cells. Total nucleated cells
+(TNC) equivalent to 1500 CD34-expressing cells were seeded in CFC
+assays. Percentage of CD34<sup>+</sup> cells seeded in the assay that
+gave rise to colonies is represented as the % of colony-forming
+cells.</p></caption><graphic xlink:href="1031806.fig2"/></fig></sec><sec><title>Extensive loss of FA-A CD34<sup>Hi</sup> cells with direct clinical
+purification protocols</title><p>The current clinical standard for CD34<sup>+</sup> cell enrichment is optimized
+for collection of CD34<sup>Hi</sup> cells. However, in Patient 1, direct
+enrichment of CD34<sup>+</sup> cells using this protocol was inefficient,
+resulting in an approximately 3% yield and only
+5.34&#x000d7;10<sup>6</sup> total CD34<sup>+</sup> cells available for gene
+transfer (<xref rid="t2-1031806" ref-type="table">Table 2</xref>). Moreover, the
+purity of the enriched cell product was only 58.9%, and approximately
+47% loss in viable cells was observed during culture and gene transfer.
+Resulting gene-modified cells retained colony-forming capacity and demonstrated
+acquired resistance to the potent DNA crosslinking agent MMC following
+LV-mediated FANCA gene transfer (<xref rid="t3-1031806" ref-type="table">Table
+3</xref>).</p><table-wrap id="t2-1031806" position="float"><label>Table 2.</label><caption><p>Isolation and lentiviral vector transduction of autologous Fanconi Anemia
+A genetic defect HSPC.</p></caption><graphic xlink:href="1031806.tab2"/></table-wrap><table-wrap id="t3-1031806" position="float"><label>Table 3.</label><caption><p>Transduction efficiency</p></caption><graphic xlink:href="1031806.tab3"/></table-wrap><p>In Patient 2, estimated losses during direct CD34 enrichment and gene transfer
+were expected to reduce the cell product available for transduction to a level
+lower than observed for Patient 1. Thus, an urgent amendment was filed with the
+FDA to permit elimination of the direct CD34 enrichment steps and allow
+transduction of the entire red blood cell (RBC)-depleted BM product. This
+processing change preserved more CD34<sup>+</sup> cells (<xref rid="t2-1031806" ref-type="table">Table 2</xref>), with improved transduction and viability
+(<xref rid="t3-1031806" ref-type="table">Table 3</xref>). Together, these
+data suggested that minimal manipulation of target CD34<sup>+</sup> cells from
+FA-A patients could improve yield, gene transfer efficiency, and function
+<italic>in vivo</italic>.</p></sec><sec><title>Development of a novel strategy to deplete lineage<sup>+</sup> cells</title><p>We hypothesized that depleting non-target mature B cells, T cells, monocytes, and
+granulocytes would retain precious CD34<sup>+</sup> cells with minimal
+manipulation, since CD34-expressing cells would not be directly labeled,
+selected, or washed (<xref ref-type="fig" rid="f3-1031806">Figure 3</xref>).
+Building on our previous work automating cell selection and gene transfer using
+the CliniMACS Prodigy&#x02122; device,<sup><xref rid="b17-1031806" ref-type="bibr">17</xref></sup> we designed a customized, automated
+RBC debulking and immunomagnetic bead-based lineage specific depletion strategy
+(<italic>Online Supplementary Materials and Methods</italic>). Four
+different bead-conjugated antibody reagents were used in this approach: anti-CD3
+(T-cell removal), anti-CD14 (monocyte removal), anti-CD16 (granulocyte and
+NK-cell removal), and anti-CD19 (B-cell removal). This protocol was designed for
+both BM and mAPH products.</p><fig id="f3-1031806" position="float"><label>Figure 3.</label><caption><p>Direct CD34 enrichment <italic>versus</italic> depletion of lineage
+positive (+) cells. Products can include bone marrow (BM) or mobilized
+apheresis product (mAPH) (1). BM products were first processed through
+hetastarch sedimentation to deplete red blood cells (RBCs).
+Leukapheresis products were first subjected to several washes to deplete
+platelets. For direct CD34<sup>+</sup> cell selection, anti-CD34
+antibody-bound immunomagnetic beads (microbeads) are used, whereas for
+lineage depletion anti-CD3<sup>+</sup>, CD14<sup>+</sup>,
+CD16<sup>+</sup>, and CD19<sup>+</sup>, microbeads are used (2). In
+both cases, microbead-bound cells are retained on the column and
+subjected to wash steps. When lineage depletion is used, CD34-expressing
+cells undergo minimal manipulation during purification. Following
+purification, cells are cultured and transduced with a VSV-G pseudotyped
+lentiviral vector at a multiplicity of infection (MOI) of 5&#x02013;10
+IU/ cell (3). Following ~16 hours of incubation cells are harvested (4).
+<sup>*</sup>These processes were performed on the CliniMACS
+Prodigy&#x02122; device from Miltenyi Biotec GmbH.</p></caption><graphic xlink:href="1031806.fig3"/></fig></sec><sec><title>Lineage depletion preserves available CD34<sup>+</sup> cells for gene
+transfer</title><p>A total of nine BM and ten mAPH products were processed to establish process
+validity. An average 60% of BM CD45<sup>+</sup> cells and 50% of
+mAPH CD45<sup>+</sup> cells expressed one of the four target markers (CD3, CD14,
+CD16, or CD19) (<italic>Online Supplementary Figure S1A</italic> and
+<italic>B</italic>, respectively). CD34<sup>+</sup> cell content in these
+products ranged from 0.35-1.4% in BM and 0.06-0.9% in mAPH
+products. The average process run time for BM products was ten hours, whereas
+mAPH products were processed over 13 hours. Observed total nucleated cell (TNC)
+reduction was approximately 1 log for both BM and mAPH products following
+lineage depletion (<xref ref-type="fig" rid="f4-1031806">Figure 4A</xref>). All
+target lineage<sup>+</sup> cells were depleted to less than 10% of
+initial numbers, and CD34<sup>+</sup> cells were retained at
+94.62&#x000b1;4.61% for BM products and 70.69&#x000b1;11.4% for
+mAPH products (<xref ref-type="fig" rid="f4-1031806">Figure 4B</xref>).
+Retention of available CD34<sup>Hi</sup> and CD34<sup>Lo</sup> cells was
+observed and comparable or superior to that observed for the same products by
+direct CD34-enrichment (<italic>Online Supplementary Figure S2</italic>).
+Approximately 24% of BM CD34<sup>+</sup> cells were colony-forming in a
+standard methylcellulose assay, while 51% of mAPH CD34<sup>+</sup> cells
+formed colonies (<xref ref-type="fig" rid="f4-1031806">Figure 4C</xref> and
+<italic>Online Supplementary Figure S3</italic>). However, following LV
+transduction of these cells using the same protocol proposed for FA-A patient
+cells, we observed consistent 50% rates of gene transfer into CFCs from
+both cell product types (<xref ref-type="fig" rid="f4-1031806">Figure
+4D</xref>). Analysis of single colonies demonstrated an average VCN per CFC of
+0.7 for BM CD34<sup>+</sup> cells and 1.6 for mAPH CD34<sup>+</sup> cells. VCN
+was also assessed in bulk transduced cells cultured for ten days <italic>in
+vitro</italic>, demonstrating an average value of 5 for both BM and mAPH
+products (<xref ref-type="fig" rid="f4-1031806">Figure 4E</xref>). Final cell
+products tested for mycoplasma and sterility were negative, and endotoxin
+testing demonstrated values within criteria for patient infusion.
+Lineage-depleted and transduced cells from six mAPH and BM products each were
+infused into immunodeficient (NSG) mice at a target cell dose of
+1&#x000d7;10<sup>6</sup> TNC per mouse. On average, the CD34<sup>+</sup>
+cell dose per mouse for BM products was 2.86&#x000d7;10<sup>4</sup>
+CD34<sup>+</sup> cells [standard error of the mean
+(SEM)=6.67&#x000d7;10<sup>3</sup>] and for mAPH products was
+1.08&#x000d7;10<sup>5</sup> CD34<sup>+</sup> cells
+(SEM=1.45&#x000d7;10<sup>4</sup>). Flow cytometry analysis on peripheral
+blood was used to evaluate engraftment (human CD45<sup>+</sup>) and lineage
+development into T cells (human CD3<sup>+</sup>), B cells (human
+CD20<sup>+</sup>), and monocytes (human CD14<sup>+</sup>) over time (<xref ref-type="fig" rid="f4-1031806">Figure 4F</xref>). Both mAPH and BM products
+demonstrated long-term engraftment over 20 weeks of monitoring. Engraftment
+levels were comparable to results reported by Wiekmeijer <italic>et al</italic>.
+with CD34<sup>+</sup> cells purified from BM and infused at similar cell
+doses.<sup><xref rid="b18-1031806" ref-type="bibr">18</xref></sup></p><fig id="f4-1031806" position="float"><label>Figure 4.</label><caption><p>Multi-lineage engraftment of lineage depleted and transduced bone marrow
+(BM) and mobilized apheresis products (mAPH) in NSG mice. Recovery of
+total nucleated cells (TNC), CD34<sup>+</sup> cells and lineage positive
+(+) cells (A and B). (C-E) Gene transfer efficiency. The colony-forming
+potential of transduced cells in standard CFC assays is defined as the
+plating efficiency (TNC). The colony-forming potential normalized to the
+number of CD34<sup>+</sup> cells seeded is depicted as plating
+efficiency (CD34<sup>+</sup>). The percentage of colonies analyzed
+positive for the presence of lentivirus (LV) backbone by PCR analysis on
+DNA extracted from individual colonies is depicted as transduction
+efficiency. The vector copy number per cell in the bulk transduced
+population is depicted as VCN. The average VCN per cell in the
+individual CFC is depicted as single colony VCN. Data are representative
+of the average of 9 healthy BM products and 10 healthy mAPH products.
+Error bars represent the standard error of the mean. (F) Engraftment of
+human CD45<sup>+</sup> cells and lineage development into T cells
+(CD3<sup>+</sup>), monocytes (CD14<sup>+</sup>) and B cells
+(CD20<sup>+</sup>) was determined by flow cytometry over 20 weeks
+following infusion of lineage-depleted cell products. Data are
+representative of 36 mice from 6 mAPH donors and 42 mice from 6 BM
+donors, respectively. Error bars represent the Standard Error of the
+Mean.</p></caption><graphic xlink:href="1031806.fig4"/></fig></sec><sec><title>Lineage-depleted cell products xenoengraft equivalently to CD34-enriched
+products</title><p>In this experiment, healthy donor BM products were divided into two aliquots. One
+was lineage-depleted and the other CD34-enriched. Resulting cell populations
+were transduced with the same LV vector under identical conditions and infused
+into NSG mice at matched CD34<sup>+</sup> cell doses. We observed higher
+CD34<sup>+</sup> cell retention with lineage depletion compared to CD34
+selection, with no differences in transduction efficiency or colony-forming
+potential (<xref ref-type="fig" rid="f5-1031806">Figure 5A and B</xref>). We
+observed slightly higher, but not significantly different, levels of human
+CD45<sup>+</sup> blood cell engraftment in mice receiving transduced,
+lineage-depleted cells relative to mice receiving CD34-selected cells. We also
+observed more stability of T-and B-cell engraftment in mice receiving
+lineage-depleted cell products relative to mice receiving CD34-selected cell
+products (<xref ref-type="fig" rid="f5-1031806">Figure 5C</xref>).</p><fig id="f5-1031806" position="float"><label>Figure 5.</label><caption><p>Multi-lineage engraftment levels of lineage-depleted cell products in NSG
+(NOD/SCID/IL2rg<sup>null</sup>) mice is comparable to CD34-enriched
+cell products from the same donor. (A) Graph depicts percent recovery of
+total nucleated cells (TNC) and CD34<sup>+</sup> cells from each arm
+following depletion or enrichment. (B) Numbers of total and transduced
+colony-forming cells (CFC) normalized to 1&#x000d7;10<sup>8</sup> cells
+processed to each arm, and vector copy number (VCN) in the bulk
+transduced cells following ten days of culture. Data are representative
+of 2 healthy donor bone marrow products. Error bars represent the
+Standard Error of the Mean. (C) Engraftment of human CD45<sup>+</sup>
+cells and lineage development into T cells (CD3<sup>+</sup>), monocytes
+(CD14<sup>+</sup>) and B cells (CD20<sup>+</sup>) was determined by
+flow cytometry over 26 weeks following infusion. Data are representative
+of 9 mice for the lineage depleted (Lin-) arm and 6 mice for the CD34
+enriched (CD34) arm, respectively.</p></caption><graphic xlink:href="1031806.fig5"/></fig></sec><sec><title>Lineage depletion protocol preserves limited FA CD34<sup>Hi</sup>
+cells</title><p>These data collectively suggest that lineage-specific depletion preserved
+available CD34<sup>+</sup> cells without compromising transduction efficiency or
+cell fitness. Under FDA approval, the clinical protocol was modified to include
+both BM and/or mAPH products, with lineage depletion as the method of
+CD34<sup>+</sup> cell enrichment. Patient 3 (the first treated under the
+modified protocol) was a 5-year old male with FA-A confirmed by complementation
+studies. Baseline neutrophils averaged 1.7&#x000d7;10<sup>9</sup>/L and baseline
+platelets averaged 32&#x000d7;10<sup>9</sup>/L in the six months prior to
+treatment, with declining neutrophils and platelets over the prior 2-year
+interval (<italic>Online Supplementary Figure S4</italic>). Mobilization of
+&#x02265;10 CD34<sup>+</sup> cells/ &#x003bc;L peripheral blood was achieved
+(<italic>Online Supplementary Figure S5A</italic>), and two successive
+apheresis collections resulted in 8.5&#x000d7;10<sup>10</sup> TNC containing a
+total 1.6&#x000d7;10<sup>8</sup> CD34<sup>+</sup> cells (<xref rid="t2-1031806" ref-type="table">Table 2</xref>). The patient required a total of two
+platelet transfusions and two packed red blood cell transfusions during
+mobilization and leukapheresis (<italic>Online Supplementary Figure
+S5B</italic>). Due to column limitations, 5&#x000d7;10<sup>10</sup> TNC
+(equivalent to 9.5&#x000d7;10<sup>7</sup> total CD34<sup>+</sup> cells) were
+subjected to lineage depletion, and the remainder were cryopreserved. Lineage
+depletion resulted in a 94% reduction in TNC and a 56% retention
+of available CD34<sup>+</sup> cells. CD34 purity was 1.6%, representing
+a 1&#x02013;2 log-fold increase in the total number of CD34<sup>+</sup> cells
+per kg available for transduction and infusion relative to Patients 1 and 2
+(<xref rid="t2-1031806" ref-type="table">Table 2</xref>). A total of
+52.8&#x000d7;10<sup>6</sup> CD34<sup>+</sup> cells were transduced at an MOI
+of 5 IU/cell, resulting in a final cell dose of 2.4&#x000d7;10<sup>6</sup> total
+CD34<sup>+</sup> cells per kg with 99.3% viability based on trypan
+blue dye exclusion. Approximately 26% of CFCs in this cell product were
+transduced, displaying a mean VCN of approximately 1 (0.9) (<xref rid="t3-1031806" ref-type="table">Table 3</xref>). Thus, limited numbers of
+available CD34<sup>+</sup> cells were indirectly enriched using lineage
+depletion on a blood product from an FA-A patient without compromising
+transduction efficiency.</p></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>Here we confirm prior reports of inefficient CD34<sup>+</sup> cell enrichment from FA
+patient blood products by direct, immunomagnetic bead-based separation, which is the
+current standard protocol for isolating HSPCs.<sup><xref rid="b15-1031806" ref-type="bibr">15</xref>,<xref rid="b19-1031806" ref-type="bibr">19</xref>&#x02013;<xref rid="b21-1031806" ref-type="bibr">21</xref></sup>
+We also demonstrate substantially reduced levels of CD34<sup>Hi</sup> cells in FA
+patients relative to healthy donors, which likely contributes to poor positive
+selection results in blood products from FA patients. Colony seeding assays
+demonstrate that only CD34<sup>Hi</sup> cells contribute to <italic>in
+vitro</italic> colony-forming potential in both FA and healthy donor blood
+products, underscoring the need to preserve as many available CD34<sup>+</sup> cells
+as possible during <italic>ex vivo</italic> manipulation for gene transfer. We
+demonstrate a clinically viable procedure for depleting lineage positive cells to
+indirectly enrich for CD34<sup>+</sup> cells that preserves the limited numbers of
+these cells in FA-A patients without compromising viability, gene transfer, or
+engraftment potential.</p><p>Importantly, the phenotype of limiting CD34<sup>+</sup> cell numbers is not
+restricted to FA alone. Sickle cell disease (SCD) patients treated with hydroxyurea
+also display reduced CD34<sup>+</sup> cell frequencies in BM, and there is a
+contraindication to mobilization of available CD34<sup>+</sup> cells owing to an
+increased risk of vaso-occlusive crisis.<sup><xref rid="b22-1031806" ref-type="bibr">22</xref></sup> Other inherited BM failure syndromes such as dyskeratosis
+congenita also are associated with abnormal CD34<sup>+</sup> cell frequencies and
+behavior.<sup><xref rid="b23-1031806" ref-type="bibr">23</xref></sup> As a
+larger number of disease targets become relevant for gene therapy, additional
+patient populations will likely display variable CD34<sup>+</sup> cell frequency and
+antigen expression. These disease targets could also benefit from clinically viable
+alternative selection procedures such as we have developed here.</p><p>Our observation of CFC potential in only the CD34<sup>Hi</sup> fraction in both FA
+and healthy samples suggests that CD34<sup>Lo</sup> cells may not be contributing to
+hematopoietic reconstitution. Notably, our data are from mAPH samples not BM, and we
+will need more patients for confirmation. Additionally, the standard colony-forming
+assay best defines progenitor cells, more so than true long-term repopulating
+hematopoietic stem cells.<sup><xref rid="b24-1031806" ref-type="bibr">24</xref></sup> Alternatively, xenotransplant of purified cells into
+immunodeficient mice could provide the most robust evidence for CD34<sup>+</sup>
+cell function <italic>in vivo</italic>, but the very small numbers of these cells
+may prove problematic to achieving relevant cell doses needed for these experiments.
+Another <italic>in vitro</italic> assay, such as the long-term culture-initiating
+cell assay,<sup><xref rid="b25-1031806" ref-type="bibr">25</xref></sup> may provide
+additional insight into the desired target CD34<sup>+</sup> subpopulations for gene
+therapy if they are present in either the CD34<sup>Hi</sup> or CD34<sup>Lo</sup>
+populations in FA patients. In this regard, we recently demonstrated that the
+CD34<sup>Hi</sup>CD45RA<sup>&#x02212;</sup>CD90<sup>+</sup> phenotype is
+responsible for hematopoietic repopulation in non-human primates in the autologous,
+myeloablative setting,<sup><xref rid="b16-1031806" ref-type="bibr">16</xref></sup>
+and evaluation of this phenotype in the enrolled FA patients is ongoing. Critically,
+our strategy of depleting cells expressing mature blood cell lineage markers
+preserves all CD34<sup>+</sup> cell phenotypes for gene transfer and infusion, as
+demonstrated by Patient 3, whose infused CD34<sup>+</sup> cell dose was the largest
+received to date.</p><p>One characteristic of lineage-depleted cell products requiring additional study is
+the presence and impact of other supporting cells on engraftment. Especially for
+BM-derived products, our procedure does not include a marker to deplete mesenchymal
+stem cells (MSC). While the engraftment potential of MSC manipulated <italic>ex
+vivo</italic> in CD34<sup>+</sup> cell supportive media is unexplored, two
+recent reports suggest that these cells are integral to BM function in FA, and can
+be LV-transduced and functionally corrected to facilitate hematopoietic recovery and
+function in a mouse model of FA.<sup><xref rid="b26-1031806" ref-type="bibr">26</xref>,<xref rid="b27-1031806" ref-type="bibr">27</xref></sup> For
+mAPH-derived products, such as that infused into Patient 3, additional follow up
+will be required to determine if a selective advantage is observed <italic>in
+vivo</italic>. The improved transduction efficiency of lineage-depleted cell
+products could reflect non-repopulating CD34<sup>&#x02212;</sup> cell uptake of LV.
+However, we still observed a benefit in transduction of hematopoietic CFC, even at
+the lower MOI of 5 IU/cell. One other possible explanation is the age and clinical
+condition of Patient 3. To address this concern we compared our results in Patient 3
+to the 4 FA patients enrolled in the FANCOSTEM clinical trial in Spain
+(<italic><ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">clinicaltrials.gov</ext-link> identifier:
+02931071</italic>).<sup><xref rid="b28-1031806" ref-type="bibr">28</xref></sup>
+These 4 patients were aged 3&#x02013;7 years and demonstrated higher baseline blood
+cell counts at the time of collection. All 4 patients received the same mobilization
+regimen as Patient 3 reported here, but resulting mAPH products were subjected to
+direct CD34 enrichment prior to transduction at an MOI of 100 IU/cell. The reported
+mean VCN was 0.4&#x000b1;0.1 and ranged from 0.1 to 0.4 copies in individual CFC.
+Our data with a higher VCN at lower MOI suggest that the mixed cell culture supports
+transduction of hematopoietic progenitor cells, at least.</p><p>In conclusion, we describe an alternative strategy to a direct, immunomagnetic
+bead-based selection of CD34-expressing cells that overcomes current barriers in
+isolation of blood stem and progenitor cells especially for diseases like FA. Our
+novel approach to preserve available CD34<sup>+</sup> cells during initial blood
+product processing has the potential to improve gene therapy and gene editing in
+settings of limited CD34<sup>+</sup> cell availability, including FA and other
+diseases in which direct CD34 enrichment has proven inefficient, such as SCD.</p></sec>
+<sec sec-type="supplementary-material">
+<title>Supplementary Material</title>
+<supplementary-material id="PMC_1" content-type="local-data">
+<caption>
+<title>Adair et al. Supplementary Appendix</title>
+</caption>
+<media mimetype="text" mime-subtype="html"
+xlink:href="supp_2018.194571_haematol.2018.194571.DC1.html"/>
+<media xlink:role="associated-file" mimetype="application" mime-subtype="pdf"
+xlink:href="2018.194571.ADAIR_SUPPL.pdf"/>
+</supplementary-material>
+<supplementary-material id="PMC_2" content-type="local-data">
+<caption>
+<title>Disclosures and Contributions</title>
+</caption>
+<media mimetype="text" mime-subtype="html"
+xlink:href="supp_2018.194571_haematol.2018.194571.DC2.html"/>
+<media xlink:role="associated-file" mimetype="application" mime-subtype="pdf"
+xlink:href="2018_194571-Disclosures_and_Contributions.pdf"/>
+</supplementary-material>
+</sec>
+</body><back><ack><title>Acknowledgments</title><p>We thank our patients and their families. We thank the Fanconi Anemia Research Fund
+for sponsoring patient travel and housing arrangements associated with this study.
+We especially thank the Fred Hutch Cell Processing Facility and Seattle Cancer Care
+Alliance for their support in enrollment and treatment of clinical trial patients.
+We thank H. Crawford and K. Gonzalez for help in preparing the manuscript. We also
+thank J. Chen and C. Ironside for excellent support in our mouse studies. This work
+was primarily funded by a Sponsored Research Agreement between Fred Hutch and Rocket
+Pharmaceuticals.</p></ack><fn-group><fn id="fn2-1031806"><p>Check the online version for the most updated information on this article, online
+supplements, and information on authorship &#x00026; disclosures: <ext-link ext-link-type="uri" xlink:href="www.haematologica.org/content/103/11/1806">www.haematologica.org/content/103/11/1806</ext-link></p></fn><fn id="fn3-1031806"><p><bold>Funding</bold></p><p>This work was also supported in part by grants and contracts to H-PK from the NIH
+HHSN2680004 and HL122173 and by funds to JEA from the Fred Hutch. This research
+was also funded in part through the NIH/NCI Cancer Center Support Grant P30
+CA015704. H-PK is a Markey Molecular Medicine Investigator and received support
+as the inaugural recipient of the Jos&#x000e9; Carreras/E. Donnall Thomas
+Endowed Chair for Cancer Research and the Fred Hutch Endowed Chair for Cell and
+Gene Therapy. JEA and H-PK are co-inventors on U.S. Provisional Patent
+Applications #62/491,116 and #62/503,801 &#x0201c;Novel Manufacturing of Gene
+Corrected Autologous Blood Cells for Gene Therapy.&#x0201d; JEA has previously
+served as a consultant for Rocket Pharmaceuticals. H-PK is an active consultant
+for Rocket Pharmaceuticals. The other authors declare that they have no
+competing interests.</p></fn></fn-group><ref-list><title>References</title><ref id="b1-1031806"><label>1.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nalepa</surname><given-names>G</given-names></name><name><surname>Clapp</surname><given-names>DW</given-names></name></person-group>
+<article-title>Fanconi anaemia and cancer: an intricate
+relationship</article-title>. <source>Nat Rev Cancer</source>.
+<year>2018</year>;<volume>18</volume>(<issue>3</issue>):<fpage>168</fpage>&#x02013;<lpage>185</lpage>.<pub-id pub-id-type="pmid">29376519</pub-id></mixed-citation></ref><ref id="b2-1031806"><label>2.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mamrak</surname><given-names>NE</given-names></name><name><surname>Shimamura</surname><given-names>A</given-names></name><name><surname>Howlett</surname><given-names>NG</given-names></name></person-group>
+<article-title>Recent discoveries in the molecular pathogenesis
+of the inherited bone marrow failure syndrome Fanconi
+anemia</article-title>. <source>Blood Rev</source>.
+<year>2017</year>;<volume>31</volume>(<issue>3</issue>):<fpage>93</fpage>&#x02013;<lpage>99</lpage>.<pub-id pub-id-type="pmid">27760710</pub-id></mixed-citation></ref><ref id="b3-1031806"><label>3.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Adair</surname><given-names>JE</given-names></name><name><surname>Sevilla</surname><given-names>J</given-names></name><name><surname>Heredia</surname><given-names>CD</given-names></name><name><surname>Becker</surname><given-names>PS</given-names></name><name><surname>Kiem</surname><given-names>HP</given-names></name><name><surname>Bueren</surname><given-names>J</given-names></name></person-group>
+<article-title>Lessons learned from two decades of clinical
+trial experience in gene therapy for Fanconi anemia</article-title>.
+<source>Curr Gene Ther</source>.
+<year>2017</year>;<volume>16</volume>(<issue>5</issue>):<fpage>338</fpage>&#x02013;<lpage>348</lpage>.<pub-id pub-id-type="pmid">28103787</pub-id></mixed-citation></ref><ref id="b4-1031806"><label>4.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Asur</surname><given-names>RS</given-names></name><name><surname>Kimble</surname><given-names>DC</given-names></name><name><surname>Lach</surname><given-names>FP</given-names></name><etal/></person-group>
+<article-title>Somatic mosaicism of an intragenic FANCB
+duplication in both fibroblast and peripheral blood cells observed in a
+Fanconi anemia patient leads to milder phenotype</article-title>.
+<source>Mol Genet Genomic Med</source>.
+<year>2018</year>;<volume>6</volume>(<issue>1</issue>):<fpage>77</fpage>&#x02013;<lpage>91</lpage>.<pub-id pub-id-type="pmid">29193904</pub-id></mixed-citation></ref><ref id="b5-1031806"><label>5.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gregory</surname><given-names>JJ</given-names><suffix>Jr.</suffix></name><name><surname>Wagner</surname><given-names>JE</given-names></name><name><surname>Verlander</surname><given-names>PC</given-names></name><etal/></person-group>
+<article-title>Somatic mosaicism in Fanconi anemia: evidence of
+genotypic reversion in lymphohematopoietic stem cells</article-title>.
+<source>Proc Natl Acad Sci USA</source>.
+<year>2001</year>;<volume>98</volume>(<issue>5</issue>):<fpage>2532</fpage>&#x02013;<lpage>2537</lpage>.<pub-id pub-id-type="pmid">11226273</pub-id></mixed-citation></ref><ref id="b6-1031806"><label>6.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mankad</surname><given-names>A</given-names></name><name><surname>Taniguchi</surname><given-names>T</given-names></name><name><surname>Cox</surname><given-names>B</given-names></name><etal/></person-group>
+<article-title>Natural gene therapy in monozygotic twins with
+Fanconi anemia</article-title>. <source>Blood</source>. <year>2006</year>;
+<volume>107</volume>(<issue>8</issue>):<fpage>3084</fpage>&#x02013;<lpage>3090</lpage>.<pub-id pub-id-type="pmid">16397136</pub-id></mixed-citation></ref><ref id="b7-1031806"><label>7.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Verhoeyen</surname><given-names>E</given-names></name><name><surname>Roman-Rodriguez</surname><given-names>FJ</given-names></name><name><surname>Cosset</surname><given-names>FL</given-names></name><name><surname>Levy</surname><given-names>C</given-names></name><name><surname>Rio</surname><given-names>P</given-names></name></person-group>
+<article-title>Gene therapy in Fanconi anemia: A matter of
+time, safety and gene transfer tool efficiency</article-title>. <source>Curr
+Gene Ther</source>.
+<year>2017</year>;<volume>16</volume>(<issue>5</issue>):<fpage>297</fpage>&#x02013;<lpage>308</lpage>.<pub-id pub-id-type="pmid">28067165</pub-id></mixed-citation></ref><ref id="b8-1031806"><label>8.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tolar</surname><given-names>J</given-names></name><name><surname>Adair</surname><given-names>JE</given-names></name><name><surname>Antoniou</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>Stem cell gene therapy for Fanconi anemia:
+report from the 1st International Fanconi Anemia Gene Therapy Working Group
+meeting</article-title>. <source>Mol Ther</source>.
+<year>2011</year>;<volume>19</volume>(<issue>7</issue>):<fpage>1193</fpage>&#x02013;<lpage>1198</lpage>.<pub-id pub-id-type="pmid">21540837</pub-id></mixed-citation></ref><ref id="b9-1031806"><label>9.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Becker</surname><given-names>PS</given-names></name><name><surname>Taylor</surname><given-names>JA</given-names></name><name><surname>Trobridge</surname><given-names>GD</given-names></name><etal/></person-group>
+<article-title>Preclinical correction of human Fanconi anemia
+complementation group A bone marrow cells using a safety-modified lentiviral
+vector</article-title>. <source>Gene Ther</source>.
+<year>2010</year>;<volume>17</volume>(<issue>10</issue>):<fpage>1244</fpage>&#x02013;<lpage>1252</lpage>.<pub-id pub-id-type="pmid">20485382</pub-id></mixed-citation></ref><ref id="b10-1031806"><label>10.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Syrjala</surname><given-names>M</given-names></name><name><surname>Ruutu</surname><given-names>T</given-names></name><name><surname>Jansson</surname><given-names>SE</given-names></name></person-group>
+<article-title>A flow cytometric assay of CD34-positive cell
+populations in the bone marrow</article-title>. <source>Br J
+Haematol</source>.
+<year>1994</year>;<volume>88</volume>(<issue>4</issue>):<fpage>679</fpage>&#x02013;<lpage>684</lpage>.<pub-id pub-id-type="pmid">7529536</pub-id></mixed-citation></ref><ref id="b11-1031806"><label>11.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Collins</surname><given-names>RH</given-names><suffix>Jr</suffix></name></person-group>
+<article-title>CD34+ selected cells in clinical
+transplantation</article-title>. <source>Stem Cells</source>.
+<year>1994</year>;
+<volume>12</volume>(<issue>6</issue>):<fpage>577</fpage>&#x02013;<lpage>585</lpage>.<pub-id pub-id-type="pmid">7533577</pub-id></mixed-citation></ref><ref id="b12-1031806"><label>12.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Spohn</surname><given-names>G</given-names></name><name><surname>Wiercinska</surname><given-names>E</given-names></name><name><surname>Karpova</surname><given-names>D</given-names></name><etal/></person-group>
+<article-title>Automated CD34+ cell isolation of peripheral
+blood stem cell apheresis product</article-title>.
+<source>Cytotherapy</source>.
+<year>2015</year>;<volume>17</volume>(<issue>10</issue>):<fpage>1465</fpage>&#x02013;<lpage>1471</lpage>.<pub-id pub-id-type="pmid">25981397</pub-id></mixed-citation></ref><ref id="b13-1031806"><label>13.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Avecilla</surname><given-names>ST</given-names></name><name><surname>Goss</surname><given-names>C</given-names></name><name><surname>Bleau</surname><given-names>S</given-names></name><name><surname>Tonon</surname><given-names>JA</given-names></name><name><surname>Meagher</surname><given-names>RC</given-names></name></person-group>
+<article-title>How do I perform hematopoietic progenitor cell
+selection&#x000bf;</article-title>
+<source>Transfusion</source>.
+<year>2016</year>;<volume>56</volume>(<issue>5</issue>):<fpage>1008</fpage>&#x02013;<lpage>1012</lpage>.<pub-id pub-id-type="pmid">26919388</pub-id></mixed-citation></ref><ref id="b14-1031806"><label>14.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Muller</surname><given-names>LU</given-names></name><name><surname>Williams</surname><given-names>DA</given-names></name></person-group>
+<article-title>Finding the needle in the hay stack:
+hematopoietic stem cells in Fanconi anemia (Review)</article-title>.
+<source>Mutat Res</source>.
+<year>2009</year>;<volume>668</volume>(<issue>1&#x02013;2</issue>):<fpage>141</fpage>&#x02013;<lpage>149</lpage>.<pub-id pub-id-type="pmid">19508850</pub-id></mixed-citation></ref><ref id="b15-1031806"><label>15.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kelly</surname><given-names>PF</given-names></name><name><surname>Radtke</surname><given-names>S</given-names></name><name><surname>von Kalle</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Stem cell collection and gene transfer in
+Fanconi anemia</article-title>. <source>Mol Ther</source>.
+<year>2007</year>;<volume>15</volume>(<issue>1</issue>):<fpage>211</fpage>&#x02013;<lpage>219</lpage>.<pub-id pub-id-type="pmid">17164793</pub-id></mixed-citation></ref><ref id="b16-1031806"><label>16.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Radtke</surname><given-names>S</given-names></name><name><surname>Adair</surname><given-names>JE</given-names></name><name><surname>Giese</surname><given-names>MA</given-names></name><etal/></person-group>
+<article-title>A distinct hematopoietic stem cell population
+for rapid multilineage engraftment in nonhuman primates</article-title>.
+<source>Sci Transl Med</source>. <year>2017</year>;
+<volume>9</volume>(<issue>414</issue>).</mixed-citation></ref><ref id="b17-1031806"><label>17.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Adair</surname><given-names>JE</given-names></name><name><surname>Waters</surname><given-names>T</given-names></name><name><surname>Haworth</surname><given-names>KG</given-names></name><etal/></person-group>
+<article-title>Semi-automated closed system manufacturing of
+lentivirus gene-modified haematopoietic stem cells for gene
+therapy</article-title>. <source>Nat Commun</source>.
+<year>2016</year>;<volume>7</volume>:<fpage>13173</fpage>.<pub-id pub-id-type="pmid">27762266</pub-id></mixed-citation></ref><ref id="b18-1031806"><label>18.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wiekmeijer</surname><given-names>AS</given-names></name><name><surname>Pike-Overzet</surname><given-names>K</given-names></name><name><surname>Brugman</surname><given-names>MH</given-names></name><etal/></person-group>
+<article-title>Sustained engraftment of cryopreserved human
+bone marrow CD34(+) cells in young adult NSG mice</article-title>.
+<source>Biores Open Access</source>.
+<year>2014</year>;<volume>3</volume>(<issue>3</issue>):<fpage>110</fpage>&#x02013;<lpage>116</lpage>.<pub-id pub-id-type="pmid">24940562</pub-id></mixed-citation></ref><ref id="b19-1031806"><label>19.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>JM</given-names></name><name><surname>Kim</surname><given-names>S</given-names></name><name><surname>Read</surname><given-names>EJ</given-names></name><etal/></person-group>
+<article-title>Engraftment of hematopoietic progenitor cells
+transduced with the Fanconi anemia group C gene (FANCC)</article-title>.
+<source>Hum Gene Ther</source>. <year>1999</year>;
+<volume>10</volume>(<issue>14</issue>):<fpage>2337</fpage>&#x02013;<lpage>2346</lpage>.<pub-id pub-id-type="pmid">10515453</pub-id></mixed-citation></ref><ref id="b20-1031806"><label>20.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Croop</surname><given-names>JM</given-names></name><name><surname>Cooper</surname><given-names>R</given-names></name><name><surname>Fernandez</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Mobilization and collection of peripheral blood
+CD34+ cells from patients with Fanconi anemia</article-title>.
+<source>Blood</source>.
+<year>2001</year>;<volume>98</volume>(<issue>10</issue>):<fpage>2917</fpage>&#x02013;<lpage>2921</lpage>.<pub-id pub-id-type="pmid">11698271</pub-id></mixed-citation></ref><ref id="b21-1031806"><label>21.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Larghero</surname><given-names>J</given-names></name><name><surname>Marolleau</surname><given-names>JP</given-names></name><name><surname>Soulier</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>Hematopoietic progenitor cell harvest and
+functionality in Fanconi anemia patients</article-title>.
+<source>Blood</source>.
+<year>2002</year>;<volume>100</volume>(<issue>8</issue>):<fpage>3051</fpage>.<pub-id pub-id-type="pmid">12382645</pub-id></mixed-citation></ref><ref id="b22-1031806"><label>22.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Uchida</surname><given-names>N</given-names></name><name><surname>Fujita</surname><given-names>A</given-names></name><name><surname>Hsieh</surname><given-names>MM</given-names></name><etal/></person-group>
+<article-title>Bone marrow as a hematopoietic stem cell source
+for gene therapy in sickle cell disease: Evidence from rhesus and SCD
+patients</article-title>. <source>Hum Gene Ther Clin Dev</source>.
+<year>2017</year>;<volume>28</volume>(<issue>3</issue>):<fpage>136</fpage>&#x02013;<lpage>144</lpage>.<pub-id pub-id-type="pmid">28447889</pub-id></mixed-citation></ref><ref id="b23-1031806"><label>23.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Balakumaran</surname><given-names>A</given-names></name><name><surname>Mishra</surname><given-names>PJ</given-names></name><name><surname>Pawelczyk</surname><given-names>E</given-names></name><etal/></person-group>
+<article-title>Bone marrow skeletal stem/progenitor cell
+defects in dyskeratosis congenita and telomere biology
+disorders</article-title>. <source>Blood</source>. <year>2015</year>;
+<volume>125</volume>(<issue>5</issue>):<fpage>793</fpage>&#x02013;<lpage>802</lpage>.<pub-id pub-id-type="pmid">25499762</pub-id></mixed-citation></ref><ref id="b24-1031806"><label>24.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Coulombel</surname><given-names>L</given-names></name></person-group>
+<article-title>Identification of hematopoietic stem/progenitor
+cells: strength and drawbacks of functional assays</article-title>.
+<source>Oncogene</source>.
+<year>2004</year>;<volume>23</volume>(<issue>43</issue>):<fpage>7210</fpage>&#x02013;<lpage>7222</lpage>.<pub-id pub-id-type="pmid">15378081</pub-id></mixed-citation></ref><ref id="b25-1031806"><label>25.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miller</surname><given-names>CL</given-names></name><name><surname>Eaves</surname><given-names>CJ</given-names></name></person-group>
+<article-title>Long-term culture-initiating cell assays for
+human and murine cells</article-title>. <source>Methods Mol Med</source>.
+<year>2002</year>;<volume>63</volume>:<fpage>123</fpage>&#x02013;<lpage>141</lpage>.<pub-id pub-id-type="pmid">21437804</pub-id></mixed-citation></ref><ref id="b26-1031806"><label>26.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jacome</surname><given-names>A</given-names></name><name><surname>Navarro</surname><given-names>S</given-names></name><name><surname>Rio</surname><given-names>P</given-names></name><etal/></person-group>
+<article-title>Lentiviral-mediated genetic correction of
+hematopoietic and mesenchymal progenitor cells from Fanconi anemia
+patients</article-title>. <source>Mol Ther</source>. <year>2009</year>;
+<volume>17</volume>(<issue>6</issue>):<fpage>1083</fpage>&#x02013;<lpage>1092</lpage>.<pub-id pub-id-type="pmid">19277017</pub-id></mixed-citation></ref><ref id="b27-1031806"><label>27.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhou</surname><given-names>Y</given-names></name><name><surname>He</surname><given-names>Y</given-names></name><name><surname>Xing</surname><given-names>W</given-names></name><etal/></person-group>
+<article-title>An abnormal bone marrow microenvironment
+contributes to hematopoietic dysfunction in Fanconi anemia</article-title>.
+<source>Haematologica</source>. <year>2017</year>;
+<volume>102</volume>(<issue>6</issue>):<fpage>1017</fpage>&#x02013;<lpage>1027</lpage>.<pub-id pub-id-type="pmid">28341737</pub-id></mixed-citation></ref><ref id="b28-1031806"><label>28.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rio</surname><given-names>P</given-names></name><name><surname>Navarro</surname><given-names>S</given-names></name><name><surname>Guenechea</surname><given-names>G</given-names></name><etal/></person-group>
+<article-title>Engraftment and in vivo proliferation advantage
+of gene-corrected mobilized CD34(+) cells from Fanconi anemia
+patients</article-title>. <source>Blood</source>.
+<year>2017</year>;<volume>130</volume>(<issue>13</issue>):<fpage>1535</fpage>&#x02013;<lpage>1542</lpage>.<pub-id pub-id-type="pmid">28801449</pub-id></mixed-citation></ref></ref-list></back></article>

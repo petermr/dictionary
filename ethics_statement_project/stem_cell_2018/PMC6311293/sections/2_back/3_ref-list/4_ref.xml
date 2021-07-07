@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mahajan</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Ahmed</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>McAleer</surname>
+    <given-names>M. F.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Post-operative stereotactic radiosurgery versus observation for completely resected brain metastases: a single-centre, randomised, controlled, phase 3 trial</article-title>
+  <source>
+   <italic toggle="yes">The Lancet Oncology</italic>
+  </source>
+  <year>2017</year>
+  <volume>18</volume>
+  <issue>8</issue>
+  <fpage>1040</fpage>
+  <lpage>1048</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(17)30414-X</pub-id>
+  <pub-id pub-id-type="pmid">28687375</pub-id>
+ </element-citation>
+</ref>

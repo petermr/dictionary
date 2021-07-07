@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Clinical predictors of infection were assessed using survival analysis. Clinical variables analyzed included age, sex, prior lines of chemotherapy, prior allogeneic HSCT, conditioning chemotherapy, morphologic disease status (≥5% blasts or extramedullary involvement), CAR T-cell dose, quantitative IgG nadir, and maximum CRS grade. Cox proportional hazard modeling was used to examine these potential predictors; variables were first analyzed individually by means of univariate analysis. CRS was analyzed as a time-dependent predictor. Predictors with a univariate 
+ <italic>P</italic> value ≤.25 were analyzed in a multivariate model. Kaplan-Meier plots were used to further estimate the association between CRS grade and infection. All statistical analyses were performed using R software, version 3.2 (R Development Core Team).
+</p>

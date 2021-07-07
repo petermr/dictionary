@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="sct312264-tbl-0003" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Cell count, viability, and sterility of infused MSCs in nine patients</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <thead valign="bottom">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Group</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Patient</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Weight, kg</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Cell count, millions per kg</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Volume infused, mL</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Cells infused, millions per kg</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Preinfusion viability, %</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Postinfusion viability, %</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Culture</th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">101.7</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">134</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">125</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.34</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">94.5</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">95.8</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Negative</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">94.7</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">104</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">97</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.08</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">91.6</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">92.4</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Negative</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">97.1</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">84</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">97</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.84</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">94.2</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">94.5</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Negative</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">61.5</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">161</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">150</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.62</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">97.4</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">97.4</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Negative</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">5</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">84.8</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">212</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">197</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.46</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">91.6</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">92.8</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Negative</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">6</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">98.1</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">230</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">197</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.31</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">92.2</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">97.2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Negative</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">7</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">89.5</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">352</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">397</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">3.9</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">90.4</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">88.6</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Negative</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">8</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">98.5</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">336</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">397</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">3.39</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">92.2</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">90.4</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Negative</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">9</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">96.8</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">440</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">397</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">4.51</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">87.6</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">88.2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Negative</td>
+   </tr>
+   <tr>
+    <td colspan="9" align="left" valign="top" rowspan="1">Total patient population</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">Mean</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">91</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">228</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">228</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">2.49</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">92.4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">93.0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">SD</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">12.3</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">123.3</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">131.6</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.3</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.8</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">3.5</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">Median</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">96.8</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">212</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">197</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">2.46</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">92.2</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">92.8</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">All negative</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">Maximum</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">101.7</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">440</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">397</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">4.51</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">97.4</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">97.4</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">Minimum</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">61.5</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">84</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">97</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">0.84</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">87.6</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">88.2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="sct312264-note-0006">
+   <p>Abbreviations: MSC, mesenchymal stem cell; SD, standard deviation.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Garg</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Garg</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Khan</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Granulocyte colony-stimulating factor mobilizes CD34(+) cells and improves survival of patients with acute-on-chronic liver failure</article-title>
+  <source>Gastroenterology</source>
+  <year>2012</year>
+  <volume>142</volume>
+  <fpage>505</fpage>
+  <lpage>512</lpage>
+  <pub-id pub-id-type="doi">10.1053/j.gastro.2011.11.027</pub-id>
+  <pub-id pub-id-type="pmid">22119930</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B32">
+ <label>32</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Berghoff</surname>
+    <given-names>A. S.</given-names>
+   </name>
+   <name>
+    <surname>Schur</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Füreder</surname>
+    <given-names>L. M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Descriptive statistical analysis of a real life cohort of 2419 patients with brain metastases of solid cancers</article-title>
+  <source>
+   <italic toggle="yes">ESMO Open</italic>
+  </source>
+  <year>2016</year>
+  <volume>1</volume>
+  <issue>2</issue>
+  <fpage>p. e000024</fpage>
+  <pub-id pub-id-type="doi">10.1136/esmoopen-2015-000024</pub-id>
+  <pub-id pub-id-type="pmid">27843591</pub-id>
+ </element-citation>
+</ref>

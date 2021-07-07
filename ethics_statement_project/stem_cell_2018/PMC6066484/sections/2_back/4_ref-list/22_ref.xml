@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bringhen</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Efficacy and safety of once-weekly bortezomib in multiple myeloma patients</article-title>
+  <source>Blood</source>
+  <year>2010</year>
+  <volume>116</volume>
+  <fpage>4745</fpage>
+  <lpage>4753</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2010-07-294983</pub-id>
+  <?supplied-pmid 20807892?>
+  <pub-id pub-id-type="pmid">20807892</pub-id>
+ </element-citation>
+</ref>

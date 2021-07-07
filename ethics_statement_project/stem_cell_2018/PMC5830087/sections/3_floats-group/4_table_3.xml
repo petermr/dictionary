@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Change in target lesion sum of longest diameters from post-chemotherapy baseline to post-chemotherapy nadir</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Length of SLD Reduction (mm)</th>
+    <th>BTH1677/
+     <break/>Bevacizumab/Carboplatin/
+     <break/>Paclitaxel
+     <sup>a</sup>
+     <break/>(
+     <italic>N</italic> = 30)
+    </th>
+    <th>Bevacizumab/Carboplatin/
+     <break/>Paclitaxel
+     <sup>a</sup>
+     <break/>(
+     <italic>N</italic> = 13)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>&gt; 20</td>
+    <td>2 (7%)</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>&gt; 10</td>
+    <td>6 (20%)</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>&gt; 5</td>
+    <td>10 (33%)</td>
+    <td>2 (15%)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>Abbreviations: N</italic> overall sample size, 
+   <italic>SLD</italic> sum of longest diameters
+  </p>
+  <p>
+   <sup>a</sup>Number of patients continuing in study on maintenance therapy with at least 2 post-chemotherapy tumor assessments based on blinded central radiology review of the primary efficacy population
+  </p>
+ </table-wrap-foot>
+</table-wrap>

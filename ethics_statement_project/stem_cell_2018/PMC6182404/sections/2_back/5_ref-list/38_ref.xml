@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR38">
+ <label>38.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schumacher</surname>
+    <given-names>TN</given-names>
+   </name>
+   <name>
+    <surname>Schreiber</surname>
+    <given-names>RD</given-names>
+   </name>
+  </person-group>
+  <article-title>Neoantigens in cancer immunotherapy</article-title>
+  <source>Science</source>
+  <year>2015</year>
+  <volume>348</volume>
+  <fpage>69</fpage>
+  <lpage>74</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.aaa4971</pub-id>
+  <?supplied-pmid 25838375?>
+  <pub-id pub-id-type="pmid">25838375</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brugières</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Le Deley</surname>
+    <given-names>MC</given-names>
+   </name>
+   <name>
+    <surname>Rosolen</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Impact of the methotrexate administration dose on the need for intrathecal treatment in children and adolescents with anaplastic large-cell lymphoma: results of a randomized trial of the EICNHL group</article-title>
+  <source>J Clin Oncol</source>
+  <year>2009</year>
+  <volume>27</volume>
+  <fpage>897</fpage>
+  <lpage>903</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2008.18.1487</pub-id>
+  <?supplied-pmid 19139435?>
+  <pub-id pub-id-type="pmid">19139435</pub-id>
+ </element-citation>
+</ref>

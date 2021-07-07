@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib2">
+ <label>2</label>
+ <element-citation publication-type="journal" id="sref2">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vermorken</surname>
+    <given-names>J.B.</given-names>
+   </name>
+   <name>
+    <surname>Remenar</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>van Herpen</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Gorlia</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Mesia</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Degardin</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Cisplatin, fluorouracil, and docetaxel in unresectable head and neck cancer</article-title>
+  <source>N Engl J Med</source>
+  <volume>357</volume>
+  <year>2007</year>
+  <fpage>1695</fpage>
+  <lpage>1704</lpage>
+  <pub-id pub-id-type="pmid">17960012</pub-id>
+ </element-citation>
+</ref>

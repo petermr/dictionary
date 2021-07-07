@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schwartz-Albiez</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Dorken</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Hofmann</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Moldenhauer</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>The B cell-associated CD37 antigen (gp40-52). Structure and subcellular expression of an extensively glycosylated glycoprotein</article-title>
+  <source>J Immunol</source>
+  <year>1988</year>
+  <volume>140</volume>
+  <fpage>905</fpage>
+  <lpage>914</lpage>
+  <?supplied-pmid 3257508?>
+  <pub-id pub-id-type="pmid">3257508</pub-id>
+ </element-citation>
+</ref>

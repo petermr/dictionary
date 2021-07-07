@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR36">
+ <label>36.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>X</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Intrinsic resistance of tumorigenic breast cancer cells to chemotherapy</article-title>
+  <source>J. Natl. Cancer Inst.</source>
+  <year>2008</year>
+  <volume>100</volume>
+  <fpage>672</fpage>
+  <lpage>679</lpage>
+  <pub-id pub-id-type="doi">10.1093/jnci/djn123</pub-id>
+  <?supplied-pmid 18445819?>
+  <pub-id pub-id-type="pmid">18445819</pub-id>
+ </element-citation>
+</ref>

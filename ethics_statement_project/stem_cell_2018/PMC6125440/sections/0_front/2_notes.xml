@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes>
+ <p content-type="self-citation">
+  <mixed-citation publication-type="journal" id="cas13719-cit-1001">
+   <string-name>
+    <surname>Ogura</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Yamamoto</surname>
+    <given-names>K</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Morishima</surname>
+    <given-names>Y</given-names>
+   </string-name>, et al. 
+   <article-title>R‐High‐CHOP/CHASER/LEED with autologous stem cell transplantation in newly diagnosed mantle cell lymphoma: JCOG0406 STUDY</article-title>. 
+   <source xml:lang="en">Cancer Sci</source>. 
+   <year>2018</year>;
+   <volume>109</volume>:
+   <fpage>2830</fpage>–
+   <lpage>2840</lpage>. 
+   <pub-id pub-id-type="doi">10.1111/cas.13719</pub-id>
+  </mixed-citation>
+ </p>
+ <fn-group id="cas13719-ntgp-0001">
+  <fn fn-type="funding" id="cas13719-note-1001">
+   <p>
+    <bold>Funding information</bold>
+   </p>
+   <p>This work was supported in part by the National Cancer Center Research and Development Fund (grant numbers 23‐A‐16, 23‐A‐17, 26‐A‐4, 29‐A‐3); and by the Ministry of Health, Labour and Welfare Grants‐in‐Aid for Cancer Research (grant numbers 16‐6, 20S‐1, 20S‐6), and Health and Labour Sciences Research Grants for Clinical Cancer Research (grant numbers 19‐27, 22‐29)</p>
+  </fn>
+  <fn id="cas13719-note-1002">
+   <p>Clinical Trial registration: UMIN Clinical Trials Registration number: UMIN000001220</p>
+  </fn>
+ </fn-group>
+</notes>

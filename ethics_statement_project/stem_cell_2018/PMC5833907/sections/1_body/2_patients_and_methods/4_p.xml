@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par15">All continuous variables were discretized from the literature (initial concentration after transplant, age, hemoglobin, creatinine, and CRP) or from machine learning (other variables such as standard deviations and weight; Netica software version 5.23 [Norsys Software Corp., Vancouver, BC, USA]). The initial cyclosporine residual concentration after transplant was discretized in or out of the therapeutic range, according to the graft indication (malignant or not). The interval retained was 120 ± 20 mg/L for malignant disease and 150 ± 20 mg/L for non-malignant disease [
+ <xref ref-type="bibr" rid="CR2">2</xref>]. Age was separated into four classes (from 0 to 2, 2 to 8, 8 to 14, and &gt; 14 years) in accordance with cytochrome P450 (CYP) 3A4 maturation [
+ <xref ref-type="bibr" rid="CR14">14</xref>–
+ <xref ref-type="bibr" rid="CR20">20</xref>]. Hemoglobin was discretized into three classes (&lt; 80, from 80 to 110, and &gt; 110 g/L) [
+ <xref ref-type="bibr" rid="CR21">21</xref>]. Serum creatinine was separated into three classes (high, normal, low) according to the patient age and sex. Values considered as normal were 18–26 µmol/L for patients less than 3 years old, 26–44 µmol/L in patients between 4 and 7 years old, 53–71 µmol/L in patients between 8 and 10 years old, 71–80 µmol/L in females 11 years or older, and 80–106 µmol/L in males aged 13 years and older [
+ <xref ref-type="bibr" rid="CR22">22</xref>]. Plasma CRP values above 15 mg/L signaled inflammation [
+ <xref ref-type="bibr" rid="CR23">23</xref>, 
+ <xref ref-type="bibr" rid="CR24">24</xref>]. Cholestasis was defined by a bilirubin plasma concentration above 50 µmol/L [
+ <xref ref-type="bibr" rid="CR25">25</xref>]. The interacting drugs considered were those that are most used in HSCT: all proton pump inhibitors (PPIs), macrolide antibiotics (including pristinamycine and quinupristine, but excluding spiramycine), all azole antifungals, and calcium channel blockers (nicardipine and amlodipine, but not lacidipine) [
+ <xref ref-type="bibr" rid="CR26">26</xref>, 
+ <xref ref-type="bibr" rid="CR27">27</xref>].
+</p>

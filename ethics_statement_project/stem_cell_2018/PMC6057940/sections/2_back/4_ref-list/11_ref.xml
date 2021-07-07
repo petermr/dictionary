@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Farmer</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A stroma-related gene signature predicts resistance to neoadjuvant chemotherapy in breast cancer</article-title>
+  <source>Nat. Med.</source>
+  <year>2009</year>
+  <volume>15</volume>
+  <fpage>68</fpage>
+  <lpage>74</lpage>
+  <pub-id pub-id-type="doi">10.1038/nm.1908</pub-id>
+  <?supplied-pmid 19122658?>
+  <pub-id pub-id-type="pmid">19122658</pub-id>
+ </element-citation>
+</ref>

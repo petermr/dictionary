@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR36">
+ <label>36.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Linskey</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>Andrews</surname>
+    <given-names>DW</given-names>
+   </name>
+   <name>
+    <surname>Asher</surname>
+    <given-names>AL</given-names>
+   </name>
+   <name>
+    <surname>Burri</surname>
+    <given-names>SH</given-names>
+   </name>
+   <name>
+    <surname>Kondziolka</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Robinson</surname>
+    <given-names>PD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The role of stereotactic radiosurgery in the management of patients with newly diagnosed brain metastases: a systematic review and evidence-based clinical practice guideline</article-title>
+  <source>J Neurooncol.</source>
+  <year>2009</year>
+  <volume>96</volume>
+  <fpage>45</fpage>
+  <lpage>68</lpage>
+  <pub-id pub-id-type="doi">10.1007/s11060-009-0073-4</pub-id>
+  <?supplied-pmid 19960227?>
+  <pub-id pub-id-type="pmid">19960227</pub-id>
+ </element-citation>
+</ref>

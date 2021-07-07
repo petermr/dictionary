@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Carratalà</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Niubó</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Fernández-Sevilla</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Juvé</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Castellsagué</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Berlanga</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Randomized, double-blind trial of an antibiotic-lock technique for prevention of Gram-positive central venous catheter-related infection in neutropenic patients with cancer</article-title>
+  <source>Antimicrob Agents Chemother</source>
+  <year>1999</year>
+  <volume>43</volume>
+  <fpage>2200</fpage>
+  <lpage>2204</lpage>
+  <?supplied-pmid 10471564?>
+  <pub-id pub-id-type="pmid">10471564</pub-id>
+ </element-citation>
+</ref>

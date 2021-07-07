@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bleyzac</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Cuzzubbo</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Renard</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Garnier</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Dubois</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Domenech</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Improved outcome of children transplanted for high-risk leukemia by using a new strategy of cyclosporine-based GVHD prophylaxis</article-title>
+  <source>Bone Marrow Transplant.</source>
+  <year>2016</year>
+  <volume>51</volume>
+  <fpage>698</fpage>
+  <lpage>704</lpage>
+  <?supplied-pmid 26808568?>
+  <pub-id pub-id-type="pmid">26808568</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Duiker</surname>
+    <given-names>EW</given-names>
+   </name>
+   <name>
+    <surname>Meijer</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>van der Bilt</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Meersma</surname>
+    <given-names>GJ</given-names>
+   </name>
+   <name>
+    <surname>Kooi</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>van der Zee</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>de Vries</surname>
+    <given-names>EG</given-names>
+   </name>
+   <name>
+    <surname>de Jong</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Drug-induced caspase 8 upregulation sensitises cisplatin-resistant ovarian carcinoma cells to rhTRAIL-induced apoptosis</article-title>
+  <source>Br J Cancer</source>
+  <year>2011</year>
+  <volume>104</volume>
+  <fpage>1278</fpage>
+  <lpage>1287</lpage>
+  <pub-id pub-id-type="doi">10.1038/bjc.2011.84</pub-id>
+  <?supplied-pmid 21487429?>
+  <pub-id pub-id-type="pmid">21487429</pub-id>
+ </element-citation>
+</ref>

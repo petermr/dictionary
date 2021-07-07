@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Weng</surname>
+   <given-names>Jianyu</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Lai</surname>
+   <given-names>Peilong</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Qin</surname>
+   <given-names>Le</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lai</surname>
+   <given-names>Yunxin</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jiang</surname>
+   <given-names>Zhiwu</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Luo</surname>
+   <given-names>Chenwei</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Huang</surname>
+   <given-names>Xin</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Suijing</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shao</surname>
+   <given-names>Dan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Deng</surname>
+   <given-names>Chengxin</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Huang</surname>
+   <given-names>Lisi</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lu</surname>
+   <given-names>Zesheng</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhou</surname>
+   <given-names>Maohua</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zeng</surname>
+   <given-names>Lingji</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Dongmei</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Yulian</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Xiaomei</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Geng</surname>
+   <given-names>Suxia</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Robert</surname>
+   <given-names>Weinkove</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tang</surname>
+   <given-names>Zhaoyang</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>He</surname>
+   <given-names>Chang</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Li</surname>
+   <given-names>Peng</given-names>
+  </name>
+  <address>
+   <email>li_peng@gibh.ac.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Du</surname>
+   <given-names>Xin</given-names>
+  </name>
+  <address>
+   <email>miyadu@hotmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>Department of Hematology, Guangdong General Hospital, Guangdong Academy of Medical Sciences, Guangzhou, 510080 China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000119573309</institution-id>
+   <institution-id institution-id-type="GRID">grid.9227.e</institution-id>
+   <institution>Key Laboratory of Regenerative Biology, South China Institute for Stem Cell Biology and Regenerative Medicine, Guangzhou Institutes of Biomedicine and Health, </institution>
+   <institution>Chinese Academy of Sciences, </institution>
+  </institution-wrap>Guangzhou, 510530 China 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000119573309</institution-id>
+   <institution-id institution-id-type="GRID">grid.9227.e</institution-id>
+   <institution>Guangdong Provincial Key Laboratory of Stem Cell and Regenerative Medicine, South China Institute for Stem Cell Biology and Regenerative Medicine, Guangzhou Institutes of Biomedicine and Health, </institution>
+   <institution>Chinese Academy of Sciences, </institution>
+  </institution-wrap>Guangzhou, 510530 China 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.410643.4</institution-id>
+   <institution>Department of PET Center, </institution>
+   <institution>Guangdong General Hospital and Guangdong Academy of Medical Sciences, </institution>
+  </institution-wrap>Guangzhou, 510080 China 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0244 0702</institution-id>
+   <institution-id institution-id-type="GRID">grid.413379.b</institution-id>
+   <institution>Wellington Blood and Cancer Centre, Capital and Coast District Health Board, </institution>
+  </institution-wrap>Wellington, New Zealand 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>Guangdong Zhaotai InVivo Biomedicine Co. Ltd., Guangzhou, 510000 China 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>Hunan Zhaotai Yongren Medical Innovation Co. Ltd., Changsha, 410000 China 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2360 039X</institution-id>
+   <institution-id institution-id-type="GRID">grid.12981.33</institution-id>
+   <institution>State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, </institution>
+   <institution>Sun Yat-Sen University, </institution>
+  </institution-wrap>Guangzhou, 510060 People’s Republic of China 
+ </aff>
+</contrib-group>

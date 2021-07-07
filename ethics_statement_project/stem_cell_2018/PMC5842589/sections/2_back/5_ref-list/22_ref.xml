@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lakatos</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Lan</surname>
+    <given-names>KKG</given-names>
+   </name>
+  </person-group>
+  <article-title>A comparison of sample-size methods for the logrank statistic</article-title>
+  <source>Stat Med</source>
+  <year>1992</year>
+  <volume>11</volume>
+  <issue>2</issue>
+  <fpage>179</fpage>
+  <lpage>191</lpage>
+  <pub-id pub-id-type="doi">10.1002/sim.4780110205</pub-id>
+  <?supplied-pmid 1579757?>
+  <pub-id pub-id-type="pmid">1579757</pub-id>
+ </element-citation>
+</ref>

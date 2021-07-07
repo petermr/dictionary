@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f3-1031308" position="float">
+ <label>Figure 3.</label>
+ <caption>
+  <p>Overall survival (OS) for all evaluable patients in the study. (A) Kaplan-Meier OS curves for all patients (n=69) enrolled on the study. Median OS 11.2 months (95% CI: 8.6 months, 13.8 months). (B) OS for patients stratified by prior hypomethylating agent (HMA) therapy. No prior HMA (n=55), median OS 12.6 months (95%CI: 9.2, 15.9 months); prior hypomethylating agent (n=14), median OS 2.5 months (95%CI: 1.1, 3.8 months); 
+   <italic>P</italic>=0.0008 by log-rank test. PD: plerixafor + decitabine; D: decitabine.
+  </p>
+ </caption>
+ <graphic xlink:href="1031308.fig3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

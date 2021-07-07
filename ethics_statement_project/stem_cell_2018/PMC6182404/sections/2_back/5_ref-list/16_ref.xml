@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Santegoets</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Stam</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>Lougheed</surname>
+    <given-names>SM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>T cell profiling reveals high CD4
+   <sup>+</sup> CTLA-4
+   <sup>+</sup> T cell frequency as dominant predictor for survival after prostate GVAX/ipilimumab treatment
+  </article-title>
+  <source>Cancer Immunol Immunother</source>
+  <year>2013</year>
+  <volume>62</volume>
+  <fpage>245</fpage>
+  <lpage>256</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00262-012-1330-5</pub-id>
+  <?supplied-pmid 22878899?>
+  <pub-id pub-id-type="pmid">22878899</pub-id>
+ </element-citation>
+</ref>

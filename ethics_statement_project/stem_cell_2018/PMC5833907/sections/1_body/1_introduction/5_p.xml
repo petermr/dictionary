@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par10">In medicine, many methods have been used to predict the value of a target variable, for example, logistic regression in dementia diagnosis [
+ <xref ref-type="bibr" rid="CR9">9</xref>], Bayesian network models to understand visual field deterioration [
+ <xref ref-type="bibr" rid="CR10">10</xref>], support vector machines (SVM) for cancer detection [
+ <xref ref-type="bibr" rid="CR11">11</xref>], and random forest analysis to predict FOLFOX (folinic acid, fluorouracil, and oxaliplatin) responders in colorectal cancer [
+ <xref ref-type="bibr" rid="CR12">12</xref>]. These new methods seem promising in many fields, but they have scarcely been explored in dosing regimen forecasting [
+ <xref ref-type="bibr" rid="CR13">13</xref>].
+</p>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="sct312347-bib-0030">
+ <label>30</label>
+ <mixed-citation publication-type="journal" id="sct312347-cit-0030">
+  <string-name>
+   <surname>Klostermann</surname>
+   <given-names>F</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Nikulin</surname>
+   <given-names>V</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Kühn</surname>
+   <given-names>A</given-names>
+  </string-name> et al. 
+  <article-title>Task‐related differential dynamics of EEG alpha‐ and beta‐band synchronization in cortico‐basal motor structures</article-title>. 
+  <source xml:lang="en">Eur J Neurosci</source>
+  <year>2007</year>;
+  <volume>25</volume>:
+  <fpage>1604</fpage>–
+  <lpage>1615</lpage>.
+  <pub-id pub-id-type="pmid">17425586</pub-id>
+ </mixed-citation>
+</ref>

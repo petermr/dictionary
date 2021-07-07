@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>L</given-names>
+  </name>
+  <xref ref-type="aff" rid="mdx698-aff1">1</xref>
+  <xref ref-type="aff" rid="mdx698-aff2">2</xref>
+  <xref ref-type="aff" rid="mdx698-aff3">3</xref>
+  <xref ref-type="corresp" rid="mdx698-cor1"/>
+  <!--<email>zhangli@sysucc.org.cn</email>-->
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lu</surname>
+   <given-names>S</given-names>
+  </name>
+  <xref ref-type="aff" rid="mdx698-aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Feng</surname>
+   <given-names>J</given-names>
+  </name>
+  <xref ref-type="aff" rid="mdx698-aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dechaphunkul</surname>
+   <given-names>A</given-names>
+  </name>
+  <xref ref-type="aff" rid="mdx698-aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chang</surname>
+   <given-names>J</given-names>
+  </name>
+  <xref ref-type="aff" rid="mdx698-aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>D</given-names>
+  </name>
+  <xref ref-type="aff" rid="mdx698-aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chessari</surname>
+   <given-names>S</given-names>
+  </name>
+  <xref ref-type="aff" rid="mdx698-aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lanzarotti</surname>
+   <given-names>C</given-names>
+  </name>
+  <xref ref-type="aff" rid="mdx698-aff10">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jordan</surname>
+   <given-names>K</given-names>
+  </name>
+  <xref ref-type="aff" rid="mdx698-aff11">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Aapro</surname>
+   <given-names>M</given-names>
+  </name>
+  <xref ref-type="aff" rid="mdx698-aff12">12</xref>
+ </contrib>
+</contrib-group>

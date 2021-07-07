@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Slobbe</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Doorduijn</surname>
+    <given-names>JK</given-names>
+   </name>
+   <name>
+    <surname>Lugtenburg</surname>
+    <given-names>PJ</given-names>
+   </name>
+   <name>
+    <surname>El Barzouhi</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Boersma</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>van Leeuwen</surname>
+    <given-names>WB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Prevention of catheter-related bacteremia with a daily ethanol lock in patients with tunnelled catheters: a randomized, placebo-controlled trial</article-title>
+  <source>PLoS One</source>
+  <year>2010</year>
+  <volume>5</volume>
+  <fpage>e10840</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0010840</pub-id>
+  <?supplied-pmid 20520776?>
+  <pub-id pub-id-type="pmid">20520776</pub-id>
+ </element-citation>
+</ref>

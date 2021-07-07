@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tbl3" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Multivariate analysis (N = 151).</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="2">Characteristics</th>
+    <th>Overall survival
+     <hr/>
+    </th>
+    <th>Progression-free survival
+     <hr/>
+    </th>
+    <th>Locoregional control
+     <hr/>
+    </th>
+    <th>Distant metastasis
+     <hr/>
+    </th>
+   </tr>
+   <tr>
+    <th>HR (95% CI) 
+     <italic>p</italic>-value
+    </th>
+    <th>HR (95% CI) 
+     <italic>p</italic>-value
+    </th>
+    <th>HR (95% CI) 
+     <italic>p</italic>-value
+    </th>
+    <th>HR (95% CI) 
+     <italic>p</italic>-value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="2">Unresectable disease</td>
+    <td>2.008 (1.156–3.487)</td>
+    <td rowspan="2">NS</td>
+    <td rowspan="2">NS</td>
+    <td rowspan="2">NS</td>
+   </tr>
+   <tr>
+    <td>0.013</td>
+   </tr>
+   <tr>
+    <td rowspan="2">Stage IV disease</td>
+    <td>7.229 (0.993–52.638)</td>
+    <td>4.387 (1.376–13.950)</td>
+    <td>4.078 (1.266–13.134)</td>
+    <td rowspan="2">NS</td>
+   </tr>
+   <tr>
+    <td>0.051</td>
+    <td>0.012</td>
+    <td>0.018</td>
+   </tr>
+   <tr>
+    <td rowspan="2">Non-oropharyngeal cancer</td>
+    <td>3.574 (2.018–6.332)</td>
+    <td>2.802 (1.742–2.509)</td>
+    <td>2.516 (1.552–4.159)</td>
+    <td rowspan="2">NS</td>
+   </tr>
+   <tr>
+    <td>0.000</td>
+    <td>0.000</td>
+    <td>0.000</td>
+   </tr>
+   <tr>
+    <td rowspan="2">Hypopharyngeal cancer</td>
+    <td rowspan="2">NS</td>
+    <td rowspan="2">NS</td>
+    <td rowspan="2">NS</td>
+    <td>3.099 (1.264–7.600)</td>
+   </tr>
+   <tr>
+    <td>0.013</td>
+   </tr>
+   <tr>
+    <td rowspan="2">RT dosage &lt;70 Gy</td>
+    <td>8.001 (4.278–14.63)</td>
+    <td>4.952 (2.802–8.751)</td>
+    <td>6.392 (3.547–11.521)</td>
+    <td rowspan="2">NS</td>
+   </tr>
+   <tr>
+    <td>0.000</td>
+    <td>0.000</td>
+    <td>0.000</td>
+   </tr>
+   <tr>
+    <td rowspan="2">Accumulated dose of cisplatin during radiotherapy &lt;150 mg/m 
+     <xref rid="bib2" ref-type="bibr">[2]</xref>
+    </td>
+    <td rowspan="2">NS</td>
+    <td>1.922 (1.200–3.079)</td>
+    <td>2.641 (1.613–4.325)</td>
+    <td rowspan="2">NS</td>
+   </tr>
+   <tr>
+    <td>0.002</td>
+    <td>0.000</td>
+   </tr>
+   <tr>
+    <td rowspan="2">ECOG Performance status = 2</td>
+    <td rowspan="2">NS</td>
+    <td rowspan="2">NS</td>
+    <td rowspan="2">NS</td>
+    <td>4.946 (1.448–16.891)</td>
+   </tr>
+   <tr>
+    <td>0.011</td>
+   </tr>
+   <tr>
+    <td>Treatment arm</td>
+    <td>NS</td>
+    <td>NS</td>
+    <td>NS</td>
+    <td>NS</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>Abbreviations: ECOG, Eastern Cooperative Oncology Group; CI, confidence interval; HR, hazard ratio; NS, not significant.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

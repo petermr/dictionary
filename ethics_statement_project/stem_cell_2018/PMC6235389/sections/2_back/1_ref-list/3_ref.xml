@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Baujat</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Audry</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Bourhis</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Chan</surname>
+    <given-names>AT</given-names>
+   </name>
+   <name>
+    <surname>Onat</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Chua</surname>
+    <given-names>DT</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Chemotherapy as an adjunct to radiotherapy in locally advanced nasopharyngeal carcinoma</article-title>
+  <source>Cochrane Database Syst Rev.</source>
+  <year>2006</year>
+  <volume>4</volume>
+  <fpage>CD004329</fpage>
+ </element-citation>
+</ref>

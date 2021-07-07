@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Joffre</surname>
+    <given-names>OP</given-names>
+   </name>
+   <name>
+    <surname>Segura</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Savina</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Amigorena</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Cross-presentation by dendritic cells</article-title>
+  <source>Nat Rev Immunol</source>
+  <year>2012</year>
+  <volume>12</volume>
+  <fpage>557</fpage>
+  <lpage>569</lpage>
+  <pub-id pub-id-type="doi">10.1038/nri3254</pub-id>
+  <?supplied-pmid 22790179?>
+  <pub-id pub-id-type="pmid">22790179</pub-id>
+ </element-citation>
+</ref>

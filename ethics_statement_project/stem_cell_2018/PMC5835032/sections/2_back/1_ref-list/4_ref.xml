@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bayraktar</surname>
+    <given-names>UD</given-names>
+   </name>
+   <name>
+    <surname>de Lima</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Saliba</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Maloy</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Castro-Malaspina</surname>
+    <given-names>HR</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Ex vivo T cell-depleted versus unmodified allografts in patients with acute myeloid leukemia in first complete remission</article-title>. 
+  <source>Biol Blood Marrow Transplant</source> (
+  <year>2013</year>) 
+  <volume>19</volume>(
+  <issue>6</issue>):
+  <fpage>898</fpage>–
+  <lpage>903</lpage>.
+  <pub-id pub-id-type="doi">10.1016/j.bbmt.2013.02.018</pub-id>
+  <?supplied-pmid 23467126?>
+  <pub-id pub-id-type="pmid">23467126</pub-id>
+ </mixed-citation>
+</ref>

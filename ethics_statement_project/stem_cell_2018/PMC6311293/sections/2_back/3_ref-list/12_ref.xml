@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B13">
+ <label>13</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Monje</surname>
+    <given-names>M. L.</given-names>
+   </name>
+   <name>
+    <surname>Mizumatsu</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Fike</surname>
+    <given-names>J. R.</given-names>
+   </name>
+   <name>
+    <surname>Palmer</surname>
+    <given-names>T. D.</given-names>
+   </name>
+  </person-group>
+  <article-title>Irradiation induces neural precursor-cell dysfunction</article-title>
+  <source>
+   <italic toggle="yes">Nature Medicine</italic>
+  </source>
+  <year>2002</year>
+  <volume>8</volume>
+  <issue>9</issue>
+  <fpage>955</fpage>
+  <lpage>962</lpage>
+  <pub-id pub-id-type="other">2-s2.0-0036735783</pub-id>
+  <pub-id pub-id-type="doi">10.1038/nm749</pub-id>
+ </element-citation>
+</ref>

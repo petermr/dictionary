@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>PBMCs were isolated from venous blood of healthy adult participants following informed consent per approved institutional protocol (McGill University). CD4 memory T cells were obtained by magnetic activated cell sorting with negative selection, which depletes CD45RA, CD8, CD14, CD16, CD19, CD56, CD36, CD123, anti-TCRγδ, and CD235a (glycophorin A) according to manufacturer’s instructions (Miltenyi Biotec, Auburn, CA, USA). The resulting phenotype was CD3
+ <sup>+</sup>CD4
+ <sup>+</sup>CD45RO
+ <sup>+</sup>CD45RA
+ <sup>−</sup> as determined by flow cytometry with antibodies for CD3-PerCP (UCHT-1), CD4-FITC (RPA-T4), CD45RO-APC (UCHL1), and CD45RA-PE (HI100) from BD Biosciences. Purified autologous NK cells were obtained with CD56
+ <sup>+</sup> selection magnetic activated cell sorting (Miltenyi Biotec). The resulting phenotype was CD3
+ <sup>−</sup>CD56
+ <sup>+</sup> determined by flow cytometry using antibodies for CD3-FITC (UCHT-1), NKG2D-APC (1D11), and CD56-PE (B159). The purified CD4 T cells and NK cells were incubated in media containing RPMI1640, 10% FBS, 1% pen strep, 1% 
+ <sc>l</sc>-glutamine, at 37°C with 5% CO
+ <sub>2</sub>, in 96-well U-bottom plates at 0.2 × 10
+ <sup>6</sup> cells per well. Activation was with soluble anti-CD3 antibodies (OKT3; 1.0 µg/ml; eBioscience) and anti-CD28 antibodies (CD28.2; 1.0 µg/ml; eBioscience). Th17 polarization was with neutralizing anti-IFN-γ and anti-IL-4 antibodies (5 µg/ml, R&amp;D systems) and 10 ng/ml of recombinant human IL-23 (R&amp;D systems) for 4 days. ELISA and intracellular cytokine staining were performed as previously described to measure IL-17A and IFN-γ (
+ <xref rid="B40" ref-type="bibr">40</xref>). Detection of MICA was achieved with MICA polyclonal antibody and Zenon labeling kit according to manufacturer’s instructions (Thermo Fisher Scientific, Carlsbad, CA, USA). For proliferation assay, memory CD4 T cells were pre-labeled with CFSE as previously described (
+ <xref rid="B40" ref-type="bibr">40</xref>). For cell death studies, annexin V and 7AAD were performed on live cells, this was done by washing cells, adding annexin V PE in annexin V binding buffer (BD Bioscience) at 1:10 ratio in 100 µl for 20 min, and then 7AAD (BD Bioscience) at a 1:20 ratio for additional 10 min at room temperature before reading on flow cytometer within 1 h. Before annexin V and 7AAD labeling, surface staining with CD4 and CD56 was performed to identify gates using FlowJo software (Tree Star Inc.). The NKG2D neutralizing antibody (Amgen, Inc., Seattle, WA, USA) was used at 40 µg/ml, an amount shown previously to significantly attenuate cytotoxicity of NK cells toward glial cells as described in a previous publication (
+ <xref rid="B34" ref-type="bibr">34</xref>). CD58 neutralizing antibodies and respective isotype control were used at 10 µg/ml (R&amp;D systems). These neutralizing experiments were done by combining purified CD4 memory T cells and purified NK cells at equal ratio and incubating for 4 days under activation (CD3 and CD28) and polarization conditions (anti-IFN-γ and anti-IL-4), then measuring IL-17A by ELISA from the supernatants.
+</p>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B39">
+ <label>39</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Atkins</surname>
+    <given-names>HL</given-names>
+   </name>
+   <name>
+    <surname>Bowman</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Allan</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Anstee</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Arnold</surname>
+    <given-names>DL</given-names>
+   </name>
+   <name>
+    <surname>Bar-Or</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Immunoablation and autologous haemopoietic stem-cell transplantation for aggressive multiple sclerosis: a multicentre single-group phase 2 trial</article-title>. 
+  <source>Lancet</source> (
+  <year>2016</year>) 
+  <volume>388</volume>(
+  <issue>10044</issue>):
+  <fpage>576</fpage>–
+  <lpage>85</lpage>.
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(16)30169-6</pub-id>
+  <?supplied-pmid 27291994?>
+  <pub-id pub-id-type="pmid">27291994</pub-id>
+ </mixed-citation>
+</ref>

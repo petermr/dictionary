@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Finak</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Stromal gene expression predicts clinical outcome in breast cancer</article-title>
+  <source>Nat. Med.</source>
+  <year>2008</year>
+  <volume>14</volume>
+  <fpage>518</fpage>
+  <lpage>527</lpage>
+  <pub-id pub-id-type="doi">10.1038/nm1764</pub-id>
+  <?supplied-pmid 18438415?>
+  <pub-id pub-id-type="pmid">18438415</pub-id>
+ </element-citation>
+</ref>

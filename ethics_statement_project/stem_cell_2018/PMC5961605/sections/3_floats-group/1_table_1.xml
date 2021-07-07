@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Schedule for assessments</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Screening</td>
+    <td align="left" rowspan="1" colspan="1">Bone marrow harvest*</td>
+    <td align="left" rowspan="1" colspan="1">Baseline (immediately before implantation)</td>
+    <td align="left" rowspan="1" colspan="1">Implantation</td>
+    <td colspan="4" align="left" rowspan="1">Follow-up</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Visit number</td>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">2</td>
+    <td colspan="2" align="left" rowspan="1">3</td>
+    <td align="left" rowspan="1" colspan="1">4</td>
+    <td align="left" rowspan="1" colspan="1">5</td>
+    <td align="left" rowspan="1" colspan="1">6</td>
+    <td align="left" rowspan="1" colspan="1">7</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Timing postimplantation</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Approximate 
+     <break/>week: 5
+    </td>
+    <td colspan="2" align="left" rowspan="1">Day 0</td>
+    <td align="left" rowspan="1" colspan="1">Day 2†</td>
+    <td align="left" rowspan="1" colspan="1">Week 6</td>
+    <td align="left" rowspan="1" colspan="1">Week 12</td>
+    <td align="left" rowspan="1" colspan="1">Week 24</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Deviation window (days)</td>
+    <td align="left" rowspan="1" colspan="1">‡</td>
+    <td align="left" rowspan="1" colspan="1">±14</td>
+    <td colspan="2" align="left" rowspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0 hours</td>
+    <td align="left" rowspan="1" colspan="1">±7</td>
+    <td align="left" rowspan="1" colspan="1">±7</td>
+    <td align="left" rowspan="1" colspan="1">±7</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Eligibility review</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Medical history</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Informed consent</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Clinical assessment</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">HBV, HCV, HIV-1 and HIV-2 and syphilis tests</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Pregnancy tests</td>
+    <td align="left" rowspan="1" colspan="1">X§</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X¶</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Bone marrow harvest</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">MSC implantation</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Routine course of physiotherapy</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X**</td>
+    <td align="left" rowspan="1" colspan="1">X**</td>
+    <td align="left" rowspan="1" colspan="1">X**</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Ultrasound imaging (conventional ultrasound and UTC)</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X**</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X††</td>
+    <td align="left" rowspan="1" colspan="1">X††</td>
+    <td align="left" rowspan="1" colspan="1">X††</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">VISA-A Questionnaire</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">VAS</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">MOXFQ</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">EQ-5D Questionnaire</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">SAS Questionnaire</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Concomitant medication</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">AE review</td>
+    <td align="left" rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td colspan="2" align="left" rowspan="1">X X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+    <td align="left" rowspan="1" colspan="1">X</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tblfn1">
+   <p>*Urine pregnancy test at bone marrow harvest.</p>
+  </fn>
+  <fn id="tblfn2">
+   <p>†Day 2 follow-up assessments are done by telephone.</p>
+  </fn>
+  <fn id="tblfn3">
+   <p>‡Screening procedures must take place at least 1 week before and within 30 days of the bone marrow procedure.</p>
+  </fn>
+  <fn id="tblfn4">
+   <p>§Self-declaration from the patient.</p>
+  </fn>
+  <fn id="tblfn5">
+   <p>¶Within 7 days of implantation.</p>
+  </fn>
+  <fn id="tblfn6">
+   <p>**The number of visits are dependent on participant’s progress and are not obligatory at these time points. Standard NHS protocol for physiotherapy will start within 1–2 weeks after implantation. Dates of physiotherapy attendances will be recorded in the case report form.</p>
+  </fn>
+  <fn id="tblfn7">
+   <p>††Two radiologists will independently scan the participant using ultrasound. UTC will also be measured twice on each occasion.</p>
+  </fn>
+  <fn id="tblfn8">
+   <p>AE, adverse events; EQ-5D-5L, EuroQol 5-dimension 5-level; HBV, hepatitis B virus; HCV, hepatitis C virus; MOXFQ, Manchester Oxford Foot and Ankle Questionnaire; SAS, Sporting Activity Score; UTC, ultrasound tissue characteristics; VAS, Visual Analogue Score; VISA-A, Victorian Institute of Sports Assessment Achilles Questionnaire.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

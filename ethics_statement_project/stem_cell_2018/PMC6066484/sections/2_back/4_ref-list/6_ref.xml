@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kumar</surname>
+    <given-names>SK</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Management of newly diagnosed symptomatic multiple myeloma: updated mayo stratification of myeloma and risk-adapted therapy (mSMART) consensus guidelines</article-title>
+  <source>Mayo Clin. Proc.</source>
+  <year>2009</year>
+  <volume>84</volume>
+  <fpage>1095</fpage>
+  <lpage>1110</lpage>
+  <pub-id pub-id-type="doi">10.4065/mcp.2009.0603</pub-id>
+  <?supplied-pmid 19955246?>
+  <pub-id pub-id-type="pmid">19955246</pub-id>
+ </element-citation>
+</ref>

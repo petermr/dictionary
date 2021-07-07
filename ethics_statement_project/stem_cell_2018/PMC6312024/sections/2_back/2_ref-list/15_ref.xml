@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b15-1040189">
+ <label>15.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>SI</given-names>
+   </name>
+   <name>
+    <surname>Celik</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Logsdon</surname>
+    <given-names>BA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A machine learning approach to integrate big data for precision medicine in acute myeloid leukemia</article-title>. 
+  <source>Nat Commun</source>. 
+  <year>2018</year>;
+  <volume>9</volume>(
+  <issue>1</issue>):
+  <fpage>42</fpage>.
+  <pub-id pub-id-type="pmid">29298978</pub-id>
+ </mixed-citation>
+</ref>

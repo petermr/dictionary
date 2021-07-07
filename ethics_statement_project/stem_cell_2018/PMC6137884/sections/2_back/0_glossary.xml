@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>2D</term>
+   <def>
+    <p id="Par6">Two-dimensional</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Ac-LDL-Dil</term>
+   <def>
+    <p id="Par117">Acetylated low-density lipoprotein labeled with dioctadecyl-tetramethylindocarbocyanine perchlorate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AE</term>
+   <def>
+    <p id="Par7">Adverse events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ATMP</term>
+   <def>
+    <p id="Par8">Advanced therapy medicinal product</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BM</term>
+   <def>
+    <p id="Par9">Bone marrow</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CCS</term>
+   <def>
+    <p id="Par10">Canadian Cardiovascular Society</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CFU-EC</term>
+   <def>
+    <p id="Par11">Colony forming unit-endothelial cell</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CMR</term>
+   <def>
+    <p id="Par12">Cardiac magnetic resonance</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CPET</term>
+   <def>
+    <p id="Par13">Cardiopulmonary exercise testing</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par14">Cell therapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ECG</term>
+   <def>
+    <p id="Par118">Electrocardiogram</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EF</term>
+   <def>
+    <p id="Par15">Ejection fraction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FBS</term>
+   <def>
+    <p id="Par119">Fetal bovine serum</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FLT3LG</term>
+   <def>
+    <p id="Par16">Flt3 ligand</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GMP</term>
+   <def>
+    <p id="Par17">Good manufacturing practice</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GRO-α</term>
+   <def>
+    <p id="Par18">Growth-regulated oncogene alpha</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HGF</term>
+   <def>
+    <p id="Par19">Hepatocyte growth factor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ICD</term>
+   <def>
+    <p id="Par20">Implantable cardioverter defibrillator</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ICE</term>
+   <def>
+    <p id="Par21">Intracardiac echocardiography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IL</term>
+   <def>
+    <p id="Par22">Interleukin</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LIF</term>
+   <def>
+    <p id="Par23">Leukemia inhibitory factor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LV</term>
+   <def>
+    <p id="Par24">Left ventricle</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MACE</term>
+   <def>
+    <p id="Par25">Major adverse cardiac events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MCP-1</term>
+   <def>
+    <p id="Par26">Monocyte chemoattractant protein-1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MCS</term>
+   <def>
+    <p id="Par27">Mental Component Summary</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MI</term>
+   <def>
+    <p id="Par28">Myocardial infarction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MIP-1β</term>
+   <def>
+    <p id="Par29">Macrophage inflammatory protein-1 beta</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MLHFQ</term>
+   <def>
+    <p id="Par30">Minnesota Living with Heart Failure Questionnaire</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MoA</term>
+   <def>
+    <p id="Par31">Mode of action</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NYHA</term>
+   <def>
+    <p id="Par33">New York Heart Association</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PCI</term>
+   <def>
+    <p id="Par34">Percutaneous coronary intervention</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PCS</term>
+   <def>
+    <p id="Par35">Physical Component Summary</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PDGF-bb</term>
+   <def>
+    <p id="Par36">Platelet-derived growth factor type bb</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RA</term>
+   <def>
+    <p id="Par37">Refractory angina</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RANTES</term>
+   <def>
+    <p id="Par38">Regulated on activation normal T cell expressed and secreted</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RCT</term>
+   <def>
+    <p id="Par39">Randomized controlled trials</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SAE</term>
+   <def>
+    <p id="Par40">Serious adverse events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SCF</term>
+   <def>
+    <p id="Par41">Stem cell factor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SDS</term>
+   <def>
+    <p id="Par42">Summed difference score</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SF-12</term>
+   <def>
+    <p id="Par43">Short Form-12</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SOP</term>
+   <def>
+    <p id="Par44">Standard operative procedure</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SPECT</term>
+   <def>
+    <p id="Par45">Gated-single photon emission computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SRS</term>
+   <def>
+    <p id="Par46">Summed rest score</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SSS</term>
+   <def>
+    <p id="Par47">Summed stress score</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>UAE-1</term>
+   <def>
+    <p id="Par120">
+     <italic>Ulex europaeus</italic> agglutinin-1
+    </p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VEGF</term>
+   <def>
+    <p id="Par48">Vascular endothelial growth factor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VO
+    <sub>2</sub>
+   </term>
+   <def>
+    <p id="Par49">Oxygen consumption</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WB</term>
+   <def>
+    <p id="Par50">Washing buffer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WMSI</term>
+   <def>
+    <p id="Par51">Wall motion score index</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

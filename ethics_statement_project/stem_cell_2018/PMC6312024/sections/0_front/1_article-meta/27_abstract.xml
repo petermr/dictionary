@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <p>The application of machine learning in medicine has been productive in multiple fields, but has not previously been applied to analyze the complexity of organ involvement by chronic graft-
+  <italic>versus</italic>-host disease. Chronic graft-
+  <italic>versus</italic>-host disease is classified by an overall composite score as mild, moderate or severe, which may overlook clinically relevant patterns in organ involvement. Here we applied a novel computational approach to chronic graft-
+  <italic>versus</italic>-host disease with the goal of identifying phenotypic groups based on the subcomponents of the National Institutes of Health Consensus Criteria. Computational analysis revealed seven distinct groups of patients with contrasting clinical risks. The high-risk group had an inferior overall survival compared to the low-risk group (hazard ratio 2.24; 95% confidence interval: 1.36-3.68), an effect that was independent of graft-
+  <italic>versus</italic>-host disease severity as measured by the National Institutes of Health criteria. To test clinical applicability, knowledge was translated into a simplified clinical prognostic decision tree. Groups identified by the decision tree also stratified outcomes and closely matched those from the original analysis. Patients in the high- and intermediate-risk decision-tree groups had significantly shorter overall survival than those in the low-risk group (hazard ratio 2.79; 95% confidence interval: 1.58-4.91 and hazard ratio 1.78; 95% confidence interval: 1.06-3.01, respectively). Machine learning and other computational analyses may better reveal biomarkers and stratify risk than the current approach based on cumulative severity. This approach could now be explored in other disease models with complex clinical phenotypes. External validation must be completed prior to clinical application. Ultimately, this approach has the potential to reveal distinct pathophysiological mechanisms that may underlie clusters. 
+  <italic>
+   <ext-link ext-link-type="uri" xlink:href="http://Clinicaltrials.gov" xmlns:xlink="http://www.w3.org/1999/xlink">Clinicaltrials.gov</ext-link> identifier: NCT00637689
+  </italic>.
+ </p>
+</abstract>

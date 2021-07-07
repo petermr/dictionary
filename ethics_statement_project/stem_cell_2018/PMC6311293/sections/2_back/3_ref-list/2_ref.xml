@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brown</surname>
+    <given-names>P. D.</given-names>
+   </name>
+   <name>
+    <surname>Jaeckle</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Ballman</surname>
+    <given-names>K. V.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Effect of radiosurgery alone vs radiosurgery with whole brain radiation therapy on cognitive function in patients with 1 to 3 brain metastases a randomized clinical trial</article-title>
+  <source>
+   <italic toggle="yes">Journal of the American Medical Association</italic>
+  </source>
+  <year>2016</year>
+  <volume>316</volume>
+  <issue>4</issue>
+  <fpage>401</fpage>
+  <lpage>409</lpage>
+  <pub-id pub-id-type="other">2-s2.0-84979735756</pub-id>
+  <pub-id pub-id-type="doi">10.1001/jama.2016.9839</pub-id>
+  <pub-id pub-id-type="pmid">27458945</pub-id>
+ </element-citation>
+</ref>

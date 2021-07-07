@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>BM</term>
+   <def>
+    <p id="Par5">brain metastases</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par6">computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ED</term>
+   <def>
+    <p id="Par7">extensive disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EORTC</term>
+   <def>
+    <p id="Par8">European Organization for Research and Treatment of Cancer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GTV</term>
+   <def>
+    <p id="Par9">gross target volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HVLT-R</term>
+   <def>
+    <p id="Par10">Hopkins Verbal Learning Test – Revised</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MRI</term>
+   <def>
+    <p id="Par11">magnetic resonance imaging</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PCI</term>
+   <def>
+    <p id="Par12">prophylactic cranial irradiation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PTV</term>
+   <def>
+    <p id="Par13">planning target volume</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RPA</term>
+   <def>
+    <p id="Par14">recursive partitioning analysis</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SCLC</term>
+   <def>
+    <p id="Par15">small cell lung cancer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SRS</term>
+   <def>
+    <p id="Par16">stereotactic radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WBRT</term>
+   <def>
+    <p id="Par17">whole brain radiotherapy</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib10">
+ <label>10</label>
+ <element-citation publication-type="journal" id="sbref100">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Morgan</surname>
+    <given-names>GJ</given-names>
+   </name>
+   <name>
+    <surname>Gregory</surname>
+    <given-names>WM</given-names>
+   </name>
+   <name>
+    <surname>Davies</surname>
+    <given-names>FE</given-names>
+   </name>
+  </person-group>
+  <article-title>The role of maintenance thalidomide therapy in multiple myeloma: MRC Myeloma IX results and meta-analysis</article-title>
+  <source>Blood</source>
+  <volume>119</volume>
+  <year>2012</year>
+  <fpage>7</fpage>
+  <lpage>15</lpage>
+  <pub-id pub-id-type="pmid">22021371</pub-id>
+ </element-citation>
+</ref>

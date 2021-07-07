@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B49">
+ <label>49</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Roncarolo</surname>
+    <given-names>MG</given-names>
+   </name>
+   <name>
+    <surname>Bigler</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Haanen</surname>
+    <given-names>JB</given-names>
+   </name>
+   <name>
+    <surname>Yssel</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Bacchetta</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>de Vries</surname>
+    <given-names>JE</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Natural killer cell clones can efficiently process and present protein antigens</article-title>. 
+  <source>J Immunol</source> (
+  <year>1991</year>) 
+  <volume>147</volume>:
+  <fpage>781</fpage>–
+  <lpage>7</lpage>.
+  <?supplied-pmid 1861074?>
+  <pub-id pub-id-type="pmid">1861074</pub-id>
+ </mixed-citation>
+</ref>

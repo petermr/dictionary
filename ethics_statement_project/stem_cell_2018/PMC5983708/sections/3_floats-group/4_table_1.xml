@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="ijms-19-01312-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">ijms-19-01312-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Characteristics of both groups together with the amyotrophic lateral sclerosis functional rating scale (ALSFRS) and Norris scale results. Tx: transplantation.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Characteristic</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Group I (
+     <italic>n</italic> = 6)
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Group II (
+     <italic>n</italic> = 6)
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>p</italic>-Value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="2" align="center" valign="middle" rowspan="1">Age (mean ± SD, years)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">48.7 ± 15.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">50.7 ± 10</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">
+     <italic>p</italic> = 0.8133
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" align="center" valign="middle" rowspan="1">Age at disease onset (mean ± SD, years)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">45.5 ± 17</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">47.3 ± 10.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">
+     <italic>p</italic> = 0.8141
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" align="center" valign="middle" rowspan="1">Sex (male/female)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4/2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4/2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">
+     <italic>p</italic> = 1
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" align="center" valign="middle" rowspan="1">Symptom duration (mean ± SD, months)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">39.3 ± 27.39</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">37.3 ± 32.14</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">
+     <italic>p</italic> = 0.9178
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">Number of Lin- cells administered (mean ± SD)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">11.95 ± 5.76 × 10
+     <sup>6</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.53 ± 3.19 × 10
+     <sup>6</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>p</italic> = 0.0365
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">ALSFRS score (mean ± SD)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Before Lin- Tx</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">26.3 ± 2.8 </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">15.5 ± 3.15</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">
+     <italic>p</italic> = 0.0002
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3 months after Lin- Tx</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">25.5 ± 3.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">12.6 ± 1.7</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">
+     <italic>p</italic> = 0.0002
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6 months after Lin- Tx</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">23 ± 6.4</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10.5 ± 1.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>p</italic> = 0.0491
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Norris scale score (mean ± SD)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Before Lin− Tx</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">84.3 ± 4.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">58 ± 6.4 </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">
+     <italic>p</italic> &lt; 0.0001
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3 months after Lin- Tx</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">86 ± 5.9</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">50.3 ± 3.7</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">
+     <italic>p</italic> &lt; 0.0001
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6 months after Lin- Tx</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">81.6 ± 12.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">38 ± 6.6</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>p</italic> = 0.0007
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

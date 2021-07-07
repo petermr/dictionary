@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Younes</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Gopal</surname>
+    <given-names>AK</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>SE</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Results of a pivotal phase II study of brentuximab vedotin for patients with relapsed or refractory Hodgkin’s lymphoma</article-title>
+  <source>J Clin Oncol</source>
+  <year>2012</year>
+  <volume>30</volume>
+  <fpage>2183</fpage>
+  <lpage>2189</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2011.38.0410</pub-id>
+  <?supplied-pmid 22454421?>
+  <pub-id pub-id-type="pmid">22454421</pub-id>
+ </element-citation>
+</ref>

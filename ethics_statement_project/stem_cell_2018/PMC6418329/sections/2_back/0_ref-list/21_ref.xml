@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bartunek</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Behfar</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Dolatabadi</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cardiopoietic stem cell therapy in heart failure: the CCURE (Cardiopoietic stem Cell therapy in heart failure) multicenter randomized trial with lineage specified biologics</article-title>
+  <source>
+   <italic>J Am Coll Cardiol</italic>
+  </source>
+  <year>2013</year>
+  <volume>61</volume>
+  <fpage>2329</fpage>
+  <lpage>38</lpage>
+  <pub-id pub-id-type="pmid">23583246</pub-id>
+ </element-citation>
+</ref>

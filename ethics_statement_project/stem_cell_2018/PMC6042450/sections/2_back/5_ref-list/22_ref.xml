@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dominici</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Le Blanc</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Mueller</surname>
+    <given-names>I</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Minimal criteria for defining multipotent mesenchymal stromal cells. The International Society for Cellular Therapy position statement</article-title>
+  <source>Cytotherapy</source>
+  <year>2006</year>
+  <volume>8</volume>
+  <issue>4</issue>
+  <fpage>315</fpage>
+  <lpage>317</lpage>
+  <pub-id pub-id-type="doi">10.1080/14653240600855905</pub-id>
+  <?supplied-pmid 16923606?>
+  <pub-id pub-id-type="pmid">16923606</pub-id>
+ </element-citation>
+</ref>

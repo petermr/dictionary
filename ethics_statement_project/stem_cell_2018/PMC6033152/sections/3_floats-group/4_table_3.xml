@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jns12267-tbl-0003" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Definitions of study patient populations</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <thead valign="bottom">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Patient population</th>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Definition</th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">SAF</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">All randomised patients who receive at least part of one infusion of study treatment</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">FAS</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">According to the intent‐to‐treat principle, and includes all patients from the SAF population for whom data were collected post‐infusion of study treatment</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">PPS</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">A subset of the FAS, which excludes patients with significant protocol deviations that could potentially significantly affect evaluation of the primary outcome
+     <xref ref-type="fn" rid="jns12267-note-0004">a</xref>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="jns12267-note-0003">
+   <p>FAS, full analysis set; PPS, per‐protocol set; SAF, safety set.</p>
+  </fn>
+  <fn id="jns12267-note-0004">
+   <label>a</label>
+   <p>The classification of protocol violations will be conducted and documented before the database is locked, the data is unblinded and the statistical analyses are performed.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

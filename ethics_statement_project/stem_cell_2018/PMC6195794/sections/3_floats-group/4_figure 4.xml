@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig4">
+ <label>Figure 4</label>
+ <caption>
+  <p>Boxplots showing the change in retinal sensitivity from the baseline (mean of 3 baseline tests) as measured by microperimetry (Nidek MP-1) for each test locus at month 12. Loci were stratified into 3 groups: outside the transplantation area (solid green dots), within the transplantation and associated with subretinal hyperpigmentation (solid blue dots), or within the transplantation area and without subretinal hyperpigmentation (solid orange dots). Using a selection tool on the Visual Field Modelling and Analysis (VFMA) software, volumetric sensitivity within regions of retinal pigmentation were extracted from regions of pigmentation and nonpigmentation. The boxplots show the median value, quartiles, and range. hESC = human embryonic stem cell; K = thousand; P = patient; RPE = retinal pigment epithelial.</p>
+ </caption>
+ <graphic xlink:href="gr4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

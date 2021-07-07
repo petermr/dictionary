@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>AW</given-names>
+   </name>
+   <name>
+    <surname>Ng</surname>
+    <given-names>WT</given-names>
+   </name>
+   <name>
+    <surname>Chan</surname>
+    <given-names>LL</given-names>
+   </name>
+   <name>
+    <surname>Hung</surname>
+    <given-names>WM</given-names>
+   </name>
+   <name>
+    <surname>Chan</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Sze</surname>
+    <given-names>HC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Evolution of treatment for nasopharyngeal cancer–success and setback in the intensity-modulated radiotherapy era</article-title>
+  <source>Radiother Oncol</source>
+  <year>2014</year>
+  <volume>110</volume>
+  <issue>3</issue>
+  <fpage>377</fpage>
+  <lpage>384</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.radonc.2014.02.003</pub-id>
+  <pub-id pub-id-type="pmid">24630534</pub-id>
+ </element-citation>
+</ref>

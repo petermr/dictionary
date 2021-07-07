@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B19">
+ <label>19</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pospisil</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Kazda</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Hynkova</surname>
+    <given-names>L.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Post-WBRT cognitive impairment and hippocampal neuronal depletion measured by in vivo metabolic MR spectroscopy: Results of prospective investigational study</article-title>
+  <source>
+   <italic toggle="yes">Radiotherapy &amp; Oncology</italic>
+  </source>
+  <year>2017</year>
+  <volume>122</volume>
+  <issue>3</issue>
+  <fpage>373</fpage>
+  <lpage>379</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.radonc.2016.12.013</pub-id>
+  <pub-id pub-id-type="pmid">28063694</pub-id>
+ </element-citation>
+</ref>

@@ -6,29 +6,30 @@
   - [3.2. Mini-Corpus #2](#32-mini-corpus-2)
   - [3.3. Mini-Corpus #3](#33-mini-corpus-3)
   - [3.4. Mini-corpus #4](#34-mini-corpus-4)
+  - [3.5. Mini-corpus #5](#35-mini-corpus-5)
 - [4. `ami` dictionary - Ontology](#4-ami-dictionary---ontology)
 - [5. Updates](#5-updates)
-  - [PKE (20210701)](#pke-20210701)
-  - [5.1. Code review with PMR and Ayush (20210630)](#51-code-review-with-pmr-and-ayush-20210630)
-  - [5.2. Meeting on Tuesday (20210629)](#52-meeting-on-tuesday-20210629)
-  - [5.3. Meeting on Sunday (20210627)](#53-meeting-on-sunday-20210627)
-  - [5.4. Moving away from Jupyter Notebook, trying out different publishers (2021-06-23)](#54-moving-away-from-jupyter-notebook-trying-out-different-publishers-2021-06-23)
-  - [5.5. Exploration on 2021-06-18](#55-exploration-on-2021-06-18)
-  - [5.6. SPARQL Class (2021-06-16) - Potential Integration with ami](#56-sparql-class-2021-06-16---potential-integration-with-ami)
-  - [5.7. Better globbing, Regex and SPARQL Wrapper (2021-06-15)](#57-better-globbing-regex-and-sparql-wrapper-2021-06-15)
-  - [5.8. Entity Recognition using spaCy and NLTK with automatic scraping (2021-06-09)](#58-entity-recognition-using-spacy-and-nltk-with-automatic-scraping-2021-06-09)
-  - [5.9. Entity Recognition using spaCy (2021-06-06)](#59-entity-recognition-using-spacy-2021-06-06)
-  - [5.10. Ethics Statment Prototype dictionary (2021-06-01)](#510-ethics-statment-prototype-dictionary-2021-06-01)
+  - [5.1. Semantic Model for Ethics Statement, Textacy, Mixed content problem with XML, Boiler Plate](#51-semantic-model-for-ethics-statement-textacy-mixed-content-problem-with-xml-boiler-plate)
+  - [5.2. Code review with PMR and Ayush (20210630)](#52-code-review-with-pmr-and-ayush-20210630)
+  - [5.3. Meeting on Tuesday (20210629)](#53-meeting-on-tuesday-20210629)
+  - [5.4. Meeting on Sunday (20210627)](#54-meeting-on-sunday-20210627)
+  - [5.5. Moving away from Jupyter Notebook, trying out different publishers (2021-06-23)](#55-moving-away-from-jupyter-notebook-trying-out-different-publishers-2021-06-23)
+  - [5.6. Exploration on 2021-06-18](#56-exploration-on-2021-06-18)
+  - [5.7. SPARQL Class (2021-06-16) - Potential Integration with ami](#57-sparql-class-2021-06-16---potential-integration-with-ami)
+  - [5.8. Better globbing, Regex and SPARQL Wrapper (2021-06-15)](#58-better-globbing-regex-and-sparql-wrapper-2021-06-15)
+  - [5.9. Entity Recognition using spaCy and NLTK with automatic scraping (2021-06-09)](#59-entity-recognition-using-spacy-and-nltk-with-automatic-scraping-2021-06-09)
+  - [5.10. Entity Recognition using spaCy (2021-06-06)](#510-entity-recognition-using-spacy-2021-06-06)
+  - [5.11. Ethics Statment Prototype dictionary (2021-06-01)](#511-ethics-statment-prototype-dictionary-2021-06-01)
 - [6. Meeting Records](#6-meeting-records)
-  - [2021-07-01](#2021-07-01)
-  - [6.1. 2021-06-24](#61-2021-06-24)
-  - [6.2. 2021-06-17](#62-2021-06-17)
-  - [6.3. 2021-06-10](#63-2021-06-10)
-  - [6.4. 2021-06-03](#64-2021-06-03)
-  - [6.5. 2021-05-27](#65-2021-05-27)
-  - [6.6. 2021-05-20](#66-2021-05-20)
-  - [6.7. 2021-05-10](#67-2021-05-10)
-  - [6.8. 2021-05-07](#68-2021-05-07)
+  - [6.1. 2021-07-01](#61-2021-07-01)
+  - [6.2. 2021-06-24](#62-2021-06-24)
+  - [6.3. 2021-06-17](#63-2021-06-17)
+  - [6.4. 2021-06-10](#64-2021-06-10)
+  - [6.5. 2021-06-03](#65-2021-06-03)
+  - [6.6. 2021-05-27](#66-2021-05-27)
+  - [6.7. 2021-05-20](#67-2021-05-20)
+  - [6.8. 2021-05-10](#68-2021-05-10)
+  - [6.9. 2021-05-07](#69-2021-05-07)
 - [7. Tasks](#7-tasks)
 - [8. Previous Documentation](#8-previous-documentation)
   - [8.1. Intial Exploration](#81-intial-exploration)
@@ -68,6 +69,14 @@ To mine for Ethics Committees using `ethics_statement_generic.py`, I created a c
 - The `.csv` output can be found, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/ethics_statement_frontiers_1000_spacy.csv)
 - Only the entities column can be found, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/ethics_committee_frontiers_spacy_entities_column.csv)
 
+## 3.5. Mini-corpus #5 
+To move away from publisher specifiicity and to have a smaller corpus, we have created a new corpus using the query:
+
+```
+(METHODS:'stem cell') AND (PUB_TYPE:'Clinical Trial')  AND (FIRST_PDATE:[2018-01-01 TO 2018-12-31])
+```
+It's about 170 papers big. 
+
 # 4. `ami` dictionary - Ontology
 I have created a prototype dictionary, after analysing the Ethics Statement sections of Mini-Corpus #1  by using phrase extraction feature of [`ami_gui.py`](https://github.com/petermr/openDiagram/blob/master/physchem/python/ami_gui.py). `ami` uses ([RAKE](https://pypi.org/project/rake-nltk/) to extract and weigh phrases from text. The selected phrases are automatically saved into `keywords.txt` file in the mini-corpus (C-Project) directory.  
 
@@ -78,20 +87,35 @@ C:\Users\shweata\ethics_statement_corpus_1000\results>amidict -v --dictionary et
 The prototype dictionary is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/results/rake/ethics_statement.xml). 
 
 # 5. Updates
-## PKE (20210701)
+## 5.1. Semantic Model for Ethics Statement, Textacy, Mixed content problem with XML, Boiler Plate
+- Shweata met up with Chaitanya on 20210701. He is incharge of:
+  - Figuring out which is the best model to implement for key phrase extraction
+  - Text similarity 
+- PMR and Shweata met up on 20210703 to discuss feasibilities of ideas generated on 20210701's meeting. A detailed documentation is available,here. [The tagger idea](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/ethics_statement_tagger_idea.md)
+  - We propose a semantic model for ethics statement, wherein each sentence has a structure and information type. 
+  - We also realized that we should be working at sentence-level rather than paragraph-level. Ethics Statement are usually buried within a paragraph expalining the study design.
+  - A specific tangible goal would be useful to have at this point to streamline our workflow. 
+- Shweata has also looked at spaCy's sentence-splitter. spaCy also does text similarity which we might want to employ to find out similarities between a standard boiler plate and an ethics statement.
+- Shweata has also created custom hand-made boiler plate ethics dictionary, which is available [here](). She has implemented spaCy's `phrase matcher` with terms as phrases to match. Using spaCy's phrase matcher gives us a lot more functionality as we get to choose whether we would like to match only lowercase, and so on!
+- We've also created a mini-corpora to work with sentence-level information extraction. Details, [here]() 
+- Shweata found a tool called `textacy` which she demonstrated during Tuesday's (20210706) coding session. There were other tools which team members discussed. [Here](https://github.com/petermr/CEVOpen/wiki/Coding-Sessions:-Meeting-Record#date-2021-07-07) is the notes from the session
+- Daniel has created new organization on GitHub dedicated to Ethics Statement project.
+- 20210707: Shweata has now got `textacy`'s topic modeling to work, thanks to PMR's help! The code is available here to look it. It is still a protoype, but we are able to extract information on different topics in ethics statements or any paragraphs. The code is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/testing_texacy_tutorial.ipynb).
+- 20210707:Shweata discovered that, during XML parsing, the parapraphs were cut short due to the child elements between leading and trailing elements. Thanks to Ayush, the problem is now solved. We've implemented beautiful soup to parse. Writing to a `.csv ` became a problem because of `\n` character. But it's worked out now. The code is available [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/ethics_statement_generic.py).
+- - ## PKE (20210701)
 - PKE is a key phrase extraction Python toolkit. There are multiple models like TFIDF, Text Rank, Topic Rank, and so on. 
-## 5.1. Code review with PMR and Ayush (20210630)
+## 5.2. Code review with PMR and Ayush (20210630)
 - Ayush and Shweata updated about their work on Ethics Statement. They have come up with a prototype to build a feedback loop of looking for ethics committees and key phrases in labelled sections and using them to filter unlabeled ethics statements. They also spent a huge chunk of time debugging their code. They had to re-think their logic of getting the dictionary key by splitting the path. This resulted in getting only the last paragraphs of each section - which was the problem. We resolved it by changing the dictionary key to the section of the path independent of the users working directory.
 - In relation to Ethics Statement. Comments from PMR:
     - Linear workflow doesn't always work. As the project grows, it gets complex. There will be more looping and branching.
     - There are different levels that we are working with: Project -> CTree -> sections -> paragraphs -> sentences -> words. It's important, at each step, to know what you are working with.
     - KNIME: A tool to visualize workflow can be employed.
-## 5.2. Meeting on Tuesday (20210629)
+## 5.3. Meeting on Tuesday (20210629)
 - Ayush and Shweata met up to code together. Thanks to Ayush's help in coding, we now extract the terms from `ami` ethics statement dictionary, and search the paragraph sections for those terms. 
 - This would be very useful to retrieve non-labelled ethics statements, and build a feedback loop. 
-## 5.3. Meeting on Sunday (20210627) 
+## 5.4. Meeting on Sunday (20210627) 
 - Shweata and PMR met up to discuss a  potenial workflow for the project. Based on the discussion, Shweata has come up with a prototype workflow. It can be found, [here]()
-## 5.4. Moving away from Jupyter Notebook, trying out different publishers (2021-06-23)
+## 5.5. Moving away from Jupyter Notebook, trying out different publishers (2021-06-23)
 [New script](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/ethics_statement_generic.py)
 - I've moved away from Jupyter Notebook, for now. It was hard for me to move things around and make changes. 
 - made the  code conformant and modular (huge thanks to @ayushgarg). Turned the code into a class. 
@@ -104,7 +128,7 @@ The prototype dictionary is available, [here](https://github.com/petermr/diction
   - springer nature doesn't have useful file naming system
   - PLOS doesn't label Ethics Statement either
 
-## 5.5. Exploration on 2021-06-18
+## 5.6. Exploration on 2021-06-18
 - I did some experimentation by trying different publishers in EPMC queries. Surprisingly, I did not find ABSTRACTS in the abstracts. So I stuck to searching METHODS section. 
   ```
   (METHODS:"stem cell") AND ethics AND elsevier
@@ -183,12 +207,12 @@ The prototype dictionary is available, [here](https://github.com/petermr/diction
 
 - I also found `scispacy` python package, which we might use. 
 - I added the label display using spacy to my code. 
-## 5.6. SPARQL Class (2021-06-16) - Potential Integration with ami
+## 5.7. SPARQL Class (2021-06-16) - Potential Integration with ami
 [SPARQL class](sparql.py)
 - In today's CEVOpen coding session, we turned the wrapper to a class. 
 - We also explored logging and automatic documentation using `pyment` package. 
 
-## 5.7. Better globbing, Regex and SPARQL Wrapper (2021-06-15)
+## 5.8. Better globbing, Regex and SPARQL Wrapper (2021-06-15)
 [New notebook](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/Ethics_staement_dictionary_globbing_annotation_shweata.ipynb)
 - Noise in text was one of our main concerns. See the previous notebook to see what I mean. I noticed that Frontiers journal had explicit Ehtics Statement label and better structure. So, I decided to create a corpus of 100 papers from Frontiers journal. 
 - After sectioning the paper, I glob the Ethics Statement section from each paper and dump all the statements to a txt file. 
@@ -197,21 +221,21 @@ The prototype dictionary is available, [here](https://github.com/petermr/diction
 - We also would want to do a supervised search using `pyami` on these Ethics Statement. For that, we would like to query Wikidata and retrieve, let's say, Research Councils or Universitites. We (Peter and I) have a prototype implementation of SPARQLWrapper which queries Wikidata and returns SPARQL endpoint in XML format. We can, potentially, turn the enpoint into an `ami` dictionary. 
 - Needs better documentation
 
-## 5.8. Entity Recognition using spaCy and NLTK with automatic scraping (2021-06-09)
+## 5.9. Entity Recognition using spaCy and NLTK with automatic scraping (2021-06-09)
   I have now created a [new notebook](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/Ethics_statement_project_scraping_txt_file_containing_ethics.ipynb) which,
 -  globs sections of papers in CProject with the word 'ethic' in it.
 -  writes the paragraphs in the globbed section to a [`.txt`](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/ethics_statement_clinical_trial_50.txt) file.
 -  does Named Entity-Recognition using spaCy
 -  The entities with ORG label retrieves Ethics Committee names. 
 @Daniel and @PMR: There is a lot of noise because I don't have control over which paragraphs I write. The spaCy model isn't accurate either. Any directions would be helpful. 
-##  5.9. Entity Recognition using spaCy (2021-06-06)
+##  5.10. Entity Recognition using spaCy (2021-06-06)
 The [notebook I've written](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/Ethics_Statement_Entity_Recognition_spacy.ipynb) does Entity Recognition with which I've been able to pull out names of Ethics Committee. 
 - I manually scraped roughly 20 Ethics_Statements from a corpus on clinical trials and used spaCY for entity recognition. It is still a prototype, and I hope to extend it to a lot more papers. 
 - I have not used any models to do named entity recognition. ML would be useful in this case. 
-## 5.10. Ethics Statment Prototype dictionary (2021-06-01)
+## 5.11. Ethics Statment Prototype dictionary (2021-06-01)
 I have created a prototype dictionary after analysing the Ethics Statement section of Mini-Corpus #1 using [`ami_gui.py`](https://github.com/petermr/openDiagram/blob/master/physchem/python/ami_gui.py). It is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/results/rake/ethics_statement.xml).
 # 6. Meeting Records
-## 2021-07-01
+## 6.1. 2021-07-01
 [Workflow](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/project_workflow.md)
 - Shweata presented the prototype workflow for the project. You can look at the MD page for more information. Comments from Daniel and PMR: 
   - Think about integrating into Wikidata. Once we have the Ethics Committees, we might want to query Wikidata if it exists or not. 
@@ -238,7 +262,7 @@ I have created a prototype dictionary after analysing the Ethics Statement secti
   - Sentence level similarities
   - Experiment with key phrase extractions. 
 - Identifying main subjects of papers. We could then determine whether if we want to look for ethics statements or not, and so on. 
-## 6.1. 2021-06-24
+## 6.2. 2021-06-24
 - Shweata presented her updates on the code. Read more about it in the updates section dated 2021-06-23. 
 - Daniel - Next step would be to feed the mined Ethics Committee names to Wikidata. 
 - Shweata will commit the `.csv` to the project directory so that Daniel can pick it up and upload to Wikidata
@@ -252,7 +276,7 @@ Papers -> (Ethics Statements) -> Ethics Committees (using spaCy) -> Wikidata
 - We might also want to look at crowdsourcing parts of the works that goes into the project - a mixture of automation and manual work
 - Rule-based matching, regex or keyword searches are something to look at. 
 - 
-## 6.2. 2021-06-17
+## 6.3. 2021-06-17
 - Shweata presented an enhanced version of her previous Notebook. More information [here](#54-better-globbing-regex-and-sparql-wrapper-2021-06-15). 
 Comments and directions:
 - Try:
@@ -266,7 +290,7 @@ Comments and directions:
   - people -> company
   - people -> stock
 - PMR demonstrated his progress with Wikidata browser.
-## 6.3. 2021-06-10
+## 6.4. 2021-06-10
 - Shweata presented her initial work with entity recognition. Comments from Daniel and Peter. 
   - Use regex along with globing
   - Tfidf to weigh the terms
@@ -274,24 +298,24 @@ Comments and directions:
     - Human Annotation model - coming up with two sets of data, one with phrases which are most common in Ethics Statement and other which aren't. We can then build a model to extract named entities. 
     - Semantic Model - Coming up with a set of rules which we can use to extract named entities, approval numbers and so on.
 - Explore Wikidata for research councils and universities. Here is a [query](https://w.wiki/3Tsu) Daniel wrote to begin with. By doing so, we might get a better gauge for what's there and what isn't. 
-## 6.4. 2021-06-03
+## 6.5. 2021-06-03
 - We have added the dictionary terms as lexemes to Wikidata
 - Our next focus would be to retrieve the Ethics Committees involved in the approval process. -> Named entity recognition
 - Find more interesting terms related to Ethics Statement using TF-IDF.
 
-## 6.5. 2021-05-27
+## 6.6. 2021-05-27
 - @Daniel: Exploring with Wikidata Lexemes and Ethics Statement
 - Wikdata Game - You learn or Wikidata learns or both!
   - We can come up with a Wikidata game where we ask people whether a phrase - we extracted from `ami`using RAKE - is usually present in Ethics Statement or not.
 
-## 6.6. 2021-05-20
+## 6.7. 2021-05-20
 - We need a way to automate the retrieval of the Ethics Statement. We could do sectioning and retrieve them. But it's harder because most papers don't have a dedicated Ethics Statement (usually buried in the methods section). So, we'll have to create a dictionary, using the phrase we've initially extracted, to help with information retrieval (i.e., get Ethics Statement paragraph from papers). (Q: How does SpaCY give those phrase ranks?)
 - After getting, let's say, 1000 Ethics Statement, we can again try unsupervised or even supervised phrase extraction. We can refine our dictionaries and also start extracting hospital names, committee names and their identifiers, and so on.
 
-## 6.7. 2021-05-10
+## 6.8. 2021-05-10
 - Build a dictionary manually with frequently used n-grams in Ethics Statements.
 
-## 6.8. 2021-05-07
+## 6.9. 2021-05-07
 - Create a dictionary with commonly used phrases (engrams) in Ethics Statements
 - Pull out identifiers from these statements
 - Pull out Ethics Committees and add them to Wikidata

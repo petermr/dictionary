@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bernard</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Goutelle</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Bertrand</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Bleyzac</surname>
+    <given-names>N</given-names>
+   </name>
+  </person-group>
+  <article-title>Pharmacokinetic drug–drug interaction of calcium channel blockers with cyclosporine in hematopoietic stem cell transplant children</article-title>
+  <source>Ann Pharmacother.</source>
+  <year>2014</year>
+  <volume>48</volume>
+  <fpage>1580</fpage>
+  <lpage>1584</lpage>
+  <?supplied-pmid 25280976?>
+  <pub-id pub-id-type="pmid">25280976</pub-id>
+ </element-citation>
+</ref>

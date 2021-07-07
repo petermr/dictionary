@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ack>
+ <sec id="FPar1">
+  <title>Funding</title>
+  <p id="Par147">This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sector.</p>
+ </sec>
+ <sec id="FPar2">
+  <title>Availability of data and materials</title>
+  <p id="Par148">The datasets generated and/or analyzed during the current study are available in the Research Electronic Data Capture (REDCap) system repository, which is hosted on the Web server of the University of São Paulo.</p>
+ </sec>
+</ack>

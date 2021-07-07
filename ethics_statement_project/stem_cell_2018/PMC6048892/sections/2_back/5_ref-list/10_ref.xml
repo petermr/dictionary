@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kalemkerian</surname>
+    <given-names>GP</given-names>
+   </name>
+   <name>
+    <surname>Akerley</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Bogner</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Borghaei</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Chow</surname>
+    <given-names>LQ</given-names>
+   </name>
+   <name>
+    <surname>Downey</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Small cell lung cancer</article-title>
+  <source>J Natl Compr Canc Netw.</source>
+  <year>2013</year>
+  <volume>11</volume>
+  <fpage>78</fpage>
+  <lpage>98</lpage>
+  <pub-id pub-id-type="doi">10.6004/jnccn.2013.0011</pub-id>
+  <?supplied-pmid 23307984?>
+  <pub-id pub-id-type="pmid">23307984</pub-id>
+ </element-citation>
+</ref>

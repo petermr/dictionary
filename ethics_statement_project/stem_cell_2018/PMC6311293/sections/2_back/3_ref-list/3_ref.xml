@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Soffietti</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Abacioglu</surname>
+    <given-names>U.</given-names>
+   </name>
+   <name>
+    <surname>Baumert</surname>
+    <given-names>B.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Diagnosis and treatment of brain metastases from solid tumors: Guidelines from the European Association of neuro-oncology (EANO)</article-title>
+  <source>
+   <italic toggle="yes">Neuro-Oncology</italic>
+  </source>
+  <year>2017</year>
+  <volume>19</volume>
+  <issue>2</issue>
+  <fpage>162</fpage>
+  <lpage>174</lpage>
+  <pub-id pub-id-type="other">2-s2.0-85019685291</pub-id>
+  <pub-id pub-id-type="doi">10.1093/neuonc/now241</pub-id>
+  <?supplied-pmid 28391295?>
+  <pub-id pub-id-type="pmid">28391295</pub-id>
+ </element-citation>
+</ref>

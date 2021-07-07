@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib11">
+ <label>11</label>
+ <element-citation publication-type="journal" id="sref11">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhou</surname>
+    <given-names>Q.H.</given-names>
+   </name>
+   <name>
+    <surname>Boado</surname>
+    <given-names>R.J.</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>J.Z.</given-names>
+   </name>
+   <name>
+    <surname>Hui</surname>
+    <given-names>E.K.</given-names>
+   </name>
+   <name>
+    <surname>Pardridge</surname>
+    <given-names>W.M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Brain-penetrating IgG-iduronate 2-sulfatase fusion protein for the mouse</article-title>
+  <source>Drug Metab. Dispos.</source>
+  <volume>40</volume>
+  <year>2012</year>
+  <fpage>329</fpage>
+  <lpage>335</lpage>
+  <pub-id pub-id-type="pmid">22065691</pub-id>
+ </element-citation>
+</ref>

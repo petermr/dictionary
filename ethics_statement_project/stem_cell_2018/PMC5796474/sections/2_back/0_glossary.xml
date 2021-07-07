@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>ADC</term>
+   <def>
+    <p id="Par5">Antibody-drug conjugate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ALCL</term>
+   <def>
+    <p id="Par6">Anaplastic large-cell lymphoma</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ALT</term>
+   <def>
+    <p id="Par7">Alanine aminotransferase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AST</term>
+   <def>
+    <p id="Par8">Aspartate aminotransferase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CR</term>
+   <def>
+    <p id="Par9">Complete remission</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par10">Computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DLT</term>
+   <def>
+    <p id="Par11">Dose-limiting toxicity</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EFS</term>
+   <def>
+    <p id="Par12">Event-free survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FAS</term>
+   <def>
+    <p id="Par13">Full analysis set</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>G-CSF</term>
+   <def>
+    <p id="Par14">Granulocyte-colony stimulating factor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HBs</term>
+   <def>
+    <p id="Par15">Hepatitis B virus surface</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HL</term>
+   <def>
+    <p id="Par16">Hodgkin’s lymphoma</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LD-IFRT</term>
+   <def>
+    <p id="Par17">Low-dose involved field radiotherapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MMAE</term>
+   <def>
+    <p id="Par18">Monomethylauristatin E</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MTD</term>
+   <def>
+    <p id="Par19">Maximum tolerance dose</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NYHA</term>
+   <def>
+    <p id="Par20">New York Heart Association</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ORR</term>
+   <def>
+    <p id="Par21">Overall response rate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PD</term>
+   <def>
+    <p id="Par22">Progressive disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PET</term>
+   <def>
+    <p id="Par23">Positron emission tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PFS</term>
+   <def>
+    <p id="Par24">Progression-free survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PK</term>
+   <def>
+    <p id="Par25">Pharmacokinetics</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PR</term>
+   <def>
+    <p id="Par26">Partial remission</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SALCL</term>
+   <def>
+    <p id="Par27">Systemic ALCL</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SG</term>
+   <def>
+    <p id="Par28">Inc., Seattle Genetics, Inc.</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ULN</term>
+   <def>
+    <p id="Par29">Upper limit of normal</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

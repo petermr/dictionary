@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R32">
+ <label>32.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Akpan</surname>
+    <given-names>MR</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Ahmad</surname>
+    <given-names>R</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Shebl</surname>
+    <given-names>NA</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>A Review of Quality Measures for Assessing the Impact of Antimicrobial Stewardship Programs in Hospitals</article-title>. 
+  <source>Antibiotics</source>
+  <year>2016</year>;
+  <volume>5</volume>:
+  <fpage>5</fpage>
+  <pub-id pub-id-type="doi">10.3390/antibiotics5010005</pub-id>
+ </mixed-citation>
+</ref>

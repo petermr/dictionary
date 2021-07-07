@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tbl1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Baseline characteristics</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th/>
+    <th/>
+    <th align="left">
+     <bold>Lenalidomide group (n=1137)</bold>
+    </th>
+    <th align="left">
+     <bold>Observation group (n=834)</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="3" align="left">Age, years</td>
+    <td align="left">66 (59–72)</td>
+    <td align="left">66 (59–72)</td>
+   </tr>
+   <tr>
+    <td colspan="5" align="left">Age group</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">18–60 years</td>
+    <td align="left">361 (32%)</td>
+    <td align="left">251 (30%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">61–70 years</td>
+    <td align="left">416 (37%)</td>
+    <td align="left">312 (37%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">&gt;70 years</td>
+    <td align="left">360 (32%)</td>
+    <td align="left">271 (32%)</td>
+   </tr>
+   <tr>
+    <td colspan="5" align="left">Sex</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Men</td>
+    <td align="left">696 (61%)</td>
+    <td align="left">527 (63%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Women</td>
+    <td align="left">441 (39%)</td>
+    <td align="left">307 (37%)</td>
+   </tr>
+   <tr>
+    <td colspan="5" align="left">Ethnicity</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">White</td>
+    <td align="left">1060 (93%)</td>
+    <td align="left">773 (93%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Black (black Caribbean, black African, other)</td>
+    <td align="left">26 (3%)</td>
+    <td align="left">17 (2%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Asian (Indian, Pakistani, Bangladeshi, other)</td>
+    <td align="left">18 (2%)</td>
+    <td align="left">17 (2%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Other</td>
+    <td align="left">10 (1%)</td>
+    <td align="left">8 (1%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Unknown</td>
+    <td align="left">23 (2%)</td>
+    <td align="left">19 (2%)</td>
+   </tr>
+   <tr>
+    <td colspan="5" align="left">Disease stage</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">I</td>
+    <td align="left">327 (29%)</td>
+    <td align="left">239 (29%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">II</td>
+    <td align="left">439 (39%)</td>
+    <td align="left">349 (42%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">III</td>
+    <td align="left">291 (26%)</td>
+    <td align="left">192 (23%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Unknown</td>
+    <td align="left">80 (7%)</td>
+    <td align="left">54 (6%)</td>
+   </tr>
+   <tr>
+    <td colspan="5" align="left">Immunoglobulin subtype</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">IgG</td>
+    <td align="left">699 (61%)</td>
+    <td align="left">494 (59%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">IgA</td>
+    <td align="left">272 (24%)</td>
+    <td align="left">219 (26%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">IgM</td>
+    <td align="left">7 (1%)</td>
+    <td align="left">3 (&lt;1%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">IgD</td>
+    <td align="left">12 (1%)</td>
+    <td align="left">6 (1%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Light-chain only</td>
+    <td align="left">137 (12%)</td>
+    <td align="left">108 (13%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Non-secretor</td>
+    <td align="left">9 (1%)</td>
+    <td align="left">2 (&lt;1%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Unknown</td>
+    <td align="left">1 (&lt;1%)</td>
+    <td align="left">2 (&lt;1%)</td>
+   </tr>
+   <tr>
+    <td colspan="3" align="left">Creatinine, μmol/L</td>
+    <td align="left">85 (71–103)</td>
+    <td align="left">84 (69–105)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Unknown</td>
+    <td align="left">3 (&lt;1%)</td>
+    <td align="left">1 (&lt;1%)</td>
+   </tr>
+   <tr>
+    <td colspan="3" align="left">Lactate dehydrogenase, IU/L</td>
+    <td align="left">262 (178–381)</td>
+    <td align="left">271 (183–366)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Unknown</td>
+    <td align="left">251 (22%)</td>
+    <td align="left">175 (21%)</td>
+   </tr>
+   <tr>
+    <td colspan="3" align="left">Cytogenetic risk assessment available</td>
+    <td align="left">447 (39%)</td>
+    <td align="left">327 (39%)</td>
+   </tr>
+   <tr>
+    <td colspan="5" align="left">Cytogenetic risk</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Standard</td>
+    <td align="left">228/447 (51%)</td>
+    <td align="left">184/327 (56%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">High risk
+     <xref rid="tbl1fn1" ref-type="table-fn">*</xref>
+    </td>
+    <td align="left">166/447 (37%)</td>
+    <td align="left">113/327 (35%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Ultra-high risk
+     <xref rid="tbl1fn1" ref-type="table-fn">*</xref>
+    </td>
+    <td align="left">53/447 (12%)</td>
+    <td align="left">30/327 (9%)</td>
+   </tr>
+   <tr>
+    <td colspan="5" align="left">Transplantation eligibility and induction regimen
+     <xref rid="tbl1fn2" ref-type="table-fn">†</xref>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Transplantation eligible</td>
+    <td align="left">730 (64%)</td>
+    <td align="left">518 (62%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td/>
+    <td align="left">CTD</td>
+    <td align="left">236 (21%)</td>
+    <td align="left">194 (23%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td/>
+    <td align="left">CRD</td>
+    <td align="left">260 (23%)</td>
+    <td align="left">207 (25%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td/>
+    <td align="left">KCRD</td>
+    <td align="left">234 (21%)</td>
+    <td align="left">117 (14%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Transplantation ineligible</td>
+    <td align="left">407 (36%)</td>
+    <td align="left">316 (38%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Attenuated CTD</td>
+    <td align="left">194 (17%)</td>
+    <td align="left">150 (18%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Attenuated CRD</td>
+    <td align="left">213 (19%)</td>
+    <td align="left">166 (20%)</td>
+   </tr>
+   <tr>
+    <td colspan="5" align="left">CVD randomisation after minimal or partial response
+     <xref rid="tbl1fn2" ref-type="table-fn">†</xref>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Allocated to CVD</td>
+    <td align="left">79 (7%)</td>
+    <td align="left">63 (8%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Allocated to no CVD</td>
+    <td align="left">98 (9%)</td>
+    <td align="left">78 (9%)</td>
+   </tr>
+   <tr>
+    <td colspan="3" align="left">Received CVD after stable or progressive disease</td>
+    <td align="left">16 (1%)</td>
+    <td align="left">8 (1%)</td>
+   </tr>
+   <tr>
+    <td colspan="5" align="left">Response at maintenance randomisation</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Complete or very good partial response</td>
+    <td align="left">945 (83%)</td>
+    <td align="left">705 (85%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Partial or minimal response</td>
+    <td align="left">172 (15%)</td>
+    <td align="left">118 (14%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Stable or progressive disease</td>
+    <td align="left">8 (1%)</td>
+    <td align="left">6 (1%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Unable to assess</td>
+    <td align="left">10 (1%)</td>
+    <td align="left">1 (&lt;1%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td colspan="2" align="left">Unknown</td>
+    <td align="left">2 (&lt;1%)</td>
+    <td align="left">4 (&lt;1%)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>Data are median (IQR), n (%), or n/N (%). CRD=cyclophosphamide, lenalidomide, and dexamethasone. CTD=cyclophosphamide, thalidomide, and dexamethasone. CVD=cyclophosphamide, bortezomib, and dexamethasone. KCRD=carfilzomib, cyclophosphamide, lenalidomide, and dexamethasone. All responses were assessed according to International Myeloma Working Group criteria.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fn1">
+   <label>*</label>
+   <p id="cenpara10">High-risk cytogenetic abnormalities were defined as gain(1q), t(4;14), t(14;16), t(14;20), and del(17p). Ultra-high risk was defined as the presence of more than one high-risk lesion.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fn2">
+   <label>†</label>
+   <p id="cenpara20">Stratification factor in minimisation algorithm.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

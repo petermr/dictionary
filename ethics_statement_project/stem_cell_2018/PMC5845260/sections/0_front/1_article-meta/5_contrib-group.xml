@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Riordan</surname>
+   <given-names>Neil H.</given-names>
+  </name>
+  <address>
+   <email>nhriordan@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Morales</surname>
+   <given-names>Isabela</given-names>
+  </name>
+  <address>
+   <email>drmorales@cellmedicine.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fernández</surname>
+   <given-names>Giselle</given-names>
+  </name>
+  <address>
+   <email>drfernandez@cellmedicine.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Allen</surname>
+   <given-names>Nicole</given-names>
+  </name>
+  <address>
+   <email>nallen@cellmedicine.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fearnot</surname>
+   <given-names>Neal E.</given-names>
+  </name>
+  <address>
+   <email>nfearnot@medinst.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Leckrone</surname>
+   <given-names>Michael E.</given-names>
+  </name>
+  <address>
+   <email>Mike.Leckrone@cookmedical.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Markovich</surname>
+   <given-names>Dedra Jones</given-names>
+  </name>
+  <address>
+   <email>dmarkovich@medinstitute.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mansfield</surname>
+   <given-names>Darla</given-names>
+  </name>
+  <address>
+   <email>dmansfield@medinstitute.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Avila</surname>
+   <given-names>Dorita</given-names>
+  </name>
+  <address>
+   <email>writer@cellmedicine.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Patel</surname>
+   <given-names>Amit N.</given-names>
+  </name>
+  <address>
+   <email>dallaspatel@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kesari</surname>
+   <given-names>Santosh</given-names>
+  </name>
+  <address>
+   <email>santoshkesari@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Paz Rodriguez</surname>
+   <given-names>Jorge</given-names>
+  </name>
+  <address>
+   <email>drpaz@cellmedicine.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>Stem Cell Institute, Panama City, Panama 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.459775.d</institution-id>
+   <institution>MediStem Panama Inc., </institution>
+  </institution-wrap>Clayton, City of Knowledge, Panama City, Panama 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>Cook Advanced Technologies, West Lafayette, IN USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0166 8246</institution-id>
+   <institution-id institution-id-type="GRID">grid.471137.7</institution-id>
+   <institution>Cook Medical Technologies, </institution>
+  </institution-wrap>Bloomington, IN USA 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8606</institution-id>
+   <institution-id institution-id-type="GRID">grid.26790.3a</institution-id>
+   <institution>Department of Surgery, </institution>
+   <institution>University of Miami School of Medicine, </institution>
+  </institution-wrap>Miami, FL USA 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0450 0360</institution-id>
+   <institution-id institution-id-type="GRID">grid.416507.1</institution-id>
+   <institution>Department of Translational Neurosciences and Neurotherapeutics, </institution>
+   <institution>John Wayne Cancer Institute and Pacific Neuroscience Institute, </institution>
+  </institution-wrap>Santa Monica, CA USA 
+ </aff>
+</contrib-group>

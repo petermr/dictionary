@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chan</surname>
+    <given-names>AT</given-names>
+   </name>
+   <name>
+    <surname>Teo</surname>
+    <given-names>PM</given-names>
+   </name>
+   <name>
+    <surname>Ngan</surname>
+    <given-names>RK</given-names>
+   </name>
+   <name>
+    <surname>Leung</surname>
+    <given-names>TW</given-names>
+   </name>
+   <name>
+    <surname>Lau</surname>
+    <given-names>WH</given-names>
+   </name>
+   <name>
+    <surname>Zee</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Concurrent chemotherapy-radiotherapy compared with radiotherapy alone in locoregionally advanced nasopharyngeal carcinoma: progression-free survival analysis of a phase III randomized trial</article-title>
+  <source>J Clin Oncol</source>
+  <year>2002</year>
+  <volume>20</volume>
+  <issue>8</issue>
+  <fpage>2038</fpage>
+  <lpage>2044</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2002.08.149</pub-id>
+  <pub-id pub-id-type="pmid">11956263</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Marrotte</surname>
+    <given-names>EJ</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>D-D</given-names>
+   </name>
+   <name>
+    <surname>Hakim</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>AF</given-names>
+   </name>
+  </person-group>
+  <article-title>Manganese superoxide dismutase expression in endothelial progenitor cells accelerates wound healing in diabetic mice</article-title>
+  <source>J Clin Invest</source>
+  <year>2010</year>
+  <volume>120</volume>
+  <fpage>4207</fpage>
+  <lpage>4219</lpage>
+  <pub-id pub-id-type="doi">10.1172/JCI36858</pub-id>
+  <?supplied-pmid 21060152?>
+  <pub-id pub-id-type="pmid">21060152</pub-id>
+ </element-citation>
+</ref>

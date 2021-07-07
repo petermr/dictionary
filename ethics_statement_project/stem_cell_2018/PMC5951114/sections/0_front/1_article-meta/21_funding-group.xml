@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group>
+  <funding-source id="cn01">Multiple Sclerosis Scientific Research Foundation
+   <named-content content-type="fundref-id">10.13039/100011873</named-content>
+  </funding-source>
+ </award-group>
+ <award-group>
+  <funding-source id="cn02">Natural Sciences and Engineering Research Council of Canada
+   <named-content content-type="fundref-id">10.13039/501100000038</named-content>
+  </funding-source>
+  <award-id rid="cn02">418522-2013</award-id>
+ </award-group>
+ <award-group>
+  <funding-source id="cn03">Canadian Institutes of Health Research
+   <named-content content-type="fundref-id">10.13039/501100000024</named-content>
+  </funding-source>
+ </award-group>
+</funding-group>

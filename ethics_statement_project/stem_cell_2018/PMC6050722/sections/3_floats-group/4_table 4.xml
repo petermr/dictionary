@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab4">
+ <label>Table 4</label>
+ <caption>
+  <p>
+   <italic>UGT1A1</italic> polymorphisms and clinical factors of Cox regression analysis for OS and EFS
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="2">Variables in the model</th>
+    <th align="left" colspan="2">Overall survival</th>
+    <th align="left" colspan="2">Event free survival</th>
+   </tr>
+   <tr>
+    <th align="left">HR (95% CI)</th>
+    <th align="left">
+     <italic>P</italic> value
+    </th>
+    <th align="left">HR (95% CI)</th>
+    <th align="left">
+     <italic>P</italic> value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">
+     <italic>UGT1A1 *28/</italic>− or 
+     <italic>*6/</italic>−
+    </td>
+    <td char="(" align="char">0.787 (0.627–0.990)</td>
+    <td align="left">0.040</td>
+    <td char="(" align="char">0.959 (0.700–1.313)</td>
+    <td align="left">0.923</td>
+   </tr>
+   <tr>
+    <td align="left">Risk stratification groups:</td>
+    <td align="left"/>
+    <td align="left">7.8 × 10
+     <sup>−16</sup>
+    </td>
+    <td char="(" align="char"/>
+    <td align="left">9.5 × 10
+     <sup>−5</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left"> Low vs intermediate</td>
+    <td char="(" align="char">0.775 (0.566–1.066)</td>
+    <td align="left">0.117</td>
+    <td char="(" align="char">0.686 (0.493–0.953)</td>
+    <td align="left">0.021</td>
+   </tr>
+   <tr>
+    <td align="left"> High vs intermediate</td>
+    <td char="(" align="char">2.615 (2.024–3.377)</td>
+    <td align="left">1.9 × 10
+     <sup>−13</sup>
+    </td>
+    <td char="(" align="char">1.652 (1.188–2.297)</td>
+    <td align="left">0.003</td>
+   </tr>
+   <tr>
+    <td align="left">WBC count, × 10
+     <sup>9</sup>/l
+    </td>
+    <td char="(" align="char">1.003 (1.001–1.005)</td>
+    <td align="left">0.002</td>
+    <td char="(" align="char">1.002 (1.000–1.004)</td>
+    <td align="left">0.095</td>
+   </tr>
+   <tr>
+    <td align="left">Age (years)</td>
+    <td char="(" align="char">1.013 (1.005–1.021)</td>
+    <td align="left">0.002</td>
+    <td char="(" align="char">1.004 (0.995–1.013)</td>
+    <td align="left">0.366</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>WBC</italic> white blood cell
+  </p>
+ </table-wrap-foot>
+</table-wrap>

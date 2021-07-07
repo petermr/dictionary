@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par27">To identify relevant SNPs from the GWAS that may be important but do not reach genome-wide significance, we will use a suggestive significance level of 
+ <italic>p</italic> = 5.10
+ <sup>− 6</sup>. After GWAS analysis, we will use the R script EasyQC [
+ <xref ref-type="bibr" rid="CR31">31</xref>] to clean the association results based, amongst others, on minor allele frequency and imputation quality. The results will then be visualized and the functional annotation for all leading SNPs will be identified using the online platform called Functional Mapping and Annotation of GWAS (FUMA-GWAS) [
+ <xref ref-type="bibr" rid="CR32">32</xref>].
+</p>

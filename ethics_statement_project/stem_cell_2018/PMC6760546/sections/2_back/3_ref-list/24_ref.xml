@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Solomon</surname>
+    <given-names>SR</given-names>
+   </name>
+   <name>
+    <surname>Sizemore</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Sanacore</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Brown</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Holland</surname>
+    <given-names>HK</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Total body irradiation-based myeloablative haploidentical stem cell transplantation is a safe and effective alternative to unrelated donor transplantation in patients without matched sibling donors</article-title>
+  <source>Biol Blood Marrow Transplant</source>
+  <year>2015</year>
+  <volume>21</volume>
+  <fpage>1299</fpage>
+  <lpage>307</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbmt.2015.03.003</pub-id>
+  <pub-id pub-id-type="pmid">25797174</pub-id>
+ </element-citation>
+</ref>

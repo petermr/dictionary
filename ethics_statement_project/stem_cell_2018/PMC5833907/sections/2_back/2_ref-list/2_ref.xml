@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Martin</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Bleyzac</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Souillet</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Galambrun</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Bertrand</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Maire</surname>
+    <given-names>PH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Relationship between CsA trough blood concentration and severity of acute graft-versus-host disease after paediatric stem cell transplantation from matched-sibling or unrelated donors</article-title>
+  <source>Bone Marrow Transplant.</source>
+  <year>2003</year>
+  <volume>32</volume>
+  <fpage>777</fpage>
+  <lpage>784</lpage>
+  <?supplied-pmid 14520421?>
+  <pub-id pub-id-type="pmid">14520421</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Neutrophils chemotaxis was quantified using a transwell setup similar to previous description (
+ <xref rid="B30" ref-type="bibr">30</xref>, 
+ <xref rid="B31" ref-type="bibr">31</xref>). Briefly, 5 × 10
+ <sup>6</sup> neutrophils/ml were stained with 3.3 μM bis-2-carboxyethyl-5-[and-6]-carboxyfluorescein-AM (Sigma-Aldrich) for 20 min at room temperature, washed, and resuspended in medium with 0.05% human serum albumin. Fluorescence-impermeable transwell inserts (BD Falcon, HTS FluoroBlok, 3 μm pore size, PET membrane) were loaded with 5 × 10
+ <sup>5</sup> cells each and placed into wells of 24-well plates containing 600 μl RPMI, with or without 10 nM formyl-methionyl-leucyl-phenylalanine (fMLF). Fluorescence intensity (FI) with excitation 485 nm and emission 520 nm was detected in a plate reader (FLUOstar OMEGA; BMG Labtech) with 5% CO
+ <sub>2</sub> and 37°C over the course of 30 min. Medium only served as blank and 5 × 10
+ <sup>5</sup> stained cells seeded directly into the lower compartment served as 100% FI reference. If indicated, we added 10 ng/ml or 50 ng/ml G-CSF (human recombinant G-CSF, Sigma-Aldrich) to the respective neutrophil sample. Subsequently, cells were washed in medium and used as described. Thus, if not stated otherwise, neutrophils are unstimulated prior to the analysis. Migration was calculated as percent of 100% reference Migration of unstimulated cells was subtracted from the fMLF-induced migration. Half migration time was determined as time required for 50% of maximum migration. Velocity at half migration time was calculated as Δ%/min (see Figure 
+ <xref ref-type="supplementary-material" rid="SM2">S2</xref>).
+</p>

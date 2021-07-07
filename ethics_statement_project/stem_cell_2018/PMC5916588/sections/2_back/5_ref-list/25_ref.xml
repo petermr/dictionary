@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Oron</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Yaakobi</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Oron</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Hayam</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Gepstein</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Rubin</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Wolf</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Ben</surname>
+    <given-names>HS</given-names>
+   </name>
+  </person-group>
+  <article-title>Attenuation of infarct size in rats and dogs after myocardial infarction by low-energy laser irradiation</article-title>
+  <source>Lasers Surg Med</source>
+  <year>2001</year>
+  <volume>28</volume>
+  <fpage>204</fpage>
+  <lpage>211</lpage>
+  <pub-id pub-id-type="doi">10.1002/lsm.1039</pub-id>
+  <?supplied-pmid 11295753?>
+  <pub-id pub-id-type="pmid">11295753</pub-id>
+ </element-citation>
+</ref>

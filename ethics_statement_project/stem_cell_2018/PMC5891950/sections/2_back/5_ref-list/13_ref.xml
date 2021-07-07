@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Glavaski-Joksimovic</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Bohn</surname>
+    <given-names>MC</given-names>
+   </name>
+  </person-group>
+  <article-title>Mesenchymal stem cells and neuroregeneration in Parkinson's disease</article-title>
+  <source>Exp Neurol</source>
+  <year>2013</year>
+  <volume>247</volume>
+  <fpage>25</fpage>
+  <lpage>38</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.expneurol.2013.03.016</pub-id>
+  <?supplied-pmid 23542820?>
+  <pub-id pub-id-type="pmid">23542820</pub-id>
+ </element-citation>
+</ref>

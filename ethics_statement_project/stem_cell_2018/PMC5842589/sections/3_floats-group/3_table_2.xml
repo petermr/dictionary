@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>ACCoRd study first randomisation inclusion and exclusion criteria</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <tbody>
+   <tr>
+    <td>Inclusion criteria</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>1. Registered into the ACCoRd trial and received four to six cycles of ITD re-induction chemotherapy according to the protocol
+     <break/>2. Responded [(s)CR, VGPR or MR] or have SD according to the IMWG Uniform Response Criteria for Multiple Myeloma
+     <break/>3. Adequate stem cell mobilisation defined as ≥ 2 × 10
+     <sup>6</sup> CD34+ cells/kg or ≥ 2 × 10
+     <sup>8</sup> peripheral blood mononuclear cells (PBMCs)/kg available for transplantation (including cells stored from a previous harvest)
+     <break/>•Inclusion criteria 5{4}
+     <sup>a</sup>, 6{5} and 7{6} specified in Table 
+     <xref rid="Tab1" ref-type="table">1</xref> apply to R1 inclusion criteria and hence are not included in this table
+     <break/>7. Adequate pulmonary function within 14 days before registration:
+     <break/> (a) Adequate respiratory functional reserve (delineated by K
+     <sub>CO</sub>/D
+     <sub>LCO</sub> (carbon monoxide diffusion in the lung) of ≥ 50%). No evidence of a history of pulmonary disease. If a significant history, then a review by a respiratory medicine physician is required.
+     <break/>8. Adequate cardiac function within 12 weeks before registration:
+     <break/> (a) Left ventricular ejection fraction (LVEF) ≥ 40%. Note: repeat confirmation of cardiac function is needed if treatment is given between this assessment and registration
+    </td>
+    <td/>
+   </tr>
+   <tr>
+    <td>Exclusion criteria</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>1. Received any therapy for their relapsed disease other than local radiotherapy, therapeutic plasma exchange or Myeloma XII (ACCoRd) ITD treatment, prior to first randomisation. (Radiotherapy sufficient to alleviate or control pain of local invasion is permitted, but not within 14 days prior to randomisation. Participants who have received hemi-body radiation since relapse will not be eligible.)
+     <break/>• Exclusion criteria 2{2}, 5{3} and 6{4} specified in Table 
+     <xref rid="Tab1" ref-type="table">1</xref> apply to R1 exclusion criteria and hence are not included in this table
+     <break/>5. Any contraindication to protocol treatment that would make the participant ineligible
+    </td>
+    <td/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <sup>a</sup>5{4} notation is to be interpreted in the following way: Table 
+   <xref rid="Tab1" ref-type="table">1</xref> inclusion criteria 5 is equivalent to Table 
+   <xref rid="Tab2" ref-type="table">2</xref> inclusion criteria 4, etc.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

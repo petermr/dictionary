@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float" orientation="landscape">
+ <label>Table 1</label>
+ <caption>
+  <p id="P47">Baseline Characteristics and CC-486 Treatment Exposure</p>
+ </caption>
+ <table frame="hsides" rules="none">
+  <colgroup span="1">
+   <col align="left" valign="middle" span="1"/>
+   <col align="left" valign="middle" span="1"/>
+   <col align="left" valign="middle" span="1"/>
+   <col align="left" valign="middle" span="1"/>
+   <col align="left" valign="middle" span="1"/>
+   <col align="left" valign="middle" span="1"/>
+  </colgroup>
+  <thead>
+   <tr>
+    <th align="left" valign="top" rowspan="1" colspan="1"/>
+    <th align="left" valign="top" rowspan="1" colspan="1">200 mg QD for 7 Days (n = 3)</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">300 mg QD for 7 Days (n = 4)</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">150 mg QD for 14 Days (n = 4)</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">200 mg QD for 14 Days (n = 19)</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Total (N = 30)</th>
+   </tr>
+   <tr>
+    <th align="left" valign="top" colspan="6" rowspan="1">
+     <hr/>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Diagnosis</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> AML</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (67)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4 (100)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4 (100)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">16 (84)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">26 (87)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> MDS</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (33)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (16)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4 (13)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Median time from MDS/AML diagnosis to alloSCT, mo (range)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">6.2 (3.3–16.2)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4.6 (3.4–12.8)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3.5 (1.4–5.6)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4.8 (2.7–75.0)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4.8 (1.4–75.0)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Median time from initial diagnosis to CC-486, mo (range)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">8.2 (5.8–17.7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">6.8 (6.1–15.4)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">6.2 (4.1–8.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">12.9 (5.3–77.7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">7.0 (4.1–77.7)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Median time from alloSCT to CC-486, days (range)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">63.0 (45–78)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">81.5 (55–85)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">85.0 (84–85)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">81.0 (45–85)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">81.0 (45–85)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Median BM blasts before alloSCT, % (range)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0 (0–2)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4.0 (2–8)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0 (0–1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2.0 (0–6)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2.0 (0–8)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Median BM blasts after alloSCT, % (range)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1.0 (1–1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">.5 (0–2)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1.0 (0–1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1.0 (0–2)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1.0 (0–2)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Median HCT-CI score (range)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1.0 (0–1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0 (0–1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2.0 (0–3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0 (0–3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">.5 (0–3)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Disease status at study entry</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> CR1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (67)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (50)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (75)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">18 (95)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">25 (83)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> CR2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (33)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (7)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Active disease</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (5)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (10)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">AML WHO classification</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 4</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 4</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 16</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 26</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Recurrent genetic abnormalities</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (50)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">7 (44)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">9 (35)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Myelodysplasia-related changes</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (13)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (12)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Therapy-related myeloid neoplasms</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (4)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Not otherwise specified</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (100)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (50)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (50)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">7 (44)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">13 (50)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">MDS WHO classification</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 3</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 4</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> RA / RCMD</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (67)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (50)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> MDS-U</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (33)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> del(5q)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (100)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">MDS IPSS risk classification</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 3</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 4</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Low / Intermediate-1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (33)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Intermediate-2 / High</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (100)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (67)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (75)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">NCCN cytogenetic risk at AML diagnosis</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 4</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 4</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 16</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 26</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Favorable</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (50)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (6)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (12)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Intermediate</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (100)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (75)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">12 (75)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">18 (69)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Poor</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (6)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (4)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Missing</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (13)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4 (15)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">MDS cytogenetic risk at diagnosis</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 3</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">n = 4</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Good</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (33)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Intermediate</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (33)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Poor</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (33)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Missing</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (100)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Molecular abnormalities</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> 
+     <italic>NPM1</italic>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (11)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (7)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> 
+     <italic>CEBPA</italic>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (16)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4 (13)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> 
+     <italic>FLT3</italic>-ITD
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (33)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (16)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">5 (17)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">ECOG performance status</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> 0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (33)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">8 (42)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">11 (37)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> 1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (67)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (75)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (75)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">11 (58)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">19 (63)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> ≥2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Prior injectable HMA use</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (33)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">7 (37)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">9 (30)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Median CC-486 treatment cycles (range)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">7 (6–12)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">5.5 (1–7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">11.5 (4–12)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">12 (1–12)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">9 (1–12)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="TFN1">
+   <p id="P48">Values are n (%) unless otherwise defined. BM indicates bone marrow; CR, complete remission; CR1, first CR; CR2, second CR; ECOG, Eastern Cooperative Oncology Group; HCT-CI, hematopoietic cell transplantation–specific comorbidity index; HMA, hypomethylating agent; IPSS, International Prognostic Scoring System; MDS-U, MDS-undefined; NCCN, National Comprehensive Cancer Network; RA, refractory anemia; RCMD, refractory cytopenia with multilineage dysplasia; WHO, World Health Organization.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

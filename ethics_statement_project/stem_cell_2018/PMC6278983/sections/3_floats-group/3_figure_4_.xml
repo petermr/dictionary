@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f4-1031825" position="float">
+ <label>Figure 4.</label>
+ <caption>
+  <p>Model predictions on dose de-escalation and comparison with clinical data. (A) Comparison of DESTINY interim results with model simulations of 50% dose de-escalation applied to IRIS and CML-IV patient data (assuming the same protocol and patient selection criteria of DESTINY). We simulated dose de-escalation starting from the individually predicted remission level at the time of the last 
+   <italic>BCR-ABL1</italic> measurement of each patient, and evaluated the fraction of patients above MR3 one year after de-escalation. Error bars indicate 90% confidence intervals. (B) Model estimates of the risk of losing MR3 within one year after de-escalation, depending on the patient’s individual predicted remission level just before de-escalation. Patients with remission level above MR3.5 are very likely to lose MR3 at least transiently. (C) Model simulation illustrating the transient relapse above MR3 three months after de-escalation (highlighted time interval). De-escalation of 50% was implemented for a hypothetical patient of the DESTINY trial one year after reaching MR3. The simulation of a continuing half-dose regimen predicts that after about nine months the 
+   <italic>BCR-ABL1</italic> levels fall below MR3 and the response regains the original slope 
+   <italic>β</italic>. (D) Simulation results showing the predicted relative increase/decrease in the number of patients without molecular relapse two years after cessation. We use the standard treatment scenario (full-dose for one year) as the reference (corresponding to the dashed line at 0%) to compare it with: i) half-dose for one year (the DESTINY protocol; red), and ii) half-dose for two years (blue). Relapse is defined as loss of MR3.
+  </p>
+ </caption>
+ <graphic xlink:href="1031825.fig4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

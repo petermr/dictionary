@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Adverse events attributed (possibly, probably, or definitely) to DFMO.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>n = 140</th>
+    <th>Grade 2</th>
+    <th>Grade 3</th>
+    <th>Grade 4</th>
+    <th>Grade 5</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="5">
+     <bold>Hematologic Toxic Effects</bold>
+    </td>
+   </tr>
+   <tr>
+    <td>Anemia</td>
+    <td>4 (3%)</td>
+    <td>2 (1%)</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Neutrophil count decrease</td>
+    <td>7 (5%)</td>
+    <td>4 (4%)</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Platelet count decrease</td>
+    <td>2 (1%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>White blood cell decreased</td>
+    <td>3 (2%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td colspan="5">
+     <bold>Non-hematologic Toxic Effects</bold>
+    </td>
+   </tr>
+   <tr>
+    <td>Abdominal Pain</td>
+    <td>1 (&lt;1%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Agitation</td>
+    <td>1 (&lt;1%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Alopecia</td>
+    <td>2 (1%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>ALT elevation</td>
+    <td>7 (5%)</td>
+    <td>5 (4%)</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>AST elevation</td>
+    <td>5 (4%)</td>
+    <td>4 (4%)</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Alkaline phosphatase elevation</td>
+    <td>1 (&lt;1%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Anorexia</td>
+    <td>1 (&lt;1%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Diarrhea</td>
+    <td>6 (4%)</td>
+    <td>1 (&lt;1%)</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Fever</td>
+    <td>4 (3%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Hearing Loss</td>
+    <td>1 (&lt;1%)</td>
+    <td>5 (4%)</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Hypoglycemia</td>
+    <td>~</td>
+    <td>~</td>
+    <td>1 (&lt;1%)</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Hypokalemia</td>
+    <td>~</td>
+    <td>2 (1%)</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Infection, Other</td>
+    <td>3 (2%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Infection, middle ear</td>
+    <td>6 (4%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>INR Elevated</td>
+    <td>1 (&lt;1%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Insomnia</td>
+    <td>1 (&lt;1%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Pain</td>
+    <td>2 (1%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Post Nasal Drip</td>
+    <td>1 (&lt;1%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Rash</td>
+    <td>3 (2%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Vomiting</td>
+    <td>~</td>
+    <td>1 (&lt;1%)</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+   <tr>
+    <td>Weight Gain</td>
+    <td>1 (&lt;1%)</td>
+    <td>~</td>
+    <td>~</td>
+    <td>~</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>ALT = alanine aminotransferase AST = aspartate aminotransferase.</p>
+ </table-wrap-foot>
+</table-wrap>

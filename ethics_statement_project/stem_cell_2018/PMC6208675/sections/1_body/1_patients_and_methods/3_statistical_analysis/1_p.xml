@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par11">SAS Proc Mixed with a random effects unstructured covariance matrix to estimate mixed regression models was used to test the null hypothesis of no HRQoL difference between patients receiving any maintenance versus no maintenance therapy, and patients receiving lenalidomide-only maintenance versus no maintenance therapy. A quadratic growth model was applied with time as a continuous variable (given that ASCT can occur at any fractional quarterly period post-enrollment and having started at 100 days post-ASCT) adjusted for potential confounders including: study baseline renal impairment and presence of del(17p); analytic baseline history of monoclonal gammopathy of undetermined significance and peripheral neuropathy; day-100 post-ASCT albumin; and first-regimen first-course treatment of novel therapy (immunomodulatory agent or protease inhibitor), triplet therapy, and lenalidomide. The complete list of variables included in the analysis is listed in Table 5 (Online Resource 
+ <xref rid="MOESM1" ref-type="media">1</xref>). A post-hoc power assessment was conducted to determine whether the study was powered to find differences in PROs. For any maintenance (
+ <italic>n</italic> = 244) or lenalidomide-only maintenance (
+ <italic>n</italic> = 169) vs no maintenance (
+ <italic>n</italic> = 137): 99% power to detect minimal clinically important differences in HRQoL scales with two-sided 
+ <italic>P</italic> value of 0.05.
+</p>

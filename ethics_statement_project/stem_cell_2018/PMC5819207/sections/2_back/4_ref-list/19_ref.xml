@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pui</surname>
+    <given-names>CH</given-names>
+   </name>
+   <name>
+    <surname>Evans</surname>
+    <given-names>WE</given-names>
+   </name>
+  </person-group>
+  <article-title>A 50-year journey to cure childhood acute lymphoblastic leukemia</article-title>
+  <source>Semin Hematol</source>
+  <year>2013</year>
+  <volume>50</volume>
+  <issue>3</issue>
+  <fpage>185</fpage>
+  <lpage>196</lpage>
+  <pub-id pub-id-type="doi">10.1053/j.seminhematol.2013.06.007</pub-id>
+  <?supplied-pmid 23953334?>
+  <pub-id pub-id-type="pmid">23953334</pub-id>
+ </element-citation>
+</ref>

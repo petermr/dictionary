@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="sct312347-tbl-0003" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Correlations between primary endpoint (Vineland social communication) and baseline beta 2 absolute power with unadjusted 
+   <italic>p</italic> values
+  </p>
+ </caption>
+ <table frame="hsides" rules="cols">
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <thead valign="bottom">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Brain region</th>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Condition</th>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">
+     <italic>p</italic> value
+    </th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Frontal</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Bubbles</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">N.S.</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">Toys</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">N.S.</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">Social</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">N.S.</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Central</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Bubbles</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">.42
+     <xref ref-type="fn" rid="sct312347-note-0003">†</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">Toys</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">N.S.</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">Social</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">N.S.</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Posterior</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Bubbles</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">.41
+     <xref ref-type="fn" rid="sct312347-note-0003">†</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">Toys</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">.77
+     <xref ref-type="fn" rid="sct312347-note-0003">***</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">Social</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">.56
+     <xref ref-type="fn" rid="sct312347-note-0003">*</xref>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="sct312347-note-0003">
+   <p>
+    <sup>†</sup>
+    <italic>p</italic> &lt; .10, *
+    <italic>p</italic> &lt; .05, **
+    <italic>p</italic> &lt; .01, ***
+    <italic>p</italic> &lt; .001.
+   </p>
+  </fn>
+  <fn id="sct312347-note-0004">
+   <p>Abbreviation: N.S., nonsignificant.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib1">
+ <label>1</label>
+ <mixed-citation publication-type="journal">
+  <person-group>
+   <name>
+    <surname>Falanga</surname>
+    <given-names>V</given-names>
+   </name>
+  </person-group>
+  <article-title>Wound healing and its impairment in the diabetic foot</article-title>. 
+  <source>
+   <italic>Lancet</italic>
+  </source>. 
+  <year>2005</year>;
+  <volume>366</volume>:
+  <fpage>1736</fpage>–
+  <lpage>1743</lpage>.
+  <pub-id pub-id-type="pmid">16291068</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<def-list list-content="abbreviations" id="cas13513-dl-0001">
+ <title>Abbreviations</title>
+ <def-item>
+  <term>AE</term>
+  <def>
+   <p>adverse event</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>AITL</term>
+  <def>
+   <p>angioimmunoblastic T‐cell lymphoma</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>ALCL</term>
+  <def>
+   <p>anaplastic large cell lymphoma</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>ALK</term>
+  <def>
+   <p>anaplastic lymphoma kinase</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>ALT</term>
+  <def>
+   <p>alanine aminotransferase</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>AST</term>
+  <def>
+   <p>aspartate aminotransferase</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>CCR4</term>
+  <def>
+   <p>CC chemokine receptor 4</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>CTCL</term>
+  <def>
+   <p>cutaneous T‐cell lymphoma</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>DD</term>
+  <def>
+   <p>denileukin diftitox</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>DLT</term>
+  <def>
+   <p>dose‐limiting toxicity</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>IL‐2</term>
+  <def>
+   <p>interleukin‐2</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>IL‐2R</term>
+  <def>
+   <p>interleukin‐2 receptor</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>ISC</term>
+  <def>
+   <p>independent safety committee</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>MF</term>
+  <def>
+   <p>mycosis fungoides</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>MTD</term>
+  <def>
+   <p>maximum tolerated dose</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>NHL</term>
+  <def>
+   <p>non‐Hodgkin's lymphoma</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>NOS</term>
+  <def>
+   <p>not otherwise specified</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>ORR</term>
+  <def>
+   <p>objective response rate</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>PK</term>
+  <def>
+   <p>pharmacokinetics</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>PTCL</term>
+  <def>
+   <p>peripheral T‐cell lymphoma</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>RD</term>
+  <def>
+   <p>recommended dose</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>Treg</term>
+  <def>
+   <p>regulatory T‐cell</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>ULN</term>
+  <def>
+   <p>upper limit of normal</p>
+  </def>
+ </def-item>
+</def-list>

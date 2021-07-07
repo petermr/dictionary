@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Richardson</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Sun</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Bullock</surname>
+    <given-names>MR</given-names>
+   </name>
+  </person-group>
+  <article-title>Neurogenesis after traumatic brain injury</article-title>
+  <source>Neurosurg Clin N Am</source>
+  <year>2007</year>
+  <volume>18</volume>
+  <issue>1</issue>
+  <fpage>169</fpage>
+  <lpage>181</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.nec.2006.10.007</pub-id>
+  <?supplied-pmid 17244562?>
+  <pub-id pub-id-type="pmid">17244562</pub-id>
+ </element-citation>
+</ref>

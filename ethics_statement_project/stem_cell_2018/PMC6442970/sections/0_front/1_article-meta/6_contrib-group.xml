@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Drexler</surname>
+   <given-names>Beatrice</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1040710">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Passweg</surname>
+   <given-names>Jakob R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1040710">1</xref>
+  <xref ref-type="corresp" rid="c2-1040710"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tzankov</surname>
+   <given-names>Alexandar</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-1040710">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bigler</surname>
+   <given-names>Martin</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-1040710">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Theocharides</surname>
+   <given-names>Alexandre PA</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-1040710">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cantoni</surname>
+   <given-names>Nathan</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-1040710">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Keller</surname>
+   <given-names>Peter</given-names>
+  </name>
+  <xref ref-type="aff" rid="af6-1040710">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Stussi</surname>
+   <given-names>Georg</given-names>
+  </name>
+  <xref ref-type="aff" rid="af7-1040710">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ruefer</surname>
+   <given-names>Axel</given-names>
+  </name>
+  <xref ref-type="aff" rid="af8-1040710">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Benz</surname>
+   <given-names>Rudolf</given-names>
+  </name>
+  <xref ref-type="aff" rid="af9-1040710">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Favre</surname>
+   <given-names>Geneviève</given-names>
+  </name>
+  <xref ref-type="aff" rid="af10-1040710">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lundberg</surname>
+   <given-names>Pontus</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1040710">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nienhold</surname>
+   <given-names>Ronny</given-names>
+  </name>
+  <xref ref-type="aff" rid="af11-1040710">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fuhrer</surname>
+   <given-names>Andrea</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-1040710">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Biaggi</surname>
+   <given-names>Christine</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-1040710">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Manz</surname>
+   <given-names>Markus G.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-1040710">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bargetzi</surname>
+   <given-names>Mario</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-1040710">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mendez-Ferrer</surname>
+   <given-names>Simon</given-names>
+  </name>
+  <xref ref-type="aff" rid="af12-1040710">12</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Skoda</surname>
+   <given-names>Radek C.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af11-1040710">11</xref>
+  <xref ref-type="corresp" rid="c1-1040710"/>
+ </contrib>
+ <on-behalf-of>on behalf of the Swiss Group for Clinical Cancer Research (SAKK)</on-behalf-of>
+</contrib-group>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kaufman</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Djulbegovic</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Gernsheimer</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Kleinman</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Tinmouth</surname>
+    <given-names>AT</given-names>
+   </name>
+   <name>
+    <surname>Capocelli</surname>
+    <given-names>KE</given-names>
+   </name>
+   <name>
+    <surname>Cipolle</surname>
+    <given-names>MD</given-names>
+   </name>
+   <name>
+    <surname>Cohn</surname>
+    <given-names>CS</given-names>
+   </name>
+   <name>
+    <surname>Fung</surname>
+    <given-names>MK</given-names>
+   </name>
+   <name>
+    <surname>Grossman</surname>
+    <given-names>BJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Platelet transfusion: a clinical practice guideline from the AABB</article-title>
+  <source>Ann Intern Med.</source>
+  <year>2015</year>
+  <volume>162</volume>
+  <fpage>205</fpage>
+  <lpage>213</lpage>
+  <pub-id pub-id-type="doi">10.7326/M14-1589</pub-id>
+  <?supplied-pmid 25383671?>
+  <pub-id pub-id-type="pmid">25383671</pub-id>
+ </element-citation>
+</ref>

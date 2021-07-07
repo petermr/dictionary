@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>SPIRIT schedule of study visits and study procedures</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="bottom" align="left" rowspan="1" colspan="1">Baseline</td>
+    <td valign="bottom" align="left" rowspan="1" colspan="1">Week 0</td>
+    <td valign="bottom" align="left" rowspan="1" colspan="1">48 hours</td>
+    <td valign="bottom" align="left" rowspan="1" colspan="1">Week 2</td>
+    <td valign="bottom" align="left" rowspan="1" colspan="1">Week 4</td>
+    <td valign="bottom" align="left" rowspan="1" colspan="1">Week 8</td>
+    <td valign="bottom" align="left" rowspan="1" colspan="1">Week 12</td>
+    <td valign="bottom" align="left" rowspan="1" colspan="1">Week 24</td>
+    <td valign="bottom" align="left" rowspan="1" colspan="1">Week 52</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Informed consent</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">mRSS</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Pictures of hands</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Questionnaires</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">H&amp;P</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Safety laboratory studies</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Biomarker laboratory</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Skin biopsy</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Urine screening</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Capillaroscopy</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">ECG</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Administration of allocated treatment</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Monitoring of adverse events</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">x</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tblfn2">
+   <p>H&amp;P, history and physical examination; mRSS, modified Rodnan Skin Score; SPIRIT, Standard Protocol Items: Recommendations for Interventional Trials.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

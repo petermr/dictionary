@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B47">
+ <label>47</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shugay</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Bagaev</surname>
+    <given-names>DV</given-names>
+   </name>
+   <name>
+    <surname>Turchaninova</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Bolotin</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Britanova</surname>
+    <given-names>OV</given-names>
+   </name>
+   <name>
+    <surname>Putintseva</surname>
+    <given-names>EV</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>VDJtools: unifying post-analysis of T cell receptor repertoires</article-title>. 
+  <source>PLoS Comput Biol</source> (
+  <year>2015</year>) 
+  <volume>11</volume>:
+  <fpage>e1004503</fpage>.
+  <pub-id pub-id-type="doi">10.1371/journal.pcbi.1004503</pub-id>
+  <?supplied-pmid 26606115?>
+  <pub-id pub-id-type="pmid">26606115</pub-id>
+ </mixed-citation>
+</ref>

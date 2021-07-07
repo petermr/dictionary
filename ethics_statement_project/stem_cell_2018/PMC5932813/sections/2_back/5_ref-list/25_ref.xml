@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Barriga</surname>
+    <given-names>FJ</given-names>
+   </name>
+   <name>
+    <surname>Varas</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Potin</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Sapunar</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Rojo</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Martinez</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Efficacy of a vancomycin solution to prevent bacteremia associated with an indwelling central venous catheter in neutropenic and non-neutropenic cancer patients</article-title>
+  <source>Med Pediatr Oncol</source>
+  <year>1997</year>
+  <volume>28</volume>
+  <fpage>196</fpage>
+  <lpage>200</lpage>
+  <pub-id pub-id-type="doi">10.1002/(SICI)1096-911X(199703)28:3&lt;196::AID-MPO8&gt;3.0.CO;2-E</pub-id>
+  <?supplied-pmid 9024516?>
+  <pub-id pub-id-type="pmid">9024516</pub-id>
+ </element-citation>
+</ref>

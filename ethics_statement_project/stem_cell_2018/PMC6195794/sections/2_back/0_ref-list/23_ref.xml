@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib23">
+ <label>23</label>
+ <element-citation publication-type="journal" id="sref23">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kuriyan</surname>
+    <given-names>A.E.</given-names>
+   </name>
+   <name>
+    <surname>Albini</surname>
+    <given-names>T.A.</given-names>
+   </name>
+   <name>
+    <surname>Townsend</surname>
+    <given-names>J.H.</given-names>
+   </name>
+  </person-group>
+  <article-title>Vision loss after intravitreal injection of autologous “stem cells” for AMD</article-title>
+  <source>N Engl J Med</source>
+  <volume>376</volume>
+  <year>2017</year>
+  <fpage>1047</fpage>
+  <lpage>1053</lpage>
+  <pub-id pub-id-type="pmid">28296617</pub-id>
+ </element-citation>
+</ref>

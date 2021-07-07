@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Phan</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Chun</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Ali</surname>
+    <given-names>AK</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Natural killer cell subsets and receptor expression in peripheral blood mononuclear cells of a healthy Korean population: reference range, influence of age and sex, and correlation between NK cell receptors and cytotoxicity</article-title>. 
+  <source>Hum Immunol</source> (
+  <year>2017</year>) 
+  <volume>78</volume>:
+  <fpage>103</fpage>–
+  <lpage>12</lpage>.
+  <pub-id pub-id-type="doi">10.1016/j.humimm.2016.11.006</pub-id>
+  <?supplied-pmid 27884732?>
+  <pub-id pub-id-type="pmid">27884732</pub-id>
+ </mixed-citation>
+</ref>

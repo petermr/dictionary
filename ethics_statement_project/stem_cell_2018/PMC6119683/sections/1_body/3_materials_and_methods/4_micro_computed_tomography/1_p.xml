@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par23">Micro-computed tomography (µCT) analysis was performed as described previously.
+ <sup>
+  <xref ref-type="bibr" rid="CR29">29</xref>,
+  <xref ref-type="bibr" rid="CR30">30</xref>
+ </sup> Briefly, µCT images of the calvarial specimens were obtained via ex vivo µCT systems (µCT40; Scanco Medical, Bruttisellen, Switzerland at 70kVp, 0.1 mA, and Skyscan 1174; Skyscan, Aartlesaar, Belgium at 50 kVp and 0.8 mA), each with a 0.25-mm aluminium filter. Of note, the machines were cross-calibrated with manufacturer-provided hydroxyapatite phantoms and sample bones for consistency, but no density measures were abstracted. The calvariae were placed in a plastic sample holder with the sagittal suture oriented parallel to the image plane and scanned in air or PBS at 13-µm isotropic voxels, 200–1 300-ms integration time, 0.5° rotation step and frame averaging of 4. All scans were then reconstructed using NRecon software (Skyscan) with the same reconstruction parameters (ring artefact reduction of 5, beam hardening correction of 20%). For 3-D analysis (CTAn software, Skyscan), a gauss filter at 1.0-pixel radius and a global threshold range of 50–140 was used. This segmentation approach allowed viewing of the normal bone architecture in the binary images as seen in the original reconstructed images.
+ <sup>
+  <xref ref-type="bibr" rid="CR49">49</xref>
+ </sup>) All reconstructed images were adjusted to this grey scale before running the 3D analysis. Standard 3D morphometric parameters,
+ <sup>
+  <xref ref-type="bibr" rid="CR49">49</xref>
+ </sup> including percent bone volume, trabecular number, trabecular thickness and trabecular separation, were determined in an ROI (5.0-mm circle, 100 cuts = 1.3 mm, total volume = 25.5 mm
+ <sup>3</sup>). Representative 3D images were created using CTvox software (Skyscan).
+</p>

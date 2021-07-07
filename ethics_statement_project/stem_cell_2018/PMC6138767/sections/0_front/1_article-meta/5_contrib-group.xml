@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Huang</surname>
+   <given-names>Pei-Wei</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lin</surname>
+   <given-names>Chien-Yu</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">b</xref>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hsieh</surname>
+   <given-names>Chia-Hsun</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hsu</surname>
+   <given-names>Cheng-Lung</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fan</surname>
+   <given-names>Kang-Hsing</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">b</xref>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Huang</surname>
+   <given-names>Shiang-Fu</given-names>
+  </name>
+  <xref rid="aff3" ref-type="aff">c</xref>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liao</surname>
+   <given-names>Chun-Ta</given-names>
+  </name>
+  <xref rid="aff3" ref-type="aff">c</xref>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ng</surname>
+   <given-names>Shu-Kung</given-names>
+  </name>
+  <xref rid="aff4" ref-type="aff">d</xref>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yen</surname>
+   <given-names>Tzu-Chen</given-names>
+  </name>
+  <xref rid="aff5" ref-type="aff">e</xref>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chang</surname>
+   <given-names>Joseph Tung-Chieh</given-names>
+  </name>
+  <email>jtchang@cgmh.org.tw</email>
+  <xref rid="aff2" ref-type="aff">b</xref>
+  <xref rid="aff6" ref-type="aff">f</xref>
+  <xref rid="cor1" ref-type="corresp">∗</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Hung-Ming</given-names>
+  </name>
+  <email>whm526@cgmh.org.tw</email>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="aff6" ref-type="aff">f</xref>
+  <xref rid="cor2" ref-type="corresp">∗∗</xref>
+ </contrib>
+</contrib-group>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Kaplan-Meier survival and Cox proportional hazards models were used to analyze overall survival as well as time from stem cell transplantation to development of chronic GvHD. The survival curve of each cluster was fitted using a Cox proportional hazards model and was compared to the survival curve of the whole cohort (
+ <xref ref-type="fig" rid="f2-1040189">Figure 2</xref>). The risk coefficient from the hazards model was used as a cluster risk score. Risk groups were stratified into low, intermediate and high based on a coefficient of risk of 0 representing the overall coefficient of risk for the whole cohort, with coefficients &lt; −0.25 indicating low risk and coefficients &gt;0.25 indicating high risk. Non-relapse mortality was analyzed in a competing-risk analysis with relapse as a competing risk. Additional information on the multivariate models is provided in the 
+ <italic>Online Supplementary Methods</italic>.
+</p>

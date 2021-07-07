@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Galluzzi</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Senovilla</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Vacchelli</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Trial watch: Dendritic cell-based interventions for cancer therapy</article-title>
+  <source>Oncoimmunology</source>
+  <year>2012</year>
+  <volume>1</volume>
+  <fpage>1111</fpage>
+  <lpage>1134</lpage>
+  <pub-id pub-id-type="doi">10.4161/onci.21494</pub-id>
+  <?supplied-pmid 23170259?>
+  <pub-id pub-id-type="pmid">23170259</pub-id>
+ </element-citation>
+</ref>

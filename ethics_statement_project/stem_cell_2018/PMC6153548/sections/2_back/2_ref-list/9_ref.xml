@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Moore</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Cooper</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Jones</surname>
+    <given-names>DB</given-names>
+   </name>
+  </person-group>
+  <article-title>Use of the monoclonal antibody WR17, identifying the CD37 gp40-45 Kd antigen complex, in the diagnosis of B-lymphoid malignancy</article-title>
+  <source>J Pathol</source>
+  <year>1987</year>
+  <volume>152</volume>
+  <fpage>13</fpage>
+  <lpage>21</lpage>
+  <pub-id pub-id-type="doi">10.1002/path.1711520103</pub-id>
+  <?supplied-pmid 3305845?>
+  <pub-id pub-id-type="pmid">3305845</pub-id>
+ </element-citation>
+</ref>

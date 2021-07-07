@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We used descriptive statistics (arithmetic means with ± 95% CI) to compare, occurrence of lesions at the injection site and 1-tailed Fisher’s exact test (α = 0.05, 1df) to compare foal survival proportions of treated females to that of controls. We used normal binomial distributions to compute confidence limits for the differences between proportions using Jeffrey’s interval for small sample sizes [
+ <xref rid="pone.0201570.ref055" ref-type="bibr">55</xref>]. Effects on body condition scores were examined using generalized linear models in the 
+ <italic>lmer</italic> package in program R [
+ <xref rid="pone.0201570.ref056" ref-type="bibr">56</xref>]. We employed random effects for year and individuals and then compared this nested model to full models which added the effect of either treatment or foaling using an ANOVA.
+</p>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brown</surname>
+    <given-names>P. D.</given-names>
+   </name>
+   <name>
+    <surname>Pugh</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Laack</surname>
+    <given-names>N. N.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Memantine for the prevention of cognitive dysfunction in patients receiving whole-brain radiotherapy: a randomized, double-blind, placebo-controlled trial</article-title>
+  <source>
+   <italic toggle="yes">Neuro-Oncology</italic>
+  </source>
+  <year>2013</year>
+  <volume>15</volume>
+  <issue>10</issue>
+  <fpage>1429</fpage>
+  <lpage>1437</lpage>
+  <pub-id pub-id-type="doi">10.1093/neuonc/not114</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84884999605</pub-id>
+  <pub-id pub-id-type="pmid">23956241</pub-id>
+ </element-citation>
+</ref>

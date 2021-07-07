@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Patient characteristics</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="2">Patient no.</th>
+    <th align="left" rowspan="2">Age</th>
+    <th align="left" rowspan="2">Sex</th>
+    <th align="left" rowspan="2">Time between AML diagnosis and study entry (Mo)</th>
+    <th align="left" colspan="2">Disease status</th>
+    <th align="left" rowspan="2">Dead/alive at end of study</th>
+    <th align="left" colspan="2">% Blasts in bone marrow (cytomorphology)</th>
+   </tr>
+   <tr>
+    <th align="left">At study entry</th>
+    <th align="left">At end of study</th>
+    <th align="left">At study entry</th>
+    <th align="left">At end of study</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">DC-001</td>
+    <td char="." align="char">66</td>
+    <td align="left">F</td>
+    <td char="." align="char">8</td>
+    <td align="left">AML relapse/smoldering</td>
+    <td align="left">CR</td>
+    <td align="left">Alive</td>
+    <td align="left">7</td>
+    <td align="left">3</td>
+   </tr>
+   <tr>
+    <td align="left">DC-002</td>
+    <td char="." align="char">70</td>
+    <td align="left">M</td>
+    <td char="." align="char">7</td>
+    <td align="left">AML relapse/smoldering</td>
+    <td align="left">Disease progression</td>
+    <td align="left">Dead</td>
+    <td align="left">53</td>
+    <td align="left">89</td>
+   </tr>
+   <tr>
+    <td align="left">DC-004</td>
+    <td char="." align="char">72</td>
+    <td align="left">F</td>
+    <td char="." align="char">45</td>
+    <td align="left">AML in CR2</td>
+    <td align="left">CR</td>
+    <td align="left">Alive</td>
+    <td align="left">2</td>
+    <td align="left">3</td>
+   </tr>
+   <tr>
+    <td align="left">DC-005</td>
+    <td char="." align="char">74</td>
+    <td align="left">M</td>
+    <td char="." align="char">75</td>
+    <td align="left">AML relapse/smoldering</td>
+    <td align="left">Pneumonia</td>
+    <td align="left">Dead</td>
+    <td align="left">58</td>
+    <td align="left">MD
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">DC-006</td>
+    <td char="." align="char">69</td>
+    <td align="left">F</td>
+    <td char="." align="char">18</td>
+    <td align="left">AML relapse/smoldering</td>
+    <td align="left">Disease progression</td>
+    <td align="left">Alive</td>
+    <td align="left">14</td>
+    <td align="left">80</td>
+   </tr>
+   <tr>
+    <td align="left">DC-007</td>
+    <td char="." align="char">74</td>
+    <td align="left">F</td>
+    <td char="." align="char">14</td>
+    <td align="left">AML relapse/smoldering</td>
+    <td align="left">Smoldering disease</td>
+    <td align="left">Alive</td>
+    <td align="left">MD</td>
+    <td align="left">7</td>
+   </tr>
+   <tr>
+    <td align="left">DC-008</td>
+    <td char="." align="char">64</td>
+    <td align="left">F</td>
+    <td char="." align="char">7</td>
+    <td align="left">de novo AML, in CR1</td>
+    <td align="left">CR</td>
+    <td align="left">Alive</td>
+    <td align="left">0</td>
+    <td align="left">MD</td>
+   </tr>
+   <tr>
+    <td align="left">DC-011</td>
+    <td char="." align="char">57</td>
+    <td align="left">M</td>
+    <td char="." align="char">11</td>
+    <td align="left">de novo AML, in CR1</td>
+    <td align="left">Endocarditis</td>
+    <td align="left">Dead</td>
+    <td align="left">1</td>
+    <td align="left">MD
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">DC-012</td>
+    <td char="." align="char">70</td>
+    <td align="left">M</td>
+    <td char="." align="char">22</td>
+    <td align="left">AML relapse/smoldering</td>
+    <td align="left">Disease progression</td>
+    <td align="left">Alive</td>
+    <td align="left">5</td>
+    <td align="left">31</td>
+   </tr>
+   <tr>
+    <td align="left">DC-013</td>
+    <td char="." align="char">65</td>
+    <td align="left">M</td>
+    <td char="." align="char">3</td>
+    <td align="left">de novo AML, in CR1</td>
+    <td align="left">CR</td>
+    <td align="left">Alive</td>
+    <td align="left">2</td>
+    <td align="left">2</td>
+   </tr>
+   <tr>
+    <td align="left">DC-014</td>
+    <td char="." align="char">67</td>
+    <td align="left">M</td>
+    <td char="." align="char">20</td>
+    <td align="left">AML relapse/smoldering</td>
+    <td align="left">Disease progression</td>
+    <td align="left">Dead</td>
+    <td align="left">29</td>
+    <td align="left">MD
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">DC-015</td>
+    <td char="." align="char">68</td>
+    <td align="left">M</td>
+    <td char="." align="char">5</td>
+    <td align="left">de novo AML, in CR1</td>
+    <td align="left">CR</td>
+    <td align="left">Alive</td>
+    <td align="left">7</td>
+    <td align="left">1</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>MD</italic> missing data, 
+   <italic>Mo</italic> months, 
+   <italic>No</italic> number
+  </p>
+  <p>
+   <sup>a</sup>Died before end of study
+  </p>
+ </table-wrap-foot>
+</table-wrap>

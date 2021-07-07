@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par58">qRT-PCR experiments were performed using either the Roche Universal Probe Library System on a Roche LightCycler480
+ <sup>®</sup> (Roche LifeScience) or the TaqMan Gene Expression Assay (Applied Biosystems/Life Technologies) on an ABI Prism
+ <sup>®</sup> 7900 HT Sequence Detection System (Perkin-Elmer Applied Biosystems). Primers, probes, and programs used for qRT-PCR analysis are listed in Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">4</xref>. Relative mRNA expression levels were normalized to β-actin, GAPDH, or HPRT and quantification was performed using the comparative 
+ <italic>C</italic>
+ <sub>T</sub> method described by Livak and Schmittgen
+ <sup>
+  <xref ref-type="bibr" rid="CR73">73</xref>
+ </sup>.
+</p>

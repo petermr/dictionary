@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R2">
+ <label>2.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Trivedi</surname>
+    <given-names>KK</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Dumartin</surname>
+    <given-names>C</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Gilchrist</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Identifying best practices across three countries: hospital antimicrobial stewardship in the United Kingdom, France, and the United States</article-title>. 
+  <source>Clin Infect Dis</source>
+  <year>2014</year>;
+  <volume>59</volume>(
+  <issue>Suppl 3</issue>):
+  <fpage>S170</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/cid/ciu538</pub-id>
+  <pub-id pub-id-type="pmid">25261544</pub-id>
+ </mixed-citation>
+</ref>

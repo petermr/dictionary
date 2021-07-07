@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Geiger</surname>
+    <given-names>TL</given-names>
+   </name>
+   <name>
+    <surname>Rubnitz</surname>
+    <given-names>JE</given-names>
+   </name>
+  </person-group>
+  <article-title>New approaches for the immunotherapy of acute myeloid leukemia</article-title>
+  <source>Discov Med</source>
+  <year>2015</year>
+  <volume>19</volume>
+  <fpage>275</fpage>
+  <lpage>284</lpage>
+  <?supplied-pmid 25977190?>
+  <pub-id pub-id-type="pmid">25977190</pub-id>
+ </element-citation>
+</ref>

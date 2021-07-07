@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib4">
+ <label>4</label>
+ <mixed-citation publication-type="journal">
+  <person-group>
+   <name>
+    <surname>Seo</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Lim</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Jun</surname>
+    <given-names>JB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Exendin-4 in combination with adipose-derived stem cells promotes angiogenesis and improves diabetic wound healing</article-title>. 
+  <source>
+   <italic>J Transl Med</italic>
+  </source>. 
+  <year>2017</year>;
+  <volume>15</volume>:
+  <fpage>35</fpage>.
+  <pub-id pub-id-type="pmid">28202074</pub-id>
+ </mixed-citation>
+</ref>

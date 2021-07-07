@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="sct312331-tbl-0002" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Laboratory tests at baseline and week 4</p>
+ </caption>
+ <table frame="hsides" rules="cols">
+  <col align="left" span="1"/>
+  <col align="char" char="±" span="1"/>
+  <col align="char" char="±" span="1"/>
+  <col align="char" char="±" span="1"/>
+  <col align="char" char="." span="1"/>
+  <thead valign="bottom">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="bottom" rowspan="1" colspan="1"/>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Baseline</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Week 4</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Changes</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">
+     <italic>p</italic> value
+    </th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">WBC, mean ± SD, ×10
+     <sup>3</sup>/mm
+     <sup>3</sup>
+    </td>
+    <td align="char" valign="top" rowspan="1" colspan="1">7.99 ± 2.68</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">8.23 ± 3.30</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.23 ± 1.14</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.5555</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">ANC, mean ± SD, mm
+     <sup>3</sup>
+    </td>
+    <td align="char" valign="top" rowspan="1" colspan="1">5,992.6 ± 2642.9</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">5,558.3 ± 2,793.4</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">434.2 ± 1,225.6</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.3594</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Hematocrit, mean ± SD, %</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">38.5 ± 4.3</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">38.9 ± 4.8</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.3 ± 1.8</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.5852</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Platelet, mean ± SD, mm
+     <sup>3</sup>
+    </td>
+    <td align="char" valign="top" rowspan="1" colspan="1">292.1 ± 72.6</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">281.67 ± 78.8</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">−10.4 ± 22.2</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.1961</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">ESR, mean ± SD, mm/hr</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">23.3 ± 12.0</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">15.4 ± 9.2</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">−7.9 ± 10.4</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.0517</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Hs‐CRP, mean ± SD, mg/dl</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.81 ± 1.12</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.44 ± 0.47</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">−0.37 ± 1.09</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.3362</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Total protein, mean ± SD, g/dl</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">6.74 ± 0.28</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">6.83 ± 0.53</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.09 ± 0.43</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.5537</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Albumin, mean ± SD, g/dl</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">4.21 ± 0.14</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">4.19 ± 0.13</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">−0.02 ± 0.12</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.5943</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Total bilirubin, mean ± SD, mg/dl</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.60 ± 0.17</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.61 ± 0.25</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.01 ± 0.19</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.8651</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">AST, mean ± SD, IU/l</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">20.2 ± 5.3</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">23.56 ± 9.7</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">3.33 ± 6.4</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.1570</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">ALT, mean ± SD, IU/l</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">17.0 ± 4.9</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">20.56 ± 10.6</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">3.56 ± 8.4</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.2390</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">BUN, mean ± SD, mg/dl</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">11.9 ± 2.6</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">13.2 ± 3.9</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">1.3 ± 3.6</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.2995</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Creatinine, mean ± SD, mg/dl</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.66 ± 0.06</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.64 ± 0.09</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">−0.01 ± 0.09</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.6246</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Glucose, mean ± SD, mg/dl</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">108.2 ± 12.9</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">104.6 ± 8.3</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">−3.7 ± 14.7</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.4566</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Total cholesterol, mean ± SD, mg/dl</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">179.0 ± 30.5</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">186.3 ± 27.3</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">7.3 ± 16.4</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.2168</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Triglyceride, mean ± SD, mg/dl</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">100.9 ± 29.6</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">126.8 ± 54.0</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">25.9 ± 63.9</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.2587</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Uric Acid, mean ± SD, mg/dl</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">3.63 ± 1.11</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">4.16 ± 1.19</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.52 ± 0.57</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">.0242</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="sct312331-note-0003">
+   <p>Abbreviations: ALT, alanine transaminase; ANC, absolute neutrophil count; AST, aspartate transaminase; BUN, blood urea nitrogen; ESR, erythrocyte sedimentation rate; hs‐CRP, high sensitivity C‐reactive protein; MTX, methotrexate; WBC, white blood cell.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

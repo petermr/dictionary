@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Blanchard</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Marguet</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Leclercq</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Ng</surname>
+    <given-names>WT</given-names>
+   </name>
+   <name>
+    <surname>Ma</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Chemotherapy and radiotherapy in nasopharyngeal carcinoma: an update of the MAC-NPC meta-analysis</article-title>
+  <source>Lancet Oncol</source>
+  <year>2015</year>
+  <volume>16</volume>
+  <issue>6</issue>
+  <fpage>645</fpage>
+  <lpage>655</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(15)70126-9</pub-id>
+  <pub-id pub-id-type="pmid">25957714</pub-id>
+ </element-citation>
+</ref>

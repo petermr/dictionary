@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vaillant</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The mammary progenitor marker CD61/beta3 integrin identifies cancer stem cells in mouse models of mammary tumorigenesis</article-title>
+  <source>Cancer Res.</source>
+  <year>2008</year>
+  <volume>68</volume>
+  <fpage>7711</fpage>
+  <lpage>7717</lpage>
+  <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-08-1949</pub-id>
+  <?supplied-pmid 18829523?>
+  <pub-id pub-id-type="pmid">18829523</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab5" orientation="portrait" position="float">
+ <label>Table 5</label>
+ <caption>
+  <p>Logistic regression. Dependent variables: difficulty in speaking (analogical scale of 1 to 5). IC 95%: confidence interval at 95%.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">Variables</th>
+    <th align="center" rowspan="1" colspan="1">Coeff. 
+     <italic>B</italic>
+    </th>
+    <th align="center" rowspan="1" colspan="1">
+     <italic>p</italic>
+    </th>
+    <th align="center" rowspan="1" colspan="1">IC 95%, lower limit</th>
+    <th align="center" rowspan="1" colspan="1">IC 95%, higher limit</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Anaesthetic</td>
+    <td align="center" rowspan="1" colspan="1">−0,922</td>
+    <td align="center" rowspan="1" colspan="1">&lt;0,001</td>
+    <td align="center" rowspan="1" colspan="1">−1,086</td>
+    <td align="center" rowspan="1" colspan="1">−0,759</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Pharmaceutical drugs</td>
+    <td align="center" rowspan="1" colspan="1">−0,059</td>
+    <td align="center" rowspan="1" colspan="1">0,471</td>
+    <td align="center" rowspan="1" colspan="1">−0,219</td>
+    <td align="center" rowspan="1" colspan="1">0,102</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Vitamin</td>
+    <td align="center" rowspan="1" colspan="1">−0,011</td>
+    <td align="center" rowspan="1" colspan="1">0,891</td>
+    <td align="center" rowspan="1" colspan="1">−0,176</td>
+    <td align="center" rowspan="1" colspan="1">0,153</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Multiple aphthosis</td>
+    <td align="center" rowspan="1" colspan="1">0,257</td>
+    <td align="center" rowspan="1" colspan="1">0,002</td>
+    <td align="center" rowspan="1" colspan="1">0,093</td>
+    <td align="center" rowspan="1" colspan="1">0,420</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Age</td>
+    <td align="center" rowspan="1" colspan="1">0,008</td>
+    <td align="center" rowspan="1" colspan="1">0,022</td>
+    <td align="center" rowspan="1" colspan="1">0,001</td>
+    <td align="center" rowspan="1" colspan="1">0,015</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Male sex</td>
+    <td align="center" rowspan="1" colspan="1">−0,167</td>
+    <td align="center" rowspan="1" colspan="1">0,049</td>
+    <td align="center" rowspan="1" colspan="1">−0,332</td>
+    <td align="center" rowspan="1" colspan="1">−0,001</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

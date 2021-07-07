@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib8">
+ <label>8</label>
+ <element-citation publication-type="journal" id="sbref80">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mahadevan</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Unger</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Spier</surname>
+    <given-names>CM</given-names>
+   </name>
+  </person-group>
+  <article-title>Phase 2 trial of combined cisplatin, etoposide, gemcitabine, and methylprednisolone (PEGS) in peripheral T-cell non-Hodgkin lymphoma: Southwest Oncology Group Study S0350</article-title>
+  <source>Cancer</source>
+  <volume>119</volume>
+  <year>2013</year>
+  <fpage>371</fpage>
+  <lpage>379</lpage>
+  <pub-id pub-id-type="pmid">22833464</pub-id>
+ </element-citation>
+</ref>

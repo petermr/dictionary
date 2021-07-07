@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Palanca-Wessels</surname>
+    <given-names>MC</given-names>
+   </name>
+   <name>
+    <surname>Czuczman</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Salles</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Assouline</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Sehn</surname>
+    <given-names>LH</given-names>
+   </name>
+   <name>
+    <surname>Flinn</surname>
+    <given-names>I</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Safety and activity of the anti-CD79B antibody-drug conjugate polatuzumab vedotin in relapsed or refractory B-cell non-Hodgkin lymphoma and chronic lymphocytic leukaemia: a phase 1 study</article-title>
+  <source>Lancet Oncol</source>
+  <year>2015</year>
+  <volume>16</volume>
+  <fpage>704</fpage>
+  <lpage>715</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(15)70128-2</pub-id>
+  <?supplied-pmid 25925619?>
+  <pub-id pub-id-type="pmid">25925619</pub-id>
+ </element-citation>
+</ref>

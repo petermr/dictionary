@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Liu</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Rich</surname>
+    <given-names>ES</given-names>
+   </name>
+   <name>
+    <surname>Godley</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Odenike</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Joseph</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Marino</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Reduced-intensity conditioning with combined haploidentical and cord blood transplantation results in rapid engraftment, low GVHD, and durable remissions</article-title>
+  <source>Blood</source>
+  <year>2011</year>
+  <volume>118</volume>
+  <fpage>6438</fpage>
+  <lpage>45</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2011-08-372508</pub-id>
+  <pub-id pub-id-type="pmid">21976674</pub-id>
+ </element-citation>
+</ref>

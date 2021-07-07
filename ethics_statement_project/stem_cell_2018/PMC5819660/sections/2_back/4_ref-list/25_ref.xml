@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Silliman</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Boshkov</surname>
+    <given-names>LK</given-names>
+   </name>
+   <name>
+    <surname>Mehdizadehkashi</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Elzi</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Dickey</surname>
+    <given-names>WO</given-names>
+   </name>
+   <name>
+    <surname>Podlosky</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Clarke</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Ambruso</surname>
+    <given-names>DR</given-names>
+   </name>
+  </person-group>
+  <article-title>Transfusion-related acute lung injury: epidemiology and a prospective analysis of etiologic factors</article-title>
+  <source>Blood.</source>
+  <year>2003</year>
+  <volume>101</volume>
+  <fpage>454</fpage>
+  <lpage>462</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2002-03-0958</pub-id>
+  <?supplied-pmid 12393667?>
+  <pub-id pub-id-type="pmid">12393667</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zou</surname>
+    <given-names>RH</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>QG</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>XL</given-names>
+   </name>
+   <name>
+    <surname>Cao</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Quantitative contrast-enhanced ultrasonic imaging reflects microvascularization in Hepatocellular Carcinoma and prognosis after resection</article-title>
+  <source>Ultrasound Med Biol</source>
+  <year>2015</year>
+  <volume>41</volume>
+  <issue>10</issue>
+  <fpage>2621</fpage>
+  <lpage>2630</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ultrasmedbio.2015.06.004</pub-id>
+  <pub-id pub-id-type="pmid">26210785</pub-id>
+ </element-citation>
+</ref>

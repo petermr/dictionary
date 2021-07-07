@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Berthold</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Myeloablative megatherapy with autologous stem-cell rescue versus oral maintenance chemotherapy as consolidation treatment in patients with high-risk neuroblastoma: a randomised controlled trial</article-title>
+  <source>Lancet Oncol</source>
+  <year>2005</year>
+  <volume>6</volume>
+  <fpage>649</fpage>
+  <lpage>658</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(05)70291-6</pub-id>
+  <?supplied-pmid 16129365?>
+  <pub-id pub-id-type="pmid">16129365</pub-id>
+ </element-citation>
+</ref>

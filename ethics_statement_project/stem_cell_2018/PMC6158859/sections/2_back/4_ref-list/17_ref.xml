@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>He</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Kraft</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Chasman</surname>
+    <given-names>DI</given-names>
+   </name>
+   <name>
+    <surname>Buring</surname>
+    <given-names>JE</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Hankinson</surname>
+    <given-names>SE</given-names>
+   </name>
+   <name>
+    <surname>Pare</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Chanock</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Ridker</surname>
+    <given-names>PM</given-names>
+   </name>
+   <name>
+    <surname>Hunter</surname>
+    <given-names>DJ</given-names>
+   </name>
+  </person-group>
+  <article-title>A large-scale candidate gene association study of age at menarche and age at natural menopause</article-title>
+  <source>Hum Genet</source>
+  <year>2010</year>
+  <volume>128</volume>
+  <issue>5</issue>
+  <fpage>515</fpage>
+  <lpage>527</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00439-010-0878-4</pub-id>
+  <pub-id pub-id-type="pmid">20734064</pub-id>
+ </element-citation>
+</ref>

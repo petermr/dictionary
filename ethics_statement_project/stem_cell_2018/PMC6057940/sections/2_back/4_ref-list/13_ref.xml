@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Heller</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Hedgehog signaling inhibition blocks growth of resistant tumors through effects on tumor microenvironment</article-title>
+  <source>Cancer Res.</source>
+  <year>2012</year>
+  <volume>72</volume>
+  <fpage>897</fpage>
+  <lpage>907</lpage>
+  <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-11-2681</pub-id>
+  <?supplied-pmid 22186138?>
+  <pub-id pub-id-type="pmid">22186138</pub-id>
+ </element-citation>
+</ref>

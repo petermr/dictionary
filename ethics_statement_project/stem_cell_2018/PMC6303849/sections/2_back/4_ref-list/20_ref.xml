@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mathurin</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Louvet</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Duhamel</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Prednisolone with vs without pentoxifylline and survival of patients with severe alcoholic hepatitis: a randomized clinical trial</article-title>
+  <source>JAMA</source>
+  <year>2013</year>
+  <volume>310</volume>
+  <fpage>1033</fpage>
+  <lpage>1041</lpage>
+  <pub-id pub-id-type="doi">10.1001/jama.2013.276300</pub-id>
+  <pub-id pub-id-type="pmid">24026598</pub-id>
+ </element-citation>
+</ref>

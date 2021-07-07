@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">Multiple myeloma (MM) is a plasma cell tumour with an approximate annual incidence of 4500 in the UK. Therapeutic options for patients with MM have changed in the last decade with the arrival of proteasome inhibitors and immunomodulatory drugs. Despite these options, almost all patients will relapse post first-line autologous stem cell transplantation (ASCT). First relapse management (second-line treatment) has evolved in recent years with an expanding portfolio of novel agents, driving response rates influencing the durability of response. A second ASCT, as part of relapsed disease management (salvage ASCT), has been shown to prolong the progression-free survival and overall survival following a proteasome inhibitor-containing re-induction regimen, in the Cancer Research UK-funded National Cancer Research Institute Myeloma X (Intensive) study. It is now recommended that salvage ASCT be considered for suitable patients by the International Myeloma Working Group and the National Institute for Health and Care Excellence NG35 guidance.</p>
+ </sec>
+ <sec>
+  <title>Methods/design</title>
+  <p id="Par2">ACCoRd (Myeloma XII) is a UK-nationwide, individually randomised, multi-centre, multiple randomisation, open-label phase III trial with an initial single intervention registration phase aimed at relapsing MM patients who have received ASCT in first-line treatment. We will register 406 participants into the trial to allow 284 and 248 participants to be randomised at the first and second randomisations, respectively.</p>
+  <p id="Par3">All participants will receive re-induction therapy until maximal response (four to six cycles of ixazomib, thalidomide and dexamethasone). Participants who achieve at least stable disease will be randomised (1:1) to receive either ASCT
+   <sub>Con</sub>, using high-dose melphalan, or ASCT
+   <sub>Aug</sub>, using high-dose melphalan with ixazomib. All participants achieving or maintaining a minimal response or better, following salvage ASCT, will undergo a second randomisation (1:1) to consolidation and maintenance or observation. Participants randomised to consolidation and maintenance will receive consolidation with two cycles of ixazomib, thalidomide and dexamethasone, and maintenance with ixazomib until disease progression.
+  </p>
+ </sec>
+ <sec>
+  <title>Discussion</title>
+  <p id="Par4">The question of how best to maximise the durability of response to salvage ASCT warrants clinical investigation. Given the expanding scope of oral therapeutic agents, patient engagement with long-term maintenance strategies is a real opportunity. This study will provide evidence to better define post-relapse treatment in MM.</p>
+ </sec>
+ <sec>
+  <title>Trial registration</title>
+  <p id="Par5">ISRCTN, 
+   <ext-link ext-link-type="uri" xlink:href="http://www.isrctn.com/ISRCTN10038996" xmlns:xlink="http://www.w3.org/1999/xlink">ISRCTN10038996</ext-link>. Registered on 15 December 2016.
+  </p>
+ </sec>
+ <sec>
+  <title>Electronic supplementary material</title>
+  <p>The online version of this article (10.1186/s13063-018-2524-8) contains supplementary material, which is available to authorized users.</p>
+ </sec>
+</abstract>

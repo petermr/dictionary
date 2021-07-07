@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="pone.0201570.t002" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0201570.t002</object-id>
+ <label>Table 2</label>
+ <caption>
+  <title>Treatment and supported effects in a mixed-effects linear regression of feral horse (
+   <italic>Equus caballus</italic>) time budget behaviors (e.g. feeding, resting, locomotion, maintenance, social) and all-occurrence social behaviors (e.g. herding, reproduction, agonism, harem- social) at Theodore Roosevelt National Park, USA.
+  </title>
+  <p>Variance for the random effects of time of day (j) and individual horse identity (k) are shown as σ
+   <sub>j</sub>
+   <sup>2</sup> and σ
+   <sub>k</sub>
+   <sup>2</sup>.
+  </p>
+ </caption>
+ <alternatives>
+  <graphic id="pone.0201570.t002g" xlink:href="pone.0201570.t002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <colgroup span="1">
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th align="left" rowspan="1" colspan="1">Behavior</th>
+     <th align="left" rowspan="1" colspan="1">Effect</th>
+     <th align="left" rowspan="1" colspan="1">
+      <italic>t</italic>
+     </th>
+     <th align="left" rowspan="1" colspan="1">
+      <italic>P</italic>
+     </th>
+     <th align="left" rowspan="1" colspan="1">Difference</th>
+     <th align="left" colspan="2" rowspan="1">95% confidence limit</th>
+     <th align="left" rowspan="1" colspan="1">σ
+      <sub>j</sub>
+      <sup>2</sup>
+     </th>
+     <th align="left" rowspan="1" colspan="1">σ
+      <sub>k</sub>
+      <sup>2</sup>
+     </th>
+    </tr>
+    <tr>
+     <th align="left" rowspan="1" colspan="1"/>
+     <th align="left" rowspan="1" colspan="1"/>
+     <th align="left" rowspan="1" colspan="1"/>
+     <th align="left" rowspan="1" colspan="1"/>
+     <th align="left" rowspan="1" colspan="1"/>
+     <th align="left" rowspan="1" colspan="1">Lower</th>
+     <th align="left" rowspan="1" colspan="1">Upper</th>
+     <th align="left" rowspan="1" colspan="1"/>
+     <th align="left" rowspan="1" colspan="1"/>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>Feeding</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">Treatment</td>
+     <td align="right" rowspan="1" colspan="1">-0.125</td>
+     <td align="left" rowspan="1" colspan="1">0.900</td>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="right" rowspan="1" colspan="1">0.004</td>
+     <td align="right" rowspan="1" colspan="1">0.003</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">Band Size</td>
+     <td align="right" rowspan="1" colspan="1">-3.193</td>
+     <td align="left" rowspan="1" colspan="1">0.001</td>
+     <td align="left" rowspan="1" colspan="1">-0.012</td>
+     <td align="left" rowspan="1" colspan="1">-0.020</td>
+     <td align="left" rowspan="1" colspan="1">-0.005</td>
+     <td align="right" rowspan="1" colspan="1"/>
+     <td align="right" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">
+      <bold>Resting</bold>
+     </td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">Treatment</td>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1">0.590</td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">0.555</td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1">0.001</td>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1">0.001</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>Locomotion</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">Treatment</td>
+     <td align="right" rowspan="1" colspan="1">-0.143</td>
+     <td align="left" rowspan="1" colspan="1">0.886</td>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="right" rowspan="1" colspan="1">&lt;0.001</td>
+     <td align="right" rowspan="1" colspan="1">&lt;0.001</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">Band Size</td>
+     <td align="right" rowspan="1" colspan="1">3.047</td>
+     <td align="left" rowspan="1" colspan="1">0.002</td>
+     <td align="left" rowspan="1" colspan="1">0.002</td>
+     <td align="left" rowspan="1" colspan="1">0.001</td>
+     <td align="left" rowspan="1" colspan="1">0.003</td>
+     <td align="right" rowspan="1" colspan="1"/>
+     <td align="right" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">Foal Presence</td>
+     <td align="right" rowspan="1" colspan="1">2.900</td>
+     <td align="left" rowspan="1" colspan="1">0.004</td>
+     <td align="left" rowspan="1" colspan="1">0.012</td>
+     <td align="left" rowspan="1" colspan="1">0.004</td>
+     <td align="left" rowspan="1" colspan="1">0.021</td>
+     <td align="right" rowspan="1" colspan="1"/>
+     <td align="right" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">
+      <bold>Maintenance</bold>
+     </td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">Treatment</td>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1">-1.193</td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">0.233</td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1">&lt;0.001</td>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1">&lt;0.001</td>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">Band Size</td>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1">-2.238</td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">0.025</td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">-0.001</td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">-0.002</td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">-0.001</td>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>Social</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">Treatment</td>
+     <td align="right" rowspan="1" colspan="1">-0.037</td>
+     <td align="left" rowspan="1" colspan="1">0.970</td>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="right" rowspan="1" colspan="1">&lt;0.001</td>
+     <td align="right" rowspan="1" colspan="1">0.001</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">
+      <bold> </bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">Foal Presence</td>
+     <td align="right" rowspan="1" colspan="1">2.499</td>
+     <td align="left" rowspan="1" colspan="1">0.013</td>
+     <td align="left" rowspan="1" colspan="1">0.027</td>
+     <td align="left" rowspan="1" colspan="1">0.006</td>
+     <td align="left" rowspan="1" colspan="1">0.049</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">
+      <bold>Herding</bold>
+     </td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">Treatment</td>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1">-0.909</td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">0.368</td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1">0.009</td>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1">&lt;0.001</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>Reproduction</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">Treatment</td>
+     <td align="right" rowspan="1" colspan="1">1.555</td>
+     <td align="left" rowspan="1" colspan="1">0.159</td>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="right" rowspan="1" colspan="1">&lt;0.001</td>
+     <td align="right" rowspan="1" colspan="1">&lt;0.001</td>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">
+      <bold>Agonism</bold>
+     </td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">Treatment</td>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1">0.669</td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1">0.528</td>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#BFBFBF" rowspan="1" colspan="1"/>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1">&lt;0.001</td>
+     <td align="right" style="background-color:#BFBFBF" rowspan="1" colspan="1">0.048</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>Harem-social</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">Treatment</td>
+     <td align="right" rowspan="1" colspan="1">2.620</td>
+     <td align="left" rowspan="1" colspan="1">0.012</td>
+     <td align="left" rowspan="1" colspan="1">0.140</td>
+     <td align="left" rowspan="1" colspan="1">0.033</td>
+     <td align="left" rowspan="1" colspan="1">0.247</td>
+     <td align="right" rowspan="1" colspan="1">0.007</td>
+     <td align="right" rowspan="1" colspan="1">&lt;0.001</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+</table-wrap>

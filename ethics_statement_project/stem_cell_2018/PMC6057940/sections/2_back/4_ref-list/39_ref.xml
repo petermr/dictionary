@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mani</surname>
+    <given-names>SA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The epithelial-mesenchymal transition generates cells with properties of stem cells</article-title>
+  <source>Cell</source>
+  <year>2008</year>
+  <volume>133</volume>
+  <fpage>704</fpage>
+  <lpage>715</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2008.03.027</pub-id>
+  <?supplied-pmid 18485877?>
+  <pub-id pub-id-type="pmid">18485877</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>There was 86.1% concordance between clusters identified through machine learning and those identified through the decision tree (
+ <xref ref-type="fig" rid="f6-1040189">Figure 6</xref>). Bootstrapping indicated stability of risk coefficients in all but one cluster, with all clusters, except Cluster 3, having a standard deviation of risk coefficients &lt;0.7 on ten runs of analysis (
+ <xref ref-type="fig" rid="f6-1040189">Figure 6</xref>).
+</p>

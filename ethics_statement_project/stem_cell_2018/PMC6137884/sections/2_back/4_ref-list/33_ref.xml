@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR33">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kandala</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Upadhyay</surname>
+    <given-names>GA</given-names>
+   </name>
+   <name>
+    <surname>Pokushalov</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Drachman</surname>
+    <given-names>DE</given-names>
+   </name>
+   <name>
+    <surname>Singh</surname>
+    <given-names>JP</given-names>
+   </name>
+  </person-group>
+  <article-title>Meta-analysis of stem cell therapy in chronic ischemic cardiomyopathy</article-title>
+  <source>Am J Cardiol</source>
+  <year>2013</year>
+  <volume>112</volume>
+  <fpage>217</fpage>
+  <lpage>225</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.amjcard.2013.03.021</pub-id>
+  <pub-id pub-id-type="pmid">23623290</pub-id>
+ </element-citation>
+</ref>

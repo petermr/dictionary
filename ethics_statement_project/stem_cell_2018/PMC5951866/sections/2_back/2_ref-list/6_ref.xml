@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Larouche</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Berger</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Chassagne-Clement</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Lymphoma recurrence 5 years or later following diffuse large B-cell lymphoma: clinical characteristics and outcome</article-title>
+  <source>J Clin Oncol</source>
+  <year>2010</year>
+  <volume>28</volume>
+  <issue>12</issue>
+  <fpage>2094</fpage>
+  <lpage>2100</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2009.24.5860</pub-id>
+  <?supplied-pmid 20308668?>
+  <pub-id pub-id-type="pmid">20308668</pub-id>
+ </element-citation>
+</ref>

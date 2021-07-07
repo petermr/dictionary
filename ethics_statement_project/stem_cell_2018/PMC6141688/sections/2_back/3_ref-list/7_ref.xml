@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brinkmann</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Reichard</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Goosmann</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Fauler</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Uhlemann</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Weiss</surname>
+    <given-names>DS</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Neutrophil extracellular traps kill bacteria</article-title>. 
+  <source>Science</source> (
+  <year>2004</year>) 
+  <volume>303</volume>:
+  <fpage>1532</fpage>–
+  <lpage>5</lpage>. 
+  <pub-id pub-id-type="doi">10.1126/science.1092385</pub-id>
+  <?supplied-pmid 15001782?>
+  <pub-id pub-id-type="pmid">15001782</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Celebi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Sezgin</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>Cakir</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Baytan</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Demirkaya</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Sevinir</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Catheter associated bloodstream infections in pediatric hematology-oncology patients</article-title>
+  <source>Pediatr Hematol Oncol</source>
+  <year>2013</year>
+  <volume>30</volume>
+  <fpage>187</fpage>
+  <lpage>194</lpage>
+  <pub-id pub-id-type="doi">10.3109/08880018.2013.772683</pub-id>
+  <?supplied-pmid 23458064?>
+  <pub-id pub-id-type="pmid">23458064</pub-id>
+ </element-citation>
+</ref>

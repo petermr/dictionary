@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Link</surname>
+    <given-names>MP</given-names>
+   </name>
+   <name>
+    <surname>Bindl</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Meeker</surname>
+    <given-names>TC</given-names>
+   </name>
+   <name>
+    <surname>Carswell</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Doss</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Warnke</surname>
+    <given-names>RA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A unique antigen on mature B cells defined by a monoclonal antibody</article-title>
+  <source>J Immunol</source>
+  <year>1986</year>
+  <volume>137</volume>
+  <fpage>3013</fpage>
+  <lpage>3018</lpage>
+  <?supplied-pmid 3489782?>
+  <pub-id pub-id-type="pmid">3489782</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Natural killer cells have previously been reported to inhibit cell cycle of T cells (
+ <xref rid="B45" ref-type="bibr">45</xref>). Given the decrease in Th17 cells in the cultures over time, we questioned whether NK cells were limiting the proliferation of the T cells in our cultures. NK cells did not alter the proliferation of Th17, Th1/17, or Th1 cell as indicated by dilution of a proliferation-tracking dye combined with intracellular staining for cytokines (Figure 
+ <xref ref-type="supplementary-material" rid="SM1">S1</xref> in Supplementary Material). Next, we evaluated the possibility of NKG2D-dependent cytotoxicity by NK cells. Memory CD4
+ <sup>+</sup> T cells obtained from healthy volunteer PBMCs were activated under Th17 polarizing conditions (Figures 
+ <xref ref-type="fig" rid="F6">6</xref>A–C). MICA, an NKG2D ligand, was found on Th17, Th1, and Th0 subsets (the latter defined here as negative for IL-17A and IFN-γ; Figures 
+ <xref ref-type="fig" rid="F6">6</xref>D–F), and Th17 cells had the highest MICA expression (Figure 
+ <xref ref-type="fig" rid="F6">6</xref>G). We chose to focus on MICA because the other ligands (MICB and ULBP1,2,3) were below detection thresholds on PBMC samples (data not shown). As expected, NKG2D was expressed on the NK cells and expression was identified on both CD56
+ <sup>dim</sup> and CD56
+ <sup>bright</sup> (Figure 
+ <xref ref-type="fig" rid="F6">6</xref>H). When memory CD4
+ <sup>+</sup> T cells were cultured with NK cells, neutralization of NKG2D significantly attenuated the NK cell-mediated reduction in Th17 responses (Figure 
+ <xref ref-type="fig" rid="F6">6</xref>I). To determine the mode of cell death, samples were stained with annexin V and 7-AAD dyes. NK cells caused memory CD4
+ <sup>+</sup> T cells to become annexin V
+ <sup>+</sup> and 7-AAD
+ <sup>+</sup>, which is a profile consistent with late apoptosis or necrosis (Figures 
+ <xref ref-type="fig" rid="F7">7</xref>A,B). The proportion of necrotic (annexin V
+ <sup>+</sup> 7-AAD
+ <sup>+</sup>) Th cells was significantly elevated after NK cells were added (Figure 
+ <xref ref-type="fig" rid="F7">7</xref>C). Furthermore, a time-course analysis revealed no evidence that NK cells were inducing apoptotic (annexin V
+ <sup>+</sup> 7AAD
+ <sup>−</sup>) T cells even at earlier time points (Figure 
+ <xref ref-type="fig" rid="F7">7</xref>D). Together, these data demonstrate that NK cells can limit Th cell expansion by inducing necrotic cell death.
+</p>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Harris</surname>
+    <given-names>VK</given-names>
+   </name>
+   <name>
+    <surname>Yan</surname>
+    <given-names>QJ</given-names>
+   </name>
+   <name>
+    <surname>Vyshkina</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Sahabi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Sadiq</surname>
+    <given-names>SA</given-names>
+   </name>
+  </person-group>
+  <article-title>Clinical and pathological effects of intrathecal injection of mesenchymal stem cell-derived neural progenitors in an experimental model of multiple sclerosis</article-title>
+  <source>J Neurol Sci</source>
+  <year>2012</year>
+  <volume>313</volume>
+  <fpage>167</fpage>
+  <lpage>177</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jns.2011.08.036</pub-id>
+  <?supplied-pmid 21962795?>
+  <pub-id pub-id-type="pmid">21962795</pub-id>
+ </element-citation>
+</ref>

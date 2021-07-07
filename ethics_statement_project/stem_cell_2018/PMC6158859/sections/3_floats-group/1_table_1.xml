@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Data providing institutions in genetic work package on gonadal impairment</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Country</th>
+    <th>Data provider</th>
+    <th>Treatment data</th>
+    <th>DNA samples</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="3">The Netherlands</td>
+    <td>Dutch Childhood Oncology Group</td>
+    <td>306</td>
+    <td>298</td>
+   </tr>
+   <tr>
+    <td>Erasmus Medical Center, Rotterdam</td>
+    <td>25</td>
+    <td>24</td>
+   </tr>
+   <tr>
+    <td>VU Medical Center, Amsterdam</td>
+    <td>19</td>
+    <td>18</td>
+   </tr>
+   <tr>
+    <td rowspan="2">Czech Republic</td>
+    <td>Fakultni Nemocnice Brno</td>
+    <td>134</td>
+    <td>132</td>
+   </tr>
+   <tr>
+    <td>Fakultni Nemocnice v Motole</td>
+    <td>86</td>
+    <td>81</td>
+   </tr>
+   <tr>
+    <td>Norway</td>
+    <td>Oslo University Hospital</td>
+    <td>107</td>
+    <td>107</td>
+   </tr>
+   <tr>
+    <td>Italy</td>
+    <td>I.R.C.C.S. Giannina Gaslini</td>
+    <td>67</td>
+    <td>64</td>
+   </tr>
+   <tr>
+    <td>France</td>
+    <td>Center Hospitalier Universitaire de Saint-Étienne</td>
+    <td>64</td>
+    <td>58</td>
+   </tr>
+   <tr>
+    <td>Germany</td>
+    <td>University Hospital Muenster, Germany</td>
+    <td>39</td>
+    <td>37</td>
+   </tr>
+   <tr>
+    <td>Israel</td>
+    <td>Sheba Medical Center, Tel Hashomer</td>
+    <td>18</td>
+    <td>18</td>
+   </tr>
+   <tr>
+    <td>TOTAL</td>
+    <td/>
+    <td>
+     <bold>865</bold>
+    </td>
+    <td>
+     <bold>837</bold>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Dutch Childhood Oncology Group: Academic Medical Center in Amsterdam (AMC), Erasmus Medical Center in Rotterdam (EMC), Leiden University Medical Center (LUMC), University Medical Center Groningen (UMCG), University Medical Center Nijmegen (UMCN), VU Medical Center (VUmc)</p>
+ </table-wrap-foot>
+</table-wrap>

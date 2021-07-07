@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>AML</term>
+   <def>
+    <p id="Par2">Acute myeloid leukemia</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CBA</term>
+   <def>
+    <p id="Par3">Cytometric bead array</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CR</term>
+   <def>
+    <p id="Par4">Complete remission</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CTL</term>
+   <def>
+    <p id="Par5">Cytotoxic T lymphocyte</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DC</term>
+   <def>
+    <p id="Par6">Dendritic cell</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DTH</term>
+   <def>
+    <p id="Par7">Delayed-type hypersensitivity</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GMP</term>
+   <def>
+    <p id="Par8">Good manufacturing practice</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HPS</term>
+   <def>
+    <p id="Par9">Human pooled serum</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HSCT</term>
+   <def>
+    <p id="Par10">Hematopoietic stem cell transplantation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LAA</term>
+   <def>
+    <p id="Par11">Leukemia-associated antigen</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MLR</term>
+   <def>
+    <p id="Par12">Mixed lymphocyte reaction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MRD</term>
+   <def>
+    <p id="Par13">Measurable residual disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PBL</term>
+   <def>
+    <p id="Par14">Peripheral blood lymphocyte</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>QC</term>
+   <def>
+    <p id="Par15">Quality control</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SAE</term>
+   <def>
+    <p id="Par16">Severe adverse event</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TAA</term>
+   <def>
+    <p id="Par17">Tumor-associated antigen</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VU</term>
+   <def>
+    <p id="Par18">Vrije Universiteit</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

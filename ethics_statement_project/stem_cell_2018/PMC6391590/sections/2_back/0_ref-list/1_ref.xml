@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib1">
+ <label>1</label>
+ <element-citation publication-type="journal" id="sref1">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wilson</surname>
+    <given-names>P.J.</given-names>
+   </name>
+   <name>
+    <surname>Morris</surname>
+    <given-names>C.P.</given-names>
+   </name>
+   <name>
+    <surname>Anson</surname>
+    <given-names>D.S.</given-names>
+   </name>
+   <name>
+    <surname>Occhiodoro</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Bielicki</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Clements</surname>
+    <given-names>P.R.</given-names>
+   </name>
+   <name>
+    <surname>Hopwood</surname>
+    <given-names>J.J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Hunter syndrome: isolation of an iduronate-2-sulfatase cDNA clone and analysis of patient DNA</article-title>
+  <source>Proc. Natl. Acad. Sci. USA</source>
+  <volume>87</volume>
+  <year>1990</year>
+  <fpage>8531</fpage>
+  <lpage>8535</lpage>
+  <pub-id pub-id-type="pmid">2122463</pub-id>
+ </element-citation>
+</ref>

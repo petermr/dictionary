@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f4-1040189" position="float">
+ <label>Figure 4.</label>
+ <caption>
+  <p>A simple, physician-driven decision tree created groups of patients with chronic graft-
+   <italic>versus</italic>-host disease that were similar to computational patient clusters and stratified for overall survival. (A) Cluster numbers, newly calculated marker enrichment modeling (MEM) labels, phenotype interpretations (italics), risk coefficients, and group frequencies (n=339) are shown for the new groups of patients defined using the decision tree in 
+   <xref ref-type="fig" rid="f3-1040189">Figure 3</xref>. MEM labels and risk were calculated as before (
+   <xref ref-type="fig" rid="f1-1040189">Figure 1</xref> and Methods). Phenotype interpretations were assigned by expert physicians based on analysis of MEM labels and risk. Decision tree groups 1-3 were lower risk, groups 4-5 were intermediate risk, and groups 6-7 were higher risk. (B) Overall survival probability was stratified for patients with chronic graft-
+   <italic>versus</italic>-host disease identified in the low-, intermediate-, and high-risk groups defined by the physician-driven decision tree.
+  </p>
+ </caption>
+ <graphic xlink:href="104189.fig4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

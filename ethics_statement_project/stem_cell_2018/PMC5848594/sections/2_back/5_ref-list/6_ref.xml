@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>De Ruiter</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Weel</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Manusama</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Kingma</surname>
+    <given-names>WP</given-names>
+   </name>
+   <name>
+    <surname>Van Der Voort</surname>
+    <given-names>PHJ</given-names>
+   </name>
+  </person-group>
+  <article-title>The epidemiology of intra-abdominal flora in critically ill patients with secondary and tertiary abdominal sepsis</article-title>
+  <source>Infection.</source>
+  <year>2009</year>
+  <volume>37</volume>
+  <fpage>522</fpage>
+  <lpage>527</lpage>
+  <pub-id pub-id-type="doi">10.1007/s15010-009-8249-6</pub-id>
+  <?supplied-pmid 19669089?>
+  <pub-id pub-id-type="pmid">19669089</pub-id>
+ </element-citation>
+</ref>

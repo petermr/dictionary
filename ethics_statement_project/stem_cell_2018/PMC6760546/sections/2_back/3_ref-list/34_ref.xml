@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <label>34.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sorror</surname>
+    <given-names>ML</given-names>
+   </name>
+   <name>
+    <surname>Maris</surname>
+    <given-names>MB</given-names>
+   </name>
+   <name>
+    <surname>Storb</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Baron</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Sandmaier</surname>
+    <given-names>BM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Hematopoietic cell transplantation (HCT)-specific comorbidity index:a new tool for risk assessment before allogeneic HCT</article-title>
+  <source>Blood</source>
+  <year>2005</year>
+  <volume>106</volume>
+  <fpage>2912</fpage>
+  <lpage>9</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2005-05-2004</pub-id>
+  <pub-id pub-id-type="pmid">15994282</pub-id>
+ </element-citation>
+</ref>

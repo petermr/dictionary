@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Although TKI treatment response is still substantially heterogeneous with respect to many clinical parameters, the well-defined CML phenotype and the accessibility of kinetic data on treatment response has made CML a primary target for mathematical model approaches in oncology.
+ <sup>
+  <xref rid="b4-1031825" ref-type="bibr">4</xref>–
+  <xref rid="b6-1031825" ref-type="bibr">6</xref>,
+  <xref rid="b22-1031825" ref-type="bibr">22</xref>
+ </sup> It has also been recognized that the regulation of stem cell quiescence under continuing TKI therapy affects the kinetics of disease eradication.
+ <sup>
+  <xref rid="b5-1031825" ref-type="bibr">5</xref>,
+  <xref rid="b22-1031825" ref-type="bibr">22</xref>
+ </sup> Here, we consider a conservative scenario, which only assumes a direct cytotoxic TKI effect on proliferating LCs, but does not alter LSCs quiescence. If assuming an additional TKI-dependent reduction of the activation rate 
+ <italic>p
+  <sub>XY</sub>
+ </italic>, as previously discussed,
+ <sup>
+  <xref rid="b5-1031825" ref-type="bibr">5</xref>,
+  <xref rid="b17-1031825" ref-type="bibr">17</xref>,
+  <xref rid="b35-1031825" ref-type="bibr">35</xref>–
+  <xref rid="b37-1031825" ref-type="bibr">37</xref>
+ </sup> any favorable dose de-escalation would lead to an even better long-term response (
+ <italic>Online Supplementary Figure S3</italic>). Recently, using an analytical approach very similar to our formulation, Werner 
+ <italic>et al.</italic> developed a mathematical model that allows an estimation of LSC fractions to be made from longitudinal measurements of tumor load.
+ <sup>
+  <xref rid="b38-1031825" ref-type="bibr">38</xref>
+ </sup> However, this model assumed no direct therapeutic effect on LSCs, which are, therefore, increasing even during treatment.
+</p>

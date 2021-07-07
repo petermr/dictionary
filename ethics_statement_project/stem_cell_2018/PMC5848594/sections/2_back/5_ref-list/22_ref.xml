@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jiang</surname>
+    <given-names>BH</given-names>
+   </name>
+   <name>
+    <surname>Semenza</surname>
+    <given-names>GL</given-names>
+   </name>
+   <name>
+    <surname>Bauer</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Marti</surname>
+    <given-names>HH</given-names>
+   </name>
+  </person-group>
+  <article-title>Hypoxia-inducible factor 1 levels vary exponentially over a physiologically relevant range of O2 tension</article-title>
+  <source>Am J Phys.</source>
+  <year>1996</year>
+  <volume>271</volume>
+  <fpage>C1172</fpage>
+  <lpage>C1180</lpage>
+  <pub-id pub-id-type="doi">10.1152/ajpcell.1996.271.4.C1172</pub-id>
+ </element-citation>
+</ref>

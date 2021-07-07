@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR72">
+ <label>72.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gao</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Integrative analysis of complex cancer genomics and clinical profiles using the cBioPortal</article-title>
+  <source>Sci. Signal.</source>
+  <year>2013</year>
+  <volume>6</volume>
+  <fpage>pl1</fpage>
+  <pub-id pub-id-type="doi">10.1126/scisignal.2004088</pub-id>
+  <?supplied-pmid 23550210?>
+  <pub-id pub-id-type="pmid">23550210</pub-id>
+ </element-citation>
+</ref>

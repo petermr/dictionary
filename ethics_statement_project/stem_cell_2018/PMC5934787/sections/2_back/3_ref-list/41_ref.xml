@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>de Boer</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Heerspink</surname>
+    <given-names>HJL</given-names>
+   </name>
+   <name>
+    <surname>Juárez Orozco</surname>
+    <given-names>LE</given-names>
+   </name>
+   <name>
+    <surname>van Roon</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Kamphuisen</surname>
+    <given-names>PW</given-names>
+   </name>
+   <name>
+    <surname>Smit</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>Slart</surname>
+    <given-names>RHJA</given-names>
+   </name>
+   <name>
+    <surname>Lefrandt</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Mulder</surname>
+    <given-names>DJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Effect of linagliptin on pulse wave velocity in early type 2 diabetes: a randomized, double-blind, controlled 26-week trial (RELEASE)</article-title>
+  <source>Diabetes Obes Metab</source>
+  <year>2017</year>
+  <volume>19</volume>
+  <fpage>1147</fpage>
+  <lpage>1154</lpage>
+  <pub-id pub-id-type="doi">10.1111/dom.12925</pub-id>
+  <?supplied-pmid 28244635?>
+  <pub-id pub-id-type="pmid">28244635</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stockschlaeder</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Storb</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Pepe</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Longton</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>McDonald</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Anasetti</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A pilot study of low-dose cyclosporin for graft-versus-host prophylaxis in marrow transplantation</article-title>
+  <source>Br J Haematol.</source>
+  <year>1992</year>
+  <volume>80</volume>
+  <fpage>49</fpage>
+  <lpage>54</lpage>
+  <?supplied-pmid 1536809?>
+  <pub-id pub-id-type="pmid">1536809</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kundu</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Domingues</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Chou</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Ahmadi</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Houston</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Jerry</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Sen</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Use of p53-silenced endothelial progenitor cells to treat ischemia in diabetic peripheral vascular disease</article-title>
+  <source>J Am Heart Assoc.</source>
+  <year>2017</year>
+  <volume>6</volume>
+  <issue>4</issue>
+  <fpage>e005146</fpage>
+  <pub-id pub-id-type="doi">10.1161/JAHA.116.005146</pub-id>
+  <?supplied-pmid 28365567?>
+  <pub-id pub-id-type="pmid">28365567</pub-id>
+ </element-citation>
+</ref>

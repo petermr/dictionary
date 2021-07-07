@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We look for a mathematical expression, which allows us to estimate this optimal dose reduction for each patient in terms of the model parameters. Although there is a minimal required plasma concentration for TKI cytotoxicity, which sets a lower limit to the dose de-escalation, a linear dose-response relationship is generally accepted over a wide range of treatment-relevant doses above this threshold.
+ <sup>
+  <xref rid="b25-1031825" ref-type="bibr">25</xref>,
+  <xref rid="b26-1031825" ref-type="bibr">26</xref>
+ </sup> Thus, we deduced an explicit expression for the patient-specific optimal favorable dose reduction fraction 
+ <italic>f
+  <sub>OPT</sub>
+ </italic> (
+ <italic>Online Supplementary Text S8</italic>), given by 
+ <disp-formula id="fd5-1031825">
+  <math id="mm8">
+   <mrow>
+    <msub>
+     <mi>f</mi>
+     <mrow>
+      <mi>O</mi>
+      <mi>P</mi>
+      <mi>T</mi>
+     </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mi>p</mi>
+       <mi>Y</mi>
+      </msub>
+      <mo>+</mo>
+      <mn>2</mn>
+      <msub>
+       <mi>p</mi>
+       <mrow>
+        <mi>X</mi>
+        <mi>Y</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mrow>
+      <msub>
+       <mi>p</mi>
+       <mi>Y</mi>
+      </msub>
+      <mo>+</mo>
+      <mi>q</mi>
+     </mrow>
+    </mfrac>
+   </mrow>
+  </math>
+  <label>(E5)</label>
+ </disp-formula>
+</p>

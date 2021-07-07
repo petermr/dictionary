@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="jns12267-cr-0001" contrib-type="author" corresp="yes">
+  <name>
+   <surname>Cornblath</surname>
+   <given-names>David R.</given-names>
+  </name>
+  <address>
+   <email>dcornbl@jhmi.edu</email>
+  </address>
+  <xref ref-type="aff" rid="jns12267-aff-0001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib id="jns12267-cr-0002" contrib-type="author">
+  <name>
+   <surname>Hartung</surname>
+   <given-names>Hans‐Peter</given-names>
+  </name>
+  <xref ref-type="aff" rid="jns12267-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="jns12267-cr-0003" contrib-type="author">
+  <name>
+   <surname>Katzberg</surname>
+   <given-names>Hans D.</given-names>
+  </name>
+  <xref ref-type="aff" rid="jns12267-aff-0003">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib id="jns12267-cr-0004" contrib-type="author">
+  <name>
+   <surname>Merkies</surname>
+   <given-names>Ingemar S. J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="jns12267-aff-0004">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib id="jns12267-cr-0005" contrib-type="author" corresp="yes">
+  <name>
+   <surname>van Doorn</surname>
+   <given-names>Pieter A.</given-names>
+  </name>
+  <address>
+   <email>p.a.vandoorn@erasmusmc.nl</email>
+  </address>
+  <xref ref-type="aff" rid="jns12267-aff-0005">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+</contrib-group>

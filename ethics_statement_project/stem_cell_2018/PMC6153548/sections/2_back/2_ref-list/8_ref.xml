@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Barrena</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Almeida</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Yunta</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Lopez</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Fernandez-Mosteirin</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Giralt</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Aberrant expression of tetraspanin molecules in B-cell chronic lymphoproliferative disorders and its correlation with normal B-cell maturation</article-title>
+  <source>Leukemia</source>
+  <year>2005</year>
+  <volume>19</volume>
+  <fpage>1376</fpage>
+  <lpage>1383</lpage>
+  <pub-id pub-id-type="doi">10.1038/sj.leu.2403822</pub-id>
+  <?supplied-pmid 15931266?>
+  <pub-id pub-id-type="pmid">15931266</pub-id>
+ </element-citation>
+</ref>

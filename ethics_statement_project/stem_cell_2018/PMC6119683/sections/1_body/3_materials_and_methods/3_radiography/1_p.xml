@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par22">Calvariae were isolated and bisected from the occipital protuberance to the nasal cavity, followed by radiography to assess percent bone healing, as previously described.
+ <sup>
+  <xref ref-type="bibr" rid="CR29">29</xref>
+ </sup> Briefly, calvarial specimens were radiographed using a Faxitron X-Ray imaging instrument (Faxitron X-Ray, Wheeling, IL, USA) and PPL film (Carestream, NY, USA) following initial calibration. Percent bone healing was estimated utilizing a 5.0-mm region of interest (ROI). Using ImageJ software (NIH, Washington, DC, USA), each 5.0-mm ROI was isolated and subjected to system default binary thresholding. After thresholding, the ROI was analysed for the amount of new bone and percent bone healing was calculated relative to the area of a 5.0-mm circle.
+</p>

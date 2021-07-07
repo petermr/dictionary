@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>DW</given-names>
+   </name>
+   <name>
+    <surname>Kochenderfer</surname>
+    <given-names>JN</given-names>
+   </name>
+   <name>
+    <surname>Stetler-Stevenson</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Cui</surname>
+    <given-names>YK</given-names>
+   </name>
+   <name>
+    <surname>Delbrook</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Feldman</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Fry</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <name>
+    <surname>Orentas</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Sabatino</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Shah</surname>
+    <given-names>NN</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>T cells expressing CD19 chimeric antigen receptors for acute lymphoblastic leukaemia in children and young adults: a phase 1 dose-escalation trial</article-title>
+  <source>Lancet</source>
+  <year>2015</year>
+  <volume>385</volume>
+  <issue>9967</issue>
+  <fpage>517</fpage>
+  <lpage>528</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(14)61403-3</pub-id>
+  <?supplied-pmid 25319501?>
+  <pub-id pub-id-type="pmid">25319501</pub-id>
+ </element-citation>
+</ref>

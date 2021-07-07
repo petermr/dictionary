@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Meyskens</surname>
+    <given-names>FL</given-names>
+    <suffix>Jr.</suffix>
+   </name>
+   <name>
+    <surname>Gerner</surname>
+    <given-names>EW</given-names>
+   </name>
+  </person-group>
+  <article-title>Development of difluoromethylornithine (DFMO) as a chemoprevention agent</article-title>
+  <source>Clin Cancer Res</source>
+  <year>1999</year>
+  <volume>5</volume>
+  <fpage>945</fpage>
+  <lpage>951</lpage>
+  <?supplied-pmid 10353725?>
+  <pub-id pub-id-type="pmid">10353725</pub-id>
+ </element-citation>
+</ref>

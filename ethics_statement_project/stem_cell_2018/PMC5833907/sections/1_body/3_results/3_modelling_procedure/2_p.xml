@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">Sensitivity for missing data of the synthetic dataset was evaluated for the five methods and illustrated with AUC-ROC evolution after a ten-fold cross-validation. With no missing data, the TAN Bayesian network was the best method (AUC-ROC 0.893), and SVM was the worst (AUC-ROC 0.673) (Table 
+ <xref rid="Tab2" ref-type="table">2</xref>). The TAN Bayesian network was the least robust (AUC-ROC from 0.893 with no missing data to 0.7 with 20% of missing data, resulting in a loss of 0.193 points), but presented the best characteristics since 10% of missing data in the synthetic dataset (AUC-ROC 0.785, 25.8% incorrectly classified patients, and a predictive positive value of 0.74). 
+</p>

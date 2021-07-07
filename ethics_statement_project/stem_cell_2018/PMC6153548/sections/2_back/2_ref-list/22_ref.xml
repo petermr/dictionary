@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Younes</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Bartlett</surname>
+    <given-names>NL</given-names>
+   </name>
+   <name>
+    <surname>Leonard</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Kennedy</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Lynch</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Sievers</surname>
+    <given-names>EL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Brentuximab vedotin (SGN-35) for relapsed CD30-positive lymphomas</article-title>
+  <source>N Engl J Med</source>
+  <year>2010</year>
+  <volume>363</volume>
+  <fpage>1812</fpage>
+  <lpage>1821</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1002965</pub-id>
+  <?supplied-pmid 21047225?>
+  <pub-id pub-id-type="pmid">21047225</pub-id>
+ </element-citation>
+</ref>

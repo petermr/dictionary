@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>BM</term>
+   <def>
+    <p id="Par7">Bone marrow</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par8">Conventional therapy alone</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EPC</term>
+   <def>
+    <p id="Par9">Endothelial progenitor cell</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FACS</term>
+   <def>
+    <p id="Par10">Fluorescence-activated cell sorting</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HCT</term>
+   <def>
+    <p id="Par11">Conventional therapy plus extracorporeal hemoperfusion therapy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HIF-1</term>
+   <def>
+    <p id="Par12">Hypoxia inducible factor 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ICU</term>
+   <def>
+    <p id="Par13">Intensive care unit</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PB</term>
+   <def>
+    <p id="Par14">Peripheral blood</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SDF-1a</term>
+   <def>
+    <p id="Par15">Stromal-cell-derived factor 1a</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

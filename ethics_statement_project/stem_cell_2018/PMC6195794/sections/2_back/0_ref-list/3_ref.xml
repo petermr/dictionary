@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib3">
+ <label>3</label>
+ <element-citation publication-type="journal" id="sref3">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Molday</surname>
+    <given-names>R.S.</given-names>
+   </name>
+   <name>
+    <surname>Zhong</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Quazi</surname>
+    <given-names>F.</given-names>
+   </name>
+  </person-group>
+  <article-title>The role of the photoreceptor ABC transporter ABCA4 in lipid transport and Stargardt macular degeneration</article-title>
+  <source>Biochim Biophys Acta</source>
+  <volume>1791</volume>
+  <year>2009</year>
+  <fpage>573</fpage>
+  <lpage>583</lpage>
+  <pub-id pub-id-type="pmid">19230850</pub-id>
+ </element-citation>
+</ref>

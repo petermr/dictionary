@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tischer</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Engel</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Fritsch</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Prevalsek</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Hubmann</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Schulz</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Virus infection in HLA-haploidentical hematopoietic stem cell transplantation: incidence in the context of immune recovery in two different transplantation settings</article-title>
+  <source>Ann Hematol</source>
+  <year>2015</year>
+  <volume>94</volume>
+  <fpage>1677</fpage>
+  <lpage>88</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00277-015-2423-y</pub-id>
+  <pub-id pub-id-type="pmid">26055139</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F3" position="float">
+ <label>Figure 3</label>
+ <caption>
+  <p>Changes in blood natural killer (NK) cell populations correlate with changes in helper T (Th) cells populations following aHSCT in MS patients. MS patient peripheral blood mononuclear cell (PBMC) samples from baseline (BL) and 12 month post-aHSCT were activated 
+   <italic>in vitro</italic> with anti-CD3, anti-CD28, and Th17 polarizing factors for 4 days. Th17 and Th1 cells were assessed by analysis of cytokine production by intracellular flow cytometry (CD3
+   <sup>+</sup>CD4
+   <sup>+</sup>IL-17A
+   <sup>+</sup>IFN-γ
+   <sup>−</sup> or CD3
+   <sup>+</sup>CD4
+   <sup>+</sup>IL-17A
+   <sup>−</sup>IFN-γ
+   <sup>+</sup>, respectively). The change in frequency of Th17 cells 
+   <bold>(A)</bold> or Th1 cells 
+   <bold>(B)</bold> was plotted against the change in NK cell frequency, and linear regression was performed on the data points. 
+   <italic>N</italic> = 7 patients.
+  </p>
+ </caption>
+ <graphic xlink:href="fimmu-09-00834-g003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

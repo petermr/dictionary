@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B29">
+ <label>29</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hong</surname>
+    <given-names>A. M.</given-names>
+   </name>
+   <name>
+    <surname>Suo</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Valenzuela</surname>
+    <given-names>M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Low incidence of melanoma brain metastasis in the hippocampus</article-title>
+  <source>
+   <italic toggle="yes">Radiotherapy &amp; Oncology</italic>
+  </source>
+  <year>2014</year>
+  <volume>111</volume>
+  <issue>1</issue>
+  <fpage>59</fpage>
+  <lpage>62</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.radonc.2014.01.012</pub-id>
+  <pub-id pub-id-type="pmid">24560764</pub-id>
+ </element-citation>
+</ref>

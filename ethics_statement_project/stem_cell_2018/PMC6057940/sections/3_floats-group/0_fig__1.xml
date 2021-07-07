@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Malignant epithelial cells with increased self-renewal properties are located adjacent to the stroma of Hh-expressing cancers. 
+   <bold>a</bold> Scheme depicting the purification of epithelial and mixed stromal populations from disaggregated M6 murine tumor models. 
+   <bold>b</bold> Expression of genes significantly downregulated (blue) or upregulated (red) by RNA-Seq analysis (cut-off log
+   <sub>2</sub> (Fold Change) ≥ 2; vertical lines) in the epithelium of M6-Hh tumors compared to the epithelium of M6-Ctrl or M6-Hh tumors treated with the SMOi, GDC-0449 (100 mg/kg/bid), plotted against FDR values (horizontal lines indicate −log
+   <sup>
+    <xref ref-type="bibr" rid="CR10">10</xref>
+   </sup> (FDR) &gt; 2). Each symbol represents the transcriptome from five biological replicates per treatment group. 
+   <bold>c</bold> GSEA analysis reveals significant enrichment for genes encoding stemness and invasion in M6-Hh primary cells (FDR 
+   <italic>q</italic> value &lt; 0.05). 
+   <bold>d</bold> Heat map showing relative CSC genes expression in the epithelium of M6-Hh tumors compared to M6-Ctrl and M6-Hh tumors + SMOi. Data show normalized row 
+   <italic>Z</italic>-score (
+   <italic>n</italic> = 5 biological replicates for each treatment group). 
+   <bold>e</bold> Representative FACS dot plots showing the expression of CSC markers CD61 and CD29 within the EpCAM
+   <sup>+</sup>/GFP
+   <sup>+</sup>/CD24
+   <sup>+</sup> population of M6-Ctrl and M6-Hh tumors (
+   <italic>n</italic> = 3 biological replicates per group). 
+   <bold>f</bold> Relative expression of key stemness genes in M6-Ctrl and M6-Hh whole tumors ± SMOi (100 mg/kg/bid). 
+   <italic>n</italic> = 3 biological replicates per treatment group; statistical significance was determined using unpaired two-tailed Student’s 
+   <italic>t</italic> test with equal s.d. 
+   <bold>g</bold> Kaplan−Meier and 
+   <bold>h</bold> tumor penetrance curves of mice injected with 250 primary M6-Ctrl (blue) or M6-Hh cells (violet); 
+   <italic>n</italic> = 10 biological replicates. Six tumors from the M6-Hh and two tumors from the M6-Ctrl models were detectable, respectively. Statistical significance was determined using log-rank test. 
+   <bold>i</bold> Primary M6-Ctrl and M6-Hh tumor cells were isolated by FACS and transplanted at various dilutions into recipient mice. Limiting dilution analysis demonstrating higher in vivo tumor-forming capacity in M6-Hh cells compared to M6-Ctrl cells. 
+   <italic>n</italic> = 10 mice per condition. 
+   <bold>j</bold> Representative images and quantification of CK6-progenitor and phospho-Histone H3-positive cancer cells at the tumor−stromal interface of M6 tumor models. Scale bars: 100 μm for CK6 and 200 μm for phospho-Histone H3. 
+   <italic>n</italic> = 3 biological replicates per treatment group. Statistical significance was determined using unpaired two-tailed Student’s 
+   <italic>t</italic> test; *
+   <italic>P</italic> &lt; 0.05; **
+   <italic>P</italic> &lt; 0.01. Bars represent mean ± s.e.m.
+  </p>
+ </caption>
+ <graphic xlink:href="41467_2018_5220_Fig1_HTML" id="d29e863" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

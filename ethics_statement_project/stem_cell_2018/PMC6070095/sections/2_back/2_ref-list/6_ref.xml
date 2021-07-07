@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0006">
+ <label>6.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Park</surname>
+    <given-names>JH</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Geyer</surname>
+    <given-names>MB</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Brentjens</surname>
+    <given-names>RJ</given-names>
+   </name>
+  </person-group>
+  <article-title>CD19-targeted CAR T-cell therapeutics for hematologic malignancies: interpreting clinical outcomes to date</article-title>. 
+  <source>Blood</source>
+  <year>2016</year>; 
+  <volume>127</volume>:
+  <fpage>3312</fpage>–
+  <lpage>20</lpage>.
+  <pub-id pub-id-type="pmid">27207800</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R33">
+ <label>[33]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McHorney</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Ware</surname>
+    <given-names>JE</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>JFR</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The MOS 36-Item Short-Form Health Survey (SF-36): III. Tests of data quality, scaling assumptions, and reliability across diverse patient groups</article-title>. 
+  <source>Med Care</source>
+  <year>1994</year>;
+  <volume>32</volume>:
+  <elocation-id>40</elocation-id>–
+  <lpage>66</lpage>.
+  <pub-id pub-id-type="pmid">8277801</pub-id>
+ </mixed-citation>
+</ref>

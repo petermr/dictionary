@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B13">
+ <label>13</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Uldrich</surname>
+    <given-names>AP</given-names>
+   </name>
+   <name>
+    <surname>Le Nours</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Pellicci</surname>
+    <given-names>DG</given-names>
+   </name>
+   <name>
+    <surname>Gherardin</surname>
+    <given-names>NA</given-names>
+   </name>
+   <name>
+    <surname>McPherson</surname>
+    <given-names>KG</given-names>
+   </name>
+   <name>
+    <surname>Lim</surname>
+    <given-names>RT</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>CD1d-lipid antigen recognition by the gammadelta TCR</article-title>. 
+  <source>Nat Immunol</source> (
+  <year>2013</year>) 
+  <volume>14</volume>:
+  <fpage>1137</fpage>–
+  <lpage>45</lpage>.
+  <pub-id pub-id-type="doi">10.1038/ni.2713</pub-id>
+  <pub-id pub-id-type="pmid">24076636</pub-id>
+ </mixed-citation>
+</ref>

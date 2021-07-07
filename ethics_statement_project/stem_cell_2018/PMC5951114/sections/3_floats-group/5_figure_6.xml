@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F6" position="float">
+ <label>Figure 6</label>
+ <caption>
+  <p>Activated memory CD4
+   <sup>+</sup> T cells express MICA and are sensitive to NKG2D-mediated natural killer (NK) cell cytotoxicity. Memory CD4
+   <sup>+</sup> T cells were obtained from healthy subject PBMC, as described in Figure 
+   <xref ref-type="fig" rid="F5">5</xref>, and activated with anti-CD3, anti-CD28, and Th17 polarizing factors for 4 days. Expression of CD4, MICA (Zenon labeled), IL-17A, and IFN-γ were assessed by intracellular cytokine staining and flow cytometry. Representative plots of FSC × SSC 
+   <bold>(A)</bold>, CD4 × SSC 
+   <bold>(B)</bold>, and IL-17A × IFN-γ 
+   <bold>(C)</bold> are shown. MICA expression on Th17 
+   <bold>(D)</bold>, Th1 
+   <bold>(E)</bold>, and the Th0 cells 
+   <bold>(F)</bold> is shown. Open histogram indicate MICA stained cells and closed histograms indicate an isotype control. The average mean fluorescent intensity of MICA minus the isotype control is shown [ΔMFI; 
+   <bold>(G)</bold>]. Expression of CD56 and NKG2D by NK cells was assessed by flow cytometry and a representative plot is shown 
+   <bold>(H)</bold>. NK cells were cultured with memory CD4
+   <sup>+</sup> T cells and activated with anti-CD3, anti-CD28, and Th17 polarizing factors, at the same time treated without antibody, (NIL), anti-NKG2D neutralizing antibody, or isotype control antibody 
+   <bold>(I)</bold>. 
+   <italic>N</italic> = 7 samples.
+  </p>
+ </caption>
+ <graphic xlink:href="fimmu-09-00834-g006" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

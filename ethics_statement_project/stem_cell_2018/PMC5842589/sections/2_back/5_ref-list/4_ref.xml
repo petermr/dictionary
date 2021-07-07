@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cook</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The effect of salvage autologous stem-cell transplantation on overall survival in patients with relapsed multiple myeloma (final results from BSBMT/UKMF Myeloma X Relapse [Intensive]): a randomised, open-label, phase 3 trial</article-title>
+  <source>Lancet Haematol</source>
+  <year>2016</year>
+  <volume>3</volume>
+  <issue>7</issue>
+  <fpage>e340</fpage>
+  <lpage>e351</lpage>
+  <pub-id pub-id-type="doi">10.1016/S2352-3026(16)30049-7</pub-id>
+  <?supplied-pmid 27374467?>
+  <pub-id pub-id-type="pmid">27374467</pub-id>
+ </element-citation>
+</ref>

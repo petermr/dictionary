@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kottaridis</surname>
+    <given-names>PD</given-names>
+   </name>
+   <name>
+    <surname>Milligan</surname>
+    <given-names>DW</given-names>
+   </name>
+   <name>
+    <surname>Chopra</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Chakraverty</surname>
+    <given-names>RK</given-names>
+   </name>
+   <name>
+    <surname>Chakrabarti</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Robinson</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>In vivo CAMPATH-1H prevents graft-versus-host disease following nonmyeloablative stem cell transplantation</article-title>. 
+  <source>Blood</source> (
+  <year>2000</year>) 
+  <volume>96</volume>(
+  <issue>7</issue>):
+  <fpage>2419</fpage>–
+  <lpage>25</lpage>.
+  <?supplied-pmid 11001893?>
+  <pub-id pub-id-type="pmid">11001893</pub-id>
+ </mixed-citation>
+</ref>

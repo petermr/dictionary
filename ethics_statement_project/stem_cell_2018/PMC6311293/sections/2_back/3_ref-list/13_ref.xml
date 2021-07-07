@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B14">
+ <label>14</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gondi</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Pugh</surname>
+    <given-names>S. L.</given-names>
+   </name>
+   <name>
+    <surname>Tome</surname>
+    <given-names>W. A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Preservation of memory with conformal avoidance of the hippocampal neural stem-cell compartment during whole-brain radiotherapy for brain metastases (RTOG 0933): a phase II multi-institutional trial</article-title>
+  <source>
+   <italic toggle="yes">Journal of Clinical Oncology</italic>
+  </source>
+  <year>2014</year>
+  <volume>32</volume>
+  <issue>34</issue>
+  <fpage>3810</fpage>
+  <lpage>3816</lpage>
+  <pub-id pub-id-type="doi">10.1200/jco.2014.57.2909</pub-id>
+  <pub-id pub-id-type="pmid">25349290</pub-id>
+ </element-citation>
+</ref>

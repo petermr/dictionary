@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B30">
+ <label>30</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sun</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>Z.</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>S.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Incidence and relapse risk of intracranial metastases within the perihippocampal region in 314 patients with breast cancer</article-title>
+  <source>
+   <italic toggle="yes">Radiotherapy &amp; Oncology</italic>
+  </source>
+  <year>2016</year>
+  <volume>118</volume>
+  <issue>1</issue>
+  <fpage>181</fpage>
+  <lpage>186</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.radonc.2015.11.010</pub-id>
+  <pub-id pub-id-type="pmid">26674923</pub-id>
+ </element-citation>
+</ref>

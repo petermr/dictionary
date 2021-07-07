@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0028">
+ <label>28.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Neelapu</surname>
+    <given-names>SS</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Tummala</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Kebriaei</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Chimeric antigen receptor T-cell therapy - assessment and management of toxicities</article-title>. 
+  <source>Nat Rev Clin Oncol</source>
+  <year>2018</year>; 
+  <volume>15</volume>:
+  <fpage>47</fpage>–
+  <lpage>62</lpage>.
+  <pub-id pub-id-type="pmid">28925994</pub-id>
+ </mixed-citation>
+</ref>

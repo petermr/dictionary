@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pardanani</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Safety and efficacy of CYT387, a JAK1 and JAK2 inhibitor, in myelofibrosis</article-title>
+  <source>Leukemia</source>
+  <year>2013</year>
+  <volume>27</volume>
+  <fpage>1322</fpage>
+  <lpage>1327</lpage>
+  <pub-id pub-id-type="doi">10.1038/leu.2013.71</pub-id>
+  <?supplied-pmid 23459451?>
+  <pub-id pub-id-type="pmid">23459451</pub-id>
+ </element-citation>
+</ref>

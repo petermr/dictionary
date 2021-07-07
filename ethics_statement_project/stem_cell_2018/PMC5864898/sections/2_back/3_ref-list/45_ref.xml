@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B45">
+ <label>45</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sherwood</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Desmarais</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Livingston</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Andriesen</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Haussler</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Carlson</surname>
+    <given-names>CS</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Deep sequencing of the human TCRgamma and TCRbeta repertoires suggests that TCRbeta rearranges after alphabeta and gammadelta T cell commitment</article-title>. 
+  <source>Sci Transl Med</source> (
+  <year>2011</year>) 
+  <volume>3</volume>:
+  <fpage>90ra61</fpage>
+  <pub-id pub-id-type="doi">10.1126/scitranslmed.3002536</pub-id>
+ </mixed-citation>
+</ref>

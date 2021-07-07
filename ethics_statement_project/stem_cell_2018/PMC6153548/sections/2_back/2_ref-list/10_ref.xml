@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Press</surname>
+    <given-names>OW</given-names>
+   </name>
+   <name>
+    <surname>Eary</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Badger</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Martin</surname>
+    <given-names>PJ</given-names>
+   </name>
+   <name>
+    <surname>Appelbaum</surname>
+    <given-names>FR</given-names>
+   </name>
+   <name>
+    <surname>Levy</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Treatment of refractory non-Hodgkin's lymphoma with radiolabeled MB-1 (anti-CD37) antibody</article-title>
+  <source>J Clin Oncol</source>
+  <year>1989</year>
+  <volume>7</volume>
+  <fpage>1027</fpage>
+  <lpage>1038</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.1989.7.8.1027</pub-id>
+  <?supplied-pmid 2666588?>
+  <pub-id pub-id-type="pmid">2666588</pub-id>
+ </element-citation>
+</ref>

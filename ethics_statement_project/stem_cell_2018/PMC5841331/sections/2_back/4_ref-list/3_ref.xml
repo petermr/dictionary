@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tefferi</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Primary myelofibrosis: 2017 update on diagnosis, risk-stratification, and management</article-title>
+  <source>Am. J. Hematol.</source>
+  <year>2016</year>
+  <volume>91</volume>
+  <fpage>1262</fpage>
+  <lpage>1271</lpage>
+  <pub-id pub-id-type="doi">10.1002/ajh.24592</pub-id>
+  <?supplied-pmid 27870387?>
+  <pub-id pub-id-type="pmid">27870387</pub-id>
+ </element-citation>
+</ref>

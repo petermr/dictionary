@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR49">
+ <label>49.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bouxsein</surname>
+    <given-names>ML</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Guidelines for assessment of bone microstructure in rodents using micro-computed tomography</article-title>
+  <source>J. Bone Miner. Res.</source>
+  <year>2010</year>
+  <volume>25</volume>
+  <fpage>1468</fpage>
+  <lpage>1486</lpage>
+  <pub-id pub-id-type="doi">10.1002/jbmr.141</pub-id>
+  <?supplied-pmid 20533309?>
+  <pub-id pub-id-type="pmid">20533309</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Asshoff</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Momelotinib inhibits ACVR1/ALK2, decreases hepcidin production, and ameliorates anemia of chronic disease in rodents</article-title>
+  <source>Blood</source>
+  <year>2017</year>
+  <volume>129</volume>
+  <fpage>1823</fpage>
+  <lpage>1830</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2016-09-740092</pub-id>
+  <?supplied-pmid 28188131?>
+  <pub-id pub-id-type="pmid">28188131</pub-id>
+ </element-citation>
+</ref>

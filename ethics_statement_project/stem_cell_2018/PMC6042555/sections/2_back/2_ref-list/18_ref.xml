@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R18">
+ <label>18.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Paul</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Andreassen</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Tacconelli</surname>
+    <given-names>E</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Improving empirical antibiotic treatment using TREAT, a computerized decision support system: cluster randomized trial</article-title>. 
+  <source>J Antimicrob Chemother</source>
+  <year>2006</year>;
+  <volume>58</volume>:
+  <fpage>1238</fpage>–
+  <lpage>45</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/jac/dkl372</pub-id>
+  <pub-id pub-id-type="pmid">16998208</pub-id>
+ </mixed-citation>
+</ref>

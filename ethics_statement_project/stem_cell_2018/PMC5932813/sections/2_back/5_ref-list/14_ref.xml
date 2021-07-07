@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bouza</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Burillo</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Muñoz</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>Catheter-related infections: diagnosis and intravascular treatment</article-title>
+  <source>Clin Microbiol Infect</source>
+  <year>2002</year>
+  <volume>8</volume>
+  <fpage>265</fpage>
+  <lpage>274</lpage>
+  <pub-id pub-id-type="doi">10.1046/j.1469-0691.2002.00385.x</pub-id>
+  <?supplied-pmid 12047403?>
+  <pub-id pub-id-type="pmid">12047403</pub-id>
+ </element-citation>
+</ref>

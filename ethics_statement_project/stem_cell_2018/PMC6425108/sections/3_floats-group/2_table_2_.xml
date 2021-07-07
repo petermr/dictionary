@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="table2-0963689718820271" orientation="portrait" position="float">
+ <label>Table 2.</label>
+ <caption>
+  <p>OFF/ON UPDRS (I–IV) Scores.</p>
+ </caption>
+ <alternatives>
+  <graphic xlink:href="10.1177_0963689718820271-table2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <thead>
+    <tr>
+     <th rowspan="1" colspan="1"/>
+     <th rowspan="1" colspan="1">Patient/Time</th>
+     <th rowspan="1" colspan="1">1</th>
+     <th rowspan="1" colspan="1">2</th>
+     <th rowspan="1" colspan="1">3</th>
+     <th rowspan="1" colspan="1">4</th>
+     <th rowspan="1" colspan="1">5</th>
+     <th rowspan="1" colspan="1">6</th>
+     <th rowspan="1" colspan="1">7</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td rowspan="4" colspan="1">UPDRS-I OFF/ON</td>
+     <td rowspan="1" colspan="1">Baseline</td>
+     <td rowspan="1" colspan="1">0/0</td>
+     <td rowspan="1" colspan="1">3/3</td>
+     <td rowspan="1" colspan="1">1/1</td>
+     <td rowspan="1" colspan="1">5/3</td>
+     <td rowspan="1" colspan="1">1/1</td>
+     <td rowspan="1" colspan="1">0/0</td>
+     <td rowspan="1" colspan="1">2/2</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">1 year</td>
+     <td rowspan="1" colspan="1">1/1</td>
+     <td rowspan="1" colspan="1">6/6</td>
+     <td rowspan="1" colspan="1">1/1</td>
+     <td rowspan="1" colspan="1">0/0</td>
+     <td rowspan="1" colspan="1">3/3</td>
+     <td rowspan="1" colspan="1">0/0</td>
+     <td rowspan="1" colspan="1">0/0</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">2 years</td>
+     <td rowspan="1" colspan="1">1/1</td>
+     <td rowspan="1" colspan="1">2/2</td>
+     <td rowspan="1" colspan="1">2/2</td>
+     <td rowspan="1" colspan="1">2/2</td>
+     <td rowspan="1" colspan="1">2/2</td>
+     <td rowspan="1" colspan="1">0/0</td>
+     <td rowspan="1" colspan="1">2/2</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">4 years</td>
+     <td rowspan="1" colspan="1">1/1</td>
+     <td rowspan="1" colspan="1">3/3</td>
+     <td rowspan="1" colspan="1">2/2</td>
+     <td rowspan="1" colspan="1">1/1</td>
+     <td rowspan="1" colspan="1">2/2</td>
+     <td rowspan="1" colspan="1">1/1</td>
+     <td rowspan="1" colspan="1">1/1</td>
+    </tr>
+    <tr>
+     <td rowspan="4" colspan="1">UPDRS-II OFF/ON</td>
+     <td rowspan="1" colspan="1">Baseline</td>
+     <td rowspan="1" colspan="1">7/2</td>
+     <td rowspan="1" colspan="1">14/12</td>
+     <td rowspan="1" colspan="1">10/4</td>
+     <td rowspan="1" colspan="1">10/6</td>
+     <td rowspan="1" colspan="1">15/10</td>
+     <td rowspan="1" colspan="1">13/6</td>
+     <td rowspan="1" colspan="1">20/14</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">1 year</td>
+     <td rowspan="1" colspan="1">9/1</td>
+     <td rowspan="1" colspan="1">8/8</td>
+     <td rowspan="1" colspan="1">8/5</td>
+     <td rowspan="1" colspan="1">4/1</td>
+     <td rowspan="1" colspan="1">6/6</td>
+     <td rowspan="1" colspan="1">3/0</td>
+     <td rowspan="1" colspan="1">8/3</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">2 years</td>
+     <td rowspan="1" colspan="1">10/10</td>
+     <td rowspan="1" colspan="1">13/10</td>
+     <td rowspan="1" colspan="1">13/10</td>
+     <td rowspan="1" colspan="1">7/0</td>
+     <td rowspan="1" colspan="1">9/7</td>
+     <td rowspan="1" colspan="1">2/2</td>
+     <td rowspan="1" colspan="1">10/9</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">4 years</td>
+     <td rowspan="1" colspan="1">17/15</td>
+     <td rowspan="1" colspan="1">11/11</td>
+     <td rowspan="1" colspan="1">13/13</td>
+     <td rowspan="1" colspan="1">8/0</td>
+     <td rowspan="1" colspan="1">9/9</td>
+     <td rowspan="1" colspan="1">2/2</td>
+     <td rowspan="1" colspan="1">12/12</td>
+    </tr>
+    <tr>
+     <td rowspan="4" colspan="1">UPDRS-III OFF/ON</td>
+     <td rowspan="1" colspan="1">Baseline</td>
+     <td rowspan="1" colspan="1">16/2</td>
+     <td rowspan="1" colspan="1">26/13</td>
+     <td rowspan="1" colspan="1">36/25</td>
+     <td rowspan="1" colspan="1">18/4</td>
+     <td rowspan="1" colspan="1">43/24</td>
+     <td rowspan="1" colspan="1">27/2</td>
+     <td rowspan="1" colspan="1">29/11</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">1 year</td>
+     <td rowspan="1" colspan="1">18/9</td>
+     <td rowspan="1" colspan="1">18/8</td>
+     <td rowspan="1" colspan="1">14/11</td>
+     <td rowspan="1" colspan="1">12/2</td>
+     <td rowspan="1" colspan="1">39/5</td>
+     <td rowspan="1" colspan="1">16/2</td>
+     <td rowspan="1" colspan="1">17/3</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">2 years</td>
+     <td rowspan="1" colspan="1">18/5</td>
+     <td rowspan="1" colspan="1">23/6</td>
+     <td rowspan="1" colspan="1">34/28</td>
+     <td rowspan="1" colspan="1">9/3</td>
+     <td rowspan="1" colspan="1">31/9</td>
+     <td rowspan="1" colspan="1">11/6</td>
+     <td rowspan="1" colspan="1">27/14</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">4 years</td>
+     <td rowspan="1" colspan="1">25/9</td>
+     <td rowspan="1" colspan="1">22/8</td>
+     <td rowspan="1" colspan="1">34/17</td>
+     <td rowspan="1" colspan="1">11/3</td>
+     <td rowspan="1" colspan="1">31/37</td>
+     <td rowspan="1" colspan="1">15/2</td>
+     <td rowspan="1" colspan="1">23/22</td>
+    </tr>
+    <tr>
+     <td rowspan="4" colspan="1">UPDRS-IV OFF/ON</td>
+     <td rowspan="1" colspan="1">Baseline</td>
+     <td rowspan="1" colspan="1">1/1</td>
+     <td rowspan="1" colspan="1">2/0</td>
+     <td rowspan="1" colspan="1">2/3</td>
+     <td rowspan="1" colspan="1">7/7</td>
+     <td rowspan="1" colspan="1">12/12</td>
+     <td rowspan="1" colspan="1">6/5</td>
+     <td rowspan="1" colspan="1">4/6</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">1 year</td>
+     <td rowspan="1" colspan="1">7/7</td>
+     <td rowspan="1" colspan="1">4/4</td>
+     <td rowspan="1" colspan="1">1/1</td>
+     <td rowspan="1" colspan="1">2/3</td>
+     <td rowspan="1" colspan="1">4/4</td>
+     <td rowspan="1" colspan="1">1/1</td>
+     <td rowspan="1" colspan="1">3/4</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">2 years</td>
+     <td rowspan="1" colspan="1">6/7</td>
+     <td rowspan="1" colspan="1">5/5</td>
+     <td rowspan="1" colspan="1">1/2</td>
+     <td rowspan="1" colspan="1">4/5</td>
+     <td rowspan="1" colspan="1">6/5</td>
+     <td rowspan="1" colspan="1">2/2</td>
+     <td rowspan="1" colspan="1">4/2</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">4 years</td>
+     <td rowspan="1" colspan="1">7/7</td>
+     <td rowspan="1" colspan="1">7/7</td>
+     <td rowspan="1" colspan="1">1/1</td>
+     <td rowspan="1" colspan="1">6/6</td>
+     <td rowspan="1" colspan="1">9/9</td>
+     <td rowspan="1" colspan="1">3/3</td>
+     <td rowspan="1" colspan="1">5/5</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <fn id="table-fn2-0963689718820271">
+   <p>UPDRS-I (non-motor experiences of daily living: mentation, behavior, and mood), score 0–16; UPDRS-II (motor experience performance of daily living), score 0–52; UPDRS-III (motor function examination), score 0–108; UPDRS-IV (motor complications in response to medication and intervention—dyskinesias, fluctuations, and dystonia), score 0–23. Lower scores signify improvement on all UPDRS (I-IV). UPDRS III scores in all but P1 show improvement 4 years after surgery. P2 and P7 demonstrated improvement compared with the both baseline and the second year after surgery. P3, P4, P5, and P6 showed improved response to medication 4 years after surgery (UPDRS IV). P2, P4, P5, P6, and P7 showed improvement in activities of daily living (UPDRS II).</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

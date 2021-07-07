@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib10">
+ <label>10</label>
+ <mixed-citation publication-type="journal">
+  <person-group>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>HJ</given-names>
+   </name>
+   <name>
+    <surname>Vunjak-Novakovic</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Stem cell-based tissue engineering with silk biomaterials</article-title>. 
+  <source>
+   <italic>Biomaterials</italic>
+  </source>. 
+  <year>2006</year>;
+  <volume>27</volume>:
+  <fpage>6064</fpage>–
+  <lpage>6082</lpage>.
+  <pub-id pub-id-type="pmid">16890988</pub-id>
+ </mixed-citation>
+</ref>

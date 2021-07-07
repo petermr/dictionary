@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Abonour</surname>
+   <given-names>Rafat</given-names>
+  </name>
+  <address>
+   <phone>(317) 948-8310</phone>
+   <email>rabonour@iu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wagner</surname>
+   <given-names>Lynne</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Durie</surname>
+   <given-names>Brian G.M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jagannath</surname>
+   <given-names>Sundar</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Narang</surname>
+   <given-names>Mohit</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Terebelo</surname>
+   <given-names>Howard R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gasparetto</surname>
+   <given-names>Cristina J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Toomey</surname>
+   <given-names>Kathleen</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hardin</surname>
+   <given-names>James W.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff10">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kitali</surname>
+   <given-names>Amani</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff11">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gibson</surname>
+   <given-names>Craig J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff11">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Srinivasan</surname>
+   <given-names>Shankar</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff11">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Swern</surname>
+   <given-names>Arlene S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff11">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rifkin</surname>
+   <given-names>Robert M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff12">12</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2287 3919</institution-id>
+   <institution-id institution-id-type="GRID">grid.257413.6</institution-id>
+   <institution>Indiana University, </institution>
+  </institution-wrap>Indianapolis, IN USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>Hematology/Oncology, Indiana Cancer Pavilion, 535 Barnhill Drive, Suite 446, Indianapolis, IN 46202-5289 USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2185 3318</institution-id>
+   <institution-id institution-id-type="GRID">grid.241167.7</institution-id>
+   <institution>Wake Forest University School of Medicine, </institution>
+  </institution-wrap>Winston-Salem, NC USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2152 9905</institution-id>
+   <institution-id institution-id-type="GRID">grid.50956.3f</institution-id>
+   <institution>Cedars-Sinai Medical Center, </institution>
+  </institution-wrap>Los Angeles, CA USA 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.416167.3</institution-id>
+   <institution>Mount Sinai Hospital, </institution>
+  </institution-wrap>New York, NY USA 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>US Oncology Research, Columbia, MD USA 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0465 4685</institution-id>
+   <institution-id institution-id-type="GRID">grid.415290.b</institution-id>
+   <institution>Providence Cancer Institute, </institution>
+  </institution-wrap>Novi, MI USA 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000100241216</institution-id>
+   <institution-id institution-id-type="GRID">grid.189509.c</institution-id>
+   <institution>Duke University Medical Center, </institution>
+  </institution-wrap>Durham, NC USA 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>Steeplechase Cancer Center, Somerville, NJ USA 
+ </aff>
+ <aff id="Aff10">
+  <label>10</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9075 106X</institution-id>
+   <institution-id institution-id-type="GRID">grid.254567.7</institution-id>
+   <institution>University of South Carolina, </institution>
+  </institution-wrap>Columbia, SC USA 
+ </aff>
+ <aff id="Aff11">
+  <label>11</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0461 1802</institution-id>
+   <institution-id institution-id-type="GRID">grid.418722.a</institution-id>
+   <institution>Celgene Corporation, </institution>
+  </institution-wrap>Summit, NJ USA 
+ </aff>
+ <aff id="Aff12">
+  <label>12</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0446 331X</institution-id>
+   <institution-id institution-id-type="GRID">grid.477771.5</institution-id>
+   <institution>Rocky Mountain Cancer Centers US Oncology, </institution>
+  </institution-wrap>Denver, CO USA 
+ </aff>
+</contrib-group>

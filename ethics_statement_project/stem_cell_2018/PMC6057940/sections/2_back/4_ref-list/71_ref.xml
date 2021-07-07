@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR71">
+ <label>71.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Macosko</surname>
+    <given-names>EZ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets</article-title>
+  <source>Cell</source>
+  <year>2015</year>
+  <volume>161</volume>
+  <fpage>1202</fpage>
+  <lpage>1214</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2015.05.002</pub-id>
+  <?supplied-pmid 26000488?>
+  <pub-id pub-id-type="pmid">26000488</pub-id>
+ </element-citation>
+</ref>

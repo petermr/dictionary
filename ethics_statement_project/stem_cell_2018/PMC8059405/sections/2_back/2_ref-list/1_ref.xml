@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Hahn</surname>
+   <given-names>T</given-names>
+  </name>, 
+  <name>
+   <surname>McCarthy</surname>
+   <given-names>PL</given-names>
+   <suffix>Jr.</suffix>
+  </name>, 
+  <name>
+   <surname>Zhang</surname>
+   <given-names>MJ</given-names>
+  </name>, 
+  <etal/>
+  <article-title>Risk factors for acute graft-versus-host disease after human leukocyte antigen-identical sibling transplants for adults with leukemia</article-title>. 
+  <source>J Clin Oncol</source>. 
+  <year>2008</year>;
+  <volume>26</volume>:
+  <fpage>5728</fpage>–
+  <lpage>5734</lpage>.
+  <pub-id pub-id-type="pmid">18981462</pub-id>
+ </mixed-citation>
+</ref>

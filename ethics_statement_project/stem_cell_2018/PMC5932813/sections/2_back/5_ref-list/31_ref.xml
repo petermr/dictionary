@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Longo</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Llorens</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Goetz</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Platini</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Eid</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Sellies</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Taurolidine/citrate lock therapy for primary prevention of catheter-related infections in cancer patients: results of a prospective, randomized, phase IV trial (ATAPAC)</article-title>
+  <source>Oncology</source>
+  <year>2017</year>
+  <volume>93</volume>
+  <fpage>99</fpage>
+  <lpage>105</lpage>
+  <pub-id pub-id-type="doi">10.1159/000470911</pub-id>
+  <?supplied-pmid 28463827?>
+  <pub-id pub-id-type="pmid">28463827</pub-id>
+ </element-citation>
+</ref>

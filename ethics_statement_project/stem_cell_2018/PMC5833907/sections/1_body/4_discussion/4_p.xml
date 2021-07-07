@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par31">Logistic regression, a widely used method in biology and medicine, allows the association between several variables to be quantified by estimating a probability. This technique takes confounding factors into account but requires the measures to be of good quality and may be disturbed by interactions between variables. It also cannot deal with missing data relating to continuous variables [
+ <xref ref-type="bibr" rid="CR32">32</xref>, 
+ <xref ref-type="bibr" rid="CR33">33</xref>].
+</p>

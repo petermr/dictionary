@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Peters</surname>
+    <given-names>EJ</given-names>
+   </name>
+   <name>
+    <surname>Lavery</surname>
+    <given-names>LA</given-names>
+   </name>
+   <name>
+    <surname>Armstrong</surname>
+    <given-names>DG</given-names>
+   </name>
+  </person-group>
+  <article-title>Diabetic lower extremity infection: influence of physical, psychological, and social factors</article-title>
+  <source>J Diabetes Complicat</source>
+  <year>2005</year>
+  <volume>19</volume>
+  <issue>2</issue>
+  <fpage>107</fpage>
+  <lpage>112</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jdiacomp.2004.06.002</pub-id>
+  <?supplied-pmid 15745841?>
+  <pub-id pub-id-type="pmid">15745841</pub-id>
+ </element-citation>
+</ref>

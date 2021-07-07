@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schoot</surname>
+    <given-names>RA</given-names>
+   </name>
+   <name>
+    <surname>van Ommen</surname>
+    <given-names>CH</given-names>
+   </name>
+   <name>
+    <surname>Stijnen</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Tissing</surname>
+    <given-names>WJ</given-names>
+   </name>
+   <name>
+    <surname>Michiels</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Abbink</surname>
+    <given-names>FC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Prevention of central venous catheter-associated bloodstream infections in paediatric oncology patients using 70% ethanol locks: a randomised controlled multi-centre trial</article-title>
+  <source>Eur J Cancer</source>
+  <year>2015</year>
+  <volume>51</volume>
+  <fpage>2031</fpage>
+  <lpage>2038</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ejca.2015.06.126</pub-id>
+  <?supplied-pmid 26188849?>
+  <pub-id pub-id-type="pmid">26188849</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>HRQoL completion and baseline scores</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th>Any maintenance therapy (
+     <italic>n</italic> = 244)
+    </th>
+    <th>Lenalidomide-only maintenance therapy (
+     <italic>n</italic> = 169)
+    </th>
+    <th>No maintenance therapy (
+     <italic>n</italic> = 137)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Median (range) duration of maintenance (months)</td>
+    <td>23.5 (0.6–69.6)</td>
+    <td>24.9 (0.6–69.6)</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td colspan="4">EQ-5D completion rate, 
+     <italic>n</italic>/
+     <italic>N</italic> (%)
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td> Study baseline</td>
+    <td>241/244 (98.8)</td>
+    <td>167/169 (98.8)</td>
+    <td>136/137 (99.3)</td>
+   </tr>
+   <tr>
+    <td> Quarter 1</td>
+    <td>133/243 (54.3)</td>
+    <td>94/168 (56.0)</td>
+    <td>107/137 (78.1)</td>
+   </tr>
+   <tr>
+    <td> Quarter 2</td>
+    <td>156/223 (70.0)</td>
+    <td>110/154 (71.4)</td>
+    <td>99/123 (80.5)</td>
+   </tr>
+   <tr>
+    <td> Quarter 8
+     <sup>b</sup>
+    </td>
+    <td>75/116 (64.7)</td>
+    <td>56/83 (67.5)</td>
+    <td>48/63 (76.2)</td>
+   </tr>
+   <tr>
+    <td colspan="4">Mean (SD) analysis baseline HRQoL score</td>
+   </tr>
+   <tr>
+    <td> FACT-MM total score</td>
+    <td>118.0 (23.5)</td>
+    <td>118.9 (23.3)</td>
+    <td>118.5 (24.1)</td>
+   </tr>
+   <tr>
+    <td> FACT-MM trial outcomes index</td>
+    <td>75.8 (18.5)</td>
+    <td>76.4 (18.6)</td>
+    <td>76.0 (19.3)</td>
+   </tr>
+   <tr>
+    <td> FACT-MM MM subscale</td>
+    <td>38.2 (9.7)</td>
+    <td>38.3 (9.9)</td>
+    <td>38.9 (9.4)</td>
+   </tr>
+   <tr>
+    <td> EQ-5D overall index</td>
+    <td>0.79 (0.14)</td>
+    <td>0.79 (0.14)</td>
+    <td>0.79 (0.14)</td>
+   </tr>
+   <tr>
+    <td> BPI</td>
+    <td>4.0 (2.4)</td>
+    <td>4.0 (2.4)</td>
+    <td>3.9 (2.5)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>ASCT</italic> autologous stem cell transplant, 
+   <italic>BPI</italic> Brief Pain Inventory, 
+   <italic>EQ-5D</italic> EuroQol Research Foundation EQ-5D questionnaire, 
+   <italic>FACT-MM</italic> Functional Assessment of Cancer Therapy-Multiple Myeloma, 
+   <italic>HRQoL</italic> health-related quality of life, 
+   <italic>NA</italic> not applicable, 
+   <italic>SD</italic> standard deviation
+  </p>
+  <p>
+   <sup>a</sup>Completion rates for all instruments were similar because measures were administered at the same times
+  </p>
+  <p>
+   <sup>b</sup>Data through quarter 8 was selected to correspond with the ~ 24-month median duration of maintenance therapy
+  </p>
+ </table-wrap-foot>
+</table-wrap>

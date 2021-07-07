@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Karsenty</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Yadav</surname>
+    <given-names>VK</given-names>
+   </name>
+  </person-group>
+  <article-title>Regulation of bone mass by serotonin: molecular biology and therapeutic implications</article-title>
+  <source>Annu. Rev. Med.</source>
+  <year>2011</year>
+  <volume>62</volume>
+  <fpage>323</fpage>
+  <lpage>331</lpage>
+  <pub-id pub-id-type="doi">10.1146/annurev-med-090710-133426</pub-id>
+  <?supplied-pmid 21073335?>
+  <pub-id pub-id-type="pmid">21073335</pub-id>
+ </element-citation>
+</ref>

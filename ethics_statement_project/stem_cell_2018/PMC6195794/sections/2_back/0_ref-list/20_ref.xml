@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib20">
+ <label>20</label>
+ <element-citation publication-type="journal" id="sref20">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lopez</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Gouras</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Brittis</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Kjeldbye</surname>
+    <given-names>H.</given-names>
+   </name>
+  </person-group>
+  <article-title>Transplantation of cultured rabbit retinal epithelium to rabbit retina using a closed-eye method</article-title>
+  <source>Invest Ophthalmol Vis Sci</source>
+  <volume>28</volume>
+  <year>1987</year>
+  <fpage>1131</fpage>
+  <lpage>1137</lpage>
+  <pub-id pub-id-type="pmid">3596991</pub-id>
+ </element-citation>
+</ref>

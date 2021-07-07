@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schultz</surname>
+    <given-names>KR</given-names>
+   </name>
+   <name>
+    <surname>Nevill</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <name>
+    <surname>Balshaw</surname>
+    <given-names>RF</given-names>
+   </name>
+   <name>
+    <surname>Toze</surname>
+    <given-names>CL</given-names>
+   </name>
+   <name>
+    <surname>Corr</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Currie</surname>
+    <given-names>CJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Effect of gastrointestinal inflammation and age on the pharmacokinetics of oral microemulsion cyclosporin A in the first month after bone marrow transplantation</article-title>
+  <source>Bone Marrow Transplant.</source>
+  <year>2000</year>
+  <volume>26</volume>
+  <fpage>545</fpage>
+  <lpage>551</lpage>
+  <?supplied-pmid 11019845?>
+  <pub-id pub-id-type="pmid">11019845</pub-id>
+ </element-citation>
+</ref>

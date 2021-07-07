@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="jcsm12316-bib-0022">
+ <label>22</label>
+ <mixed-citation publication-type="journal" id="jcsm12316-cit-0023">
+  <string-name>
+   <surname>Croci</surname>
+   <given-names>DO</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Cerliani</surname>
+   <given-names>JP</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Dalotto‐Moreno</surname>
+   <given-names>T</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Mendez‐Huergo</surname>
+   <given-names>SP</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Mascanfroni</surname>
+   <given-names>ID</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Dergan‐Dylon</surname>
+   <given-names>S</given-names>
+  </string-name>, et al. 
+  <article-title>Glycosylation‐dependent lectin‐receptor interactions preserve angiogenesis in anti‐VEGF refractory tumors</article-title>. 
+  <source xml:lang="en">Cell</source>
+  <year>2014</year>;
+  <volume>156</volume>:
+  <fpage>744</fpage>–
+  <lpage>758</lpage>.
+  <pub-id pub-id-type="pmid">24529377</pub-id>
+ </mixed-citation>
+</ref>

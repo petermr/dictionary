@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Goligorsky</surname>
+    <given-names>MS</given-names>
+   </name>
+  </person-group>
+  <article-title>Endothelial progenitors in sepsis: 
+   <italic>vox clamantis in deserto</italic>?
+  </article-title>
+  <source>Crit Care.</source>
+  <year>2011</year>
+  <volume>15</volume>
+  <fpage>142</fpage>
+  <pub-id pub-id-type="doi">10.1186/cc10105</pub-id>
+  <?supplied-pmid 21489327?>
+  <pub-id pub-id-type="pmid">21489327</pub-id>
+ </element-citation>
+</ref>

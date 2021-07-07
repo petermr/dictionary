@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par39">This model is intended to be online, and thus it has to respond to two major concerns: sensitivity for missing data and external validation. The sensitivity analysis performed informs us on the importance of the information provided by some variables to the network.</p>

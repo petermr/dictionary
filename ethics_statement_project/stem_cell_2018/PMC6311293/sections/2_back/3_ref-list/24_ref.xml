@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B25">
+ <label>25</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Marsh</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Gielda</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Herskovic</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Wendt</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Turian</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Sparing of the hippocampus and limbic circuit during whole brain radiation therapy: A dosimetric study using helical tomotherapy</article-title>
+  <source>
+   <italic toggle="yes">Journal of Medical Imaging and Radiation Oncology</italic>
+  </source>
+  <year>2010</year>
+  <volume>54</volume>
+  <issue>4</issue>
+  <fpage>375</fpage>
+  <lpage>382</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1754-9485.2010.02184.x</pub-id>
+  <pub-id pub-id-type="pmid">20718919</pub-id>
+ </element-citation>
+</ref>

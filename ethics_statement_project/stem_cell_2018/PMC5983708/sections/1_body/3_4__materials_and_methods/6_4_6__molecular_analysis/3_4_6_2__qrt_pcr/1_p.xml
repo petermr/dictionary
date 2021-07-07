@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>miRNA isolation and expression analysis was performed in the cerebrospinal fluid, and blood plasma was collected before cell administration and one month after cell transplantation. miRNA was isolated from the plasma (200 μL) and cerebrospinal fluid (200 μL) with the NucleoSpin
+ <sup>®</sup> miRNA Plasma Kit (Macherey Nagel, Düren, Germany), following the manufacturer’s protocol. Total miRNA was eluted in 30 μL nuclease-free water. Next, 25 fmol of miR-39 from C.elegans (sequence: 5′-TCACCGGGTGTAAATCAGCTTG-3′, synthetized by the Institute of Biochemistry and Biophysics, Polish Academy of Sciences) was added to each sample as a spike-in control. Next, reverse transcription was performed with 7 μL of samples using NCode miRNA First-Strand cDNA Synthesis Kit (Thermo Fisher Scientific, Waltham, MA, USA) following the manufacturer’s protocol. Subsequently, preamplification was performed as described in Jazwa et al. [
+ <xref rid="B77-ijms-19-01312" ref-type="bibr">77</xref>]. Quantitative assessment of the expression of the selected miRNAs (miRNA-1, miRNA-133a, miRNA-155, miRNA-206, and miRNA-378) was performed by qRT-PCR using 2 μL of 10× diluted samples obtained after preamplification, SYBR Green PCR Master Mix (SYBR Green qPCR Kit, Sigma-Aldrich, St. Louis, MO, USA), a universal reverse primer for miRNAs qPCR supplied with NCode miRNA First-Strand cDNA Synthesis Kit, and miRNA specific primers. Relative quantification of expression of selected target miRNAs was performed with the comparative Ct (cycle threshold) method. The relative quantization value of the target, normalized to spike-in control, was expressed as 2
+ <sup>−Δ
+  <italic>C</italic>t
+ </sup>.
+</p>

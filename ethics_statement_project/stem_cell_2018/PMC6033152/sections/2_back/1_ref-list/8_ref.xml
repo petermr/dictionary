@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="jns12267-bib-0008">
+ <label>8</label>
+ <mixed-citation publication-type="journal" id="jns12267-cit-0008">
+  <string-name>
+   <surname>Mendell</surname>
+   <given-names>JR</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Barohn</surname>
+   <given-names>RJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Freimer</surname>
+   <given-names>ML</given-names>
+  </string-name>, et al. 
+  <article-title>Randomized controlled trial of IVIg in untreated chronic inflammatory demyelinating polyradiculoneuropathy</article-title>. 
+  <source xml:lang="en">Neurology</source>. 
+  <year>2001</year>;
+  <volume>56</volume>:
+  <fpage>445</fpage>‐
+  <lpage>449</lpage>.
+  <pub-id pub-id-type="pmid">11222785</pub-id>
+ </mixed-citation>
+</ref>

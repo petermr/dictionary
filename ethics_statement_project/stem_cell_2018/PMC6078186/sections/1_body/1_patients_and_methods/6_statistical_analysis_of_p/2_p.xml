@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The PK and PD population were defined as those who received the scheduled doses and PK and PD sampling schedules, respectively, according to the protocol. Descriptive statistics for PK and PD parameters were provided with the ranges of SDs except 
+ <italic>t</italic>
+ <sub>max</sub> (presented as median [min, max]). The primary PK (
+ <italic>C</italic>
+ <sub>max</sub> and AUC
+ <sub>0–∞</sub>) and PD (
+ <italic>E</italic>
+ <sub>max</sub> and AUEC
+ <sub>0–last</sub>) parameters were log-transformed and determined whether the 90% CI of the test to reference ratio fell within the range of 0.8–1.25. For the test, a linear mixed effect analysis was performed using the bioequivalence engine in Phoenix WinNonlin (version 6.4). The model included sequence, subjects nested in sequences, period, and treatment.
+</p>

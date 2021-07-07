@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B51">
+ <label>51</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nielsen</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Ødum</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Ursø</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Lanier</surname>
+    <given-names>LL</given-names>
+   </name>
+   <name>
+    <surname>Spee</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>Cytotoxicity of CD56bright NK cells towards autologous activated CD4 T cells is mediated through NKG2D, LFA-1 and TRAIL and dampened via CD94/NKG2A</article-title>. 
+  <source>PLoS One</source> (
+  <year>2012</year>) 
+  <volume>7</volume>:
+  <fpage>e31959</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0031959</pub-id>
+  <pub-id pub-id-type="pmid">22384114</pub-id>
+ </mixed-citation>
+</ref>

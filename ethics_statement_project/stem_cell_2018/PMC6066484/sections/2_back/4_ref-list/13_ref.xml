@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Richardson</surname>
+    <given-names>PG</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Bortezomib or high-dose dexamethasone for relapsed multiple myeloma</article-title>
+  <source>New Engl. J. Med.</source>
+  <year>2005</year>
+  <volume>352</volume>
+  <fpage>2487</fpage>
+  <lpage>2498</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa043445</pub-id>
+  <?supplied-pmid 15958804?>
+  <pub-id pub-id-type="pmid">15958804</pub-id>
+ </element-citation>
+</ref>

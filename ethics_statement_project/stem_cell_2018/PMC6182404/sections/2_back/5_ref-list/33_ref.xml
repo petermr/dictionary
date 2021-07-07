@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR33">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schmitt</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Schmitt</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Rojewski</surname>
+    <given-names>MT</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>RHAMM-R3 peptide vaccination in patients with acute myeloid leukemia, myelodysplastic syndrome, and multiple myeloma elicits immunologic and clinical responses</article-title>
+  <source>Blood</source>
+  <year>2008</year>
+  <volume>111</volume>
+  <fpage>1357</fpage>
+  <lpage>1365</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2007-07-099366</pub-id>
+  <?supplied-pmid 17978170?>
+  <pub-id pub-id-type="pmid">17978170</pub-id>
+ </element-citation>
+</ref>

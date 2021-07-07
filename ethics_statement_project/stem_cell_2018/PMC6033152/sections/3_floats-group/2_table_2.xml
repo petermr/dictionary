@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jns12267-tbl-0002" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Summary of permitted and prohibited concomitant medications</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <thead valign="bottom">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Permitted medications</th>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Prohibited medications</th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet" id="jns12267-list-0003">
+      <list-item id="jns12267-li-0031">
+       <p>Stable doses of azathioprine (if receiving for ≥12 months prior to baseline)
+        <list list-type="bullet" id="jns12267-list-0004">
+         <list-item id="jns12267-li-0032">
+          <p>Azathioprine should be continued at the same dosage during study treatment</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+      <list-item id="jns12267-li-0033">
+       <p>Stable doses of corticosteroids (prednisolone or equivalent) ≤20 mg/d or equivalent in patients with prior corticosteroid therapy</p>
+      </list-item>
+      <list-item id="jns12267-li-0034">
+       <p>Paracetamol as needed for mild pain</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet" id="jns12267-list-0005">
+      <list-item id="jns12267-li-0035">
+       <p>Any other blood or plasma‐derived products (except for emergency reasons)</p>
+      </list-item>
+      <list-item id="jns12267-li-0036">
+       <p>Patients who receive immunoglobulin preparations other than panzyga will be withdrawn from the study</p>
+      </list-item>
+      <list-item id="jns12267-li-0037">
+       <p>Corticosteroids (prednisolone or equivalent) &gt; 20 mg/d or equivalent</p>
+      </list-item>
+      <list-item id="jns12267-li-0038">
+       <p>Plasma exchange</p>
+      </list-item>
+      <list-item id="jns12267-li-0039">
+       <p>Ciclosporin, methotrexate, mitoxantrone, mycophenolate mofetil, interferon or other immunosuppressive or immunomodulatory drugs</p>
+      </list-item>
+      <list-item id="jns12267-li-0040">
+       <p>Rituximab, alemtuzumab, cyclophosphamide, or other chemotherapeutic regimens</p>
+      </list-item>
+      <list-item id="jns12267-li-0041">
+       <p>Any experimental treatment</p>
+      </list-item>
+      <list-item id="jns12267-li-0042">
+       <p>Routine pre‐medication to alleviate potential tolerability issues
+        <xref ref-type="fn" rid="jns12267-note-0002">a</xref>
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="jns12267-note-0002">
+   <label>a</label>
+   <p>Patients who experience 2 consecutive infusion‐related adverse events may receive pre‐medication with antipyretics, antihistamines, or antiemetic agents.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

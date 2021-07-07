@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mol</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Koopman</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>van Gils</surname>
+    <given-names>CWM</given-names>
+   </name>
+   <name>
+    <surname>Ottevanger</surname>
+    <given-names>PB</given-names>
+   </name>
+   <name>
+    <surname>Punt</surname>
+    <given-names>CJA</given-names>
+   </name>
+  </person-group>
+  <article-title>Comparison of treatment outcome in metastatic colorectal cancer patients included in a clinical trial versus daily practice in The Netherlands</article-title>
+  <source>Acta Oncol</source>
+  <year>2013</year>
+  <volume>52</volume>
+  <fpage>950</fpage>
+  <lpage>955</lpage>
+  <pub-id pub-id-type="doi">10.3109/0284186X.2013.777158</pub-id>
+  <?supplied-pmid 23517248?>
+  <pub-id pub-id-type="pmid">23517248</pub-id>
+ </element-citation>
+</ref>

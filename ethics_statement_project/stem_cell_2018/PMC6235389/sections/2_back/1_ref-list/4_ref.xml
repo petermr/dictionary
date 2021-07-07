@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Huncharek</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Kupelnick</surname>
+    <given-names>B</given-names>
+   </name>
+  </person-group>
+  <article-title>Combined chemoradiation versus radiation therapy alone in locally advanced nasopharyngeal carcinoma: results of a meta-analysis of 1,528 patients from six randomized trials</article-title>
+  <source>Am J Clin Oncol</source>
+  <year>2002</year>
+  <volume>25</volume>
+  <issue>3</issue>
+  <fpage>219</fpage>
+  <lpage>223</lpage>
+  <pub-id pub-id-type="doi">10.1097/00000421-200206000-00002</pub-id>
+  <pub-id pub-id-type="pmid">12040275</pub-id>
+ </element-citation>
+</ref>

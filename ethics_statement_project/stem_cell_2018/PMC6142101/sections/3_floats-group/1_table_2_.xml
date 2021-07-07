@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="table2-1534735418756736" orientation="portrait" position="float">
+ <label>Table 2.</label>
+ <caption>
+  <p>Patient Characteristics.</p>
+ </caption>
+ <alternatives>
+  <graphic xlink:href="10.1177_1534735418756736-table2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <colgroup span="1">
+    <col align="left" span="1"/>
+    <col align="char" char="." span="1"/>
+    <col align="char" char="." span="1"/>
+    <col align="char" char="." span="1"/>
+    <col align="char" char="." span="1"/>
+    <col align="char" char="." span="1"/>
+    <col align="char" char="." span="1"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th align="left" rowspan="1" colspan="1">Patient #</th>
+     <th align="center" rowspan="1" colspan="1">Age</th>
+     <th align="center" rowspan="1" colspan="1">Gender</th>
+     <th align="center" rowspan="1" colspan="1">Group</th>
+     <th align="center" rowspan="1" colspan="1">Condition</th>
+     <th align="center" rowspan="1" colspan="1">Comment</th>
+     <th align="center" rowspan="1" colspan="1">Donor</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td rowspan="1" colspan="1">1</td>
+     <td rowspan="1" colspan="1">53</td>
+     <td rowspan="1" colspan="1">Male</td>
+     <td rowspan="1" colspan="1">Control</td>
+     <td rowspan="1" colspan="1">AML</td>
+     <td rowspan="1" colspan="1">FLT3 (+), second HSCT</td>
+     <td rowspan="1" colspan="1">MSD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">2</td>
+     <td rowspan="1" colspan="1">44</td>
+     <td rowspan="1" colspan="1">Female</td>
+     <td rowspan="1" colspan="1">Control</td>
+     <td rowspan="1" colspan="1">T-ALL</td>
+     <td rowspan="1" colspan="1">BCR-ABL (+)</td>
+     <td rowspan="1" colspan="1">MSD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">3</td>
+     <td rowspan="1" colspan="1">41</td>
+     <td rowspan="1" colspan="1">Male</td>
+     <td rowspan="1" colspan="1">Control</td>
+     <td rowspan="1" colspan="1">MDS-AML</td>
+     <td rowspan="1" colspan="1"/>
+     <td rowspan="1" colspan="1">MSD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">4</td>
+     <td rowspan="1" colspan="1">25</td>
+     <td rowspan="1" colspan="1">Male</td>
+     <td rowspan="1" colspan="1">Treatment</td>
+     <td rowspan="1" colspan="1">ALL</td>
+     <td rowspan="1" colspan="1">BCR-ABL (+)</td>
+     <td rowspan="1" colspan="1">MUD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">5</td>
+     <td rowspan="1" colspan="1">35</td>
+     <td rowspan="1" colspan="1">Female</td>
+     <td rowspan="1" colspan="1">Control</td>
+     <td rowspan="1" colspan="1">AML</td>
+     <td rowspan="1" colspan="1">FLT3 (−)</td>
+     <td rowspan="1" colspan="1">MSD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">6</td>
+     <td rowspan="1" colspan="1">65</td>
+     <td rowspan="1" colspan="1">Female</td>
+     <td rowspan="1" colspan="1">Treatment</td>
+     <td rowspan="1" colspan="1">MDS</td>
+     <td rowspan="1" colspan="1">RAEB-T</td>
+     <td rowspan="1" colspan="1">MSD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">7</td>
+     <td rowspan="1" colspan="1">32</td>
+     <td rowspan="1" colspan="1">Male</td>
+     <td rowspan="1" colspan="1">Treatment</td>
+     <td rowspan="1" colspan="1">B-ALL/LBL</td>
+     <td rowspan="1" colspan="1"/>
+     <td rowspan="1" colspan="1">MUD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">8</td>
+     <td rowspan="1" colspan="1">48</td>
+     <td rowspan="1" colspan="1">Male</td>
+     <td rowspan="1" colspan="1">Control</td>
+     <td rowspan="1" colspan="1">AML</td>
+     <td rowspan="1" colspan="1">FLT3 (−)</td>
+     <td rowspan="1" colspan="1">MSD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">9</td>
+     <td rowspan="1" colspan="1">30</td>
+     <td rowspan="1" colspan="1">Male</td>
+     <td rowspan="1" colspan="1">Treatment</td>
+     <td rowspan="1" colspan="1">MDS-AML</td>
+     <td rowspan="1" colspan="1"/>
+     <td rowspan="1" colspan="1">MSD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">10</td>
+     <td rowspan="1" colspan="1">56</td>
+     <td rowspan="1" colspan="1">Male</td>
+     <td rowspan="1" colspan="1">Treatment</td>
+     <td rowspan="1" colspan="1">MDS</td>
+     <td rowspan="1" colspan="1"/>
+     <td rowspan="1" colspan="1">MUD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">11</td>
+     <td rowspan="1" colspan="1">56</td>
+     <td rowspan="1" colspan="1">Female</td>
+     <td rowspan="1" colspan="1">Treatment</td>
+     <td rowspan="1" colspan="1">MDS</td>
+     <td rowspan="1" colspan="1">RAEB-1</td>
+     <td rowspan="1" colspan="1">MSD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">12</td>
+     <td rowspan="1" colspan="1">50</td>
+     <td rowspan="1" colspan="1">Female</td>
+     <td rowspan="1" colspan="1">Control</td>
+     <td rowspan="1" colspan="1">AML</td>
+     <td rowspan="1" colspan="1">FLT3/ITD (+)</td>
+     <td rowspan="1" colspan="1">MSD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">13</td>
+     <td rowspan="1" colspan="1">64</td>
+     <td rowspan="1" colspan="1">Female</td>
+     <td rowspan="1" colspan="1">Control</td>
+     <td rowspan="1" colspan="1">MDS</td>
+     <td rowspan="1" colspan="1">del(20)(q1.2) RAEB</td>
+     <td rowspan="1" colspan="1">MSD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">14</td>
+     <td rowspan="1" colspan="1">42</td>
+     <td rowspan="1" colspan="1">Female</td>
+     <td rowspan="1" colspan="1">Control</td>
+     <td rowspan="1" colspan="1">AML</td>
+     <td rowspan="1" colspan="1">FLT3 (−), del(9)</td>
+     <td rowspan="1" colspan="1">MSD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">15</td>
+     <td rowspan="1" colspan="1">28</td>
+     <td rowspan="1" colspan="1">Male</td>
+     <td rowspan="1" colspan="1">Treatment</td>
+     <td rowspan="1" colspan="1">T-ALL</td>
+     <td rowspan="1" colspan="1"/>
+     <td rowspan="1" colspan="1">MUD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">16</td>
+     <td rowspan="1" colspan="1">61</td>
+     <td rowspan="1" colspan="1">Male</td>
+     <td rowspan="1" colspan="1">Control</td>
+     <td rowspan="1" colspan="1">SAA-AML</td>
+     <td rowspan="1" colspan="1"/>
+     <td rowspan="1" colspan="1">MUD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">17</td>
+     <td rowspan="1" colspan="1">36</td>
+     <td rowspan="1" colspan="1">Male</td>
+     <td rowspan="1" colspan="1">Control</td>
+     <td rowspan="1" colspan="1">AML</td>
+     <td rowspan="1" colspan="1">FLT3/ITD(+), NPM1(+),PML RARa (−)</td>
+     <td rowspan="1" colspan="1">MSD</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">18</td>
+     <td rowspan="1" colspan="1">41</td>
+     <td rowspan="1" colspan="1">Male</td>
+     <td rowspan="1" colspan="1">Control</td>
+     <td rowspan="1" colspan="1">ALL</td>
+     <td rowspan="1" colspan="1">i (9) (q10), CD20+</td>
+     <td rowspan="1" colspan="1">MSD</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <fn id="table-fn2-1534735418756736">
+   <p>Abbreviations: AML, acute myeloid leukemia; FLT3, fms-like tyrosine kinase 3; HSCT, hematopoietic stem cell transplantation; MSD, matched sibling donor; T-ALL, T cell acute lymphoblastic leukemia; BCR-ABL, the fusion gene on the Philadelphia (Ph) chromosome; MDS, myelodysplastic syndrome; ALL, acute lymphocytic leukemia; MUD, matched unrelated donor; RAEB, refractory anemia with excess of blast; B-ALL/LBL, B lymphoblastic leukemia/lymphoma; ITD, internal tandem duplication; SAA, severe aplastic anemia; NPM, nucleophosmin; PML RARa, promyelocytic leukemia/retinoic acid receptor alpha.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

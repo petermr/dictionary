@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Butler</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Epstein</surname>
+    <given-names>SE</given-names>
+   </name>
+   <name>
+    <surname>Greene</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Intravenous Allogeneic Mesenchymal Stem Cells for Non-Ischemic Cardiomyopathy: Safety and Efficacy Results of a Phase II-A Randomized Trial</article-title>
+  <source>
+   <italic>Circ Res.</italic>
+  </source>
+  <year>2017</year>
+  <volume>120</volume>
+  <fpage>332</fpage>
+  <lpage>340</lpage>
+  <pub-id pub-id-type="pmid">27856497</pub-id>
+ </element-citation>
+</ref>

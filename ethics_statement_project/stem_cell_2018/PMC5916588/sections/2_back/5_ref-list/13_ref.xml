@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cantu</surname>
+    <given-names>RC</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Slobounov</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Sebastianelli</surname>
+    <given-names>W</given-names>
+   </name>
+  </person-group>
+  <article-title>Concussion classification: ongoing controversy</article-title>
+  <source>Foundations of sports-related brain injuries</source>
+  <year>2006</year>
+  <publisher-loc>New York</publisher-loc>
+  <publisher-name>Springer</publisher-name>
+  <fpage>87</fpage>
+  <lpage>110</lpage>
+ </element-citation>
+</ref>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="sct312264-tbl-0006" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 6</label>
+ <caption>
+  <p>Results of blood work measured before and after mesenchymal stem cell infusion</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/>
+  <thead valign="bottom">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Test</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Preinfusion</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">1 day after infusion</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">7 days after infusion</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">30 days after infusion</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">
+     <italic>p</italic> value
+    </th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Hemoglobin, g/dL</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">13.2 ± 1.2</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">13.1 ± 1.3</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">13.1 ± 1.3</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">13.2 ± 1.5</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">.90</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">WBC count, ×109/L</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">6.5 ± 2</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">6.1 ± 2.0</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">6.8 ± 1.9</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">6.4 ± 3</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">.38</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Platelet count, ×109/L</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">173 ± 41</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">172 ± 41</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">179 ± 40</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">176 ± 38</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">.53</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">BUN, mg/dL</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">24 ± 9</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">21 ± 9</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">21 ± 9</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">23 ± 9</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">.24</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Creatinine, mg/dL</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">1.3 ± 0.3</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">1.3 ± 0.3</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">1.3 ± 0.3</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">1.4 ± 0.3</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">.26</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Glucose, mg/dL</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">132 ± 31</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">134 ± 32</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">127 ± 31</td>
+    <td align="char" char="±" valign="top" rowspan="1" colspan="1">141 ± 33</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">.75</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="sct312264-note-0009">
+   <p>Abbreviations: BUN, blood urea nitrogen; WBC, white blood cell.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

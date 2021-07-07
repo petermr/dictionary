@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We compared our model results with findings from the DESTINY trial, which studies dose-halving in 174 TKI-treated patients with CML (being either in MR4 or MR3 for at least 12 months) before TKI cessation. The published DESTINY interim-analysis indicates that 93% of the patients showed no loss of MR3 within 12 months post dose reduction.
+ <sup>
+  <xref rid="b15-1031825" ref-type="bibr">15</xref>
+ </sup> We simulated this scenario by predicting virtual treatment responses from 
+ <italic>BCR-ABL1</italic> measurements in the IRIS/CML-IV trials. In particular, we identified 122 patient time courses fulfilling the inclusion criteria of the DESTINY protocol (&gt; 3 years under TKI, &gt; 1 year in MR3) and simulated a virtual TKI dose reduction according to the DESTINY protocol at the end of the available follow up for each of those patients. Using the same distribution of latency times as above, we calculated for each patient the fraction of values of 
+ <italic>p
+  <sub>Y</sub>
+ </italic>, which lead to loss of MR3 within one year after de-escalation (
+ <italic>Online Supplementary Figure S6E</italic>). This fraction can be interpreted as an estimate for the patient-specific risk of a molecular relapse. We also calculated the expected proportion of relapsed patients within the overall population, as well as in the corresponding subcohorts of patients being in either MR3 or MR4 within the last year before dose reduction (
+ <xref ref-type="fig" rid="f4-1031825">Figure 4A</xref>). Although a quantitative comparison should be considered with caution due to potential differences in the study populations and patient compliance, the results predicted for the IRIS/CML-IV patients show qualitatively similar relapse rates as observed in the DESTINY trial. Our findings also suggest that the individual relapse probability is related to the remission level before de-escalation, with patients below MR3.5 having a very low probability of relapse (
+ <xref ref-type="fig" rid="f4-1031825">Figure 4B</xref>). Furthermore, we predict that most of the observed relapses are transient, i.e. MR3 regain is expected when continuing the half-dose regimen (
+ <xref ref-type="fig" rid="f4-1031825">Figure 4C</xref>). Therefore, we argue that the current focus on exceeding MR3 as an indicator for a potential relapse might be reconsidered in the context of dose de-escalation strategies, while closer monitoring of the disease dynamics following dose reductions should be applied to distinguish transient from permanent 
+ <italic>BCR-ABL1</italic> regrowth dynamics.
+</p>

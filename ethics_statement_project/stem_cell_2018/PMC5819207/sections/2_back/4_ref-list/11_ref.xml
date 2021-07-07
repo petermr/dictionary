@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Aldoss</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Bargou</surname>
+    <given-names>RC</given-names>
+   </name>
+   <name>
+    <surname>Nagorsen</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Friberg</surname>
+    <given-names>GR</given-names>
+   </name>
+   <name>
+    <surname>Baeuerle</surname>
+    <given-names>PA</given-names>
+   </name>
+   <name>
+    <surname>Forman</surname>
+    <given-names>SJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Redirecting T cells to eradicate B-cell acute lymphoblastic leukemia: bispecific T-cell engagers and chimeric antigen receptors</article-title>
+  <source>Leukemia</source>
+  <year>2017</year>
+  <volume>31</volume>
+  <issue>4</issue>
+  <fpage>777</fpage>
+  <lpage>787</lpage>
+  <pub-id pub-id-type="doi">10.1038/leu.2016.391</pub-id>
+  <?supplied-pmid 28028314?>
+  <pub-id pub-id-type="pmid">28028314</pub-id>
+ </element-citation>
+</ref>

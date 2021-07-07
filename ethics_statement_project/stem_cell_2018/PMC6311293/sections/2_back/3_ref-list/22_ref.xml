@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B23">
+ <label>23</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gondi</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Tolakanahalli</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Mehta</surname>
+    <given-names>M. P.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Hippocampal-sparing whole-brain radiotherapy: a how-to technique using helical tomotherapy and linear accelerator-based intensity-modulated radiotherapy</article-title>
+  <source>
+   <italic toggle="yes">International Journal of Radiation Oncology, Biology, Physics</italic>
+  </source>
+  <year>2010</year>
+  <volume>78</volume>
+  <issue>4</issue>
+  <fpage>1244</fpage>
+  <lpage>1252</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2010.01.039</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-77958472320</pub-id>
+ </element-citation>
+</ref>

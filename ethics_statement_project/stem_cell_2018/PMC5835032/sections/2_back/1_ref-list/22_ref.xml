@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B22">
+ <label>22</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>van der Zouwen</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Kruisselbrink</surname>
+    <given-names>AB</given-names>
+   </name>
+   <name>
+    <surname>Jordanova</surname>
+    <given-names>ES</given-names>
+   </name>
+   <name>
+    <surname>Rutten</surname>
+    <given-names>CE</given-names>
+   </name>
+   <name>
+    <surname>von dem Borne</surname>
+    <given-names>PA</given-names>
+   </name>
+   <name>
+    <surname>Falkenburg</surname>
+    <given-names>JH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Alloreactive effector T cells require the local formation of a proinflammatory environment to allow crosstalk and high avidity interaction with nonhematopoietic tissues to induce GVHD reactivity</article-title>. 
+  <source>Biol Blood Marrow Transplant</source> (
+  <year>2012</year>) 
+  <volume>18</volume>(
+  <issue>9</issue>):
+  <fpage>1353</fpage>–
+  <lpage>67</lpage>.
+  <pub-id pub-id-type="doi">10.1016/j.bbmt.2012.06.017</pub-id>
+  <?supplied-pmid 22796533?>
+  <pub-id pub-id-type="pmid">22796533</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Strauss</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Wehler</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Mehler</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Kreutzer</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Koebnick</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Hahn</surname>
+    <given-names>EG</given-names>
+   </name>
+  </person-group>
+  <article-title>Thrombocytopenia in patients in the medical intensive care unit: bleeding prevalence, transfusion requirements, and outcome*</article-title>
+  <source>Crit Care Med.</source>
+  <year>2002</year>
+  <volume>30</volume>
+  <fpage>1765</fpage>
+  <lpage>1771</lpage>
+  <pub-id pub-id-type="doi">10.1097/00003246-200208000-00015</pub-id>
+  <?supplied-pmid 12163790?>
+  <pub-id pub-id-type="pmid">12163790</pub-id>
+ </element-citation>
+</ref>

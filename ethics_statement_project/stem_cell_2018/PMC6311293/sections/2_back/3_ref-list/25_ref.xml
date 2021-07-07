@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B26">
+ <label>26</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gondi</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Tome</surname>
+    <given-names>W. A.</given-names>
+   </name>
+   <name>
+    <surname>Marsh</surname>
+    <given-names>J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Estimated risk of perihippocampal disease progression after hippocampal avoidance during whole-brain radiotherapy: safety profile for RTOG 0933</article-title>
+  <source>
+   <italic toggle="yes">Radiotherapy &amp; Oncology</italic>
+  </source>
+  <year>2010</year>
+  <volume>95</volume>
+  <issue>3</issue>
+  <fpage>327</fpage>
+  <lpage>331</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.radonc.2010.02.030</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-77952585016</pub-id>
+  <pub-id pub-id-type="pmid">20392503</pub-id>
+ </element-citation>
+</ref>

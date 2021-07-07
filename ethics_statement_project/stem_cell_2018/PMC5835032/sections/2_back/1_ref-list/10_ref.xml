@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stevanovic</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>van Bergen</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>van Luxemburg-Heijs</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>van der Zouwen</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Jordanova</surname>
+    <given-names>ES</given-names>
+   </name>
+   <name>
+    <surname>Kruisselbrink</surname>
+    <given-names>AB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>HLA class II upregulation during viral infection leads to HLA-DP-directed graft-versus-host disease after CD4+ donor lymphocyte infusion</article-title>. 
+  <source>Blood</source> (
+  <year>2013</year>) 
+  <volume>122</volume>(
+  <issue>11</issue>):
+  <fpage>1963</fpage>–
+  <lpage>73</lpage>.
+  <pub-id pub-id-type="doi">10.1182/blood-2012-12-470872</pub-id>
+  <?supplied-pmid 23777765?>
+  <pub-id pub-id-type="pmid">23777765</pub-id>
+ </mixed-citation>
+</ref>

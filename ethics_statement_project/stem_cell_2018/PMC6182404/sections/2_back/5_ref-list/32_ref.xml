@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Keilholz</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Letsch</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Busse</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A clinical and immunologic phase 2 trial of Wilms tumor gene product 1 (WT1) peptide vaccination in patients with AML and MDS</article-title>
+  <source>Blood</source>
+  <year>2009</year>
+  <volume>113</volume>
+  <fpage>6541</fpage>
+  <lpage>6548</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2009-02-202598</pub-id>
+  <?supplied-pmid 19389880?>
+  <pub-id pub-id-type="pmid">19389880</pub-id>
+ </element-citation>
+</ref>

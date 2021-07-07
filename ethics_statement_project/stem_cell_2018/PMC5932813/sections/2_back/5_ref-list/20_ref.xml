@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sanders</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Pithie</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Ganly</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Surgenor</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Wilson</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Merriman</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A prospective double-blind randomized trial comparing intraluminal ethanol with heparinized saline for the prevention of catheter-associated bloodstream infection in immunosuppressed haematology patients</article-title>
+  <source>J Antimicrob Chemother</source>
+  <year>2008</year>
+  <volume>62</volume>
+  <fpage>809</fpage>
+  <lpage>815</lpage>
+  <pub-id pub-id-type="doi">10.1093/jac/dkn284</pub-id>
+  <?supplied-pmid 18621987?>
+  <pub-id pub-id-type="pmid">18621987</pub-id>
+ </element-citation>
+</ref>

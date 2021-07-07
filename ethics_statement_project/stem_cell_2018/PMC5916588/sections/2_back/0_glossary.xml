@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>ATP</term>
+   <def>
+    <p id="Par5">Adenosine triphosphate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CCO</term>
+   <def>
+    <p id="Par6">Cytochrome c oxidase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CONSORT</term>
+   <def>
+    <p id="Par7">Consolidated Standards of Reporting Trials</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par8">Computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DAI</term>
+   <def>
+    <p id="Par9">Diffuse axonal injury</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DTI</term>
+   <def>
+    <p id="Par10">Diffusion tensor imaging</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GCS</term>
+   <def>
+    <p id="Par11">Glasgow Come Scale</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GOSE</term>
+   <def>
+    <p id="Par12">Glasgow Outcome Scale Extended</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LED</term>
+   <def>
+    <p id="Par13">Light-emitting diode</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MRI</term>
+   <def>
+    <p id="Par14">Magnetic resonance imaging</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NIR</term>
+   <def>
+    <p id="Par15">Near-infrared</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NO</term>
+   <def>
+    <p id="Par16">Nitric oxide</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>REDCap</term>
+   <def>
+    <p id="Par17">Research Electronic Data Capture</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SD</term>
+   <def>
+    <p id="Par18">Standard deviation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SPIRIT</term>
+   <def>
+    <p id="Par19">Standard Protocol Items: Recommendations for Interventional Trials</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TBI</term>
+   <def>
+    <p id="Par20">Traumatic brain injury</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TCLT</term>
+   <def>
+    <p id="Par21">Transcranial LED therapy</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

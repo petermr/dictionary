@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">A quality control (QC) protocol containing multiple filters will be applied to clean the genetic data and to ensure its quality prior to either imputations or analysis [
+ <xref ref-type="bibr" rid="CR23">23</xref>]. Both a SNP and individual call rate filter of 97.5% will be applied to remove poorly genotyped SNPs and individuals from the data. Furthermore, a Hardy-Weinberg Equilibrium test (significance level &lt; 1*10
+ <sup>− 7</sup>) will be employed to remove variants containing potential genotyping errors. To ensure sample quality, samples with extreme heterozygosity, gender mismatches, and familial relationships will be assessed and removed. Genetic ancestry of the samples will be assessed and corrected for using principal components (PCs).
+</p>

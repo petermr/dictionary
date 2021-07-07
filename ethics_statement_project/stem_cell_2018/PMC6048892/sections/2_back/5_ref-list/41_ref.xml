@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yomo</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Hayashi</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>Is stereotactic radiosurgery a rational treatment option for brain metastases from small cell lung cancer? A retrospective analysis of 70 consecutive patients</article-title>
+  <source>BMC Cancer.</source>
+  <year>2015</year>
+  <volume>15</volume>
+  <fpage>95</fpage>
+  <pub-id pub-id-type="doi">10.1186/s12885-015-1103-6</pub-id>
+  <?supplied-pmid 25879433?>
+  <pub-id pub-id-type="pmid">25879433</pub-id>
+ </element-citation>
+</ref>

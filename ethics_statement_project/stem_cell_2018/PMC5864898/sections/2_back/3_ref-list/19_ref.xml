@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B19">
+ <label>19</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ravens</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Schultze-Florey</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Raha</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Sandrock</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Drenker</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Oberdorfer</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Human gammadelta T cells are quickly reconstituted after stem-cell transplantation and show adaptive clonal expansion in response to viral infection</article-title>. 
+  <source>Nat Immunol</source> (
+  <year>2017</year>) 
+  <volume>18</volume>:
+  <fpage>393</fpage>–
+  <lpage>401</lpage>.
+  <pub-id pub-id-type="doi">10.1038/ni.3686</pub-id>
+  <pub-id pub-id-type="pmid">28218745</pub-id>
+ </mixed-citation>
+</ref>

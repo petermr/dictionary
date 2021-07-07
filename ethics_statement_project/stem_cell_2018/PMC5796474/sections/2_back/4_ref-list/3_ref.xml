@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Akhtar</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Abdelsalam</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>El Weshi</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>High-dose chemotherapy and autologous stem cell transplantation for Hodgkin's lymphoma in the kingdom of Saudi Arabia: king Faisal specialist hospital and research center experience</article-title>
+  <source>Bone Marrow Transplant</source>
+  <year>2008</year>
+  <volume>42</volume>
+  <issue>Suppl 1</issue>
+  <fpage>S37</fpage>
+  <lpage>S40</lpage>
+  <pub-id pub-id-type="doi">10.1038/bmt.2008.111</pub-id>
+  <?supplied-pmid 18724297?>
+  <pub-id pub-id-type="pmid">18724297</pub-id>
+ </element-citation>
+</ref>

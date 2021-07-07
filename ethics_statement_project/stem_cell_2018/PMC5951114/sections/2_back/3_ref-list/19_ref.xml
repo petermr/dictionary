@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B19">
+ <label>19</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kastrukoff</surname>
+    <given-names>LF</given-names>
+   </name>
+   <name>
+    <surname>Morgan</surname>
+    <given-names>NG</given-names>
+   </name>
+   <name>
+    <surname>Zecchini</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>White</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Petkau</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>Satoh</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A role for natural killer cells in the immunopathogenesis of multiple sclerosis</article-title>. 
+  <source>J Neuroimmunol</source> (
+  <year>1998</year>) 
+  <volume>86</volume>:
+  <fpage>123</fpage>–
+  <lpage>33</lpage>.
+  <pub-id pub-id-type="doi">10.1016/S0165-5728(98)00014-9</pub-id>
+  <?supplied-pmid 9663557?>
+  <pub-id pub-id-type="pmid">9663557</pub-id>
+ </mixed-citation>
+</ref>

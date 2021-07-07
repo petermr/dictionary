@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR66">
+ <label>66.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hirata</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Intravital imaging reveals how BRAF inhibition generates drug-tolerant microenvironments with high integrin beta1/FAK signaling</article-title>
+  <source>Cancer Cell.</source>
+  <year>2015</year>
+  <volume>27</volume>
+  <fpage>574</fpage>
+  <lpage>588</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ccell.2015.03.008</pub-id>
+  <?supplied-pmid 25873177?>
+  <pub-id pub-id-type="pmid">25873177</pub-id>
+ </element-citation>
+</ref>

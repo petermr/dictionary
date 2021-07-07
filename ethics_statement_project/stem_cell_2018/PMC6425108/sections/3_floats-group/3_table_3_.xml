@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="table3-0963689718820271" orientation="portrait" position="float">
+ <label>Table 3.</label>
+ <caption>
+  <p>L-DOPA Medication Regimen in LEDD Values over the Period of 4 Years after Transplantation.</p>
+ </caption>
+ <alternatives>
+  <graphic xlink:href="10.1177_0963689718820271-table3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <thead>
+    <tr>
+     <th rowspan="1" colspan="1">Patient</th>
+     <th rowspan="1" colspan="1">1</th>
+     <th rowspan="1" colspan="1">2</th>
+     <th rowspan="1" colspan="1">3</th>
+     <th rowspan="1" colspan="1">4</th>
+     <th rowspan="1" colspan="1">5</th>
+     <th rowspan="1" colspan="1">6</th>
+     <th rowspan="1" colspan="1">7</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td rowspan="1" colspan="1">Baseline</td>
+     <td rowspan="1" colspan="1">1000mg</td>
+     <td rowspan="1" colspan="1">750mg</td>
+     <td rowspan="1" colspan="1">562.mg</td>
+     <td rowspan="1" colspan="1">1250mg</td>
+     <td rowspan="1" colspan="1">1250mg</td>
+     <td rowspan="1" colspan="1">750mg</td>
+     <td rowspan="1" colspan="1">375mg</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">1 year</td>
+     <td rowspan="1" colspan="1">1000mg</td>
+     <td rowspan="1" colspan="1">750mg</td>
+     <td rowspan="1" colspan="1">1000mg</td>
+     <td rowspan="1" colspan="1">750mg</td>
+     <td rowspan="1" colspan="1">375mg</td>
+     <td rowspan="1" colspan="1">750mg</td>
+     <td rowspan="1" colspan="1">562.5mg</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">2 years</td>
+     <td rowspan="1" colspan="1">937.5mg</td>
+     <td rowspan="1" colspan="1">750mg</td>
+     <td rowspan="1" colspan="1">562.5mg</td>
+     <td rowspan="1" colspan="1">1125mg</td>
+     <td rowspan="1" colspan="1">500mg</td>
+     <td rowspan="1" colspan="1">750mg</td>
+     <td rowspan="1" colspan="1">625mg</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">3 years</td>
+     <td rowspan="1" colspan="1">937.5mg</td>
+     <td rowspan="1" colspan="1">750mg</td>
+     <td rowspan="1" colspan="1">562.5mg</td>
+     <td rowspan="1" colspan="1">1125mg</td>
+     <td rowspan="1" colspan="1">375mg</td>
+     <td rowspan="1" colspan="1">750mg</td>
+     <td rowspan="1" colspan="1">625mg</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">4 years</td>
+     <td rowspan="1" colspan="1">937.5mg</td>
+     <td rowspan="1" colspan="1">750mg</td>
+     <td rowspan="1" colspan="1">750mg</td>
+     <td rowspan="1" colspan="1">750mg</td>
+     <td rowspan="1" colspan="1">375mg</td>
+     <td rowspan="1" colspan="1">500mg</td>
+     <td rowspan="1" colspan="1">750mg</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+</table-wrap>

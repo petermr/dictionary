@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jagasia</surname>
+    <given-names>MH</given-names>
+   </name>
+   <name>
+    <surname>Greinix</surname>
+    <given-names>HT</given-names>
+   </name>
+   <name>
+    <surname>Arora</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Williams</surname>
+    <given-names>KM</given-names>
+   </name>
+   <name>
+    <surname>Wolff</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Cowen</surname>
+    <given-names>EW</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>National Institutes of Health Consensus Development Project on criteria for clinical trials in chronic graft-versus-host disease: I. The 2014 Diagnosis and Staging Working Group Report</article-title>
+  <source>Biol Blood Marrow Transplant</source>
+  <year>2015</year>
+  <volume>21</volume>
+  <fpage>389</fpage>
+  <lpage>401.e1</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbmt.2014.12.001</pub-id>
+  <pub-id pub-id-type="pmid">25529383</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib20">
+ <label>20</label>
+ <element-citation publication-type="journal" id="sbref200">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Benboubker</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Dimopoulos</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Dispenzieri</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Lenalidomide and dexamethasone in transplant-ineligible patients with myeloma</article-title>
+  <source>N Engl J Med</source>
+  <volume>371</volume>
+  <year>2014</year>
+  <fpage>906</fpage>
+  <lpage>917</lpage>
+  <pub-id pub-id-type="pmid">25184863</pub-id>
+ </element-citation>
+</ref>

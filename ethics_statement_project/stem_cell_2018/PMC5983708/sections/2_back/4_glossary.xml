@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <array orientation="portrait">
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">ALS</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">amyotrophic lateral sclerosis</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">ALSFRS</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">the amyotrophic lateral sclerosis functional rating scale</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">ANGP2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">angiopoietin 2</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">BBB</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">blood-brain barrier</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">BDNF</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">brain-derived neurotrophic factor</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">BM</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">bone marrow</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CNS</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">central nervous system</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CRP</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">C-reactive protein</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CSF</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">cerebrospinal fluid</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">GDNF</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">glial cell line-derived neurotrophic factor</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">HSC</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">hematopoietic stem cell</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">HSPC</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">hematopoietic stem/progenitor cell</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">LIN-</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">lineage-negative cells</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">NGF</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">nerve growth factor</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">NT</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">neurotrophin</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">NTF</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">neurotrophic factor</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">PBS</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">phosphate buffered saline</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">PSC</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">pluripotent stem cell</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">qRT-PCR</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">quantitative reverse transcription polymerase chain reaction</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">SC</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">stem cell</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">SPC</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">stem/progenitor cell</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Tx</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">transplantation</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">VEGF</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">vascular endothelial growth factor</td>
+   </tr>
+  </tbody>
+ </array>
+</glossary>

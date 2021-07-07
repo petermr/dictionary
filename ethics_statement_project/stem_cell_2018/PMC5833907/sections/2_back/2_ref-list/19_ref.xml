@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fakhoury</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Litalien</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Medard</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Cavé</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Ezzahir</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Peuchmaur</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Localization and mRNA expression of CYP3A and P-glycoprotein in human duodenum as a function of age</article-title>
+  <source>Drug Metab Dispos Biol Fate Chem.</source>
+  <year>2005</year>
+  <volume>33</volume>
+  <fpage>1603</fpage>
+  <lpage>1607</lpage>
+  <?supplied-pmid 16049125?>
+  <pub-id pub-id-type="pmid">16049125</pub-id>
+ </element-citation>
+</ref>

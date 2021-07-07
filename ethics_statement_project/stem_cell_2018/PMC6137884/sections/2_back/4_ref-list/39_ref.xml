@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rodrigo</surname>
+    <given-names>SF</given-names>
+   </name>
+   <name>
+    <surname>Van Ramshorst</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Mann</surname>
+    <given-names>I</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Predictors of response to intramyocardial bone marrow cell treatment in patients with refractory angina and chronic myocardial ischemia</article-title>
+  <source>Int J Cardiol</source>
+  <year>2014</year>
+  <volume>175</volume>
+  <fpage>539</fpage>
+  <lpage>544</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijcard.2014.06.039</pub-id>
+  <pub-id pub-id-type="pmid">25023791</pub-id>
+ </element-citation>
+</ref>

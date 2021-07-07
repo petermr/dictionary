@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pulsipher</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Chitphakdithai</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Miller</surname>
+    <given-names>JP</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Adverse events among 2408 unrelated donors of peripheral blood stem cells: results of a prospective trial from the National Marrow Donor Program</article-title>
+  <source>Blood</source>
+  <year>2009</year>
+  <volume>113</volume>
+  <fpage>3604</fpage>
+  <lpage>3611</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2008-08-175323</pub-id>
+  <pub-id pub-id-type="pmid">19190248</pub-id>
+ </element-citation>
+</ref>

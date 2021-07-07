@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Baseline characteristics</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th colspan="2">Pre-plerixafor era (
+     <italic>n</italic> = 39)
+    </th>
+    <th colspan="2">Plerixafor era (
+     <italic>n</italic> = 51)
+    </th>
+    <th>
+     <italic>p</italic>&lt;
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Age (years); mean (SD)</td>
+    <td>56</td>
+    <td>(12)</td>
+    <td>58</td>
+    <td>(12)</td>
+    <td>0.46
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="6">Months since diagnosis</td>
+   </tr>
+   <tr>
+    <td>  Mean (SD)</td>
+    <td>46</td>
+    <td>(56)</td>
+    <td>26</td>
+    <td>(42)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>  Median (Q1–Q3)</td>
+    <td>26</td>
+    <td>(7–53)</td>
+    <td>11</td>
+    <td>(6–38)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>  Range (min–max)</td>
+    <td/>
+    <td>(2–216)</td>
+    <td/>
+    <td>(2–270)</td>
+    <td>0.06
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="6">Gender</td>
+   </tr>
+   <tr>
+    <td>  Female—
+     <italic>N</italic> (%)
+    </td>
+    <td>12</td>
+    <td>(31%)</td>
+    <td>16</td>
+    <td>(31%)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>  Male—
+     <italic>N</italic> (%)
+    </td>
+    <td>27</td>
+    <td>(69%)</td>
+    <td>35</td>
+    <td>(69%)</td>
+    <td>0.95
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="6">NHL subtype</td>
+   </tr>
+   <tr>
+    <td>  Follic—
+     <italic>N</italic> (%)
+    </td>
+    <td>8</td>
+    <td>(21%)</td>
+    <td>9</td>
+    <td>(18%)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>  Diffuse—
+     <italic>N</italic> (%)
+    </td>
+    <td>6</td>
+    <td>(15%)</td>
+    <td>17</td>
+    <td>(33%)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>  Mantle—
+     <italic>N</italic> (%)
+    </td>
+    <td>12</td>
+    <td>(31%)</td>
+    <td>9</td>
+    <td>(18%)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>  Other—
+     <italic>N</italic> (%)
+    </td>
+    <td>13</td>
+    <td>(33%)</td>
+    <td>13</td>
+    <td>(31%)</td>
+    <td>0.21
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="6">Disease stage at diagnosis</td>
+   </tr>
+   <tr>
+    <td>  1—
+     <italic>N</italic> (%)
+    </td>
+    <td>5</td>
+    <td>(13%)</td>
+    <td>3</td>
+    <td>(6%)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>  2—
+     <italic>N</italic> (%)
+    </td>
+    <td>6</td>
+    <td>(15%)</td>
+    <td>7</td>
+    <td>(14%)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>  3—
+     <italic>N</italic> (%)
+    </td>
+    <td>8</td>
+    <td>(21%)</td>
+    <td>8</td>
+    <td>(16%)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>  4—
+     <italic>N</italic> (%)
+    </td>
+    <td>19</td>
+    <td>(49%)</td>
+    <td>32</td>
+    <td>(63%)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> Unknown—
+     <italic>N</italic> (%)
+    </td>
+    <td>1</td>
+    <td>(3%)</td>
+    <td>1</td>
+    <td>(2%)</td>
+    <td>0.67
+     <sup>c</sup>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <sup>a</sup>Student’s 
+   <italic>t</italic>-test
+  </p>
+  <p>
+   <sup>b</sup>Wilcoxon rank sum
+  </p>
+  <p>
+   <sup>c</sup>Chi square
+  </p>
+ </table-wrap-foot>
+</table-wrap>

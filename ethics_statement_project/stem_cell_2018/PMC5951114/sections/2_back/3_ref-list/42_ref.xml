@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B42">
+ <label>42</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Karnell</surname>
+    <given-names>FG</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Motley</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Duhen</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Lim</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Campbell</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Reconstitution of immune cell populations in multiple sclerosis patients after autologous stem cell transplantation</article-title>. 
+  <source>Clin Exp Immunol</source> (
+  <year>2017</year>) 
+  <volume>189</volume>(
+  <issue>3</issue>):
+  <fpage>268</fpage>–
+  <lpage>78</lpage>.
+  <pub-id pub-id-type="doi">10.1111/cei.12985</pub-id>
+  <?supplied-pmid 28498568?>
+  <pub-id pub-id-type="pmid">28498568</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab5">
+ <label>Table 5</label>
+ <caption>
+  <p>RAND SF-36 changes in scores</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="2"/>
+    <th align="left" colspan="3">Baseline to 1 month (N = 20)</th>
+    <th align="left" colspan="3">Baseline to 1 year (N = 17)</th>
+   </tr>
+   <tr>
+    <th align="left">Better</th>
+    <th align="left">Same</th>
+    <th align="left">Worse</th>
+    <th align="left">Better</th>
+    <th align="left">Same</th>
+    <th align="left">Worse</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Physical functioning</td>
+    <td char="(" align="char">7 (35%)</td>
+    <td char="(" align="char">4 (20%)</td>
+    <td char="(" align="char">9 (45%)</td>
+    <td char="(" align="char">10 (59%)</td>
+    <td char="(" align="char">1 (6%)</td>
+    <td char="(" align="char">6 (35%)</td>
+   </tr>
+   <tr>
+    <td align="left">Role limitations—physical
+     <sup>a</sup>
+    </td>
+    <td char="(" align="char">13 (65%)</td>
+    <td char="(" align="char">6 (30%)</td>
+    <td char="(" align="char">1 (5%)</td>
+    <td char="(" align="char">11 (65%)</td>
+    <td char="(" align="char">4 (24%)</td>
+    <td char="(" align="char">2 (12%)</td>
+   </tr>
+   <tr>
+    <td align="left">Role limitations—emotional</td>
+    <td char="(" align="char">7 (35%)</td>
+    <td char="(" align="char">10 (50%)</td>
+    <td char="(" align="char">3 (15%)</td>
+    <td char="(" align="char">5 (29%)</td>
+    <td char="(" align="char">9 (53%)</td>
+    <td char="(" align="char">3 (18%)</td>
+   </tr>
+   <tr>
+    <td align="left">Energy/fatigue
+     <sup>b</sup>
+    </td>
+    <td char="(" align="char">16 (80%)</td>
+    <td char="(" align="char">1 (5%)</td>
+    <td char="(" align="char">3 (15%)</td>
+    <td char="(" align="char">11 (65%)</td>
+    <td char="(" align="char">0 (0%)</td>
+    <td char="(" align="char">6 (35%)</td>
+   </tr>
+   <tr>
+    <td align="left">Emotional well-being</td>
+    <td char="(" align="char">13 (65%)</td>
+    <td char="(" align="char">2 (10%)</td>
+    <td char="(" align="char">5 (25%)</td>
+    <td char="(" align="char">10 (59%)</td>
+    <td char="(" align="char">2 (12%)</td>
+    <td char="(" align="char">5 (29%)</td>
+   </tr>
+   <tr>
+    <td align="left">Social functioning</td>
+    <td char="(" align="char">12 (60%)</td>
+    <td char="(" align="char">2 (10%)</td>
+    <td char="(" align="char">6 (30%)</td>
+    <td char="(" align="char">8 (47%)</td>
+    <td char="(" align="char">1 (6%)</td>
+    <td char="(" align="char">8 (47%)</td>
+   </tr>
+   <tr>
+    <td align="left">Pain</td>
+    <td char="(" align="char">9 (45%)</td>
+    <td char="(" align="char">5 (25%)</td>
+    <td char="(" align="char">6 (30%)</td>
+    <td char="(" align="char">6 (35%)</td>
+    <td char="(" align="char">8 (47%)</td>
+    <td char="(" align="char">3 (18%)</td>
+   </tr>
+   <tr>
+    <td align="left">General health</td>
+    <td char="(" align="char">11 (55%)</td>
+    <td char="(" align="char">1 (5%)</td>
+    <td char="(" align="char">8 (40%)</td>
+    <td char="(" align="char">9 (53%)</td>
+    <td char="(" align="char">2 (12%)</td>
+    <td char="(" align="char">6 (35%)</td>
+   </tr>
+   <tr>
+    <td align="left">Health change
+     <sup>a</sup>
+    </td>
+    <td char="(" align="char">13 (65%)</td>
+    <td char="(" align="char">6 (30%)</td>
+    <td char="(" align="char">1 (5%)</td>
+    <td char="(" align="char">11 (65%)</td>
+    <td char="(" align="char">4 (24%)</td>
+    <td char="(" align="char">2 (12%)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <sup>a</sup>Differences between baseline and 1-month and 1-year scores statistically significant (p &lt; 0.03)
+  </p>
+  <p>
+   <sup>b</sup>Differences between baseline and 1-month scores statistically significant (p &lt; 0.001)
+  </p>
+ </table-wrap-foot>
+</table-wrap>

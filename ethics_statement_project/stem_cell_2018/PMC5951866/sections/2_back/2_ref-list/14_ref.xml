@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Salvatorelli</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Menna</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Paz</surname>
+    <given-names>OG</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The novel anthracenedione, pixantrone, lacks redox activity and inhibits doxorubicinol formation in human myocardium: insight to explain the cardiac safety of pixantrone in doxorubicin-treated patients</article-title>
+  <source>J Pharmacol Exp Ther</source>
+  <year>2013</year>
+  <volume>344</volume>
+  <issue>2</issue>
+  <fpage>467</fpage>
+  <lpage>478</lpage>
+  <pub-id pub-id-type="doi">10.1124/jpet.112.200568</pub-id>
+  <?supplied-pmid 23192654?>
+  <pub-id pub-id-type="pmid">23192654</pub-id>
+ </element-citation>
+</ref>

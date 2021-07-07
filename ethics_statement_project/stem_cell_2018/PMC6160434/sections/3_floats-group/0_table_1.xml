@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Subject Characteristics.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th colspan="2">Characteristics NMTRC003/003B</th>
+    <th>Stratum 1 (n = 101)</th>
+    <th>Stratum 2 (n = 39)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="2">Mean Age at diagnosis</td>
+    <td>3·5 years</td>
+    <td>3·2 years</td>
+   </tr>
+   <tr>
+    <td rowspan="2">Sex</td>
+    <td>Male</td>
+    <td>57 (56%)</td>
+    <td>28 (72%)</td>
+   </tr>
+   <tr>
+    <td>Female</td>
+    <td>44 (44%)</td>
+    <td>11 (28%)</td>
+   </tr>
+   <tr>
+    <td rowspan="8">Ethnicity</td>
+    <td>White</td>
+    <td>72</td>
+    <td>32</td>
+   </tr>
+   <tr>
+    <td>Black or African American</td>
+    <td>7</td>
+    <td>3</td>
+   </tr>
+   <tr>
+    <td>American Indian/</td>
+    <td rowspan="2">2</td>
+    <td rowspan="2">1</td>
+   </tr>
+   <tr>
+    <td>Alaska Native</td>
+   </tr>
+   <tr>
+    <td>Hispanic</td>
+    <td>10</td>
+    <td>1</td>
+   </tr>
+   <tr>
+    <td>Asian</td>
+    <td>0</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>More than one</td>
+    <td>3</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>Unknown</td>
+    <td>7</td>
+    <td>2</td>
+   </tr>
+   <tr>
+    <td rowspan="3" colspan="2">Stage at Diagnosis</td>
+    <td>2: 2 (2%) (All 
+     <italic>MYCN</italic>++)
+    </td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>3: 6 (6%)</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>4: 93 (92%)</td>
+    <td>39 (100%)</td>
+   </tr>
+   <tr>
+    <td rowspan="3" colspan="2">
+     <italic>MYCN</italic>
+    </td>
+    <td>Amplified: 47 (48.4%)</td>
+    <td>7 (21.2%)</td>
+   </tr>
+   <tr>
+    <td>Non-Amplified:50 (51.5%)</td>
+    <td>26 (78.8%)</td>
+   </tr>
+   <tr>
+    <td>Unknown: 4</td>
+    <td>6</td>
+   </tr>
+   <tr>
+    <td rowspan="3" colspan="2">Histology</td>
+    <td>Unfavorable: 48 (90.6%)</td>
+    <td>2 (22.2%)</td>
+   </tr>
+   <tr>
+    <td>Favorable: 5 (9.4%)</td>
+    <td>7 (77.8%)</td>
+   </tr>
+   <tr>
+    <td>Unknown: 48</td>
+    <td>30</td>
+   </tr>
+   <tr>
+    <td rowspan="3" colspan="2">Ploidy</td>
+    <td>&gt;1: 17 (50%)</td>
+    <td>2 (28.6%)</td>
+   </tr>
+   <tr>
+    <td>=1: 17 (50%)</td>
+    <td>5 (71.4%)</td>
+   </tr>
+   <tr>
+    <td>Unknown: 67</td>
+    <td>32</td>
+   </tr>
+   <tr>
+    <td colspan="2">Median Time from diagnosis to DFMO</td>
+    <td>1·3 years</td>
+    <td>3·4 years</td>
+   </tr>
+   <tr>
+    <td rowspan="5" colspan="2">Response to induction therapy</td>
+    <td>CR: 42 (48.8%)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td colspan="2">VGPR: 22 (25.6%)</td>
+   </tr>
+   <tr>
+    <td colspan="2">PR: 20 (23.2%)</td>
+   </tr>
+   <tr>
+    <td colspan="2">SD: 2 (2.3%)</td>
+   </tr>
+   <tr>
+    <td colspan="2">Unknown: 15</td>
+   </tr>
+   <tr>
+    <td rowspan="3" colspan="2">Number of ASCTs</td>
+    <td colspan="2">00:04</td>
+   </tr>
+   <tr>
+    <td colspan="2">0.104166667</td>
+   </tr>
+   <tr>
+    <td colspan="2">02:07</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

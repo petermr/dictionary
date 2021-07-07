@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Woessmann</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Peters</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Lenhard</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Allogeneic haematopoietic stem cell transplantation in relapsed or refractory anaplastic large cell lymphoma of children and adolescents--a berlin-Frankfurt-Münster group report</article-title>
+  <source>Br J Haematol</source>
+  <year>2006</year>
+  <volume>133</volume>
+  <fpage>176</fpage>
+  <lpage>182</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1365-2141.2006.06004.x</pub-id>
+  <?supplied-pmid 16611309?>
+  <pub-id pub-id-type="pmid">16611309</pub-id>
+ </element-citation>
+</ref>

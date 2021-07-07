@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wei</surname>
+    <given-names>KR</given-names>
+   </name>
+   <name>
+    <surname>Zheng</surname>
+    <given-names>RS</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>SW</given-names>
+   </name>
+   <name>
+    <surname>Liang</surname>
+    <given-names>ZH</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>ZM</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>WQ</given-names>
+   </name>
+  </person-group>
+  <article-title>Nasopharyngeal carcinoma incidence and mortality in China, 2013</article-title>
+  <source>Chin J Cancer.</source>
+  <year>2017</year>
+  <volume>36</volume>
+  <issue>1</issue>
+  <fpage>90</fpage>
+  <pub-id pub-id-type="doi">10.1186/s40880-017-0257-9</pub-id>
+  <?supplied-pmid 29122009?>
+  <pub-id pub-id-type="pmid">29122009</pub-id>
+ </element-citation>
+</ref>

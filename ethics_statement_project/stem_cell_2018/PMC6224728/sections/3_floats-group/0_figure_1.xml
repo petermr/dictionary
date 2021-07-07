@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" orientation="portrait" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>Flowchart for patients with myeloma at Karolinska University Hospital. Day 0: admission, chemotherapy conditioning, oral mucosal cooling along with completion of quality of life (QoL) questionnaire (FACT-G) and evaluation of cooling method. Day 1: autologous stem cell transplantation (ASCT). Follow-up (green box) and perception of oral problems using a diary begins at admission and continues until discharge or day +28. QoL (FACT-G) is evaluated again at discharge. CRP, C reactive protein; NRS, Numeric Pain Rating Scale; OM, oral mucositis; OMAS, Oral Mucositis Assessment Scale; WBC, white blood cell.</p>
+ </caption>
+ <graphic xlink:href="bmjopen-2018-021993f01" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

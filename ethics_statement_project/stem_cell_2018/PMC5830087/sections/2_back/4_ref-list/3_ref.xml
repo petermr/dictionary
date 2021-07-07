@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Besse</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Adjei</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Baas</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Meldgaard</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Nicholson</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Paz-Ares</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>2nd ESMO consensus conference on lung cancer: non-small-cell lung cancer first-line/second and further lines of treatment in advanced disease</article-title>
+  <source>Ann Oncol</source>
+  <year>2014</year>
+  <volume>25</volume>
+  <fpage>1475</fpage>
+  <lpage>1484</lpage>
+  <pub-id pub-id-type="doi">10.1093/annonc/mdu123</pub-id>
+  <?supplied-pmid 24669016?>
+  <pub-id pub-id-type="pmid">24669016</pub-id>
+ </element-citation>
+</ref>

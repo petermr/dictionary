@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ortuno</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Serotonin-reuptake inhibitors act centrally to cause bone loss in mice by counteracting a local anti-resorptive effect</article-title>
+  <source>Nat. Med.</source>
+  <year>2016</year>
+  <volume>22</volume>
+  <fpage>1170</fpage>
+  <lpage>1179</lpage>
+  <pub-id pub-id-type="doi">10.1038/nm.4166</pub-id>
+  <?supplied-pmid 27595322?>
+  <pub-id pub-id-type="pmid">27595322</pub-id>
+ </element-citation>
+</ref>

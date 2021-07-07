@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R3">
+ <label>3.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Howard</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Pulcini</surname>
+    <given-names>C</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Levy Hara</surname>
+    <given-names>G</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>An international cross-sectional survey of antimicrobial stewardship programmes in hospitals</article-title>. 
+  <source>J Antimicrob Chemother</source>
+  <year>2015</year>;
+  <volume>70</volume>:
+  <fpage>1245</fpage>–
+  <lpage>55</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/jac/dku497</pub-id>
+  <pub-id pub-id-type="pmid">25527272</pub-id>
+ </mixed-citation>
+</ref>

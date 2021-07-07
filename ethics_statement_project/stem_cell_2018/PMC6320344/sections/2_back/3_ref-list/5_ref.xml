@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pavone</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Gaudio</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Console</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Vitolo</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Iacopino</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Guarini</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Poor mobilization is an independent prognostic factor in patients with malignant lymphomas treated by peripheral blood stem cell transplantation</article-title>
+  <source>Bone Marrow Transplant</source>
+  <year>2006</year>
+  <volume>37</volume>
+  <fpage>719</fpage>
+  <lpage>24</lpage>
+  <pub-id pub-id-type="doi">10.1038/sj.bmt.1705298</pub-id>
+  <pub-id pub-id-type="pmid">16518434</pub-id>
+ </element-citation>
+</ref>

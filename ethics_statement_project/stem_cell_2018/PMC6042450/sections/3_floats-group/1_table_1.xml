@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Clinical characteristics and outcome of patients</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Patient</th>
+    <th>Age (years)</th>
+    <th>Symptoms</th>
+    <th>Etiology</th>
+    <th>Prior repair attempts</th>
+    <th>Hysteroscopy (IUA score) pre-/3-month post-UC-MSC therapy</th>
+    <th>Pregnancy outcome</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>P1</td>
+    <td>34</td>
+    <td>Infertility (5 years), Hypomenorrhea</td>
+    <td>3 D&amp;C</td>
+    <td>2 HSP</td>
+    <td>10/4</td>
+    <td>Spontaneous pregnancy 21 months post treatment and cesarean section at 37
+     <sup>+ 6</sup> weeks, boy, 3300 g
+    </td>
+   </tr>
+   <tr>
+    <td>P2</td>
+    <td>34</td>
+    <td>Infertility (5 years), Hypomenorrhea</td>
+    <td>4 D&amp;C</td>
+    <td>2 HSP</td>
+    <td>10/8</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>P3</td>
+    <td>39</td>
+    <td>Infertility (7 years), Hypomenorrhea</td>
+    <td>7 D&amp;C</td>
+    <td>1 HSP</td>
+    <td>6/0</td>
+    <td>IVF-ET and implantation failure</td>
+   </tr>
+   <tr>
+    <td>P4</td>
+    <td>33</td>
+    <td>Infertility (2 years), Hypomenorrhea</td>
+    <td>6 D&amp;C</td>
+    <td>2 HSP</td>
+    <td>10/6</td>
+    <td>Spontaneous pregnancy 16 months post treatment and cesarean section at 38
+     <sup>+ 1</sup> weeks, girl, 3200 g
+    </td>
+   </tr>
+   <tr>
+    <td>P5</td>
+    <td>33</td>
+    <td>Infertility (2 years), Hypomenorrhea</td>
+    <td>1 D&amp;C</td>
+    <td>1 HSP</td>
+    <td>6/4</td>
+    <td>Spontaneous pregnancy 11 months post treatment and cesarean section at 29
+     <sup>+ 5</sup> weeks, boy, 1690 g
+    </td>
+   </tr>
+   <tr>
+    <td>P6</td>
+    <td>33</td>
+    <td>Infertility (14 years), Hypomenorrhea</td>
+    <td>Unknown</td>
+    <td>2 HSP</td>
+    <td>10/10</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>P7</td>
+    <td>42</td>
+    <td>Infertility (2 years), Hypomenorrhea</td>
+    <td>1 D&amp;C</td>
+    <td>2 HSP</td>
+    <td>10/7</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>P8</td>
+    <td>37</td>
+    <td>Infertility (2 years), Hypomenorrhea</td>
+    <td>7 D&amp;C</td>
+    <td>4 HSP</td>
+    <td>10/4</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>P9</td>
+    <td>27</td>
+    <td>Infertility (5 years), Hypomenorrhea</td>
+    <td>3 D&amp;C</td>
+    <td>5 HSP</td>
+    <td>10/10</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>P10</td>
+    <td>31</td>
+    <td>Infertility (2 years), Hypomenorrhea</td>
+    <td>spontaneous abortion</td>
+    <td>2 HSP</td>
+    <td>10/5</td>
+    <td>IVF-ET 16 months post treatment and cesarean section at 37
+     <sup>+ 5</sup> weeks, girl, 3400 g
+    </td>
+   </tr>
+   <tr>
+    <td>P11</td>
+    <td>34</td>
+    <td>Infertility (8 years), Hypomenorrhea</td>
+    <td>Unknown</td>
+    <td>4 HSP</td>
+    <td>10/10</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>P12</td>
+    <td>30</td>
+    <td>Infertility (4 years), Hypomenorrhea</td>
+    <td>2 D&amp;C</td>
+    <td>2 HSP</td>
+    <td>10/8</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>P13</td>
+    <td>41</td>
+    <td>Infertility (2 years), Hypomenorrhea</td>
+    <td>2 D&amp;C</td>
+    <td>6 HSP</td>
+    <td>8/4</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>P14</td>
+    <td>40</td>
+    <td>Infertility (8 years), Hypomenorrhea</td>
+    <td>3 D&amp;C</td>
+    <td>1 HSP</td>
+    <td>10/6</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>P15</td>
+    <td>34</td>
+    <td>Infertility (2 years), Amenorrhea</td>
+    <td>4 D&amp;C</td>
+    <td>1 HSP</td>
+    <td>10/0</td>
+    <td>Spontaneous pregnancy 20 months post treatment and delivered at 40
+     <sup>+ 4</sup> weeks, boy, 3450 g
+    </td>
+   </tr>
+   <tr>
+    <td>P16</td>
+    <td>34</td>
+    <td>Infertility (3 years), Hypomenorrhea</td>
+    <td>spontaneous abortion</td>
+    <td>1 HSP</td>
+    <td>10/7</td>
+    <td>IVF-ET and implantation failure</td>
+   </tr>
+   <tr>
+    <td>P17</td>
+    <td>33</td>
+    <td>Infertility (5 years), Hypomenorrhea</td>
+    <td>4 D&amp;C</td>
+    <td>6 HSP</td>
+    <td>7/3</td>
+    <td>IVF-ET 5 months post treatment and cesarean section at 37
+     <sup>+ 5</sup> weeks, boy, 3600 g
+    </td>
+   </tr>
+   <tr>
+    <td>P18</td>
+    <td>32</td>
+    <td>Infertility (6 years), Hypomenorrhea</td>
+    <td>3 D&amp;C</td>
+    <td>1 HSP</td>
+    <td>7/0</td>
+    <td>IVF-ET 15 months post treatment and cesarean section at 27
+     <sup>+ 3</sup> weeks, boy, 1100 g
+    </td>
+   </tr>
+   <tr>
+    <td>P19</td>
+    <td>37</td>
+    <td>Infertility (5 years), Hypomenorrhea</td>
+    <td>10 D&amp;C</td>
+    <td>2 HSP</td>
+    <td>10/8</td>
+    <td>Spontaneous pregnancy 24 months post treatment and ongoing third trimester pregnancy</td>
+   </tr>
+   <tr>
+    <td>P20</td>
+    <td>40</td>
+    <td>Infertility (3 years), Hypomenorrhea</td>
+    <td>2 D&amp;C</td>
+    <td>1 HSP</td>
+    <td>8/0</td>
+    <td>Spontaneous pregnancy 10 months post treatment and cesarean section at 37
+     <sup>+ 4</sup> weeks, girl, 3930 g
+    </td>
+   </tr>
+   <tr>
+    <td>P21</td>
+    <td>33</td>
+    <td>Infertility (2 years), Hypomenorrhea</td>
+    <td>4 D&amp;C</td>
+    <td>1 HSP</td>
+    <td>10/4</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>P22</td>
+    <td>40</td>
+    <td>Infertility (3 years), Normal menstruation</td>
+    <td>7 D&amp;C</td>
+    <td>2 HSP</td>
+    <td>10/8</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>P23</td>
+    <td>35</td>
+    <td>Infertility (5 years), Hypomenorrhea</td>
+    <td>5 D&amp;C</td>
+    <td>1 HSP</td>
+    <td>10/10</td>
+    <td>Spontaneous pregnancy 26 months post treatment and abortion at 7th week</td>
+   </tr>
+   <tr>
+    <td>P24</td>
+    <td>30</td>
+    <td>Infertility (3 years), Hypomenorrhea</td>
+    <td>3 D&amp;C</td>
+    <td>4 HSP</td>
+    <td>10/6</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>P25</td>
+    <td>36</td>
+    <td>Infertility (6 years), Normal menstruation</td>
+    <td>2 D&amp;C</td>
+    <td>1 HSP</td>
+    <td>6/6</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>P26</td>
+    <td>34</td>
+    <td>Infertility (5 years), Hypomenorrhea</td>
+    <td>1 D&amp;C</td>
+    <td>4 HSP</td>
+    <td>10/refused to follow-up</td>
+    <td/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>D&amp;C</italic> dilatation and curettage, 
+   <italic>HSP</italic> hysteroscopic adhesiolysis, 
+   <italic>IVF-ET</italic> in vitro fertilization-embryo transfer
+  </p>
+ </table-wrap-foot>
+</table-wrap>

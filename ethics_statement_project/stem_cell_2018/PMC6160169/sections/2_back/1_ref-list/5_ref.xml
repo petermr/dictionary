@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0204870.ref005">
+ <label>5</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Teng</surname>
+   <given-names>MW</given-names>
+  </name>, 
+  <name>
+   <surname>Ngiow</surname>
+   <given-names>SF</given-names>
+  </name>, 
+  <name>
+   <surname>Ribas</surname>
+   <given-names>A</given-names>
+  </name>, 
+  <name>
+   <surname>Smyth</surname>
+   <given-names>MJ</given-names>
+  </name>. 
+  <article-title>Classifying Cancers Based on T-cell Infiltration and PD-L1</article-title>. 
+  <source>Cancer research</source>. 
+  <year>2015</year>;
+  <volume>75</volume>(
+  <issue>11</issue>):
+  <fpage>2139</fpage>–
+  <lpage>45</lpage>. 
+  <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-15-0255</pub-id> ; PubMed Central PMCID: PMCPMC4452411.
+  <?supplied-pmid 25977340?>
+  <pub-id pub-id-type="pmid">25977340</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Outcomes for patients who developed secondary B cell lymphoma</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Disease classification</th>
+    <th>Sex</th>
+    <th>Age
+     <sup>a</sup>
+    </th>
+    <th>Duration of forodesine administration (days)</th>
+    <th>Duration to development of sBCL
+     <sup>b</sup> (days)
+    </th>
+    <th>Treatments for sBCL/response</th>
+    <th>Outcome</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>AITL</td>
+    <td>F</td>
+    <td>71</td>
+    <td>447</td>
+    <td>450</td>
+    <td>R-DeVIC/CR</td>
+    <td>Alive with AITL</td>
+   </tr>
+   <tr>
+    <td>AITL</td>
+    <td>F</td>
+    <td>70</td>
+    <td>171</td>
+    <td>203</td>
+    <td>R-CHOP/PD</td>
+    <td>Died from lymphoma (AITL, sBCL)</td>
+   </tr>
+   <tr>
+    <td>AITL</td>
+    <td>F</td>
+    <td>76</td>
+    <td>67</td>
+    <td>436</td>
+    <td>PSL/unknown</td>
+    <td>Died from lymphoma (AITL, sBCL)</td>
+   </tr>
+   <tr>
+    <td>PTCL, NOS</td>
+    <td>F</td>
+    <td>72</td>
+    <td>353</td>
+    <td>281</td>
+    <td>PSL/unknown</td>
+    <td>unknown</td>
+   </tr>
+   <tr>
+    <td>PTCL, NOS</td>
+    <td>F</td>
+    <td>65</td>
+    <td>505</td>
+    <td>506</td>
+    <td>R-COP/PD R-CHOP/PD DEX/PD</td>
+    <td>Died from lymphoma (PTCL, NOS, sBCL)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>AITL</italic> angioimmunoblastic T cell lymphoma; 
+   <italic>COP</italic> rituximab plus cyclophosphamide, vincristine, prednisone; 
+   <italic>CR</italic> complete response; 
+   <italic>F</italic> female; 
+   <italic>PD</italic> progression disease; 
+   <italic>PSL</italic> prednisolone; 
+   <italic>PTCL</italic> peripheral T cell lymphoma; 
+   <italic>R-CHOP</italic> rituximab plus cyclophosphamide, doxorubicin, vincristine, prednisone; 
+   <italic>R-DeVIC</italic> rituximab plus dexamethasone, etoposide, ifosfamide, carboplatin; 
+   <italic>R-DEX</italic> dexamethasone; 
+   <italic>R-GDP</italic> rituximab plus gemcitabine, dexamethasone, cisplatin; 
+   <italic>sBCL</italic> secondary B cell lymphoma
+  </p>
+  <p>
+   <sup>a</sup>Age at the time of informed consent
+  </p>
+  <p>
+   <sup>b</sup>Duration from initial forodesine administration to development of sBCL
+  </p>
+ </table-wrap-foot>
+</table-wrap>

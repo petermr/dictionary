@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Aupérin</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Arriagada</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Pignon</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Le Péchoux</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Gregor</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Stephens</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Prophylactic cranial irradiation for patients with small-cell lung cancer in complete remission. Prophylactic Cranial Irradiation Overview Collaborative Group</article-title>
+  <source>N Engl J Med.</source>
+  <year>1999</year>
+  <volume>341</volume>
+  <fpage>476</fpage>
+  <lpage>484</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJM199908123410703</pub-id>
+  <?supplied-pmid 10441603?>
+  <pub-id pub-id-type="pmid">10441603</pub-id>
+ </element-citation>
+</ref>

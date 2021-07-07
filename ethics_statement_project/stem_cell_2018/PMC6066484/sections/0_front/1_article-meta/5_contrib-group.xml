@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5392-9284</contrib-id>
+  <name>
+   <surname>Kumar</surname>
+   <given-names>Shaji K.</given-names>
+  </name>
+  <address>
+   <phone>(507) 284-0969</phone>
+   <email>kumar.shaji@mayo.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Buadi</surname>
+   <given-names>Francis K.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>LaPlant</surname>
+   <given-names>Betsy</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Halvorson</surname>
+   <given-names>Alese</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Leung</surname>
+   <given-names>Nelson</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kapoor</surname>
+   <given-names>Prashant</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dingli</surname>
+   <given-names>David</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gertz</surname>
+   <given-names>Morie A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8284-3495</contrib-id>
+  <name>
+   <surname>Go</surname>
+   <given-names>Ronald S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bergsagel</surname>
+   <given-names>P. Leif</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lin</surname>
+   <given-names>Yi</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dispenzieri</surname>
+   <given-names>Angela</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hwa</surname>
+   <given-names>Yi Lisa</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fonder</surname>
+   <given-names>Amie</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hobbs</surname>
+   <given-names>Miriam</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fonseca</surname>
+   <given-names>Rafael</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hayman</surname>
+   <given-names>Suzanne R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Stewart</surname>
+   <given-names>A. Keith</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lust</surname>
+   <given-names>John A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mikhael</surname>
+   <given-names>Joseph</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gonsalves</surname>
+   <given-names>Wilson</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Reeder</surname>
+   <given-names>Craig</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Skacel</surname>
+   <given-names>Tomas</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rajkumar</surname>
+   <given-names>S. Vincent</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lacy</surname>
+   <given-names>Martha Q.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0459 167X</institution-id>
+   <institution-id institution-id-type="GRID">grid.66875.3a</institution-id>
+   <institution>Division of Hematology, </institution>
+   <institution>Mayo Clinic, </institution>
+  </institution-wrap>Rochester, MN USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0459 167X</institution-id>
+   <institution-id institution-id-type="GRID">grid.66875.3a</institution-id>
+   <institution>Department of Biostatistics, </institution>
+   <institution>Mayo Clinic, </institution>
+  </institution-wrap>Rochester, MN USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 8875 6339</institution-id>
+   <institution-id institution-id-type="GRID">grid.417468.8</institution-id>
+   <institution>Division of Hematology and Oncology, </institution>
+   <institution>Mayo Clinic, </institution>
+  </institution-wrap>Phoenix, AZ USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0673 6017</institution-id>
+   <institution-id institution-id-type="GRID">grid.419841.1</institution-id>
+   <institution>Takeda Pharmaceutical Company Limited, </institution>
+  </institution-wrap>Osaka, Japan 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1937 116X</institution-id>
+   <institution-id institution-id-type="GRID">grid.4491.8</institution-id>
+   <institution>31st Medical Department Clinical Department of Haematology of the First Faculty of Medicine and General, </institution>
+   <institution>Teaching Hospital Charles University, </institution>
+  </institution-wrap>Praha, Czech Republic 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1937 116X</institution-id>
+   <institution-id institution-id-type="GRID">grid.4491.8</institution-id>
+   <institution>Clinical Department of Haematology of the First Faculty of Medicine and General Teaching Hospital, </institution>
+   <institution>Charles University, </institution>
+  </institution-wrap>Praha, Czech Republic 
+ </aff>
+</contrib-group>

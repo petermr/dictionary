@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>Comparison of peripheral γδ T cell repertoires in chronic hepatitis C virus (HCV) patients and healthy controls (HC). 
+   <bold>(A,B)</bold> Flow cytometric sorting results of 9 HC (black dots) and 10 chronic HCV patients at baseline (blue dots), which were grouped based on their alanine aminotransferase (ALT) values, are summarized in dot plots representing 
+   <bold>(A)</bold> total γδ T cell frequencies of CD14
+   <sup>−</sup>/CD19
+   <sup>−</sup> lymphocytes and 
+   <bold>(B)</bold> Vγ9
+   <sup>+</sup> cell frequencies of total γδ T cells. Six patients had ALT levels two times lower than upper limit of normal (&lt;2× ULON) and four patients had increased ALT levels (&gt;2× ULON). Horizontal lines present median values. Data were analyzed by Mann–Whitney test. 
+   <bold>(C,D)</bold> Sorted γδ T cells of eight HC and eight chronic HCV patients, the latter grouped based on their ALT levels, were subjected to next-generation sequencing (NGS) analysis. Floating bars from minimum to maximum represent the distribution of functional V-genes of analyzed 
+   <bold>(C)</bold> TRG or 
+   <bold>(D)</bold> TRD repertoires. Lines represent median values. 
+   <bold>(E,F)</bold> The most expanded top 20 
+   <bold>(E)</bold> TRG or 
+   <bold>(F)</bold> TRD clones are highlighted in stacked area graphs of three representative HC and six HCV patients who were stratified due to their ALT levels. Vγ9
+   <sup>−</sup> or Vδ1
+   <sup>+</sup> clones are highlighted in orange, Vγ9
+   <sup>+</sup> or Vδ2
+   <sup>+</sup> in gray, Vδ3
+   <sup>+</sup> clones in green color, and non-top 20 clones in light gray. NGS samples were normalized to the percentage of all productive sequences per sample.
+  </p>
+ </caption>
+ <graphic xlink:href="fimmu-09-00510-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

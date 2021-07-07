@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Salmon</surname>
+    <given-names>SE</given-names>
+   </name>
+   <name>
+    <surname>Crowley</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Balcerzak</surname>
+    <given-names>SP</given-names>
+   </name>
+   <name>
+    <surname>Roach</surname>
+    <given-names>RW</given-names>
+   </name>
+   <name>
+    <surname>Taylor</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Rivkin</surname>
+    <given-names>SE</given-names>
+   </name>
+   <name>
+    <surname>Samlowski</surname>
+    <given-names>W</given-names>
+   </name>
+  </person-group>
+  <article-title>Interferon versus interferon plus prednisone remission maintenance therapy for multiple myeloma: a Southwest Oncology Group Study</article-title>
+  <source>J Clin Oncol</source>
+  <year>1998</year>
+  <volume>16</volume>
+  <issue>3</issue>
+  <fpage>890</fpage>
+  <lpage>896</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.1998.16.3.890</pub-id>
+  <?supplied-pmid 9508170?>
+  <pub-id pub-id-type="pmid">9508170</pub-id>
+ </element-citation>
+</ref>

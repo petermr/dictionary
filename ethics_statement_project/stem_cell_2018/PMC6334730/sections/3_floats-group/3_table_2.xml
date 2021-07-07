@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Adverse events regardless of causality occurring in ≥ 10% of patients</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Adverse event</th>
+    <th>All grades, 
+     <italic>n</italic> (%)
+    </th>
+    <th>Grade 3/4, 
+     <italic>n</italic> (%)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="3">Hematologic toxicities</td>
+   </tr>
+   <tr>
+    <td> Lymphopenia</td>
+    <td>48 (100)</td>
+    <td>46 (96)</td>
+   </tr>
+   <tr>
+    <td> Leukopenia</td>
+    <td>35 (73)</td>
+    <td>20 (42)</td>
+   </tr>
+   <tr>
+    <td> Neutropenia</td>
+    <td>27 (56)</td>
+    <td>17 (35)</td>
+   </tr>
+   <tr>
+    <td> Thrombocytopenia</td>
+    <td>23 (48)</td>
+    <td>12 (25)</td>
+   </tr>
+   <tr>
+    <td> Anemia</td>
+    <td>23 (48)</td>
+    <td>11 (23)</td>
+   </tr>
+   <tr>
+    <td> Febrile neutropenia</td>
+    <td>6 (13)</td>
+    <td>6 (13)</td>
+   </tr>
+   <tr>
+    <td colspan="3">Non-hematologic toxicities</td>
+   </tr>
+   <tr>
+    <td> Constipation</td>
+    <td>13 (27)</td>
+    <td>1 (2)</td>
+   </tr>
+   <tr>
+    <td> Nasopharyngitis</td>
+    <td>13 (27)</td>
+    <td>0 (0)</td>
+   </tr>
+   <tr>
+    <td> Hypoalbuminemia</td>
+    <td>12 (25)</td>
+    <td>2 (4)</td>
+   </tr>
+   <tr>
+    <td> Edema</td>
+    <td>12 (25)</td>
+    <td>0 (0)</td>
+   </tr>
+   <tr>
+    <td> Pyrexia</td>
+    <td>11 (23)</td>
+    <td>1 (2)</td>
+   </tr>
+   <tr>
+    <td> Stomatitis</td>
+    <td>11 (23)</td>
+    <td>1 (2)</td>
+   </tr>
+   <tr>
+    <td> Headache</td>
+    <td>11 (23)</td>
+    <td>0 (0)</td>
+   </tr>
+   <tr>
+    <td> Insomnia</td>
+    <td>10 (21)</td>
+    <td>0 (0)</td>
+   </tr>
+   <tr>
+    <td> Alanine aminotransferase increased</td>
+    <td>10 (21)</td>
+    <td>1 (2)</td>
+   </tr>
+   <tr>
+    <td> Nausea</td>
+    <td>9 (19)</td>
+    <td>1 (2)</td>
+   </tr>
+   <tr>
+    <td> Decreased appetite</td>
+    <td>9 (19)</td>
+    <td>4 (8)</td>
+   </tr>
+   <tr>
+    <td> Malaise</td>
+    <td>8 (17)</td>
+    <td>0 (0)</td>
+   </tr>
+   <tr>
+    <td> Aspartate aminotransferase increased</td>
+    <td>8 (17)</td>
+    <td>0 (0)</td>
+   </tr>
+   <tr>
+    <td> Rash</td>
+    <td>8 (17)</td>
+    <td>0 (0)</td>
+   </tr>
+   <tr>
+    <td> Abnormal hepatic function</td>
+    <td>7 (15)</td>
+    <td>3 (6)</td>
+   </tr>
+   <tr>
+    <td> Herpes zoster</td>
+    <td>7 (15)</td>
+    <td>1 (2)</td>
+   </tr>
+   <tr>
+    <td> Pruritus</td>
+    <td>7 (15)</td>
+    <td>0 (0)</td>
+   </tr>
+   <tr>
+    <td> Protein in urine</td>
+    <td>7 (15)</td>
+    <td>0 (0)</td>
+   </tr>
+   <tr>
+    <td> Vomiting</td>
+    <td>6 (13)</td>
+    <td>0 (0)</td>
+   </tr>
+   <tr>
+    <td> Cytomegalovirus infection</td>
+    <td>5 (10)</td>
+    <td>0 (0)</td>
+   </tr>
+   <tr>
+    <td> Pneumonia</td>
+    <td>5 (10)</td>
+    <td>4 (8)</td>
+   </tr>
+   <tr>
+    <td> Hyponatremia</td>
+    <td>5 (10)</td>
+    <td>4 (8)</td>
+   </tr>
+   <tr>
+    <td> Decreased weight</td>
+    <td>5 (10)</td>
+    <td>1 (2)</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

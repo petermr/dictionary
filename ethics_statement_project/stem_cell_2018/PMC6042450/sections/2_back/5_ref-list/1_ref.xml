@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yu</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Wong</surname>
+    <given-names>YM</given-names>
+   </name>
+   <name>
+    <surname>Cheong</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Xia</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>TC</given-names>
+   </name>
+  </person-group>
+  <article-title>Asherman syndrome-one century later</article-title>
+  <source>Fertil Steril</source>
+  <year>2008</year>
+  <volume>89</volume>
+  <issue>4</issue>
+  <fpage>759</fpage>
+  <lpage>779</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.fertnstert.2008.02.096</pub-id>
+  <?supplied-pmid 18406834?>
+  <pub-id pub-id-type="pmid">18406834</pub-id>
+ </element-citation>
+</ref>

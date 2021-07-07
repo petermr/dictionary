@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Qi</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Cai</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Gunn</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Ding</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Kloecker</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Differential pathways regulating innate and adaptive antitumor immune responses by particulate and soluble yeast-derived beta-glucans</article-title>
+  <source>Blood</source>
+  <year>2011</year>
+  <volume>117</volume>
+  <fpage>6825</fpage>
+  <lpage>6836</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2011-02-339812</pub-id>
+  <?supplied-pmid 21531981?>
+  <pub-id pub-id-type="pmid">21531981</pub-id>
+ </element-citation>
+</ref>

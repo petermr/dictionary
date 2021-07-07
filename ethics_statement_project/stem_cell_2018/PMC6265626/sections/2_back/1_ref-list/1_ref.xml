@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="sct312351-bib-0001">
+ <label>1</label>
+ <mixed-citation publication-type="journal" id="sct312351-cit-0001">
+  <string-name>
+   <surname>Thorp</surname>
+   <given-names>JA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Jones</surname>
+   <given-names>PG</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Clark</surname>
+   <given-names>RH</given-names>
+  </string-name> et al. 
+  <article-title>Perinatal factors associated with severe intracranial hemorrhage</article-title>. 
+  <source xml:lang="en">Am J Obstet Gynecol</source>
+  <year>2001</year>;
+  <volume>185</volume>:
+  <fpage>859</fpage>–
+  <lpage>862</lpage>.
+  <pub-id pub-id-type="pmid">11641666</pub-id>
+ </mixed-citation>
+</ref>

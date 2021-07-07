@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F5" position="float">
+ <label>Figure 5</label>
+ <caption>
+  <p>Natural killer (NK) cells reduce the proportion of Th17 and Th1 cells 
+   <italic>in vitro</italic>. Memory CD4
+   <sup>+</sup> T cells and NK cells were isolated from healthy subject PBMC. Memory CD4
+   <sup>+</sup> T cells were CD3
+   <sup>+</sup>CD4
+   <sup>+</sup>CD45RO
+   <sup>+</sup>CD45RA
+   <sup>−</sup> as shown in representative dot plots 
+   <bold>(A,B)</bold>. NK cells were CD3
+   <sup>−</sup>CD56
+   <sup>+</sup> as shown in a representative dot plot 
+   <bold>(C)</bold>. Memory CD4
+   <sup>+</sup> T cells were cultured without 
+   <bold>(D,E)</bold>, or with NK cells at a 1:1 ratio 
+   <bold>(F,G)</bold> for 4 days with anti-CD3, anti-CD28, and Th17 polarizing factors for 4 days. Plots are shown for CD4 × CD56, which was used to gate CD4
+   <sup>+</sup> helper T (Th) cells. Expression of IL-17 and IFN-γ by CD4
+   <sup>+</sup> T cells was assessed by intracellular flow cytometry (Th17 = CD3
+   <sup>+</sup>CD4
+   <sup>+</sup>IL-17A
+   <sup>+</sup>IFN-γ
+   <sup>−</sup>, Th1 = CD3
+   <sup>+</sup>CD4
+   <sup>+</sup>IL-17A
+   <sup>−</sup>IFN-γ
+   <sup>+</sup>, and Th1/17 = CD3
+   <sup>+</sup>CD4
+   <sup>+</sup>IL-17A
+   <sup>+</sup>IFN-γ
+   <sup>+</sup>). Data pooled from 12 experiments showing the proportion 
+   <bold>(H)</bold> and absolute number of Th cells 
+   <bold>(I)</bold>. A time-course analysis for Th17 cells 
+   <bold>(J)</bold> and Th1 cells 
+   <bold>(K)</bold> was performed for 5 days using intracellular cytokine staining. Open diamond = T cells and closed square = T cells + NK cells.
+  </p>
+ </caption>
+ <graphic xlink:href="fimmu-09-00834-g005" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

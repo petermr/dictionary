@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mazzocco</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Hussain</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Novel logistic regression models to aid the diagnosis of dementia</article-title>
+  <source>Expert Syst Appl.</source>
+  <year>2012</year>
+  <volume>39</volume>
+  <fpage>3356</fpage>
+  <lpage>3361</lpage>
+ </element-citation>
+</ref>

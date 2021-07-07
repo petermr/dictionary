@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b32-1040138">
+ <label>32.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Scherer</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Kurtz</surname>
+    <given-names>DM</given-names>
+   </name>
+   <name>
+    <surname>Diehn</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Alizadeh</surname>
+    <given-names>AA</given-names>
+   </name>
+  </person-group>
+  <article-title>High-throughput sequencing for noninvasive disease detection in hematologic malignancies</article-title>. 
+  <source>Blood</source>. 
+  <year>2017</year>;
+  <volume>130</volume>(
+  <issue>4</issue>):
+  <fpage>440</fpage>–
+  <lpage>452</lpage>.
+  <pub-id pub-id-type="pmid">28600337</pub-id>
+ </mixed-citation>
+</ref>

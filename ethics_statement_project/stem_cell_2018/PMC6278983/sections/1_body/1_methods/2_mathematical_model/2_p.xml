@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The activation of dormant LSCs and deactivation of proliferating LSCs are described by rate constants 
+ <italic>p
+  <sub>XY</sub>
+ </italic> and 
+ <italic>pYX</italic> respectively. LSCs proliferate with a rate constant 
+ <italic>p</italic>. During therapy, a cytotoxic TKI effect acts on proliferating LSCs, described by the rate 
+ <italic>e
+  <sub>TKI</sub>
+ </italic>&gt;0. Differentiation of proliferating LSCs is quantified by 
+ <italic>p
+  <sub>W</sub>
+ </italic> and the limited life-time of differentiated LCs is modeled by a mortality rate 
+ <italic>r
+  <sub>W</sub>
+ </italic>. We define a net leukemia reduction 
+ <inline-formula>
+  <math id="mm5">
+   <mrow>
+    <mi>q</mi>
+    <mo>=</mo>
+    <msub>
+     <mi>e</mi>
+     <mrow>
+      <mi>T</mi>
+      <mi>K</mi>
+      <mi>I</mi>
+     </mrow>
+    </msub>
+    <mo>−</mo>
+    <msub>
+     <mi>p</mi>
+     <mi>Y</mi>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula>with 
+ <italic>q</italic>&gt;0 for effective treatment. For illustrating simulations we used parameter values corresponding to the median values of the selected patients (
+ <italic>Online Supplementary Text S1–S3</italic>). Reimplementation of the model in a stochastic version using a Gillespie algorithm ensured that there are no distinct differences resulting from small cell numbers (
+ <italic>Online Supplementary Text S4</italic>).
+</p>

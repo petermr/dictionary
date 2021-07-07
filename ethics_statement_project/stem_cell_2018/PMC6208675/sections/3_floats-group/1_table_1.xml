@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Patient characteristics</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Characteristic</th>
+    <th>Any maintenance therapy (
+     <italic>n</italic> = 244)
+    </th>
+    <th>Lenalidomide-only maintenance therapy (
+     <italic>n</italic> = 169)
+    </th>
+    <th>No maintenance therapy (
+     <italic>n</italic> = 137)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="4">Age (years)</td>
+   </tr>
+   <tr>
+    <td> Median (range)</td>
+    <td>60 (24–78)</td>
+    <td>60 (24–74)</td>
+    <td>60 (27–75)</td>
+   </tr>
+   <tr>
+    <td> &lt; 65</td>
+    <td>166 (68.0)</td>
+    <td>120 (71.0)</td>
+    <td>96 (70.1)</td>
+   </tr>
+   <tr>
+    <td> 65 to &lt;75</td>
+    <td>75 (30.7)</td>
+    <td>49 (29.0)</td>
+    <td>40 (29.2)</td>
+   </tr>
+   <tr>
+    <td>Men</td>
+    <td>154 (63.1)</td>
+    <td>106 (62.7)</td>
+    <td>77 (56.2)</td>
+   </tr>
+   <tr>
+    <td colspan="4">Race</td>
+   </tr>
+   <tr>
+    <td> White</td>
+    <td>209 (85.7)</td>
+    <td>144 (85.2)</td>
+    <td>114 (83.2)</td>
+   </tr>
+   <tr>
+    <td> Black</td>
+    <td>28 (11.5)</td>
+    <td>20 (11.8)</td>
+    <td>16 (11.7)</td>
+   </tr>
+   <tr>
+    <td colspan="4">ECOG PS</td>
+   </tr>
+   <tr>
+    <td> 0–1</td>
+    <td>149 (61.0)</td>
+    <td>111 (65.7)</td>
+    <td>95 (69.3)</td>
+   </tr>
+   <tr>
+    <td> 2–3</td>
+    <td>20 (8.2)</td>
+    <td>9 (5.4)</td>
+    <td>7 (5.1)</td>
+   </tr>
+   <tr>
+    <td> Not specified</td>
+    <td>75 (30.7)</td>
+    <td>49 (29.0)</td>
+    <td>35 (25.5)</td>
+   </tr>
+   <tr>
+    <td colspan="4">ISS stage
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td> I</td>
+    <td>72 (29.5)</td>
+    <td>53 (31.4)</td>
+    <td>42 (30.7)</td>
+   </tr>
+   <tr>
+    <td> II</td>
+    <td>68 (27.9)</td>
+    <td>50 (29.6)</td>
+    <td>31 (22.6)</td>
+   </tr>
+   <tr>
+    <td> III</td>
+    <td>54 (22.1)</td>
+    <td>32 (18.9)</td>
+    <td>35 (25.5)</td>
+   </tr>
+   <tr>
+    <td> Not specified</td>
+    <td>50 (20.5)</td>
+    <td>34 (20.1)</td>
+    <td>29 (21.2)</td>
+   </tr>
+   <tr>
+    <td colspan="4">Type of induction therapy</td>
+   </tr>
+   <tr>
+    <td> Lenalidomide-containing</td>
+    <td>143 (58.6)</td>
+    <td>108 (63.9)</td>
+    <td>72 (52.6)</td>
+   </tr>
+   <tr>
+    <td> Bortezomib-containing</td>
+    <td>209 (85.7)</td>
+    <td>141 (83.4)</td>
+    <td>108 (78.8)</td>
+   </tr>
+   <tr>
+    <td> Alkylator-containing</td>
+    <td>44 (18.0)</td>
+    <td>27 (16.0)</td>
+    <td>15 (10.9)</td>
+   </tr>
+   <tr>
+    <td> Novel agents</td>
+    <td>243 (99.6)</td>
+    <td>168 (99.4)</td>
+    <td>133 (97.1)</td>
+   </tr>
+   <tr>
+    <td> Triplet</td>
+    <td>153 (62.7)</td>
+    <td>110 (65.1)</td>
+    <td>69 (50.4)</td>
+   </tr>
+   <tr>
+    <td colspan="4">IMWG risk</td>
+   </tr>
+   <tr>
+    <td> Low</td>
+    <td>28 (11.5)</td>
+    <td>25 (14.8)</td>
+    <td>16 (11.7)</td>
+   </tr>
+   <tr>
+    <td> Standard</td>
+    <td>93 (38.1)</td>
+    <td>64 (37.9)</td>
+    <td>57 (41.6)</td>
+   </tr>
+   <tr>
+    <td> High</td>
+    <td>50 (20.5)</td>
+    <td>33 (19.5)</td>
+    <td>20 (14.6)</td>
+   </tr>
+   <tr>
+    <td> Missing/not specified</td>
+    <td>73 (29.9)</td>
+    <td>47 (27.8)</td>
+    <td>44 (32.1)</td>
+   </tr>
+   <tr>
+    <td colspan="4">Creatinine category</td>
+   </tr>
+   <tr>
+    <td> &gt; 2.0 mg/dL</td>
+    <td>27 (11.1)</td>
+    <td>17 (10.1)</td>
+    <td>23 (16.8)</td>
+   </tr>
+   <tr>
+    <td> ≤ 2.0 mg/dL</td>
+    <td>217 (88.9)</td>
+    <td>152 (89.9)</td>
+    <td>114 (83.2)</td>
+   </tr>
+   <tr>
+    <td colspan="4">Albumin
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td> &lt; 3.5 g/dL</td>
+    <td>26 (10.7)</td>
+    <td>16 (9.5)</td>
+    <td>24 (17.5)</td>
+   </tr>
+   <tr>
+    <td> ≥ 3.5 g/dL</td>
+    <td>173 (70.9)</td>
+    <td>123 (72.8)</td>
+    <td>89 (65.0)</td>
+   </tr>
+   <tr>
+    <td> Abnormal platelet count (≤ 150 × 10
+     <sup>9</sup>/L)
+    </td>
+    <td>63 (25.8)</td>
+    <td>40 (23.7)</td>
+    <td>40 (29.2)</td>
+   </tr>
+   <tr>
+    <td> Neutropenia (ANC ≤ 1.5 × 10
+     <sup>9</sup>/L)
+    </td>
+    <td>21 (8.6)</td>
+    <td>11 (6.5)</td>
+    <td>13 (9.5)</td>
+   </tr>
+   <tr>
+    <td> Anemia (Hb &lt; 10 g/dL)</td>
+    <td>23 (9.4)</td>
+    <td>12 (7.1)</td>
+    <td>12 (8.8)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Abbreviations: 
+   <italic>ANC</italic> absolute neutrophil count, 
+   <italic>ASCT</italic> autologous stem cell transplant, 
+   <italic>ECOG</italic> Eastern Cooperative Oncology Group, 
+   <italic>Hb</italic> hemoglobin, 
+   <italic>IMWG</italic> International Myeloma Working Group, 
+   <italic>ISS</italic> International Staging System, 
+   <italic>PS</italic> performance status
+  </p>
+  <p>Values shown are 
+   <italic>n</italic> (%) unless otherwise indicated
+  </p>
+  <p>
+   <sup>a</sup>As defined in: Greipp PR, et al. [
+   <xref ref-type="bibr" rid="CR31">31</xref>]
+  </p>
+  <p>
+   <sup>b</sup>Data provided for albumin are for 100 days post-ASCT
+  </p>
+ </table-wrap-foot>
+</table-wrap>

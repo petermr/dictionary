@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Messerer</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Engel</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Hasford</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Impact of different post-remission strategies on quality of life in patients with acute myeloid leukemia</article-title>
+  <source>Haematologica</source>
+  <year>2008</year>
+  <volume>93</volume>
+  <fpage>826</fpage>
+  <lpage>833</lpage>
+  <pub-id pub-id-type="doi">10.3324/haematol.11987</pub-id>
+  <?supplied-pmid 18469349?>
+  <pub-id pub-id-type="pmid">18469349</pub-id>
+ </element-citation>
+</ref>

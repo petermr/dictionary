@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sandler</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Gray</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Perry</surname>
+    <given-names>MC</given-names>
+   </name>
+   <name>
+    <surname>Brahmer</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Schiller</surname>
+    <given-names>JH</given-names>
+   </name>
+   <name>
+    <surname>Dowlati</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Paclitaxel-carboplatin alone or with bevacizumab for non-small-cell lung cancer</article-title>
+  <source>N Engl J Med</source>
+  <year>2006</year>
+  <volume>355</volume>
+  <fpage>2542</fpage>
+  <lpage>2550</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa061884</pub-id>
+  <?supplied-pmid 17167137?>
+  <pub-id pub-id-type="pmid">17167137</pub-id>
+ </element-citation>
+</ref>

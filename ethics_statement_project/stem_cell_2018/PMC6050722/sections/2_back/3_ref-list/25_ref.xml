@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hoskins</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Goldberg</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Qu</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Ibrahim</surname>
+    <given-names>JG</given-names>
+   </name>
+   <name>
+    <surname>McLeod</surname>
+    <given-names>HL</given-names>
+   </name>
+  </person-group>
+  <article-title>UGT1A1*28 genotype and irinotecan-induced neutropenia: dose matters</article-title>
+  <source>J Natl Cancer Inst</source>
+  <year>2007</year>
+  <volume>99</volume>
+  <fpage>1290</fpage>
+  <lpage>1295</lpage>
+  <pub-id pub-id-type="doi">10.1093/jnci/djm115</pub-id>
+  <?supplied-pmid 17728214?>
+  <pub-id pub-id-type="pmid">17728214</pub-id>
+ </element-citation>
+</ref>

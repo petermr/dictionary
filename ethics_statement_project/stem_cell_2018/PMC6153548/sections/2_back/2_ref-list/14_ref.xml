@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lambert</surname>
+    <given-names>JM</given-names>
+   </name>
+  </person-group>
+  <article-title>Drug-conjugated antibodies for the treatment of cancer</article-title>
+  <source>Br J Clin Pharmacol</source>
+  <year>2013</year>
+  <volume>76</volume>
+  <fpage>248</fpage>
+  <lpage>262</lpage>
+  <pub-id pub-id-type="doi">10.1111/bcp.12044</pub-id>
+  <?supplied-pmid 23173552?>
+  <pub-id pub-id-type="pmid">23173552</pub-id>
+ </element-citation>
+</ref>

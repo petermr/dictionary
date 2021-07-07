@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Santamaria</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Cabanillas</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Cervelló</surname>
+    <given-names>I</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Autologous cell therapy with CD133+ bone marrow-derived stem cells for refractory Asherman’s syndrome and endometrial atrophy: A pilot cohort study</article-title>
+  <source>Hum Reprod</source>
+  <year>2016</year>
+  <volume>31</volume>
+  <issue>5</issue>
+  <fpage>1087</fpage>
+  <lpage>1096</lpage>
+  <pub-id pub-id-type="doi">10.1093/humrep/dew042</pub-id>
+  <?supplied-pmid 27005892?>
+  <pub-id pub-id-type="pmid">27005892</pub-id>
+ </element-citation>
+</ref>

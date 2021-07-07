@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ni</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Zhu</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Yue</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>Z</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Increased levels of circulating SDF-1α and CD34
+   <sup>+</sup> CXCR4
+   <sup>+</sup> cells in patients with moyamoya disease
+  </article-title>
+  <source>Eur J Neurol.</source>
+  <year>2011</year>
+  <volume>18</volume>
+  <fpage>1304</fpage>
+  <lpage>1309</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1468-1331.2011.03393.x</pub-id>
+  <?supplied-pmid 21435112?>
+  <pub-id pub-id-type="pmid">21435112</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yu</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>let-7 regulates self renewal and tumorigenicity of breast cancer cells</article-title>
+  <source>Cell</source>
+  <year>2007</year>
+  <volume>131</volume>
+  <fpage>1109</fpage>
+  <lpage>1123</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2007.10.054</pub-id>
+  <?supplied-pmid 18083101?>
+  <pub-id pub-id-type="pmid">18083101</pub-id>
+ </element-citation>
+</ref>

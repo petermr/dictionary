@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>AS</term>
+   <def>
+    <p id="Par6">Asherman syndrome</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ERα</term>
+   <def>
+    <p id="Par7">Estrogen receptor alpha</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ET</term>
+   <def>
+    <p id="Par8">Embryo transfer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IUA</term>
+   <def>
+    <p id="Par9">Intrauterine adhesions</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NIFDC</term>
+   <def>
+    <p id="Par10">National Institutes for Food and Drug Control</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>UC-MSCs</term>
+   <def>
+    <p id="Par11">Umbilical cord-derived mesenchymal stem cells</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>vWF</term>
+   <def>
+    <p id="Par12">von Willebrand factor</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

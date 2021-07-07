@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR47">
+ <label>47.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Manegold</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Dingemans</surname>
+    <given-names>AC</given-names>
+   </name>
+   <name>
+    <surname>Gray</surname>
+    <given-names>JE</given-names>
+   </name>
+   <name>
+    <surname>Nakagawa</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Nicolson</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Peters</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The potential of combined immunotherapy and antiangiogenesis for the synergistic treatment of advanced NSCLC</article-title>
+  <source>J Thorac Oncol</source>
+  <year>2017</year>
+  <volume>12</volume>
+  <fpage>194</fpage>
+  <lpage>207</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jtho.2016.10.003</pub-id>
+  <?supplied-pmid 27729297?>
+  <pub-id pub-id-type="pmid">27729297</pub-id>
+ </element-citation>
+</ref>

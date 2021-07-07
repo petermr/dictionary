@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>All EEG data were log‐transformed to correct for skewness. The log‐transformed data followed a normal or near normal distribution and the data met the assumptions for linear regression including no outliers and independent observations. Baseline NVIQ scores were standardized by subtracting the grand mean from each score and dividing this difference by the standard deviation of the sample. A 
+ <italic>p</italic> value of .05 was chosen to establish statistical significance. Statistical analyses were performed using SAS software Version 9.4 (SAS Institute, Inc., Cary, NC).
+</p>

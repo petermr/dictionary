@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Maddrey</surname>
+    <given-names>WC</given-names>
+   </name>
+   <name>
+    <surname>Boitnott</surname>
+    <given-names>JK</given-names>
+   </name>
+   <name>
+    <surname>Bedine</surname>
+    <given-names>MS</given-names>
+   </name>
+   <name>
+    <surname>Weber</surname>
+    <given-names>FL</given-names>
+    <suffix>Jr</suffix>
+   </name>
+   <name>
+    <surname>Mezey</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>White</surname>
+    <given-names>RI</given-names>
+    <suffix>Jr</suffix>
+   </name>
+  </person-group>
+  <article-title>Corticosteroid therapy of alcoholic hepatitis</article-title>
+  <source>Gastroenterology</source>
+  <year>1978</year>
+  <volume>75</volume>
+  <fpage>193</fpage>
+  <lpage>199</lpage>
+  <?supplied-pmid 352788?>
+  <pub-id pub-id-type="pmid">352788</pub-id>
+ </element-citation>
+</ref>

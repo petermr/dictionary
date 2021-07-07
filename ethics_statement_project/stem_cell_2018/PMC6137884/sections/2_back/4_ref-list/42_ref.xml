@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fuchs</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Kornowski</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Weisz</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Safety and feasibility of transendocardial autologous bone marrow cell transplantation in patients with advanced heart disease</article-title>
+  <source>Am J Cardiol</source>
+  <year>2006</year>
+  <volume>97</volume>
+  <fpage>823</fpage>
+  <lpage>829</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.amjcard.2005.09.132</pub-id>
+  <pub-id pub-id-type="pmid">16516583</pub-id>
+ </element-citation>
+</ref>

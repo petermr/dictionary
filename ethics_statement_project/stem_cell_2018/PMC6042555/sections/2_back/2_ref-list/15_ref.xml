@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R15">
+ <label>15.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Baysari</surname>
+    <given-names>MT</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Lehnbom</surname>
+    <given-names>EC</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Li</surname>
+    <given-names>L</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>The effectiveness of information technology to improve antimicrobial prescribing in hospitals: A systematic review and meta-analysis</article-title>. 
+  <source>Int J Med Inform</source>
+  <year>2016</year>;
+  <volume>92</volume>:
+  <fpage>15</fpage>–
+  <lpage>34</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.ijmedinf.2016.04.008</pub-id>
+  <pub-id pub-id-type="pmid">27318068</pub-id>
+ </mixed-citation>
+</ref>

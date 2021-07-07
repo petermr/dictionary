@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>AI</term>
+   <def>
+    <p id="Par5">augmentation index</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AI-75</term>
+   <def>
+    <p id="Par6">augmentation index adjusted for a heart rate of 75</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AP</term>
+   <def>
+    <p id="Par7">augmentation pressure</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AS</term>
+   <def>
+    <p id="Par8">arterial stiffness</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BCl-2</term>
+   <def>
+    <p id="Par9">B-cell lymphoma 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BMI</term>
+   <def>
+    <p id="Par10">body mass index</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BUN</term>
+   <def>
+    <p id="Par11">blood urea nitrogen</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CASP-3</term>
+   <def>
+    <p id="Par12">caspase 3</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CAT</term>
+   <def>
+    <p id="Par13">catalase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CDKN1A</term>
+   <def>
+    <p id="Par14">cyclin-dependent kinase inhibitor 1A</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CD34</term>
+   <def>
+    <p id="Par15">progenitor marker</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CFU</term>
+   <def>
+    <p id="Par16">colony forming units</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CVD</term>
+   <def>
+    <p id="Par17">cardiovascular disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CXCR4</term>
+   <def>
+    <p id="Par18">C-X-C motif chemokine receptor 4</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DBP</term>
+   <def>
+    <p id="Par19">diastolic blood pressure</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DPP-4 inhibitors</term>
+   <def>
+    <p id="Par20">dipeptidyl peptidase-4 inhibitors</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EDN-1</term>
+   <def>
+    <p id="Par21">endothelin 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>eGFR</term>
+   <def>
+    <p id="Par22">estimated glomerular filtration rate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ELISA</term>
+   <def>
+    <p id="Par23">enzyme-linked immunosorbent assay</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>eNOS</term>
+   <def>
+    <p id="Par24">nitric oxide synthase 3 (endothelial cell)</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EPCs</term>
+   <def>
+    <p id="Par25">endothelial progenitor cells</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FFM</term>
+   <def>
+    <p id="Par26">fat free mass</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GAPDH</term>
+   <def>
+    <p id="Par27">glyceraldehyde-3-phosphate dehydrogenase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GLP1</term>
+   <def>
+    <p id="Par28">glucagon like peptide 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GPX1</term>
+   <def>
+    <p id="Par29">glutathione peroxidase 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HbA1C</term>
+   <def>
+    <p id="Par30">hemoglobin A1C, glycated hemoglobin test</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IGF1</term>
+   <def>
+    <p id="Par31">insulin-like growth factor 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IL-6</term>
+   <def>
+    <p id="Par32">interleukin 6</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>kg</term>
+   <def>
+    <p id="Par33">kilograms (weight)</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>lbs</term>
+   <def>
+    <p id="Par34">pounds (weight)</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MNCs</term>
+   <def>
+    <p id="Par35">mononuclear cells</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PECAM1</term>
+   <def>
+    <p id="Par36">platelet and endothelial cell adhesion molecule 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PWA</term>
+   <def>
+    <p id="Par37">pulse wave analysis</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PWV</term>
+   <def>
+    <p id="Par38">pulse wave velocity</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>qRT-PCR</term>
+   <def>
+    <p id="Par39">quantitative reverse transcriptase polymerase chain reaction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>REE</term>
+   <def>
+    <p id="Par40">resting energy expenditure</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SBP</term>
+   <def>
+    <p id="Par41">systolic blood pressure</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SDF1α</term>
+   <def>
+    <p id="Par42">stromal cell-derived factor-1α</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SOD1, SOD2</term>
+   <def>
+    <p id="Par43">super oxide dismutase 1 and 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TBW</term>
+   <def>
+    <p id="Par44">total body water</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TNFα</term>
+   <def>
+    <p id="Par45">tumor necrosis factor α</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TP53</term>
+   <def>
+    <p id="Par46">tumor protein p53</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VEGF</term>
+   <def>
+    <p id="Par47">vascular endothelial growth factor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VEGFA</term>
+   <def>
+    <p id="Par48">vascular endothelial growth factor A</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VEGFR2</term>
+   <def>
+    <p id="Par49">vascular endothelial growth factor receptor 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VO2</term>
+   <def>
+    <p id="Par50">maximal oxygen consumption</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>18S</term>
+   <def>
+    <p id="Par51">18S ribosomal RNA</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

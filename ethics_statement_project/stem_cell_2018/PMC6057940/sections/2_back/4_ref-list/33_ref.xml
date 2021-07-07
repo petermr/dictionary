@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR33">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lawson</surname>
+    <given-names>DA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Single-cell analysis reveals a stem-cell program in human metastatic breast cancer cells</article-title>
+  <source>Nature</source>
+  <year>2015</year>
+  <volume>526</volume>
+  <fpage>131</fpage>
+  <lpage>135</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature15260</pub-id>
+  <?supplied-pmid 26416748?>
+  <pub-id pub-id-type="pmid">26416748</pub-id>
+ </element-citation>
+</ref>

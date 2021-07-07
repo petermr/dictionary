@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R12">
+ <label>12.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Barlam</surname>
+    <given-names>TF</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Cosgrove</surname>
+    <given-names>SE</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Abbo</surname>
+    <given-names>LM</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Implementing an Antibiotic Stewardship Program: Guidelines by the Infectious Diseases Society of America and the Society for Healthcare Epidemiology of America</article-title>. 
+  <source>Clin Infect Dis</source>
+  <year>2016</year>;
+  <volume>62</volume>:
+  <fpage>1197</fpage>–
+  <lpage>202</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/cid/ciw217</pub-id>
+  <pub-id pub-id-type="pmid">27118828</pub-id>
+ </mixed-citation>
+</ref>

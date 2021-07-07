@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F3" position="float">
+ <label>Figure 3</label>
+ <caption>
+  <p>Differences between TRD repertoires of sorted Vγ9
+   <sup>+</sup> and Vγ9
+   <sup>−</sup> cells in healthy controls (HC) and chronic hepatitis C virus (HCV) patients. 
+   <bold>(A)</bold> Flow cytometric analysis of total γδ T cells for expression of Vγ9 and Vδ2 in six HC and three chronic HCV patients. 
+   <bold>(B–H)</bold> TRD next-generation sequencing analysis of sorted Vγ9
+   <sup>+</sup> and Vγ9
+   <sup>−</sup> γδ T cells from 11 HC and 23 HCV patients. 
+   <bold>(B,C)</bold> Fractions of V-delta chains within the sorted 
+   <bold>(B)</bold> Vγ9
+   <sup>+</sup> and 
+   <bold>(C)</bold> Vγ9
+   <sup>−</sup> populations of HC and HCV patients are represented as floating bars from minimum to maximum with the line representing the median. 
+   <bold>(D)</bold> Identified Vδ3
+   <sup>+</sup> sequences within sorted Vγ9
+   <sup>−</sup> cells of chronic HCV patients. 
+   <bold>(E,F)</bold> Top 20 expanded TRD clones of either Vγ9
+   <sup>+</sup> or Vγ9
+   <sup>−</sup> cells are plotted in stacked area graphs for 
+   <bold>(E)</bold> three HC or 
+   <bold>(F)</bold> three HCV patients. Vδ2
+   <sup>+</sup> are depicted in gray, Vδ1
+   <sup>+</sup> clones in orange, and Vδ3
+   <sup>+</sup> clones in green. Light gray represents non-top 20 TRD clones. Data sets were normalized to the percentage of productive reads per sample. 
+   <bold>(G)</bold> Dot plot displays the proportion of top 20 TRD clones within the Vγ9
+   <sup>+</sup> or Vγ9
+   <sup>−</sup> γδ T cell compartments for each analyzed sample. 
+   <bold>(H)</bold> TRD repertoire diversity of either Vγ9
+   <sup>+</sup> or Vγ9
+   <sup>−</sup> analyzed samples were determined by Shannon diversity indices. Samples were normalized to 10,000 productive reads. Median values are depicted as horizontal lines. Statistical analysis was performed using one-way ANOVA.
+  </p>
+ </caption>
+ <graphic xlink:href="fimmu-09-00510-g003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

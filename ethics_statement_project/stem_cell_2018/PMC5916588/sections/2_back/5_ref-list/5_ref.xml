@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Parizel</surname>
+    <given-names>PM</given-names>
+   </name>
+   <name>
+    <surname>Ozsarlak</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Van Goethem</surname>
+    <given-names>JW</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Imaging findings in diffuse axonal injury after closed head trauma</article-title>
+  <source>Eur Radiol</source>
+  <year>1998</year>
+  <volume>8</volume>
+  <fpage>960</fpage>
+  <lpage>965</lpage>
+  <pub-id pub-id-type="doi">10.1007/s003300050496</pub-id>
+  <?supplied-pmid 9683701?>
+  <pub-id pub-id-type="pmid">9683701</pub-id>
+ </element-citation>
+</ref>

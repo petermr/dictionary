@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Santana</surname>
+    <given-names>VM</given-names>
+   </name>
+   <name>
+    <surname>Furman</surname>
+    <given-names>WL</given-names>
+   </name>
+   <name>
+    <surname>McGregor</surname>
+    <given-names>LM</given-names>
+   </name>
+   <name>
+    <surname>Billups</surname>
+    <given-names>CA</given-names>
+   </name>
+  </person-group>
+  <article-title>Disease control intervals in high-risk neuroblastoma</article-title>
+  <source>Cancer</source>
+  <year>2008</year>
+  <volume>112</volume>
+  <fpage>2796</fpage>
+  <lpage>2801</lpage>
+  <pub-id pub-id-type="doi">10.1002/cncr.23507</pub-id>
+  <?supplied-pmid 18429000?>
+  <pub-id pub-id-type="pmid">18429000</pub-id>
+ </element-citation>
+</ref>

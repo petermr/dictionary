@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rigato</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Bittante</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Albiero</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Avogaro</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Fadini</surname>
+    <given-names>GP</given-names>
+   </name>
+  </person-group>
+  <article-title>Circulating progenitor cell count predicts microvascular outcomes in type 2 diabetic patients</article-title>
+  <source>J Clin Endocrinol Metab</source>
+  <year>2015</year>
+  <volume>100</volume>
+  <fpage>2666</fpage>
+  <lpage>2672</lpage>
+  <pub-id pub-id-type="doi">10.1210/jc.2015-1687</pub-id>
+  <?supplied-pmid 25942480?>
+  <pub-id pub-id-type="pmid">25942480</pub-id>
+ </element-citation>
+</ref>

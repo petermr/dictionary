@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR36">
+ <label>36.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rosenblatt</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Stone</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Uhl</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Individualized vaccination of AML patients in remission is associated with induction of antileukemia immunity and prolonged remissions</article-title>
+  <source>Sci Transl Med</source>
+  <year>2016</year>
+  <volume>8</volume>
+  <fpage>368ra171</fpage>
+  <pub-id pub-id-type="doi">10.1126/scitranslmed.aag1298</pub-id>
+  <?supplied-pmid 27928025?>
+  <pub-id pub-id-type="pmid">27928025</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Yearly foaling data are reported as the proportion of mares observed with a foal in each group. We used asymptotic approximation to the binomial distribution to compute 95% confidence intervals for these proportions using package 
+ <italic>binom</italic> in program R [
+ <xref rid="pone.0201570.ref045" ref-type="bibr">45</xref>, 
+ <xref rid="pone.0201570.ref047" ref-type="bibr">47</xref>]. We used a risk ratio analysis (α = 0.05) to compare all observed annual proportions between treatment groups. We used the same method to evaluate the success of the existing pregnancy between groups during the first foaling season post-vaccination (2010 and 2014). All comparisons between treatment groups were made within a single year and without multiple testing corrections.
+</p>

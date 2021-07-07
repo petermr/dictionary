@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0204870.ref006">
+ <label>6</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Goodman</surname>
+   <given-names>A</given-names>
+  </name>, 
+  <name>
+   <surname>Patel</surname>
+   <given-names>SP</given-names>
+  </name>, 
+  <name>
+   <surname>Kurzrock</surname>
+   <given-names>R</given-names>
+  </name>. 
+  <article-title>PD-1-PD-L1 immune-checkpoint blockade in B-cell lymphomas</article-title>. 
+  <source>Nat Rev Clin Oncol</source>. 
+  <year>2017</year>;
+  <volume>14</volume>(
+  <issue>4</issue>):
+  <fpage>203</fpage>–
+  <lpage>20</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nrclinonc.2016.168</pub-id> .
+  <?supplied-pmid 27805626?>
+  <pub-id pub-id-type="pmid">27805626</pub-id>
+ </mixed-citation>
+</ref>

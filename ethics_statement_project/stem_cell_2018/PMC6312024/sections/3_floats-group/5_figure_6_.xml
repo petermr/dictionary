@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f6-1040189" position="float">
+ <label>Figure 6.</label>
+ <caption>
+  <p>The physician-driven decision tree recapitulates the machine-learning workflow and finds clusters with stable risk. (A) A scatter plot shows the same patients in groups resulting from the decision tree (y-axis) or computational analysis (x-axis). Patients within or touching the black boxes were those with the same group classification in both workflows (86% of patients, n=339). (B) Bootstrapping analysis revealed stability of cluster risk across ten decision-tree analysis runs using 130 of 339 randomly sampled patients. The coefficient of risk was calculated for each run of the analysis for each cluster. The standard deviation of the ten coefficients of risks was calculated and was &lt;0.7 for all clusters, except Cluster 3.</p>
+ </caption>
+ <graphic xlink:href="104189.fig6" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

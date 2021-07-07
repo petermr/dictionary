@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Slichter</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Kaufman</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Assmann</surname>
+    <given-names>SF</given-names>
+   </name>
+   <name>
+    <surname>McCullough</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Triulzi</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Strauss</surname>
+    <given-names>RG</given-names>
+   </name>
+   <name>
+    <surname>Gernsheimer</surname>
+    <given-names>TB</given-names>
+   </name>
+   <name>
+    <surname>Ness</surname>
+    <given-names>PM</given-names>
+   </name>
+   <name>
+    <surname>Brecher</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>Josephson</surname>
+    <given-names>CD</given-names>
+   </name>
+  </person-group>
+  <article-title>Dose of prophylactic platelet transfusions and prevention of hemorrhage</article-title>
+  <source>N Engl J Med.</source>
+  <year>2010</year>
+  <volume>362</volume>
+  <fpage>600</fpage>
+  <lpage>613</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa0904084</pub-id>
+  <?supplied-pmid 20164484?>
+  <pub-id pub-id-type="pmid">20164484</pub-id>
+ </element-citation>
+</ref>

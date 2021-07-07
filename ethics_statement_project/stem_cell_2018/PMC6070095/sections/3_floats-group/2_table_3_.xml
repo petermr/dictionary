@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T3" orientation="portrait" position="float">
+ <label>Table 3.</label>
+ <caption>
+  <p>Comparison of Early Versus Late Infections After Chimeric antigen receptor T-cell infusion</p>
+ </caption>
+ <table frame="vsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" valign="bottom" rowspan="2" colspan="1"/>
+    <th align="center" valign="bottom" colspan="2" rowspan="1">Early
+     <sup>a</sup> (Day 0–30) (n = 53)
+    </th>
+    <th align="center" valign="bottom" colspan="2" rowspan="1">Late (Day 31–180) (n = 32)
+     <sup>b</sup>
+    </th>
+   </tr>
+   <tr>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Infections, No.</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Patients, No. (%)</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Infections, No.</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Patients, No. (%)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">Any infection</td>
+    <td rowspan="1" colspan="1">26</td>
+    <td rowspan="1" colspan="1">22 (42)
+     <sup>c</sup>
+    </td>
+    <td rowspan="1" colspan="1">15</td>
+    <td rowspan="1" colspan="1">10 (31)
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Bacterial</td>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Bloodstream
+     <sup>e</sup>
+    </td>
+    <td rowspan="1" colspan="1">8</td>
+    <td rowspan="1" colspan="1">7 (13)</td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">1 (3)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Bacterial site
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">9</td>
+    <td rowspan="1" colspan="1">9 (17)</td>
+    <td rowspan="1" colspan="1">4</td>
+    <td rowspan="1" colspan="1">4 (13)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Fungal</td>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Yeast
+     <sup>g</sup>
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">1 (2)</td>
+    <td rowspan="1" colspan="1">0</td>
+    <td rowspan="1" colspan="1">0 (0)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Mold
+     <sup>h</sup>
+    </td>
+    <td rowspan="1" colspan="1">3</td>
+    <td rowspan="1" colspan="1">3 (6)</td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">1 (3)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Viral</td>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+    <td align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Respiratory virus
+     <sup>i</sup>
+    </td>
+    <td rowspan="1" colspan="1">3</td>
+    <td rowspan="1" colspan="1">3 (6)</td>
+    <td rowspan="1" colspan="1">8</td>
+    <td rowspan="1" colspan="1">8 (25)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Other virus
+     <sup>j</sup>
+    </td>
+    <td rowspan="1" colspan="1">2</td>
+    <td rowspan="1" colspan="1">2 (4)</td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">1 (3)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="fn-03">
+   <p>
+    <sup>a</sup>Day 0 was the day of Chimeric antigen receptor T-cell infusion (CTI).
+   </p>
+  </fn>
+  <fn id="fn-04">
+   <p>
+    <sup>b</sup>Patients with complete remission after CTI.
+   </p>
+  </fn>
+  <fn id="fn-05">
+   <p>
+    <sup>c</sup>Two patients had &gt;1 infection.
+   </p>
+  </fn>
+  <fn id="fn-06">
+   <p>
+    <sup>d</sup>Three patients had &gt;1 infection.
+   </p>
+  </fn>
+  <fn id="fn-07">
+   <p>
+    <sup>e</sup>Early bloodstream infections included 3 vancomycin-resistant 
+    <italic>Enterococcus faecium</italic> (VRE) and 2 extended-spectrum beta-lactamase (ESBL)-producing 
+    <italic>Escherichia coli</italic> infections and 1 each of the following infections: 
+    <italic>Gordonia sputi</italic>, 
+    <italic>Klebsiella pneumoniae</italic>, and 
+    <italic>Stenotrophomonas maltophilia</italic>. The single late bloodstream infection was VRE.
+   </p>
+  </fn>
+  <fn id="fn-08">
+   <p>
+    <sup>f</sup>Early bacterial infections included 4 cases of 
+    <italic>Clostridium difficile</italic> diarrhea, 2 cases of ventilator-associated pneumonia (1 
+    <italic>K. pneumoniae</italic>, 1 multidrug-resistant 
+    <italic>Pseudomonas aeruginosa</italic>), and 1 case each of acute cholecystitis, pyelonephritis (carbapenemase-producing 
+    <italic>K. pneumoniae</italic>), and chest wall abscess. The late bacterial infections included 1 case each of 
+    <italic>C. difficile</italic> diarrhea, hospital-acquired pneumonia (carbapenemase-producing 
+    <italic>K. pneumoniae</italic>), cystitis (multidrug-resistant 
+    <italic>P. aeruginosa</italic>), and cellulitis.
+   </p>
+  </fn>
+  <fn id="fn-09">
+   <p>
+    <sup>g</sup>The single yeast infection (early) was 
+    <italic>Saccharomyces cerevisiae</italic> fungemia.
+   </p>
+  </fn>
+  <fn id="fn-10">
+   <p>
+    <sup>h</sup>Early mold infections included 2 cases of probable pulmonary aspergillosis (1 
+    <italic>Aspergillus fumigatus</italic> and 1 patient with elevated serum and bronchoalveolar galactomannan levels but no recovered organism) and 1 case of proven pulmonary mucormycosis. The single late mold infection was probable pulmonary aspergillosis (patient had elevated serum galactomannan levels but no recovered organism).
+   </p>
+  </fn>
+  <fn id="fn-11">
+   <p>
+    <sup>i</sup>Early respiratory virus infections included 2 parainfluenza virus and 1 rhinovirus/enterovirus infection. Late respiratory virus infections included 1 coronavirus, 2 influenza A, 4 rhinovirus/enterovirus, and 1 unknown infection.
+   </p>
+  </fn>
+  <fn id="fn-12">
+   <p>
+    <sup>j</sup>Early infections with nonrespiratory viruses included 1 herpes simplex virus (orolabial) and 1 varicella zoster virus (shingles) infection. The single late infection was BK virus (hematuria).
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

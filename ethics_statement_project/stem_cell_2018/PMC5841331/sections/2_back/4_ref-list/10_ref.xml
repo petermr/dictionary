@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gangat</surname>
+    <given-names>N</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>DIPSS plus: a refined Dynamic International Prognostic Scoring System for primary myelofibrosis that incorporates prognostic information from karyotype, platelet count, and transfusion status</article-title>
+  <source>J. Clin. Oncol.</source>
+  <year>2011</year>
+  <volume>29</volume>
+  <fpage>392</fpage>
+  <lpage>397</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2010.32.2446</pub-id>
+  <?supplied-pmid 21149668?>
+  <pub-id pub-id-type="pmid">21149668</pub-id>
+ </element-citation>
+</ref>

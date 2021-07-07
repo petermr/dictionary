@@ -1,0 +1,532 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Sci</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Sci</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1349-7006</journal-id><journal-id journal-id-type="publisher-id">CAS</journal-id><journal-title-group><journal-title>Cancer Science</journal-title></journal-title-group><issn pub-type="ppub">1347-9032</issn><issn pub-type="epub">1349-7006</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6125440</article-id><article-id pub-id-type="doi">10.1111/cas.13719</article-id><article-id pub-id-type="publisher-id">CAS13719</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject><subj-group subj-group-type="heading"><subject>Clinical Research</subject></subj-group></subj-group></article-categories><title-group><article-title>R&#x02010;High&#x02010;<styled-content style="fixed-case">CHOP</styled-content>/<styled-content style="fixed-case">CHASER</styled-content>/<styled-content style="fixed-case">LEED</styled-content> with autologous stem cell transplantation in newly diagnosed mantle cell lymphoma: JCOG0406 STUDY</article-title><alt-title alt-title-type="left-running-head">OGURA et al.</alt-title></title-group><contrib-group><contrib id="cas13719-cr-0001" contrib-type="author" corresp="yes"><name><surname>Ogura</surname><given-names>Michinori</given-names></name><address><email>magnoliamic@me.com</email></address><xref ref-type="aff" rid="cas13719-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cas13719-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas13719-cr-0002" contrib-type="author"><name><surname>Yamamoto</surname><given-names>Kazuhito</given-names></name><xref ref-type="aff" rid="cas13719-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cas13719-cr-0003" contrib-type="author"><name><surname>Morishima</surname><given-names>Yasuo</given-names></name><xref ref-type="aff" rid="cas13719-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cas13719-cr-0004" contrib-type="author"><name><surname>Wakabayashi</surname><given-names>Masashi</given-names></name><xref ref-type="aff" rid="cas13719-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cas13719-cr-0005" contrib-type="author"><name><surname>Tobinai</surname><given-names>Kensei</given-names></name><xref ref-type="aff" rid="cas13719-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cas13719-cr-0006" contrib-type="author"><name><surname>Ando</surname><given-names>Kiyoshi</given-names></name><xref ref-type="aff" rid="cas13719-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cas13719-cr-0007" contrib-type="author"><name><surname>Uike</surname><given-names>Naokuni</given-names></name><xref ref-type="aff" rid="cas13719-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="cas13719-cr-0008" contrib-type="author"><name><surname>Kurosawa</surname><given-names>Mitsutoshi</given-names></name><xref ref-type="aff" rid="cas13719-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="cas13719-cr-0009" contrib-type="author"><name><surname>Gomyo</surname><given-names>Hiroshi</given-names></name><xref ref-type="aff" rid="cas13719-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="cas13719-cr-0010" contrib-type="author"><name><surname>Taniwaki</surname><given-names>Masafumi</given-names></name><xref ref-type="aff" rid="cas13719-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="cas13719-cr-0011" contrib-type="author"><name><surname>Nosaka</surname><given-names>Kisato</given-names></name><xref ref-type="aff" rid="cas13719-aff-0011">
+<sup>11</sup>
+</xref></contrib><contrib id="cas13719-cr-0012" contrib-type="author"><name><surname>Tsukamoto</surname><given-names>Norifumi</given-names></name><xref ref-type="aff" rid="cas13719-aff-0012">
+<sup>12</sup>
+</xref></contrib><contrib id="cas13719-cr-0013" contrib-type="author"><name><surname>Shimoyama</surname><given-names>Tatsu</given-names></name><xref ref-type="aff" rid="cas13719-aff-0013">
+<sup>13</sup>
+</xref></contrib><contrib id="cas13719-cr-0014" contrib-type="author"><name><surname>Fukuhara</surname><given-names>Noriko</given-names></name><xref ref-type="aff" rid="cas13719-aff-0014">
+<sup>14</sup>
+</xref></contrib><contrib id="cas13719-cr-0015" contrib-type="author"><name><surname>Yakushijin</surname><given-names>Yoshihiro</given-names></name><xref ref-type="aff" rid="cas13719-aff-0015">
+<sup>15</sup>
+</xref></contrib><contrib id="cas13719-cr-0016" contrib-type="author"><name><surname>Ohnishi</surname><given-names>Kazunori</given-names></name><xref ref-type="aff" rid="cas13719-aff-0016">
+<sup>16</sup>
+</xref></contrib><contrib id="cas13719-cr-0017" contrib-type="author"><name><surname>Miyazaki</surname><given-names>Kana</given-names></name><xref ref-type="aff" rid="cas13719-aff-0017">
+<sup>17</sup>
+</xref></contrib><contrib id="cas13719-cr-0018" contrib-type="author"><name><surname>Sawada</surname><given-names>Kenichi</given-names></name><xref ref-type="aff" rid="cas13719-aff-0018">
+<sup>18</sup>
+</xref></contrib><contrib id="cas13719-cr-0019" contrib-type="author"><name><surname>Takayama</surname><given-names>Nobuyuki</given-names></name><xref ref-type="aff" rid="cas13719-aff-0019">
+<sup>19</sup>
+</xref></contrib><contrib id="cas13719-cr-0020" contrib-type="author"><name><surname>Hanamura</surname><given-names>Ichiro</given-names></name><xref ref-type="aff" rid="cas13719-aff-0020">
+<sup>20</sup>
+</xref></contrib><contrib id="cas13719-cr-0021" contrib-type="author"><name><surname>Nagai</surname><given-names>Hirokazu</given-names></name><xref ref-type="aff" rid="cas13719-aff-0021">
+<sup>21</sup>
+</xref></contrib><contrib id="cas13719-cr-0022" contrib-type="author"><name><surname>Kobayashi</surname><given-names>Hirofumi</given-names></name><xref ref-type="aff" rid="cas13719-aff-0022">
+<sup>22</sup>
+</xref></contrib><contrib id="cas13719-cr-0023" contrib-type="author"><name><surname>Usuki</surname><given-names>Kensuke</given-names></name><xref ref-type="aff" rid="cas13719-aff-0023">
+<sup>23</sup>
+</xref></contrib><contrib id="cas13719-cr-0024" contrib-type="author"><name><surname>Kobayashi</surname><given-names>Naoki</given-names></name><xref ref-type="aff" rid="cas13719-aff-0024">
+<sup>24</sup>
+</xref></contrib><contrib id="cas13719-cr-0025" contrib-type="author"><name><surname>Ohyashiki</surname><given-names>Kazuma</given-names></name><xref ref-type="aff" rid="cas13719-aff-0025">
+<sup>25</sup>
+</xref></contrib><contrib id="cas13719-cr-0026" contrib-type="author"><name><surname>Utsumi</surname><given-names>Takahiko</given-names></name><xref ref-type="aff" rid="cas13719-aff-0026">
+<sup>26</sup>
+</xref></contrib><contrib id="cas13719-cr-0027" contrib-type="author"><name><surname>Kumagai</surname><given-names>Kyoya</given-names></name><xref ref-type="aff" rid="cas13719-aff-0027">
+<sup>27</sup>
+</xref></contrib><contrib id="cas13719-cr-0028" contrib-type="author"><name><surname>Maruyama</surname><given-names>Dai</given-names></name><xref ref-type="aff" rid="cas13719-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cas13719-cr-0029" contrib-type="author"><name><surname>Ohmachi</surname><given-names>Ken</given-names></name><xref ref-type="aff" rid="cas13719-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cas13719-cr-0030" contrib-type="author"><name><surname>Matsuno</surname><given-names>Yoshihiro</given-names></name><xref ref-type="aff" rid="cas13719-aff-0028">
+<sup>28</sup>
+</xref></contrib><contrib id="cas13719-cr-0031" contrib-type="author"><name><surname>Nakamura</surname><given-names>Shigeo</given-names></name><xref ref-type="aff" rid="cas13719-aff-0029">
+<sup>29</sup>
+</xref></contrib><contrib id="cas13719-cr-0032" contrib-type="author"><name><surname>Hotta</surname><given-names>Tomomitsu</given-names></name><xref ref-type="aff" rid="cas13719-aff-0030">
+<sup>30</sup>
+</xref></contrib><contrib id="cas13719-cr-0033" contrib-type="author"><name><surname>Tsukasaki</surname><given-names>Kunihiro</given-names></name><xref ref-type="aff" rid="cas13719-aff-0031">
+<sup>31</sup>
+</xref></contrib><contrib id="cas13719-cr-0034" contrib-type="author"><collab collab-type="authors">Japan Clinical Oncology Group&#x02010; Lymphoma Study Group (JCOG&#x02010;LSG)</collab></contrib></contrib-group><aff id="cas13719-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Hematology and Oncology</named-content>
+<institution>Kasugai Municipal Hospital</institution>
+<named-content content-type="city">Kasugai</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Hematology and Oncology</named-content>
+<institution>Nagoya Daini Red Cross Hospital</institution>
+<named-content content-type="city">Nagoya</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Hematology and Cell Therapy</named-content>
+<institution>Aichi Cancer Center Hospital</institution>
+<named-content content-type="city">Nagoya</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">JCOG Data Center</named-content>
+<institution>National Cancer Center</institution>
+<named-content content-type="country-part">Tokyo</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>National Cancer Center Hospital</institution>
+<named-content content-type="country-part">Tokyo</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Hematology and Oncology</named-content>
+<institution>Tokai University School of Medicine</institution>
+<named-content content-type="city">Isehara</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>National Kyushu Cancer Center</institution>
+<named-content content-type="country-part">Fukuoka</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>National Hospital Organization Hokkaido Cancer Center</institution>
+<named-content content-type="city">Sapporo</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>Hyogo Cancer Center</institution>
+<named-content content-type="city">Akashi</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0010">
+<label><sup>10</sup></label>
+<named-content content-type="organisation-division">Center for Molecular Diagnostics and Therapeutics</named-content>
+<institution>Kyoto Prefectural University of Medicine</institution>
+<named-content content-type="country-part">Kyoto</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0011">
+<label><sup>11</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>Kumamoto University Hospital</institution>
+<named-content content-type="city">Kumamoto</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0012">
+<label><sup>12</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>Gunma University Hospital</institution>
+<named-content content-type="city">Maebashi</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0013">
+<label><sup>13</sup></label>
+<named-content content-type="organisation-division">Department of Medical Oncology</named-content>
+<named-content content-type="organisation-division">Tokyo Metropolitan Cancer and Infectious Diseases Center</named-content>
+<institution>Komagome Hospital</institution>
+<named-content content-type="city">Tokyo</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0014">
+<label><sup>14</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>Tohoku University Hospital</institution>
+<named-content content-type="city">Sendai</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0015">
+<label><sup>15</sup></label>
+<named-content content-type="organisation-division">First Department of Internal Medicine</named-content>
+<institution>Ehime University Graduate School of Medicine</institution>
+<named-content content-type="city">Toon</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0016">
+<label><sup>16</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>Hamamatsu University School of Medicine</institution>
+<named-content content-type="city">Hamamatsu</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0017">
+<label><sup>17</sup></label>
+<named-content content-type="organisation-division">Department of Hematology and Oncology</named-content>
+<institution>Mie University Graduate School of Medicine</institution>
+<named-content content-type="city">Tsu</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0018">
+<label><sup>18</sup></label>
+<institution>Department of Hematology</institution>
+<institution>Akita University Graduate School of Medicine and Faculty of Medicine</institution>
+<named-content content-type="city">Akita</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0019">
+<label><sup>19</sup></label>
+<named-content content-type="organisation-division">Second Department of Internal Medicine</named-content>
+<institution>Kyorin University School of Medicine</institution>
+<named-content content-type="country-part">Tokyo</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0020">
+<label><sup>20</sup></label>
+<named-content content-type="organisation-division">Division of Hematology</named-content>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>Aichi Medical University</institution>
+<named-content content-type="city">Nagakute</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0021">
+<label><sup>21</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>National Hospital Organization Nagoya Medical Center</institution>
+<named-content content-type="city">Nagoya</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0022">
+<label><sup>22</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>Saitama Cancer Center</institution>
+<named-content content-type="country-part">Saitama</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0023">
+<label><sup>23</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>NTT Medical Center Tokyo</institution>
+<named-content content-type="city">Shinagawa&#x02010;ku</named-content>
+<named-content content-type="city">Tokyo</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0024">
+<label><sup>24</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>Sapporo Hokuyu Hospital</institution>
+<named-content content-type="city">Sapporo</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0025">
+<label><sup>25</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>Tokyo Medical University</institution>
+<named-content content-type="city">Tokyo</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0026">
+<label><sup>26</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>Shiga General Hospital</institution>
+<named-content content-type="city">Moriyama City</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0027">
+<label><sup>27</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>Chiba Cancer Center</institution>
+<named-content content-type="city">Chiba</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0028">
+<label><sup>28</sup></label>
+<named-content content-type="organisation-division">Department of Surgical Pathology</named-content>
+<institution>Hokkaido University Hospital</institution>
+<named-content content-type="city">Sapporo</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0029">
+<label><sup>29</sup></label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>Nagoya University School of Medicine</institution>
+<named-content content-type="city">Nagoya</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0030">
+<label><sup>30</sup></label>
+<institution>Foundation for Promotion of Cancer Research</institution>
+<named-content content-type="country-part">Tokyo</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13719-aff-0031">
+<label><sup>31</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>National Cancer Center Hospital East</institution>
+<named-content content-type="city">Kashiwa</named-content>
+<country country="JP">Japan</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence:</bold> Michinori Ogura, Department of Hematology and Oncology, Kasugai Municipal Hospital, Kasugai, Japan (<email>magnoliamic@me.com</email>).</corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>7</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2018</year></pub-date><volume>109</volume><issue>9</issue><issue-id pub-id-type="doi">10.1111/cas.2018.109.issue-9</issue-id><fpage>2830</fpage><lpage>2840</lpage><history><date date-type="received"><day>27</day><month>3</month><year>2018</year></date><date date-type="rev-recd"><day>19</day><month>6</month><year>2018</year></date><date date-type="accepted"><day>23</day><month>6</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Japanese Cancer Association <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Cancer Science</italic> published by John Wiley &#x00026; Sons Australia, Ltd on behalf of Japanese Cancer Association.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:CAS-109-2830.pdf"/><abstract id="cas13719-abs-0001"><p>Although induction immunochemotherapy including high&#x02010;dose cytarabine and rituximab followed by high&#x02010;dose chemotherapy (<styled-content style="fixed-case">HDC</styled-content>) with autologous stem cell transplantation (<styled-content style="fixed-case">ASCT</styled-content>) is recommended for younger patients (&#x02264;65 years old) with untreated mantle cell lymphoma (<styled-content style="fixed-case">MCL</styled-content>), no standard induction and <styled-content style="fixed-case">HDC</styled-content> regimen has been established. We conducted a phase <styled-content style="fixed-case">II</styled-content> study of induction immunochemotherapy of R&#x02010;High&#x02010;<styled-content style="fixed-case">CHOP</styled-content>/<styled-content style="fixed-case">CHASER</styled-content> followed by <styled-content style="fixed-case">HDC</styled-content> of <styled-content style="fixed-case">LEED</styled-content> with <styled-content style="fixed-case">ASCT</styled-content> in younger patients with untreated advanced <styled-content style="fixed-case">MCL</styled-content>. Eligibility criteria included untreated <styled-content style="fixed-case">MCL</styled-content>, stage <styled-content style="fixed-case">II</styled-content> bulky to <styled-content style="fixed-case">IV</styled-content>, and age 20&#x02010;65 years. Patients received 1 cycle of R&#x02010;High&#x02010;<styled-content style="fixed-case">CHOP</styled-content> followed by 3 cycles of <styled-content style="fixed-case">CHASER</styled-content> every 3 weeks. Peripheral blood stem cells (<styled-content style="fixed-case">PBSC</styled-content>) were harvested during <styled-content style="fixed-case">CHASER</styled-content>. <styled-content style="fixed-case">LEED</styled-content> with <styled-content style="fixed-case">ASCT</styled-content> was delivered to patients who responded to R&#x02010;High&#x02010;<styled-content style="fixed-case">CHOP</styled-content>/<styled-content style="fixed-case">CHASER</styled-content>. Primary endpoint was 2&#x02010;year progression&#x02010;free survival (<styled-content style="fixed-case">PFS</styled-content>). From June 2008 to June 2012, 45 patients (median age 59 years; range 38&#x02010;65 years) were enrolled. <styled-content style="fixed-case">PBSC</styled-content> were successfully harvested from 36 of 43 patients. Thirty&#x02010;five patients completed <styled-content style="fixed-case">ASCT</styled-content>. Two&#x02010;year <styled-content style="fixed-case">PFS</styled-content> was 77% (80% <styled-content style="fixed-case">CI</styled-content> 68&#x02010;84), which met the primary endpoint. Five&#x02010;year <styled-content style="fixed-case">PFS</styled-content> and overall survival were 52% (95% <styled-content style="fixed-case">CI</styled-content> 34&#x02010;68%) and 71% (95% <styled-content style="fixed-case">CI</styled-content> 51&#x02010;84%), respectively. Overall response and complete response rates after induction immunochemotherapy were 96% and 82%, respectively. The most common grade 4 toxicities were hematological. In younger patients with untreated <styled-content style="fixed-case">MCL</styled-content>, R&#x02010;High&#x02010;<styled-content style="fixed-case">CHOP</styled-content>/<styled-content style="fixed-case">CHASER</styled-content>/<styled-content style="fixed-case">LEED</styled-content> with <styled-content style="fixed-case">ASCT</styled-content> showed high efficacy and acceptable toxicity, and it can now be considered a standard treatment option.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cas13719-kwd-0001">autologous stem cell transplantation</kwd><kwd id="cas13719-kwd-0002">cytarabine</kwd><kwd id="cas13719-kwd-0003">high&#x02010;dose chemotherapy</kwd><kwd id="cas13719-kwd-0004">mantle cell lymphoma</kwd><kwd id="cas13719-kwd-0005">rituximab</kwd></kwd-group><funding-group><award-group><funding-source>National Cancer Center Research and Development Fund</funding-source><award-id>23&#x02010;A&#x02010;16</award-id><award-id>23&#x02010;A&#x02010;17</award-id><award-id>26&#x02010;A&#x02010;4</award-id><award-id>29&#x02010;A&#x02010;3</award-id></award-group><award-group><funding-source>Ministry of Health, Labour and Welfare Grants&#x02010;in&#x02010;Aid for Cancer Research</funding-source><award-id>16&#x02010;6</award-id><award-id>20S&#x02010;1</award-id><award-id>20S&#x02010;6</award-id></award-group><award-group><funding-source>Health and Labour Sciences Research Grants for Clinical Cancer Research</funding-source><award-id>19&#x02010;27</award-id><award-id>22&#x02010;29</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="11"/><word-count count="7331"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>cas13719</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.7.1 mode:remove_FC converted:06.09.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cas13719-cit-1001">
+<string-name>
+<surname>Ogura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yamamoto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Morishima</surname>
+<given-names>Y</given-names>
+</string-name>, et&#x000a0;al. <article-title>R&#x02010;High&#x02010;CHOP/CHASER/LEED with autologous stem cell transplantation in newly diagnosed mantle cell lymphoma: JCOG0406 STUDY</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2018</year>;<volume>109</volume>:<fpage>2830</fpage>&#x02013;<lpage>2840</lpage>. <pub-id pub-id-type="doi">10.1111/cas.13719</pub-id>
+</mixed-citation>
+</p><fn-group id="cas13719-ntgp-0001"><fn fn-type="funding" id="cas13719-note-1001"><p>
+<bold>Funding information</bold>
+</p><p>This work was supported in part by the National Cancer Center Research and Development Fund (grant numbers 23&#x02010;A&#x02010;16, 23&#x02010;A&#x02010;17, 26&#x02010;A&#x02010;4, 29&#x02010;A&#x02010;3); and by the Ministry of Health, Labour and Welfare Grants&#x02010;in&#x02010;Aid for Cancer Research (grant numbers 16&#x02010;6, 20S&#x02010;1, 20S&#x02010;6), and Health and Labour Sciences Research Grants for Clinical Cancer Research (grant numbers 19&#x02010;27, 22&#x02010;29)</p></fn><fn id="cas13719-note-1002"><p>Clinical Trial registration: UMIN Clinical Trials Registration number: UMIN000001220</p></fn></fn-group></notes></front><body><def-list list-content="abbreviations" id="cas13719-dl-0001"><title>Abbreviations</title><def-item><term>ASCT</term><def><p>autologous hematopoietic stem cell transplantation</p></def></def-item><def-item><term>CHASER</term><def><p>cyclophosphamide, high&#x02010;dose cytarabine, dexamethasone, etoposide, and rituximab</p></def></def-item><def-item><term>CHOP</term><def><p>cyclophosphamide, doxorubicin, vincristine, and prednisone</p></def></def-item><def-item><term>CI</term><def><p>confidence interval</p></def></def-item><def-item><term>CPA</term><def><p>cyclophosphamide</p></def></def-item><def-item><term>CR</term><def><p>complete response</p></def></def-item><def-item><term>GELA</term><def><p>Groupe d'Etude des Lymphomes de l'Adulte</p></def></def-item><def-item><term>HDAC</term><def><p>high&#x02010;dose cytarabine</p></def></def-item><def-item><term>HDC</term><def><p>high&#x02010;dose chemotherapy</p></def></def-item><def-item><term>JCOG&#x02010;LSG</term><def><p>Japan Clinical Oncology Group &#x02010; Lymphoma Study Group</p></def></def-item><def-item><term>LEED</term><def><p>melphalan, CPA, etoposide and dexamethasone</p></def></def-item><def-item><term>LYSA</term><def><p>Lymphoma Study Association</p></def></def-item><def-item><term>MCL</term><def><p>mantle cell lymphoma</p></def></def-item><def-item><term>MIPI</term><def><p>mantle cell lymphoma international prognostic index</p></def></def-item><def-item><term>MIPI&#x02010;c</term><def><p>modified combination of the Ki&#x02010;67 index and MIPI</p></def></def-item><def-item><term>NHL</term><def><p>non&#x02010;Hodgkin lymphoma</p></def></def-item><def-item><term>OS</term><def><p>overall survival</p></def></def-item><def-item><term>ORR</term><def><p>overall response rate</p></def></def-item><def-item><term>PBSC</term><def><p>peripheral blood stem cell</p></def></def-item><def-item><term>PFS</term><def><p>progression&#x02010;free survival</p></def></def-item><def-item><term>PS</term><def><p>performance status</p></def></def-item><def-item><term>R</term><def><p>rituximab</p></def></def-item><def-item><term>R&#x02010;DHAP</term><def><p>rituximab, dexamethasone, HDAC and cisplatin</p></def></def-item><def-item><term>WHO</term><def><p>World Health Organization</p></def></def-item></def-list><sec id="cas13719-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Mantle cell lymphoma (MCL) is a well&#x02010;recognized B&#x02010;cell lymphoma subtype that accounts for approximately 5% of all patients with NHL.<xref rid="cas13719-bib-0001" ref-type="ref">1</xref> The clinical course of MCL ranges from indolent to aggressive, with a poor prognosis and a median OS of about 3&#x02010;5 years with conventional chemotherapy.<xref rid="cas13719-bib-0002" ref-type="ref">2</xref>, <xref rid="cas13719-bib-0003" ref-type="ref">3</xref> The prognosis when using conventional chemoimmunotherapy remains poor. Two&#x02010;year PFS of 30% was reported in a phase II study of MCL patients treated with 6 cycles of rituximab, an anti&#x02010;CD20 antibody, and CHOP chemotherapy.<xref rid="cas13719-bib-0004" ref-type="ref">4</xref>
+</p><p>However, a randomized phase III study by the European MCL Network that compared myeloablative radiochemotherapy followed by ASCT with interferon&#x02010;&#x003b1; (IFN&#x02010;&#x003b1;) maintenance during the first remission after a CHOP&#x02010;like regimen demonstrated significant superiority of ASCT, with PFS of 45% in younger patients aged 65 years or less in patients with advanced&#x02010;stage MCL.<xref rid="cas13719-bib-0005" ref-type="ref">5</xref> Promising approaches to improving CR rate before ASCT, as well as PFS and OS, include modified induction therapy with HDAC&#x02010;based chemotherapy regimens and rituximab. These strategies are based on clinical studies in which the addition of rituximab to an HDAC&#x02010;containing regimen was reported to ensure tumor depletion in vivo while allowing the collection of PBSC with conserved engraftment capability that was devoid of tumor cells.<xref rid="cas13719-bib-0006" ref-type="ref">6</xref>, <xref rid="cas13719-bib-0007" ref-type="ref">7</xref>
+</p><p>A phase II MCL&#x02010;2 study by the Nordic Lymphoma Group including HDAC and rituximab prior to stem cell mobilization, followed by HDC and ASCT, demonstrated an excellent ORR (96%), with a CR rate of 56%, and PFS of 70% and OS of 70% after 6 years.<xref rid="cas13719-bib-0008" ref-type="ref">8</xref> Similar promising results were also reported in another phase II study of an induction regimen with R&#x02010;CHOP and R&#x02010;DHAP followed by ASCT, which was conducted by GELA.<xref rid="cas13719-bib-0009" ref-type="ref">9</xref> This regimen of 6 cycles of alternating R&#x02010;CHOP/R&#x02010;DHAP followed by consolidative HDC with ASCT resulted in a superior PFS compared with the regimen of 6 cycles of R&#x02010;CHOP followed by consolidative HDC with ASCT reported for a randomized phase III study by the European Mantle Cell Network (European MCL Network).<xref rid="cas13719-bib-0010" ref-type="ref">10</xref> Recently, rituximab maintenance after ASCT was shown to improve event&#x02010;free survival, PFS, and OS in younger patients with MCL in a randomized phase III study by LYSA.<xref rid="cas13719-bib-0011" ref-type="ref">11</xref> Thus, HDC with ASCT after intensive immunochemotherapy using rituximab and HDAC as first&#x02010;line treatment, followed by rituximab maintenance, appears to be the only current therapy that might improve the outcomes of younger patients with untreated advanced MCL.<xref rid="cas13719-bib-0010" ref-type="ref">10</xref>, <xref rid="cas13719-bib-0011" ref-type="ref">11</xref>, <xref rid="cas13719-bib-0012" ref-type="ref">12</xref> However, there was no established regimen for induction and HDC when the present study was planned.</p><p>We developed the R&#x02010;High&#x02010;CHOP/cyclophosphamide, high&#x02010;dose cytarabine, dexamethasone, etoposide, and rituximab (CHASER) regimen as an induction therapy, and LEED therapy as HDC. One cycle of the R&#x02010;High&#x02010;CHOP regimen was incorporated to enhance MCL tumor reduction. CHASER and CHASE were originally developed for both salvage therapy without a platinum agent to avoid renal toxicity and for in vivo efficacy of purging of B&#x02010;cell lymphoma cells during harvesting of autologous PBSC.<xref rid="cas13719-bib-0013" ref-type="ref">13</xref>, <xref rid="cas13719-bib-0014" ref-type="ref">14</xref> Based on promising data from a small pilot study of R&#x02010;High&#x02010;CHOP/CHASER/LEED in newly diagnosed MCL in a single institute of the Aichi Cancer Center (data not shown), we conducted a phase II study (JCOG0406) of this regimen using a new induction procedure comprising R&#x02010;High&#x02010;CHOP/CHASER<xref rid="cas13719-bib-0013" ref-type="ref">13</xref>, <xref rid="cas13719-bib-0014" ref-type="ref">14</xref> with rituximab and HDAC followed by HDC (LEED therapy) with ASCT.</p></sec><sec id="cas13719-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="cas13719-sec-0003"><label>2.1</label><title>Trial information</title><p>This trial was a multi&#x02010;institutional phase II study conducted by JCOG&#x02010;LSG. The study protocol was approved by the Protocol Review Committee of JCOG and by the respective institutional review boards.</p><p>Written, informed consent was obtained from each patient before enrolment in accordance with the Declaration of Helsinki. The trial is registered with the UMIN Clinical Trials Registry (UMIN000001220).</p></sec><sec id="cas13719-sec-0004"><label>2.2</label><title>Eligibility criteria</title><p>Eligibility criteria included the following: newly pathologically diagnosed with MCL according to the WHO classification 2001;<xref rid="cas13719-bib-0015" ref-type="ref">15</xref> positive staining for cyclin D1 in the nucleus of lymphoma cells; positive for CD5 and CD20 on lymphoma cells by flow cytometry or by immunohistochemistry; age between 20 and 65 years; ECOG performance status (PS) of 0, 1, or 2; clinical stage II with bulky disease, stages III or IV according to the Ann Arbor staging system; lymphoma cells in peripheral blood &#x02264;10 000/&#x003bc;L; no involvement of the central nervous system; at least 1 measurable lymphomatous lesion; no previous history of chemotherapy, radiation therapy, IFN, and/or antibody therapy; adequate organ function; and written, informed consent. Patients were excluded if they had a history of glaucoma, uncontrollable diabetes mellitus, uncontrollable hypertension, hepatitis B virus surface antigens or antibodies to hepatitis C virus, interstitial pneumonia, severe bacterial infection, or another active neoplasm.</p></sec><sec id="cas13719-sec-0005"><label>2.3</label><title>Treatment</title><p>The R&#x02010;High&#x02010;CHOP/CHASER regimen comprised 1 cycle of R&#x02010;High CHOP consisting of 1500 mg/m<sup>2</sup> CPA and 75 mg/m<sup>2</sup> doxorubicin followed by 3 cycles of CHASER consisting of 1200 mg/m<sup>2</sup> CPA on day 3, 2 g/m<sup>2</sup> cytarabine on days 4 and 5, 100 mg/m<sup>2</sup> etoposide on days 3&#x02010;5, 40 mg/body weight dexamethasone on days 1, 3&#x02010;5 and 15, and 375 mg/m<sup>2</sup> rituximab on days 1 and 15 (Figure <xref rid="cas13719-fig-0001" ref-type="fig">1</xref>). HDC in LEED therapy consisting of 130 mg/m<sup>2</sup> melphalan, 60 mg/kg CPA, 500 mg/m<sup>2</sup> etoposide, and 40 mg/body dexamethasone was started on day 36&#x02010;49 of the last CHASER therapy. PBSC were harvested after the 2nd cycle of CHASER, and further harvesting was added after the 3rd CHASER cycle if the number of PBSC was less than 4 &#x000d7; 10<sup>6</sup> cells/kg. Although the recommended number of harvested CD34&#x02010;positive cells was &#x02265;4 &#x000d7; 10<sup>6</sup> cells/kg, patients obtaining &#x02265;2 &#x000d7; 10<sup>6</sup> cells/kg could proceed to HDT with ASCT. Patients received sulfamethoxazole&#x02010;trimethoprim from induction therapy until 6 months after ASCT to prevent opportunistic infections caused by <italic>Pneumocystis jirovecii</italic>.</p><fig fig-type="Figure" xml:lang="en" id="cas13719-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Study design. Ara&#x02010;C, cytarabine; <styled-content style="fixed-case">CPA</styled-content>, cyclophosphamide; <styled-content style="fixed-case">CR</styled-content>, complete response; Dexa, dexamethasone; <styled-content style="fixed-case">DXR</styled-content>, doxorubicin; <styled-content style="fixed-case">ETP</styled-content>, etoposide; L&#x02010;<styled-content style="fixed-case">PAM</styled-content>, melphalan; <styled-content style="fixed-case">MCL</styled-content>, mantle cell lymphoma; <styled-content style="fixed-case">PBSCT</styled-content>, peripheral blood stem cell transplantation; <styled-content style="fixed-case">PD</styled-content>, progression of disease; <styled-content style="fixed-case">PR</styled-content>, partial response; <styled-content style="fixed-case">PS</styled-content>, performance status; <styled-content style="fixed-case">PSL</styled-content>, prednisolone; <styled-content style="fixed-case">SD</styled-content>, stable disease; <styled-content style="fixed-case">VCR</styled-content>, vincristine</p></caption><graphic id="nlm-graphic-3" xlink:href="CAS-109-2830-g001"/></fig></sec><sec id="cas13719-sec-0006"><label>2.4</label><title>Central pathology review</title><p>A central pathology review was carried out as previously reported.<xref rid="cas13719-bib-0016" ref-type="ref">16</xref> Antigens routinely examined by immunohistochemistry included CD3, CD5, CD10, CD20, cyclin D1, SOX&#x02010;11, Ki&#x02010;67, and cyclin D1. Four hematopathologists reviewed the pathology specimens and classified them according to the WHO classification system 2001.<xref rid="cas13719-bib-0015" ref-type="ref">15</xref> The diagnosis by the central pathology review committee was used in this article.</p></sec><sec id="cas13719-sec-0007"><label>2.5</label><title>Mantle cell lymphoma international prognostic index (MIPI) and modified combination of the Ki&#x02010;67 index and MIPI (MIPI&#x02010;c)</title><p>Patients were classified into low&#x02010;risk, intermediate&#x02010;risk, and high&#x02010;risk groups based on the 4 prognostic factors (age, PS, lactate dehydrogenase [LDH], and leukocyte count) according to MIPI.<xref rid="cas13719-bib-0017" ref-type="ref">17</xref> Patients were classified into low&#x02010;risk, low&#x02010;intermediate risk, high&#x02010;intermediate risk, and high&#x02010;risk groups according to MIPI&#x02010;c.<xref rid="cas13719-bib-0018" ref-type="ref">18</xref>
+</p></sec><sec id="cas13719-sec-0008"><label>2.6</label><title>Response and toxicity criteria</title><p>Tumor assessments were carried out on all target lesions identified at baseline by PET and CT scans after R&#x02010;High&#x02010;CHOP/CHASER and after LEED therapy completion (day 50&#x02010;63 after ASCT). In patients in CR after LEED therapy, tumor assessment was done every 6 months for 2 years and, thereafter, every year for the next 3 years. Tumor response was determined by the Revised Response Criteria for Malignant Lymphoma 2007.<xref rid="cas13719-bib-0019" ref-type="ref">19</xref> Toxicities were evaluated according to the NCI Common Terminology Criteria for Adverse Events version 3.0.</p></sec><sec id="cas13719-sec-0009"><label>2.7</label><title>Statistical analysis and endpoints</title><p>Primary endpoint was 2&#x02010;year PFS. Planned sample size was 45, with an expected 2&#x02010;year PFS of 50%, a threshold of 30%, 1&#x02010;sided &#x003b1; of 10%, and power of 90% based on the results of conventional chemotherapy<xref rid="cas13719-bib-0004" ref-type="ref">4</xref> and toxicities of R&#x02010;high&#x02010;CHOP/CHASER/LEED (M. Ogura, unpublished data, 2000).</p><p>Secondary endpoints were ORR, CR rate, proportion of CR and ORR after induction therapy, PFS, 5&#x02010;year PFS, OS, 2&#x02010;year OS, 5&#x02010;year OS, and toxicity. OS was calculated from the date of registration until death as a result of any cause or censored at the last follow&#x02010;up date. PFS was calculated from the date of registration to the date of relapse or progression, death as a result of any cause, or censored at the date of the last follow up. CR rate and ORR (CR + PR) and 95% CI were estimated by an exact binomial method. OS and PFS were estimated according to the Kaplan&#x02010;Meier method, and CI were estimated by Greenwood's formula. These analyses were carried out using SAS release 9.2 (SAS Institute, Cary, NC, USA).</p></sec></sec><sec id="cas13719-sec-0010"><label>3</label><title>RESULTS</title><sec id="cas13719-sec-0011"><label>3.1</label><title>Patient characteristics</title><p>Primary analysis of JCOG0406 was conducted in December 2014 (data cut&#x02010;off date was June 2014). Forty&#x02010;five patients were enrolled from 25 institutions between June 2008 and June 2012. Clinical characteristics of all enrolled patients are shown in Table <xref rid="cas13719-tbl-0001" ref-type="table">1</xref>. There were no ineligible patients. There were 41 men and 4 women, and median age was 59 years. PS was 0 or 1 for the vast majority (98%) of eligible patients. All patients had stage III (5/45) or stage IV (40/45) disease. Distribution of risk according to MIPI and MIPI&#x02010;c is shown in Table <xref rid="cas13719-tbl-0001" ref-type="table">1</xref>. Supplementary analyses of 44 patients whose formalin&#x02010;fixed paraffin&#x02010;embedded tissue blocks were available at the institution were conducted in June 2016 (data cut&#x02010;off date was June 2015).</p><table-wrap id="cas13719-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Characteristics of patients in the present study (N = 45)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="center" valign="top" rowspan="1" colspan="1">N</th><th align="center" valign="top" rowspan="1" colspan="1">%</th></tr></thead><tbody><tr><td align="left" colspan="3" rowspan="1">Gender</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female/Male</td><td align="center" rowspan="1" colspan="1">4/41</td><td align="center" rowspan="1" colspan="1">9/91</td></tr><tr><td align="left" colspan="3" rowspan="1">Age (years)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Median</td><td align="center" rowspan="1" colspan="1">59</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Range</td><td align="center" rowspan="1" colspan="1">38&#x02010;65</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="3" rowspan="1">PS</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0/1/2</td><td align="center" rowspan="1" colspan="1">38/6/1</td><td align="center" rowspan="1" colspan="1">85/13/2</td></tr><tr><td align="left" colspan="3" rowspan="1">Clinical stage</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">II bulky/III/IV</td><td align="center" rowspan="1" colspan="1">0/5/40</td><td align="center" rowspan="1" colspan="1">0/11/89</td></tr><tr><td align="left" colspan="3" rowspan="1">Central pathological review</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">MCL</td><td align="center" rowspan="1" colspan="1">45</td><td align="center" rowspan="1" colspan="1">100</td></tr><tr><td align="left" colspan="3" rowspan="1">International prognostic index (IPI)<xref ref-type="fn" rid="cas13719-note-0003">a</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">L/LI/HI/H</td><td align="center" rowspan="1" colspan="1">8/17/17/2</td><td align="center" rowspan="1" colspan="1">18/39/39/4</td></tr><tr><td align="left" colspan="3" rowspan="1">Mantle cell lymphoma IPI (MIPI)<xref ref-type="fn" rid="cas13719-note-0003">a</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">L/Int/H</td><td align="center" rowspan="1" colspan="1">28/14/2</td><td align="center" rowspan="1" colspan="1">64/32/4</td></tr><tr><td align="left" colspan="3" rowspan="1">MIPI&#x02010;c<xref ref-type="fn" rid="cas13719-note-0003">a</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">L/LI/HI/H</td><td align="center" rowspan="1" colspan="1">21/13/8/2</td><td align="center" rowspan="1" colspan="1">48/30/18/4</td></tr><tr><td align="left" colspan="3" rowspan="1">SOX&#x02010;11<xref ref-type="fn" rid="cas13719-note-0003">a</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Positive/negative</td><td align="center" rowspan="1" colspan="1">43/1</td><td align="center" rowspan="1" colspan="1">98/2</td></tr><tr><td align="left" colspan="3" rowspan="1">Bulky mass, tumor size (cm)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Size &#x0003c;5 cm</td><td align="center" rowspan="1" colspan="1">29</td><td align="center" rowspan="1" colspan="1">64</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">5 cm &#x02264; Size &#x0003c; 10 cm</td><td align="center" rowspan="1" colspan="1">7</td><td align="center" rowspan="1" colspan="1">16</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Size &#x02265;10 cm</td><td align="center" rowspan="1" colspan="1">9</td><td align="center" rowspan="1" colspan="1">20</td></tr><tr><td align="left" colspan="3" rowspan="1">Extranodal lesions</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0&#x02010;1</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">42</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;2</td><td align="center" rowspan="1" colspan="1">26</td><td align="center" rowspan="1" colspan="1">58</td></tr><tr><td align="left" rowspan="1" colspan="1">Bone marrow involvement<xref ref-type="fn" rid="cas13719-note-0003">a</xref>
+</td><td align="center" rowspan="1" colspan="1">36</td><td align="center" rowspan="1" colspan="1">82</td></tr><tr><td align="left" rowspan="1" colspan="1">PB involvement<xref ref-type="fn" rid="cas13719-note-0003">a</xref>
+</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">43</td></tr></tbody></table><table-wrap-foot><fn id="cas13719-note-0003"><label>a</label><p>In IPI, MIPI, MIPI&#x02010;c, SOX11, and involvement of lymphoma cells in bone marrow and peripheral blood, the total number of patients was 44.</p></fn><fn id="cas13719-note-0004"><p>H, high&#x02010;risk; HI, high&#x02010;intermediate risk; Int, intermediate&#x02010;risk; L, low&#x02010;risk; LI, low&#x02010;intermediate risk; MCL, mantle cell lymphoma; PB, peripheral blood; PS, performance status.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cas13719-sec-0012"><label>3.2</label><title>Feasibility</title><p>Flowchart of the clinical course of enrolled patients is shown in Figure <xref rid="cas13719-fig-0002" ref-type="fig">2</xref>. All 45 enrolled patients received R&#x02010;High&#x02010;CHOP, among whom 40 patients completed R&#x02010;High&#x02010;CHOP followed by 3 cycles of CHASER, and 5 patients did not (Figure <xref rid="cas13719-fig-0002" ref-type="fig">2</xref>). Although all 40 patients who completed the R&#x02010;High&#x02010;CHOP/CHASER induction therapy achieved CR or PR, 5 of these 40 patients did not receive high&#x02010;dose LEED therapy with ASCT because of insufficient harvest of auto&#x02010;PBSC in 4 patients and an adverse event in 1 patient. Therefore, 35 patients received high&#x02010;dose LEED therapy with ASCT. PBSC were harvested in 43 of 45 patients because induction therapy was discontinued at less than 2 cycles as a result of disease progression or patient's refusal in 1 case each. In 43 patients, median number of harvested PBSC was 3.80 (range 0.40&#x02010;38.40) &#x000d7; 10<sup>6</sup>/kg cells. In 36 patients, &#x02265;2 &#x000d7; 10<sup>6</sup>/kg cells PBSC were harvested, whereas in 7 patients, less than 2 &#x000d7; 10<sup>6</sup>/kg cells PBSC were harvested. Percentage of successfully collected PBSC was 84%. In 2 of 7 patients with insufficient harvest of auto&#x02010;PBSC, additional harvests were carried out outside the protocol, and they received high&#x02010;dose LEED therapy with ASCT. These 2 patients were finally judged as having protocol treatment.</p><fig fig-type="Figure" xml:lang="en" id="cas13719-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Flowchart of clinical course. Auto&#x02010;<styled-content style="fixed-case">PBSCH</styled-content>, autologous peripheral blood stem cell harvest; <styled-content style="fixed-case">PD</styled-content>, progression of disease</p></caption><graphic id="nlm-graphic-5" xlink:href="CAS-109-2830-g002"/></fig></sec><sec id="cas13719-sec-0013"><label>3.3</label><title>Responses</title><p>Responses of the 45 enrolled patients are shown in Table <xref rid="cas13719-tbl-0002" ref-type="table">2</xref>. ORR and CR rates after R&#x02010;High&#x02010;CHOP/CHASER induction therapy were 95.6% (95% CI 84.9&#x02010;99.5%) and 82.2% (95% CI 68.0&#x02010;92.0%), respectively. ORR and CR rates in all 45 patients after induction and LEED therapy were 77.8% (95% CI 62.9&#x02010;88.8%) and 71.1% (95% CI 55.7&#x02010;83.6%), respectively.</p><table-wrap id="cas13719-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Rate of response to therapy</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Induction therapy</th><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">High&#x02010;dose therapy (LEED)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="top" rowspan="1" colspan="1">ORR</th><th align="center" valign="top" rowspan="1" colspan="1">CR rate</th><th align="center" valign="top" rowspan="1" colspan="1">ORR</th><th align="center" valign="top" rowspan="1" colspan="1">CR rate</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">N</td><td align="center" rowspan="1" colspan="1">43</td><td align="center" rowspan="1" colspan="1">37</td><td align="center" rowspan="1" colspan="1">35</td><td align="center" rowspan="1" colspan="1">32</td></tr><tr><td align="left" rowspan="1" colspan="1">% (/45<xref ref-type="fn" rid="cas13719-note-0005">a</xref>)</td><td align="center" rowspan="1" colspan="1">95.6%</td><td align="center" rowspan="1" colspan="1">82.2%</td><td align="center" rowspan="1" colspan="1">77.8%</td><td align="center" rowspan="1" colspan="1">71.1%</td></tr><tr><td align="left" rowspan="1" colspan="1">% (/35<xref ref-type="fn" rid="cas13719-note-0006">b</xref>)</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="center" rowspan="1" colspan="1">100%</td><td align="center" rowspan="1" colspan="1">91.4%</td></tr></tbody></table><table-wrap-foot><fn id="cas13719-note-0005"><label>a</label><p>N = 45: number of enrolled patients.</p></fn><fn id="cas13719-note-0006"><label>b</label><p>N = 35: number of patients who received ASCT.</p></fn><fn id="cas13719-note-0007"><p>CR, complete response; LEED, melphalan, cyclophosphamide, etoposide and dexamethasone; ORR, overall response rate; &#x02010;, not applicable.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cas13719-sec-0014"><label>3.4</label><title>Progression&#x02010;free survival</title><p>Median follow&#x02010;up time for all enrolled patients was 3.7 years in the primary analysis. Two&#x02010;year PFS as the primary endpoint of all enrolled patients was estimated to be 77.3% (lower boundary of 80% CI 68.0%, which exceeded the threshold of 30%, and 95% CI 61.9&#x02010;87.1%), which met the primary endpoint (Figure <xref rid="cas13719-fig-0003" ref-type="fig">3</xref>A). PFS at 5 years was estimated to be 52.2% (95% CI 33.8&#x02010;67.8). PFS at 5 years for patients with low&#x02010;risk (N = 28), intermediate&#x02010;risk (N = 14), and high&#x02010;risk (N = 2) disease according to MIPI was 59.9% (95% CI 37.4&#x02010;76.6%), 51.6% (95% CI 21.6&#x02010;75.1%), and 0%, respectively (Figure <xref rid="cas13719-fig-0003" ref-type="fig">3</xref>B). PFS at 5 years for patients with low&#x02010;risk (N = 21), low&#x02010;intermediate risk (N = 13), high&#x02010;intermediate risk (N = 8), and high&#x02010;risk (N = 2) disease according to MIPI&#x02010;c was 66.2% (95% CI 38.4&#x02010;83.8%), 44.0% (95% CI 16.8&#x02010;68.4%), 58.3% (95% CI 18.0&#x02010;84.4%), and 0%, respectively (Figure <xref rid="cas13719-fig-0003" ref-type="fig">3</xref>C). PFS rates at 5 years for patients who received LEED therapy followed by ASCT (n = 35) and for patients who did not receive LEED therapy followed by ASCT for any reason including harvesting failure of PBSC (n = 10) were 54.8% (95% CI 33.0&#x02010;72.1%) and 42.2% (95% CI 11.1&#x02010;71.3%), respectively.</p><fig fig-type="Figure" xml:lang="en" id="cas13719-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Kaplan&#x02010;Meier curves of progression&#x02010;free survival (<styled-content style="fixed-case">PFS</styled-content>) (A) of all 45 enrolled patients, and Kaplan&#x02010;Meier curves of <styled-content style="fixed-case">PFS</styled-content> according to risk stratified by <styled-content style="fixed-case">MIPI</styled-content> (n = 44) (B) and by <styled-content style="fixed-case">MIPI</styled-content>&#x02010;c (n = 44) (C). MIPI, mantle cell lymphoma international prognostic index; MIPI&#x02010;c, modified combination of the Ki&#x02010;67 index and MIPI</p></caption><graphic id="nlm-graphic-7" xlink:href="CAS-109-2830-g003"/></fig></sec><sec id="cas13719-sec-0015"><label>3.5</label><title>Overall survival</title><p>Overall survival of all 45 enrolled patients is shown in Figure <xref rid="cas13719-fig-0004" ref-type="fig">4</xref>A. Eleven patients died (7 died of MCL, 3 died of secondary malignancy [1 acute myelogenous leukemia (AML), 1 adult T&#x02010;cell leukemia/lymphoma (ATL), and 1 diffuse large B&#x02010;cell lymphoma (DLBCL)]), and 1 died after postprotocol treatment). OS at 2 years and 5 years was estimated to be 91% (95% CI 77.7&#x02010;96.5%) and 71.0% (95% CI 50.9&#x02010;84.1%), respectively. Subgroup analysis of OS according to MIPI and MIPI&#x02010;c is shown in Figure <xref rid="cas13719-fig-0004" ref-type="fig">4</xref>B,C, respectively. OS rates at 5 years for patients who received LEED therapy followed by ASCT (n = 35) and for patients who did not receive LEED therapy followed by ASCT for any reason including harvesting failure of PBSC (n = 10) were 71.9% (95% CI 47.4&#x02010;86.4%) and 67.5% (95% CI 29.1&#x02010;88.3%), respectively.</p><fig fig-type="Figure" xml:lang="en" id="cas13719-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Kaplan&#x02010;Meier curves of overall survival (<styled-content style="fixed-case">OS</styled-content>) (A) of all 45 enrolled patients, and Kaplan&#x02010;Meier curves of <styled-content style="fixed-case">OS</styled-content> according to risk stratified by <styled-content style="fixed-case">MIPI</styled-content> (n = 44) (B) and <styled-content style="fixed-case">MIPI</styled-content>&#x02010;c (n = 44) (C). MIPI, mantle cell lymphoma international prognostic index; MIPI&#x02010;c, modified combination of the Ki&#x02010;67 index and MIPI</p></caption><graphic id="nlm-graphic-9" xlink:href="CAS-109-2830-g004"/></fig></sec><sec id="cas13719-sec-0016"><label>3.6</label><title>Toxicity</title><p>All 45 treated patients were evaluated for toxicity (Table <xref rid="cas13719-tbl-0003" ref-type="table">3</xref>). The most common grade 4 toxicities were hematological; the percentage of patients with grade 4 neutropenia and thrombocytopenia was 80% and 0% in R&#x02010;High&#x02010;CHOP, 91% and 89% in CHASER, and 94% and 77% in LEED, respectively. There were no grade 4 nonhematological or nonlaboratory toxicities during the entire protocol treatment. In R&#x02010;High&#x02010;CHOP therapy, 1 grade 4 increased alanine aminotransferase (ALT) was observed, and grade 3 increased aspartate aminotransferase (AST) and hyponatremia were observed in 1 patient each. All of these adverse events were reversible.</p><table-wrap id="cas13719-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Toxicity (N = 45) in all protocol treatments</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">CTCAE 3.0</th><th align="center" valign="top" rowspan="1" colspan="1">G1</th><th align="center" valign="top" rowspan="1" colspan="1">G2</th><th align="center" valign="top" rowspan="1" colspan="1">G3</th><th align="center" valign="top" rowspan="1" colspan="1">G4</th><th align="center" valign="top" rowspan="1" colspan="1">% G3&#x02010;4</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Leukocytes</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">44</td><td align="center" rowspan="1" colspan="1">100%</td></tr><tr><td align="left" rowspan="1" colspan="1">Hemoglobin</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">27</td><td align="center" rowspan="1" colspan="1">14</td><td align="center" rowspan="1" colspan="1">91.1%</td></tr><tr><td align="left" rowspan="1" colspan="1">Platelets</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">40</td><td align="center" rowspan="1" colspan="1">97.8%</td></tr><tr><td align="left" rowspan="1" colspan="1">Neutrophils</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">45</td><td align="center" rowspan="1" colspan="1">100%</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypoalbuminemia</td><td align="center" rowspan="1" colspan="1">27</td><td align="center" rowspan="1" colspan="1">17</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="center" rowspan="1" colspan="1">0%</td></tr><tr><td align="left" rowspan="1" colspan="1">Bilirubin</td><td align="center" rowspan="1" colspan="1">20</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0%</td></tr><tr><td align="left" rowspan="1" colspan="1">AST</td><td align="center" rowspan="1" colspan="1">25</td><td align="center" rowspan="1" colspan="1">6</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">6.7%</td></tr><tr><td align="left" rowspan="1" colspan="1">ALT</td><td align="center" rowspan="1" colspan="1">23</td><td align="center" rowspan="1" colspan="1">12</td><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">11.1%</td></tr><tr><td align="left" rowspan="1" colspan="1">GGT</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">12</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">4.7%</td></tr><tr><td align="left" rowspan="1" colspan="1">Cholesterol</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0%</td></tr><tr><td align="left" rowspan="1" colspan="1">Creatinine</td><td align="center" rowspan="1" colspan="1">10</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0%</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypernatremia</td><td align="center" rowspan="1" colspan="1">11</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0%</td></tr><tr><td align="left" rowspan="1" colspan="1">Hyponatremia</td><td align="center" rowspan="1" colspan="1">38</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">4.4%</td></tr><tr><td align="left" rowspan="1" colspan="1">Hyperkalemia</td><td align="center" rowspan="1" colspan="1">16</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0%</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypokalemia</td><td align="center" rowspan="1" colspan="1">27</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="center" rowspan="1" colspan="1">9</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">22.2%</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypercalcemia</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0%</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypocalcemia</td><td align="center" rowspan="1" colspan="1">18</td><td align="center" rowspan="1" colspan="1">7</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0%</td></tr></tbody></table><table-wrap-foot><fn id="cas13719-note-0008"><p>ALT, alanine aminotransferase; AST, aspartate aminotransferase; CTCAE, common terminology criteria for adverse events; G, grade; GGT, gamma&#x02010;glutamyl transpeptidase; &#x02010;, not applicable.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>In CHASER therapy, grade 4 hypokalemia was observed in 1 patient, and grade 3 hyponatremia and hypokalemia were observed in 1 and 3 patients, respectively. All of these adverse events were reversible.</p><p>In LEED therapy, grade 4 hypokalemia was observed in 1 patient, and grade 3 increased AST, increased ALT, hyponatremia, and hypokalemia were observed in 2, 3, 1, and 5 patients, respectively. All of these adverse events were reversible. In the present study, 3 types of opportunistic infection were observed in 5 patients, including grade 3 <italic>Pneumocystis</italic> pneumonia in 2 patients, grade 3 cytomegalovirus infection in 2 patients, and grade 3 adenovirus cystitis in 2 patients; one patients had cytomegalovirus infection followed by adenovirus cystitis, sequentially. Treatment&#x02010;related death occurred in 1 patient as a result of brain DLBCL after the development of Epstein Barr (EB) virus&#x02010;positive post&#x02010;transplantation lymphoproliferative disorder (PTLD) on day 159 after ASCT. Secondary malignancies including AML, prostate cancer, DLBCL, and ATL developed in 1 patient each. Incidence of secondary malignancies was 8.9% (95% CI 2.5&#x02010;21.2%).</p></sec><sec id="cas13719-sec-0017"><label>3.7</label><title>Pathological characteristics</title><p>A central review of the pathological diagnosis was carried out for 45 enrolled patients, and all were confirmed as having cyclin D1&#x02010;positive MCL, although 1 patient was diagnosed as having CD5&#x02010;negative MCL. Although CD5 positivity was defined as an eligibility criterion in this study, the Central Pathology Review Committee decided that this patient was pathologically eligible, as CD5 negativity was not unequivocally confirmed by other techniques, including flow cytometry.</p></sec></sec><sec id="cas13719-sec-0018"><label>4</label><title>DISCUSSION</title><p>This phase II study showed that treatment of untreated younger MCL patients with R&#x02010;High&#x02010;CHOP/CHASER followed by LEED HDC with ASCT resulted in high ORR and CR rates with durable PFS and OS and acceptable toxicity profiles. These results show that this regimen of R&#x02010;High&#x02010;CHOP/CHASER/LEED with ASCT can now be considered a standard treatment option in this population.</p><p>In the present study, PFS with the R&#x02010;High&#x02010;CHOP/CHASER/LEED with ASCT regimen was comparable with that reported for other regimens containing rituximab and HDAC followed by consolidative HDC with ASCT.<xref rid="cas13719-bib-0008" ref-type="ref">8</xref>, <xref rid="cas13719-bib-0009" ref-type="ref">9</xref>, <xref rid="cas13719-bib-0010" ref-type="ref">10</xref> Addition of both HDAC and rituximab (MCL2 study) dramatically improved the PFS (4&#x02010;year PFS of 73% and 6&#x02010;year PFS of 66%) compared to the PFS (4&#x02010;year PFS of 37%) with previous MCL&#x02010;1 protocol treatments.<xref rid="cas13719-bib-0008" ref-type="ref">8</xref>, <xref rid="cas13719-bib-0020" ref-type="ref">20</xref> The 5&#x02010;year event&#x02010;free survival in the GELA phase II study of 3 cycles of R&#x02010;CHOP and 3 cycles of R&#x02010;DHAP followed by ASCT was 64%.<xref rid="cas13719-bib-0009" ref-type="ref">9</xref> In the randomized phase III study by the European MCL Network, the 5&#x02010;year PFS in the experimental arm of 6 cycles of the alternating R&#x02010;CHOP/R&#x02010;DHAP regimen followed by consolidative HDC with ASCT and the control arm of 6 cycles of R&#x02010;CHOP followed by consolidative HDC with ASCT was 65% and 44%, respectively.<xref rid="cas13719-bib-0010" ref-type="ref">10</xref> The present results provide further data to support the treatment approach used in these prior studies. Combined with the present data, the present findings strongly suggest that HDAC&#x02010;based high&#x02010;dose consolidation therapy followed by ASCT has dramatically improved the prognosis of MCL compared with the prognosis reported with conventional immunochemotherapy such as R&#x02010;CHOP<xref rid="cas13719-bib-0021" ref-type="ref">21</xref> or with consolidative ASCT after a CHOP&#x02010;like regimen.<xref rid="cas13719-bib-0005" ref-type="ref">5</xref> Therefore, HDAC&#x02010;based high&#x02010;dose consolidation therapy followed by ASCT should be considered a standard treatment strategy for frontline treatment of younger MCL patients.</p><p>Recently, rituximab maintenance after ASCT was reported to improve event&#x02010;free survival, PFS, and OS in younger patients with MCL.<xref rid="cas13719-bib-0011" ref-type="ref">11</xref> PFS at 4 years was 83% in the rituximab maintenance group versus 64% in the observation group (<italic>P</italic> &#x0003c; .001), and OS was 89% vs 80% (<italic>P</italic> = 0.04), respectively. In this study, no patients received rituximab maintenance, and PFS and OS at 4 years were almost the same as in the observation group. It is likely that adding rituximab maintenance to our regimen will improve outcomes further.</p><p>In order that as many patients as possible can proceed to ASCT, it is important to achieve CR or PR after the induction chemotherapy before ASCT. In the present study, ORR and CR rates after R&#x02010;High&#x02010;CHOP/CHASER induction therapy were 95.6% (95% CI 84.9&#x02010;99.5%) and 82.2% (95% CI 68.0&#x02010;92.0%), respectively. In the Nordic MCL&#x02010;2 study, ORR and CR rates including uncertain CR were 96.3% and 54.4%, respectively.<xref rid="cas13719-bib-0008" ref-type="ref">8</xref> In the GELA phase II study, ORR and CR rates after induction therapy were 95% and 57%, respectively.<xref rid="cas13719-bib-0009" ref-type="ref">9</xref> In the European MCL Network phase III study, ORR and the CR including unconfirmed CR rate after alternating R&#x02010;CHOP/R&#x02010;DHAP were 94% and 55%, respectively.<xref rid="cas13719-bib-0010" ref-type="ref">10</xref> In a phase III LYSA study to evaluate the usefulness of rituximab maintenance treatment, induction therapy was 4 cycles of R&#x02010;DHAP (6.7% of patients received an additional 3 cycles of R&#x02010;CHOP), and ORR and CR rates were 94% and 74% (including 34% with unconfirmed CR), respectively.<xref rid="cas13719-bib-0011" ref-type="ref">11</xref> Thus, the high CR rate of 82.2% in the present study is notable. Recently, retrospective data of a nationwide study of MCL in Japan were reported.<xref rid="cas13719-bib-0022" ref-type="ref">22</xref> In that study, 501 patients with newly diagnosed MCL with a median age of 67 (range 22&#x02010;90) years treated with rituximab&#x02010;containing therapy between 1992 and 2012 were analyzed. PFS and OS at 5 years were 25% and 60%, respectively. These results are lower than in the present study (PFS of 52% and OS of 71% at 5 years). Although comparison is difficult, the most probable reason for these differences might be differences in the study populations: The median age was 67 years in the nationwide retrospective study and 59 years in the present study, and 48% of patients received R&#x02010;CHOP without ASCT in the retrospective nationwide study, whereas all patients in the present study received treatment with the intent of ASCT.</p><p>In the present study, 22.2% of all enrolled patients did not receive ASCT, whereas in the Nordic MCL&#x02010;2 study 6.8% of all 160 eligible patients did not proceed to the high&#x02010;dose regimen because of toxicity or patient refusal.<xref rid="cas13719-bib-0008" ref-type="ref">8</xref> Five of the present 10 patients did not proceed to ASCT due only to insufficient harvest. In 7 of all 43 harvested patients, collected PBSC did not reach the threshold number of stem cells per protocol (&#x02265;2 &#x000d7; 10<sup>6</sup> CD34&#x02010;positive cells per kg body weight). Thus, the percentage of PBSC collected was 84%.</p><p>According to the protocol, auto&#x02010;PBSC were harvested during the second CHASER and, if necessary, during the third CHASER, to avoid contamination of harvested auto&#x02010;PBSC with MCL cells. As highly efficient harvest of auto&#x02010;PBSC was observed during the first CHASER (data not shown), it is possible that a greater number of patients may proceed to ASCT if the harvest of auto&#x02010;PBSC is initiated during the first CHASER. Possibility that the harvest of auto&#x02010;PBSC in the early period of intensive induction chemotherapy may result in a highly efficient harvest was suggested in a recent phase II study.<xref rid="cas13719-bib-0023" ref-type="ref">23</xref> In that randomized phase II study by the Southwest Oncology Group that compared HyperCVAD/MA with rituximab and bendamustine with rituximab (S1106 study), stem cell collection was planned and carried out after the 3rd of 4 HyperCVAD/MA cycles. The R&#x02010;HyperCVAD/MA arm was prematurely closed as a result of failure of stem cell collection and/or delay of therapy because of hematological toxicity.<xref rid="cas13719-bib-0023" ref-type="ref">23</xref> Percentage (84%) of collected PBSC in the present study was higher than that (66%) reported in the alternating R&#x02010;CHOP/R&#x02010;DHAP regimen in the European MCL Network phase III study.<xref rid="cas13719-bib-0010" ref-type="ref">10</xref> PFS and OS at 5 years for patients who received LEED therapy followed by ASCT were relatively higher than those for patients who did not receive LEED therapy followed by ASCT for any reason, although the comparison is difficult because of the small sample size and because it was a subset analysis according to outcome.</p><p>Only 5 of the 45 eligible patients in the present study did not complete induction chemotherapy (R&#x02010;High CHOP/CHASER) because of toxicity (N = 3), disease progression (N = 1), or refusal (N = 1). These proportions were much lower than the reported 29% of patients who did not complete the planned 6 or 8 HyperCVAD/MA cycles,<xref rid="cas13719-bib-0023" ref-type="ref">23</xref> and the reported 63% of patients who did not complete the planned 4 HyperCVAD/MA cycles with 3 deaths during therapy in a phase II study by Gruppo Italiano Studio Linfomi,<xref rid="cas13719-bib-0024" ref-type="ref">24</xref> but was comparable to the 3% of such patients reported in the Nordic MCL&#x02010;2 study<xref rid="cas13719-bib-0008" ref-type="ref">8</xref> and the 6.7% of such patients reported in the GELA study.<xref rid="cas13719-bib-0009" ref-type="ref">9</xref>
+</p><p>Our R&#x02010;High&#x02010;CHOP/CHASER/LEED therapy was well tolerated. The nonrelapse mortality of 4.4% (2/45), which included 1 case with ATL who was a HTLV type&#x02010;1 carrier and developed acute type ATL after the completion of the protocol treatment, and 1 case with DLBCL as PTLD, is comparable with that reported in the Nordic MCL&#x02010;2 study (5%).<xref rid="cas13719-bib-0008" ref-type="ref">8</xref> Apart from these 2 secondary malignancies, 2 secondary malignancies including AML and latent prostatic carcinoma developed after postprotocol treatment. Although a patient who developed latent prostatic carcinoma completed protocol treatment including ASCT, a patient who developed AML did not receive LEED therapy followed by ASCT. The cause of these 2 secondary malignancies is difficult to determine, especially with respect to the relationship with protocol treatment, because they developed following postprotocol treatment. No grade 2 or greater increased creatinine levels occurred during any of the treatment cycles, because R&#x02010;High&#x02010;CHOP/CHASER/LEED therapy does not contain any platinum agents. In contrast, 8.3% (N = 5; 3 patients with grade 3 or 4) of 60 enrolled patients developed renal insufficiency in the GELA study during which they were treated with DHAP using cisplatin.<xref rid="cas13719-bib-0009" ref-type="ref">9</xref>
+</p><p>In the present study, opportunistic infections including cytomegalovirus infection, adenovirus cystitis and <italic>Pneumocystis</italic> pneumonia were observed in 5 patients. Although the patients recovered from these infections, routine monitoring of the number of peripheral CD4+ lymphocytes was essential because intensive immunochemotherapy caused severe lymphocytopenia. After encouraging all participating institutions to do this examination, no further opportunistic infections were reported. In the present study, 22.2% of patients developed grade 3 or 4 hypokalemia. Grade 4 hypokalemia developed in 1 patient after both induction therapy and LEED high&#x02010;dose therapy. The most likely reason for hypokalemia may have been the frequent use of diuretics for increased body weight as a result of the considerable volume of infusion fluid for CHASER and LEED therapy.</p><p>Recently, Hoster et al reported that a modified MIP1 that combines the Ki&#x02010;67 index with MIPI (MIPI&#x02010;c) provided a refined risk stratification, reflecting their strong complementary prognostic effects while integrating the most relevant prognostic factors available in routine clinical practice.<xref rid="cas13719-bib-0018" ref-type="ref">18</xref> In the present study, a very good OS at 5 years of 95.2% (95%CI 70.7&#x02010;99.3%) in low&#x02010;risk group (<italic>N</italic>=21), and a very poor OS of 0% in high&#x02010;risk group (<italic>N</italic>=2) were also observed when risk group was stratified according to MIPI&#x02010;c.</p><p>Last, the incorporation of new molecular targeted drugs into the current standard regimens is an attractive approach to improving the efficacy of treatment strategies for MCL patients. It has been reported that Bruton's tyrosine kinase inhibitors and phosphoinositide 3&#x02010;kinase inhibitors showed high efficacy in relapsed or refractory MCL patients.<xref rid="cas13719-bib-0025" ref-type="ref">25</xref> Further improvements of our regimen, including more efficient harvest of auto&#x02010;PBSC and/or incorporation of promising new molecular targeting agents, are important future goals.</p><p>In conclusion, R&#x02010;High&#x02010;CHOP/CHASER including HDAC and rituximab followed by LEED HDC with ASCT showed a high CR rate and durable PFS and OS in patients aged 65 years or younger with newly diagnosed advanced MCL. This regimen compares favorably with other regimens including HDAC, rituximab, and HDC with ASCT and can now be considered a standard treatment option for newly diagnosed younger patients with MCL.</p></sec><sec id="cas13719-sec-0020"><title>CONFLICTS OF INTEREST</title><p>K.Y. has received research funding from AbbVie, ARIAD Pharmaceuticals, Celgene, Chugai, Eisai, Gilead Sciences, MSD, Novartis, Ono, Solasia Pharma, and Takeda. K.To. has received research funding from Abbvie, Ono, Eisai, GlaxoSmithKline, Janssen Celgene, Chugai, Pharmaceuticals, Mundipharma, Novartis, Pharmaceutical, SERVIER, and Takeda; and honoraria from Celgene, Chugai, Eisai, HUYA, Bioscience, Janssen Pharmaceuticals, Kyowa Hakko Kirin, Mundipharma, Ono Pharmaceutical, Takeda, and Zenyaku Kogyo; and advisory remuneration from Celgene. K.A. has received research funding from KyowaHakko&#x02010;Kirin and Takeda. T.S. has received honoraria from KyowaHakko&#x02010;Kirin and Takeda. N.Ta. has received honoraria from Takeda. I.H. has received honoraria from Bristol&#x02010;Meyers&#x02010;Squibb and Celgene; and research funding from Bristol&#x02010;Meyers&#x02010;Squibb, KyowaHakko&#x02010;Kirn, and Chugai. H.N. has received honoraria from Takeda, Chugai Pharma, and Mundipharma; and research funding from Bayer Yakuhin, Takeda, Abbvie, Chugai Pharma, Janssen, Mundipharma, Celgene, AstraZeneca, Ono, Bristol&#x02010;Myers&#x02010;Squibb, Gilead Sciences, and Otsuka. K.U. has received research funding from Astellas, Kyowahakko&#x02010;Kirin, and Daiichi Sankyo; and honoraria from Novartis. K. Ohya received research funding from Ono Pharmaceutical, Chugai, Bristol&#x02010;Meyers&#x02010;Squibb, Kyowahakko&#x02010;Kirin, and Janssen; and honoraria from Novartis and Celgene. D.M. has received honoraria from Takeda, Janssen, Eisai, Biomedis International, Celgene, Kyowa Hakko Kirin, Fujifilm, Ono Pharmaceutical, Mundipharma International, Chugai Pharma, MSD, and Zenyaku Kogyo; and research funding from Takeda, Janssen, Eisai, Biomedis International, Celgene, Kyowa Hakko Kirin, Fujifilm, Ono Pharmaceutical, Mundipharma International, Chugai Pharma, MSD, Zenyaku Kogyo, GlaxoSmithKline, Abbvie, Astellas Pharma, Amgen Astellas, BioPharma, Otsuka, Novartis, Nippon Boehringer Ingelheim, Pfizer, Solasia Pharma, and AstraZeneca. S.Na. has received research funding from Chugai and Kyowahakko&#x02010;Kirin. T.H. has received advisory remuneration from SymBio. K.Tu has received research funding from Chugai Pharma, Mundipharma, Celgene, and Takeda. M.O., Y.Mo., M.W., N.U., M.K., H.G., M.T., K.No., N.Tsu., N.F., Y.Y., K.Ohni., K.Mi, K.S., H.K., N.K., T.U., K.K., K. Ohma. and Y.Ma. have no conflicts of interest to declare.</p></sec></body><back><ack id="cas13719-sec-0019"><title>ACKNOWLEDGMENTS</title><p>The authors are grateful to the pathologists Dr Koichi Ohshima and Dr Naoya Nakamura for their support with the Central Pathology Review, to Dr Satoko Shimada for immunohistochemical analysis of SOX11 and Ki&#x02010;67, and to the members of the JCOG Data Center and JCOG Operations Office for their support in preparing the manuscript (Dr Kenichi Nakamura and Dr Kenichi Miyamoto), data management (Ms Yuko Watanabe), and oversight of study management (Dr Haruhiko Fukuda).</p></ack><ref-list content-type="cited-references" id="cas13719-bibl-0001"><title>REFERENCES</title><ref id="cas13719-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cas13719-cit-0001">
+<string-name>
+<surname>Schmidt</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Dreyling</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Therapy of mantle cell lymphoma: current standards and future strategies</article-title>. <source xml:lang="en">Hematol Oncol Clin North Am</source>. <year>2008</year>;<volume>22</volume>:<fpage>953</fpage>&#x02010;<lpage>963</lpage>.<pub-id pub-id-type="pmid">18954745</pub-id></mixed-citation></ref><ref id="cas13719-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cas13719-cit-0002">
+<string-name>
+<surname>Fisher</surname>
+<given-names>RI</given-names>
+</string-name>, <string-name>
+<surname>Dahlberg</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nathwani</surname>
+<given-names>BN</given-names>
+</string-name>, et al. <article-title>A clinical analysis of two indolent lymphoma entities: mantle cell lymphoma and marginal zone lymphoma (including the mucosa&#x02010;associated lymphoid tissue and monocytoid B&#x02010;cell subcategories): a Southwest Oncology Group study</article-title>. <source xml:lang="en">Blood</source>. <year>1995</year>;<volume>85</volume>:<fpage>1075</fpage>&#x02010;<lpage>1082</lpage>.<pub-id pub-id-type="pmid">7849295</pub-id></mixed-citation></ref><ref id="cas13719-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cas13719-cit-0003">
+<string-name>
+<surname>Yatabe</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Tobinai</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Significance of cyclin D1 overexpression for the diagnosis of mantle cell lymphoma: a clinicopathologic comparison of cyclin D1&#x02010;positive MCL and cyclin D1&#x02010;negative MCL&#x02010;like B&#x02010;cell lymphoma</article-title>. <source xml:lang="en">Blood</source>. <year>2000</year>;<volume>95</volume>:<fpage>2253</fpage>&#x02010;<lpage>2261</lpage>.<pub-id pub-id-type="pmid">10733493</pub-id></mixed-citation></ref><ref id="cas13719-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cas13719-cit-0004">
+<string-name>
+<surname>Howard</surname>
+<given-names>OM</given-names>
+</string-name>, <string-name>
+<surname>Gribben</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Neuberg</surname>
+<given-names>DS</given-names>
+</string-name>, et al. <article-title>Rituximab and CHOP induction therapy for newly diagnosed mantle&#x02010;cell lymphoma: molecular complete responses are not predictive of progression&#x02010;free survival</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2002</year>;<volume>20</volume>:<fpage>1288</fpage>&#x02010;<lpage>1294</lpage>.<pub-id pub-id-type="pmid">11870171</pub-id></mixed-citation></ref><ref id="cas13719-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cas13719-cit-0005">
+<string-name>
+<surname>Dreyling</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lenz</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hoster</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Early consolidation by myeloablative radiochemotherapy followed by autologous stem cell transplantation in first remission significantly prolongs progression&#x02010;free survival in mantle&#x02010;cell lymphoma: results of a prospective randomized trial of the European MCL Network</article-title>. <source xml:lang="en">Blood</source>. <year>2005</year>;<volume>105</volume>:<fpage>2677</fpage>&#x02010;<lpage>2684</lpage>.<pub-id pub-id-type="pmid">15591112</pub-id></mixed-citation></ref><ref id="cas13719-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cas13719-cit-0006">
+<string-name>
+<surname>Magni</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Di Nicola</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Devizzi</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Successful in vivo purging of CD34&#x02010;containing peripheral blood harvests in mantle cell and indolent lymphoma: evidence for a role of both chemotherapy and rituximab infusion</article-title>. <source xml:lang="en">Blood</source>. <year>2000</year>;<volume>96</volume>:<fpage>864</fpage>&#x02010;<lpage>869</lpage>.<pub-id pub-id-type="pmid">10910898</pub-id></mixed-citation></ref><ref id="cas13719-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cas13719-cit-0007">
+<string-name>
+<surname>Voso</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Pantel</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Weis</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>In vivo depletion of B cells using a combination of high&#x02010;dose cytosine arabinoside/mitoxantrone and rituximab for autografting in patients with non&#x02010;Hodgkin's lymphoma</article-title>. <source xml:lang="en">Br J Haematol</source>. <year>2000</year>;<volume>109</volume>:<fpage>729</fpage>&#x02010;<lpage>735</lpage>.<pub-id pub-id-type="pmid">10929022</pub-id></mixed-citation></ref><ref id="cas13719-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cas13719-cit-0008">
+<string-name>
+<surname>Geisler</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Kolstad</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Laurell</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Long&#x02010;term progression&#x02010;free survival of mantle cell lymphoma after intensive front&#x02010;line immunochemotherapy with in vivo&#x02010;purged stem cell rescue: a nonrandomized phase 2 multicenter study by the Nordic Lymphoma Group</article-title>. <source xml:lang="en">Blood</source>. <year>2008</year>;<volume>112</volume>:<fpage>2687</fpage>&#x02010;<lpage>2693</lpage>.<pub-id pub-id-type="pmid">18625886</pub-id></mixed-citation></ref><ref id="cas13719-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cas13719-cit-0009">
+<string-name>
+<surname>Delarue</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Haioun</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ribrag</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>CHOP and DHAP plus rituximab followed by autologous stem cell transplantation in mantle cell lymphoma: a phase 2 study from the Groupe d'Etude des Lymphomes de l'Adulte</article-title>. <source xml:lang="en">Blood</source>. <year>2013</year>;<volume>121</volume>:<fpage>48</fpage>&#x02010;<lpage>53</lpage>.<pub-id pub-id-type="pmid">22718839</pub-id></mixed-citation></ref><ref id="cas13719-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cas13719-cit-0010">
+<string-name>
+<surname>Hermine</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Hoster</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Walewski</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Addition of high&#x02010;dose cytarabine to immunochemotherapy before autologous stem&#x02010;cell transplantation in patients aged 65 years or younger with mantle cell lymphoma (MCL Younger): a randomised, open&#x02010;label, phase 3 trial of the European Mantle Cell Lymphoma Network</article-title>. <source xml:lang="en">Lancet</source>. <year>2016</year>;<volume>388</volume>:<fpage>565</fpage>&#x02010;<lpage>575</lpage>.<pub-id pub-id-type="pmid">27313086</pub-id></mixed-citation></ref><ref id="cas13719-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cas13719-cit-0011">
+<string-name>
+<surname>Le Gouill</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Thieblemont</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Oberic</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Rituximab after autologous stem&#x02010;cell transplantation in mantle&#x02010;cell lymphoma</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2017</year>;<volume>377</volume>:<fpage>1250</fpage>&#x02010;<lpage>1260</lpage>.<pub-id pub-id-type="pmid">28953447</pub-id></mixed-citation></ref><ref id="cas13719-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cas13719-cit-0012">
+<string-name>
+<surname>Cheah</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Seymour</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>Mantle cell lymphoma</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2016</year>;<volume>34</volume>:<fpage>1256</fpage>&#x02010;<lpage>1269</lpage>.<pub-id pub-id-type="pmid">26755518</pub-id></mixed-citation></ref><ref id="cas13719-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cas13719-cit-0013">
+<string-name>
+<surname>Ogura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kagami</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Taji</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Pilot phase I/II study of new salvage therapy (CHASE) for refractory or relapsed malignant lymphoma</article-title>. <source xml:lang="en">Int J Hematol</source>. <year>2003</year>;<volume>77</volume>:<fpage>503</fpage>&#x02010;<lpage>511</lpage>.<pub-id pub-id-type="pmid">12841390</pub-id></mixed-citation></ref><ref id="cas13719-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cas13719-cit-0014">
+<string-name>
+<surname>Oki</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ogura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kato</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Phase II study of a salvage regimen using cyclophosphamide, high&#x02010;dose cytarabine, dexamethasone, etoposide, and rituximab in patients with relapsed or refractory B&#x02010;cell non&#x02010;Hodgkin's lymphoma</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2008</year>;<volume>99</volume>:<fpage>179</fpage>&#x02010;<lpage>184</lpage>.<pub-id pub-id-type="pmid">17991293</pub-id></mixed-citation></ref><ref id="cas13719-bib-0015"><label>15</label><mixed-citation publication-type="book" id="cas13719-cit-0015">
+<string-name>
+<surname>Jaffe</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>H</given-names>
+</string-name>, et al. <source xml:lang="en">World Health Organization Classification of Tumours Pathology and Genetics of Tumours of Haematopoietic and Lymphoid Tissues</source>, <edition>3rd edn</edition>
+<publisher-loc>Lyon</publisher-loc>: <publisher-name>IARC Press</publisher-name>; <year>2001</year>.</mixed-citation></ref><ref id="cas13719-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cas13719-cit-0016">
+<string-name>
+<surname>Ogura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Itoh</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ishizawa</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Phase II study of ABV (doxorubicin with increased dose, bleomycin and vinblastine) therapy in newly diagnosed advanced&#x02010;stage Hodgkin lymphoma: Japan Clinical Oncology Group study (JCOG9705)</article-title>. <source xml:lang="en">Leuk Lymphoma</source>. <year>2013</year>;<volume>54</volume>:<fpage>46</fpage>&#x02010;<lpage>52</lpage>.<pub-id pub-id-type="pmid">22712838</pub-id></mixed-citation></ref><ref id="cas13719-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cas13719-cit-0017">
+<string-name>
+<surname>Hoster</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Dreyling</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Klapper</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>A new prognostic index (MIPI) for patients with advanced&#x02010;stage mantle cell lymphoma</article-title>. <source xml:lang="en">Blood</source>. <year>2008</year>;<volume>111</volume>:<fpage>558</fpage>&#x02010;<lpage>565</lpage>.<pub-id pub-id-type="pmid">17962512</pub-id></mixed-citation></ref><ref id="cas13719-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cas13719-cit-0018">
+<string-name>
+<surname>Hoster</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Rosenwald</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Prognostic value of Ki&#x02010;67 Index, cytology, and growth pattern in mantle&#x02010;cell lymphoma: results from randomized trials of the European Mantle Cell Lymphoma Network</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2016</year>;<volume>34</volume>:<fpage>1386</fpage>&#x02010;<lpage>1394</lpage>.<pub-id pub-id-type="pmid">26926679</pub-id></mixed-citation></ref><ref id="cas13719-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cas13719-cit-0019">
+<string-name>
+<surname>Cheson</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name>
+<surname>Pfistner</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Juweid</surname>
+<given-names>ME</given-names>
+</string-name>, et al. <article-title>Revised response criteria for malignant lymphoma</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2007</year>;<volume>25</volume>:<fpage>579</fpage>&#x02010;<lpage>586</lpage>.<pub-id pub-id-type="pmid">17242396</pub-id></mixed-citation></ref><ref id="cas13719-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cas13719-cit-0020">
+<string-name>
+<surname>Andersen</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name>
+<surname>Pedersen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Elonen</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Primary treatment with autologous stem cell transplantation in mantle cell lymphoma: outcome related to remission pretransplant</article-title>. <source xml:lang="en">Eur J Haematol</source>. <year>2003</year>;<volume>71</volume>:<fpage>73</fpage>&#x02010;<lpage>80</lpage>.<pub-id pub-id-type="pmid">12890145</pub-id></mixed-citation></ref><ref id="cas13719-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cas13719-cit-0021">
+<string-name>
+<surname>Lenz</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Dreyling</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hoster</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Immunochemotherapy with rituximab and cyclophosphamide, doxorubicin, vincristine, and prednisone significantly improves response and time to treatment failure, but not long&#x02010;term outcome in patients with previously untreated mantle cell lymphoma: results of a prospective randomized trial of the German Low Grade Lymphoma Study Group (GLSG)</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2005</year>;<volume>23</volume>:<fpage>1984</fpage>&#x02010;<lpage>1992</lpage>.<pub-id pub-id-type="pmid">15668467</pub-id></mixed-citation></ref><ref id="cas13719-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cas13719-cit-0022">
+<string-name>
+<surname>Chihara</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Asano</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Omachi</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Prognostic model for mantle cell lymphoma in the rituximab era: a nationwide study in Japan</article-title>. <source xml:lang="en">Br J Haematol</source>. <year>2015</year>;<volume>170</volume>:<fpage>657</fpage>&#x02010;<lpage>668</lpage>.<pub-id pub-id-type="pmid">25953436</pub-id></mixed-citation></ref><ref id="cas13719-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cas13719-cit-0023">
+<string-name>
+<surname>Chen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Bernstein</surname>
+<given-names>SH</given-names>
+</string-name>, et al. <article-title>RB but not R&#x02010;HCVAD is a feasible induction regimen prior to auto&#x02010;HCT in frontline MCL: results of SWOG Study S1106</article-title>. <source xml:lang="en">Br J Haematol</source>. <year>2017</year>;<volume>176</volume>(<issue>5</issue>):<fpage>759</fpage>&#x02010;<lpage>769</lpage>.<pub-id pub-id-type="pmid">27992063</pub-id></mixed-citation></ref><ref id="cas13719-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cas13719-cit-0024">
+<string-name>
+<surname>Merli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Luminari</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ilariucci</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Rituximab plus HyperCVAD alternating with high dose cytarabine and methotrexate for the initial treatment of patients with mantle cell lymphoma, a multicenter trial from Gruppo Italiano Studio Linfomi</article-title>. <source xml:lang="en">Br J Haematol</source>. <year>2012</year>;<volume>156</volume>:<fpage>346</fpage>&#x02010;<lpage>353</lpage>.<pub-id pub-id-type="pmid">22145911</pub-id></mixed-citation></ref><ref id="cas13719-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cas13719-cit-0025">
+<string-name>
+<surname>Wang</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Rule</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>BTK with ibrutinib in relapsed or refractory mantle&#x02010;cell lymphoma</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2013</year>;<volume>369</volume>:<fpage>507</fpage>&#x02010;<lpage>516</lpage>.<pub-id pub-id-type="pmid">23782157</pub-id></mixed-citation></ref></ref-list></back></article>

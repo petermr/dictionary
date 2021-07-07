@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chan</surname>
+    <given-names>A-W</given-names>
+   </name>
+   <name>
+    <surname>Tetzlaff</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Altman</surname>
+    <given-names>DG</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>SPIRIT 2013 Statement: defining standard protocol items for clinical trials</article-title>
+  <source>Ann Intern Med</source>
+  <year>2013</year>
+  <volume>158</volume>
+  <fpage>200</fpage>
+  <lpage>207</lpage>
+  <pub-id pub-id-type="doi">10.7326/0003-4819-158-3-201302050-00583</pub-id>
+  <?supplied-pmid 23295957?>
+  <pub-id pub-id-type="pmid">23295957</pub-id>
+ </element-citation>
+</ref>

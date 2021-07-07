@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f2-1031308" position="float">
+ <label>Figure 2.</label>
+ <caption>
+  <p>Mutational profile of patients studied. Each column indicates a patient, while each row indicates a gene tested (right label) and the percent of patients mutated for each gene (left label). Each mutation is colored according to the mutation type(s) present. Bar plots show the number of mutations per patient (top) and the total number of mutations per gene (right).</p>
+ </caption>
+ <graphic xlink:href="1031308.fig2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

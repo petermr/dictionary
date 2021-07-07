@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR46">
+ <label>46.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vesely</surname>
+    <given-names>MD</given-names>
+   </name>
+   <name>
+    <surname>Kershaw</surname>
+    <given-names>MH</given-names>
+   </name>
+   <name>
+    <surname>Schreiber</surname>
+    <given-names>RD</given-names>
+   </name>
+   <name>
+    <surname>Smyth</surname>
+    <given-names>MJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Natural innate and adaptive immunity to cancer</article-title>
+  <source>Annu Rev Immunol</source>
+  <year>2011</year>
+  <volume>29</volume>
+  <fpage>235</fpage>
+  <lpage>271</lpage>
+  <pub-id pub-id-type="doi">10.1146/annurev-immunol-031210-101324</pub-id>
+  <?supplied-pmid 21219185?>
+  <pub-id pub-id-type="pmid">21219185</pub-id>
+ </element-citation>
+</ref>

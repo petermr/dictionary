@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0323-6129</contrib-id>
+  <name>
+   <surname>Paterson</surname>
+   <given-names>Kade L.</given-names>
+  </name>
+  <address>
+   <email>kade.paterson@unimelb.edu.au</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hunter</surname>
+   <given-names>David J.</given-names>
+  </name>
+  <address>
+   <email>david.hunter@sydney.edu.au</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Metcalf</surname>
+   <given-names>Ben R.</given-names>
+  </name>
+  <address>
+   <email>b.metcalf@unimelb.edu.au</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Eyles</surname>
+   <given-names>Jillian</given-names>
+  </name>
+  <address>
+   <email>jillian.eyles@sydney.edu.au</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Duong</surname>
+   <given-names>Vicky</given-names>
+  </name>
+  <address>
+   <email>vicky.duong@sydney.edu.au</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kazsa</surname>
+   <given-names>Jessica</given-names>
+  </name>
+  <address>
+   <email>jessica.kasza@monash.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Yuanyuan</given-names>
+  </name>
+  <address>
+   <email>yuanyuan.wang@monash.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Buchbinder</surname>
+   <given-names>Rachelle</given-names>
+  </name>
+  <address>
+   <email>rachelle.buchbinder@monash.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cicuttini</surname>
+   <given-names>Flavia</given-names>
+  </name>
+  <address>
+   <email>flavia.cicuttini@monash.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Forbes</surname>
+   <given-names>Andrew</given-names>
+  </name>
+  <address>
+   <email>andrew.forbes@monash.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Harris</surname>
+   <given-names>Anthony</given-names>
+  </name>
+  <address>
+   <email>anthony.harris@monash.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yu</surname>
+   <given-names>Shirley P.</given-names>
+  </name>
+  <address>
+   <email>shirleyyu@uni.sydney.edu.au</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Bing Hui</given-names>
+  </name>
+  <address>
+   <email>bing.wang@monash.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Connell</surname>
+   <given-names>David</given-names>
+  </name>
+  <address>
+   <email>d.connell@iop.net.au</email>
+  </address>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Linklater</surname>
+   <given-names>James</given-names>
+  </name>
+  <address>
+   <email>linklj@bigpond.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bennell</surname>
+   <given-names>Kim L.</given-names>
+  </name>
+  <address>
+   <email>k.bennell@unimelb.edu.au</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2179 088X</institution-id>
+   <institution-id institution-id-type="GRID">grid.1008.9</institution-id>
+   <institution>Centre for Health, Exercise and Sports Medicine, Department of Physiotherapy, School of Health Sciences, Faculty of Medicine Dentistry &amp; Health Sciences, </institution>
+   <institution>The University of Melbourne, </institution>
+  </institution-wrap>Melbourne, VIC Australia 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 834X</institution-id>
+   <institution-id institution-id-type="GRID">grid.1013.3</institution-id>
+   <institution>Rheumatology Department, Royal North Shore Hospital Australia and Institute of Bone and Joint Research, Kolling Institute, </institution>
+   <institution>University of Sydney, </institution>
+  </institution-wrap>Sydney, Australia 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 7857</institution-id>
+   <institution-id institution-id-type="GRID">grid.1002.3</institution-id>
+   <institution>Department of Epidemiology and Preventive Medicine, School of Public Health and Preventive Medicine, </institution>
+   <institution>Monash University, </institution>
+  </institution-wrap>Melbourne, Australia 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>Monash Department of Clinical Epidemiology, Cabrini Institute, Melbourne, Australia 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0432 511X</institution-id>
+   <institution-id institution-id-type="GRID">grid.1623.6</institution-id>
+   <institution>Musculoskeletal Unit, Department of Epidemiology and Preventive Medicine, </institution>
+   <institution>Monash University and Rheumatology Unit, Alfred Hospital, </institution>
+  </institution-wrap>Melbourne, Australia 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 7857</institution-id>
+   <institution-id institution-id-type="GRID">grid.1002.3</institution-id>
+   <institution>Centre for Health Economics, </institution>
+   <institution>Monash University, </institution>
+  </institution-wrap>Melbourne, Australia 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 7857</institution-id>
+   <institution-id institution-id-type="GRID">grid.1002.3</institution-id>
+   <institution>Monash Centre of Cardiovascular Research &amp; Education in Therapeutics, Department of Epidemiology and Preventive Medicine, </institution>
+   <institution>Monash University, </institution>
+  </institution-wrap>Melbourne, Australia 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>Imaging at Olympic Park, Melbourne, Australia 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>Castlereagh Imaging, Sydney, Australia 
+ </aff>
+</contrib-group>

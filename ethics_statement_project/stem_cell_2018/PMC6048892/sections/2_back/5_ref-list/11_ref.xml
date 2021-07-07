@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Giannone</surname>
+    <given-names>L</given-names>
+   </name>
+  </person-group>
+  <article-title>Favorable Prognosis of Brain Metastases in Small Cell Lung Cancer</article-title>
+  <source>Ann Intern Med.</source>
+  <year>1987</year>
+  <volume>106</volume>
+  <fpage>386</fpage>
+  <pub-id pub-id-type="doi">10.7326/0003-4819-106-3-386</pub-id>
+  <?supplied-pmid 3028222?>
+  <pub-id pub-id-type="pmid">3028222</pub-id>
+ </element-citation>
+</ref>

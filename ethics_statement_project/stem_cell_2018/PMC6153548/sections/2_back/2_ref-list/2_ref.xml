@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Solimando</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>Ribatti</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Vacca</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Einsele</surname>
+    <given-names>H</given-names>
+   </name>
+  </person-group>
+  <article-title>Targeting B-cell non Hodgkin lymphoma: new and old tricks</article-title>
+  <source>Leuk Res</source>
+  <year>2016</year>
+  <volume>42</volume>
+  <fpage>93</fpage>
+  <lpage>104</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.leukres.2015.11.001</pub-id>
+  <?supplied-pmid 26818572?>
+  <pub-id pub-id-type="pmid">26818572</pub-id>
+ </element-citation>
+</ref>

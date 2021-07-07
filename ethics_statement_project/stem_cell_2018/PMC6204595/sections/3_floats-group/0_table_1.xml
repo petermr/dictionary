@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jcsm12316-tbl-0001" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Characteristics of PLX PAD cells in comparison to BM MSC</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col align="left" span="1"/>
+  <col align="char" char="." span="1"/>
+  <col align="char" char="." span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="char" char="." span="1"/>
+  <col align="char" char="." span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <thead valign="bottom">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Marker</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">PLX‐PAD</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">BM MSC</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">PLX‐PAD</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">BM MSC</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Marker</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">PLX‐PAD</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">BM MSC</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">PLX‐PAD</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">BM MSC</th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD1a</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.91</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.08</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD104</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.03</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD1b</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.07</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD105</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">33.60</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">18.31</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD1d</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.35</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD106</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.98</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD2</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.92</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.11</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD107a</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.26</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">7.17</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD3</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.93</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.15</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD108</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">53.72</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">12.24</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD4</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.98</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.14</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD109</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.80</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">11.18</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD5</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.96</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.14</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD112</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.65</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">15.55</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD6</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.11</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD114</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.95</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.97</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD7</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.11</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD116</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.50</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.90</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD8a</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.98</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.10</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD117</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.93</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.04</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD9</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">21.04</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">95.75</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD119</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.05</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.11</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD10</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">11.07</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">7.87</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD122</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.84</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD11a</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.04</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.02</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD123</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.10</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.79</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD11b</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.92</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.06</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD124</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.02</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.09</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD11c</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.92</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.11</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD126</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.03</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.02</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD13</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">55.07</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">217.92</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">++</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD127</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.64</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD14</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.15</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD132</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.03</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.56</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD15</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.97</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.13</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD134</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.97</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.22</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD16</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.95</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.08</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD135</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.02</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.04</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD18</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.96</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.15</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD137</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.96</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.15</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD19</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.94</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.09</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD137L</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.96</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.71</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD20</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.97</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.90</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD138</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.29</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.62</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD21</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.91</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.02</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD140a</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.79</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.44</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD22</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.91</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD140b</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">20.26</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.37</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD23</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.92</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.06</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD141</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.08</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.77</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD24</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.07</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.14</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD144</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">26.88</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.25</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD25</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.95</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.93</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD146</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">17.08</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">14.29</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD26</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.85</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.81</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD150</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">20.86</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD27</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD152</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.07</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD28</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.97</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.12</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD154</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.97</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">44.83</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD29</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">42.31</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">268.79</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">++</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD158a</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD30</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.96</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.11</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD158b</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.02</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD31</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.88</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.13</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD161</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.11</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD32</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.94</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.18</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD162</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.09</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.24</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD33</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.89</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.24</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD163</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.06</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.88</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD34</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.98</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.13</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD164</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">12.23</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">29.09</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD35</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.91</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.06</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD165</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">6.66</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">6.63</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD36</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.97</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.27</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD166</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">27.19</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">123.63</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">++</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD38</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.98</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.22</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD172b</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.13</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.77</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD39</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.98</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.25</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD178</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.94</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD40</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.22</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD180</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.97</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD41</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.12</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD181</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.06</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.73</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD42b</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.93</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.17</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD183</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.02</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.96</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD43</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.92</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.53</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD184</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.81</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD44</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">454.30</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">536.28</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">++</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">++</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD193</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.28</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">3.53</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD45</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.19</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD195</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.06</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD45RA</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.96</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD196</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.22</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD45RB</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.95</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.82</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD197</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.96</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD45RO</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.97</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD200</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.85</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD46</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">29.60</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.47</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD201</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">3.51</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">5.55</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD47</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">30.72</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">32.72</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD205</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.98</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.17</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD48</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.97</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.29</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD206</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.98</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.79</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD49a</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">27.69</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">3.58</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD209</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.09</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.78</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD49c</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">71.64</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">75.68</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD210</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.04</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD49d</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">27.06</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">5.66</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD220</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.10</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.21</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD49e</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">67.45</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">91.58</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD221</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">3.94</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.98</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD49f</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">37.65</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">35.43</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD226</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.03</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.11</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD50</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD229</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.78</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.84</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD51</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">16.64</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">34.82</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD231</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.04</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.11</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD53</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.91</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.26</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD235a</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.06</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.39</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD54</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">9.41</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">9.68</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD243</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.07</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.49</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD55</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">77.31</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">12.99</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD244</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.96</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.08</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD56</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.73</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.41</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD255</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.03</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.08</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD57</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.10</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD267</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.02</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD58</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">15.91</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">15.72</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD268</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.06</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD59</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">122.19</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.75</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">++</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD271</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.28</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD61</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">17.67</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD273</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">18.45</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">9.22</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD62E</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.92</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.08</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD274</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">14.77</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">3.98</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD62L</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.95</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.16</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD275</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.03</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.09</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD62P</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.90</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">55.77</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD278</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.94</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD63</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">24.50</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">352.06</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">++</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD279</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.98</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.13</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD64</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.90</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.13</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD282</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.95</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.95</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD66acde</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.94</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.13</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD294</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.02</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.97</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD66b</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.02</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.12</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD314</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.21</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD69</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.02</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD326</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.12</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.92</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD70</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">8.76</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CDw328</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.96</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.98</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD71</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">13.24</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">26.78</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD335</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD73</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">95.12</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">75.35</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD336</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.94</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.25</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD74</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.29</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD337</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.96</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.12</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD79b</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.26</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD338</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.19</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.09</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD80</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.43</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.16</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD340</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">8.48</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.84</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD81</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">153.86</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">93.47</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">++</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">abTCR</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.07</td>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD83</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.94</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.49</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">b2 micro globulin</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">45.89</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">199.48</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">++</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD84</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.04</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.22</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">BLTR</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.98</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.26</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD85</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.04</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.13</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">EGF R</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">34.74</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">16.83</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD86</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.96</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.95</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">HLA_A2</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.03</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.09</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD87</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.28</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">HLA_ABC</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">99.57</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">13.81</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD88</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.74</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">HLA_DQ</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">3.24</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.04</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD89</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.93</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.13</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">HLA_DR</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.02</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.92</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD90</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">25.98</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">61.91</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Integrin b7</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.90</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD93</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.98</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.96</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">MIC A_B</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.13</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2.41</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD94</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.64</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">SSEA_1</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.95</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.95</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD95</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">25.84</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">17.57</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">SSEA_3</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.98</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD97</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">6.09</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">7.95</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">SSEA_4</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">3.38</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">7.30</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD99</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">10.94</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">203.49</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">+</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">++</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">TRA_1_60</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.91</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.10</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD100</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.04</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.07</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">TRA_1_81</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.07</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.04</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD102</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.11</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.93</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Vb23</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.08</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.12</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CD103</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.93</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">0.77</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Vb8</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">−</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="jcsm12316-note-0002">
+   <p>Data are shown as x‐fold expression/MFI compared with isotype control: +++: &gt;1000 fold; ++: &gt;100 fold, +: &gt;10 fold, and −: negative vs. isotype control. BM MSC: bone marrow‐derived mesenchymal stromal cells.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

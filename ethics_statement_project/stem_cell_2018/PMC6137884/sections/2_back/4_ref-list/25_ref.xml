@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Weisz</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Généreux</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Iñiguez</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Ranolazine in patients with incomplete revascularisation after percutaneous coronary intervention (RIVER-PCI): a multicentre, randomised, double-blind, placebo-controlled trial</article-title>
+  <source>Lancet</source>
+  <year>2016</year>
+  <volume>387</volume>
+  <fpage>136</fpage>
+  <lpage>145</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(15)00459-6</pub-id>
+  <pub-id pub-id-type="pmid">26474810</pub-id>
+ </element-citation>
+</ref>

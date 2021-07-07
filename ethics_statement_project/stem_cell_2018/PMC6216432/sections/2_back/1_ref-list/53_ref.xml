@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="sct312347-bib-0053">
+ <label>53</label>
+ <mixed-citation publication-type="journal" id="sct312347-cit-0053">
+  <string-name>
+   <surname>Delorme</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Makeig</surname>
+   <given-names>S</given-names>
+  </string-name>. 
+  <article-title>EEGLAB: An open source toolbox for analysis of single‐trial EEG dynamics including independent component analysis</article-title>. 
+  <source xml:lang="en">J Neurosci Methods</source>
+  <year>2004</year>;
+  <volume>134</volume>:
+  <fpage>9</fpage>–
+  <lpage>21</lpage>.
+  <pub-id pub-id-type="pmid">15102499</pub-id>
+ </mixed-citation>
+</ref>

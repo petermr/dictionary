@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Grupp</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Kalos</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Barrett</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Aplenc</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Porter</surname>
+    <given-names>DL</given-names>
+   </name>
+   <name>
+    <surname>Rheingold</surname>
+    <given-names>SR</given-names>
+   </name>
+   <name>
+    <surname>Teachey</surname>
+    <given-names>DT</given-names>
+   </name>
+   <name>
+    <surname>Chew</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Hauck</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Wright</surname>
+    <given-names>JF</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Chimeric antigen receptor-modified T cells for acute lymphoid leukemia</article-title>
+  <source>N Engl J Med</source>
+  <year>2013</year>
+  <volume>368</volume>
+  <issue>16</issue>
+  <fpage>1509</fpage>
+  <lpage>1518</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1215134</pub-id>
+  <?supplied-pmid 23527958?>
+  <pub-id pub-id-type="pmid">23527958</pub-id>
+ </element-citation>
+</ref>

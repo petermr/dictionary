@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mathurin</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Moreno</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Samuel</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Early liver transplantation for severe alcoholic hepatitis</article-title>
+  <source>N Engl J Med</source>
+  <year>2011</year>
+  <volume>365</volume>
+  <fpage>1790</fpage>
+  <lpage>1800</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1105703</pub-id>
+  <pub-id pub-id-type="pmid">22070476</pub-id>
+ </element-citation>
+</ref>

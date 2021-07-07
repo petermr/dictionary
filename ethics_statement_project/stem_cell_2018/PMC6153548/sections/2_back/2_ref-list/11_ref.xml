@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kaminski</surname>
+    <given-names>MS</given-names>
+   </name>
+   <name>
+    <surname>Fig</surname>
+    <given-names>LM</given-names>
+   </name>
+   <name>
+    <surname>Zasadny</surname>
+    <given-names>KR</given-names>
+   </name>
+   <name>
+    <surname>Koral</surname>
+    <given-names>KF</given-names>
+   </name>
+   <name>
+    <surname>DelRosario</surname>
+    <given-names>RB</given-names>
+   </name>
+   <name>
+    <surname>Francis</surname>
+    <given-names>IR</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Imaging, dosimetry, and radioimmunotherapy with iodine 131-labeled anti-CD37 antibody in B-cell lymphoma</article-title>
+  <source>J Clin Oncol</source>
+  <year>1992</year>
+  <volume>10</volume>
+  <fpage>1696</fpage>
+  <lpage>1711</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.1992.10.11.1696</pub-id>
+  <?supplied-pmid 1403053?>
+  <pub-id pub-id-type="pmid">1403053</pub-id>
+ </element-citation>
+</ref>

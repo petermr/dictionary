@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cross</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Hoy</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Nolte</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Ackerman</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Fransen</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Bridgett</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Williams</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Guillemin</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Hill</surname>
+    <given-names>CL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The global burden of hip and knee osteoarthritis: estimates from the global burden of disease 2010 study</article-title>
+  <source>Ann Rheum Dis</source>
+  <year>2014</year>
+  <volume>73</volume>
+  <fpage>1323</fpage>
+  <lpage>1330</lpage>
+  <pub-id pub-id-type="doi">10.1136/annrheumdis-2013-204763</pub-id>
+  <?supplied-pmid 24553908?>
+  <pub-id pub-id-type="pmid">24553908</pub-id>
+ </element-citation>
+</ref>

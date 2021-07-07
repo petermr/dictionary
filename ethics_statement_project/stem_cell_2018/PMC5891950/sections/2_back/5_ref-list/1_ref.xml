@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Laroni</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Rosbo</surname>
+    <given-names>NK</given-names>
+   </name>
+   <name>
+    <surname>Uccelli</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Mesenchymal stem cells for the treatment of neurological diseases: immunoregulation beyond neuroprotection</article-title>
+  <source>Immunol Lett</source>
+  <year>2015</year>
+  <volume>168</volume>
+  <fpage>183</fpage>
+  <lpage>190</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.imlet.2015.08.007</pub-id>
+  <?supplied-pmid 26296458?>
+  <pub-id pub-id-type="pmid">26296458</pub-id>
+ </element-citation>
+</ref>

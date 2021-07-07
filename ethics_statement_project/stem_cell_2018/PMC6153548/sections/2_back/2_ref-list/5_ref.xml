@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lapalombella</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Yeh</surname>
+    <given-names>YY</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Ramanunni</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Rafiq</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Jha</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Tetraspanin CD37 directly mediates transduction of survival and apoptotic signals</article-title>
+  <source>Cancer Cell</source>
+  <year>2012</year>
+  <volume>21</volume>
+  <fpage>694</fpage>
+  <lpage>708</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ccr.2012.03.040</pub-id>
+  <?supplied-pmid 22624718?>
+  <pub-id pub-id-type="pmid">22624718</pub-id>
+ </element-citation>
+</ref>

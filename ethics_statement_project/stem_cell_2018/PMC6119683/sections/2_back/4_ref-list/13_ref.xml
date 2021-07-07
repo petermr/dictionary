@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wu</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Bencaz</surname>
+    <given-names>AF</given-names>
+   </name>
+   <name>
+    <surname>Hentz</surname>
+    <given-names>JG</given-names>
+   </name>
+   <name>
+    <surname>Crowell</surname>
+    <given-names>MD</given-names>
+   </name>
+  </person-group>
+  <article-title>Selective serotonin reuptake inhibitor treatment and risk of fractures: a meta-analysis of cohort and case-control studies</article-title>
+  <source>Osteoporos. Int.</source>
+  <year>2012</year>
+  <volume>23</volume>
+  <fpage>365</fpage>
+  <lpage>375</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00198-011-1778-8</pub-id>
+  <?supplied-pmid 21904950?>
+  <pub-id pub-id-type="pmid">21904950</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Dyar</surname>
+    <given-names>OJ</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Huttner</surname>
+    <given-names>B</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Schouten</surname>
+    <given-names>J</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>What is antimicrobial stewardship?</article-title>
+  <source>Clin Microbiol Infect</source>
+  <year>2017</year>;
+  <volume>23</volume>:
+  <fpage>793</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.cmi.2017.08.026</pub-id>
+  <pub-id pub-id-type="pmid">28882725</pub-id>
+ </mixed-citation>
+</ref>

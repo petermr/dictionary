@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ravens</surname>
+   <given-names>Sarina</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+  <xref ref-type="author-notes" rid="fn001">
+   <sup>†</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/515408" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hengst</surname>
+   <given-names>Julia</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="fn001">
+   <sup>†</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/75594" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Schlapphoff</surname>
+   <given-names>Verena</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Deterding</surname>
+   <given-names>Katja</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dhingra</surname>
+   <given-names>Akshay</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/522458" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Schultze-Florey</surname>
+   <given-names>Christian</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff4">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Koenecke</surname>
+   <given-names>Christian</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff4">
+   <sup>4</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/422088" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cornberg</surname>
+   <given-names>Markus</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/109243" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wedemeyer</surname>
+   <given-names>Heiner</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff5">
+   <sup>5</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="fn002">
+   <sup>‡</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/353291" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Prinz</surname>
+   <given-names>Immo</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+  <xref ref-type="author-notes" rid="fn002">
+   <sup>‡</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/24822" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+</contrib-group>

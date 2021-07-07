@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib18">
+ <label>18</label>
+ <element-citation publication-type="journal" id="sbref180">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McCarthy</surname>
+    <given-names>PL</given-names>
+   </name>
+   <name>
+    <surname>Holstein</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Petrucci</surname>
+    <given-names>MT</given-names>
+   </name>
+  </person-group>
+  <article-title>Lenalidomide maintenance after autologous stem-cell transplantation in newly diagnosed multiple myeloma: a meta-analysis</article-title>
+  <source>J Clin Oncol</source>
+  <volume>35</volume>
+  <year>2017</year>
+  <fpage>3279</fpage>
+  <lpage>3289</lpage>
+  <pub-id pub-id-type="pmid">28742454</pub-id>
+ </element-citation>
+</ref>

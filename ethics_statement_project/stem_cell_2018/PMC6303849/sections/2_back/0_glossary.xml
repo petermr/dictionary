@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>AFP</term>
+   <def>
+    <p id="Par5">Alpha-fetoprotein</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AH</term>
+   <def>
+    <p id="Par6">Alcoholic hepatitis</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AHHS</term>
+   <def>
+    <p id="Par7">Acoholic hepatitis histologic sore</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ALT</term>
+   <def>
+    <p id="Par8">Alanine aminotransferase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ANOVA</term>
+   <def>
+    <p id="Par9">Analysis of variance</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AST</term>
+   <def>
+    <p id="Par10">Aspartate aminotransferase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AUROC</term>
+   <def>
+    <p id="Par11">Area under the receiver operating characteristic curve</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CBC</term>
+   <def>
+    <p id="Par12">Complete blood cell count</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CLIF-SOFA</term>
+   <def>
+    <p id="Par13">Chronic liver failure sequential organ failure assessment</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CR</term>
+   <def>
+    <p id="Par14">Complete response</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DF</term>
+   <def>
+    <p id="Par15">Discriminant function</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EASL</term>
+   <def>
+    <p id="Par16">European Association for the Study of the Liver</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>eCRF</term>
+   <def>
+    <p id="Par17">Electronic clinical record form</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>G-CSF</term>
+   <def>
+    <p id="Par18">Granulocyte colony stimulating factor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HVPG</term>
+   <def>
+    <p id="Par19">Hepatic venous pressure gradient</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ITT</term>
+   <def>
+    <p id="Par20">Intention to treat</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MDF</term>
+   <def>
+    <p id="Par21">Maddrey’s discriminant function</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MELD</term>
+   <def>
+    <p id="Par22">Model for end-stage liver disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NMDP</term>
+   <def>
+    <p id="Par23">National Marrow Donor Program</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NR</term>
+   <def>
+    <p id="Par24">Null response</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OS</term>
+   <def>
+    <p id="Par25">Overall survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PR</term>
+   <def>
+    <p id="Par26">Partial response</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

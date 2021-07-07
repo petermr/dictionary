@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Andersen</surname>
+    <given-names>BM</given-names>
+   </name>
+   <name>
+    <surname>Ohlfest</surname>
+    <given-names>JR</given-names>
+   </name>
+  </person-group>
+  <article-title>Increasing the efficacy of tumor cell vaccines by enhancing cross priming</article-title>
+  <source>Cancer Lett</source>
+  <year>2012</year>
+  <volume>325</volume>
+  <fpage>155</fpage>
+  <lpage>164</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.canlet.2012.07.012</pub-id>
+  <?supplied-pmid 22809568?>
+  <pub-id pub-id-type="pmid">22809568</pub-id>
+ </element-citation>
+</ref>

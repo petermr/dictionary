@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tepper</surname>
+    <given-names>OM</given-names>
+   </name>
+   <name>
+    <surname>Galiano</surname>
+    <given-names>RD</given-names>
+   </name>
+   <name>
+    <surname>Capla</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Kalka</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Gagne</surname>
+    <given-names>PJ</given-names>
+   </name>
+   <name>
+    <surname>Jacobowitz</surname>
+    <given-names>GR</given-names>
+   </name>
+   <name>
+    <surname>Levine</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Gurtner</surname>
+    <given-names>GC</given-names>
+   </name>
+  </person-group>
+  <article-title>Human endothelial progenitor cells from type II diabetics exhibit impaired proliferation, adhesion, and incorporation into vascular structures</article-title>
+  <source>Circulation</source>
+  <year>2002</year>
+  <volume>106</volume>
+  <fpage>2781</fpage>
+  <lpage>2786</lpage>
+  <pub-id pub-id-type="doi">10.1161/01.CIR.0000039526.42991.93</pub-id>
+  <?supplied-pmid 12451003?>
+  <pub-id pub-id-type="pmid">12451003</pub-id>
+ </element-citation>
+</ref>

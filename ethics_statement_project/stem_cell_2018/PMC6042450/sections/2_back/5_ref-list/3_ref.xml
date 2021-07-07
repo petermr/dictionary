@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Chang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Yao</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Role of angiogenesis in endometrial repair of patients with severe intrauterine adhesion</article-title>
+  <source>Int J Clin Exp Pathol</source>
+  <year>2013</year>
+  <volume>6</volume>
+  <issue>7</issue>
+  <fpage>1343</fpage>
+  <lpage>1350</lpage>
+  <?supplied-pmid 23826415?>
+  <pub-id pub-id-type="pmid">23826415</pub-id>
+ </element-citation>
+</ref>

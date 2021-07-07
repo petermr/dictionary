@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fragou</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Gravvanis</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Dimitriou</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Papalois</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Kouraklis</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Karabinis</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Saranteas</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Poularas</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Papanikolaou</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Davlouros</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Real-time ultrasound-guided subclavian vein cannulation versus the landmark method in critical care patients: a prospective randomized study</article-title>
+  <source>Crit Care Med.</source>
+  <year>2011</year>
+  <volume>39</volume>
+  <fpage>1607</fpage>
+  <lpage>1612</lpage>
+  <pub-id pub-id-type="doi">10.1097/CCM.0b013e318218a1ae</pub-id>
+  <?supplied-pmid 21494105?>
+  <pub-id pub-id-type="pmid">21494105</pub-id>
+ </element-citation>
+</ref>

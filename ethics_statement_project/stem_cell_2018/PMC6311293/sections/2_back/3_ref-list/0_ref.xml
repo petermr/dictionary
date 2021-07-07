@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Meyers</surname>
+    <given-names>C. A.</given-names>
+   </name>
+   <name>
+    <surname>Rock</surname>
+    <given-names>E. P.</given-names>
+   </name>
+   <name>
+    <surname>Fine</surname>
+    <given-names>H. A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Refining endpoints in brain tumor clinical trials</article-title>
+  <source>
+   <italic toggle="yes">Journal of Neuro-Oncology</italic>
+  </source>
+  <year>2012</year>
+  <volume>108</volume>
+  <issue>2</issue>
+  <fpage>227</fpage>
+  <lpage>230</lpage>
+  <pub-id pub-id-type="doi">10.1007/s11060-012-0813-8</pub-id>
+  <pub-id pub-id-type="pmid">22451194</pub-id>
+ </element-citation>
+</ref>

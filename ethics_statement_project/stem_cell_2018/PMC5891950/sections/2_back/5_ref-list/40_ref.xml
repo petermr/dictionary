@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bauer</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Dao</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Case</surname>
+    <given-names>SS</given-names>
+   </name>
+   <name>
+    <surname>Meyerrose</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Wirthlin</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>In vivo biosafety model to assess the risk of adverse events from retroviral and lentiviral vectors</article-title>
+  <source>Mol Ther</source>
+  <year>2008</year>
+  <volume>16</volume>
+  <fpage>1308</fpage>
+  <lpage>1315</lpage>
+  <pub-id pub-id-type="doi">10.1038/mt.2008.93</pub-id>
+  <?supplied-pmid 18461052?>
+  <pub-id pub-id-type="pmid">18461052</pub-id>
+ </element-citation>
+</ref>

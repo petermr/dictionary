@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brenner</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Gondos</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Pulte</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Recent major improvement in long-term survival of younger patients with multiple myeloma</article-title>
+  <source>Blood</source>
+  <year>2008</year>
+  <volume>111</volume>
+  <issue>5</issue>
+  <fpage>2521</fpage>
+  <lpage>2526</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2007-08-104984</pub-id>
+  <pub-id pub-id-type="pmid">17901246</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tbl4" position="float">
+ <label>Table 4</label>
+ <caption>
+  <p>Adverse events by treatment</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th colspan="3" align="left">
+     <bold>CHOP (n=42)</bold>
+     <hr/>
+    </th>
+    <th colspan="3" align="left">
+     <bold>GEM-P (n=44)</bold>
+     <hr/>
+    </th>
+   </tr>
+   <tr>
+    <th/>
+    <th align="left">Grade 1–2</th>
+    <th align="left">Grade 3</th>
+    <th align="left">Grade 4</th>
+    <th align="left">Grade 1–2</th>
+    <th align="left">Grade 3</th>
+    <th align="left">Grade 4</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Acute renal toxicity</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Alopecia
+     <xref rid="tbl4fn1" ref-type="table-fn">*</xref>
+    </td>
+    <td align="left">27 (64%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">12 (27%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Anaemia</td>
+    <td align="left">23 (55%)</td>
+    <td align="left">4 (10%)</td>
+    <td align="left">0</td>
+    <td align="left">22 (50%)</td>
+    <td align="left">5 (11%)</td>
+    <td align="left">1 (2%)</td>
+   </tr>
+   <tr>
+    <td align="left">Constipation</td>
+    <td align="left">18 (43%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">20 (45%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Cerebrovascular accident</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">1 (2%)</td>
+   </tr>
+   <tr>
+    <td align="left">Diarrhoea</td>
+    <td align="left">15 (36%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">13 (30%)</td>
+    <td align="left">2 (5%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Dyspnoea</td>
+    <td align="left">4 (10%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">6 (14%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Fatigue</td>
+    <td align="left">29 (69%)</td>
+    <td align="left">2 (5%)</td>
+    <td align="left">0</td>
+    <td align="left">35 (80%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Febrile neutropenia
+     <xref rid="tbl4fn2" ref-type="table-fn">†</xref>
+    </td>
+    <td align="left">0</td>
+    <td align="left">10 (24%)</td>
+    <td align="left">2 (5%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">3 (7%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Fever</td>
+    <td align="left">11 (26%)</td>
+    <td align="left">3 (7%)</td>
+    <td align="left">0</td>
+    <td align="left">11 (25%)</td>
+    <td align="left">2 (5%)</td>
+    <td align="left">1 (2%)</td>
+   </tr>
+   <tr>
+    <td align="left">Haemorrhage</td>
+    <td align="left">4 (10%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">7 (16%)</td>
+    <td align="left">0</td>
+    <td align="left">1 (2%)</td>
+   </tr>
+   <tr>
+    <td align="left">Headache
+     <xref rid="tbl4fn1" ref-type="table-fn">*</xref>
+    </td>
+    <td align="left">4 (10%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">13 (30%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Hyperglycaemia</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+    <td align="left">3 (7%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Hypertension</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+    <td align="left">3 (7%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Hypotension</td>
+    <td align="left">3 (7%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+    <td align="left">5 (11%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Indigestion</td>
+    <td align="left">14 (33%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">8 (18%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Infection</td>
+    <td align="left">8 (19%)</td>
+    <td align="left">7 (17%)</td>
+    <td align="left">0</td>
+    <td align="left">14 (32%)</td>
+    <td align="left">4 (9%)</td>
+    <td align="left">2 (5%)</td>
+   </tr>
+   <tr>
+    <td align="left">Infusion reaction</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Mood disturbance</td>
+    <td align="left">6 (14%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">7 (16%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Mucositis
+     <xref rid="tbl4fn1" ref-type="table-fn">*</xref>
+    </td>
+    <td align="left">20 (48%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+    <td align="left">11 (25%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Nausea</td>
+    <td align="left">17 (40%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">22 (50%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Neuropathy</td>
+    <td align="left">11 (26%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+    <td align="left">7 (16%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Neutropenia</td>
+    <td align="left">5 (12%)</td>
+    <td align="left">2 (5%)</td>
+    <td align="left">15 (36%)</td>
+    <td align="left">7 (16%)</td>
+    <td align="left">5 (11%)</td>
+    <td align="left">4 (9%)</td>
+   </tr>
+   <tr>
+    <td align="left">Pulmonary embolus</td>
+    <td align="left">0</td>
+    <td align="left">2 (5%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Pruritus</td>
+    <td align="left">7 (17%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">9 (20%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Skin rash</td>
+    <td align="left">7 (17%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">12 (27%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Thrombocytopenia
+     <xref rid="tbl4fn2" ref-type="table-fn">†</xref>
+    </td>
+    <td align="left">8 (19%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">3 (7%)</td>
+    <td align="left">16 (36%)</td>
+    <td align="left">8 (18%)</td>
+    <td align="left">5 (11%)</td>
+   </tr>
+   <tr>
+    <td align="left">Tinnitus
+     <xref rid="tbl4fn1" ref-type="table-fn">*</xref>
+    </td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">12 (27%)</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Vomiting</td>
+    <td align="left">12 (29%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+    <td align="left">13 (30%)</td>
+    <td align="left">2 (5%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Weight loss</td>
+    <td align="left">10 (24%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+    <td align="left">9 (20%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Other toxicity</td>
+    <td align="left">23 (55%)</td>
+    <td align="left">5 (12%)</td>
+    <td align="left">1 (2%)</td>
+    <td align="left">27 (61%)</td>
+    <td align="left">9 (20%)</td>
+    <td align="left">2 (5%)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>Data are n (%) for adverse events of grade 1–2 occurring in at least 10% of patients and all grade 3–5 events. Two patients (5%) died during the study, both in the GEM-P group, from lung infections. Other adverse events with CHOP of grade 3 or worse were superior mesenteric artery thrombosis (grade 3), muscle weakness (grade 3), insomnia (grade 3), hyponatraemia (grade 4), tumour lysis (grade 3), pain left hip and legs (grade 3), swelling in left knee (grade 3), and squamous cell carcinoma cheek (grade 3). Other adverse events with GEM-P of grade 3 or worse were right flank pain (grade 3), abdominal pain (grade 3), colonic perforation (grade 4), hip pain (grade 3), chest pain (grade 3), chest/abdominal pain (grade 3), paraneoplastic occurrence (grade 4), raised alanine transaminase (grade 3), bone pain (grade 3), dehydration (grade 3), hypokalaemia (grade 3), raised alanine transaminase (grade 3), and cellulitis (grade 3). CHOP=cyclophosphamide, doxorubicin, vincristine, and prednisolone. GEM-P=gemcitabine, cisplatin, and methylprednisolone.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl4fn1">
+   <label>*</label>
+   <p id="cenpara20">p&lt;0.05 for all grades.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl4fn2">
+   <label>†</label>
+   <p id="cenpara30">p&lt;0.05 for all grades and grade 3 or worse.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

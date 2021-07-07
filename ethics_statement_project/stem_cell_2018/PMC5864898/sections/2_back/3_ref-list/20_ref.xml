@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B20">
+ <label>20</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pitard</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Roumanes</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Lafarge</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Couzi</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Garrigue</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Lafon</surname>
+    <given-names>ME</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Long-term expansion of effector/memory Vdelta2-gammadelta T cells is a specific blood signature of CMV infection</article-title>. 
+  <source>Blood</source> (
+  <year>2008</year>) 
+  <volume>112</volume>:
+  <fpage>1317</fpage>–
+  <lpage>24</lpage>.
+  <pub-id pub-id-type="doi">10.1182/blood-2008-01-136713</pub-id>
+  <?supplied-pmid 18539896?>
+  <pub-id pub-id-type="pmid">18539896</pub-id>
+ </mixed-citation>
+</ref>

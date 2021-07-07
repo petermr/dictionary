@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Park</surname>
+   <given-names>Jae H</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0001">1</xref>
+  <xref ref-type="aff" rid="AF0002">2</xref>
+  <xref ref-type="aff" rid="AF0003">3</xref>
+  <xref ref-type="author-notes" rid="fn-0001"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Romero</surname>
+   <given-names>F Andres</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0004">4</xref>
+  <xref ref-type="author-notes" rid="fn-0001"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Taur</surname>
+   <given-names>Ying</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0003">3</xref>
+  <xref ref-type="aff" rid="AF0004">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sadelain</surname>
+   <given-names>Michel</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0003">3</xref>
+  <xref ref-type="aff" rid="AF0005">5</xref>
+  <xref ref-type="aff" rid="AF0006">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brentjens</surname>
+   <given-names>Renier J</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0001">1</xref>
+  <xref ref-type="aff" rid="AF0002">2</xref>
+  <xref ref-type="aff" rid="AF0003">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hohl</surname>
+   <given-names>Tobias M</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0003">3</xref>
+  <xref ref-type="aff" rid="AF0004">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Seo</surname>
+   <given-names>Susan K</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0003">3</xref>
+  <xref ref-type="aff" rid="AF0004">4</xref>
+  <xref ref-type="corresp" rid="c1"/>
+  <!--<email>seos@mskcc.org</email>-->
+ </contrib>
+</contrib-group>

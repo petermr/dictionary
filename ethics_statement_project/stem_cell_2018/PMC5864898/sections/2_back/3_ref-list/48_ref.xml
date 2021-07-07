@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B48">
+ <label>48</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nazarov</surname>
+    <given-names>VI</given-names>
+   </name>
+   <name>
+    <surname>Pogorelyy</surname>
+    <given-names>MV</given-names>
+   </name>
+   <name>
+    <surname>Komech</surname>
+    <given-names>EA</given-names>
+   </name>
+   <name>
+    <surname>Zvyagin</surname>
+    <given-names>IV</given-names>
+   </name>
+   <name>
+    <surname>Bolotin</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Shugay</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>tcR: an R package for T cell receptor repertoire advanced data analysis</article-title>. 
+  <source>BMC Bioinformatics</source> (
+  <year>2015</year>) 
+  <volume>16</volume>:
+  <fpage>175</fpage>.
+  <pub-id pub-id-type="doi">10.1186/s12859-015-0613-1</pub-id>
+  <?supplied-pmid 26017500?>
+  <pub-id pub-id-type="pmid">26017500</pub-id>
+ </mixed-citation>
+</ref>

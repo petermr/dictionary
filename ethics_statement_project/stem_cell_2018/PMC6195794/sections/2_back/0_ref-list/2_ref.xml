@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib2">
+ <label>2</label>
+ <element-citation publication-type="journal" id="sref2">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Illing</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Molday</surname>
+    <given-names>L.L.</given-names>
+   </name>
+   <name>
+    <surname>Molday</surname>
+    <given-names>R.S.</given-names>
+   </name>
+  </person-group>
+  <article-title>The 220-kDa rim protein of retinal rod outer segments is a member of the ABC transporter superfamily</article-title>
+  <source>J Biol Chem</source>
+  <volume>272</volume>
+  <year>1997</year>
+  <fpage>10303</fpage>
+  <lpage>10310</lpage>
+  <pub-id pub-id-type="pmid">9092582</pub-id>
+ </element-citation>
+</ref>

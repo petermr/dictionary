@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jiang</surname>
+    <given-names>XY</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>DB</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>B</given-names>
+   </name>
+  </person-group>
+  <article-title>Progress in stem cell therapy for the diabetic foot</article-title>
+  <source>Diabetes Res Clin Pract</source>
+  <year>2012</year>
+  <volume>97</volume>
+  <issue>1</issue>
+  <fpage>43</fpage>
+  <lpage>50</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.diabres.2011.12.011</pub-id>
+  <?supplied-pmid 22221581?>
+  <pub-id pub-id-type="pmid">22221581</pub-id>
+ </element-citation>
+</ref>

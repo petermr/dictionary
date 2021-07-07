@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xie</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Guo</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Diao</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Gao</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Zhong</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Metabolism and bioactivation of famitinib, a novel inhibitor of receptor tyrosine kinase, in cancer patients</article-title>
+  <source>Br J Pharmacol</source>
+  <year>2013</year>
+  <volume>168</volume>
+  <issue>7</issue>
+  <fpage>1687</fpage>
+  <lpage>1706</lpage>
+  <pub-id pub-id-type="doi">10.1111/bph.12047</pub-id>
+  <pub-id pub-id-type="pmid">23126373</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fanta</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Jonsson</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Backman</surname>
+    <given-names>JT</given-names>
+   </name>
+   <name>
+    <surname>Karlsson</surname>
+    <given-names>MO</given-names>
+   </name>
+   <name>
+    <surname>Hoppu</surname>
+    <given-names>K</given-names>
+   </name>
+  </person-group>
+  <article-title>Developmental pharmacokinetics of ciclosporin—a population pharmacokinetic study in paediatric renal transplant candidates</article-title>
+  <source>Br J Clin Pharmacol.</source>
+  <year>2007</year>
+  <volume>64</volume>
+  <fpage>772</fpage>
+  <lpage>784</lpage>
+  <?supplied-pmid 17662086?>
+  <pub-id pub-id-type="pmid">17662086</pub-id>
+ </element-citation>
+</ref>

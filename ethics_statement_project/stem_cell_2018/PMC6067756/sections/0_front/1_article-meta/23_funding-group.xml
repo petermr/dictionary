@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group id="award001">
+  <funding-source>
+   <institution-wrap>
+    <institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/100001250</institution-id>
+    <institution>Morris Animal Foundation</institution>
+   </institution-wrap>
+  </funding-source>
+  <award-id>D10Z0-034</award-id>
+  <principal-award-recipient>
+   <contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-6060-7213</contrib-id>
+   <name>
+    <surname>Baker</surname>
+    <given-names>Dan L.</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group id="award002">
+  <funding-source>
+   <institution-wrap>
+    <institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/100007149</institution-id>
+    <institution>U.S. Bureau of Land Management</institution>
+   </institution-wrap>
+  </funding-source>
+  <award-id>L14AS00048</award-id>
+  <principal-award-recipient>
+   <contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-6060-7213</contrib-id>
+   <name>
+    <surname>Baker</surname>
+    <given-names>Dan L.</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <funding-statement>During 2009, funding was provided by USGS Fort Collins Science Center. During 2010–2012, funding for this study was provided by the Morris Animal Foundation (Grant No. D10Z0-034) and during 2015–2020 is being provided by the Bureau of Land Management (Agreement No. L14AS00048) to DLB. Additionally, NPS provided funding (2008–2010), as well as significant in-kind support each year of the investigation.</funding-statement>
+</funding-group>

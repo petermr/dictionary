@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Levental</surname>
+    <given-names>KR</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Matrix crosslinking forces tumor progression by enhancing integrin signaling</article-title>
+  <source>Cell</source>
+  <year>2009</year>
+  <volume>139</volume>
+  <fpage>891</fpage>
+  <lpage>906</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2009.10.027</pub-id>
+  <?supplied-pmid 19931152?>
+  <pub-id pub-id-type="pmid">19931152</pub-id>
+ </element-citation>
+</ref>

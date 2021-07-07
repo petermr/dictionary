@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The plasma concentration data of filgrastim, ANC, and CD34
+ <sup>+</sup> cell count was analyzed using non-compartmental analysis engine of Phoenix
+ <sup>®</sup> WinNonlin
+ <sup>®</sup> (version 6.4; Phar-sight, CA, USA). The 
+ <italic>C</italic>
+ <sub>max</sub>, 
+ <italic>E</italic>
+ <sub>max</sub>, and time to 
+ <italic>C</italic>
+ <sub>max</sub> or 
+ <italic>E</italic>
+ <sub>max</sub> (
+ <italic>t</italic>
+ <sub>max</sub>) were directly obtained from the raw data. The terminal slope of plasma filgrastim (λ
+ <sub>z</sub>) was calculated using the automated method, which is based on the maximum best-adjusted coefficient of determination (
+ <italic>R</italic>
+ <sup>2</sup>) with at least 3 points. The terminal half-life of plasma filgrastim (
+ <italic>t</italic>
+ <sub>1/2</sub>) was calculated as follows: 
+ <italic>t</italic>
+ <sub>1/2</sub> = ln2/λ
+ <sub>z</sub>. The area under the time-concentration curve (AUC
+ <sub>0–last</sub>: from time 0 to time of the last quantifiable concentration; AUC
+ <sub>0–∞</sub>: from time 0 extrapolated to infinity) and the area under the time-effect curve from time 0 to time of the last quantifiable effect (AUEC
+ <sub>0–last</sub>) were calculated using the linear trapezoidal method.
+</p>

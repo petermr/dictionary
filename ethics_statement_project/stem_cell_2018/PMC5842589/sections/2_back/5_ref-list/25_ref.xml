@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Palumbo</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Revised international staging system for multiple myeloma: a report from International Myeloma Working Group</article-title>
+  <source>J Clin Oncol</source>
+  <year>2015</year>
+  <volume>33</volume>
+  <issue>26</issue>
+  <fpage>2863</fpage>
+  <lpage>2869</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2015.61.2267</pub-id>
+  <?supplied-pmid 26240224?>
+  <pub-id pub-id-type="pmid">26240224</pub-id>
+ </element-citation>
+</ref>

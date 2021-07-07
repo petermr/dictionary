@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>UGT1A1</term>
+   <def>
+    <p id="Par5">UDP-glucuronosyltransferase family 1 member A1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>UGT1A</term>
+   <def>
+    <p id="Par6">UDP-glucuronosyltransferase 1A subfamily</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Ara-C</term>
+   <def>
+    <p id="Par7">cytarabine</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AML</term>
+   <def>
+    <p id="Par8">acute myeloid leukemia</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CR</term>
+   <def>
+    <p id="Par9">complete remission</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OR</term>
+   <def>
+    <p id="Par10">odds ratio</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CI</term>
+   <def>
+    <p id="Par11">confidence interval</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OS</term>
+   <def>
+    <p id="Par12">overall survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HR</term>
+   <def>
+    <p id="Par13">hazard ratio</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WBC</term>
+   <def>
+    <p id="Par14">white blood cell</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>FLT3</italic>
+   </term>
+   <def>
+    <p id="Par15">Fms-like tyrosine kinase 3</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>NPM1</italic>
+   </term>
+   <def>
+    <p id="Par16">nucleophosmin 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>CEBPA</italic>
+   </term>
+   <def>
+    <p id="Par17">CCAAT/enhancer binding protein alpha</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>KIT</italic>
+   </term>
+   <def>
+    <p id="Par18">KIT proto-oncogene receptor tyrosine kinase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>TP53</italic>
+   </term>
+   <def>
+    <p id="Par19">tumor protein p53</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>DNMT3a</italic>
+   </term>
+   <def>
+    <p id="Par20">DNA methyltransferase 3 alpha</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Ara-CTP</term>
+   <def>
+    <p id="Par21">cytarabine triphosphate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DCK</term>
+   <def>
+    <p id="Par22">deoxycytidine kinase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CDA</term>
+   <def>
+    <p id="Par23">cytidine deaminase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SAMHD1</term>
+   <def>
+    <p id="Par24">SAM domain and HD domain-containing protein 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>NME2</italic>
+   </term>
+   <def>
+    <p id="Par25">nucleoside diphosphate kinase 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>RRM2</italic>
+   </term>
+   <def>
+    <p id="Par26">ribonucleotide reductase catalytic subunit M2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HH</term>
+   <def>
+    <p id="Par27">Hedgehog</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GLI</term>
+   <def>
+    <p id="Par28">Glioma-associated Oncogene Homolog</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MDS</term>
+   <def>
+    <p id="Par29">myelodysplastic syndromes</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SNPs</term>
+   <def>
+    <p id="Par30">single nucleotide polymorphisms</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TRM</term>
+   <def>
+    <p id="Par31">treatment-related mortality</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EFS</term>
+   <def>
+    <p id="Par32">event-free survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>T-AML</term>
+   <def>
+    <p id="Par33">therapy-related AML</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>G-CSF</term>
+   <def>
+    <p id="Par34">granulocyte colony-stimulating factor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HSCT</term>
+   <def>
+    <p id="Par35">hematopoietic stem cell transplantation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PCR</term>
+   <def>
+    <p id="Par36">polymerase chain reaction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TCGA</term>
+   <def>
+    <p id="Par37">Cancer Genome Atlas</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FAB</term>
+   <def>
+    <p id="Par38">French–Britain–American</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HWE</term>
+   <def>
+    <p id="Par39">Hardy–Weinberg Equilibrium</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LD</term>
+   <def>
+    <p id="Par40">linkage disequilibrium</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>UGTs</term>
+   <def>
+    <p id="Par41">UDP-glucuronosyltransferases</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LDH</term>
+   <def>
+    <p id="Par42">lactate dehydrogenase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RBC</term>
+   <def>
+    <p id="Par43">red blood cell</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AraC-Glu</term>
+   <def>
+    <p id="Par44">glucuronidated Ara-C</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AA</term>
+   <def>
+    <p id="Par45">aclacinomycin and cytarabine</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DA</term>
+   <def>
+    <p id="Par46">daunorubicin and cytarabine</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IA</term>
+   <def>
+    <p id="Par47">idarubicin and cytarabine</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MA</term>
+   <def>
+    <p id="Par48">mitoxantrone and cytarabine</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TA</term>
+   <def>
+    <p id="Par49">pirabucin and cytarabine</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <label>16</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jalali</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Mallick</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Dutta</surname>
+    <given-names>D.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Factors influencing neurocognitive outcomes in young patients with benign and low-grade brain tumors treated with stereotactic conformal radiotherapy</article-title>
+  <source>
+   <italic toggle="yes">International Journal of Radiation Oncology, Biology, Physics</italic>
+  </source>
+  <year>2010</year>
+  <volume>77</volume>
+  <issue>4</issue>
+  <fpage>974</fpage>
+  <lpage>979</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2009.06.025</pub-id>
+ </element-citation>
+</ref>

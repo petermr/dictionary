@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B14">
+ <label>14</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xu</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Pizarro</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Holmes</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>McBeth</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Groh</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Spies</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Crystal structure of a gammadelta T-cell receptor specific for the human MHC class I homolog MICA</article-title>. 
+  <source>Proc Natl Acad Sci U S A</source> (
+  <year>2011</year>) 
+  <volume>108</volume>:
+  <fpage>2414</fpage>–
+  <lpage>9</lpage>.
+  <pub-id pub-id-type="doi">10.1073/pnas.1015433108</pub-id>
+  <?supplied-pmid 21262824?>
+  <pub-id pub-id-type="pmid">21262824</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For cDNA synthesis, extracted mRNA using the RNAeasy mini kit (Qiagen) of flow cytometric sorted Vγ9
+ <sup>+</sup> and Vγ9
+ <sup>−</sup> cells, 5 µL mRNA of both subsets was pooled equally for analysis of total γδ T cells. CDR3 TRG and TRD sequencing amplicons were generated as described previously (
+ <xref rid="B19" ref-type="bibr">19</xref>), while using 25–30 PCR cycles. According to Illumina guidelines 96 samples were labeled with Nextera XT indices and subjected to Illumina MiSeq analysis using 500 cycle paired-end sequencing. 20% PhIX was added as an internal control and to increase library complexity. Illumina output fastq files were processed using ea-utils.
+</p>

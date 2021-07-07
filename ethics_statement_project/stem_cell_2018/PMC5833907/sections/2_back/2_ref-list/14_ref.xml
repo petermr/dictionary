@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hesselink</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>van Schaik</surname>
+    <given-names>RHN</given-names>
+   </name>
+   <name>
+    <surname>Nauta</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>van Gelder</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>A drug transporter for all ages? ABCB1 and the developmental pharmacogenetics of cyclosporine</article-title>
+  <source>Pharmacogenomics.</source>
+  <year>2008</year>
+  <volume>9</volume>
+  <fpage>783</fpage>
+  <lpage>789</lpage>
+  <?supplied-pmid 18518855?>
+  <pub-id pub-id-type="pmid">18518855</pub-id>
+ </element-citation>
+</ref>

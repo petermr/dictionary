@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Okuyama</surname>
+   <given-names>Torayuki</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Eto</surname>
+   <given-names>Yoshikatsu</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sakai</surname>
+   <given-names>Norio</given-names>
+  </name>
+  <xref rid="aff3" ref-type="aff">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Minami</surname>
+   <given-names>Kohtaro</given-names>
+  </name>
+  <xref rid="aff4" ref-type="aff">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yamamoto</surname>
+   <given-names>Tatsuyoshi</given-names>
+  </name>
+  <xref rid="aff4" ref-type="aff">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sonoda</surname>
+   <given-names>Hiroyuki</given-names>
+  </name>
+  <xref rid="aff4" ref-type="aff">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yamaoka</surname>
+   <given-names>Mariko</given-names>
+  </name>
+  <xref rid="aff4" ref-type="aff">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tachibana</surname>
+   <given-names>Katsuhiko</given-names>
+  </name>
+  <xref rid="aff4" ref-type="aff">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hirato</surname>
+   <given-names>Tohru</given-names>
+  </name>
+  <xref rid="aff4" ref-type="aff">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sato</surname>
+   <given-names>Yuji</given-names>
+  </name>
+  <email>sato-yuji@jcrpharm.co.jp</email>
+  <xref rid="aff4" ref-type="aff">4</xref>
+  <xref rid="cor1" ref-type="corresp">∗</xref>
+ </contrib>
+</contrib-group>

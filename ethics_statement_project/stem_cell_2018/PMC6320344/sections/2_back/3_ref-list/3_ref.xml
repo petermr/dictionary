@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Martelli</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Gherlinzoni</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>De Renzo</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Zinzani</surname>
+    <given-names>PL</given-names>
+   </name>
+   <name>
+    <surname>De Vivo</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Cantonetti</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Early autologous stem-cell transplantation versus conventional chemotherapy as front-line therapy in high-risk, aggressive non-Hodgkin’s lymphoma: an Italian multicenter randomized trial</article-title>
+  <source>J Clin Oncol</source>
+  <year>2003</year>
+  <volume>21</volume>
+  <fpage>1255</fpage>
+  <lpage>62</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2003.01.117</pub-id>
+  <pub-id pub-id-type="pmid">12663712</pub-id>
+ </element-citation>
+</ref>

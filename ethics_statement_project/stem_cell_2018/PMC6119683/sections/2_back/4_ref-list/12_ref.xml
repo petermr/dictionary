@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rabenda</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Nicolet</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Beaudart</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Bruyere</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Reginster</surname>
+    <given-names>JY</given-names>
+   </name>
+  </person-group>
+  <article-title>Relationship between use of antidepressants and risk of fractures: a meta-analysis</article-title>
+  <source>Osteoporos. Int.</source>
+  <year>2013</year>
+  <volume>24</volume>
+  <fpage>121</fpage>
+  <lpage>137</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00198-012-2015-9</pub-id>
+  <?supplied-pmid 22638709?>
+  <pub-id pub-id-type="pmid">22638709</pub-id>
+ </element-citation>
+</ref>

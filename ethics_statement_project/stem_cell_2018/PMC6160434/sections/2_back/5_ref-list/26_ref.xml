@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bailey</surname>
+    <given-names>HH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A randomized, double-blind, placebo-controlled phase 3 skin cancer prevention study of {alpha}-difluoromethylornithine in subjects with previous history of skin cancer</article-title>
+  <source>Cancer prevention research</source>
+  <year>2010</year>
+  <volume>3</volume>
+  <fpage>35</fpage>
+  <lpage>47</lpage>
+  <pub-id pub-id-type="doi">10.1158/1940-6207.CAPR-09-0096</pub-id>
+  <?supplied-pmid 20051371?>
+  <pub-id pub-id-type="pmid">20051371</pub-id>
+ </element-citation>
+</ref>

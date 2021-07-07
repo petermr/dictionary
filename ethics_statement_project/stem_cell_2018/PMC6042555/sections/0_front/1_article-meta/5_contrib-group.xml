@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="author-60548064" contrib-type="author">
+  <name>
+   <surname>Catho</surname>
+   <given-names>Gaud</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-52716192" contrib-type="author">
+  <name>
+   <surname>De Kraker</surname>
+   <given-names>Marlieke</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-61095147" contrib-type="author">
+  <name>
+   <surname>Waldispühl Suter</surname>
+   <given-names>Brigitte</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+ <contrib id="author-61095241" contrib-type="author">
+  <name>
+   <surname>Valotti</surname>
+   <given-names>Roberta</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">4</xref>
+ </contrib>
+ <contrib id="author-26389627" contrib-type="author">
+  <name>
+   <surname>Harbarth</surname>
+   <given-names>Stephan</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-55970802" contrib-type="author">
+  <name>
+   <surname>Kaiser</surname>
+   <given-names>Laurent</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-61095415" contrib-type="author">
+  <name>
+   <surname>Elzi</surname>
+   <given-names>Luigia</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">5</xref>
+ </contrib>
+ <contrib id="author-61095457" contrib-type="author">
+  <name>
+   <surname>Meyer</surname>
+   <given-names>Rodolphe</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff6">6</xref>
+ </contrib>
+ <contrib id="author-61095598" contrib-type="author">
+  <name>
+   <surname>Bernasconi</surname>
+   <given-names>Enos</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">4</xref>
+ </contrib>
+ <contrib id="author-52953880" contrib-type="author">
+  <name>
+   <surname>Huttner</surname>
+   <given-names>Benedikt D</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+</contrib-group>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b20-1040189">
+ <label>20.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Singal</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>Mukherjee</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Elmunzer</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Machine learning algorithms outperform conventional regression models in predicting development of hepatocellular carcinoma</article-title>. 
+  <source>Am J Gastroenterol</source>. 
+  <year>2013</year>;
+  <volume>108</volume>(
+  <issue>11</issue>):
+  <fpage>1723</fpage>–
+  <lpage>1730</lpage>.
+  <pub-id pub-id-type="pmid">24169273</pub-id>
+ </mixed-citation>
+</ref>

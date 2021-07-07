@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR29">
+ <label>29.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hind</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Calvert</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>McWilliams</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Davidson</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Paisley</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Beverley</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Thomas</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Ultrasonic locating devices for central venous cannulation: meta-analysis</article-title>
+  <source>BMJ.</source>
+  <year>2003</year>
+  <volume>327</volume>
+  <fpage>361</fpage>
+  <pub-id pub-id-type="doi">10.1136/bmj.327.7411.361</pub-id>
+  <?supplied-pmid 12919984?>
+  <pub-id pub-id-type="pmid">12919984</pub-id>
+ </element-citation>
+</ref>

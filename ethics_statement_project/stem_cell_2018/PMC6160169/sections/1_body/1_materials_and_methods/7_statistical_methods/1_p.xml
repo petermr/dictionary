@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The median was chosen to describe the average value for PD-1+ and PD-L1+ leukocytes, and PD-L1+ HRS cells, since we could not assume that the material was normally distributed. Wilcoxon signed-rank test was used to determine differences between continuous variables, i.e. proportions of PD-1+ and PD-L1+ leukocytes, and PD-L1+ HRS cells compared between biopsy 1 and biopsy 2 in the 
+ <italic>untreated</italic> group, and primary and relapse biopsy in the 
+ <italic>treated</italic> group. The survival outcome analyzed was time from relapse to death, defined as time from diagnosis of relapse confirmed by biopsy, to death from any cause. Survival differences between groups were calculated with Cox proportional hazards regression. A simple multivariate model included adjustment for age at relapse. Age was treated as a continuous variable. Statistics were analyzed with the R software and P values &lt;0.05 were considered significant.
+</p>

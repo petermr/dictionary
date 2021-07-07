@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kitawaki</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Kadowaki</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Fukunaga</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cross-priming of CD8(+) T cells in vivo by dendritic cells pulsed with autologous apoptotic leukemic cells in immunotherapy for elderly patients with acute myeloid leukemia</article-title>
+  <source>Exp Hematol</source>
+  <year>2011</year>
+  <volume>39</volume>
+  <fpage>424</fpage>
+  <lpage>424 33 e2</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.exphem.2011.01.001</pub-id>
+  <?supplied-pmid 21216276?>
+  <pub-id pub-id-type="pmid">21216276</pub-id>
+ </element-citation>
+</ref>

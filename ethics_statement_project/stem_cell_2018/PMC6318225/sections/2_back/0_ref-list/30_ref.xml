@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib30">
+ <label>30</label>
+ <element-citation publication-type="journal" id="sbref300">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Morgan</surname>
+    <given-names>GJ</given-names>
+   </name>
+   <name>
+    <surname>Davies</surname>
+    <given-names>FE</given-names>
+   </name>
+   <name>
+    <surname>Gregory</surname>
+    <given-names>WM</given-names>
+   </name>
+  </person-group>
+  <article-title>Long-term follow-up of MRC Myeloma IX trial: survival outcomes with bisphosphonates and thalidomide treatment</article-title>
+  <source>Clin Cancer Res</source>
+  <volume>19</volume>
+  <year>2013</year>
+  <fpage>6030</fpage>
+  <lpage>6038</lpage>
+  <pub-id pub-id-type="pmid">23995858</pub-id>
+ </element-citation>
+</ref>

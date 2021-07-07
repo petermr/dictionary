@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Van Esser</surname>
+    <given-names>JW</given-names>
+   </name>
+   <name>
+    <surname>Niesters</surname>
+    <given-names>HG</given-names>
+   </name>
+   <name>
+    <surname>van der Holt</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Meijer</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Osterhaus</surname>
+    <given-names>AD</given-names>
+   </name>
+   <name>
+    <surname>Gratama</surname>
+    <given-names>JW</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Prevention of Epstein−Barr virus-lymphoproliferative disease by molecular monitoring and preemptive rituximab in high-risk patients after allogeneic stem cell transplantation</article-title>
+  <source>Blood</source>
+  <year>2002</year>
+  <volume>99</volume>
+  <fpage>4364</fpage>
+  <lpage>9</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood.V99.12.4364</pub-id>
+  <pub-id pub-id-type="pmid">12036863</pub-id>
+ </element-citation>
+</ref>

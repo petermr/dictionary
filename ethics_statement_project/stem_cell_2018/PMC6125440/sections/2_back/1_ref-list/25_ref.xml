@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cas13719-bib-0025">
+ <label>25</label>
+ <mixed-citation publication-type="journal" id="cas13719-cit-0025">
+  <string-name>
+   <surname>Wang</surname>
+   <given-names>ML</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Rule</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Martin</surname>
+   <given-names>P</given-names>
+  </string-name>, et al. 
+  <article-title>BTK with ibrutinib in relapsed or refractory mantle‐cell lymphoma</article-title>. 
+  <source xml:lang="en">N Engl J Med</source>. 
+  <year>2013</year>;
+  <volume>369</volume>:
+  <fpage>507</fpage>‐
+  <lpage>516</lpage>.
+  <pub-id pub-id-type="pmid">23782157</pub-id>
+ </mixed-citation>
+</ref>

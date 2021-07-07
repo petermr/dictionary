@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR49">
+ <label>49.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Danielyan</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Schäfer</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>von Ameln-Mayerhofer</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Buadze</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Geisler</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Klopfer</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Intranasal delivery of cells to the brain</article-title>
+  <source>Eur J Cell Biol</source>
+  <year>2009</year>
+  <volume>88</volume>
+  <fpage>315</fpage>
+  <lpage>324</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ejcb.2009.02.001</pub-id>
+  <?supplied-pmid 19324456?>
+  <pub-id pub-id-type="pmid">19324456</pub-id>
+ </element-citation>
+</ref>

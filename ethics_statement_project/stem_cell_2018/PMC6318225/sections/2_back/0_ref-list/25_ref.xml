@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib25">
+ <label>25</label>
+ <element-citation publication-type="journal" id="sbref250">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shah</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Sherborne</surname>
+    <given-names>AL</given-names>
+   </name>
+   <name>
+    <surname>Walker</surname>
+    <given-names>BA</given-names>
+   </name>
+  </person-group>
+  <article-title>Prediction of outcome in newly diagnosed myeloma: a meta-analysis of the molecular profiles of 1905 trial patients</article-title>
+  <source>Leukemia</source>
+  <volume>32</volume>
+  <year>2018</year>
+  <fpage>102</fpage>
+  <lpage>110</lpage>
+  <pub-id pub-id-type="pmid">28584253</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>ABA</term>
+   <def>
+    <p id="Par6">Anti-beta-glucan antibodies</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AE</term>
+   <def>
+    <p id="Par7">Adverse events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ALK</term>
+   <def>
+    <p id="Par8">Anaplastic lymphoma kinase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AUC</term>
+   <def>
+    <p id="Par9">Area under the curve</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AUC
+    <sub>0–24</sub>
+   </term>
+   <def>
+    <p id="Par10">Area under the serum concentration-time curve from time 0 to 24 h</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CI</term>
+   <def>
+    <p id="Par11">Confidence intervals</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CL</term>
+   <def>
+    <p id="Par12">Systemic clearance</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>C
+    <sub>max</sub>
+   </term>
+   <def>
+    <p id="Par13">Maximum serum concentration</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CPI</term>
+   <def>
+    <p id="Par14">Checkpoint inhibitors</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CR</term>
+   <def>
+    <p id="Par15">Complete response</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par16">Computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CTCAE</term>
+   <def>
+    <p id="Par17">Common Terminology Criteria for Adverse Events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DOR</term>
+   <def>
+    <p id="Par18">Duration of objective tumor response</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ECOG</term>
+   <def>
+    <p id="Par19">Eastern Cooperative Oncology Group</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EGFR</term>
+   <def>
+    <p id="Par20">Epidermal growth factor receptor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ELISA</term>
+   <def>
+    <p id="Par21">Enzyme-linked immunosorbent assay</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HR</term>
+   <def>
+    <p id="Par22">Hazard ratio</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IV</term>
+   <def>
+    <p id="Par23">Intravenously</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MAb</term>
+   <def>
+    <p id="Par24">Monoclonal antibody</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NCA</term>
+   <def>
+    <p id="Par25">Noncompartmental analysis</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NSCLC</term>
+   <def>
+    <p id="Par26">Non-small cell lung cancer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ORR</term>
+   <def>
+    <p id="Par27">Objective response rate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OS</term>
+   <def>
+    <p id="Par28">Overall survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PAMP</term>
+   <def>
+    <p id="Par29">Pathogen-associated molecular pattern</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PD-1</term>
+   <def>
+    <p id="Par30">Programmed death-1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PDL-1</term>
+   <def>
+    <p id="Par31">Programmed death ligand-1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PFS</term>
+   <def>
+    <p id="Par32">Progression-free survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PK</term>
+   <def>
+    <p id="Par33">Pharmacokinetic</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PR</term>
+   <def>
+    <p id="Par34">Partial response</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PS</term>
+   <def>
+    <p id="Par35">Performance status</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Q3W</term>
+   <def>
+    <p id="Par36">Each 3-week cycle</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RECIST</term>
+   <def>
+    <p id="Par37">Response Evaluation Criteria in Solid Tumors</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SD</term>
+   <def>
+    <p id="Par38">Stable disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>t
+    <sub>1/2</sub>
+   </term>
+   <def>
+    <p id="Par39">Elimination half life</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>t
+    <sub>max</sub>
+   </term>
+   <def>
+    <p id="Par40">Time of maximum concentration</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VEGF</term>
+   <def>
+    <p id="Par41">Vascular endothelial growth factor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VEGFR2</term>
+   <def>
+    <p id="Par42">Vascular endothelial growth factor receptor 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Vss</term>
+   <def>
+    <p id="Par43">Volume of distribution at steady-state</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

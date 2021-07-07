@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sensebé</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Giraudeau</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Bardiaux</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Deconinck</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Schmidt</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Bidet</surname>
+    <given-names>M-L</given-names>
+   </name>
+   <name>
+    <surname>LeNiger</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Hardy</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Babault</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Senecal</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>The efficiency of transfusing high doses of platelets in hematologic patients with thrombocytopenia: results of a prospective, randomized, open, blinded end point (PROBE) study</article-title>
+  <source>Blood.</source>
+  <year>2005</year>
+  <volume>105</volume>
+  <fpage>862</fpage>
+  <lpage>864</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2004-05-1841</pub-id>
+  <?supplied-pmid 15367427?>
+  <pub-id pub-id-type="pmid">15367427</pub-id>
+ </element-citation>
+</ref>

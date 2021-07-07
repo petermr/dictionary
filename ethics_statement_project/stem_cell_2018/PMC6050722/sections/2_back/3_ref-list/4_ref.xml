@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gale</surname>
+    <given-names>RE</given-names>
+   </name>
+   <name>
+    <surname>Lamb</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Allen</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>El-Sharkawi</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Stowe</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Jenkinson</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Simpson’s paradox and the impact of different DNMT3A mutations on outcome in younger adults with acute myeloid leukemia</article-title>
+  <source>J Clin Oncol</source>
+  <year>2015</year>
+  <volume>33</volume>
+  <fpage>2072</fpage>
+  <lpage>2083</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2014.59.2022</pub-id>
+  <?supplied-pmid 25964253?>
+  <pub-id pub-id-type="pmid">25964253</pub-id>
+ </element-citation>
+</ref>

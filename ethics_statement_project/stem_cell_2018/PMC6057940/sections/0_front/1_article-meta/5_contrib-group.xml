@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7075-8448</contrib-id>
+  <name>
+   <surname>Cazet</surname>
+   <given-names>Aurélie S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Hui</surname>
+   <given-names>Mun N.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Elsworth</surname>
+   <given-names>Benjamin L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Sunny Z.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Roden</surname>
+   <given-names>Daniel</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chan</surname>
+   <given-names>Chia-Ling</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Skhinas</surname>
+   <given-names>Joanna N.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Collot</surname>
+   <given-names>Raphaël</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Jessica</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Harvey</surname>
+   <given-names>Kate</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Johan</surname>
+   <given-names>M. Zahied</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cooper</surname>
+   <given-names>Caroline</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nair</surname>
+   <given-names>Radhika</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff10">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9514-7501</contrib-id>
+  <name>
+   <surname>Herrmann</surname>
+   <given-names>David</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>McFarland</surname>
+   <given-names>Andrea</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Deng</surname>
+   <given-names>Niantao</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ruiz-Borrego</surname>
+   <given-names>Manuel</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff11">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rojo</surname>
+   <given-names>Federico</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff12">12</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Trigo</surname>
+   <given-names>José M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff13">13</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bezares</surname>
+   <given-names>Susana</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff14">14</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Caballero</surname>
+   <given-names>Rosalía</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff14">14</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lim</surname>
+   <given-names>Elgene</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff15">15</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Timpson</surname>
+   <given-names>Paul</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>O’Toole</surname>
+   <given-names>Sandra</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Watkins</surname>
+   <given-names>D. Neil</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff15">15</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9294-1745</contrib-id>
+  <name>
+   <surname>Cox</surname>
+   <given-names>Thomas R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7880-6379</contrib-id>
+  <name>
+   <surname>Samuel</surname>
+   <given-names>Michael S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Martín</surname>
+   <given-names>Miguel</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff16">16</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Swarbrick</surname>
+   <given-names>Alexander</given-names>
+  </name>
+  <address>
+   <email>a.swarbrick@garvan.org.au</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9983 6924</institution-id>
+   <institution-id institution-id-type="GRID">grid.415306.5</institution-id>
+   <institution>Garvan Institute of Medical Research, </institution>
+  </institution-wrap>Darlinghurst, NSW 2010 Australia 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.410697.d</institution-id>
+   <institution>The Kinghorn Cancer Centre, </institution>
+  </institution-wrap>Darlinghurst, NSW 2010 Australia 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 4902 0432</institution-id>
+   <institution-id institution-id-type="GRID">grid.1005.4</institution-id>
+   <institution>St Vincent’s Clinical School, Faculty of Medicine, </institution>
+   <institution>UNSW Sydney, </institution>
+  </institution-wrap>Darlinghurst, NSW 2010 Australia 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.419783.0</institution-id>
+   <institution>The Chris O’ Brien Lifehouse, </institution>
+  </institution-wrap>Camperdown, NSW 2050 Australia 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0385 0051</institution-id>
+   <institution-id institution-id-type="GRID">grid.413249.9</institution-id>
+   <institution>Royal Prince Alfred Hospital, </institution>
+  </institution-wrap>Camperdown, NSW 2050 Australia 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 7603</institution-id>
+   <institution-id institution-id-type="GRID">grid.5337.2</institution-id>
+   <institution>MRC Integrative Epidemiology Unit, </institution>
+   <institution>University of Bristol, </institution>
+  </institution-wrap>Oakfield House, Bristol, BS8 2BN UK 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 8994 5086</institution-id>
+   <institution-id institution-id-type="GRID">grid.1026.5</institution-id>
+   <institution>Centre for Cancer Biology, </institution>
+   <institution>SA Pathology and the University of South Australia, </institution>
+  </institution-wrap>Adelaide, SA 5000 Australia 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 7304</institution-id>
+   <institution-id institution-id-type="GRID">grid.1010.0</institution-id>
+   <institution>Faculty of Health Sciences, School of Medicine, </institution>
+   <institution>University of Adelaide, </institution>
+  </institution-wrap>Adelaide, SA 5000 Australia 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9320 7537</institution-id>
+   <institution-id institution-id-type="GRID">grid.1003.2</institution-id>
+   <institution>Pathology Queensland and School of Medicine, </institution>
+   <institution>University of Queensland, </institution>
+  </institution-wrap>St Lucia, QLD 4006 Australia 
+ </aff>
+ <aff id="Aff10">
+  <label>10</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0177 8509</institution-id>
+   <institution-id institution-id-type="GRID">grid.418917.2</institution-id>
+   <institution>Rajiv Gandhi Centre for Biotechnology, </institution>
+  </institution-wrap>Thycaud Post, Poojappura, Thiruvananthapuram, Kerala 695014 India 
+ </aff>
+ <aff id="Aff11">
+  <label>11</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9542 1158</institution-id>
+   <institution-id institution-id-type="GRID">grid.411109.c</institution-id>
+   <institution>Department of Medical Oncology, </institution>
+   <institution>Hospital Universitario Virgen del Rocío, </institution>
+  </institution-wrap>41013 Sevilla, Spain 
+ </aff>
+ <aff id="Aff12">
+  <label>12</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.419651.e</institution-id>
+   <institution>Department of Pathology, </institution>
+   <institution> Hospital Universitario Fundación Jiménez Díaz, </institution>
+  </institution-wrap>28040 Madrid, Spain 
+ </aff>
+ <aff id="Aff13">
+  <label>13</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.452525.1</institution-id>
+   <institution>Department of Medical Oncology, Hospital Clínico Universitario Virgen de la Victoria, </institution>
+   <institution>IBIMA, </institution>
+  </institution-wrap>29010 Málaga, Spain 
+ </aff>
+ <aff id="Aff14">
+  <label>14</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.476406.7</institution-id>
+   <institution>GEICAM, </institution>
+   <institution>Spanish Breast Cancer Group, </institution>
+  </institution-wrap>Madrid, 28703 Spain 
+ </aff>
+ <aff id="Aff15">
+  <label>15</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9119 2677</institution-id>
+   <institution-id institution-id-type="GRID">grid.437825.f</institution-id>
+   <institution>St Vincent’s Hospital, </institution>
+  </institution-wrap>2010 Darlinghurst, NSW Australia 
+ </aff>
+ <aff id="Aff16">
+  <label>16</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2157 7667</institution-id>
+   <institution-id institution-id-type="GRID">grid.4795.f</institution-id>
+   <institution>Department of Medical Oncology, Instituto de Investigación Sanitaria Gregorio Marañón, </institution>
+   <institution>Universidad Complutense, Centro de Investigación Biomédica en Red de Oncología, CIBERONC-ISCIII, </institution>
+  </institution-wrap>28040 Madrid, Spain 
+ </aff>
+</contrib-group>

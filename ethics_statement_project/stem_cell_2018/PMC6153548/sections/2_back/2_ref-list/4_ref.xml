@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>van Spriel</surname>
+    <given-names>AB</given-names>
+   </name>
+   <name>
+    <surname>Puls</surname>
+    <given-names>KL</given-names>
+   </name>
+   <name>
+    <surname>Sofi</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Pouniotis</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Hochrein</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Orinska</surname>
+    <given-names>Z</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A regulatory role for CD37 in T cell proliferation</article-title>
+  <source>J Immunol</source>
+  <year>2004</year>
+  <volume>172</volume>
+  <fpage>2953</fpage>
+  <lpage>2961</lpage>
+  <pub-id pub-id-type="doi">10.4049/jimmunol.172.5.2953</pub-id>
+  <?supplied-pmid 14978098?>
+  <pub-id pub-id-type="pmid">14978098</pub-id>
+ </element-citation>
+</ref>

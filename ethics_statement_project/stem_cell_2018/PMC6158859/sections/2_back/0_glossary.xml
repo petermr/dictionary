@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>AMH</term>
+   <def>
+    <p id="Par5">Anti-Müllerian hormone</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CCS</term>
+   <def>
+    <p id="Par6">Childhood cancer survivors</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CED</term>
+   <def>
+    <p id="Par7">Cyclophosphamide equivalent dose</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FSH</term>
+   <def>
+    <p id="Par8">Follicle stimulating hormone</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GWAS</term>
+   <def>
+    <p id="Par9">Genome wide association study</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PCA</term>
+   <def>
+    <p id="Par10">Principal component analysis</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SJLIFE</term>
+   <def>
+    <p id="Par11">St. Jude Lifetime Cohort Study</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SNP</term>
+   <def>
+    <p id="Par12">Single nucleotide polymorphism</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

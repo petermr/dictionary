@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B28">
+ <label>28</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Harth</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Abo-Madyan</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Zheng</surname>
+    <given-names>L.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Estimation of intracranial failure risk following hippocampal-sparing whole brain radiotherapy</article-title>
+  <source>
+   <italic toggle="yes">Radiotherapy &amp; Oncology</italic>
+  </source>
+  <year>2013</year>
+  <volume>109</volume>
+  <issue>1</issue>
+  <fpage>152</fpage>
+  <lpage>158</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.radonc.2013.09.009</pub-id>
+  <pub-id pub-id-type="pmid">24100152</pub-id>
+ </element-citation>
+</ref>

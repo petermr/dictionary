@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Engel-Riedel</surname>
+   <given-names>Walburga</given-names>
+  </name>
+  <address>
+   <email>EngelRiedelW@kliniken-koeln.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lowe</surname>
+   <given-names>Jamie</given-names>
+  </name>
+  <address>
+   <email>jlowe@biothera.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mattson</surname>
+   <given-names>Paulette</given-names>
+  </name>
+  <address>
+   <email>pmattson@biothera.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Richard Trout</surname>
+   <given-names>J.</given-names>
+  </name>
+  <address>
+   <email>rtrout@rci.rutgers.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Huhn</surname>
+   <given-names>Richard D.</given-names>
+  </name>
+  <address>
+   <email>rhuhn@biothera.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gargano</surname>
+   <given-names>Michele</given-names>
+  </name>
+  <address>
+   <email>mgargano@biothera.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Patchen</surname>
+   <given-names>Myra L.</given-names>
+  </name>
+  <address>
+   <phone>(703) 868-3512</phone>
+   <email>mpatchen@immunoresearch.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Walsh</surname>
+   <given-names>Richard</given-names>
+  </name>
+  <address>
+   <email>rwalsh@biothera.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Trinh</surname>
+   <given-names>My My</given-names>
+  </name>
+  <address>
+   <email>MyMy.Trinh@certara.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dupuis</surname>
+   <given-names>Mariève</given-names>
+  </name>
+  <address>
+   <email>Marieve.Dupuis@certara.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Schneller</surname>
+   <given-names>Folker</given-names>
+  </name>
+  <address>
+   <email>ga69qaf@mytum.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0391 1512</institution-id>
+   <institution-id institution-id-type="GRID">grid.461712.7</institution-id>
+   <institution>Kliniken der Stadt Köln gGmbH, Krankenhaus Merheim, Thoraxchirurgische u. Pneumologische Klinik, </institution>
+  </institution-wrap>Ostmerheimer Str. 200, 51109 Köln, Germany 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>Biothera Pharmaceuticals, Inc., 3388 Mike Collins Drive, Suite A, Eagan, MN 55121 USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8796</institution-id>
+   <institution-id institution-id-type="GRID">grid.430387.b</institution-id>
+   <institution>Rutgers University, </institution>
+  </institution-wrap>82 Rittenhouse Circle, Newtown, PA 18940 USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>Certara Strategic Consulting, 2000 Peel Street, Suite 570, Montréal, Québec, H3A2WS Canada 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000123222966</institution-id>
+   <institution-id institution-id-type="GRID">grid.6936.a</institution-id>
+   <institution>Medical Clinic and Polyclinic of Klinikum rechts der Isar of Technical University Munich, </institution>
+  </institution-wrap>Ismaninger Str. 22, 81675 Munich, Germany 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>PresentAddress: Immuno Research, Inc., 3388 Mike Collins Drive, Suite B, Eagan, MN 55121 USA 
+ </aff>
+</contrib-group>

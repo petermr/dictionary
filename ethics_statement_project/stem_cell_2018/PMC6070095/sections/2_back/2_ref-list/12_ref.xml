@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0012">
+ <label>12.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Solomkin</surname>
+    <given-names>JS</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Mazuski</surname>
+    <given-names>JE</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Bradley</surname>
+    <given-names>JS</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Diagnosis and management of complicated intra-abdominal infection in adults and children: guidelines by the Surgical Infection Society and the Infectious Diseases Society of America</article-title>. 
+  <source>Clin Infect Dis</source>
+  <year>2010</year>; 
+  <volume>50</volume>:
+  <fpage>133</fpage>–
+  <lpage>64</lpage>.
+  <pub-id pub-id-type="pmid">20034345</pub-id>
+ </mixed-citation>
+</ref>

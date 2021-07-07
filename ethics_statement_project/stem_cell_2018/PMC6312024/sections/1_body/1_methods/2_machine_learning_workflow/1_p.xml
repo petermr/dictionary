@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Nine organ scores were analyzed via a computational workflow consisting of visualization of t-distributed stochastic neighbor embedding (viSNE) for dimensionality reduction,
+ <sup>
+  <xref rid="b18-1040189" ref-type="bibr">18</xref>,
+  <xref rid="b23-1040189" ref-type="bibr">23</xref>
+ </sup> self-organizing maps (FlowSOM) for patient clustering
+ <sup>
+  <xref rid="b24-1040189" ref-type="bibr">24</xref>
+ </sup> and marker enrichment modeling (MEM) for feature enrichment scoring
+ <sup>
+  <xref rid="b25-1040189" ref-type="bibr">25</xref>,
+  <xref rid="b26-1040189" ref-type="bibr">26</xref>
+ </sup> (
+ <xref ref-type="fig" rid="f1-1040189">Figure 1</xref> and 
+ <italic>Online Supplementary Figure S1</italic>). viSNE is the visualization of an algorithm called t-distributed stochastic neighbor embedding (t-SNE). Therefore, on all viSNE maps the axes are called t-SNE1 and t-SNE2.
+ <sup>
+  <xref rid="b23-1040189" ref-type="bibr">23</xref>
+ </sup> The machine-learning algorithms are described in detail in the 
+ <italic>Online Supplementary Methods</italic>. NIH scores were squared prior to viSNE analysis and all scores were scaled from 0-1. FlowSOM clustering was done using t-SNE axes. Skin erythema and sclerosis were analyzed as separate skin features in order to capture type of skin involvement by chronic GvHD.
+</p>

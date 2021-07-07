@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R5">
+ <label>5.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Elting</surname>
+    <given-names>LS</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Keefe</surname>
+    <given-names>DM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Sonis</surname>
+    <given-names>ST</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Patient-reported measurements of oral mucositis in head and neck cancer patients treated with radiotherapy with or without chemotherapy: demonstration of increased frequency, severity, resistance to palliation, and impact on quality of life</article-title>. 
+  <source>Cancer</source>
+  <year>2008</year>;
+  <volume>113</volume>:
+  <fpage>2704</fpage>–
+  <lpage>13</lpage>. 
+  <pub-id pub-id-type="doi">10.1002/cncr.23898</pub-id>
+  <pub-id pub-id-type="pmid">18973181</pub-id>
+ </mixed-citation>
+</ref>

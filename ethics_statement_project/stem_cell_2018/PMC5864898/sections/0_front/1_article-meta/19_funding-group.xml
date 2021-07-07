@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group>
+  <funding-source id="cn01">Deutsche Forschungsgemeinschaft
+   <named-content content-type="fundref-id">10.13039/501100001659</named-content>
+  </funding-source>
+  <award-id rid="cn01">CRC900, IRGT1273</award-id>
+ </award-group>
+ <award-group>
+  <funding-source id="cn02">Deutsches Zentrum für Infektionsforschung
+   <named-content content-type="fundref-id">10.13039/100009139</named-content>
+  </funding-source>
+ </award-group>
+</funding-group>

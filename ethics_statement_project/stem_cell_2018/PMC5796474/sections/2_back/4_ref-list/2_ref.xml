@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lieskovsky</surname>
+    <given-names>YE</given-names>
+   </name>
+   <name>
+    <surname>Donaldson</surname>
+    <given-names>SS</given-names>
+   </name>
+   <name>
+    <surname>Torres</surname>
+    <given-names>MA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>High-dose therapy and autologous hematopoietic stem-cell transplantation for recurrent or refractory pediatric Hodgkin's disease: results and prognostic indices</article-title>
+  <source>J Clin Oncol</source>
+  <year>2004</year>
+  <volume>22</volume>
+  <fpage>4532</fpage>
+  <lpage>4540</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2004.02.121</pub-id>
+  <?supplied-pmid 15542804?>
+  <pub-id pub-id-type="pmid">15542804</pub-id>
+ </element-citation>
+</ref>

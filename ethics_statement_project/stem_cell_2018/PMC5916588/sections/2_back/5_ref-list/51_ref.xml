@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR51">
+ <label>51.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Khuman</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Park</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Carroll</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Donahue</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Whalen</surname>
+    <given-names>MJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Low-level laser light therapy improves cognitive deficits and inhibits microglial activation after controlled cortical impact in mice</article-title>
+  <source>J Neurotrauma</source>
+  <year>2012</year>
+  <volume>29</volume>
+  <issue>2</issue>
+  <fpage>408</fpage>
+  <lpage>417</lpage>
+  <pub-id pub-id-type="doi">10.1089/neu.2010.1745</pub-id>
+  <?supplied-pmid 21851183?>
+  <pub-id pub-id-type="pmid">21851183</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lanteigne</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Serotonin-norepinephrine reuptake inhibitor and selective serotonin reuptake inhibitor use and risk of fractures: a new-user cohort study among US adults aged 50 years and older</article-title>
+  <source>CNS Drugs</source>
+  <year>2015</year>
+  <volume>29</volume>
+  <fpage>245</fpage>
+  <lpage>252</lpage>
+  <pub-id pub-id-type="doi">10.1007/s40263-015-0231-5</pub-id>
+  <?supplied-pmid 25708711?>
+  <pub-id pub-id-type="pmid">25708711</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Anderson</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Pettersson</surname>
+    <given-names>FH</given-names>
+   </name>
+   <name>
+    <surname>Clarke</surname>
+    <given-names>GM</given-names>
+   </name>
+   <name>
+    <surname>Cardon</surname>
+    <given-names>LR</given-names>
+   </name>
+   <name>
+    <surname>Morris</surname>
+    <given-names>AP</given-names>
+   </name>
+   <name>
+    <surname>Zondervan</surname>
+    <given-names>KT</given-names>
+   </name>
+  </person-group>
+  <article-title>Data quality control in genetic case-control association studies</article-title>
+  <source>Nat Protoc</source>
+  <year>2010</year>
+  <volume>5</volume>
+  <issue>9</issue>
+  <fpage>1564</fpage>
+  <lpage>1573</lpage>
+  <pub-id pub-id-type="doi">10.1038/nprot.2010.116</pub-id>
+  <pub-id pub-id-type="pmid">21085122</pub-id>
+ </element-citation>
+</ref>

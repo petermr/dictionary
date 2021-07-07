@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR44">
+ <label>44.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Feldman</surname>
+    <given-names>DR</given-names>
+   </name>
+   <name>
+    <surname>Baum</surname>
+    <given-names>MS</given-names>
+   </name>
+   <name>
+    <surname>Ginsberg</surname>
+    <given-names>MS</given-names>
+   </name>
+   <name>
+    <surname>Hassoun</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Flombaum</surname>
+    <given-names>CD</given-names>
+   </name>
+   <name>
+    <surname>Velasco</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Phase I trial of bevacizumab plus escalated doses of sunitinib in patients with metastatic renal cell carcinoma</article-title>
+  <source>J Clin Oncol</source>
+  <year>2009</year>
+  <volume>27</volume>
+  <issue>9</issue>
+  <fpage>1432</fpage>
+  <lpage>1439</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2008.19.0108</pub-id>
+  <pub-id pub-id-type="pmid">19224847</pub-id>
+ </element-citation>
+</ref>

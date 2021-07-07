@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cavo</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Bortezomib-thalidomide-dexamethasone (VTD) is superior to bortezomib-cyclophosphamide-dexamethasone (VCD) as induction therapy prior to autologous stem cell transplantation in multiple myeloma</article-title>
+  <source>Leukemia</source>
+  <year>2015</year>
+  <volume>29</volume>
+  <fpage>2429</fpage>
+  <lpage>2431</lpage>
+  <pub-id pub-id-type="doi">10.1038/leu.2015.274</pub-id>
+  <?supplied-pmid 26442610?>
+  <pub-id pub-id-type="pmid">26442610</pub-id>
+ </element-citation>
+</ref>

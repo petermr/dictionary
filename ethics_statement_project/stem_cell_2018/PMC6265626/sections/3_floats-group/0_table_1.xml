@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="sct312351-tbl-0001" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Clinical data of enrolled patients</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col align="left" span="1"/>
+  <col align="center" span="1"/>
+  <col align="center" span="1"/>
+  <col align="center" span="1"/>
+  <col align="center" span="1"/>
+  <col align="center" span="1"/>
+  <col align="center" span="1"/>
+  <col align="center" span="1"/>
+  <col align="center" span="1"/>
+  <col align="center" span="1"/>
+  <thead valign="bottom">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Patient</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">A1</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">A2</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">A3</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">B1</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">B2</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">B3</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">B4</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">B5</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">B6</th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Gestational age (weeks)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">24
+     <sup>+5</sup>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">24
+     <sup>+3</sup>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">28
+     <sup>+1</sup>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">30
+     <sup>+5</sup>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">25
+     <sup>+6</sup>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">26
+     <sup>+0</sup>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">25
+     <sup>+4</sup>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">25
+     <sup>+3</sup>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">28
+     <sup>+6</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Birth weight (g)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">660</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">700</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">730</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1,310</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">440</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">630</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">900</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">880</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">1,020</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Apgar score, 1 min</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">2</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">2</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">7</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">8</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Apgar score, 5 min</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">7</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">6</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">7</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">7</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">6</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">8</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">7</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">8</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Gender</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">F</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">F</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">F</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">M</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">M</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">M</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">M</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">M</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">M</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Delivery</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">CS</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">CS</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">NV</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">CS</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">NV</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">CS</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">CS</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">CS</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">CS</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Pathologically confirmed chorioamnionitis</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Antenatal steroid use</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">IVH grade</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">4</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Age at MSC injection
+     <break/> (postnatal day) 
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">12</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">15</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">7</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">12</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">12</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">12</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">9</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">15</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Ventricular parameters
+     <xref ref-type="fn" rid="sct312351-note-0003">a</xref>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Ventricular index</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.20</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.19</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.20</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.29</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.23</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.18</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.21</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.22</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.21</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Anterior horn width</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.13</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.10</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.12</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.20</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.11</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.13</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.14</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.13</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.15</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Thalamo‐occipital distance</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.18</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.29</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.21</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.35</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.23</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.25</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.25</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.34</td>
+    <td align="right" valign="top" rowspan="1" colspan="1">0.36</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <bold>Serious AEs with major morbidities</bold>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Death within 6 h after MSC transplantation</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Anaphylaxis after MSC injection</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+   </tr>
+   <tr>
+    <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">VP shunt operation</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+   </tr>
+   <tr>
+    <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Operation postnatal day</td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">40</td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">119</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">63</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">83</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Seizure</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y
+     <xref ref-type="fn" rid="sct312351-note-0004">b</xref>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y
+     <xref ref-type="fn" rid="sct312351-note-0004">b</xref>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y
+     <xref ref-type="fn" rid="sct312351-note-0004">b</xref>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y
+     <xref ref-type="fn" rid="sct312351-note-0004">b</xref>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+   </tr>
+   <tr>
+    <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Medication duration (days)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">92</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">101</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">89</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">75</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+   </tr>
+   <tr>
+    <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">BPD severity</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">mild</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">mild</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">none</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">severe</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">mild</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">severe</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">severe</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">mild</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">severe</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Late‐onset sepsis</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y
+     <xref ref-type="fn" rid="sct312351-note-0005">c</xref>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">NEC (≥stage 2)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y
+     <xref ref-type="fn" rid="sct312351-note-0006">d</xref>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y
+     <xref ref-type="fn" rid="sct312351-note-0006">d</xref>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Laparoscopic operation</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">ROP required laser op</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+   </tr>
+   <tr>
+    <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Inguinal hernia operation</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">Y</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">–</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="sct312351-note-0003">
+   <label>a</label>
+   <p> Ventricular parameter was assessed with brain ultrasound images taken right before MSCs transplantation.</p>
+  </fn>
+  <fn id="sct312351-note-0004">
+   <label>b</label>
+   <p> Seizure was started before enrollment.</p>
+  </fn>
+  <fn id="sct312351-note-0005">
+   <label>c</label>
+   <p> Blood‐culture proven sepsis was detected at postnatal day 29 for the first time.</p>
+  </fn>
+  <fn id="sct312351-note-0006">
+   <label>d</label>
+   <p> NEC was diagnosis at P28 and P127 in B3 and B4 case infants, respectively.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

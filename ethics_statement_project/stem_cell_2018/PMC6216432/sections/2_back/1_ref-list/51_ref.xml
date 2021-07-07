@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="sct312347-bib-0051">
+ <label>51</label>
+ <mixed-citation publication-type="journal" id="sct312347-cit-0051">
+  <string-name>
+   <surname>Oostenveld</surname>
+   <given-names>R</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Fries</surname>
+   <given-names>P</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Maris</surname>
+   <given-names>E</given-names>
+  </string-name> et al. 
+  <article-title>FieldTrip: Open source software for advanced analysis of MEG, EEG, and invasive electrophysiological data</article-title>. 
+  <source xml:lang="en">Comput Intel Neurosci</source>
+  <year>2011</year>;
+  <volume>2011</volume>:
+  <fpage>1</fpage>–
+  <lpage>9</lpage>.
+ </mixed-citation>
+</ref>

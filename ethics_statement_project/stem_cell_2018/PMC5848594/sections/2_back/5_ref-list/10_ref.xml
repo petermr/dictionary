@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Patschan</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Patschan</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Temme</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Korsten</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Wessels</surname>
+    <given-names>JT</given-names>
+   </name>
+   <name>
+    <surname>Koziolek</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Endothelial progenitor cells (EPC) in sepsis with acute renal dysfunction (ARD)</article-title>
+  <source>Crit Care</source>
+  <year>2011</year>
+  <volume>15</volume>
+  <fpage>R94</fpage>
+  <pub-id pub-id-type="doi">10.1186/cc10100</pub-id>
+  <?supplied-pmid 21396100?>
+  <pub-id pub-id-type="pmid">21396100</pub-id>
+ </element-citation>
+</ref>

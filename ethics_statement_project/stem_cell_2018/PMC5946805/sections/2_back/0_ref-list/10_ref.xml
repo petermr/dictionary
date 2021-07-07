@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib10">
+ <label>10</label>
+ <element-citation publication-type="journal" id="sbref100">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sallah</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Wan</surname>
+    <given-names>JY</given-names>
+   </name>
+   <name>
+    <surname>Nguyen</surname>
+    <given-names>NP</given-names>
+   </name>
+  </person-group>
+  <article-title>Treatment of refractory T-cell malignancies using gemcitabine</article-title>
+  <source>Br J Haematol</source>
+  <volume>113</volume>
+  <year>2001</year>
+  <fpage>185</fpage>
+  <lpage>187</lpage>
+  <pub-id pub-id-type="pmid">11328299</pub-id>
+ </element-citation>
+</ref>

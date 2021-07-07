@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>de Wildt</surname>
+    <given-names>SN</given-names>
+   </name>
+   <name>
+    <surname>Kearns</surname>
+    <given-names>GL</given-names>
+   </name>
+   <name>
+    <surname>Leeder</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>van den Anker</surname>
+    <given-names>JN</given-names>
+   </name>
+  </person-group>
+  <article-title>Cytochrome P450 3A: ontogeny and drug disposition</article-title>
+  <source>Clin Pharmacokinet.</source>
+  <year>1999</year>
+  <volume>37</volume>
+  <fpage>485</fpage>
+  <lpage>505</lpage>
+  <?supplied-pmid 10628899?>
+  <pub-id pub-id-type="pmid">10628899</pub-id>
+ </element-citation>
+</ref>

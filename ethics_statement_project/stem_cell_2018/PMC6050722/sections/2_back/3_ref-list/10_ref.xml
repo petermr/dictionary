@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhang</surname>
+    <given-names>DY</given-names>
+   </name>
+   <name>
+    <surname>Yuan</surname>
+    <given-names>XQ</given-names>
+   </name>
+   <name>
+    <surname>Yan</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Cao</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>XL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Association between DCK 35708 T&gt;C variation and clinical outcomes of acute myeloid leukemia in South Chinese patients</article-title>
+  <source>Pharmacogenomics.</source>
+  <year>2016</year>
+  <volume>17</volume>
+  <fpage>1519</fpage>
+  <lpage>1531</lpage>
+  <pub-id pub-id-type="doi">10.2217/pgs-2016-0084</pub-id>
+  <?supplied-pmid 27548009?>
+  <pub-id pub-id-type="pmid">27548009</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR46">
+ <label>46.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xue</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>PY</given-names>
+   </name>
+   <name>
+    <surname>Yu</surname>
+    <given-names>QT</given-names>
+   </name>
+   <name>
+    <surname>Pan</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>LZ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Phase II study of sorafenib in combination with cisplatin and 5-fluorouracil to treat recurrent or metastatic nasopharyngeal carcinoma</article-title>
+  <source>Ann Oncol</source>
+  <year>2013</year>
+  <volume>24</volume>
+  <issue>4</issue>
+  <fpage>1055</fpage>
+  <lpage>1061</lpage>
+  <pub-id pub-id-type="doi">10.1093/annonc/mds581</pub-id>
+  <pub-id pub-id-type="pmid">23172635</pub-id>
+ </element-citation>
+</ref>

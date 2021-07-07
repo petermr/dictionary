@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>AE</term>
+   <def>
+    <p id="Par6">Adverse event</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ALT</term>
+   <def>
+    <p id="Par7">Alanine aminotransferase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ANC</term>
+   <def>
+    <p id="Par8">Absolute neutrophil count</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AR</term>
+   <def>
+    <p id="Par9">Adverse reaction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ASCT</term>
+   <def>
+    <p id="Par10">Autologous stem cell transplantation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ASCT
+    <sub>Aug</sub>
+   </term>
+   <def>
+    <p id="Par11">Autologous stem cell transplantation (augmented)</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ASCT
+    <sub>Con</sub>
+   </term>
+   <def>
+    <p id="Par12">Autologous stem cell transplantation (conventional)</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AUC</term>
+   <def>
+    <p id="Par13">Area under the curve</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BSA</term>
+   <def>
+    <p id="Par14">Body surface area</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BSBMT</term>
+   <def>
+    <p id="Par15">British Society of Blood and Marrow Transplantation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>C
+    <sub>max</sub>
+   </term>
+   <def>
+    <p id="Par16">Maximum plasma drug concentration</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CR</term>
+   <def>
+    <p id="Par17">Complete response</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CRF</term>
+   <def>
+    <p id="Par18">Case Report Form</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CRUK</term>
+   <def>
+    <p id="Par19">Cancer Research United Kingdom</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CTCAE</term>
+   <def>
+    <p id="Par20">Common Terminology Criteria for Adverse Events</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CTRU</term>
+   <def>
+    <p id="Par21">Clinical Trials Research Unit</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CYP</term>
+   <def>
+    <p id="Par22">Cytochrome P450</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>D
+    <sub>LCO</sub>
+   </term>
+   <def>
+    <p id="Par23">Carbon monoxide diffusion in the lung</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DMEC</term>
+   <def>
+    <p id="Par24">Data Monitoring and Ethics Committee</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DoR</term>
+   <def>
+    <p id="Par25">Depth of response</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DuR</term>
+   <def>
+    <p id="Par26">Durability of response</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ECOG</term>
+   <def>
+    <p id="Par27">Eastern Cooperative Oncology Group</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EORTC</term>
+   <def>
+    <p id="Par28">European Organisation for Research and Treatment of Cancer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FBC</term>
+   <def>
+    <p id="Par29">Full blood count</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IMiD</term>
+   <def>
+    <p id="Par30">Immunomodulatory drug</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IMP</term>
+   <def>
+    <p id="Par31">Investigational medicinal product</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IMWG</term>
+   <def>
+    <p id="Par32">International Myeloma Working Group</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ITD</term>
+   <def>
+    <p id="Par33">Ixazomib, thalidomide, dexamethasone</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ITT</term>
+   <def>
+    <p id="Par34">Intention-to-treat</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IV</term>
+   <def>
+    <p id="Par35">Intravenous</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>K
+    <sub>CO</sub>
+   </term>
+   <def>
+    <p id="Par36">Carbon monoxide transfer coefficient</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>mg</term>
+   <def>
+    <p id="Par37">Milligram</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MM</term>
+   <def>
+    <p id="Par38">Multiple myeloma</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MR</term>
+   <def>
+    <p id="Par39">Minimal response</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MRD</term>
+   <def>
+    <p id="Par40">Minimal residual disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NCI</term>
+   <def>
+    <p id="Par41">National Cancer Institute</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NCRI</term>
+   <def>
+    <p id="Par42">National Cancer Research Institute</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NICE</term>
+   <def>
+    <p id="Par43">National Institute for Health and Care Excellence</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OS</term>
+   <def>
+    <p id="Par44">Overall survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PBMC</term>
+   <def>
+    <p id="Par45">Peripheral blood mononuclear cell</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PBSC</term>
+   <def>
+    <p id="Par46">Peripheral blood stem cell</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PD</term>
+   <def>
+    <p id="Par47">Progressive disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PFS</term>
+   <def>
+    <p id="Par48">Progression-free survival</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PFS2</term>
+   <def>
+    <p id="Par49">Time to second progression</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>QoL</term>
+   <def>
+    <p id="Par50">Quality of life</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>R1</term>
+   <def>
+    <p id="Par51">Randomisation 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>R2</term>
+   <def>
+    <p id="Par52">Randomisation 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RCT</term>
+   <def>
+    <p id="Par53">Randomised controlled trial</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>REC</term>
+   <def>
+    <p id="Par54">Research Ethics Committee</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SAE</term>
+   <def>
+    <p id="Par55">Serious adverse event</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SAR</term>
+   <def>
+    <p id="Par56">Serious adverse reaction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SC</term>
+   <def>
+    <p id="Par57">Subcutaneous</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>sCR</term>
+   <def>
+    <p id="Par58">Stringent complete response</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SD</term>
+   <def>
+    <p id="Par59">Stable disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SOP</term>
+   <def>
+    <p id="Par60">Standard operating procedure</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SUSAR</term>
+   <def>
+    <p id="Par61">Suspected unexpected serious adverse reaction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TMG</term>
+   <def>
+    <p id="Par62">Trial Management Group</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TSC</term>
+   <def>
+    <p id="Par63">Trial Steering Committee</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ULN</term>
+   <def>
+    <p id="Par64">Upper limit of normal</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VGPR</term>
+   <def>
+    <p id="Par65">Very good partial response</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

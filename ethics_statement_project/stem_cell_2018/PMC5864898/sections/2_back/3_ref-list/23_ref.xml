@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B23">
+ <label>23</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kenna</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Golden-Mason</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Norris</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Hegarty</surname>
+    <given-names>JE</given-names>
+   </name>
+   <name>
+    <surname>O’Farrelly</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Doherty</surname>
+    <given-names>DG</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Distinct subpopulations of gamma delta T cells are present in normal and tumor-bearing human liver</article-title>. 
+  <source>Clin Immunol</source> (
+  <year>2004</year>) 
+  <volume>113</volume>:
+  <fpage>56</fpage>–
+  <lpage>63</lpage>.
+  <pub-id pub-id-type="doi">10.1016/j.clim.2004.05.003</pub-id>
+  <?supplied-pmid 15380530?>
+  <pub-id pub-id-type="pmid">15380530</pub-id>
+ </mixed-citation>
+</ref>

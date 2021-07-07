@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Reck</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>von Pawel</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Zatloukal</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Ramlau</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Gorbounova</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Hirsh</surname>
+    <given-names>V</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Overall survival with cisplatin-gemcitabine and bevacizumab or placebo as first-line therapy for nonsquamous non-small-cell lung cancer: results from a randomised phase III trial (AVAiL)</article-title>
+  <source>Ann Oncol</source>
+  <year>2010</year>
+  <volume>21</volume>
+  <fpage>1804</fpage>
+  <lpage>1809</lpage>
+  <pub-id pub-id-type="doi">10.1093/annonc/mdq020</pub-id>
+  <?supplied-pmid 20150572?>
+  <pub-id pub-id-type="pmid">20150572</pub-id>
+ </element-citation>
+</ref>

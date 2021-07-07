@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R16">
+ <label>16.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Pittenger</surname>
+    <given-names>MF</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Mackay</surname>
+    <given-names>AM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Beck</surname>
+    <given-names>SC</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Multilineage potential of adult human mesenchymal stem cells</article-title>. 
+  <source>Science</source>
+  <year>1999</year>;
+  <volume>284</volume>:
+  <fpage>143</fpage>–
+  <lpage>7</lpage>. 
+  <pub-id pub-id-type="doi">10.1126/science.284.5411.143</pub-id>
+  <pub-id pub-id-type="pmid">10102814</pub-id>
+ </mixed-citation>
+</ref>

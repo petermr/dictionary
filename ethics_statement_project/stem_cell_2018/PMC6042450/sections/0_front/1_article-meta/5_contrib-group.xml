@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Cao</surname>
+   <given-names>Yun</given-names>
+  </name>
+  <address>
+   <email>cy19891006@126.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Sun</surname>
+   <given-names>Haixiang</given-names>
+  </name>
+  <address>
+   <email>stevensunz@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Zhu</surname>
+   <given-names>Hui</given-names>
+  </name>
+  <address>
+   <email>zhuhui1231@126.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhu</surname>
+   <given-names>Xianghong</given-names>
+  </name>
+  <address>
+   <email>zxh3008@126.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tang</surname>
+   <given-names>Xiaoqiu</given-names>
+  </name>
+  <address>
+   <email>gt4205@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yan</surname>
+   <given-names>Guijun</given-names>
+  </name>
+  <address>
+   <email>yanguijun55@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Jingmei</given-names>
+  </name>
+  <address>
+   <email>jingmei027@126.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bai</surname>
+   <given-names>Donghui</given-names>
+  </name>
+  <address>
+   <email>donghuibai1989@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Juan</given-names>
+  </name>
+  <address>
+   <email>juan920846643@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Liu</given-names>
+  </name>
+  <address>
+   <email>wangliu@ioz.ac.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhou</surname>
+   <given-names>Qi</given-names>
+  </name>
+  <address>
+   <email>zhouqi@ioz.ac.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Huiyan</given-names>
+  </name>
+  <address>
+   <email>whylm@hotmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dai</surname>
+   <given-names>Chengyan</given-names>
+  </name>
+  <address>
+   <email>1763233177@qq.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ding</surname>
+   <given-names>Lijun</given-names>
+  </name>
+  <address>
+   <email>xmljding@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Biyun</given-names>
+  </name>
+  <address>
+   <email>drxby@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhou</surname>
+   <given-names>Yan</given-names>
+  </name>
+  <address>
+   <email>yzhou@cgl.ucsf.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Hao</surname>
+   <given-names>Jie</given-names>
+  </name>
+  <address>
+   <email>haojie@ioz.ac.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Dai</surname>
+   <given-names>Jianwu</given-names>
+  </name>
+  <address>
+   <email>jwdai@genetics.ac.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5475-7840</contrib-id>
+  <name>
+   <surname>Hu</surname>
+   <given-names>Yali</given-names>
+  </name>
+  <address>
+   <email>yalihu@nju.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1800 1685</institution-id>
+   <institution-id institution-id-type="GRID">grid.428392.6</institution-id>
+   <institution>The Affiliated Drum Tower Hospital of Nanjing University Medical School, </institution>
+  </institution-wrap>Nanjing, China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000119573309</institution-id>
+   <institution-id institution-id-type="GRID">grid.9227.e</institution-id>
+   <institution>Institute of Zoology, </institution>
+   <institution>Chinese Academy of Sciences, </institution>
+  </institution-wrap>1 West Beichen Road, Chaoyang district, Beijing, 100101 China 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000119573309</institution-id>
+   <institution-id institution-id-type="GRID">grid.9227.e</institution-id>
+   <institution>Institute of Genetics and Developmental Biology, </institution>
+   <institution>Chinese Academy of Sciences, </institution>
+  </institution-wrap>3 Nanyitiao, Zhongguancun, Beijing, 100190 China 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2297 6811</institution-id>
+   <institution-id institution-id-type="GRID">grid.266102.1</institution-id>
+   <institution>University of California, </institution>
+  </institution-wrap>San Francisco, CA USA 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1800 1685</institution-id>
+   <institution-id institution-id-type="GRID">grid.428392.6</institution-id>
+   <institution>Department of Obstetrics and Gynecology, </institution>
+   <institution>Nanjing Drum Tower Hospital and Jiangsu Key Laboratory for Molecular Medicine, Nanjing University Medical School, </institution>
+  </institution-wrap>321 Zhongshan Road, Nanjing, China 
+ </aff>
+</contrib-group>

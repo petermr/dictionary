@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fleischer</surname>
+   <given-names>Tom</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff1-1534735418756736">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chang</surname>
+   <given-names>Tung-Ti</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff1-1534735418756736">1</xref>
+  <xref ref-type="aff" rid="aff2-1534735418756736">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chiang</surname>
+   <given-names>Jen-Huai</given-names>
+  </name>
+  <degrees>MS</degrees>
+  <xref ref-type="aff" rid="aff1-1534735418756736">1</xref>
+  <xref ref-type="aff" rid="aff2-1534735418756736">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0131-1658</contrib-id>
+  <name>
+   <surname>Yen</surname>
+   <given-names>Hung-Rong</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff1-1534735418756736">1</xref>
+  <xref ref-type="aff" rid="aff2-1534735418756736">2</xref>
+  <xref ref-type="aff" rid="aff3-1534735418756736">3</xref>
+  <xref ref-type="corresp" rid="corresp1-1534735418756736"/>
+ </contrib>
+</contrib-group>

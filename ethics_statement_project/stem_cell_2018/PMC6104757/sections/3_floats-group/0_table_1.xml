@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Inclusion and exclusion criteria</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Inclusion criteria</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Exclusion criteria</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Ulcer with underlying calcinosis (ruled out by X-ray prior to screening/inclusion)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Age &gt;18 years</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">History of neoplasm or malignancy in the past 10 years</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Established diagnosis of SSc according to the 2013 ACR/EULAR criteria</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Pregnancy or unwillingness to use adequate contraception during study</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">At least one active digital ulcer (painful area, &gt;2 mm in diameter with visible depth and loss of dermis) refractory to intravenous prostacyclins:
+     <list list-type="bullet">
+      <list-item>
+       <p>Refractory to prostacyclins is defined as</p>
+       <list list-type="bullet">
+        <list-item>
+         <p>Worsening of ulcer(s) within 1 month after intravenous prostacyclins</p>
+        </list-item>
+        <list-item>
+         <p>No improvement of ulcer(s) after 2 months after intravenous prostacyclins, as judged by the referring physician</p>
+        </list-item>
+        <list-item>
+         <p>Recurrence of exactly the same ulcer(s) (same location) within 3 months after intravenous prostacyclins</p>
+        </list-item>
+       </list>
+      </list-item>
+     </list>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Serious known concomitant disease with life expectancy &lt;1 year</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Written informed consent</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Uncontrolled hypertension</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Uncontrolled acute or chronic infection with systemic symptoms (eg, fever)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Follow-up impossible</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tblfn1">
+   <p>ACR, American College of Rheumatology; EULAR, European League Against Rheumatism; SSc, systemic sclerosis.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

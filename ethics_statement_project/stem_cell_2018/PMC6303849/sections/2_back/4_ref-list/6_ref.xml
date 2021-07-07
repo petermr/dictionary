@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dominguez</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Rincon</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Abraldes</surname>
+    <given-names>JG</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A new scoring system for prognostic stratification of patients with alcoholic hepatitis</article-title>
+  <source>Am J Gastroenterol</source>
+  <year>2008</year>
+  <volume>103</volume>
+  <fpage>2747</fpage>
+  <lpage>2756</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1572-0241.2008.02104.x</pub-id>
+  <pub-id pub-id-type="pmid">18721242</pub-id>
+ </element-citation>
+</ref>

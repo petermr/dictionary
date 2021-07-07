@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par72">All relevant data are available from the authors. All RNA-Sequencing files that support the findings of this study have been deposited in GEO with the accession code PRJNA369574. The RNA-Seq pipeline and the analysis scripts can be found on the respective websites: 
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/elswob/rna-seq-pipe" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/elswob/rna-seq-pipe</ext-link> and 
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/elswob/Hh" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/elswob/Hh</ext-link>.
+</p>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B51">
+ <label>51</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dimova</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Brouwer</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Gosselin</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Tassignon</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Leo</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Donner</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Effector Vgamma9Vdelta2 T cells dominate the human fetal gammadelta T-cell repertoire</article-title>. 
+  <source>Proc Natl Acad Sci U S A</source> (
+  <year>2015</year>) 
+  <volume>112</volume>:
+  <fpage>E556</fpage>–
+  <lpage>65</lpage>.
+  <pub-id pub-id-type="doi">10.1073/pnas.1412058112</pub-id>
+  <pub-id pub-id-type="pmid">25617367</pub-id>
+ </mixed-citation>
+</ref>

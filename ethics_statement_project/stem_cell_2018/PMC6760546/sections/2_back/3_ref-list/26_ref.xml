@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zheng</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Matte-Martone</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Anderson</surname>
+    <given-names>BE</given-names>
+   </name>
+   <name>
+    <surname>Venketesan</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Sheng Tan</surname>
+    <given-names>H</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Effector memory CD4 + T cells mediate graft-versus-leukemia without inducing graft-versus-host disease</article-title>
+  <source>Blood</source>
+  <year>2008</year>
+  <volume>111</volume>
+  <fpage>2476</fpage>
+  <lpage>84</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2007-08-109678</pub-id>
+  <pub-id pub-id-type="pmid">18045967</pub-id>
+ </element-citation>
+</ref>

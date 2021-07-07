@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schmiegelow</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Forestier</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Hellebostad</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Heyman</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Kristinsson</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Soderhall</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Taskinen</surname>
+    <given-names>M</given-names>
+   </name>
+   <collab>Nordic Society of Paediatric H, Oncology</collab>
+  </person-group>
+  <article-title>Long-term results of NOPHO ALL-92 and ALL-2000 studies of childhood acute lymphoblastic leukemia</article-title>
+  <source>Leukemia</source>
+  <year>2010</year>
+  <volume>24</volume>
+  <issue>2</issue>
+  <fpage>345</fpage>
+  <lpage>354</lpage>
+  <pub-id pub-id-type="doi">10.1038/leu.2009.251</pub-id>
+  <?supplied-pmid 20010622?>
+  <pub-id pub-id-type="pmid">20010622</pub-id>
+ </element-citation>
+</ref>

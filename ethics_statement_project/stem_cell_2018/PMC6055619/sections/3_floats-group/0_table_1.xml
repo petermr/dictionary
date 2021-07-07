@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="bjh15394-tbl-0001" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Patient demographics and baseline disease characteristics among all patients, by study phase, and in the mITT population</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <thead valign="top">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="top" rowspan="1" colspan="1"/>
+    <th align="char" valign="top" rowspan="1" colspan="1">Phase 1 
+     <italic>n </italic>= 14
+    </th>
+    <th align="char" valign="top" rowspan="1" colspan="1">Phase 2 
+     <italic>n </italic>= 50
+    </th>
+    <th align="char" valign="top" rowspan="1" colspan="1">mITT 
+     <italic>n </italic>= 57
+    </th>
+    <th align="char" valign="top" rowspan="1" colspan="1">Total 
+     <italic>N </italic>= 64
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Median age, years (range)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">63 (42–78)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">63·5 (34–82)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">64 (34–82)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">63·5 (34–82)</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Male/female, 
+     <italic>n</italic> (%)
+    </td>
+    <td align="char" char=" " rowspan="1" colspan="1">9 (64)/5 (36)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">31 (62)/19 (38)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">36 (63)/21 (37)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">40 (63)/24 (38)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="5" rowspan="1">Race, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">White</td>
+    <td align="char" char=" " rowspan="1" colspan="1">12 (86)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">42 (84)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">47 (82)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">54 (84)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Black or African American</td>
+    <td align="char" char=" " rowspan="1" colspan="1">1 (7)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">7 (14)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">8 (14)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">8 (13)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other/not reported</td>
+    <td align="char" char=" " rowspan="1" colspan="1">1 (7)/0</td>
+    <td align="char" char=" " rowspan="1" colspan="1">0/1 (2)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">1 (2)/1 (2)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">1 (2)/1 (2)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="5" rowspan="1">ECOG performance status, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td>
+    <td align="char" char=" " rowspan="1" colspan="1">8 (57)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">27 (54)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">30 (53)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">35 (55)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td>
+    <td align="char" char=" " rowspan="1" colspan="1">5 (36)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">21 (42)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">25 (44)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">26 (41)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td>
+    <td align="char" char=" " rowspan="1" colspan="1">1 (7)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">2 (4)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">2 (4)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">3 (5)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="5" rowspan="1">ISS disease stage at diagnosis, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">I</td>
+    <td align="char" char=" " rowspan="1" colspan="1">8 (57)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">23 (46)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">25 (44)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">31 (48)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">II</td>
+    <td align="char" char=" " rowspan="1" colspan="1">5 (36)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">17 (34)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">21 (37)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">22 (34)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">III</td>
+    <td align="char" char=" " rowspan="1" colspan="1">1 (7)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">10 (20)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">11 (19)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">11 (17)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="5" rowspan="1">MM disease subtype, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">IgG</td>
+    <td align="char" char=" " rowspan="1" colspan="1">7 (50)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">31 (62)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">34 (60)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">38 (59)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">IgA</td>
+    <td align="char" char=" " rowspan="1" colspan="1">3 (21)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">13 (26)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">15 (26)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">16 (25)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Light chain</td>
+    <td align="char" char=" " rowspan="1" colspan="1">3 (21)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">4 (8)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">6 (11)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">7 (11)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Biclonal</td>
+    <td align="char" char=" " rowspan="1" colspan="1">1 (7)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">1 (2)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">1 (2)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">2 (3)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Unknown</td>
+    <td align="char" char=" " rowspan="1" colspan="1">0</td>
+    <td align="char" char=" " rowspan="1" colspan="1">1 (2)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">1 (2)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">1 (2)</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Creatinine clearance, ml/min, median (range)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">70·6 (31·68–140·61)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">74·9 (40·94–180·50)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">74·6 (31·68–180·50)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">74·6 (31·68–180·50)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="5" rowspan="1">Cytogenetic testing,
+     <xref ref-type="fn" rid="bjh15394-note-0002">a</xref>
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Conventional/karyotype</td>
+    <td align="char" char=" " rowspan="1" colspan="1">0</td>
+    <td align="char" char=" " rowspan="1" colspan="1">2 (4)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">2 (4)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">2 (3)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Molecular/FISH</td>
+    <td align="char" char=" " rowspan="1" colspan="1">12 (86)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">14 (28)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">20 (35)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">26 (41)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Both</td>
+    <td align="char" char=" " rowspan="1" colspan="1">2 (14)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">34 (68)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">35 (61)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">36 (56)</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Patients with cytogenetic abnormality, 
+     <italic>n</italic> (%)
+    </td>
+    <td align="char" char=" " rowspan="1" colspan="1">11 (79)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">31 (62)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">36 (63)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">42 (66)</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Patients with high‐risk cytogenetics,
+     <xref ref-type="fn" rid="bjh15394-note-0003">b</xref>
+     <italic>n</italic> (%)
+    </td>
+    <td align="char" char=" " rowspan="1" colspan="1">1 (7)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">5 (10)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">6 (11)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">6 (9)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Monosomy 17/del17p </td>
+    <td align="char" char=" " rowspan="1" colspan="1">0</td>
+    <td align="char" char=" " rowspan="1" colspan="1">3 (6)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">3 (5)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">3 (5)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">t(4;14)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">1 (7)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">2 (4)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">3 (5)</td>
+    <td align="char" char=" " rowspan="1" colspan="1">3 (5)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="bjh15394-note-0001">
+   <p>ECOG, Eastern Cooperative Oncology Group; FISH, fluorescence in‐situ hybridisation; Ig, immunoglobulin; ISS, International Staging System; mITT, modified intent to treat; MM, multiple myeloma.</p>
+  </fn>
+  <fn id="bjh15394-note-0002">
+   <label>a</label>
+   <p>Cytogenetics were evaluated locally.</p>
+  </fn>
+  <fn id="bjh15394-note-0003">
+   <label>b</label>
+   <p>High‐risk cytogenetics included del17, t(4;14), t(14;16).</p>
+  </fn>
+ </table-wrap-foot>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+ </permissions>
+</table-wrap>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Echocardiographic findings at baseline and after 6 and 12 months</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Parameter</th>
+    <th>Baseline</th>
+    <th>6 months</th>
+    <th>12 months</th>
+    <th>
+     <italic>p</italic> value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>LVEF (%)</td>
+    <td>41.1 ± 9.5</td>
+    <td>40.9 ± 11.0</td>
+    <td>39.5 ± 10.7</td>
+    <td>0.76</td>
+   </tr>
+   <tr>
+    <td>LVESV (ml)</td>
+    <td>93.4 ± 38.5</td>
+    <td>92.1 ± 36.6</td>
+    <td>96.3 ± 40.1</td>
+    <td>0.78</td>
+   </tr>
+   <tr>
+    <td>LVEDV (ml)</td>
+    <td>153.5 ± 45.0</td>
+    <td>152.1 ± 33.7</td>
+    <td>154.2 ± 36.9</td>
+    <td>0.96</td>
+   </tr>
+   <tr>
+    <td>WMSI</td>
+    <td>1.8 ± 0.5</td>
+    <td>1.8 ± 0.5</td>
+    <td>1.9 ± 0.5</td>
+    <td>0.43</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Data presented as mean ± standard deviation</p>
+  <p>
+   <italic>LVEF</italic> left ventricular ejection fraction, 
+   <italic>LVESV</italic> left ventricular end-systolic volume, 
+   <italic>LVEDV</italic> left ventricular end-diastolic volume, 
+   <italic>WMSI</italic> wall motion score index
+  </p>
+ </table-wrap-foot>
+</table-wrap>

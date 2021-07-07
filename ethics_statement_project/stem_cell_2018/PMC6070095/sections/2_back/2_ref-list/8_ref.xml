@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0008">
+ <label>8.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Frey</surname>
+    <given-names>NV</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Levine</surname>
+    <given-names>BL</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Lacey</surname>
+    <given-names>SF</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Refractory cytokine release syndrome in recipients of chimeric antigen receptor (CAR) T cells</article-title>. 
+  <source>Blood</source>
+  <year>2014</year>; 
+  <volume>24</volume>:
+  <fpage>2296</fpage>.
+ </mixed-citation>
+</ref>

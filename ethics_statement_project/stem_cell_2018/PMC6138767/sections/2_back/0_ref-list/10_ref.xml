@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib10">
+ <label>10</label>
+ <element-citation publication-type="journal" id="sref10">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>H.M.</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>C.H.</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>J.S.</given-names>
+   </name>
+   <name>
+    <surname>Chang</surname>
+    <given-names>H.K.</given-names>
+   </name>
+   <name>
+    <surname>Kiu</surname>
+    <given-names>M.C.</given-names>
+   </name>
+   <name>
+    <surname>Liaw</surname>
+    <given-names>C.C.</given-names>
+   </name>
+  </person-group>
+  <article-title>Cisplatin and 5-fluorouracil as neoadjuvant chemotherapy: predicting response in head and neck squamous cell cancer</article-title>
+  <source>J Formos Med Assoc</source>
+  <volume>94</volume>
+  <year>1995</year>
+  <fpage>87</fpage>
+  <lpage>94</lpage>
+  <pub-id pub-id-type="pmid">7613250</pub-id>
+ </element-citation>
+</ref>

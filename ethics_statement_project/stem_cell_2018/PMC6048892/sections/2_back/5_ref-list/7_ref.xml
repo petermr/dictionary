@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Seute</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Leffers</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>ten Velde</surname>
+    <given-names>GPM</given-names>
+   </name>
+   <name>
+    <surname>Twijnstra</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Neurologic disorders in 432 consecutive patients with small cell lung carcinoma</article-title>
+  <source>Cancer.</source>
+  <year>2004</year>
+  <volume>100</volume>
+  <fpage>801</fpage>
+  <lpage>806</lpage>
+  <pub-id pub-id-type="doi">10.1002/cncr.20043</pub-id>
+  <?supplied-pmid 14770437?>
+  <pub-id pub-id-type="pmid">14770437</pub-id>
+ </element-citation>
+</ref>

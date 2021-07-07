@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0021">
+ <label>21.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Gardner</surname>
+    <given-names>RA</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Finney</surname>
+    <given-names>O</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Annesley</surname>
+    <given-names>C</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Intent-to-treat leukemia remission by CD19 CAR T cells of defined formulation and dose in children and young adults</article-title>. 
+  <source>Blood</source>
+  <year>2017</year>; 
+  <volume>129</volume>:
+  <fpage>3322</fpage>–
+  <lpage>31</lpage>.
+  <pub-id pub-id-type="pmid">28408462</pub-id>
+ </mixed-citation>
+</ref>

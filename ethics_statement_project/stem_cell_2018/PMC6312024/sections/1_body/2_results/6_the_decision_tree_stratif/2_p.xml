@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In a multivariate Cox proportional hazards model for overall survival, decision-tree-identified risk groups and platelet counts from 0-590 days were associated with survival (intermediate-risk: HR=1.83; 95% CI; 
+ <italic>P</italic>=0.03, high-risk: HR=2.65; 95% CI: 1.42-4.94; 
+ <italic>P</italic>=0.002; platelet count: HR=3.10; 95% CI: 1.77-5.42; 
+ <italic>P</italic>&lt;0.0001). NIH-Severity was not predictive of survival (moderate: HR=1.49; 95% CI: 0.66-3.38; 
+ <italic>P</italic>=0.34; severe: HR=1.71; 95% CI: 0.75-3.90; 
+ <italic>P</italic>=0.20). A model of decision-tree risk group and NIH-Severity alone showed no statistically significant interaction between these variables. The association between platelet counts and machine-learning-defined clusters is illustrated in 
+ <italic>Online Supplementary Figure S7</italic>.
+</p>

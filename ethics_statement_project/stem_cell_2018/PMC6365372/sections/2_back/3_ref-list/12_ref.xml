@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>DiPersio</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Micallef</surname>
+    <given-names>IN</given-names>
+   </name>
+   <name>
+    <surname>Stiff</surname>
+    <given-names>PJ</given-names>
+   </name>
+   <name>
+    <surname>Bolwell</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Maziarz</surname>
+    <given-names>RT</given-names>
+   </name>
+   <name>
+    <surname>Jacobsen</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Phase III prospective randomized double-blind placebo-controlled trial of plerixafor plus granulocyte colony-stimulating factor compared with placebo plus granulocyte colony-stimulating factor for autologous stem-cell mobilization and transplantation for patients with non-Hodgkin’s lymphoma</article-title>
+  <source>J Clin Oncol</source>
+  <year>2009</year>
+  <volume>27</volume>
+  <fpage>4767</fpage>
+  <lpage>73</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2008.20.7209</pub-id>
+  <pub-id pub-id-type="pmid">19720922</pub-id>
+ </element-citation>
+</ref>

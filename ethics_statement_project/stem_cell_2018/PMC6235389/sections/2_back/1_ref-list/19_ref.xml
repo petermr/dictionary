@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>NY</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Pfister</surname>
+    <given-names>DG</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Garden</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Mechalakos</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Addition of bevacizumab to standard chemoradiation for locoregionally advanced nasopharyngeal carcinoma (RTOG 0615): a phase 2 multi-institutional trial</article-title>
+  <source>Lancet Oncol</source>
+  <year>2012</year>
+  <volume>13</volume>
+  <issue>2</issue>
+  <fpage>172</fpage>
+  <lpage>180</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(11)70303-5</pub-id>
+  <pub-id pub-id-type="pmid">22178121</pub-id>
+ </element-citation>
+</ref>

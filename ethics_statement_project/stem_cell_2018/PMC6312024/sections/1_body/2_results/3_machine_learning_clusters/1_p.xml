@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In a cluster stability analysis involving four additional runs of viSNE and FlowSOM using the same organ features, five of the seven clusters were highly stable (
+ <italic>Online Supplementary Figure S5</italic>). Stability was defined as having a median f-measure ≥0.85. Stable clusters had phenotypically similar MEM labels between replications of analysis as well. Clusters 2-5 and 7 were highly stable. Clusters 1 and 6 were unstable with low reproducibility between replications of analysis.
+</p>

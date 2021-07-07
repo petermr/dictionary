@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Trecarichi</surname>
+    <given-names>EM</given-names>
+   </name>
+   <name>
+    <surname>Pagano</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Martino</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Candoni</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Di Blasi</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Nadali</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Bloodstream infections caused by 
+   <italic>Klebsiella pneumoniae</italic> in onco-hematological patients: clinical impact of carbapenem resistance in a multicentre prospective survey
+  </article-title>
+  <source>Am J Hematol</source>
+  <year>2016</year>
+  <volume>91</volume>
+  <fpage>1076</fpage>
+  <lpage>1081</lpage>
+  <pub-id pub-id-type="doi">10.1002/ajh.24489</pub-id>
+  <?supplied-pmid 27428072?>
+  <pub-id pub-id-type="pmid">27428072</pub-id>
+ </element-citation>
+</ref>

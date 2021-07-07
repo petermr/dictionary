@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Osborne</surname>
+    <given-names>RH</given-names>
+   </name>
+   <name>
+    <surname>Hawthorne</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Lew</surname>
+    <given-names>EA</given-names>
+   </name>
+   <name>
+    <surname>Gray</surname>
+    <given-names>LC</given-names>
+   </name>
+  </person-group>
+  <article-title>Quality of life assessment in the community-dwelling elderly: validation of the assessment of quality of life (AQoL) instrument and comparison with the SF-36</article-title>
+  <source>J Clin Epidemiol</source>
+  <year>2003</year>
+  <volume>56</volume>
+  <fpage>138</fpage>
+  <lpage>147</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0895-4356(02)00601-7</pub-id>
+  <?supplied-pmid 12654408?>
+  <pub-id pub-id-type="pmid">12654408</pub-id>
+ </element-citation>
+</ref>

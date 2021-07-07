@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="ajh25238-cr-0001" contrib-type="author" corresp="yes">
+  <name>
+   <surname>Cortes</surname>
+   <given-names>Jorge E.</given-names>
+  </name>
+  <address>
+   <email>jcortes@mdanderson.org</email>
+  </address>
+  <xref ref-type="aff" rid="ajh25238-aff-0001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0002" contrib-type="author">
+  <name>
+   <surname>Douglas Smith</surname>
+   <given-names>B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0003" contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Eunice S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0003">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0004" contrib-type="author">
+  <name>
+   <surname>Merchant</surname>
+   <given-names>Akil</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0004">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0005" contrib-type="author">
+  <name>
+   <surname>Oehler</surname>
+   <given-names>Vivian G.</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0005">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0006" contrib-type="author">
+  <name>
+   <surname>Arellano</surname>
+   <given-names>Martha</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0006">
+   <sup>6</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0007" contrib-type="author">
+  <name>
+   <surname>DeAngelo</surname>
+   <given-names>Daniel J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0007">
+   <sup>7</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0008" contrib-type="author">
+  <name>
+   <surname>Pollyea</surname>
+   <given-names>Daniel A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0008">
+   <sup>8</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0009" contrib-type="author">
+  <name>
+   <surname>Sekeres</surname>
+   <given-names>Mikkael A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0009">
+   <sup>9</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0010" contrib-type="author">
+  <name>
+   <surname>Robak</surname>
+   <given-names>Tadeusz</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3411-6357</contrib-id>
+  <xref ref-type="aff" rid="ajh25238-aff-0010">
+   <sup>10</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0011" contrib-type="author">
+  <name>
+   <surname>Ma</surname>
+   <given-names>Weidong Wendy</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0011">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0012" contrib-type="author">
+  <name>
+   <surname>Zeremski</surname>
+   <given-names>Mirjana</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0011">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0013" contrib-type="author">
+  <name>
+   <surname>Naveed Shaik</surname>
+   <given-names>M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0011">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0014" contrib-type="author">
+  <name>
+   <surname>Douglas Laird</surname>
+   <given-names>A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0011">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0015" contrib-type="author">
+  <name>
+   <surname>O'Connell</surname>
+   <given-names>Ashleigh</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0011">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0016" contrib-type="author">
+  <name>
+   <surname>Chan</surname>
+   <given-names>Geoffrey</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0011">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib id="ajh25238-cr-0017" contrib-type="author">
+  <name>
+   <surname>Schroeder</surname>
+   <given-names>Mark A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="ajh25238-aff-0012">
+   <sup>12</sup>
+  </xref>
+ </contrib>
+</contrib-group>

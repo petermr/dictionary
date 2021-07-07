@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lassen</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Kristjansen</surname>
+    <given-names>PE</given-names>
+   </name>
+   <name>
+    <surname>Hansen</surname>
+    <given-names>HH</given-names>
+   </name>
+  </person-group>
+  <article-title>Brain metastases in small-cell lung cancer</article-title>
+  <source>Ann Oncol.</source>
+  <year>1995</year>
+  <volume>6</volume>
+  <fpage>941</fpage>
+  <lpage>944</lpage>
+  <pub-id pub-id-type="doi">10.1093/oxfordjournals.annonc.a059363</pub-id>
+  <?supplied-pmid 8624299?>
+  <pub-id pub-id-type="pmid">8624299</pub-id>
+ </element-citation>
+</ref>

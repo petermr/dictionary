@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Phenotype, T cell stimulatory and migratory capacity of DCP-001. DCP-001 was analyzed for 
+   <bold>a</bold> expression of dendritic cell markers and costimulatory molecules, 
+   <bold>b</bold> its allogeneic T cell stimulatory capacity and 
+   <bold>c</bold> ability to migrate to lymph node homing chemokines 6CKine and MIP3ß. 
+   <bold>a</bold> Expression levels of CD1a, langerin, and several costimulatory molecules were analyzed by flow cytometry; isotype-matched controls (shaded histograms) and the tested markers (closed histograms) are indicated. Mean fluorescence is shown in each panel. 
+   <bold>b</bold> Allogeneic T cell stimulatory capacity was analyzed by MLR. Proliferation of CFSE-labeled PBL was assessed after culture for 6 days with a dose range of DCP-001 cells as stimulators. CFSE dilution was used as a measure of percentage of proliferated cells. Results of three different DCP-001 batches, each as mean ± SD performed in six replicates. 
+   <bold>c</bold> Analysis of migratory capacity of DCP-001. Cells were analyzed for their capacity to migrate toward LN homing chemokines in a trans-well migration assay. Migration toward medium, 6CKine and MIP3ß is given as a percentage of migrated cells. Data represent mean ± SD of three independent batches of DCP-001 each performed in triplicate. Each batch refers to a clinical batch. 
+   <bold>d</bold> QC release on phenotype for DCP-001 batches. Results show the mean ± SD of three independently produced clinical batches. The %CV between the batches is &lt; 10% pointing to a high-batch comparability
+  </p>
+ </caption>
+ <graphic xlink:href="262_2018_2198_Fig1_HTML" id="d29e1007" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

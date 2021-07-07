@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R21">
+ <label>21.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Iten</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Perrier</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Lovis</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>[Deployment of a computerized physician order entry: description of the process and challenges]</article-title>. 
+  <source>Rev Med Suisse</source>
+  <year>2006</year>;
+  <volume>2</volume>:
+  <fpage>2344</fpage>–
+  <lpage>6</lpage>.
+  <pub-id pub-id-type="pmid">17112085</pub-id>
+ </mixed-citation>
+</ref>

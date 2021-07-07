@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR48">
+ <label>48.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dravis</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Sox10 regulates stem/progenitor and mesenchymal cell states in mammary epithelial cells</article-title>
+  <source>Cell Rep.</source>
+  <year>2015</year>
+  <volume>12</volume>
+  <fpage>2035</fpage>
+  <lpage>2048</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.celrep.2015.08.040</pub-id>
+  <?supplied-pmid 26365194?>
+  <pub-id pub-id-type="pmid">26365194</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib4">
+ <label>4</label>
+ <element-citation publication-type="journal" id="sref4">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McBain</surname>
+    <given-names>V.A.</given-names>
+   </name>
+   <name>
+    <surname>Townend</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Lois</surname>
+    <given-names>N.</given-names>
+   </name>
+  </person-group>
+  <article-title>Progression of retinal pigment epithelial atrophy in Stargardt disease</article-title>
+  <source>Am J Ophthalmol</source>
+  <volume>154</volume>
+  <year>2012</year>
+  <fpage>146</fpage>
+  <lpage>154</lpage>
+  <pub-id pub-id-type="pmid">22464366</pub-id>
+ </element-citation>
+</ref>

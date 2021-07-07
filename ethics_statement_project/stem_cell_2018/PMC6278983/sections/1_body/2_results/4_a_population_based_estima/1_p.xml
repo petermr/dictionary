@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>As pointed out above, the LSC proliferation rate 
+ <italic>p
+  <sub>Y</sub>
+ </italic>, as an indicator of the ‘aggressiveness’ of the untreated disease, is intrinsically unknown. In order to circumvent this limitation, we also used a population-based estimate derived from CML latency times, i.e. the time between the first leukemic transformation and diagnosis, given that no secondary events change the kinetics of disease emergence (
+ <italic>Online Supplementary Figure S6A</italic>). Sampling from a distribution of CML latency times as reported by Radivoyevitch 
+ <italic>et al</italic>.
+ <sup>
+  <xref rid="b27-1031825" ref-type="bibr">27</xref>
+ </sup> [median latency time = 6.9 years, IQR (5.0,10.1)] (
+ <italic>Online Supplementary Figure S6B</italic>) and taking into account the observed TKI response, we obtained an individual distribution of possible proliferation rates 
+ <italic>p
+  <sub>Y</sub>
+ </italic> for each patient (
+ <italic>Online Supplementary Figure S6C</italic>). In other words, we fit our mathematical model several times under different, plausible assumptions about the aggressiveness of the underlying leukemia. For each of those hypothetical but realistic scenarios we calculate the reduction level 
+ <italic>f
+  <sub>OPT</sub>
+ </italic> (
+ <italic>Online Supplementary Figure S6D</italic>).
+</p>

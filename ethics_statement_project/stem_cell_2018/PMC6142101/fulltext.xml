@@ -1,0 +1,510 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d1 20130915//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 39.96?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Integr Cancer Ther</journal-id><journal-id journal-id-type="iso-abbrev">Integr Cancer Ther</journal-id><journal-id journal-id-type="publisher-id">ICT</journal-id><journal-id journal-id-type="hwp">spict</journal-id><journal-title-group><journal-title>Integrative Cancer Therapies</journal-title></journal-title-group><issn pub-type="ppub">1534-7354</issn><issn pub-type="epub">1552-695X</issn><publisher><publisher-name>SAGE Publications</publisher-name><publisher-loc>Sage CA: Los Angeles, CA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6142101</article-id><article-id pub-id-type="pmid">29431027</article-id><article-id pub-id-type="doi">10.1177/1534735418756736</article-id><article-id pub-id-type="publisher-id">10.1177_1534735418756736</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>A Controlled Trial of Sheng-Yu-Tang for Post&#x02013;Hematopoietic Stem Cell
+Transplantation Leukemia Patients: A Proposed Protocol and Insights From a
+Preliminary Pilot Study</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Fleischer</surname><given-names>Tom</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1-1534735418756736">1</xref></contrib><contrib contrib-type="author"><name><surname>Chang</surname><given-names>Tung-Ti</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="aff1-1534735418756736">1</xref><xref ref-type="aff" rid="aff2-1534735418756736">2</xref></contrib><contrib contrib-type="author"><name><surname>Chiang</surname><given-names>Jen-Huai</given-names></name><degrees>MS</degrees><xref ref-type="aff" rid="aff1-1534735418756736">1</xref><xref ref-type="aff" rid="aff2-1534735418756736">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0131-1658</contrib-id><name><surname>Yen</surname><given-names>Hung-Rong</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="aff1-1534735418756736">1</xref><xref ref-type="aff" rid="aff2-1534735418756736">2</xref><xref ref-type="aff" rid="aff3-1534735418756736">3</xref><xref ref-type="corresp" rid="corresp1-1534735418756736"/></contrib></contrib-group><aff id="aff1-1534735418756736"><label>1</label>China Medical University, Taichung,
+Taiwan</aff><aff id="aff2-1534735418756736"><label>2</label>China Medical University Hospital,
+Taichung, Taiwan</aff><aff id="aff3-1534735418756736"><label>3</label>Asia University, Taichung, Taiwan</aff><author-notes><corresp id="corresp1-1534735418756736">Hung-Rong Yen, Research Center for
+Traditional Chinese Medicine, Department of Medical Research and Department of
+Chinese Medicine, China Medical University Hospital, 2 Yude Road, North
+District, Taichung 404, Taiwan. Email:
+<email>hungrongyen@gmail.com</email></corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>2</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2018</year></pub-date><volume>17</volume><issue>3</issue><fpage>665</fpage><lpage>673</lpage><history><date date-type="received"><day>22</day><month>9</month><year>2017</year></date><date date-type="rev-recd"><day>9</day><month>1</month><year>2018</year></date><date date-type="accepted"><day>9</day><month>1</month><year>2018</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2018</copyright-statement><copyright-year>2018</copyright-year><copyright-holder content-type="sage">SAGE Publications</copyright-holder><license license-type="creative-commons" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/"><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/">http://www.creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access pages (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><abstract><p><bold>Introduction:</bold> Hematopoietic stem cell transplantation has become a
+well-established treatment for hematologic disorders including acute leukemia.
+However, long-term survival rates following this procedure are still extremely
+low, due to posttransplantation relapse, infections, and graft-versus-host
+disease. We propose that adjunctive Chinese herbal medicine may benefit
+posttransplantation patients. In preparation for a randomized clinical trial, we
+conducted a pilot trial. <bold>Methods and Analysis:</bold> Between September
+2015 and June 2017, 18 patients were consecutively enrolled at China Medical
+University Hospital and followed for up to 1 year. Fresh blood samples were
+obtained on a monthly basis, and immune reconstitution was analyzed. In addition
+to the standard-care treatment administered by their oncologist, a number of
+patients also received a Chinese herbal formula (Sheng-Yu-Tang) for up to 6
+months. Results were used to improve on study protocol and estimate required
+sample size for a future randomized trial. <bold>Ethics and
+Dissemination:</bold> Study protocol was approved by the institutional
+review board of China Medical University Hospital (DMR-105-005), and all
+participants provided informed consent.</p></abstract><kwd-group><kwd>HSCT</kwd><kwd>acute leukemia</kwd><kwd>immune reconstitution</kwd><kwd>Chinese herbal medicine</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="section1-1534735418756736"><title>Introduction</title><p>Hematopoietic stem cell transplantation (HSCT) has become a well-established
+treatment for hematologic disorders. Since its introduction in 1957, HSCT techniques
+have improved, resulting in increased survival rates mainly due to a reduction in
+organ damage and decreases in infection and severe acute graft-versus-host disease
+(GVHD).<sup><xref rid="bibr1-1534735418756736" ref-type="bibr">1</xref>,<xref rid="bibr2-1534735418756736" ref-type="bibr">2</xref></sup>
+In most high-risk acute leukemia patients, HSCT is the only treatment that offers
+the prospect of long-term survival. This prospect, however, is still dismal, and
+some studies suggest that 3-year overall survival in such patients is less than 20%.<sup><xref rid="bibr3-1534735418756736" ref-type="bibr">3</xref></sup> Relapse is still the main cause of death, and together with infections and
+GVHD, it accounts for 65% to 70% of all posttransplantation mortality.<sup><xref rid="bibr4-1534735418756736" ref-type="bibr">4</xref></sup></p><p>A number of avenues have been explored to address these causes of mortality.
+T-cell-depleted and CD34+-&#x0201c;enriched&#x0201d; grafts entail higher economic costs but are
+still commonly used.<sup><xref rid="bibr5-1534735418756736" ref-type="bibr">5</xref>,<xref rid="bibr6-1534735418756736" ref-type="bibr">6</xref></sup>
+These options tend to increase rates of engraftment while decreasing the rate of
+GVHD, but they also result in prolonged immune reconstitution, putting patients at
+higher risk of infection and relapse. Recent research has shone a spotlight on
+natural killer (NK) cells and &#x003b3;&#x003b4; T cells, which might be helpful in the fight
+against viral infections and may improve graft-versus-leukemia responses.<sup><xref rid="bibr7-1534735418756736" ref-type="bibr">7</xref></sup> Along this same line of reasoning, recent graft manipulation approaches
+include the depletion of CD19+ and &#x003b1;&#x003b2; T cells.<sup><xref rid="bibr8-1534735418756736" ref-type="bibr">8</xref>,<xref rid="bibr9-1534735418756736" ref-type="bibr">9</xref></sup> These techniques emphasize the
+key role that immunoregulation likely plays in necessary improvements in post-HSCT
+mortality rates.</p><p>We wondered whether the immunoregulatory properties attributed to some Chinese herbal
+medicines (CHM) could curtail these mortality rates. Many cell line and animal model
+studies have demonstrated that some CHM exert favorable effects on the immune
+system. For instance, extracts of <italic>Angelica sinensis</italic> (dang gui) have
+been shown to induce the activation and proliferation of &#x003b3;&#x003b4; T cells;<sup><xref rid="bibr10-1534735418756736" ref-type="bibr">10</xref></sup>
+<italic>Astragalus membranaceus</italic> (huang qi) can both prompt the
+proliferation of and mitigate the effects of immunosuppressive agents on bone marrow
+CD34+ cells.<sup><xref rid="bibr11-1534735418756736" ref-type="bibr">11</xref></sup> Epidemiological studies have shown that there are correlations between
+prolonged survival times and the use of CHM among leukemia patients.<sup><xref rid="bibr12-1534735418756736" ref-type="bibr">12</xref><xref rid="bibr13-1534735418756736" ref-type="bibr"/>-<xref rid="bibr14-1534735418756736" ref-type="bibr">14</xref></sup> Although few such studies have
+been published in peer-reviewed journals, a handful of clinical studies have been
+conducted in China regarding the use of CHM in post-HSCT leukemia patients, and
+these have achieved positive results.<sup><xref rid="bibr15-1534735418756736" ref-type="bibr">15</xref></sup></p><p>Due to the poor prognosis of high-risk leukemia HSCT patients and the seemingly
+positive potential of CHM, we employed a more rigorous clinical study to evaluate
+the efficacy of this treatment. We obtained blood samples from patients to measure
+the influence of CHM on immune reconstitution. Various methodological and logistical
+aspects of the trial posed new challenges to our group, and we were therefore
+motivated to perform a feasibility study.</p></sec><sec sec-type="methods" id="section2-1534735418756736"><title>Methods</title><sec id="section3-1534735418756736"><title>Chinese Herbal Formulation</title><p>Following a review of existing studies and in combination with our own clinical knowledge,<sup><xref rid="bibr15-1534735418756736" ref-type="bibr">15</xref></sup> we chose to use the CHM formulation Sheng-Yu-Tang (&#x08056;&#x06108;&#x06e6f;, SYT; <xref rid="table1-1534735418756736" ref-type="table">Table 1</xref>), which was
+administered without a personalized diagnosis. This formula is fairly simple (6
+ingredients) and is composed of herbs that have been extensively studied.
+Moreover, and as explained in our previous publication, this formula embodies
+the core treatment strategy that seems to be ideal in the vast majority of
+post-HSCT patients from a Chinese medicine perspective.<sup><xref rid="bibr15-1534735418756736" ref-type="bibr">15</xref></sup></p><table-wrap id="table1-1534735418756736" orientation="portrait" position="float"><label>Table 1.</label><caption><p>Constituents of the Sheng-Yu-Tang Formulation as Produced by Sun Ten Pharmaceutical<sup><xref ref-type="table-fn" rid="table-fn1-1534735418756736">a</xref></sup>.</p></caption><alternatives><graphic xlink:href="10.1177_1534735418756736-table1"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Pinyin Name</th><th align="center" rowspan="1" colspan="1">Latin Name</th><th align="center" rowspan="1" colspan="1">Amount</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Di Huang</td><td rowspan="1" colspan="1">
+<italic>Rehmannia glutinosa</italic>
+</td><td rowspan="1" colspan="1">5 g</td></tr><tr><td rowspan="1" colspan="1">Chuan Xiong</td><td rowspan="1" colspan="1">
+<italic>Ligusticum chuanxiong</italic>
+</td><td rowspan="1" colspan="1">2.5 g</td></tr><tr><td rowspan="1" colspan="1">Ren Shen</td><td rowspan="1" colspan="1">
+<italic>Panax ginseng</italic>
+</td><td rowspan="1" colspan="1">5 g</td></tr><tr><td rowspan="1" colspan="1">Dang Gui</td><td rowspan="1" colspan="1">
+<italic>Angelica sinensis</italic>
+</td><td rowspan="1" colspan="1">2.5 g</td></tr><tr><td rowspan="1" colspan="1">Bai Shao</td><td rowspan="1" colspan="1">
+<italic>Paeonia lactiflora</italic>
+</td><td rowspan="1" colspan="1">5 g</td></tr><tr><td rowspan="1" colspan="1">Huang Qi</td><td rowspan="1" colspan="1">
+<italic>Astragalus membranaceus</italic>
+</td><td rowspan="1" colspan="1">5 g</td></tr><tr><td colspan="3" rowspan="1">Extracts from the above are concentrated into 8
+g</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Powdered fibers</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">5.7 g</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Starch</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">2.8 g</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Total</td><td rowspan="1" colspan="1">16.5 g</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-1534735418756736"><label>a</label><p>This product is registered with the Taiwanese Ministry of Health and
+Welfare under serial number 047770.</p></fn></table-wrap-foot></table-wrap></sec><sec id="section4-1534735418756736"><title>Inclusion and Exclusion Criteria</title><p>Patients should be (1) &#x02265;20 years of age; (2) diagnosed with acute lymphocytic
+leukemia, acute myeloid leukemia, or myelodysplastic syndrome; and (3) eligible
+for allogeneic blood stem cell transplantation in accordance with the criteria
+of the local institution and the attending physician. Patients must also agree
+to comply with all study requirements. Patients should be excluded from the
+trial if they receive CHM from other sources.</p></sec><sec id="section5-1534735418756736"><title>Design</title><p>Patients were enrolled by signing a consent form prior to transplantation. Three
+months following transplantation, upon consent, patients were allocated to the
+SYT group. Patients who were not interested in taking SYT were allocated to the
+control group. Both groups continued to receive standard biomedical care from
+their oncologist. Patients allocated to the treatment group were to receive a
+batch of SYT once each month for a duration of 6 months. Peripheral blood
+samples were collected and analyzed on a monthly basis.</p></sec><sec id="section6-1534735418756736"><title>Sample Size and Statistical Analysis</title><p>Estimations of power size were performed using the &#x0201c;diggle.linear.power&#x0201d; of the
+&#x0201c;longpower&#x0201d; package of R Version 3.4.0 (R Core Team, 2015). A general estimation
+equation (GEE) model with a normal distribution, identity function, and
+unstructured working correlation matrix structure was used on selected outcomes
+of the patients followed in the study. We estimate that a minimum of 10 patients
+in each group would be required for achieving statistical significance.
+According to our preliminary results (described below), although none of the
+patients dropped out of the trial, the mortality rate was roughly 38%, and only
+33% of patients who commenced herbal treatment persisted for &#x0003e;30 days. We
+therefore estimate that the recruitment of 50 patients in each group (n = 100)
+should be sufficient for a randomized controlled trial. The data from patients
+receiving SYT for 30 days or less who then cease its use for any reason should
+be excluded from analysis. Similarly, data of patients from the control group
+who expire prior to the 4 month posttransplantation time point should be
+excluded from analysis. The remaining data should be analyzed according to an
+intention-to-treat approach.</p></sec><sec id="section7-1534735418756736"><title>Outcome Measures</title><p>The main outcome measured in this study is the immune reconstitution rate of key
+cell populations, which is measured using flow cytometry with peripheral blood
+samples. If possible, records of minimal residual disease (MRD) from bone marrow
+aspirations and the occurrence rate of opportunistic infections, hospitalization
+frequency, and relapse rates should be obtained and considered secondary outcome
+measures. An additional secondary outcome measure is the EORTC QLQ-C30
+questionnaire.</p><p>For immune reconstitution, other than CD4+ and CD8+ T cells, the following cell
+compartments are to be analyzed.</p><sec id="section8-1534735418756736"><title>NK Cells</title><p>NK cells are among the first population of cells to recuperate following
+transplantation and play an important role as first-line response against
+viral infections.<sup><xref rid="bibr16-1534735418756736" ref-type="bibr">16</xref></sup> First NK subset to recover express CD56<sup>bright</sup>CD16&#x02212; and are
+derived from hematopoietic CD34+ cells, which give rise to
+CD56<sup>dim</sup>CD16+, which have cytotoxic capabilities. These are
+found mostly in peripheral blood.<sup><xref rid="bibr17-1534735418756736" ref-type="bibr">17</xref></sup> Furthermore, NK cell transfusions following HSCT have been shown in
+some groups to reduce the relapse of acute myeloid leukemia, decrease GVHD,
+and improve engraftment and the overall survival.<sup><xref rid="bibr18-1534735418756736" ref-type="bibr">18</xref></sup></p></sec><sec id="section9-1534735418756736"><title>T Regulatory Cells</title><p>The incidence of either MRD+ or relapse in patients with a high frequency of
+CD4+CD25&#x02212;CD69+ T cells (&#x0003e;7%) has been reported to be significantly higher
+than that of patients with a low frequency of CD4+CD25&#x02212;CD69+ T cells at +60
+days, +90 days, and +270 days after transplant.<sup><xref rid="bibr19-1534735418756736" ref-type="bibr">19</xref></sup> Also, in vitro and animal models have shown that the increase of
+donor CD4+CD25+ T regulatory cells can suppress the early expansion of
+alloreactive T cells&#x02014;a hallmark of acute GVHD.<sup><xref rid="bibr20-1534735418756736" ref-type="bibr">20</xref></sup> Clinical studies that have adopted this treatment principle have
+shown that infusion of donor T regulatory cells can prevent GVHD while
+favoring the reconstitution of regular T cells.<sup><xref rid="bibr21-1534735418756736" ref-type="bibr">21</xref></sup></p></sec><sec id="section10-1534735418756736"><title>&#x003b3;&#x003b4; T Cells</title><p>Gamma delta T cells have been described as a link between the adaptive and
+innate immune responses, because it has already been shown that &#x003b3;&#x003b4; T cell
+reconstitution is associated with fewer infections and improved event-free
+survival after hematopoietic stem cell transplantation.<sup><xref rid="bibr22-1534735418756736" ref-type="bibr">22</xref>,<xref rid="bibr23-1534735418756736" ref-type="bibr">23</xref></sup></p></sec><sec id="section11-1534735418756736"><title>B Cells</title><p>Na&#x000ef;ve B cells are the first B cell subset to return to their normal values,
+approximately 6 months posttransplantation. The counts of memory B cells,
+however, might be low for up to 2 years post-HSCT.<sup><xref rid="bibr24-1534735418756736" ref-type="bibr">24</xref></sup> Delayed B cell reconstitution has been associated with GVHD, and
+impaired immunoglobulin gene rearrangement render HSCT patients susceptible
+to various bacteria and viruses.<sup><xref rid="bibr25-1534735418756736" ref-type="bibr">25</xref>,<xref rid="bibr26-1534735418756736" ref-type="bibr">26</xref></sup></p></sec><sec id="section12-1534735418756736"><title>Dendritic Cells</title><p>In peripheral blood stem cell transplantations, it has been shown that there
+is a relationship between a low dendritic cell count in the first 3 to 4
+months following transplant, and disease relapse, acute GVHD, and death.<sup><xref rid="bibr27-1534735418756736" ref-type="bibr">27</xref></sup></p></sec></sec><sec id="section13-1534735418756736"><title>Flow Cytometry</title><p>Approximately 5 mL of peripheral blood should be collected in heparin tubes (BD
+Biosciences, San Jose, CA, USA) and placed on a rotary plate overnight at 10
+rpm. Peripheral blood mononuclear cells (PBMC) can be isolated from whole blood
+using Ficoll-Paque PLUS (GE Healthcare Life Sciences, Uppsala, Sweden). To
+induce cytokine production, cells should be stimulated with
+paramethoxyamphetamine (50 ng/mL; Sigma-Aldrich, St Louis, MO, USA), ionomycin
+(500 ng/mL; Sigma-Aldrich, St Louis, MO, USA), and GolgiStop (1:1000; BD
+Biosciences, San Jose, CA, USA) for 5 hours. The following antibodies may be
+used: Foxp3, CD11c (BD Bioscience, Franklin Lakes, NJ, USA), IFN-&#x003b3;, CD8 (Beckman
+Coulter, Mississauga, ON, Canada), CD3, CD4, CD45RA, CD62L, T cell receptor
+(TCR) &#x003b3;/&#x003b4;, CD56, CD16, CD19, CD27, IgD, CD14, CD25, and IL-17 (Biolegend, San
+Diego, CA, USA).</p></sec><sec id="section14-1534735418756736"><title>Enzyme-Linked Immunosorbent Assay</title><p>PBMC obtained from patients were seeded (2 &#x000d7; 10<sup>6</sup>) in 96-well
+rounded-bottom plates using Iscove&#x02019;s Modified Dulbecco&#x02019;s Medium containing 5%
+fetal bovine serum (Gibco, MA, USA) at 37&#x000b0;C and 5% CO<sub>2</sub>. Cells were
+co-cultured for 24 and 48 hours with SYT (50, 100, and 200 &#x000b5;g/mL),
+paramethoxyamphetamine 50 ng/mL (Sigma-Aldrich), and ionomycin 500 ng/mL
+(Sigma-Aldrich). The concentrations of IL-2, TNF-&#x003b1;, and IFN-&#x003b3; were measured
+using the appropriate ELISA (enzyme-linked immunosorbent assay) kits (BD
+Biosciences, San Jose, CA, USA) as per manufacturer&#x02019;s instructions.</p></sec><sec id="section15-1534735418756736"><title>Safety</title><p>No adverse events related to SYT occurred in our pilot study. In a future
+protocol, all adverse events are to be recorded regardless of the possible
+association to herbal treatment. Herbal treatment is to be discontinued if
+either the attending oncologist or the trial investigator believes that the
+patient may be at risk of harm, including disability, hospitalization, or
+death.</p></sec></sec><sec id="section16-1534735418756736"><title>Preliminary Results</title><sec id="section17-1534735418756736"><title>Patients</title><p>Patients from the Division of Hematology and Oncology of the China Medical
+University Hospital were consecutively enrolled in the trial from September 1,
+2015, onwards. The study protocol was approved by the Institutional Review Board
+of the China Medical University Hospital (DMR-105-005), and all participants
+provided informed consent. The trial protocol was made public on <ext-link ext-link-type="uri" xlink:href="http://clincaltrials.gov">clincaltrials.gov</ext-link> (identifier NCT02580071).</p></sec><sec id="section18-1534735418756736"><title>Chinese Herbal Formulation</title><p>Granulated SYT was purchased from the Sun Ten Pharmaceutical Co, Ltd, Taiwan
+(product license #047770) and packaged as 90 portions per batch. Patients
+received 1 batch per month and were instructed to take 1 portion (4.2 g) 3 times
+a day. Before enrollment, patients were explained that they were expected to
+take SYT for 6 months.</p></sec><sec id="section19-1534735418756736"><title>Clinical Experiences</title><p>We recruited 18 patients in a nonrandomized consecutive manner since November
+2015 until May 2017 (<xref rid="table2-1534735418756736" ref-type="table">Table
+2</xref>). Our goals have been to test the feasibility of the proposed
+protocol and to assess the compliance rate of patients and the adequacy of our
+inclusion and exclusion criteria, among other factors, with the intention of
+building on these insights to conduct a more comprehensive randomized trial.<sup><xref rid="bibr28-1534735418756736" ref-type="bibr">28</xref></sup></p><table-wrap id="table2-1534735418756736" orientation="portrait" position="float"><label>Table 2.</label><caption><p>Patient Characteristics.</p></caption><alternatives><graphic xlink:href="10.1177_1534735418756736-table2"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Patient #</th><th align="center" rowspan="1" colspan="1">Age</th><th align="center" rowspan="1" colspan="1">Gender</th><th align="center" rowspan="1" colspan="1">Group</th><th align="center" rowspan="1" colspan="1">Condition</th><th align="center" rowspan="1" colspan="1">Comment</th><th align="center" rowspan="1" colspan="1">Donor</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">53</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">AML</td><td rowspan="1" colspan="1">FLT3 (+), second HSCT</td><td rowspan="1" colspan="1">MSD</td></tr><tr><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">44</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">T-ALL</td><td rowspan="1" colspan="1">BCR-ABL (+)</td><td rowspan="1" colspan="1">MSD</td></tr><tr><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">41</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">MDS-AML</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">MSD</td></tr><tr><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">25</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">Treatment</td><td rowspan="1" colspan="1">ALL</td><td rowspan="1" colspan="1">BCR-ABL (+)</td><td rowspan="1" colspan="1">MUD</td></tr><tr><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">35</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">AML</td><td rowspan="1" colspan="1">FLT3 (&#x02212;)</td><td rowspan="1" colspan="1">MSD</td></tr><tr><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">65</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">Treatment</td><td rowspan="1" colspan="1">MDS</td><td rowspan="1" colspan="1">RAEB-T</td><td rowspan="1" colspan="1">MSD</td></tr><tr><td rowspan="1" colspan="1">7</td><td rowspan="1" colspan="1">32</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">Treatment</td><td rowspan="1" colspan="1">B-ALL/LBL</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">MUD</td></tr><tr><td rowspan="1" colspan="1">8</td><td rowspan="1" colspan="1">48</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">AML</td><td rowspan="1" colspan="1">FLT3 (&#x02212;)</td><td rowspan="1" colspan="1">MSD</td></tr><tr><td rowspan="1" colspan="1">9</td><td rowspan="1" colspan="1">30</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">Treatment</td><td rowspan="1" colspan="1">MDS-AML</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">MSD</td></tr><tr><td rowspan="1" colspan="1">10</td><td rowspan="1" colspan="1">56</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">Treatment</td><td rowspan="1" colspan="1">MDS</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">MUD</td></tr><tr><td rowspan="1" colspan="1">11</td><td rowspan="1" colspan="1">56</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">Treatment</td><td rowspan="1" colspan="1">MDS</td><td rowspan="1" colspan="1">RAEB-1</td><td rowspan="1" colspan="1">MSD</td></tr><tr><td rowspan="1" colspan="1">12</td><td rowspan="1" colspan="1">50</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">AML</td><td rowspan="1" colspan="1">FLT3/ITD (+)</td><td rowspan="1" colspan="1">MSD</td></tr><tr><td rowspan="1" colspan="1">13</td><td rowspan="1" colspan="1">64</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">MDS</td><td rowspan="1" colspan="1">del(20)(q1.2) RAEB</td><td rowspan="1" colspan="1">MSD</td></tr><tr><td rowspan="1" colspan="1">14</td><td rowspan="1" colspan="1">42</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">AML</td><td rowspan="1" colspan="1">FLT3 (&#x02212;), del(9)</td><td rowspan="1" colspan="1">MSD</td></tr><tr><td rowspan="1" colspan="1">15</td><td rowspan="1" colspan="1">28</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">Treatment</td><td rowspan="1" colspan="1">T-ALL</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">MUD</td></tr><tr><td rowspan="1" colspan="1">16</td><td rowspan="1" colspan="1">61</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">SAA-AML</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">MUD</td></tr><tr><td rowspan="1" colspan="1">17</td><td rowspan="1" colspan="1">36</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">AML</td><td rowspan="1" colspan="1">FLT3/ITD(+), NPM1(+),PML RARa (&#x02212;)</td><td rowspan="1" colspan="1">MSD</td></tr><tr><td rowspan="1" colspan="1">18</td><td rowspan="1" colspan="1">41</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">ALL</td><td rowspan="1" colspan="1">i (9) (q10), CD20+</td><td rowspan="1" colspan="1">MSD</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn2-1534735418756736"><p>Abbreviations: AML, acute myeloid leukemia; FLT3, fms-like tyrosine
+kinase 3; HSCT, hematopoietic stem cell transplantation; MSD,
+matched sibling donor; T-ALL, T cell acute lymphoblastic leukemia;
+BCR-ABL, the fusion gene on the Philadelphia (Ph) chromosome; MDS,
+myelodysplastic syndrome; ALL, acute lymphocytic leukemia; MUD,
+matched unrelated donor; RAEB, refractory anemia with excess of
+blast; B-ALL/LBL, B lymphoblastic leukemia/lymphoma; ITD, internal
+tandem duplication; SAA, severe aplastic anemia; NPM, nucleophosmin;
+PML RARa, promyelocytic leukemia/retinoic acid receptor alpha.</p></fn></table-wrap-foot></table-wrap><p>Of the 7 patients who were assigned to receive SYT, only 2 continued for &#x0003e;30
+days. Reasons for discontinuation included persistent leukopenia, herpes zoster,
+and relapse. We were aware of at least 2 other patients enrolled in the trial
+who did not receive SYT but sought CHM treatment elsewhere.</p><p>Despite the small sample size and the inability to demonstrate efficacy or
+effectiveness through statistical means, we analyzed our preliminary data. These
+data demonstrate the feasibility of the methods applied here to distinguish
+differences in the immune reconstitution of both trial groups (<xref ref-type="fig" rid="fig1-1534735418756736">Figures 1</xref> and <xref ref-type="fig" rid="fig2-1534735418756736">2</xref>).</p><fig id="fig1-1534735418756736" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>Average differences in immune reconstitution of CD4+ and CD8+ T cells.
+Patient sample size of current data is insufficient to draw conclusions;
+however, these data demonstrate the possible contribution of this type
+of analysis. There is, for example, a distinct difference in relative
+proportion of CD4+ na&#x000ef;ve cells and CD8+ terminally differentiated cells,
+between the 2 groups. Missing columns represent time points at which no
+samples were collected from any patients.</p><p>Abbreviations: TCM, traditional Chinese medicine; PT, pretransplantation;
+CM, central memory; EM, effector memory; TEMRA, terminally
+differentiated effector memory.</p></caption><graphic xlink:href="10.1177_1534735418756736-fig1"/></fig><fig id="fig2-1534735418756736" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Immune reconstitution of various other cell compartments. Because there
+is no certain way to predict in advance which, if any, subset of cells
+will be affected by Sheng-Yu-Tang, it would be preferable to track the
+reconstitution of as many cell compartments as possible.</p><p>Abbreviations: TCM, traditional Chinese medicine; PT, pretransplantation;
+NK, natural killer.</p></caption><graphic xlink:href="10.1177_1534735418756736-fig2"/></fig><p>We also studied the in vitro effects of SYT on patient unsorted PBMC with regard
+to the secretion of IL-2, IFN-&#x003b3;, and TNF-&#x003b1;, which are representative cytokines
+of the TH1 subset that are known to be directly related to graft-versus-leukemia
+and GVHD (<xref ref-type="fig" rid="fig3-1534735418756736">Figure 3</xref>).<sup><xref rid="bibr29-1534735418756736" ref-type="bibr">29</xref></sup> Due to the small sample size of measurements, we did not achieve
+statistical significance, and the only distinguishable trend was a decrease in
+TNF-&#x003b1;. GVHD is a result of the interplay between multiple types of cell
+components and cytokines, but TNF-&#x003b1; plays a central role, and its reduction is
+known to decrease the symptoms of GVHD.<sup><xref rid="bibr30-1534735418756736" ref-type="bibr">30</xref>,<xref rid="bibr31-1534735418756736" ref-type="bibr">31</xref></sup> Whether this implies that
+SYT may mitigate GVHD requires further investigation. This type of in vitro
+examination should be considered exploratory as it is unlikely that a simple
+increase or decrease in a single signaling factor is predictive of the clinical
+outcome. IL-2, for example, may induce the proliferation of T cells,
+exacerbating post-HSCT on one hand and inducing immunosuppression via T
+regulatory cells on the other.<sup><xref rid="bibr32-1534735418756736" ref-type="bibr">32</xref><xref rid="bibr33-1534735418756736" ref-type="bibr"/>-<xref rid="bibr34-1534735418756736" ref-type="bibr">34</xref></sup> This assay is thus not
+defined as an outcome measure, though it might provide complementary insight to
+other observations from the trial.</p><fig id="fig3-1534735418756736" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Secretion of IL-2, TNF-&#x003b1;, and IFN-&#x003b3; by peripheral blood mononuclear cells
+obtained from 7 patients, following in vitro co-culture with
+Sheng-Yu-Tang. None of the differences between any 2 columns reached
+significance level; however, a possible trend may be observed in the
+concentration levels of TNF-&#x003b1;.</p></caption><graphic xlink:href="10.1177_1534735418756736-fig3"/></fig></sec></sec><sec sec-type="discussion" id="section20-1534735418756736"><title>Discussion</title><p>Mortality was not chosen as a primary outcome measure for this study for a number of
+reasons. First, the prognoses of affected patients vary widely according to numerous
+factors, such as severity of disease, gender, genetic and molecular abnormalities,
+as well as donor type (ie, familial relationships and HLA-matching).<sup><xref rid="bibr35-1534735418756736" ref-type="bibr">35</xref></sup> No data that we know of suggest different rates of immune reconstitution
+according to disease, and other recently published studies have excluded the
+consideration of these factors in their study design.<sup><xref rid="bibr36-1534735418756736" ref-type="bibr">36</xref>,<xref rid="bibr37-1534735418756736" ref-type="bibr">37</xref></sup> Second, as most deaths occur
+within the first 2 years of HSCT, measuring mortality would require an additional
+year of follow-up. Measurement of immune reconstitution allows for the simultaneous
+assessment of multiple factors and offers insights concerning the possible
+mechanisms of action of the intervention.</p><p>No consensus exists regarding the ideal sampling rate for measurement of long-term
+immune reconstitution. In the protocol described above, we obtained peripheral blood
+samples from patients monthly, over the course of 1 year. Currently, we believe that
+6 samples over the course of 1 year should be adequate, and other recently published
+studies have also followed this protocol (<xref ref-type="fig" rid="fig4-1534735418756736">Figure 4</xref>).<sup><xref rid="bibr36-1534735418756736" ref-type="bibr">36</xref></sup> With regard to the inclusion criteria, we originally intended this study to
+focus on patients with acute leukemia. However, since the total number of patients
+that undergo allo-HSCT is limited, we suggest a revision of this condition to open
+the trial to all patients undergoing allo-HSCT. As noted above, different disease
+diagnoses should have no effect on the rate of immune reconstitution.</p><fig id="fig4-1534735418756736" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>Suggested design for future controlled trial. One-hundred patients are to be
+randomized to control or treatment group, 3 months following
+transplantation. Peripheral blood samples will be obtained at months 1, 2,
+3, 6, 9, and 12 (noted in figure by the blood vial).</p><p>Abbreviation: SYT, Sheng-Yu-Tang herbal formula.</p></caption><graphic xlink:href="10.1177_1534735418756736-fig4"/></fig><p>While designing this study, we were uncertain about the appropriate monetary
+incentive to use to motivate patients to enroll. We found that many patients were
+indifferent toward this incentive and that the backing of the respective attending
+oncologist was the most crucial factor for enrollment. This is understandable in
+light of the decisions and repercussions these patients face. The processing of
+blood samples together with the monetary incentive for patients per sample
+constituted a major portion of the resources required for this study, and their
+revision directly relates to the feasibility of a larger trial.</p><p>In its acute form, GVHD commonly presents within the first 100 days post-HSCT. In all
+trials we reviewed that were conducted in China, herbal treatment was administered
+during this period. To avoid unnecessary risk, the initiation of herbal treatment in
+this protocol was defined as 3 months following transplantation. Herbal treatment
+should be discontinued in the case of manifestation of moderate to severe chronic
+GVHD per the assessment of the attending oncologist. In our preliminary trial,
+patients were offered to continue receiving herbal medicine after the alleviation of
+GVHD if they were able to complete the treatment course prior to the 1-year
+posttransplantation time point. We believe future trial protocols should adopt this
+option.</p><p>Chronic kidney disease (CKD) should be acknowledged twice in the context of an
+allo-HSCT clinical study design. Decline in renal function is common among post-HSCT
+patients and may progress into CKD. Incidence rates of CKD among studies are highly
+variable, with values ranging from 13% to 66%.<sup><xref rid="bibr38-1534735418756736" ref-type="bibr">38</xref>,<xref rid="bibr39-1534735418756736" ref-type="bibr">39</xref></sup> The main implication of
+post-HSCT renal damage is the due diligence that should be exercised when
+administering herbal medicine. Basic research demonstrates that <italic>Rehmannia
+glutinosa</italic> and the combination of <italic>Astragalus
+membranaceus</italic> and <italic>Angelica sinensis</italic>&#x02014;constituents of
+SYT&#x02014;may actually exert a renoprotective effect. However, until further evidence is
+collected, it is impossible to rule out potentially deleterious drug
+interactions.<sup><xref rid="bibr40-1534735418756736" ref-type="bibr">40</xref>,<xref rid="bibr41-1534735418756736" ref-type="bibr">41</xref></sup> In our preliminary study, we determined that the administration
+of SYT to patients would be reassessed in cases where the glomerular filtration rate
+dropped below 50 mL/min/1.73 m<sup>2</sup> or if serum creatinine levels rose to
+double that of baseline. Adequate consideration should also be given to patients
+with pretransplantation kidney disorders. Abnormal renal function is considered a
+major risk factor for HSCT. However, collective experience and practices among
+institutions may strongly vary.<sup><xref rid="bibr42-1534735418756736" ref-type="bibr">42</xref>,<xref rid="bibr43-1534735418756736" ref-type="bibr">43</xref></sup> Although renal function does
+not appear in the above-mentioned inclusion/exclusion criteria, these should be
+explicitly defined in cooperation with the oncologists participating in the trial,
+in order to avoid the occurrence of selection bias and survivorship bias.</p></sec><sec sec-type="conclusions" id="section21-1534735418756736"><title>Conclusion</title><p>The results of this pilot study suggest that a larger and more rigorous trial is
+feasible. Revisions to the inclusion criteria, immune reconstitution sampling rate,
+and monetary incentive to patients should make for a more manageable protocol.</p></sec></body><back><fn-group><fn fn-type="other"><p><bold>Authors&#x02019; Note:</bold> If any reader is interested in individual participant data that underlie the
+results reported in this article, the authors have no objection to share these,
+after de-identification, and requests will be considered on request.</p></fn><fn fn-type="other"><p><bold>Trial Registration:</bold>
+<ext-link ext-link-type="uri" xlink:href="http://Clincaltrials.gov">Clincaltrials.gov</ext-link> identifier NCT02580071.</p></fn><fn fn-type="other"><p><bold>Author Contributions:</bold> Drafting of manuscript: TF. Study design: TF, TTC, and HRY. Data collection and
+analysis: TF. Statistical analyses: JHC. Critical revision of the manuscript for
+intellectual content: TF, TTC, and HRY.</p></fn><fn fn-type="COI-statement"><p><bold>Declaration of Conflicting Interests:</bold> The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: This study was
+supported by China Medical University under the Aim for Top University Plan of
+the Ministry of Education, Taiwan. This study was also supported in part by
+China Medical University Hospital, Taiwan (DMR-105-005) and the Taiwan Ministry
+of Health and Welfare Clinical Trial and Research Center of Excellence
+(MOHW106-TDU-B-212-113004). The funders had no role in study design, data
+collection and analysis, decision to publish, or preparation of the article.</p></fn><fn fn-type="other"><p><bold>ORCID iD:</bold> Hung-Rong Yen&#x02009;<inline-graphic xlink:href="10.1177_1534735418756736-img1.jpg"/>&#x02009;<ext-link ext-link-type="uri" xlink:href="https://orcid.org/0000-0002-0131-1658">https://orcid.org/0000-0002-0131-1658</ext-link></p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-1534735418756736"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gooley</surname><given-names>TA</given-names></name><name><surname>Chien</surname><given-names>JW</given-names></name><name><surname>Pergam</surname><given-names>SA</given-names></name><etal>et al</etal></person-group>
+<article-title>Reduced mortality after allogeneic
+hematopoietic-cell transplantation</article-title>. <source>N Engl J
+Med</source>.
+<year>2010</year>;<volume>363</volume>:<fpage>2091</fpage>-<lpage>2101</lpage>.<pub-id pub-id-type="pmid">21105791</pub-id></mixed-citation></ref><ref id="bibr2-1534735418756736"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tanaka</surname><given-names>Y</given-names></name><name><surname>Kurosawa</surname><given-names>S</given-names></name><name><surname>Tajima</surname><given-names>K</given-names></name><etal>et al</etal></person-group>
+<article-title>Analysis of non-relapse mortality and causes of
+death over 15 years following allogeneic hematopoietic stem cell
+transplantation</article-title>. <source>Bone Marrow Transplant</source>.
+<year>2016</year>;<volume>51</volume>:<fpage>553</fpage>-<lpage>559</lpage>.<pub-id pub-id-type="pmid">26752142</pub-id></mixed-citation></ref><ref id="bibr3-1534735418756736"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Duval</surname><given-names>M</given-names></name><name><surname>Klein</surname><given-names>JP</given-names></name><name><surname>He</surname><given-names>W</given-names></name><etal>et al</etal></person-group>
+<article-title>Hematopoietic stem-cell transplantation for
+acute leukemia in relapse or primary induction failure</article-title>.
+<source>J Clin Oncol</source>.
+<year>2010</year>;<volume>28</volume>:<fpage>3730</fpage>-<lpage>3738</lpage>.<pub-id pub-id-type="pmid">20625136</pub-id></mixed-citation></ref><ref id="bibr4-1534735418756736"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barrett</surname><given-names>AJ</given-names></name><name><surname>Battiwalla</surname><given-names>M</given-names></name></person-group>
+<article-title>Relapse after allogeneic stem cell
+transplantation</article-title>. <source>Expert Rev Hematol</source>.
+<year>2010</year>;<volume>3</volume>:<fpage>429</fpage>-<lpage>441</lpage>.<pub-id pub-id-type="pmid">21083034</pub-id></mixed-citation></ref><ref id="bibr5-1534735418756736"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aversa</surname><given-names>F</given-names></name><name><surname>Tabilio</surname><given-names>A</given-names></name><name><surname>Velardi</surname><given-names>A</given-names></name><etal>et al</etal></person-group>
+<article-title>Treatment of high-risk acute leukemia with
+T-cell-depleted stem cells from related donors with one fully mismatched HLA
+haplotype</article-title>. <source>N Engl J Med</source>.
+<year>1998</year>;<volume>339</volume>:<fpage>1186</fpage>-<lpage>1193</lpage>.<pub-id pub-id-type="pmid">9780338</pub-id></mixed-citation></ref><ref id="bibr6-1534735418756736"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aversa</surname><given-names>F</given-names></name><name><surname>Terenzi</surname><given-names>A</given-names></name><name><surname>Tabilio</surname><given-names>A</given-names></name><etal>et al</etal></person-group>
+<article-title>Full haplotype-mismatched hematopoietic
+stem-cell transplantation: a phase II study in patients with acute leukemia
+at high risk of relapse</article-title>. <source>J Clin Oncol</source>.
+<year>2005</year>;<volume>23</volume>:<fpage>3447</fpage>-<lpage>3454</lpage>.<pub-id pub-id-type="pmid">15753458</pub-id></mixed-citation></ref><ref id="bibr7-1534735418756736"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scheper</surname><given-names>W</given-names></name><name><surname>Grunder</surname><given-names>C</given-names></name><name><surname>Straetemans</surname><given-names>T</given-names></name><name><surname>Sebestyen</surname><given-names>Z</given-names></name><name><surname>Kuball</surname><given-names>J</given-names></name></person-group>
+<article-title>Hunting for clinical translation with
+innate-like immune cells and their receptors</article-title>.
+<source>Leukemia</source>.
+<year>2014</year>;<volume>28</volume>:<fpage>1181</fpage>-<lpage>1190</lpage>.<pub-id pub-id-type="pmid">24345790</pub-id></mixed-citation></ref><ref id="bibr8-1534735418756736"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Locatelli</surname><given-names>F</given-names></name><name><surname>Bauquet</surname><given-names>A</given-names></name><name><surname>Palumbo</surname><given-names>G</given-names></name><name><surname>Moretta</surname><given-names>F</given-names></name><name><surname>Bertaina</surname><given-names>A</given-names></name></person-group>
+<article-title>Negative depletion of &#x003b1;/&#x003b2;+ T cells and of CD19+
+B lymphocytes: a novel frontier to optimize the effect of innate immunity in
+HLA-mismatched hematopoietic stem cell transplantation</article-title>.
+<source>Immunol Lett</source>.
+<year>2013</year>;<volume>155</volume>:<fpage>21</fpage>-<lpage>23</lpage>.<pub-id pub-id-type="pmid">24091162</pub-id></mixed-citation></ref><ref id="bibr9-1534735418756736"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schumm</surname><given-names>M</given-names></name><name><surname>Lang</surname><given-names>P</given-names></name><name><surname>Bethge</surname><given-names>W</given-names></name><etal>et al</etal></person-group>
+<article-title>Depletion of T-cell receptor alpha/beta and CD19
+positive cells from apheresis products with the CliniMACS
+device</article-title>. <source>Cytotherapy</source>.
+<year>2013</year>;<volume>15</volume>:<fpage>1253</fpage>-<lpage>1258</lpage>.<pub-id pub-id-type="pmid">23993299</pub-id></mixed-citation></ref><ref id="bibr10-1534735418756736"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Holderness</surname><given-names>J</given-names></name><name><surname>Jackiw</surname><given-names>L</given-names></name><name><surname>Kimmel</surname><given-names>E</given-names></name><etal>et al</etal></person-group>
+<article-title>Select plant tannins induce IL-2Ralpha
+up-regulation and augment cell division in gammadelta T
+cells</article-title>. <source>J Immunol</source>.
+<year>2007</year>;<volume>179</volume>:<fpage>6468</fpage>-<lpage>6478</lpage>.<pub-id pub-id-type="pmid">17982035</pub-id></mixed-citation></ref><ref id="bibr11-1534735418756736"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ismail</surname><given-names>ZM</given-names></name><name><surname>Amin</surname><given-names>NM</given-names></name><name><surname>Yacoub</surname><given-names>MF</given-names></name><name><surname>Mohamed</surname><given-names>AM</given-names></name></person-group>
+<article-title>Myelo-enhancement by astragalus membranaceus in
+male albino rats with chemotherapy myelo-suppression. Histological and
+immunohistochemical study</article-title>. <source>Int J Stem
+Cells</source>.
+<year>2014</year>;<volume>7</volume>:<fpage>12</fpage>-<lpage>22</lpage>.<pub-id pub-id-type="pmid">24921023</pub-id></mixed-citation></ref><ref id="bibr12-1534735418756736"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fleischer</surname><given-names>T</given-names></name><name><surname>Chang</surname><given-names>TT</given-names></name><name><surname>Chiang</surname><given-names>JH</given-names></name><name><surname>Sun</surname><given-names>MF</given-names></name><name><surname>Yen</surname><given-names>HR</given-names></name></person-group>
+<article-title>Improved survival with integration of Chinese
+herbal medicine therapy in patients with acute myeloid leukemia: a
+nationwide population-based cohort study</article-title>. <source>Integr
+Cancer Ther</source>.
+<year>2017</year>;<volume>16</volume>:<fpage>156</fpage>-<lpage>164</lpage>.<pub-id pub-id-type="pmid">27531548</pub-id></mixed-citation></ref><ref id="bibr13-1534735418756736"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yen</surname><given-names>HR</given-names></name><name><surname>Lai</surname><given-names>WY</given-names></name><name><surname>Muo</surname><given-names>CH</given-names></name><name><surname>Sun</surname><given-names>MF</given-names></name></person-group>
+<article-title>Characteristics of traditional Chinese medicine
+use in pediatric cancer patients: a nationwide, retrospective,
+Taiwanese-registry, population-based study</article-title>. <source>Integr
+Cancer Ther</source>.
+<year>2017</year>;<volume>16</volume>:<fpage>147</fpage>-<lpage>155</lpage>.<pub-id pub-id-type="pmid">27405933</pub-id></mixed-citation></ref><ref id="bibr14-1534735418756736"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kuo</surname><given-names>YT</given-names></name><name><surname>Chang</surname><given-names>TT</given-names></name><name><surname>Muo</surname><given-names>CH</given-names></name><etal>et al</etal></person-group>
+<article-title>Use of complementary traditional Chinese
+medicines by adult cancer patients in Taiwan: a nationwide population-based
+study</article-title> [published online <month>6</month>
+<day>1</day>, <year>2017</year>]. <source>Integr Cancer Ther</source>.
+doi:<pub-id pub-id-type="doi">10.1177/1534735417716302.</pub-id></mixed-citation></ref><ref id="bibr15-1534735418756736"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fleischer</surname><given-names>T</given-names></name><name><surname>Chang</surname><given-names>TT</given-names></name><name><surname>Yen</surname><given-names>HR</given-names></name></person-group>
+<article-title>Post-hematopoietic stem cell transplantation in
+patients with hematologic disorders: Chinese herbal medicine for an unmet
+need</article-title>. <source>J Integr Med</source>.
+<year>2016</year>;<volume>14</volume>:<fpage>322</fpage>-<lpage>335</lpage>.<pub-id pub-id-type="pmid">27641605</pub-id></mixed-citation></ref><ref id="bibr16-1534735418756736"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Seggewiss</surname><given-names>R</given-names></name><name><surname>Einsele</surname><given-names>H</given-names></name></person-group>
+<article-title>Immune reconstitution after allogeneic
+transplantation and expanding options for immunomodulation: an
+update</article-title>. <source>Blood</source>.
+<year>2010</year>;<volume>115</volume>:<fpage>3861</fpage>-<lpage>3868</lpage>.<pub-id pub-id-type="pmid">20215642</pub-id></mixed-citation></ref><ref id="bibr17-1534735418756736"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moretta</surname><given-names>L</given-names></name></person-group>
+<article-title>Dissecting CD56dim human NK
+cells</article-title>. <source>Blood</source>.
+<year>2010</year>;<volume>116</volume>:<fpage>3689</fpage>-<lpage>3691</lpage>.<pub-id pub-id-type="pmid">21071612</pub-id></mixed-citation></ref><ref id="bibr18-1534735418756736"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Palmer</surname><given-names>JM</given-names></name><name><surname>Rajasekaran</surname><given-names>K</given-names></name><name><surname>Thakar</surname><given-names>MS</given-names></name><name><surname>Malarkannan</surname><given-names>S</given-names></name></person-group>
+<article-title>Clinical relevance of natural killer cells
+following hematopoietic stem cell transplantation</article-title>. <source>J
+Cancer</source>.
+<year>2013</year>;<volume>4</volume>:<fpage>25</fpage>-<lpage>35</lpage>.<pub-id pub-id-type="pmid">23386902</pub-id></mixed-citation></ref><ref id="bibr19-1534735418756736"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>X</given-names></name><name><surname>Wang</surname><given-names>X</given-names></name><name><surname>Chang</surname><given-names>Y</given-names></name><etal>et al</etal></person-group>
+<article-title>Non-traditional CD4+CD25&#x02013;CD69+ regulatory T
+cells is correlated to leukemia relapse after allogeneic hematopoietic stem
+cell transplantation</article-title>. <source>Blood</source>.
+<year>2013</year>;<volume>122</volume>:<fpage>3259</fpage>.</mixed-citation></ref><ref id="bibr20-1534735418756736"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Edinger</surname><given-names>M</given-names></name><name><surname>Hoffmann</surname><given-names>P</given-names></name><name><surname>Ermann</surname><given-names>J</given-names></name><etal>et al</etal></person-group>
+<article-title>CD4+CD25+ regulatory T cells preserve
+graft-versus-tumor activity while inhibiting graft-versus-host disease after
+bone marrow transplantation</article-title>. <source>Nat Med</source>.
+<year>2003</year>;<volume>9</volume>:<fpage>1144</fpage>-<lpage>1150</lpage>.<pub-id pub-id-type="pmid">12925844</pub-id></mixed-citation></ref><ref id="bibr21-1534735418756736"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Di Ianni</surname><given-names>M</given-names></name><name><surname>Falzetti</surname><given-names>F</given-names></name><name><surname>Carotti</surname><given-names>A</given-names></name><etal>et al</etal></person-group>
+<article-title>Tregs prevent GVHD and promote immune
+reconstitution in HLA-haploidentical transplantation</article-title>.
+<source>Blood</source>.
+<year>2011</year>;<volume>117</volume>:<fpage>3921</fpage>-<lpage>3928</lpage>.<pub-id pub-id-type="pmid">21292771</pub-id></mixed-citation></ref><ref id="bibr22-1534735418756736"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perko</surname><given-names>R</given-names></name><name><surname>Kang</surname><given-names>G</given-names></name><name><surname>Sunkara</surname><given-names>A</given-names></name><name><surname>Leung</surname><given-names>W</given-names></name><name><surname>Thomas</surname><given-names>PG</given-names></name><name><surname>Dallas</surname><given-names>MH</given-names></name></person-group>
+<article-title>Gamma delta T cell reconstitution is associated
+with fewer infections and improved event-free survival after hematopoietic
+stem cell transplantation for pediatric leukemia</article-title>.
+<source>Biol Blood Marrow Transplant</source>.
+<year>2015</year>;<volume>21</volume>:<fpage>130</fpage>-<lpage>136</lpage>.<pub-id pub-id-type="pmid">25445640</pub-id></mixed-citation></ref><ref id="bibr23-1534735418756736"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Godder</surname><given-names>KT</given-names></name><name><surname>Henslee-Downey</surname><given-names>PJ</given-names></name><name><surname>Mehta</surname><given-names>J</given-names></name><etal>et al</etal></person-group>
+<article-title>Long term disease-free survival in acute
+leukemia patients recovering with increased gammadelta T cells after
+partially mismatched related donor bone marrow
+transplantation</article-title>. <source>Bone Marrow Transplant</source>.
+<year>2007</year>;<volume>39</volume>:<fpage>751</fpage>-<lpage>757</lpage>.<pub-id pub-id-type="pmid">17450185</pub-id></mixed-citation></ref><ref id="bibr24-1534735418756736"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abdel-Azim</surname><given-names>H</given-names></name><name><surname>Elshoury</surname><given-names>A</given-names></name><name><surname>Mahadeo</surname><given-names>KM</given-names></name><name><surname>Parkman</surname><given-names>R</given-names></name><name><surname>Kapoor</surname><given-names>N</given-names></name></person-group>
+<article-title>Humoral immune reconstitution kinetics after
+allogeneic hematopoietic stem cell transplantation in children: a maturation
+block of IgM memory B cells may lead to impaired antibody immune
+reconstitution</article-title>. <source>Biol Blood Marrow
+Transplant</source>.
+<year>2017</year>;<volume>23</volume>:<fpage>1437</fpage>-<lpage>1446</lpage>.<pub-id pub-id-type="pmid">28495643</pub-id></mixed-citation></ref><ref id="bibr25-1534735418756736"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Avanzini</surname><given-names>MA</given-names></name><name><surname>Locatelli</surname><given-names>F</given-names></name><name><surname>Dos Santos</surname><given-names>C</given-names></name><etal>et al</etal></person-group>
+<article-title>B lymphocyte reconstitution after hematopoietic
+stem cell transplantation: functional immaturity and slow recovery of memory
+CD27+ B cells</article-title>. <source>Exp Hematol</source>.
+<year>2005</year>;<volume>33</volume>:<fpage>480</fpage>-<lpage>486</lpage>.<pub-id pub-id-type="pmid">15781339</pub-id></mixed-citation></ref><ref id="bibr26-1534735418756736"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ogonek</surname><given-names>J</given-names></name><name><surname>Juric</surname><given-names>MK</given-names></name><name><surname>Ghimire</surname><given-names>S</given-names></name><etal>et al</etal></person-group>
+<article-title>Immune reconstitution after allogeneic
+hematopoietic stem cell transplantation</article-title>. <source>Front
+Immunol</source>.
+<year>2016</year>;<volume>7</volume>:<fpage>507</fpage>.<pub-id pub-id-type="pmid">27909435</pub-id></mixed-citation></ref><ref id="bibr27-1534735418756736"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reddy</surname><given-names>V</given-names></name><name><surname>Iturraspe</surname><given-names>JA</given-names></name><name><surname>Tzolas</surname><given-names>AC</given-names></name><name><surname>Meier-Kriesche</surname><given-names>HU</given-names></name><name><surname>Schold</surname><given-names>J</given-names></name><name><surname>Wingard</surname><given-names>JR</given-names></name></person-group>
+<article-title>Low dendritic cell count after allogeneic
+hematopoietic stem cell transplantation predicts relapse, death, and acute
+graft-versus-host disease</article-title>. <source>Blood</source>.
+<year>2004</year>;<volume>103</volume>:<fpage>4330</fpage>-<lpage>4335</lpage>.<pub-id pub-id-type="pmid">14962904</pub-id></mixed-citation></ref><ref id="bibr28-1534735418756736"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leon</surname><given-names>AC</given-names></name><name><surname>Davis</surname><given-names>LL</given-names></name><name><surname>Kraemer</surname><given-names>HC</given-names></name></person-group>
+<article-title>The role and interpretation of pilot studies in
+clinical research</article-title>. <source>J Psychiatr Res</source>.
+<year>2011</year>;<volume>45</volume>:<fpage>626</fpage>-<lpage>629</lpage>.<pub-id pub-id-type="pmid">21035130</pub-id></mixed-citation></ref><ref id="bibr29-1534735418756736"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Henden</surname><given-names>AS</given-names></name><name><surname>Hill</surname><given-names>GR</given-names></name></person-group>
+<article-title>Cytokines in graft-versus-host
+disease</article-title>. <source>J Immunol</source>.
+<year>2015</year>;<volume>194</volume>:<fpage>4604</fpage>-<lpage>4612</lpage>.<pub-id pub-id-type="pmid">25934923</pub-id></mixed-citation></ref><ref id="bibr30-1534735418756736"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cooke</surname><given-names>KR</given-names></name><name><surname>Hill</surname><given-names>GR</given-names></name><name><surname>Crawford</surname><given-names>JM</given-names></name><etal>et al</etal></person-group>
+<article-title>Tumor necrosis factor-alpha production to
+lipopolysaccharide stimulation by donor cells predicts the severity of
+experimental acute graft-versus-host disease</article-title>. <source>J Clin
+Invest</source>.
+<year>1998</year>;<volume>102</volume>:<fpage>1882</fpage>-<lpage>1891</lpage>.<pub-id pub-id-type="pmid">9819375</pub-id></mixed-citation></ref><ref id="bibr31-1534735418756736"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Piguet</surname><given-names>PF</given-names></name><name><surname>Grau</surname><given-names>GE</given-names></name><name><surname>Allet</surname><given-names>B</given-names></name><name><surname>Vassalli</surname><given-names>P</given-names></name></person-group>
+<article-title>Tumor necrosis factor/cachectin is an effector
+of skin and gut lesions of the acute phase of graft-vs.-host
+disease</article-title>. <source>J Exp Med</source>.
+<year>1987</year>;<volume>166</volume>:<fpage>1280</fpage>-<lpage>1289</lpage>.<pub-id pub-id-type="pmid">3316469</pub-id></mixed-citation></ref><ref id="bibr32-1534735418756736"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Atkins</surname><given-names>MB</given-names></name><name><surname>Lotze</surname><given-names>MT</given-names></name><name><surname>Dutcher</surname><given-names>JP</given-names></name><etal>et al</etal></person-group>
+<article-title>High-dose recombinant interleukin 2 therapy for
+patients with metastatic melanoma: analysis of 270 patients treated between
+1985 and 1993</article-title>. <source>J Clin Oncol</source>.
+<year>1999</year>;<volume>17</volume>:<fpage>2105</fpage>-<lpage>2116</lpage>.<pub-id pub-id-type="pmid">10561265</pub-id></mixed-citation></ref><ref id="bibr33-1534735418756736"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koreth</surname><given-names>J</given-names></name><name><surname>Matsuoka</surname><given-names>K</given-names></name><name><surname>Kim</surname><given-names>HT</given-names></name><etal>et al</etal></person-group>
+<article-title>Interleukin-2 and regulatory T cells in
+graft-versus-host disease</article-title>. <source>N Engl J Med</source>.
+<year>2011</year>;<volume>365</volume>:<fpage>2055</fpage>-<lpage>2066</lpage>.<pub-id pub-id-type="pmid">22129252</pub-id></mixed-citation></ref><ref id="bibr34-1534735418756736"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Saadoun</surname><given-names>D</given-names></name><name><surname>Rosenzwajg</surname><given-names>M</given-names></name><name><surname>Joly</surname><given-names>F</given-names></name><etal>et al</etal></person-group>
+<article-title>Regulatory T-cell responses to low-dose
+interleukin-2 in HCV-induced vasculitis</article-title>. <source>N Engl J
+Med</source>.
+<year>2011</year>;<volume>365</volume>:<fpage>2067</fpage>-<lpage>2077</lpage>.<pub-id pub-id-type="pmid">22129253</pub-id></mixed-citation></ref><ref id="bibr35-1534735418756736"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fuchs</surname><given-names>EJ</given-names></name></person-group>
+<article-title>Related haploidentical donors are a better
+choice than matched unrelated donors: point</article-title>. <source>Blood
+Adv</source>.
+<year>2017</year>;<volume>1</volume>:<fpage>397</fpage>-<lpage>400</lpage>.<pub-id pub-id-type="pmid">29296954</pub-id></mixed-citation></ref><ref id="bibr36-1534735418756736"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alho</surname><given-names>AC</given-names></name><name><surname>Kim</surname><given-names>HT</given-names></name><name><surname>Chammas</surname><given-names>MJ</given-names></name><etal>et al</etal></person-group>
+<article-title>Unbalanced recovery of regulatory and effector T
+cells after allogeneic stem cell transplantation contributes to chronic
+GVHD</article-title>. <source>Blood</source>.
+<year>2016</year>;<volume>127</volume>:<fpage>646</fpage>-<lpage>657</lpage>.<pub-id pub-id-type="pmid">26670634</pub-id></mixed-citation></ref><ref id="bibr37-1534735418756736"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burns</surname><given-names>DM</given-names></name><name><surname>Tierney</surname><given-names>R</given-names></name><name><surname>Shannon-Lowe</surname><given-names>C</given-names></name><etal>et al</etal></person-group>
+<article-title>Memory B-cell reconstitution following
+allogeneic hematopoietic stem cell transplantation is an EBV-associated
+transformation event</article-title>. <source>Blood</source>.
+<year>2015</year>;<volume>126</volume>:<fpage>2665</fpage>-<lpage>2675</lpage>.<pub-id pub-id-type="pmid">26450987</pub-id></mixed-citation></ref><ref id="bibr38-1534735418756736"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abboud</surname><given-names>I</given-names></name><name><surname>Peraldi</surname><given-names>MN</given-names></name><name><surname>Hingorani</surname><given-names>S</given-names></name></person-group>
+<article-title>Chronic kidney diseases in long-term survivors
+after allogeneic hematopoietic stem cell transplantation: monitoring and
+management guidelines</article-title>. <source>Semin Hematol</source>.
+<year>2012</year>;<volume>49</volume>:<fpage>73</fpage>-<lpage>82</lpage>.<pub-id pub-id-type="pmid">22221787</pub-id></mixed-citation></ref><ref id="bibr39-1534735418756736"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ellis</surname><given-names>MJ</given-names></name><name><surname>Parikh</surname><given-names>CR</given-names></name><name><surname>Inrig</surname><given-names>JK</given-names></name><name><surname>Kanbay</surname><given-names>M</given-names></name><name><surname>Patel</surname><given-names>UD</given-names></name></person-group>
+<article-title>Chronic kidney disease after hematopoietic cell
+transplantation: a systematic review</article-title>. <source>Am J
+Transplant</source>.
+<year>2008</year>;<volume>8</volume>:<fpage>2378</fpage>-<lpage>2390</lpage>.<pub-id pub-id-type="pmid">18925905</pub-id></mixed-citation></ref><ref id="bibr40-1534735418756736"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>BC</given-names></name><name><surname>Choi</surname><given-names>JB</given-names></name><name><surname>Cho</surname><given-names>HJ</given-names></name><name><surname>Kim</surname><given-names>YS</given-names></name></person-group>
+<article-title>Rehmannia glutinosa ameliorates the progressive
+renal failure induced by 5/6 nephrectomy</article-title>. <source>J
+Ethnopharmacol</source>.
+<year>2009</year>;<volume>122</volume>:<fpage>131</fpage>-<lpage>135</lpage>.<pub-id pub-id-type="pmid">19146934</pub-id></mixed-citation></ref><ref id="bibr41-1534735418756736"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>X</given-names></name><name><surname>Wang</surname><given-names>H</given-names></name></person-group>
+<article-title>Chinese herbal medicine in the treatment of
+chronic kidney disease</article-title>. <source>Adv Chronic Kidney
+Dis</source>.
+<year>2005</year>;<volume>12</volume>:<fpage>276</fpage>-<lpage>281</lpage>.<pub-id pub-id-type="pmid">16010642</pub-id></mixed-citation></ref><ref id="bibr42-1534735418756736"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Parimon</surname><given-names>T</given-names></name><name><surname>Au</surname><given-names>DH</given-names></name><name><surname>Martin</surname><given-names>PJ</given-names></name><name><surname>Chien</surname><given-names>JW</given-names></name></person-group>
+<article-title>A risk score for mortality after allogeneic
+hematopoietic cell transplantation</article-title>. <source>Ann Intern
+Med</source>.
+<year>2006</year>;<volume>144</volume>:<fpage>407</fpage>-<lpage>414</lpage>.<pub-id pub-id-type="pmid">16549853</pub-id></mixed-citation></ref><ref id="bibr43-1534735418756736"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sorror</surname><given-names>ML</given-names></name><name><surname>Maris</surname><given-names>MB</given-names></name><name><surname>Storb</surname><given-names>R</given-names></name><etal>et al</etal></person-group>
+<article-title>Hematopoietic cell transplantation
+(HCT)-specific comorbidity index: a new tool for risk assessment before
+allogeneic HCT</article-title>. <source>Blood</source>.
+<year>2005</year>;<volume>106</volume>:<fpage>2912</fpage>-<lpage>2919</lpage>.<pub-id pub-id-type="pmid">15994282</pub-id></mixed-citation></ref></ref-list></back></article>

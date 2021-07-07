@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR36">
+ <label>36.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Martin</surname>
+    <given-names>KA</given-names>
+   </name>
+   <name>
+    <surname>Rejeski</surname>
+    <given-names>WJ</given-names>
+   </name>
+   <name>
+    <surname>Miller</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>James</surname>
+    <given-names>MK</given-names>
+   </name>
+   <name>
+    <surname>Ettinger</surname>
+    <given-names>W</given-names>
+    <suffix>Jr</suffix>
+   </name>
+   <name>
+    <surname>Messier</surname>
+    <given-names>SP</given-names>
+   </name>
+  </person-group>
+  <article-title>Validation of the PASE in older adults with knee pain and physical disability</article-title>
+  <source>Med Sci Sports Exerc</source>
+  <year>1999</year>
+  <volume>31</volume>
+  <fpage>627</fpage>
+  <lpage>633</lpage>
+  <pub-id pub-id-type="doi">10.1097/00005768-199905000-00001</pub-id>
+  <?supplied-pmid 10331879?>
+  <pub-id pub-id-type="pmid">10331879</pub-id>
+ </element-citation>
+</ref>

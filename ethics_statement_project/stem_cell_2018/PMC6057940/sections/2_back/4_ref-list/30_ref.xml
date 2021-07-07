@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Volk-Draper</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Paclitaxel therapy promotes breast cancer metastasis in a TLR4-dependent manner</article-title>
+  <source>Cancer Res.</source>
+  <year>2014</year>
+  <volume>74</volume>
+  <fpage>5421</fpage>
+  <lpage>5434</lpage>
+  <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-14-0067</pub-id>
+  <?supplied-pmid 25274031?>
+  <pub-id pub-id-type="pmid">25274031</pub-id>
+ </element-citation>
+</ref>

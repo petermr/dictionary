@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par65">The following secondary outcome measures will also be collected:
+ <list list-type="simple">
+  <list-item>
+   <label>i)</label>
+   <p id="Par66">
+    <italic>Average knee pain severity during walking</italic>: measured at baseline, 2 months and 12 months on an 11-point NRS, where 0 indicates no pain and 10 indicates worst pain possible.
+   </p>
+  </list-item>
+  <list-item>
+   <label>ii)</label>
+   <p id="Par67">
+    <italic>Intermittent and Constant Osteoarthritis Pain (ICOAP) questionnaire:</italic> measured at baseline, 2 months and 12 months. This is a self-report multi-dimensional, OA-specific measure of pain experience, with established reliability, internal consistency and validity in people with knee OA [
+    <xref ref-type="bibr" rid="CR27">27</xref>]. It is comprised of 5-items assessing constant knee pain in the previous week, and 6-items assessing intermittent knee pain in the previous week. Questions regarding pain intensity have terminal responses of ‘not at all’ (score 0) and ‘extremely’ (score 4), and questions regarding pain frequency have ‘never’ (score 0) to ‘very often’ (score 4). Total scores range from 0 to 100, with higher scores indicating worse pain.
+   </p>
+  </list-item>
+  <list-item>
+   <label>iii)</label>
+   <p id="Par68">
+    <italic>Knee Injury and Osteoarthritis Outcome Score:</italic> measured at baseline, 2 months and 12 months. This is a knee-specific self-report outcome measure with high test-retest reliability, internally consistent and face and content validity [
+    <xref ref-type="bibr" rid="CR28">28</xref>, 
+    <xref ref-type="bibr" rid="CR29">29</xref>]. Likert responses range from None to Extreme, and scores range from 0 to 100, with lower scores indicating worse symptoms, function or quality of life. It is comprised of the following five subscales:
+    <list list-type="alpha-lower">
+     <list-item>
+      <p id="Par69">Pain: scored from 9 questions about knee pain frequency experienced in the last week, and the amount of knee pain experienced during specific activities such as twisting, bending and walking.</p>
+     </list-item>
+     <list-item>
+      <p id="Par70">Other symptoms: scored from 7 questions regarding other symptoms experienced in the last week, such as swelling, restricted range of motion and mechanical symptoms.</p>
+     </list-item>
+     <list-item>
+      <p id="Par71">Function in daily living: scored from 17 questions regarding knee function in the last week.</p>
+     </list-item>
+     <list-item>
+      <p id="Par72">Function in sport and recreation: scored from 5 questions regarding function with sport and recreational activities in the last week.</p>
+     </list-item>
+     <list-item>
+      <p id="Par73">Knee-related quality of life: scored from 4 questions about knee-related quality of life experienced in the last week.</p>
+     </list-item>
+    </list>
+   </p>
+  </list-item>
+  <list-item>
+   <label>iv)</label>
+   <p id="Par74">
+    <italic>Participant-perceived global ratings of change:</italic> participants will rate perceived overall change with treatment (compared to baseline), and change in pain and physical function, on a 7-point Likert scale (from “much worse” to “much better”) at 2 and 12 months [
+    <xref ref-type="bibr" rid="CR30">30</xref>]. Those ‘moderately better’ or ‘much better’ will be classified as improved. All other respondents will be classified as not improved.
+   </p>
+  </list-item>
+  <list-item>
+   <label>v)</label>
+   <p id="Par75">
+    <italic>Health-related quality of life:</italic> measured at baseline, 2 months and 12 months using the 35-item Assessment of Quality of Life (AQoL-8D) instrument [
+    <xref ref-type="bibr" rid="CR31">31</xref>]. The AQoL-8D has strong psychometric properties and is more responsive than other widely-used scales [
+    <xref ref-type="bibr" rid="CR32">32</xref>]. Scores range from − 0.04 to 1.00, with higher scores indicating better quality of life. The AQoL-8D will also be measured at 6 and 9 months for the health economic evaluation.
+   </p>
+  </list-item>
+  <list-item>
+   <label>vi)</label>
+   <p id="Par76">
+    <italic>Other MRI-derived measurements</italic>: using a 3 T whole body system with a dedicated extremity coil and a T1-weighted fat-suppressed 3D gradient recall acquisition sequence (Additional file 
+    <xref rid="MOESM1" ref-type="media">1</xref>). Outcomes include:
+    <list list-type="alpha-lower">
+     <list-item>
+      <p id="Par77">MRI osteoarthritis knee score (MOAKS): an OA-specific semi-quantitative tool evaluating multi-feature joint changes associated with OA [
+       <xref ref-type="bibr" rid="CR33">33</xref>]. We will assess the following subscores: meniscal morphology (any regions with worsening at 12 months compared to baseline; scored as yes or no); inter-condylar synovitis (worsening in inter-condylar synovitis at 12 months compared to baseline; scored as yes or no); cartilage morphology (number of areas with worsening in thickness at 12 months compared to baseline; categorised as 0, 1, 2, or 3+); and whole knee effusion (change in whole knee effusion at 12 months compared to baseline; categorised as worsened, no change or improved).
+      </p>
+     </list-item>
+     <list-item>
+      <p id="Par78">Bone marrow lesion size: assessed from the MRIs at baseline and 12-months using categorical scoring in the medial distal femur and the proximal tibia (range 0–3 per region, with higher scores indicating greater bone marrow lesion size). Progression of bone marrow lesions (yes/no) will be defined as an increase in score by at least 1 from baseline to follow-up in either the medial tibial or medial femoral compartment.</p>
+     </list-item>
+     <list-item>
+      <p id="Par79">Cartilage defects: score in the medial distal femur and the proximal tibia at baseline and 12-months using categorical scoring (range 0–4 per region, with higher scores indicating greater cartilage defects). Progression of medial cartilage defects (yes/no) will be defined as an increase in score by at least 1 from baseline to follow-up in either the medial tibial or medial femoral compartment.</p>
+     </list-item>
+    </list>
+   </p>
+  </list-item>
+ </list>
+</p>

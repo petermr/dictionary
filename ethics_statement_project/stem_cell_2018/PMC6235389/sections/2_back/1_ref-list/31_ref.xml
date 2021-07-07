@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bello</surname>
+    <given-names>CL</given-names>
+   </name>
+   <name>
+    <surname>Sherman</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Verkh</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Smeraglia</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Mount</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Effect of food on the pharmacokinetics of sunitinib malate (SU11248), a multi-targeted receptor tyrosine kinase inhibitor: results from a phase I study in healthy subjects</article-title>
+  <source>Anticancer Drugs</source>
+  <year>2006</year>
+  <volume>17</volume>
+  <issue>3</issue>
+  <fpage>353</fpage>
+  <lpage>358</lpage>
+  <pub-id pub-id-type="doi">10.1097/00001813-200603000-00015</pub-id>
+  <pub-id pub-id-type="pmid">16520665</pub-id>
+ </element-citation>
+</ref>

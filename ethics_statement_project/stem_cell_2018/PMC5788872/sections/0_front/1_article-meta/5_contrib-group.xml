@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="sct312264-cr-0001" contrib-type="author" corresp="yes">
+  <name>
+   <surname>Keller</surname>
+   <given-names>Cesar Ariel</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6186-4764</contrib-id>
+  <address>
+   <email>Keller.Cesar@mayo.edu</email>
+  </address>
+  <xref ref-type="aff" rid="sct312264-aff-0001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312264-cr-0002" contrib-type="author">
+  <name>
+   <surname>Gonwa</surname>
+   <given-names>Thomas Arthur</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312264-aff-0001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312264-cr-0003" contrib-type="author">
+  <name>
+   <surname>Hodge</surname>
+   <given-names>David Orel</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312264-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312264-cr-0004" contrib-type="author">
+  <name>
+   <surname>Hei</surname>
+   <given-names>Derek Joseph</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312264-aff-0003">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312264-cr-0005" contrib-type="author">
+  <name>
+   <surname>Centanni</surname>
+   <given-names>John Michael</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312264-aff-0004">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312264-cr-0006" contrib-type="author">
+  <name>
+   <surname>Zubair</surname>
+   <given-names>Abba Chedi</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312264-aff-0005">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+</contrib-group>

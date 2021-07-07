@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par18">Bulk and scRNA-Seq data suggested that stromal Hh-signaling drives collagen remodeling in the local ECM (Figs. 
+ <xref rid="Fig2" ref-type="fig">2b, c</xref>,  
+ <xref rid="Fig3" ref-type="fig">3</xref>), which is known to associate with breast cancer progression
+ <sup>
+  <xref ref-type="bibr" rid="CR21">21</xref>
+ </sup>. We employed second harmonic generation (SHG) microscopy, a sensitive label-free method for quantifying fibrillar collagen density and orientation in tissues
+ <sup>
+  <xref ref-type="bibr" rid="CR22">22</xref>
+ </sup>. SHG analysis revealed a ~3-fold increase in fibrillar collagen density at the tumor−stromal interface of Hh-expressing tumors (Fig. 
+ <xref rid="Fig4" ref-type="fig">4a</xref>), but not in the tumor center (data not shown). The increase in collagen abundance was confirmed by chromogenic staining using Picrosirius red (Fig. 
+ <xref rid="Fig4" ref-type="fig">4b</xref>). Further detailed analyses of the distribution and orientation of collagen fibers as described by Mayorca-Guiliani et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR23">23</xref>
+ </sup> and by Gray level co-occurrence matrix (GLCM) analysis
+ <sup>
+  <xref ref-type="bibr" rid="CR24">24</xref>
+ </sup> revealed changes in texture and crosslinking of the ECM with linearization of collagen fibers adjacent to epithelial lesions in M6-Hh tumors, a hallmark of breast tumor growth and invasiveness
+ <sup>
+  <xref ref-type="bibr" rid="CR8">8</xref>,
+  <xref ref-type="bibr" rid="CR23">23</xref>
+ </sup> (Fig. 
+ <xref rid="Fig4" ref-type="fig">4a</xref>). These features were ameliorated in M6-Hh tumors treated with SMOi (Fig. 
+ <xref rid="Fig4" ref-type="fig">4a</xref>), demonstrating an ongoing dependency on SMO activation.
+</p>

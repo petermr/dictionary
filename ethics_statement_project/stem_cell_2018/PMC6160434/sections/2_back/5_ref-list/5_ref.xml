@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yu</surname>
+    <given-names>AL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Anti-GD2 antibody with GM-CSF, interleukin-2, and isotretinoin for neuroblastoma</article-title>
+  <source>The New England journal of medicine</source>
+  <year>2010</year>
+  <volume>363</volume>
+  <fpage>1324</fpage>
+  <lpage>1334</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa0911123</pub-id>
+  <?supplied-pmid 20879881?>
+  <pub-id pub-id-type="pmid">20879881</pub-id>
+ </element-citation>
+</ref>

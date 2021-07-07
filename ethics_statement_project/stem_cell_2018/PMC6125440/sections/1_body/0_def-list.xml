@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<def-list list-content="abbreviations" id="cas13719-dl-0001">
+ <title>Abbreviations</title>
+ <def-item>
+  <term>ASCT</term>
+  <def>
+   <p>autologous hematopoietic stem cell transplantation</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>CHASER</term>
+  <def>
+   <p>cyclophosphamide, high‐dose cytarabine, dexamethasone, etoposide, and rituximab</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>CHOP</term>
+  <def>
+   <p>cyclophosphamide, doxorubicin, vincristine, and prednisone</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>CI</term>
+  <def>
+   <p>confidence interval</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>CPA</term>
+  <def>
+   <p>cyclophosphamide</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>CR</term>
+  <def>
+   <p>complete response</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>GELA</term>
+  <def>
+   <p>Groupe d'Etude des Lymphomes de l'Adulte</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>HDAC</term>
+  <def>
+   <p>high‐dose cytarabine</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>HDC</term>
+  <def>
+   <p>high‐dose chemotherapy</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>JCOG‐LSG</term>
+  <def>
+   <p>Japan Clinical Oncology Group ‐ Lymphoma Study Group</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>LEED</term>
+  <def>
+   <p>melphalan, CPA, etoposide and dexamethasone</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>LYSA</term>
+  <def>
+   <p>Lymphoma Study Association</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>MCL</term>
+  <def>
+   <p>mantle cell lymphoma</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>MIPI</term>
+  <def>
+   <p>mantle cell lymphoma international prognostic index</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>MIPI‐c</term>
+  <def>
+   <p>modified combination of the Ki‐67 index and MIPI</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>NHL</term>
+  <def>
+   <p>non‐Hodgkin lymphoma</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>OS</term>
+  <def>
+   <p>overall survival</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>ORR</term>
+  <def>
+   <p>overall response rate</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>PBSC</term>
+  <def>
+   <p>peripheral blood stem cell</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>PFS</term>
+  <def>
+   <p>progression‐free survival</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>PS</term>
+  <def>
+   <p>performance status</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>R</term>
+  <def>
+   <p>rituximab</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>R‐DHAP</term>
+  <def>
+   <p>rituximab, dexamethasone, HDAC and cisplatin</p>
+  </def>
+ </def-item>
+ <def-item>
+  <term>WHO</term>
+  <def>
+   <p>World Health Organization</p>
+  </def>
+ </def-item>
+</def-list>

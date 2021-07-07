@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib24">
+ <label>24</label>
+ <element-citation publication-type="journal" id="sbref240">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kaiser</surname>
+    <given-names>MF</given-names>
+   </name>
+   <name>
+    <surname>Walker</surname>
+    <given-names>BA</given-names>
+   </name>
+   <name>
+    <surname>Hockley</surname>
+    <given-names>SL</given-names>
+   </name>
+  </person-group>
+  <article-title>A TC classification-based predictor for multiple myeloma using multiplexed real-time quantitative PCR</article-title>
+  <source>Leukemia</source>
+  <volume>27</volume>
+  <year>2013</year>
+  <fpage>1754</fpage>
+  <lpage>1757</lpage>
+  <pub-id pub-id-type="pmid">23318961</pub-id>
+ </element-citation>
+</ref>

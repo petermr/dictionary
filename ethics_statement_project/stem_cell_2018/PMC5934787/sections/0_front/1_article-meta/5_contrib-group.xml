@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Dore</surname>
+   <given-names>Fiona J.</given-names>
+  </name>
+  <address>
+   <email>fdore@gwu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Domingues</surname>
+   <given-names>Cleyton C.</given-names>
+  </name>
+  <address>
+   <email>cleytoncd@gwu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ahmadi</surname>
+   <given-names>Neeki</given-names>
+  </name>
+  <address>
+   <email>nahmadi@gwu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kundu</surname>
+   <given-names>Nabanita</given-names>
+  </name>
+  <address>
+   <email>nabanitakundu@gwu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kropotova</surname>
+   <given-names>Yana</given-names>
+  </name>
+  <address>
+   <email>yanakropotova@gwu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Houston</surname>
+   <given-names>Sara</given-names>
+  </name>
+  <address>
+   <email>shoust01@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rouphael</surname>
+   <given-names>Carol</given-names>
+  </name>
+  <address>
+   <email>rouphac@ccf.org</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mammadova</surname>
+   <given-names>Aytan</given-names>
+  </name>
+  <address>
+   <email>dr.aytan.mammadova@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Witkin</surname>
+   <given-names>Linda</given-names>
+  </name>
+  <address>
+   <email>lwitkin@mfa.gwu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Khiyami</surname>
+   <given-names>Anamil</given-names>
+  </name>
+  <address>
+   <email>akhiyami@gwu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Amdur</surname>
+   <given-names>Richard L.</given-names>
+  </name>
+  <address>
+   <email>ramdur@mfa.gwu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3675-9129</contrib-id>
+  <name>
+   <surname>Sen</surname>
+   <given-names>Sabyasachi</given-names>
+  </name>
+  <address>
+   <phone>(202) 994-8560</phone>
+   <email>ssen1@gwu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.428960.1</institution-id>
+   <institution>The GW Medical Faculty Associates, </institution>
+  </institution-wrap>Washington, DC, USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 9510</institution-id>
+   <institution-id institution-id-type="GRID">grid.253615.6</institution-id>
+   <institution>Department of Medicine, </institution>
+   <institution>The George Washington University, </institution>
+  </institution-wrap>2300 Eye Street, Washington, DC, 20037 USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0501 7602</institution-id>
+   <institution-id institution-id-type="GRID">grid.449346.8</institution-id>
+   <institution>Princess Nora Bint Abdul Rahman University, </institution>
+  </institution-wrap>Riyadh, Saudi Arabia 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0675 4725</institution-id>
+   <institution-id institution-id-type="GRID">grid.239578.2</institution-id>
+   <institution>Present Address: Department of Internal Medicine, </institution>
+   <institution>Cleveland Clinic, </institution>
+  </institution-wrap>Cleveland, OH USA 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0622 3555</institution-id>
+   <institution-id institution-id-type="GRID">grid.416977.a</institution-id>
+   <institution>Present Address: Richmond University Medical Center, </institution>
+  </institution-wrap>Staten Island, NY USA 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>Present Address: Weill Cornell Medicine/New York7-Presbyterian, New York, USA 
+ </aff>
+</contrib-group>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brahmer</surname>
+    <given-names>JR</given-names>
+   </name>
+  </person-group>
+  <article-title>Harnessing the immune system for the treatment of non-small-cell lung cancer</article-title>
+  <source>J Clin Oncol</source>
+  <year>2013</year>
+  <volume>31</volume>
+  <fpage>1021</fpage>
+  <lpage>1028</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2012.45.8703</pub-id>
+  <?supplied-pmid 23401435?>
+  <pub-id pub-id-type="pmid">23401435</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="BX1" position="float" orientation="portrait">
+ <caption>
+  <title>Strengths and limitations of this study</title>
+ </caption>
+ <list list-type="bullet">
+  <list-item>
+   <p>The use of a multicentre randomised design in a research area where there is a clear lack of high-quality trials (impact: increased internal validity).</p>
+  </list-item>
+  <list-item>
+   <p>The intervention will be tested in a diverse setting of hospitals in different cultural/language regions of the same country (impact: increased external validity) and it is relatively easy to implement uniformly (impact: increased external validity).</p>
+  </list-item>
+  <list-item>
+   <p>Overall, antimicrobial prescribing levels in the participating centres are already relatively low compared with levels in other countries (about 50–60 defined daily dose per 100 patient-days) (impact: reduced external validity; higher risk of ‘negative’ trial).</p>
+  </list-item>
+  <list-item>
+   <p>While the intervention should be implementable elsewhere, it requires modifications in the electronic health record/computerised physician order entry system which may be difficult to implement in settings using software by commercial vendors (impact: reduced external validity).</p>
+  </list-item>
+  <list-item>
+   <p>This is a cluster randomised trial with the ward as the ‘unit of randomisation’. A certain degree of ‘contamination’ is therefore unavoidable, for example, through physicians changing between wards, although the degree is lower than that for an individual randomised trial (impact: higher risk of ‘negative’ trial).</p>
+  </list-item>
+ </list>
+</boxed-text>

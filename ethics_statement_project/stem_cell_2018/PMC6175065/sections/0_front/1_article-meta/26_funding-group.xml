@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group>
+  <funding-source>Ortho Biotech</funding-source>
+ </award-group>
+ <award-group>
+  <funding-source>Celgene</funding-source>
+ </award-group>
+ <award-group>
+  <funding-source>Pharmion</funding-source>
+ </award-group>
+ <award-group>
+  <funding-source>Chugai Pharmaceutical</funding-source>
+ </award-group>
+ <award-group>
+  <funding-source>Medical Research Council</funding-source>
+  <award-id>G0100132</award-id>
+ </award-group>
+ <award-group>
+  <funding-source>Novartis</funding-source>
+ </award-group>
+ <award-group>
+  <funding-source>Schering‐Plough</funding-source>
+ </award-group>
+</funding-group>

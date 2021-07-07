@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="author-58702767" contrib-type="author">
+  <name>
+   <surname>van Rhijn-Brouwer</surname>
+   <given-names>Femke C C</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-58905778" contrib-type="author">
+  <name>
+   <surname>Gremmels</surname>
+   <given-names>Hendrik</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-58905786" contrib-type="author">
+  <name>
+   <surname>Fledderus</surname>
+   <given-names>Joost O</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-58905851" contrib-type="author">
+  <name>
+   <surname>Schuurman</surname>
+   <given-names>Arnold H</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-58905854" contrib-type="author">
+  <name>
+   <surname>Bonte-Mineur</surname>
+   <given-names>Femke</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+ <contrib id="author-58905855" contrib-type="author">
+  <name>
+   <surname>Vonk</surname>
+   <given-names>Madelon C</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">4</xref>
+ </contrib>
+ <contrib id="author-58905858" contrib-type="author">
+  <name>
+   <surname>Voskuyl</surname>
+   <given-names>Alexandre E</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">5</xref>
+ </contrib>
+ <contrib id="author-58905860" contrib-type="author">
+  <name>
+   <surname>de Vries-Bouwstra</surname>
+   <given-names>Jeska K</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff6">6</xref>
+ </contrib>
+ <contrib id="author-58905862" contrib-type="author">
+  <name>
+   <surname>Coert</surname>
+   <given-names>J Henk</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-28546484" contrib-type="author">
+  <name>
+   <surname>Radstake</surname>
+   <given-names>Timothy R D J</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff7">7</xref>
+ </contrib>
+ <contrib id="author-58905866" contrib-type="author">
+  <name>
+   <surname>van Laar</surname>
+   <given-names>Jacob M</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff7">7</xref>
+ </contrib>
+ <contrib id="author-58905868" contrib-type="author">
+  <name>
+   <surname>Verhaar</surname>
+   <given-names>Marianne C</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <collab>the MANUS Study Group 
+   <contrib-group content-type="collaborators">
+    <contrib contrib-type="collab">
+     <name>
+      <surname>C van Rhijn</surname>
+      <given-names>F C</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>Gremmels</surname>
+      <given-names>H</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>Fledderus</surname>
+      <given-names>J O</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>Schuurman</surname>
+      <given-names>A H</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>Zeddies</surname>
+      <given-names>S</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>M Slaper-Cortenbach</surname>
+      <given-names>I C</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>de Hair</surname>
+      <given-names>M J H</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>A Marijnissen</surname>
+      <given-names>A C</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>Tekstra</surname>
+      <given-names>J</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>Ton</surname>
+      <given-names>E</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>J Welsing</surname>
+      <given-names>P M</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>Bonte-Mineur</surname>
+      <given-names>F</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>Vonk</surname>
+      <given-names>M C</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>Voskuyl</surname>
+      <given-names>A E</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>de Vries-Bouwstra</surname>
+      <given-names>J K</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>Coert</surname>
+      <given-names>J H</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>Radstake</surname>
+      <given-names>T R</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>van laar</surname>
+      <given-names>J M</given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="collab">
+     <name>
+      <surname>Verhaar</surname>
+      <given-names>M C</given-names>
+     </name>
+    </contrib>
+   </contrib-group>
+  </collab>
+ </contrib>
+</contrib-group>

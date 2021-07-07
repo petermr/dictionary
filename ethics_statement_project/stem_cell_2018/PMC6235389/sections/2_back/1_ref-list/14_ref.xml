@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sun</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Su</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Han</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Zhao</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Xiao</surname>
+    <given-names>W</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Long-term outcomes of intensity-modulated radiotherapy for 868 patients with nasopharyngeal carcinoma: an analysis of survival and treatment toxicities</article-title>
+  <source>Radiother Oncol</source>
+  <year>2014</year>
+  <volume>110</volume>
+  <issue>3</issue>
+  <fpage>398</fpage>
+  <lpage>403</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.radonc.2013.10.020</pub-id>
+  <pub-id pub-id-type="pmid">24231245</pub-id>
+ </element-citation>
+</ref>

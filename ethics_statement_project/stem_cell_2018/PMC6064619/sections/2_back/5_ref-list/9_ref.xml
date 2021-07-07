@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McAlindon</surname>
+    <given-names>TE</given-names>
+   </name>
+   <name>
+    <surname>LaValley</surname>
+    <given-names>MP</given-names>
+   </name>
+   <name>
+    <surname>Harvey</surname>
+    <given-names>WF</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Effect of intra-articular triamcinolone vs saline on knee cartilage volume and pain in patients with knee osteoarthritis: a randomized clinical trial</article-title>
+  <source>JAMA</source>
+  <year>2017</year>
+  <volume>317</volume>
+  <fpage>1967</fpage>
+  <lpage>1975</lpage>
+  <pub-id pub-id-type="doi">10.1001/jama.2017.5283</pub-id>
+  <?supplied-pmid 28510679?>
+  <pub-id pub-id-type="pmid">28510679</pub-id>
+ </element-citation>
+</ref>

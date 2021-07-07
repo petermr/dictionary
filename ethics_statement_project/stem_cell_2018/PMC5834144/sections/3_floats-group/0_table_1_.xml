@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="mdx698-T1" orientation="portrait" position="float">
+ <label>Table 1.</label>
+ <caption>
+  <p>Patient baseline and disease characteristics (safety population)</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <colgroup span="1">
+   <col valign="top" align="left" span="1"/>
+   <col valign="top" align="char" char="" span="1"/>
+   <col valign="top" align="char" char="" span="1"/>
+   <col valign="top" align="char" char="" span="1"/>
+  </colgroup>
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1">Characteristic</th>
+    <th rowspan="1" colspan="1">
+     <bold>NEPA + DEX</bold> (
+     <bold>
+      <italic>N</italic> = 413)
+     </bold>
+    </th>
+    <th rowspan="1" colspan="1">
+     <bold>APR/GRAN +  DEX</bold> (
+     <bold>
+      <italic>N</italic>
+     </bold>
+     <italic> </italic>= 416)
+    </th>
+    <th rowspan="1" colspan="1">
+     <bold>Overall</bold> (
+     <italic>N</italic> = 829)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="4" rowspan="1">Gender</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Male</td>
+    <td rowspan="1" colspan="1">292 (70.7%)</td>
+    <td rowspan="1" colspan="1">297 (71.4%)</td>
+    <td rowspan="1" colspan="1">589 (71.0%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Female</td>
+    <td rowspan="1" colspan="1">121 (29.3%)</td>
+    <td rowspan="1" colspan="1">119 (28.6%)</td>
+    <td rowspan="1" colspan="1">240 (29.0%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Age (years), mean (SD)</td>
+    <td rowspan="1" colspan="1">54.6 (9.63)</td>
+    <td rowspan="1" colspan="1">54.5 (10.24)</td>
+    <td rowspan="1" colspan="1">54.6 (9.93)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Race</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Asian</td>
+    <td rowspan="1" colspan="1">413 (100.0%)</td>
+    <td rowspan="1" colspan="1">416 (100.0%)</td>
+    <td rowspan="1" colspan="1">829 (100.0%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">BSA (m
+     <sup>2</sup>), mean (SD)
+    </td>
+    <td rowspan="1" colspan="1">1.67 (0.159)</td>
+    <td rowspan="1" colspan="1">1.68 (0.158)</td>
+    <td rowspan="1" colspan="1">1.67 (0.158)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">BMI (kg/m
+     <sup>2</sup>), mean (SD)
+    </td>
+    <td rowspan="1" colspan="1">22.49 (3.337)</td>
+    <td rowspan="1" colspan="1">22.85 (3.435)</td>
+    <td rowspan="1" colspan="1">22.67 (3.389)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">ECOG performance status</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> 0</td>
+    <td rowspan="1" colspan="1">175 (42.5%)</td>
+    <td rowspan="1" colspan="1">171 (41.1%)</td>
+    <td rowspan="1" colspan="1">346 (41.8%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> 1</td>
+    <td rowspan="1" colspan="1">231 (56.1%)</td>
+    <td rowspan="1" colspan="1">236 (56.7%)</td>
+    <td rowspan="1" colspan="1">467 (56.4%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> 2</td>
+    <td rowspan="1" colspan="1">7 (1.7%)</td>
+    <td rowspan="1" colspan="1">9 (2.2%)</td>
+    <td rowspan="1" colspan="1">16 (1.9%)</td>
+   </tr>
+   <tr>
+    <td colspan="4" rowspan="1">Most common (≥5%) cancer types</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Lung</td>
+    <td rowspan="1" colspan="1">254 (61.5%)</td>
+    <td rowspan="1" colspan="1">229 (55.0%)</td>
+    <td rowspan="1" colspan="1">483 (58.3%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Head and neck</td>
+    <td rowspan="1" colspan="1">24 (5.8%)</td>
+    <td rowspan="1" colspan="1">
+     <p>31 (7.5%)</p>
+    </td>
+    <td rowspan="1" colspan="1">55 (6.6%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Cisplatin
+     <xref ref-type="table-fn" rid="tblfn1">
+      <sup>a</sup>
+     </xref>
+    </td>
+    <td rowspan="1" colspan="1">412 (99.8%)</td>
+    <td rowspan="1" colspan="1">416 (100%)</td>
+    <td rowspan="1" colspan="1">828 (99.9%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Dose &lt;70 mg/m
+     <sup>2</sup>
+    </td>
+    <td rowspan="1" colspan="1">161 (39.0%)</td>
+    <td rowspan="1" colspan="1">177 (42.5%)</td>
+    <td rowspan="1" colspan="1">338 (40.8%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Dose ≥70 mg/m
+     <sup>2</sup>
+    </td>
+    <td rowspan="1" colspan="1">251 (60.8%)</td>
+    <td rowspan="1" colspan="1">239 (57.5%)</td>
+    <td rowspan="1" colspan="1">490 (59.1%)</td>
+   </tr>
+   <tr>
+    <td colspan="4" rowspan="1">Most common (≥5%) concomitant chemotherapy</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Gemcitabine</td>
+    <td rowspan="1" colspan="1">123 (29.8%)</td>
+    <td rowspan="1" colspan="1">93 (22.4%)</td>
+    <td rowspan="1" colspan="1">216 (26.1%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Pemetrexed</td>
+    <td rowspan="1" colspan="1">69 (16.7%)</td>
+    <td rowspan="1" colspan="1">79 (19.0%)</td>
+    <td rowspan="1" colspan="1">148 (17.9%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Docetaxel</td>
+    <td rowspan="1" colspan="1">67 (16.2%)</td>
+    <td rowspan="1" colspan="1">68 (16.3%)</td>
+    <td rowspan="1" colspan="1">135 (16.3%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Etoposide</td>
+    <td rowspan="1" colspan="1">58 (14.0%)</td>
+    <td rowspan="1" colspan="1">53 (12.7%)</td>
+    <td rowspan="1" colspan="1">111 (13.4%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"> Fluorouracil</td>
+    <td rowspan="1" colspan="1">27 (6.5%)</td>
+    <td rowspan="1" colspan="1">32 (7.7%)</td>
+    <td rowspan="1" colspan="1">59 (7.1%)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tblfn1">
+   <label>a</label>
+   <p>Median cisplatin dose was 73 mg/m
+    <sup>2</sup> in the NEPA group and 72 mg/m
+    <sup>2</sup> in the APR/GRAN group.
+   </p>
+  </fn>
+  <fn id="tblfn2">
+   <p>APR, aprepitant; GRAN, granisetron; SD, standard deviation; BSA, body surface area; BMI, body mass index; ECOG, Eastern Cooperative Oncology Group.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

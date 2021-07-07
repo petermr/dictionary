@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B45">
+ <label>45</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Trivedi</surname>
+    <given-names>PP</given-names>
+   </name>
+   <name>
+    <surname>Roberts</surname>
+    <given-names>PC</given-names>
+   </name>
+   <name>
+    <surname>Wolf</surname>
+    <given-names>NA</given-names>
+   </name>
+   <name>
+    <surname>Swanborg</surname>
+    <given-names>RH</given-names>
+   </name>
+  </person-group>. 
+  <article-title>NK cells inhibit T cell proliferation via p21-mediated cell cycle arrest</article-title>. 
+  <source>J Immunol</source> (
+  <year>2005</year>) 
+  <volume>174</volume>:
+  <fpage>4590</fpage>–
+  <lpage>7</lpage>.
+  <pub-id pub-id-type="doi">10.4049/jimmunol.174.8.4590</pub-id>
+  <?supplied-pmid 15814681?>
+  <pub-id pub-id-type="pmid">15814681</pub-id>
+ </mixed-citation>
+</ref>

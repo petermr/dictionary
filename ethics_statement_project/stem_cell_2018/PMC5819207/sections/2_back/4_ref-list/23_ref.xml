@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Nanayakkara</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Tan</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Drummer</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Sun</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Shao</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Fu</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Cueto</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Shan</surname>
+    <given-names>H</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A comprehensive data mining study shows that most nuclear receptors act as newly proposed homeostasis-associated molecular pattern receptors</article-title>
+  <source>J Hematol Oncol</source>
+  <year>2017</year>
+  <volume>10</volume>
+  <issue>1</issue>
+  <fpage>168</fpage>
+  <pub-id pub-id-type="doi">10.1186/s13045-017-0526-8</pub-id>
+  <?supplied-pmid 29065888?>
+  <pub-id pub-id-type="pmid">29065888</pub-id>
+ </element-citation>
+</ref>

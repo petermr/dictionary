@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The primary endpoint is peak OMAS (total), that is, the highest measured OMAS total during the time in care. The primary variable is studied in a multiple linear regression model. Fixed explanatory variables are treatment group, type of cancer and centre. An initial model also includes interaction between treatment and type of cancer and interaction between treatment and centre. If the interaction effects are not significant, these are excluded from the final model. The significance level used is 5%.</p>

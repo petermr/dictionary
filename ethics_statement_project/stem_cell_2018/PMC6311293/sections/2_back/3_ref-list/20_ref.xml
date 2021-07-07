@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B21">
+ <label>21</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kazda</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Vrzal</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Prochazka</surname>
+    <given-names>T.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Left hippocampus sparing whole brain radiotherapy (WBRT): A planning study</article-title>
+  <source>
+   <italic toggle="yes">Biomedical Papers</italic>
+  </source>
+  <year>2017</year>
+  <volume>161</volume>
+  <issue>4</issue>
+  <fpage>397</fpage>
+  <lpage>402</lpage>
+  <pub-id pub-id-type="doi">10.5507/bp.2017.031</pub-id>
+ </element-citation>
+</ref>

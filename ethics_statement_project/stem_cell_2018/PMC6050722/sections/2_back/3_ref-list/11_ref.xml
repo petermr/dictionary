@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Galmarini</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Thomas</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Graham</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>El Jafaari</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Cros</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Jordheim</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Deoxycytidine kinase and cN-II nucleotidase expression in blast cells predict survival in acute myeloid leukaemia patients treated with cytarabine</article-title>
+  <source>Br J Haematol</source>
+  <year>2003</year>
+  <volume>122</volume>
+  <fpage>53</fpage>
+  <lpage>60</lpage>
+  <pub-id pub-id-type="doi">10.1046/j.1365-2141.2003.04386.x</pub-id>
+  <?supplied-pmid 12823345?>
+  <pub-id pub-id-type="pmid">12823345</pub-id>
+ </element-citation>
+</ref>

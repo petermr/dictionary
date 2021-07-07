@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R4">
+ <label>4.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Rubenstein</surname>
+    <given-names>EB</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Peterson</surname>
+    <given-names>DE</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Schubert</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Clinical practice guidelines for the prevention and treatment of cancer therapy-induced oral and gastrointestinal mucositis</article-title>. 
+  <source>Cancer</source>
+  <year>2004</year>;
+  <volume>100</volume>:
+  <fpage>2026</fpage>–
+  <lpage>46</lpage>. 
+  <pub-id pub-id-type="doi">10.1002/cncr.20163</pub-id>
+  <pub-id pub-id-type="pmid">15108223</pub-id>
+ </mixed-citation>
+</ref>

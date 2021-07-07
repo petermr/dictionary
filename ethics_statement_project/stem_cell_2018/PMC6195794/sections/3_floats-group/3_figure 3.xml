@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig3">
+ <label>Figure 3</label>
+ <caption>
+  <p>Microperimetry images showing topography of retinal sensitivity. The retinal sensitivities at test loci in each study eye, measured by microperimetry (Nidek MP-1) at baseline and 12 months, are superimposed on the respective fundus image. Each is presented with a corresponding topographic contour map to illustrate the hill of vision of retinal sensitivity, constructed by interpolation of sensitivities at the test loci using Visual Field Modelling and Analysis (VFMA) software. The blue line outlines the area of recipient retina administered human embryonic stem cell-derived retinal pigment epithelial cell suspension. P = patient; K = thousand.</p>
+ </caption>
+ <graphic xlink:href="gr3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

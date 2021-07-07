@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR64">
+ <label>64.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ohlund</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Distinct populations of inflammatory fibroblasts and myofibroblasts in pancreatic cancer</article-title>
+  <source>J. Exp. Med.</source>
+  <year>2017</year>
+  <volume>214</volume>
+  <fpage>579</fpage>
+  <lpage>596</lpage>
+  <?supplied-pmid 28232471?>
+  <pub-id pub-id-type="pmid">28232471</pub-id>
+ </element-citation>
+</ref>

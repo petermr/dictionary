@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR50">
+ <label>50.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shyu</surname>
+    <given-names>W-C</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>S-Z</given-names>
+   </name>
+   <name>
+    <surname>Chiang</surname>
+    <given-names>M-F</given-names>
+   </name>
+   <name>
+    <surname>Su</surname>
+    <given-names>C-Y</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>H</given-names>
+   </name>
+  </person-group>
+  <article-title>Intracerebral peripheral blood stem cell (CD34+) implantation induces neuroplasticity by enhancing β1 integrin-mediated angiogenesis in chronic stroke rats</article-title>
+  <source>J Neurosci</source>
+  <year>2006</year>
+  <volume>26</volume>
+  <fpage>3444</fpage>
+  <lpage>3453</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.5165-05.2006</pub-id>
+  <?supplied-pmid 16571751?>
+  <pub-id pub-id-type="pmid">16571751</pub-id>
+ </element-citation>
+</ref>

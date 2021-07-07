@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hakkola</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Tanaka</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Pelkonen</surname>
+    <given-names>O</given-names>
+   </name>
+  </person-group>
+  <article-title>Developmental expression of cytochrome P450 enzymes in human liver</article-title>
+  <source>Pharmacol Toxicol.</source>
+  <year>1998</year>
+  <volume>82</volume>
+  <fpage>209</fpage>
+  <lpage>217</lpage>
+  <?supplied-pmid 9646325?>
+  <pub-id pub-id-type="pmid">9646325</pub-id>
+ </element-citation>
+</ref>

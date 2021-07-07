@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mazzini</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Ferrero</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Luparello</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Rustichelli</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Gunetti</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Mareschi</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mesenchymal stem cell transplantation in amyotrophic lateral sclerosis: a phase I clinical trial</article-title>
+  <source>Exp Neurol</source>
+  <year>2010</year>
+  <volume>223</volume>
+  <fpage>229</fpage>
+  <lpage>237</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.expneurol.2009.08.007</pub-id>
+  <?supplied-pmid 19682989?>
+  <pub-id pub-id-type="pmid">19682989</pub-id>
+ </element-citation>
+</ref>

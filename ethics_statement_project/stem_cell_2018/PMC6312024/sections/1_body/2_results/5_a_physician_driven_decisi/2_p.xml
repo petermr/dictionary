@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The decision tree successfully identified the seven clusters of patients, with highly similar phenotypes to those of the original analysis (
+ <xref ref-type="fig" rid="f3-1040189">Figure 3</xref>). Specifically, Clusters 3, 4 and 7 had identical phenotypes by MEM labels when compared with the original machine-learning analysis (
+ <xref ref-type="fig" rid="f2-1040189">Figure 2</xref>). The remaining clusters had similar MEM labels to those of the original machine-learning analysis.
+</p>

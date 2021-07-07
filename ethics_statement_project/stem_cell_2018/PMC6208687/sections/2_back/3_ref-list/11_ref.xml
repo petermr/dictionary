@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Faiman</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Richards</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>Innovative agents in multiple myeloma</article-title>
+  <source>J Adv Pract Oncol</source>
+  <year>2014</year>
+  <volume>5</volume>
+  <fpage>193</fpage>
+  <lpage>202</lpage>
+  <?supplied-pmid 4114494?>
+  <pub-id pub-id-type="pmid">25089218</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par34">To compare these methods, we had to ensure optimal conditions that avoided variance homogeneity issues, lack of statistical power, and sensitivity towards missing data, which can influence parametric methods. That is why an approach based on synthetic data was preferred. After cross-validation, TAN Bayesian network was the best method according to the comparison of the AUC-ROC curves and its very good positive predictive value.</p>

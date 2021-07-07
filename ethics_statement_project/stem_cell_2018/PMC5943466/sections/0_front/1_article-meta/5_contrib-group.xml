@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="cam41388-cr-0001" contrib-type="author">
+  <name>
+   <surname>Vacirca</surname>
+   <given-names>Jeffrey L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0002" contrib-type="author">
+  <name>
+   <surname>Chan</surname>
+   <given-names>Arlene</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0003" contrib-type="author">
+  <name>
+   <surname>Mezei</surname>
+   <given-names>Klára</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0003">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0004" contrib-type="author">
+  <name>
+   <surname>Adoo</surname>
+   <given-names>Clarence S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0004">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0005" contrib-type="author">
+  <name>
+   <surname>Pápai</surname>
+   <given-names>Zsuzsanna</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0005">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0006" contrib-type="author">
+  <name>
+   <surname>McGregor</surname>
+   <given-names>Kimberly</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0006">
+   <sup>6</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0007" contrib-type="author">
+  <name>
+   <surname>Okera</surname>
+   <given-names>Meena</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0007">
+   <sup>7</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0008" contrib-type="author">
+  <name>
+   <surname>Horváth</surname>
+   <given-names>Zsolt</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0008">
+   <sup>8</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0009" contrib-type="author">
+  <name>
+   <surname>Landherr</surname>
+   <given-names>László</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0009">
+   <sup>9</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0010" contrib-type="author">
+  <name>
+   <surname>Hanslik</surname>
+   <given-names>Jerzy</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0010">
+   <sup>10</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0011" contrib-type="author">
+  <name>
+   <surname>Hager</surname>
+   <given-names>Steven J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0011">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0012" contrib-type="author">
+  <name>
+   <surname>Ibrahim</surname>
+   <given-names>Emad N.</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0012">
+   <sup>12</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0013" contrib-type="author">
+  <name>
+   <surname>Rostom</surname>
+   <given-names>Makharadze</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0013">
+   <sup>13</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0014" contrib-type="author">
+  <name>
+   <surname>Bhat</surname>
+   <given-names>Gajanan</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0014">
+   <sup>14</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0015" contrib-type="author">
+  <name>
+   <surname>Choi</surname>
+   <given-names>Mi Rim</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0014">
+   <sup>14</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0016" contrib-type="author">
+  <name>
+   <surname>Reddy</surname>
+   <given-names>Guru</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0014">
+   <sup>14</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0017" contrib-type="author">
+  <name>
+   <surname>Tedesco</surname>
+   <given-names>Karen L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0015">
+   <sup>15</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0018" contrib-type="author">
+  <name>
+   <surname>Agajanian</surname>
+   <given-names>Richy</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0016">
+   <sup>16</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0019" contrib-type="author">
+  <name>
+   <surname>Láng</surname>
+   <given-names>István</given-names>
+  </name>
+  <xref ref-type="aff" rid="cam41388-aff-0017">
+   <sup>17</sup>
+  </xref>
+ </contrib>
+ <contrib id="cam41388-cr-0020" contrib-type="author" corresp="yes">
+  <name>
+   <surname>Schwartzberg</surname>
+   <given-names>Lee S.</given-names>
+  </name>
+  <address>
+   <email>lschwartzberg@westclinic.com</email>
+  </address>
+  <xref ref-type="aff" rid="cam41388-aff-0018">
+   <sup>18</sup>
+  </xref>
+ </contrib>
+</contrib-group>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Howie</surname>
+   <given-names>R. Nicole</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Herberg</surname>
+   <given-names>Samuel</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff11">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Durham</surname>
+   <given-names>Emily</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Grey</surname>
+   <given-names>Zachary</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bennfors</surname>
+   <given-names>Grace</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Elsalanty</surname>
+   <given-names>Mohammed</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>LaRue</surname>
+   <given-names>Amanda C.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hill</surname>
+   <given-names>William D.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Cray</surname>
+   <given-names>James J.</given-names>
+  </name>
+  <address>
+   <phone>(614) 292-4831</phone>
+   <email>cray.29@osu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+  <xref ref-type="aff" rid="Aff10">10</xref>
+  <xref ref-type="aff" rid="Aff12">12</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2189 3475</institution-id>
+   <institution-id institution-id-type="GRID">grid.259828.c</institution-id>
+   <institution>Oral Health Sciences, </institution>
+   <institution>Medical University of South Carolina, </institution>
+  </institution-wrap>Charleston, SC USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2164 3847</institution-id>
+   <institution-id institution-id-type="GRID">grid.67105.35</institution-id>
+   <institution>Biomedical Engineering, </institution>
+   <institution>Case Western Reserve University, </institution>
+  </institution-wrap>Cleveland, OH USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2284 9329</institution-id>
+   <institution-id institution-id-type="GRID">grid.410427.4</institution-id>
+   <institution>Cellular Biology and Anatomy, </institution>
+   <institution>Augusta University, </institution>
+  </institution-wrap>Augusta, GA USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2284 9329</institution-id>
+   <institution-id institution-id-type="GRID">grid.410427.4</institution-id>
+   <institution>Oral Biology, </institution>
+   <institution>Augusta University, </institution>
+  </institution-wrap>Augusta, GA USA 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2284 9329</institution-id>
+   <institution-id institution-id-type="GRID">grid.410427.4</institution-id>
+   <institution>Orthopaedic Surgery, </institution>
+   <institution>Augusta University, </institution>
+  </institution-wrap>Augusta, GA USA 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2189 3475</institution-id>
+   <institution-id institution-id-type="GRID">grid.259828.c</institution-id>
+   <institution>Pathology and Laboratory Medicine, </institution>
+   <institution>Medical University of South Carolina, </institution>
+  </institution-wrap>Charleston, SC USA 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2284 9329</institution-id>
+   <institution-id institution-id-type="GRID">grid.410427.4</institution-id>
+   <institution>Institute for Regenerative and Reparative Medicine, </institution>
+   <institution>Augusta University, </institution>
+  </institution-wrap>Augusta, GA USA 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 8950 3536</institution-id>
+   <institution-id institution-id-type="GRID">grid.280644.c</institution-id>
+   <institution>Research Service of the Ralph H Johnson VA Medical Center, </institution>
+  </institution-wrap>Charleston, SC USA 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0419 3970</institution-id>
+   <institution-id institution-id-type="GRID">grid.413830.d</institution-id>
+   <institution>Charlie Norwood VA Medical Center, </institution>
+  </institution-wrap>Augusta, GA USA 
+ </aff>
+ <aff id="Aff10">
+  <label>10</label>Department of Regenerative Medicine and Cellular Biology, Charleston, SC USA 
+ </aff>
+ <aff id="Aff11">
+  <label>11</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2185 3318</institution-id>
+   <institution-id institution-id-type="GRID">grid.241167.7</institution-id>
+   <institution>Present Address: Wake Forest Institute for Regenerative Medicine, </institution>
+   <institution>Wake Forest School of Medicine, </institution>
+  </institution-wrap>Winston-Salem, NC USA 
+ </aff>
+ <aff id="Aff12">
+  <label>12</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2285 7943</institution-id>
+   <institution-id institution-id-type="GRID">grid.261331.4</institution-id>
+   <institution>Division of Anatomy, </institution>
+   <institution>College of Medicine, Ohio State University, </institution>
+  </institution-wrap>Columbus, OH USA 
+ </aff>
+</contrib-group>

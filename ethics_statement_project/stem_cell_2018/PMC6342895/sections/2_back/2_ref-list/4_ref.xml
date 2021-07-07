@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kristinsson</surname>
+    <given-names>SY</given-names>
+   </name>
+   <name>
+    <surname>Landgren</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Dickman</surname>
+    <given-names>PW</given-names>
+   </name>
+   <name>
+    <surname>Derolf</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Björkholm</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>Patterns of survival in multiple myeloma: a population-based study of patients diagnosed in Sweden from 1973 to 2003</article-title>
+  <source>J Clin Oncol</source>
+  <year>2007</year>
+  <volume>25</volume>
+  <issue>15</issue>
+  <fpage>1993</fpage>
+  <lpage>1999</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2006.09.0100</pub-id>
+  <pub-id pub-id-type="pmid">17420512</pub-id>
+ </element-citation>
+</ref>

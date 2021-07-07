@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B21">
+ <label>21</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Aranami</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Miyake</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Yamamura</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Differential expression of CD11c by peripheral blood NK cells reflects temporal activity of multiple sclerosis</article-title>. 
+  <source>J Immunol</source> (
+  <year>2006</year>) 
+  <volume>177</volume>:
+  <fpage>5659</fpage>–
+  <lpage>67</lpage>.
+  <pub-id pub-id-type="doi">10.4049/jimmunol.177.8.5659</pub-id>
+  <?supplied-pmid 17015755?>
+  <pub-id pub-id-type="pmid">17015755</pub-id>
+ </mixed-citation>
+</ref>

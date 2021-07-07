@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group id="award1-0963689718820271">
+  <funding-source id="funding1-0963689718820271">
+   <institution-wrap>
+    <institution>Universidad Nacional Autónoma de México</institution>
+    <institution-id institution-id-type="FundRef">https://doi.org/10.13039/501100005739</institution-id>
+   </institution-wrap>
+  </funding-source>
+  <award-id rid="funding1-0963689718820271">UNAM-DGAPA-PAPIIT IT201115</award-id>
+ </award-group>
+</funding-group>

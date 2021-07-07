@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Santegoets</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Schreurs</surname>
+    <given-names>MW</given-names>
+   </name>
+   <name>
+    <surname>Masterson</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>In vitro priming of tumor-specific cytotoxic T lymphocytes using allogeneic dendritic cells derived from the human MUTZ-3 cell line</article-title>
+  <source>Cancer Immunol Immunother</source>
+  <year>2006</year>
+  <volume>55</volume>
+  <fpage>1480</fpage>
+  <lpage>1490</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00262-006-0142-x</pub-id>
+  <?supplied-pmid 16468034?>
+  <pub-id pub-id-type="pmid">16468034</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="sct312347-cr-0001" contrib-type="author">
+  <name>
+   <surname>Murias</surname>
+   <given-names>Michael</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312347-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="sct312347-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312347-cr-0002" contrib-type="author">
+  <name>
+   <surname>Major</surname>
+   <given-names>Samantha</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312347-aff-0002">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="sct312347-aff-0003">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312347-cr-0003" contrib-type="author">
+  <name>
+   <surname>Compton</surname>
+   <given-names>Scott</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312347-aff-0002">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="sct312347-aff-0003">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312347-cr-0004" contrib-type="author">
+  <name>
+   <surname>Buttinger</surname>
+   <given-names>Jessica</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312347-aff-0002">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="sct312347-aff-0003">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312347-cr-0005" contrib-type="author">
+  <name>
+   <surname>Sun</surname>
+   <given-names>Jessica M.</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8085-1013</contrib-id>
+  <xref ref-type="aff" rid="sct312347-aff-0004">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312347-cr-0006" contrib-type="author">
+  <name>
+   <surname>Kurtzberg</surname>
+   <given-names>Joanne</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312347-aff-0004">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312347-cr-0007" contrib-type="author" corresp="yes">
+  <name>
+   <surname>Dawson</surname>
+   <given-names>Geraldine</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1410-2764</contrib-id>
+  <address>
+   <email>geraldine.dawson@duke.edu</email>
+  </address>
+  <xref ref-type="aff" rid="sct312347-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="sct312347-aff-0002">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="sct312347-aff-0003">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+</contrib-group>

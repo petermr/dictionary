@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Green</surname>
+    <given-names>FL</given-names>
+   </name>
+   <name>
+    <surname>Page</surname>
+    <given-names>DL</given-names>
+   </name>
+   <name>
+    <surname>Fleming</surname>
+    <given-names>ID</given-names>
+   </name>
+   <name>
+    <surname>Fritz</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>Balch</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Haller</surname>
+    <given-names>DG</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <source>American joint committee on cancer cancer staging manual</source>
+  <year>2002</year>
+  <edition>6</edition>
+  <publisher-loc>Philadelphia</publisher-loc>
+  <publisher-name>Lippincott Raven Publishers</publisher-name>
+ </element-citation>
+</ref>

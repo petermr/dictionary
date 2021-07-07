@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <label>27.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Byrd</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Pagel</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Awan</surname>
+    <given-names>FT</given-names>
+   </name>
+   <name>
+    <surname>Forero</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Flinn</surname>
+    <given-names>IW</given-names>
+   </name>
+   <name>
+    <surname>Deauna-Limayo</surname>
+    <given-names>DP</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A phase 1 study evaluating the safety and tolerability of otlertuzumab, an anti-CD37 mono-specific ADAPTIR therapeutic protein in chronic lymphocytic leukemia</article-title>
+  <source>Blood</source>
+  <year>2014</year>
+  <volume>123</volume>
+  <fpage>1302</fpage>
+  <lpage>1308</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2013-07-512137</pub-id>
+  <?supplied-pmid 24381226?>
+  <pub-id pub-id-type="pmid">24381226</pub-id>
+ </element-citation>
+</ref>

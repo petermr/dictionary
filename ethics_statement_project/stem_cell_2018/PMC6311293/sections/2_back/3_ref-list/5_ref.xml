@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B6">
+ <label>6</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brown</surname>
+    <given-names>P. D.</given-names>
+   </name>
+   <name>
+    <surname>Ballman</surname>
+    <given-names>K. V.</given-names>
+   </name>
+   <name>
+    <surname>Cerhan</surname>
+    <given-names>J. H.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Postoperative stereotactic radiosurgery compared with whole brain radiotherapy for resected metastatic brain disease (NCCTG N107C/CEC·3): a multicentre, randomised, controlled, phase 3 trial</article-title>
+  <source>
+   <italic toggle="yes">The Lancet Oncology</italic>
+  </source>
+  <year>2017</year>
+  <volume>18</volume>
+  <issue>8</issue>
+  <fpage>1049</fpage>
+  <lpage>1060</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(17)30441-2</pub-id>
+  <pub-id pub-id-type="pmid">28687377</pub-id>
+ </element-citation>
+</ref>

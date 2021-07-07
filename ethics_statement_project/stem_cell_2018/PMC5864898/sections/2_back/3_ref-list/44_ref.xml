@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B44">
+ <label>44</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Davey</surname>
+    <given-names>MS</given-names>
+   </name>
+   <name>
+    <surname>Willcox</surname>
+    <given-names>CR</given-names>
+   </name>
+   <name>
+    <surname>Joyce</surname>
+    <given-names>SP</given-names>
+   </name>
+   <name>
+    <surname>Ladell</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Kasatskaya</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>McLaren</surname>
+    <given-names>JE</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Clonal selection in the human Vdelta1 T cell repertoire indicates gammadelta TCR-dependent adaptive immune surveillance</article-title>. 
+  <source>Nat Commun</source> (
+  <year>2017</year>) 
+  <volume>8</volume>:
+  <fpage>14760</fpage>
+  <pub-id pub-id-type="doi">10.1038/ncomms14760</pub-id>
+  <pub-id pub-id-type="pmid">28248310</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gleeson</surname>
+   <given-names>Mary</given-names>
+  </name>
+  <degrees>FRCPath</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Peckitt</surname>
+   <given-names>Clare</given-names>
+  </name>
+  <degrees>MSc</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>To</surname>
+   <given-names>Ye Mong</given-names>
+  </name>
+  <degrees>BSc</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Edwards</surname>
+   <given-names>Laurice</given-names>
+  </name>
+  <degrees>BSc</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Oates</surname>
+   <given-names>Jacqueline</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wotherspoon</surname>
+   <given-names>Andrew</given-names>
+  </name>
+  <degrees>FRCPath</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Attygalle</surname>
+   <given-names>Ayoma D</given-names>
+  </name>
+  <degrees>FRCPath</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zerizer</surname>
+   <given-names>Imene</given-names>
+  </name>
+  <degrees>MSc</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sharma</surname>
+   <given-names>Bhupinder</given-names>
+  </name>
+  <degrees>FRCR</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chua</surname>
+   <given-names>Sue</given-names>
+  </name>
+  <degrees>FRCR</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Begum</surname>
+   <given-names>Ruwaida</given-names>
+  </name>
+  <degrees>BSc</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chau</surname>
+   <given-names>Ian</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Johnson</surname>
+   <given-names>Peter</given-names>
+  </name>
+  <degrees>Prof</degrees>
+  <degrees>FRCP</degrees>
+  <xref rid="aff2" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ardeshna</surname>
+   <given-names>Kirit M</given-names>
+  </name>
+  <degrees>FRCPath</degrees>
+  <xref rid="aff3" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hawkes</surname>
+   <given-names>Eliza A</given-names>
+  </name>
+  <degrees>FRACP</degrees>
+  <xref rid="aff4" ref-type="aff">d</xref>
+  <xref rid="aff5" ref-type="aff">e</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Macheta</surname>
+   <given-names>Marian P</given-names>
+  </name>
+  <degrees>FRCPath</degrees>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Collins</surname>
+   <given-names>Graham P</given-names>
+  </name>
+  <degrees>DPhil</degrees>
+  <xref rid="aff7" ref-type="aff">g</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Radford</surname>
+   <given-names>John</given-names>
+  </name>
+  <degrees>Prof</degrees>
+  <degrees>MD</degrees>
+  <xref rid="aff8" ref-type="aff">h</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Forbes</surname>
+   <given-names>Adam</given-names>
+  </name>
+  <degrees>FRCPath</degrees>
+  <xref rid="aff9" ref-type="aff">i</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hart</surname>
+   <given-names>Alistair</given-names>
+  </name>
+  <degrees>FRCPath</degrees>
+  <xref rid="aff10" ref-type="aff">j</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Montoto</surname>
+   <given-names>Silvia</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff11" ref-type="aff">k</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>McKay</surname>
+   <given-names>Pamela</given-names>
+  </name>
+  <degrees>FRCPath</degrees>
+  <xref rid="aff12" ref-type="aff">l</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Benstead</surname>
+   <given-names>Kim</given-names>
+  </name>
+  <degrees>FRCR</degrees>
+  <xref rid="aff13" ref-type="aff">m</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Morley</surname>
+   <given-names>Nicholas</given-names>
+  </name>
+  <degrees>FRCPath</degrees>
+  <xref rid="aff14" ref-type="aff">n</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kalakonda</surname>
+   <given-names>Nagesh</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff15" ref-type="aff">o</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hasan</surname>
+   <given-names>Yasmin</given-names>
+  </name>
+  <degrees>FRCPath</degrees>
+  <xref rid="aff16" ref-type="aff">p</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Turner</surname>
+   <given-names>Deborah</given-names>
+  </name>
+  <degrees>FRCPath</degrees>
+  <xref rid="aff17" ref-type="aff">q</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cunningham</surname>
+   <given-names>David</given-names>
+  </name>
+  <degrees>FMedSci</degrees>
+  <email>david.cunningham@rmh.nhs.uk</email>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="cor1" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

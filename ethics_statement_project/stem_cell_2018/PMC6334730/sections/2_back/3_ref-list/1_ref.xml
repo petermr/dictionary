@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Anderson</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Armitage</surname>
+    <given-names>JO</given-names>
+   </name>
+   <name>
+    <surname>Weisenburger</surname>
+    <given-names>DD</given-names>
+   </name>
+   <collab>for the Non-Hodgkin’s Lymphoma Classification Project</collab>
+  </person-group>
+  <article-title>Epidemiology of the non-Hodgkin’s lymphomas: distributions of the major subtypes differ by geographic locations</article-title>
+  <source>Ann Oncol</source>
+  <year>1998</year>
+  <volume>9</volume>
+  <fpage>717</fpage>
+  <lpage>720</lpage>
+  <pub-id pub-id-type="doi">10.1023/A:1008265532487</pub-id>
+  <pub-id pub-id-type="pmid">9739436</pub-id>
+ </element-citation>
+</ref>

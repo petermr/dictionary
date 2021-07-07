@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lemoli</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Catani</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Talarico</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Loggi</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Gramenzi</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Baccarani</surname>
+    <given-names>U</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mobilization of bone marrow-derived hematopoietic and endothelial stem cells after orthotopic liver transplantation and liver resection</article-title>
+  <source>Stem Cells.</source>
+  <year>2006</year>
+  <volume>24</volume>
+  <fpage>2817</fpage>
+  <lpage>2825</lpage>
+  <pub-id pub-id-type="doi">10.1634/stemcells.2006-0333</pub-id>
+  <?supplied-pmid 16931769?>
+  <pub-id pub-id-type="pmid">16931769</pub-id>
+ </element-citation>
+</ref>

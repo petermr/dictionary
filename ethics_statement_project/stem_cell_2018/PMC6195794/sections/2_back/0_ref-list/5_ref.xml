@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib5">
+ <label>5</label>
+ <element-citation publication-type="journal" id="sref5">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sparrow</surname>
+    <given-names>J.R.</given-names>
+   </name>
+   <name>
+    <surname>Hicks</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Hamel</surname>
+    <given-names>C.P.</given-names>
+   </name>
+  </person-group>
+  <article-title>The retinal pigment epithelium in health and disease</article-title>
+  <source>Curr Mol Med</source>
+  <volume>10</volume>
+  <year>2010</year>
+  <fpage>802</fpage>
+  <lpage>823</lpage>
+  <pub-id pub-id-type="pmid">21091424</pub-id>
+ </element-citation>
+</ref>

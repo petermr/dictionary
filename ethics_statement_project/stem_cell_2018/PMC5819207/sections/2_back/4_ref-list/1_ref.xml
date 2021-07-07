@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Topp</surname>
+    <given-names>MS</given-names>
+   </name>
+   <name>
+    <surname>Gokbuget</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Stein</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Zugmaier</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>O'Brien</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Bargou</surname>
+    <given-names>RC</given-names>
+   </name>
+   <name>
+    <surname>Dombret</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Fielding</surname>
+    <given-names>AK</given-names>
+   </name>
+   <name>
+    <surname>Heffner</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Larson</surname>
+    <given-names>RA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Safety and activity of blinatumomab for adult patients with relapsed or refractory B-precursor acute lymphoblastic leukaemia: a multicentre, single-arm, phase 2 study</article-title>
+  <source>Lancet Oncol</source>
+  <year>2015</year>
+  <volume>16</volume>
+  <issue>1</issue>
+  <fpage>57</fpage>
+  <lpage>66</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(14)71170-2</pub-id>
+  <?supplied-pmid 25524800?>
+  <pub-id pub-id-type="pmid">25524800</pub-id>
+ </element-citation>
+</ref>

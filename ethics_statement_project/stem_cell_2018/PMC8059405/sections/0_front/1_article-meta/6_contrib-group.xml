@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>de Lima</surname>
+   <given-names>Marcos</given-names>
+  </name>
+  <xref ref-type="aff" rid="A1">1</xref>
+  <xref rid="CR1" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Oran</surname>
+   <given-names>Betul</given-names>
+  </name>
+  <xref ref-type="aff" rid="A2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Champlin</surname>
+   <given-names>Richard E.</given-names>
+  </name>
+  <xref ref-type="aff" rid="A2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Papadopoulos</surname>
+   <given-names>Esperanza B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="A3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Giralt</surname>
+   <given-names>Sergio A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="A3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Scott</surname>
+   <given-names>Bart L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="A4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>William</surname>
+   <given-names>Basem M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="A5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hetzer</surname>
+   <given-names>Joel</given-names>
+  </name>
+  <xref ref-type="aff" rid="A6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Laille</surname>
+   <given-names>Eric</given-names>
+  </name>
+  <xref ref-type="aff" rid="A6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hubbell</surname>
+   <given-names>Becky</given-names>
+  </name>
+  <xref ref-type="aff" rid="A6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Skikne</surname>
+   <given-names>Barry S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="A6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Craddock</surname>
+   <given-names>Charles</given-names>
+  </name>
+  <xref ref-type="aff" rid="A7">7</xref>
+ </contrib>
+</contrib-group>

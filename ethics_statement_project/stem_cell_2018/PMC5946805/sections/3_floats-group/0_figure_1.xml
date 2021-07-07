@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1">
+ <label>Figure 1</label>
+ <caption>
+  <p>Trial profile</p>
+  <p>Toxicity reasons for early study withdrawal were neutropenic sepsis (n=1) in CHOP; and tinnitus (n=2), hearing loss (n=1), peripheral neuropathy (n=1), and thrombocytopenia and anaemia (n=1) in GEM-P. Two deaths occurred in the GEM-P group, both due to lung infections. One patient chose to discontinue GEM-P and commence CHOP off-study at the time of study closure. GEM-P=gemcitabine, cisplatin, and methylprednisolone. CHOP=cyclophosphamide, doxorubicin, vincristine, and prednisolone. ITT=intention-to-treat. *Includes three patients with clinical progression.</p>
+ </caption>
+ <graphic xlink:href="gr1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

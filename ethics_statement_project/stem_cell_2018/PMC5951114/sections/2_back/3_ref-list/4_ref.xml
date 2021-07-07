@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Deniz</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Erten</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Kucuksezer</surname>
+    <given-names>UC</given-names>
+   </name>
+   <name>
+    <surname>Kocacik</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Karagiannidis</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Aktas</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Regulatory NK cells suppress antigen-specific T cell responses</article-title>. 
+  <source>J Immunol</source> (
+  <year>2008</year>) 
+  <volume>180</volume>:
+  <fpage>850</fpage>–
+  <lpage>7</lpage>.
+  <pub-id pub-id-type="doi">10.4049/jimmunol.180.2.850</pub-id>
+  <?supplied-pmid 18178824?>
+  <pub-id pub-id-type="pmid">18178824</pub-id>
+ </mixed-citation>
+</ref>

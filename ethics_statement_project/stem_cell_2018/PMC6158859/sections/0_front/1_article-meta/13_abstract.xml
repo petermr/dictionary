@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">Improved risk stratification, more effective therapy and better supportive care have resulted in survival rates after childhood cancer of around 80% in developed countries. Treatment however can be harsh, and three in every four childhood cancer survivors (CCS) develop at least one late effect, such as gonadal impairment. Gonadal impairment can cause involuntary childlessness, with serious consequences for the well-being of CCS. In addition, early menopause increases the risk of comorbidities such as cardiovascular disease and osteoporosis. Inter-individual variability in susceptibility to therapy related gonadal impairment suggests a role for genetic variation.</p>
+  <p id="Par2">Currently, only one candidate gene study investigated genetic determinants in relation to gonadal impairment in female CCS; it yielded one single nucleotide polymorphism (SNP) that was previously linked with the predicted age at menopause in the general population of women, now associated with gonadal impairment in CCS. Additionally, one genome wide association study (GWAS) evaluated an association with premature menopause, but no GWAS has been performed using endocrine measurements for gonadal impairment  as the primary outcome in CCS.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par3">As part of the PanCareLIFE study, the genetic variability of chemotherapy induced gonadal impairment among CCS will be addressed. Gonadal impairment will be determined by anti-Müllerian hormone (AMH) levels or alternatively by fertility and reproductive medical history retrieved by questionnaire. Clinical and genetic data from 837 non-brain or non-bilateral gonadal irradiated long-term CCS will result in the largest clinical European cohort assembled for this late-effect study to date. A candidate gene study will examine SNPs that have already been associated with age at natural menopause and DNA maintenance in the general population. In addition, a GWAS will be performed to identify 
+   <italic>novel</italic> allelic variants. The results will be validated in an independent CCS cohort.
+  </p>
+ </sec>
+ <sec>
+  <title>Discussion</title>
+  <p id="Par4">This international collaboration aims to enhance knowledge of genetic variation which may be included in risk prediction models for gonadal impairment in CCS.</p>
+ </sec>
+</abstract>

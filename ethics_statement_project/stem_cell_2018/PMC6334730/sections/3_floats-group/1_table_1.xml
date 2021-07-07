@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Demographics and baseline characteristics</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Characteristic</th>
+    <th>Phase 1 (
+     <italic>n</italic> = 4)
+    </th>
+    <th>Phase 2 (
+     <italic>n</italic> = 44)
+    </th>
+    <th>Total (
+     <italic>n</italic> = 48)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Age, years, median (range)</td>
+    <td>72.5 (42–76)</td>
+    <td>69.0 (32–79)</td>
+    <td>69.5 (32–79)</td>
+   </tr>
+   <tr>
+    <td colspan="4">Sex, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td> Male</td>
+    <td>1 (25)</td>
+    <td>30 (68)</td>
+    <td>31 (65)</td>
+   </tr>
+   <tr>
+    <td> Female</td>
+    <td>3 (75)</td>
+    <td>14 (32)</td>
+    <td>17 (35)</td>
+   </tr>
+   <tr>
+    <td colspan="4">ECOG PS, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td> 0</td>
+    <td>2 (50)</td>
+    <td>27 (61)</td>
+    <td>29 (60)</td>
+   </tr>
+   <tr>
+    <td> 1</td>
+    <td>2 (50)</td>
+    <td>17 (39)</td>
+    <td>19 (40)</td>
+   </tr>
+   <tr>
+    <td colspan="4">Disease classification, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td> Peripheral T cell lymphoma, NOS</td>
+    <td>1 (25)</td>
+    <td>21 (48)</td>
+    <td>22 (46)</td>
+   </tr>
+   <tr>
+    <td> Angioimmunoblastic T cell lymphoma</td>
+    <td>2 (50)</td>
+    <td>17 (39)</td>
+    <td>19 (40)</td>
+   </tr>
+   <tr>
+    <td colspan="4"> Anaplastic large cell lymphoma</td>
+   </tr>
+   <tr>
+    <td>  ALK-positive</td>
+    <td>1 (25)</td>
+    <td>0 (0)</td>
+    <td>1 (2)</td>
+   </tr>
+   <tr>
+    <td>  ALK-negative</td>
+    <td>0 (0)</td>
+    <td>2 (5)</td>
+    <td>2 (4)</td>
+   </tr>
+   <tr>
+    <td> Extranodal T cell/NK cell lymphoma, nasal type</td>
+    <td>0 (0)</td>
+    <td>1 (2)</td>
+    <td>1 (2)</td>
+   </tr>
+   <tr>
+    <td> Transformed mycosis fungoides</td>
+    <td>0 (0)</td>
+    <td>1 (2)</td>
+    <td>1 (2)</td>
+   </tr>
+   <tr>
+    <td> Other
+     <sup>a</sup>
+    </td>
+    <td>0 (0)</td>
+    <td>2 (5)</td>
+    <td>2 (4)</td>
+   </tr>
+   <tr>
+    <td colspan="4">Ann Arbor classification,
+     <sup>b</sup>
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td> Stage I</td>
+    <td>0 (0)</td>
+    <td>1 (2)</td>
+    <td>1 (2)</td>
+   </tr>
+   <tr>
+    <td> Stage II</td>
+    <td>3 (75)</td>
+    <td>9 (20)</td>
+    <td>12 (25)</td>
+   </tr>
+   <tr>
+    <td> Stage III</td>
+    <td>0 (0)</td>
+    <td>20 (45)</td>
+    <td>20 (42)</td>
+   </tr>
+   <tr>
+    <td> Stage IV</td>
+    <td>1 (25)</td>
+    <td>13 (30)</td>
+    <td>14 (29)</td>
+   </tr>
+   <tr>
+    <td colspan="4">LDH (baseline)</td>
+   </tr>
+   <tr>
+    <td> Low/normal</td>
+    <td>2(50.0)</td>
+    <td>24 (55)</td>
+    <td>26 (54)</td>
+   </tr>
+   <tr>
+    <td> High</td>
+    <td>2(50.0)</td>
+    <td>20 (45)</td>
+    <td>22(46)</td>
+   </tr>
+   <tr>
+    <td colspan="4">Prior treatment regimens</td>
+   </tr>
+   <tr>
+    <td> Median (range)</td>
+    <td>2 (1–9)</td>
+    <td>2 (1–6)</td>
+    <td>2 (1–9)</td>
+   </tr>
+   <tr>
+    <td> Chemotherapy, 
+     <italic>n</italic> (%)
+    </td>
+    <td>4 (100)</td>
+    <td>44 (100)</td>
+    <td>48 (100)</td>
+   </tr>
+   <tr>
+    <td> ASCT, 
+     <italic>n</italic> (%)
+    </td>
+    <td>0 (0)</td>
+    <td>3 (7)</td>
+    <td>3 (6)</td>
+   </tr>
+   <tr>
+    <td> Radiation therapy, 
+     <italic>n</italic> (%)
+    </td>
+    <td>1 (25)</td>
+    <td>5 (11)</td>
+    <td>6 (13)</td>
+   </tr>
+   <tr>
+    <td> Monoclonal antibody, 
+     <italic>n</italic> (%)
+    </td>
+    <td>1 (25)</td>
+    <td>3 (7)</td>
+    <td>4 (8)</td>
+   </tr>
+   <tr>
+    <td> Corticosteroid, 
+     <italic>n</italic> (%)
+    </td>
+    <td>1 (25)</td>
+    <td>2 (5)</td>
+    <td>3 (6)</td>
+   </tr>
+   <tr>
+    <td colspan="4">Response to most recent treatment regimen, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td> CR/CRu</td>
+    <td>3 (75)</td>
+    <td>20 (45)</td>
+    <td>23 (48)</td>
+   </tr>
+   <tr>
+    <td> PR</td>
+    <td>1 (25)</td>
+    <td>24 (55)</td>
+    <td>25 (52)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>ALK</italic> anaplastic lymphoma kinase, 
+   <italic>ASCT</italic> autologous hematopoietic stem cell transplant, 
+   <italic>CR</italic> complete response, 
+   <italic>CRu</italic> unconfirmed complete response, 
+   <italic>ECOG PS</italic> Eastern Cooperative Oncology Group performance status, 
+   <italic>LDH</italic> lactate dehydrogenase, 
+   <italic>NK cell</italic> natural killer cell, 
+   <italic>NOS</italic> not otherwise specified, 
+   <italic>PR</italic> partial response, 
+   <italic>SD</italic> standard deviation
+  </p>
+  <p>
+   <sup>a</sup>Includes two cases judged to be plasmablastic lymphoma and follicular dendritic cell sarcoma, respectively, on the independent central pathology review
+  </p>
+  <p>
+   <sup>b</sup>Classification for PTCLs other than transformed mycosis fungiodes. The case of transformed mycosis fungiodes was stage IV by the ISCL-EORTC classification
+  </p>
+ </table-wrap-foot>
+</table-wrap>

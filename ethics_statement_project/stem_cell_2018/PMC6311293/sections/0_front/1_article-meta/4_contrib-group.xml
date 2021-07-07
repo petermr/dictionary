@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-7288-8975</contrib-id>
+  <name>
+   <surname>Kazda</surname>
+   <given-names>Tomas</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Misove</surname>
+   <given-names>Adela</given-names>
+  </name>
+  <xref ref-type="aff" rid="I4">
+   <sup>4</sup>
+  </xref>
+  <xref ref-type="aff" rid="I5">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Burkon</surname>
+   <given-names>Petr</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pospisil</surname>
+   <given-names>Petr</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hynkova</surname>
+   <given-names>Ludmila</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Selingerova</surname>
+   <given-names>Iveta</given-names>
+  </name>
+  <xref ref-type="aff" rid="I6">
+   <sup>6</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dziacky</surname>
+   <given-names>Adam</given-names>
+  </name>
+  <xref ref-type="aff" rid="I4">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Belanova</surname>
+   <given-names>Renata</given-names>
+  </name>
+  <xref ref-type="aff" rid="I7">
+   <sup>7</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bulik</surname>
+   <given-names>Martin</given-names>
+  </name>
+  <xref ref-type="aff" rid="I8">
+   <sup>8</sup>
+  </xref>
+  <xref ref-type="aff" rid="I9">
+   <sup>9</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rehak</surname>
+   <given-names>Zdenek</given-names>
+  </name>
+  <xref ref-type="aff" rid="I6">
+   <sup>6</sup>
+  </xref>
+  <xref ref-type="aff" rid="I10">
+   <sup>10</sup>
+  </xref>
+  <xref ref-type="aff" rid="I11">
+   <sup>11</sup>
+  </xref>
+  <xref ref-type="aff" rid="I12">
+   <sup>12</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-4698-9195</contrib-id>
+  <name>
+   <surname>Poprach</surname>
+   <given-names>Alexandr</given-names>
+  </name>
+  <xref ref-type="aff" rid="I10">
+   <sup>10</sup>
+  </xref>
+  <xref ref-type="aff" rid="I11">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Slama</surname>
+   <given-names>Ondrej</given-names>
+  </name>
+  <xref ref-type="aff" rid="I10">
+   <sup>10</sup>
+  </xref>
+  <xref ref-type="aff" rid="I11">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Slampa</surname>
+   <given-names>Pavel</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="I6">
+   <sup>6</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Slaby</surname>
+   <given-names>Ondrej</given-names>
+  </name>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+  <xref ref-type="aff" rid="I10">
+   <sup>10</sup>
+  </xref>
+  <xref ref-type="aff" rid="I11">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-6834-6567</contrib-id>
+  <name>
+   <surname>Jancalek</surname>
+   <given-names>Radim</given-names>
+  </name>
+  <xref ref-type="aff" rid="I13">
+   <sup>13</sup>
+  </xref>
+  <xref ref-type="aff" rid="I14">
+   <sup>14</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-4961-0339</contrib-id>
+  <name>
+   <surname>Lakomy</surname>
+   <given-names>Radek</given-names>
+  </name>
+  <email>lakomy@mou.cz</email>
+  <xref ref-type="aff" rid="I10">
+   <sup>10</sup>
+  </xref>
+  <xref ref-type="aff" rid="I11">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+</contrib-group>

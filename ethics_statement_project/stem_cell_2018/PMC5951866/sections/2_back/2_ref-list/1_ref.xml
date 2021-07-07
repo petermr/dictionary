@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Volpetti</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Zaja</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Fanin</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>Pixantrone for the treatment of adult patients with relapsed or refractory aggressive non-Hodgkin B-cell lymphomas</article-title>
+  <source>Onco Targets Ther</source>
+  <year>2014</year>
+  <volume>7</volume>
+  <fpage>865</fpage>
+  <lpage>872</lpage>
+  <pub-id pub-id-type="doi">10.2147/OTT.S34055</pub-id>
+  <?supplied-pmid 24926199?>
+  <pub-id pub-id-type="pmid">24926199</pub-id>
+ </element-citation>
+</ref>

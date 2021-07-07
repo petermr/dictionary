@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Laverdiere</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Long-term outcomes in survivors of neuroblastoma: a report from the Childhood Cancer Survivor Study</article-title>
+  <source>J Natl Cancer Inst</source>
+  <year>2009</year>
+  <volume>101</volume>
+  <fpage>1131</fpage>
+  <lpage>1140</lpage>
+  <pub-id pub-id-type="doi">10.1093/jnci/djp230</pub-id>
+  <?supplied-pmid 19648511?>
+  <pub-id pub-id-type="pmid">19648511</pub-id>
+ </element-citation>
+</ref>

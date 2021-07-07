@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Kuruvilla</surname>
+   <given-names>John</given-names>
+  </name>
+  <address>
+   <phone>+1 416 946 2821</phone>
+   <email>john.kuruvilla@uhn.on.ca</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tzeng</surname>
+   <given-names>Cheng-Hwai</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5429-4839</contrib-id>
+  <name>
+   <surname>Cho</surname>
+   <given-names>Seok-Goo</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Seok Jin</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tang</surname>
+   <given-names>Jih-Luh</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Su</surname>
+   <given-names>Yaming</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Jingyang</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vargo</surname>
+   <given-names>Rita</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cheverton</surname>
+   <given-names>Peter</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2150 066X</institution-id>
+   <institution-id institution-id-type="GRID">grid.415224.4</institution-id>
+   <institution>Princess Margaret Cancer Centre, </institution>
+  </institution-wrap>Toronto, Canada 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0604 5314</institution-id>
+   <institution-id institution-id-type="GRID">grid.278247.c</institution-id>
+   <institution>Taipei Veterans General Hospital, </institution>
+  </institution-wrap>Taipei, Taiwan 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0647 5752</institution-id>
+   <institution-id institution-id-type="GRID">grid.414966.8</institution-id>
+   <institution>Catholic Medical Centre St Mary’s Hospital, </institution>
+  </institution-wrap>Seoul, Korea 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>Samsung Medical Centre, Seoul, Korea 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0572 7815</institution-id>
+   <institution-id institution-id-type="GRID">grid.412094.a</institution-id>
+   <institution>National Taiwan University Hospital, </institution>
+  </institution-wrap>Taipei, Taiwan 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>Sanofi Oncology, Cambridge, MA USA 
+ </aff>
+</contrib-group>

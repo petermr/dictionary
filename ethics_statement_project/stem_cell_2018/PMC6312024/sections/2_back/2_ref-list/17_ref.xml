@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b17-1040189">
+ <label>17.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Diggins</surname>
+    <given-names>KE</given-names>
+   </name>
+   <name>
+    <surname>Ferrell</surname>
+    <given-names>PB</given-names>
+    <suffix>Jr</suffix>
+   </name>
+   <name>
+    <surname>Irish</surname>
+    <given-names>JM</given-names>
+   </name>
+  </person-group>
+  <article-title>Methods for discovery and characterization of cell subsets in high dimensional mass cytometry data</article-title>. 
+  <source>Methods</source>. 
+  <year>2015</year>;
+  <volume>82</volume>:
+  <fpage>55</fpage>–
+  <lpage>63</lpage>.
+  <pub-id pub-id-type="pmid">25979346</pub-id>
+ </mixed-citation>
+</ref>

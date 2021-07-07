@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>de Jonge</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>van den Berg</surname>
+    <given-names>C</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>de Vos</surname>
+    <given-names>RJ</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Incidence of midportion Achilles tendinopathy in the general population</article-title>. 
+  <source>Br J Sports Med</source>
+  <year>2011</year>;
+  <volume>45</volume>:
+  <fpage>1026</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1136/bjsports-2011-090342</pub-id>
+  <pub-id pub-id-type="pmid">21926076</pub-id>
+ </mixed-citation>
+</ref>

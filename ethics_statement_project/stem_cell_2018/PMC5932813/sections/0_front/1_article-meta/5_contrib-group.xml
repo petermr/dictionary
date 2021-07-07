@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3095-4422</contrib-id>
+  <name>
+   <surname>Gudiol</surname>
+   <given-names>C.</given-names>
+  </name>
+  <address>
+   <phone>+34 93 2607625</phone>
+   <email>carlotagudiol@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nicolae</surname>
+   <given-names>S.</given-names>
+  </name>
+  <address>
+   <email>sermednicolae@hotmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Royo-Cebrecos</surname>
+   <given-names>C.</given-names>
+  </name>
+  <address>
+   <email>lacrisroyo@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Aguilar-Guisado</surname>
+   <given-names>M.</given-names>
+  </name>
+  <address>
+   <email>maguilarguisado@yahoo.es</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Montero</surname>
+   <given-names>I.</given-names>
+  </name>
+  <address>
+   <email>icas3760@hotmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Martín-Gandul</surname>
+   <given-names>C.</given-names>
+  </name>
+  <address>
+   <email>cecilia3778@hotmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Perayre</surname>
+   <given-names>M.</given-names>
+  </name>
+  <address>
+   <email>mperayre@iconcologia.net</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Berbel</surname>
+   <given-names>D.</given-names>
+  </name>
+  <address>
+   <email>dberbelp@bellvitgehospital.cat</email>
+  </address>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Encuentra</surname>
+   <given-names>M.</given-names>
+  </name>
+  <address>
+   <email>mencuentra@iconcologia.net</email>
+  </address>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Arnan</surname>
+   <given-names>M.</given-names>
+  </name>
+  <address>
+   <email>marnan@iconcologia.net</email>
+  </address>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cisneros-Herreros</surname>
+   <given-names>J. M.</given-names>
+  </name>
+  <address>
+   <email>jmcisnerosh@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Carratalà</surname>
+   <given-names>J.</given-names>
+  </name>
+  <address>
+   <email>jcarratala@bellvitgehospital.cat</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>Infectious Diseases Department, Bellvitge University Hospital, IDIBELL, Feixa Llarga SN, 08907 L’Hospitalet de Llobregat, Barcelona Spain 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9542 1158</institution-id>
+   <institution-id institution-id-type="GRID">grid.411109.c</institution-id>
+   <institution>Department of Infectious Diseases, Microbiology, and Preventive Medicine, </institution>
+   <institution>University Hospital Virgen del Rocío-Institute of Biomedicine of Seville, </institution>
+  </institution-wrap>Seville, Spain 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9542 1158</institution-id>
+   <institution-id institution-id-type="GRID">grid.411109.c</institution-id>
+   <institution>Department of Haematology, </institution>
+   <institution>University Hospital Virgen del Rocío-Institute of Biomedicine of Seville, </institution>
+  </institution-wrap>Seville, Spain 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>Pharmacy Department, Clinical Trial Unit, Institut Català d’Oncologia, IDIBELL, L’Hospitalet de Llobregat, Barcelona Spain 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>Microbiology Department, Bellvitge University Hospital, IDIBELL, L’Hospitalet de Llobregat, Barcelona Spain 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>Biostatistics. Clinical Research Unit, Institut Català d’Oncologia, IDIBELL, L’Hospitalet de Llobregat, Barcelona Spain 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>Haematology Department, Institut Català d’Oncologia, IDIBELL, L’Hospitalet de Llobregat, Barcelona Spain 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1937 0247</institution-id>
+   <institution-id institution-id-type="GRID">grid.5841.8</institution-id>
+   <institution>University of Barcelona, </institution>
+  </institution-wrap>Barcelona, Spain 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9314 1427</institution-id>
+   <institution-id institution-id-type="GRID">grid.413448.e</institution-id>
+   <institution>REIPI (Spanish Network for Research in Infectious Disease), </institution>
+   <institution>Instituto de Salud Carlos III, </institution>
+  </institution-wrap>Madrid, Spain 
+ </aff>
+</contrib-group>

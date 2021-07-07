@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mehat</surname>
+   <given-names>Manjit S.</given-names>
+  </name>
+  <degrees>PhD, FRCOphth</degrees>
+  <xref rid="aff1" ref-type="aff">1</xref>
+  <xref rid="aff2" ref-type="aff">2</xref>
+  <xref rid="aff3" ref-type="aff">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sundaram</surname>
+   <given-names>Venki</given-names>
+  </name>
+  <degrees>MD, FRCOphth</degrees>
+  <xref rid="aff1" ref-type="aff">1</xref>
+  <xref rid="aff2" ref-type="aff">2</xref>
+  <xref rid="aff3" ref-type="aff">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ripamonti</surname>
+   <given-names>Caterina</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff4" ref-type="aff">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Robson</surname>
+   <given-names>Anthony G.</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff1" ref-type="aff">1</xref>
+  <xref rid="aff2" ref-type="aff">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Smith</surname>
+   <given-names>Alexander J.</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff1" ref-type="aff">1</xref>
+  <xref rid="aff3" ref-type="aff">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Borooah</surname>
+   <given-names>Shyamanga</given-names>
+  </name>
+  <degrees>PhD, FRCOphth</degrees>
+  <xref rid="aff5" ref-type="aff">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Robinson</surname>
+   <given-names>Martha</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff3" ref-type="aff">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rosenthal</surname>
+   <given-names>Adam N.</given-names>
+  </name>
+  <degrees>PhD, FRCOG</degrees>
+  <xref rid="aff6" ref-type="aff">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Innes</surname>
+   <given-names>William</given-names>
+  </name>
+  <degrees>MRCP</degrees>
+  <xref rid="aff7" ref-type="aff">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Weleber</surname>
+   <given-names>Richard G.</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff8" ref-type="aff">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lee</surname>
+   <given-names>Richard W.J.</given-names>
+  </name>
+  <degrees>PhD, FRCOphth</degrees>
+  <xref rid="aff1" ref-type="aff">1</xref>
+  <xref rid="aff2" ref-type="aff">2</xref>
+  <xref rid="aff3" ref-type="aff">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Crossland</surname>
+   <given-names>Michael</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff1" ref-type="aff">1</xref>
+  <xref rid="aff2" ref-type="aff">2</xref>
+  <xref rid="aff3" ref-type="aff">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rubin</surname>
+   <given-names>Gary S.</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff1" ref-type="aff">1</xref>
+  <xref rid="aff2" ref-type="aff">2</xref>
+  <xref rid="aff3" ref-type="aff">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dhillon</surname>
+   <given-names>Baljean</given-names>
+  </name>
+  <degrees>FRCS</degrees>
+  <xref rid="aff5" ref-type="aff">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Steel</surname>
+   <given-names>David H.W.</given-names>
+  </name>
+  <degrees>FRCOphth</degrees>
+  <xref rid="aff7" ref-type="aff">7</xref>
+  <xref rid="aff9" ref-type="aff">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Anglade</surname>
+   <given-names>Eddy</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff10" ref-type="aff">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lanza</surname>
+   <given-names>Robert P.</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff10" ref-type="aff">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ali</surname>
+   <given-names>Robin R.</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff1" ref-type="aff">1</xref>
+  <xref rid="aff3" ref-type="aff">3</xref>
+  <xref rid="aff11" ref-type="aff">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Michaelides</surname>
+   <given-names>Michel</given-names>
+  </name>
+  <degrees>MD, FRCOphth</degrees>
+  <xref rid="aff1" ref-type="aff">1</xref>
+  <xref rid="aff2" ref-type="aff">2</xref>
+  <xref rid="aff3" ref-type="aff">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bainbridge</surname>
+   <given-names>James W.B.</given-names>
+  </name>
+  <degrees>PhD, FRCOphth</degrees>
+  <email>j.bainbridge@ucl.ac.uk</email>
+  <xref rid="aff1" ref-type="aff">1</xref>
+  <xref rid="aff2" ref-type="aff">2</xref>
+  <xref rid="aff3" ref-type="aff">3</xref>
+  <xref rid="cor1" ref-type="corresp">∗</xref>
+ </contrib>
+</contrib-group>

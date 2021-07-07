@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ding</surname>
+    <given-names>LJ</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>XA</given-names>
+   </name>
+   <name>
+    <surname>Sun</surname>
+    <given-names>HX</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Transplantation of bone marrow mesenchymal stem cells on collagen scaffolds for the functional regeneration of injured rat uterus</article-title>
+  <source>Biomaterials</source>
+  <year>2014</year>
+  <volume>35</volume>
+  <issue>18</issue>
+  <fpage>4888</fpage>
+  <lpage>4900</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.biomaterials.2014.02.046</pub-id>
+  <?supplied-pmid 24680661?>
+  <pub-id pub-id-type="pmid">24680661</pub-id>
+ </element-citation>
+</ref>

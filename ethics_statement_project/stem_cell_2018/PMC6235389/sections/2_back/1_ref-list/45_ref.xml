@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ma</surname>
+    <given-names>BB</given-names>
+   </name>
+   <name>
+    <surname>Kam</surname>
+    <given-names>MK</given-names>
+   </name>
+   <name>
+    <surname>Leung</surname>
+    <given-names>SF</given-names>
+   </name>
+   <name>
+    <surname>Hui</surname>
+    <given-names>EP</given-names>
+   </name>
+   <name>
+    <surname>King</surname>
+    <given-names>AD</given-names>
+   </name>
+   <name>
+    <surname>Chan</surname>
+    <given-names>SL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A phase II study of concurrent cetuximab-cisplatin and intensity-modulated radiotherapy in locoregionally advanced nasopharyngeal carcinoma</article-title>
+  <source>Ann Oncol</source>
+  <year>2012</year>
+  <volume>23</volume>
+  <issue>5</issue>
+  <fpage>1287</fpage>
+  <lpage>1292</lpage>
+  <pub-id pub-id-type="doi">10.1093/annonc/mdr401</pub-id>
+  <pub-id pub-id-type="pmid">21948811</pub-id>
+ </element-citation>
+</ref>

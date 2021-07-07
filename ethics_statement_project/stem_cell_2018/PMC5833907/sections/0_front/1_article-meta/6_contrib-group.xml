@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Leclerc</surname>
+   <given-names>Vincent</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Ducher</surname>
+   <given-names>Michel</given-names>
+  </name>
+  <address>
+   <phone>+33 4 72 16 71 44</phone>
+   <email>michel.ducher@chu-lyon.fr</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bleyzac</surname>
+   <given-names>Nathalie</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2150 7757</institution-id>
+   <institution-id institution-id-type="GRID">grid.7849.2</institution-id>
+   <institution>EMR 3738, Ciblage, Thérapeutique en Oncologie, Faculté de Médecine et de Maïeutique Lyon-Sud Charles Mérieux, Université Claude Bernard Lyon 1, </institution>
+  </institution-wrap>165 chemin du Grand Revoyet-BP 12, 69921 Oullins Cedex, France 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2163 3825</institution-id>
+   <institution-id institution-id-type="GRID">grid.413852.9</institution-id>
+   <institution>Hospices Civils de Lyon, Groupement Hospitalier Nord, Hôpital Pierre Garraud, Service pharmaceutique, </institution>
+  </institution-wrap>136 rue du Commandant Charcot, 69005 Lyon, France 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>Institute of Pediatric Hematology and Oncology, Place Professeur Joseph Renaut, 69008 Lyon, France 
+ </aff>
+</contrib-group>

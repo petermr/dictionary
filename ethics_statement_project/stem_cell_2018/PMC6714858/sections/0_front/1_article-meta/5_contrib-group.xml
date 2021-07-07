@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Berber</surname>
+   <given-names>Uğur</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1-1076029618792302">1</xref>
+  <xref ref-type="corresp" rid="corresp1-1076029618792302"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Özdemir</surname>
+   <given-names>Mehmet Akif</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff2-1076029618792302">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Unal</surname>
+   <given-names>Ekrem</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff2-1076029618792302">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Taheri</surname>
+   <given-names>Serpil</given-names>
+  </name>
+  <degrees>MSc, PhD</degrees>
+  <xref ref-type="aff" rid="aff3-1076029618792302">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yildiz</surname>
+   <given-names>Serkan</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff4-1076029618792302">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bayramov</surname>
+   <given-names>Keziban Korkmaz</given-names>
+  </name>
+  <degrees>MSc, PhD</degrees>
+  <xref ref-type="aff" rid="aff3-1076029618792302">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Güler</surname>
+   <given-names>Yunus</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1-1076029618792302">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Per</surname>
+   <given-names>Hüseyin</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff5-1076029618792302">5</xref>
+ </contrib>
+</contrib-group>

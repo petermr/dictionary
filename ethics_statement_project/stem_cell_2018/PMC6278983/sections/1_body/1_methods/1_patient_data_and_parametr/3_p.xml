@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For each patient, parameters 
+ <italic>A, B, α</italic> and 
+ <italic>β</italic> are determined using maximum likelihood estimation. For the model analysis, we selected patients with (i) sufficient time points for model fitting (&gt;4) which (ii) do not show a long-term increase in 
+ <italic>BCR-ABL1/ABL1</italic> ratio (
+ <italic>β</italic>&lt;0) but are characterized by (iii) a biphasic decline, (
+ <italic>α</italic>&lt;
+ <italic>β</italic>&lt;0). We also excluded 2 additional patients with measured 
+ <italic>BCR-ABL1</italic> ratios of more than 500%, which indicates a pronounced non-linearity between 
+ <italic>BCR-ABL1</italic> abundance and tumor load, resulting in n=55 (IRIS cohort) and n=134 (CML-IV cohort) (
+ <italic>Online Supplementary Table S1</italic>). Median follow up of this patient cohort is 4.3 years [IQR (2.8,6.3)]; 98.4% of the patients achieved 
+ <italic>BCR-ABL1</italic> ratio of less than 1%, while 91% achieved MR3 at least once. We also tested the robustness of our model results with respect to the reliability of high 
+ <italic>BCR-ABL1</italic> values (
+ <italic>Online Supplementary Table S2</italic>).
+</p>

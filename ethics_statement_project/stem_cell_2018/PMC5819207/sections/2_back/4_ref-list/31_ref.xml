@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lim</surname>
+    <given-names>WA</given-names>
+   </name>
+   <name>
+    <surname>June</surname>
+    <given-names>CH</given-names>
+   </name>
+  </person-group>
+  <article-title>The principles of engineering immune cells to treat cancer</article-title>
+  <source>Cell</source>
+  <year>2017</year>
+  <volume>168</volume>
+  <issue>4</issue>
+  <fpage>724</fpage>
+  <lpage>740</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2017.01.016</pub-id>
+  <?supplied-pmid 28187291?>
+  <pub-id pub-id-type="pmid">28187291</pub-id>
+ </element-citation>
+</ref>

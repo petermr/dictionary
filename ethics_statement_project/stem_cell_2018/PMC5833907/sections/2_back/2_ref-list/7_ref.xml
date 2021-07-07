@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dunn</surname>
+    <given-names>CJ</given-names>
+   </name>
+   <name>
+    <surname>Wagstaff</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>Perry</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Plosker</surname>
+    <given-names>GL</given-names>
+   </name>
+   <name>
+    <surname>Goa</surname>
+    <given-names>KL</given-names>
+   </name>
+  </person-group>
+  <article-title>Cyclosporin: an updated review of the pharmacokinetic properties, clinical efficacy and tolerability of a microemulsion-based formulation (neoral)1 in organ transplantation</article-title>
+  <source>Drugs.</source>
+  <year>2001</year>
+  <volume>61</volume>
+  <fpage>1957</fpage>
+  <lpage>2016</lpage>
+  <?supplied-pmid 11708766?>
+  <pub-id pub-id-type="pmid">11708766</pub-id>
+ </element-citation>
+</ref>

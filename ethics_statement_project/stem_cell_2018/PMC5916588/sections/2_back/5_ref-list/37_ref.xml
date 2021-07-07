@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xuan</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Agrawal</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Gupta</surname>
+    <given-names>GK</given-names>
+   </name>
+   <name>
+    <surname>Hamblin</surname>
+    <given-names>MR</given-names>
+   </name>
+  </person-group>
+  <article-title>Low-level laser therapy for traumatic brain injury in mice increases brain derived neurotrophic factor (BDNF) and synaptogenesis</article-title>
+  <source>J Biophotonics</source>
+  <year>2015</year>
+  <volume>8</volume>
+  <fpage>502</fpage>
+  <lpage>511</lpage>
+  <pub-id pub-id-type="doi">10.1002/jbio.201400069</pub-id>
+  <?supplied-pmid 25196192?>
+  <pub-id pub-id-type="pmid">25196192</pub-id>
+ </element-citation>
+</ref>

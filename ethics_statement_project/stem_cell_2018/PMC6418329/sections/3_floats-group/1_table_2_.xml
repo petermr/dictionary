@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="anchor">
+ <label>Table 2:</label>
+ <caption>
+  <p>Comparison of baseline and follow up variables for the study and control group.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1"> </th>
+    <th align="center" colspan="2" rowspan="1">Baseline</th>
+    <th align="center" rowspan="1" colspan="1">p-value</th>
+    <th align="center" colspan="2" rowspan="1">3 months after treatment initiation</th>
+    <th align="center" rowspan="1" colspan="1">p-value</th>
+   </tr>
+   <tr>
+    <th align="left" rowspan="1" colspan="1"> </th>
+    <th align="center" rowspan="1" colspan="1">Study (n=30)</th>
+    <th align="center" rowspan="1" colspan="1">Control (n=30)</th>
+    <th align="center" rowspan="1" colspan="1"> </th>
+    <th align="center" rowspan="1" colspan="1">Study (n=30)</th>
+    <th align="center" rowspan="1" colspan="1">Control (n=30)</th>
+    <th align="center" rowspan="1" colspan="1"> </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">QoL scores</td>
+    <td align="center" rowspan="1" colspan="1">41±7.6</td>
+    <td align="center" rowspan="1" colspan="1">39±8.4</td>
+    <td align="center" rowspan="1" colspan="1">0.350</td>
+    <td align="center" rowspan="1" colspan="1">53.13±5.33</td>
+    <td align="center" rowspan="1" colspan="1">55.3±4.45</td>
+    <td align="center" rowspan="1" colspan="1">0.130</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">NYHA FC</td>
+    <td align="center" rowspan="1" colspan="1">3±0.83</td>
+    <td align="center" rowspan="1" colspan="1">3.36±0.80</td>
+    <td align="center" rowspan="1" colspan="1">0.089</td>
+    <td align="center" rowspan="1" colspan="1">2.4±0.67</td>
+    <td align="center" rowspan="1" colspan="1">1.86±0.97</td>
+    <td align="center" rowspan="1" colspan="1">0.017</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">LVEF%</td>
+    <td align="center" rowspan="1" colspan="1">24.77±6.35</td>
+    <td align="center" rowspan="1" colspan="1">24.7±8.9</td>
+    <td align="center" rowspan="1" colspan="1">0.975</td>
+    <td align="center" rowspan="1" colspan="1">31.3±5.09</td>
+    <td align="center" rowspan="1" colspan="1">29.3±6.8</td>
+    <td align="center" rowspan="1" colspan="1">0.182</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>
+    <bold>QOL:</bold> quality of life, 
+    <bold>NYHA FC:</bold> New York heart association functional classification, 
+    <bold>LVEF:</bold> left ventricle ejection fraction
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

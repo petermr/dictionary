@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR57">
+ <label>57.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jennett</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Snoek</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Bond</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Brooks</surname>
+    <given-names>N</given-names>
+   </name>
+  </person-group>
+  <article-title>Disability after severe head injury: observations on the use of the Glasgow Outcome Scale</article-title>
+  <source>J Neurol Neurosurg Psychiatry</source>
+  <year>1981</year>
+  <volume>44</volume>
+  <fpage>285</fpage>
+  <lpage>293</lpage>
+  <pub-id pub-id-type="doi">10.1136/jnnp.44.4.285</pub-id>
+  <?supplied-pmid 6453957?>
+  <pub-id pub-id-type="pmid">6453957</pub-id>
+ </element-citation>
+</ref>

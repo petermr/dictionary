@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="BX1" position="float" orientation="portrait">
+ <caption>
+  <title>Strengths and limitations of the study</title>
+ </caption>
+ <list list-type="bullet">
+  <list-item>
+   <p>Prospective randomised multicentre study with 180 patients evaluating the efficacy and tolerability of two cooling methods.</p>
+  </list-item>
+  <list-item>
+   <p>Blinded assessment of oral mucositis by dentists specialised in orofacial medicine and pathology.</p>
+  </list-item>
+  <list-item>
+   <p>Longitudinal study lacking an untreated control group.</p>
+  </list-item>
+  <list-item>
+   <p>Patients younger than 16 years of age are not included in this study.</p>
+  </list-item>
+ </list>
+</boxed-text>

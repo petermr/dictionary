@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B24">
+ <label>24</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Volkov</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Rudoy</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Freud</surname>
+    <given-names>T.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Effectiveness of vitamin B12 in treating recurrent aphthous stomatitis: A randomized, double-blind, placebo-controlled trial</article-title>
+  <source>
+   <italic>Journal of the American Board of Family Medicine</italic>
+  </source>
+  <year>2009</year>
+  <volume>22</volume>
+  <issue>1</issue>
+  <fpage>9</fpage>
+  <lpage>16</lpage>
+  <pub-id pub-id-type="doi">10.3122/jabfm.2009.01.080113</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-58549083969</pub-id>
+  <pub-id pub-id-type="pmid">19124628</pub-id>
+ </element-citation>
+</ref>

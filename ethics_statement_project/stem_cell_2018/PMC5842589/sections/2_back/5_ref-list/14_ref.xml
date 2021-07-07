@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kumar</surname>
+    <given-names>SK</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Safety and tolerability of ixazomib, an oral proteasome inhibitor, in combination with lenalidomide and dexamethasone in patients with previously untreated multiple myeloma: an open-label phase 1/2 study</article-title>
+  <source>Lancet Oncol</source>
+  <year>2014</year>
+  <volume>15</volume>
+  <issue>13</issue>
+  <fpage>1503</fpage>
+  <lpage>1512</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(14)71125-8</pub-id>
+  <?supplied-pmid 25456369?>
+  <pub-id pub-id-type="pmid">25456369</pub-id>
+ </element-citation>
+</ref>

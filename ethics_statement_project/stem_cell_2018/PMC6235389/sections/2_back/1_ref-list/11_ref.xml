@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>QY</given-names>
+   </name>
+   <name>
+    <surname>Wen</surname>
+    <given-names>YF</given-names>
+   </name>
+   <name>
+    <surname>Guo</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>PY</given-names>
+   </name>
+   <name>
+    <surname>Mo</surname>
+    <given-names>HY</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Concurrent chemoradiotherapy vs radiotherapy alone in stage II nasopharyngeal carcinoma: phase III randomized trial</article-title>
+  <source>J Natl Cancer Inst</source>
+  <year>2011</year>
+  <volume>103</volume>
+  <issue>23</issue>
+  <fpage>1761</fpage>
+  <lpage>1770</lpage>
+  <pub-id pub-id-type="doi">10.1093/jnci/djr432</pub-id>
+  <pub-id pub-id-type="pmid">22056739</pub-id>
+ </element-citation>
+</ref>

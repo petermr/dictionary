@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R20">
+ <label>[20]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hsieh</surname>
+    <given-names>MM</given-names>
+   </name>
+   <name>
+    <surname>Kang</surname>
+    <given-names>EM</given-names>
+   </name>
+   <name>
+    <surname>Fitzhugh</surname>
+    <given-names>CD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Allogeneic hematopoietic stem-cell transplantation for sickle cell disease</article-title>. 
+  <source>N Engl J Med</source>
+  <year>2009</year>;
+  <volume>361</volume>:
+  <elocation-id>2309</elocation-id>–
+  <lpage>17</lpage>.
+  <pub-id pub-id-type="pmid">20007560</pub-id>
+ </mixed-citation>
+</ref>

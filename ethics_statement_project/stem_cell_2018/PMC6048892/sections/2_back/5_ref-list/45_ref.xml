@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Yu</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Suntharalingam</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Kennedy</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Amin</surname>
+    <given-names>PP</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>Z</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Comparison of three treatment options for single brain metastasis from lung cancer</article-title>
+  <source>Int J Cancer.</source>
+  <year>2000</year>
+  <volume>90</volume>
+  <fpage>37</fpage>
+  <lpage>45</lpage>
+  <pub-id pub-id-type="doi">10.1002/(SICI)1097-0215(20000220)90:1&lt;37::AID-IJC5&gt;3.0.CO;2-7</pub-id>
+  <?supplied-pmid 10725856?>
+  <pub-id pub-id-type="pmid">10725856</pub-id>
+ </element-citation>
+</ref>

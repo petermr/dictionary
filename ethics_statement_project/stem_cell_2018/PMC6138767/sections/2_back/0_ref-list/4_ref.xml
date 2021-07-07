@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib4">
+ <label>4</label>
+ <element-citation publication-type="journal" id="sref4">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lorch</surname>
+    <given-names>J.H.</given-names>
+   </name>
+   <name>
+    <surname>Goloubeva</surname>
+    <given-names>O.</given-names>
+   </name>
+   <name>
+    <surname>Haddad</surname>
+    <given-names>R.I.</given-names>
+   </name>
+   <name>
+    <surname>Cullen</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Sarlis</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Tishler</surname>
+    <given-names>R.</given-names>
+   </name>
+  </person-group>
+  <article-title>Induction chemotherapy with cisplatin and fluorouracil alone or in combination with docetaxel in locally advanced squamous-cell cancer of the head and neck: long-term results of the TAX 324 randomised phase 3 trial</article-title>
+  <source>Lancet Oncol</source>
+  <volume>12</volume>
+  <year>2011</year>
+  <fpage>153</fpage>
+  <lpage>159</lpage>
+  <pub-id pub-id-type="pmid">21233014</pub-id>
+ </element-citation>
+</ref>

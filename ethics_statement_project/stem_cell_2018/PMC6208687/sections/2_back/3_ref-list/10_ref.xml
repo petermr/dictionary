@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Richardson</surname>
+    <given-names>PG</given-names>
+   </name>
+   <name>
+    <surname>Moreau</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Laubach</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Gupta</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Hui</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Anderson</surname>
+    <given-names>KC</given-names>
+   </name>
+   <name>
+    <surname>San Miguel</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Kumar</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>The investigational proteasome inhibitor ixazomib for the treatment of multiple myeloma</article-title>
+  <source>Future Oncol</source>
+  <year>2015</year>
+  <volume>11</volume>
+  <fpage>1153</fpage>
+  <lpage>1168</lpage>
+  <pub-id pub-id-type="doi">10.2217/fon.15.9</pub-id>
+  <pub-id pub-id-type="pmid">25832873</pub-id>
+ </element-citation>
+</ref>

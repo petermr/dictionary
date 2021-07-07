@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gandelman</surname>
+   <given-names>Jocelyn S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1040189">1</xref>
+  <xref ref-type="aff" rid="af2-1040189">2</xref>
+  <xref ref-type="aff" rid="af3-1040189">3</xref>
+  <xref ref-type="aff" rid="af4-1040189">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Byrne</surname>
+   <given-names>Michael T.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1040189">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mistry</surname>
+   <given-names>Akshitkumar M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-1040189">3</xref>
+  <xref ref-type="aff" rid="af5-1040189">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Polikowsky</surname>
+   <given-names>Hannah G.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-1040189">3</xref>
+  <xref ref-type="aff" rid="af4-1040189">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Diggins</surname>
+   <given-names>Kirsten E.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-1040189">2</xref>
+  <xref ref-type="aff" rid="af3-1040189">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Heidi</given-names>
+  </name>
+  <xref ref-type="aff" rid="af6-1040189">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lee</surname>
+   <given-names>Stephanie J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af7-1040189">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Arora</surname>
+   <given-names>Mukta</given-names>
+  </name>
+  <xref ref-type="aff" rid="af8-1040189">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cutler</surname>
+   <given-names>Corey</given-names>
+  </name>
+  <xref ref-type="aff" rid="af9-1040189">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Flowers</surname>
+   <given-names>Mary</given-names>
+  </name>
+  <xref ref-type="aff" rid="af7-1040189">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pidala</surname>
+   <given-names>Joseph</given-names>
+  </name>
+  <xref ref-type="aff" rid="af10-1040189">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Irish</surname>
+   <given-names>Jonathan M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-1040189">2</xref>
+  <xref ref-type="aff" rid="af3-1040189">3</xref>
+  <xref ref-type="aff" rid="af4-1040189">4</xref>
+  <xref ref-type="corresp" rid="c1-1040189"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jagasia</surname>
+   <given-names>Madan H.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1040189">1</xref>
+  <xref ref-type="aff" rid="af3-1040189">3</xref>
+  <xref ref-type="corresp" rid="c1-1040189"/>
+ </contrib>
+</contrib-group>

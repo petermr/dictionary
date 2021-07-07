@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fassoni</surname>
+   <given-names>Artur C.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1031825">1</xref>
+  <xref ref-type="aff" rid="af2-1031825">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Baldow</surname>
+   <given-names>Christoph</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-1031825">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Roeder</surname>
+   <given-names>Ingo</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-1031825">2</xref>
+  <xref ref-type="aff" rid="af3-1031825">3</xref>
+  <xref ref-type="author-notes" rid="fn1-1031825">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Glauche</surname>
+   <given-names>Ingmar</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-1031825">2</xref>
+  <xref ref-type="author-notes" rid="fn1-1031825">*</xref>
+  <xref ref-type="corresp" rid="c1-1031825"/>
+ </contrib>
+</contrib-group>

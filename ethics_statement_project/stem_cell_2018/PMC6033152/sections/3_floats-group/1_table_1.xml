@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jns12267-tbl-0001" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Study inclusion and exclusion criteria</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col align="left" span="1"/>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Inclusion criteria</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet" id="jns12267-list-0001">
+      <list-item id="jns12267-li-0001">
+       <p>Age ≥18 years</p>
+      </list-item>
+      <list-item id="jns12267-li-0002">
+       <p>A diagnosis of definite or probable CIDP according to the EFNS/PNS 2010 guideline, including patients with MADSAM or pure motor CIDP</p>
+      </list-item>
+      <list-item id="jns12267-li-0003">
+       <p>Currently dependent on immunoglobulin or corticosteroid treatment</p>
+      </list-item>
+      <list-item id="jns12267-li-0004">
+       <p>Active disease (ie, not in remission) with progression or relapse prior to study entry or during the washout phase</p>
+      </list-item>
+      <list-item id="jns12267-li-0005">
+       <p>Weakness of at least 2 limbs</p>
+      </list-item>
+      <list-item id="jns12267-li-0006">
+       <p>Adjusted INCAT disability score of 2 to 9, with a score of 2 exclusively from leg disability</p>
+      </list-item>
+      <list-item id="jns12267-li-0007">
+       <p>Written, fully informed, voluntary consent before conduction of any study‐related procedures</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Exclusion criteria</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet" id="jns12267-list-0002">
+      <list-item id="jns12267-li-0008">
+       <p>Unifocal forms of CIDP, pure sensory CIDP or MMN with conduction block</p>
+      </list-item>
+      <list-item id="jns12267-li-0009">
+       <p>Previous failure of immunoglobulin treatment</p>
+      </list-item>
+      <list-item id="jns12267-li-0010">
+       <p>Treatment with immunomodulatory or immunosuppressive agents (eg, ciclosporin, methotrexate, mitoxantrone, mycophenolate mofetil or azathioprine) within 6 months of study baseline</p>
+      </list-item>
+      <list-item id="jns12267-li-0011">
+       <p>Treatment with rituximab, alemtuzumab, cyclophosphamide, or other intensive chemotherapy, previous lymphoid irradiation or stem cell transplantation within 12 months of study baseline</p>
+      </list-item>
+      <list-item id="jns12267-li-0012">
+       <p>Respiratory impairment requiring mechanical ventilation</p>
+      </list-item>
+      <list-item id="jns12267-li-0013">
+       <p>Myelopathy or evidence of CNS demyelination or significant persisting neurological deficits from stroke or CNS trauma</p>
+      </list-item>
+      <list-item id="jns12267-li-0014">
+       <p>Clinical evidence of peripheral neuropathy from another cause such as connective tissue disease or systemic lupus erythematosus, HIV infection, hepatitis or Lyme disease, cancer (with the exception of basal cell skin cancer), or IgM paraproteinaemia with anti‐myelin‐associated glycoprotein antibodies</p>
+      </list-item>
+      <list-item id="jns12267-li-0015">
+       <p>Diabetic neuropathy, with the exception stable HbA1c (not exceeding the required normal values) in treated patients with diabetes</p>
+      </list-item>
+      <list-item id="jns12267-li-0016">
+       <p>Body mass index ≥40 kg/m
+        <sup>2</sup>
+       </p>
+      </list-item>
+      <list-item id="jns12267-li-0017">
+       <p>Cardiac insufficiency (NHYA III/IV), cardiomyopathy, significant cardiac dysrhythmia requiring treatment, or unstable or advanced ischaemic heart disease</p>
+      </list-item>
+      <list-item id="jns12267-li-0018">
+       <p>Severe liver disease (ALT 3× greater than normal) or severe kidney disease (creatinine levels 1.5× greater than normal)</p>
+      </list-item>
+      <list-item id="jns12267-li-0019">
+       <p>Hepatitis B, hepatitis C, or HIV infection</p>
+      </list-item>
+      <list-item id="jns12267-li-0020">
+       <p>Thromboembolic events, including a history of DVT within 12 months of study baseline, any history PE, or susceptibility to DVT or PE</p>
+      </list-item>
+      <list-item id="jns12267-li-0021">
+       <p>Uncompensated hypothyroidism (abnormally high TSH and abnormally low thyroxine) or known vitamin B
+        <sub>12</sub> deficiency without adequate substitution therapy
+       </p>
+      </list-item>
+      <list-item id="jns12267-li-0022">
+       <p>Medical conditions that may alter protein catabolism and/or IgG utilisation (eg, protein‐losing enteropathy, nephrotic syndrome)</p>
+      </list-item>
+      <list-item id="jns12267-li-0023">
+       <p>Known IgA deficiency with antibodies to IgA</p>
+      </list-item>
+      <list-item id="jns12267-li-0024">
+       <p>History of hypersensitivity, anaphylaxis or severe systemic response to immunoglobulin, blood or plasma‐derived products, or any component of panzyga</p>
+      </list-item>
+      <list-item id="jns12267-li-0025">
+       <p>Known blood hyperviscosity or other hypercoagulable states</p>
+      </list-item>
+      <list-item id="jns12267-li-0026">
+       <p>Use of other blood or plasma‐derived products within 3 months of study baseline</p>
+      </list-item>
+      <list-item id="jns12267-li-0027">
+       <p>Past or present history of drug or alcohol abuse within 5 years of study baseline</p>
+      </list-item>
+      <list-item id="jns12267-li-0028">
+       <p>An inability or unwillingness to understand or comply with the study protocol</p>
+      </list-item>
+      <list-item id="jns12267-li-0029">
+       <p>Participation in another interventional clinical study with an investigational medicinal product treatment currently or within 3 months of baseline</p>
+      </list-item>
+      <list-item id="jns12267-li-0030">
+       <p>Women who are breast feeding, pregnant, planning on becoming pregnant, or unwilling to use effective birth control during the study</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="jns12267-note-0001">
+   <p>ALT, alanine aminotransferase; CIDP, chronic inflammatory demyelinating polyradiculoneuropathy; CNS, central nervous system; DVT, deep vein thrombosis; EFNS, European Federation of Neurological Societies; HbA1c, glycated haemoglobin; HIV, human immunodeficiency virus; IgA/G/M, immunoglobulin A/G/M; INCAT, Inflammatory Neuropathy Cause and Treatment; MADSAM, multi‐focal acquire demyelinating sensory and motor neuropathy; MMN, multi‐focal motor neuropathy; NHYA, New York Heart Association; PE, pulmonary embolism; PNS, Peripheral Nerve Society; TSH, thyroid‐stimulating hormone.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

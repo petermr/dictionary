@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float" orientation="landscape">
+ <label>Table 2</label>
+ <caption>
+  <p id="P49">Most Common (≥5% of All Patients) Grades 3–4 TEAEs</p>
+ </caption>
+ <table frame="hsides" rules="none">
+  <colgroup span="1">
+   <col align="left" valign="middle" span="1"/>
+   <col align="left" valign="middle" span="1"/>
+   <col align="left" valign="middle" span="1"/>
+   <col align="left" valign="middle" span="1"/>
+   <col align="left" valign="middle" span="1"/>
+   <col align="left" valign="middle" span="1"/>
+  </colgroup>
+  <thead>
+   <tr>
+    <th align="left" valign="top" rowspan="1" colspan="1">AE</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">CC-486 200 mg QD for 7 Days (n = 3)</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">CC-486 300 mg QD for 7 Days (n = 4)</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">CC-486 150 mg QD for 14 Days (n = 4)</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">CC-486 200 mg QD for 14 Days (n = 19)</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Total (N = 30)</th>
+   </tr>
+   <tr>
+    <th align="left" valign="top" colspan="6" rowspan="1">
+     <hr/>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Patients with ≥1 grade 3–4 TEAE</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (67)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (75)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (75)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">14 (74)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">22 (73)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Hematologic</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Lymphopenia</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (75)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (16)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">6 (20)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Neutropenia</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4 (21)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">5 (17)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Anemia</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (16)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4 (13)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Thrombocytopenia</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (33)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (11)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (10)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">gastrointestinal</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Diarrhea</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (33)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (50)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (16)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">6 (20)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Vomiting</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (33)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (11)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">5 (17)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Nausea</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (33)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (16)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4 (13)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> GI GVHD
+     <xref rid="TFN3" ref-type="table-fn">*</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (16)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">3 (10)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Abdominal pain</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (11)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (7)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Other</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Device-related infection</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (7)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Dehydration</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (5)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (7)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Pneumonia</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (25)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">1 (5)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2 (7)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="TFN2">
+   <p id="P50">Values are n (%). GI indicates gastrointestinal.</p>
+  </fn>
+  <fn id="TFN3">
+   <label>*</label>
+   <p id="P51">Acute or chronic.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -37,10 +37,10 @@ class EthicStatements:
         self.add_ethic_statements_to_dict(dict_with_parsed_xml)
         self.add_if_file_contains_terms(
             terms=terms, dict_with_parsed_xml=dict_with_parsed_xml)
-        self.remove_tems_which_have_false_terms(
-            dict_with_parsed_xml=dict_with_parsed_xml)
+        #self.remove_tems_which_have_false_terms(
+        #    dict_with_parsed_xml=dict_with_parsed_xml)
         self.convert_dict_to_csv(
-            path=f'{OUTPUT}_today.csv', dict_with_parsed_xml=dict_with_parsed_xml)
+            path=f'{OUTPUT}_20210707_4.csv', dict_with_parsed_xml=dict_with_parsed_xml)
 
     def frontiers_ethics_statement(self):
         """ """
@@ -106,7 +106,7 @@ class EthicStatements:
         for statement in all_paragraphs:
             self.find_pmcid_from_file_name_and_make_dict_key(
                 dict_with_parsed_xml, statement)
-        logging.info(f"Found {len(dict_with_parsed_xml)} ethics statements")
+        logging.info(f"Found {len(dict_with_parsed_xml)} paragraphs")
         return dict_with_parsed_xml
 
     def find_pmcid_from_file_name_and_make_dict_key(self, dict_with_parsed_xml, paragraph_file):
@@ -225,16 +225,21 @@ class EthicStatements:
         :param position_start:
 
         """
-        if ent:
+        if ent.label_ == "ORG":
             entities.append(ent)
             labels.append(ent.label_)
             position_start.append(ent.start_char)
             position_end.append(ent.end_char)
-        else:
-            entities.append("empty")
-            labels.append("empty")
-            position_start.append("empty")
-            position_end.append("empty")
+        elif ent.label_ == "GPE":
+            entities.append(ent)
+            labels.append(ent.label_)
+            position_start.append(ent.start_char)
+            position_end.append(ent.end_char)
+        #else:
+        #    entities.append("empty")
+        #    labels.append("empty")
+        #    position_start.append("empty")
+        #    position_end.append("empty")
 
     def convert_dict_to_csv(self, path, dict_with_parsed_xml):
         """
@@ -262,8 +267,8 @@ class EthicStatements:
 
 ethic_statement_creator = EthicStatements()
 # ethic_statement_creator.demo()
-ethic_statement_creator.test_term_creation(os.getcwd(), 'e_cancer_clinical_trial_50', 30, 'e_cancer_clinical_trial_50', os.path.join(
-    os.getcwd(), 'results', 'rake', 'ethics_statement.xml'))
+ethic_statement_creator.test_term_creation(os.getcwd(), 'e_cancer_clinical_trial_50', 30, 'stem_cell_2018', os.path.join(
+    os.getcwd(), 'ethics_dictionary', 'ethics_key_phrases', 'ethics_key_phrases.xml'))
 #
 
 # displacy.serve(doc, style="ent")

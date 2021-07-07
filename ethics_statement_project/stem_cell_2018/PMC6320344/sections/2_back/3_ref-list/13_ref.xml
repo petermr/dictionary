@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Micallef</surname>
+    <given-names>INM</given-names>
+   </name>
+   <name>
+    <surname>Sinha</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Gastineau</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Wolf</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Inwards</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Gertz</surname>
+    <given-names>MA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cost-effectiveness analysis of a risk-adapted algorithm of plerixafor use for autologous peripheral blood stem cell mobilization</article-title>
+  <source>Biol Blood Marrow Transplant</source>
+  <year>2012</year>
+  <volume>19</volume>
+  <fpage>87</fpage>
+  <lpage>93</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbmt.2012.08.010</pub-id>
+  <pub-id pub-id-type="pmid">22922211</pub-id>
+ </element-citation>
+</ref>

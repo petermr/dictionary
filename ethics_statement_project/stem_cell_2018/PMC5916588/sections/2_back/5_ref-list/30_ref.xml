@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wong-Riley</surname>
+    <given-names>MT</given-names>
+   </name>
+   <name>
+    <surname>Liang</surname>
+    <given-names>HL</given-names>
+   </name>
+   <name>
+    <surname>Eells</surname>
+    <given-names>JT</given-names>
+   </name>
+   <name>
+    <surname>Chance</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Henry</surname>
+    <given-names>MM</given-names>
+   </name>
+   <name>
+    <surname>Buchmann</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Kane</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Whelan</surname>
+    <given-names>HT</given-names>
+   </name>
+  </person-group>
+  <article-title>Photobiomodulation directly benefits primary neurons functionally inactivated by toxins: role of cytochrome c oxidase</article-title>
+  <source>J Biol Chem</source>
+  <year>2005</year>
+  <volume>280</volume>
+  <fpage>4761</fpage>
+  <lpage>4771</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.M409650200</pub-id>
+  <?supplied-pmid 15557336?>
+  <pub-id pub-id-type="pmid">15557336</pub-id>
+ </element-citation>
+</ref>

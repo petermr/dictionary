@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wuchter</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Ran</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Bruckner</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Schmitt</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Witzens-Harig</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Neben</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Poor mobilization of hematopoietic stem cells-definitions, incidence, risk factors, and impact on outcome of autologous transplantation</article-title>
+  <source>Biol Blood Marrow Transplant</source>
+  <year>2010</year>
+  <volume>16</volume>
+  <fpage>490</fpage>
+  <lpage>9</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbmt.2009.11.012</pub-id>
+  <pub-id pub-id-type="pmid">19925876</pub-id>
+ </element-citation>
+</ref>

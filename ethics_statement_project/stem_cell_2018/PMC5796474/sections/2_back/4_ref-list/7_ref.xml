@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brugières</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Pacquement</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Le Deley</surname>
+    <given-names>MC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Single-drug vinblastine as salvage treatment for refractory or relapsed anaplastic large-cell lymphoma: a report from the French Society of Pediatric Oncology</article-title>
+  <source>J Clin Oncol</source>
+  <year>2009</year>
+  <volume>27</volume>
+  <fpage>5056</fpage>
+  <lpage>5061</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2008.20.1764</pub-id>
+  <?supplied-pmid 19738127?>
+  <pub-id pub-id-type="pmid">19738127</pub-id>
+ </element-citation>
+</ref>

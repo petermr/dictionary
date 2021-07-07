@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par54">SRS will be applied in one to a maximum of six fractions. For SRS, the dose prescription to the PTV will be as follows (risk adapted SRS dose prescription volume and location based):
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par55">20 Gy to the 70%-isodose (lesions &lt; 2 cm max. diameter)</p>
+  </list-item>
+  <list-item>
+   <p id="Par56">18 Gy to the 70%-isodose (lesions 2–3 cm max. diameter)</p>
+  </list-item>
+  <list-item>
+   <p id="Par57">6 × 5 Gy to the conformally surrounding isodose (lesions &gt; 3 cm max. diameter or brain stem)</p>
+  </list-item>
+ </list>
+</p>

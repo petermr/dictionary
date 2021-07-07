@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Debes</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>de Knegt</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Boonstra</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>. 
+  <article-title>The Path to cancer and back: immune modulation during hepatitis C virus infection, progression to fibrosis and cancer, and unexpected roles of new antivirals</article-title>. 
+  <source>Transplantation</source> (
+  <year>2017</year>) 
+  <volume>101</volume>:
+  <fpage>910</fpage>–
+  <lpage>5</lpage>.
+  <pub-id pub-id-type="doi">10.1097/TP.0000000000001623</pub-id>
+  <?supplied-pmid 28045877?>
+  <pub-id pub-id-type="pmid">28045877</pub-id>
+ </mixed-citation>
+</ref>

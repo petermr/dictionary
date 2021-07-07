@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Borchmann</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Morschhauser</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Parry</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Phase-II study of the new aza-anthracenedione, BBR 2778, in patients with relapsed aggressive non-Hodgkin’s lymphomas</article-title>
+  <source>Haematologica</source>
+  <year>2003</year>
+  <volume>88</volume>
+  <issue>8</issue>
+  <fpage>888</fpage>
+  <lpage>894</lpage>
+  <?supplied-pmid 12935976?>
+  <pub-id pub-id-type="pmid">12935976</pub-id>
+ </element-citation>
+</ref>

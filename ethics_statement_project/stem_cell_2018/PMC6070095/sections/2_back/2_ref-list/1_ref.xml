@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0001">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Fielding</surname>
+    <given-names>AK</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Richards</surname>
+    <given-names>SM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Chopra</surname>
+    <given-names>R</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>; 
+  <person-group person-group-type="author">
+   <collab>Medical Research Council of the United Kingdom Adult ALL Working Party; Eastern Cooperative Oncology Group</collab>
+  </person-group>
+  <article-title>Outcome of 609 adults after relapse of acute lymphoblastic leukemia (ALL); an MRC UKALL12/ECOG 2993 study</article-title>. 
+  <source>Blood</source>
+  <year>2007</year>; 
+  <volume>109</volume>:
+  <fpage>944</fpage>–
+  <lpage>50</lpage>.
+  <pub-id pub-id-type="pmid">17032921</pub-id>
+ </mixed-citation>
+</ref>

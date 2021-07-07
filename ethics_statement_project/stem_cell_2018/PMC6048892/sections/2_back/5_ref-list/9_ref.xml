@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hochstenbag</surname>
+    <given-names>MM</given-names>
+   </name>
+   <name>
+    <surname>Twijnstra</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Wilmink</surname>
+    <given-names>JT</given-names>
+   </name>
+   <name>
+    <surname>Wouters</surname>
+    <given-names>EF</given-names>
+   </name>
+   <name>
+    <surname>ten Velde</surname>
+    <given-names>GP</given-names>
+   </name>
+  </person-group>
+  <article-title>Asymptomatic brain metastases (BM) in small cell lung cancer (SCLC): MR-imaging is useful at initial diagnosis</article-title>
+  <source>J Neurooncol.</source>
+  <year>2000</year>
+  <volume>48</volume>
+  <fpage>243</fpage>
+  <lpage>248</lpage>
+  <pub-id pub-id-type="doi">10.1023/A:1006427407281</pub-id>
+  <?supplied-pmid 11100822?>
+  <pub-id pub-id-type="pmid">11100822</pub-id>
+ </element-citation>
+</ref>

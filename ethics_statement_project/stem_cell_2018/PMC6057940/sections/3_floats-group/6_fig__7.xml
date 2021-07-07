@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig7">
+ <label>Fig. 7</label>
+ <caption>
+  <p>Phase I clinical trial of docetaxel and SMO inhibitor, NVP-LDE225 (EDALINE) in patients with advanced TNBC. 
+   <bold>a</bold> Representative computed tomography (CT) images from a patient with complete radiological response. The 54-year-old postmenopausal woman was diagnosed with recurrent metastatic TNBC in the lungs with one measurable lesion on the right upper lobe (red arrow) and several nonmeasurable lesions (blue arrows). Therapeutic response was evaluated according to RECIST criteria version 1.1. The remaining structure seen in the right upper lobe corresponds to the azygos vein (violet arrow). 
+   <bold>b</bold> Representative HH and GLI1 immunostaining of treatment-naive tumor specimens from patients enrolled in the EDALINE trial. The left panel is representative of patients with high HPAS (characterized by high epithelial HH ligand and high stromal GLI1 expression) while the right panel represents low/intermediate epithelial HH and low stromal GLI1 expression. Scale bars: 100 μm. 
+   <bold>c</bold> Representative immunohistochemistry staining for phospho-FGFR, collagen deposition depicted by SHG imaging and concomitant phospho-FAK and ALDH1 stem cell marker expression in treatment-naive tumor specimens with high HPAS from the EDALINE trial. The left panel represents tissue derived from the patient who experienced a complete clinical response, the middle is from the patient with stable disease and the right panel represents tissue from the patient with high HPAS who progressed on the prescribed regimen. Scale bars: 100 μm. The white arrows illustrate examples of co-staining. 
+   <bold>d</bold> Graphical summary: Paracrine Hh signaling in TNBC drives a reversible stem-like, chemo-resistant phenotype via FGF signaling and ECM remodeling. CAFs represent the primary cells of the breast TME that respond to Hh ligand stimulation. Hh-activated CAFs enhance ECM collagen deposition and express FGF5 to establish a supportive niche for chemo-resistant cancer stem cell maintenance. This study strongly highlights a novel rational approach targeting both the tumor cells and their surrounding signaling support using SMO inhibitors to overcome chemoresistance in patients with TNBC
+  </p>
+ </caption>
+ <graphic xlink:href="41467_2018_5220_Fig7_HTML" id="d29e1849" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

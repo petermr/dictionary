@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dhillon</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Weber</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Saxagliptin</article-title>
+  <source>Drugs.</source>
+  <year>2009</year>
+  <volume>69</volume>
+  <fpage>2103</fpage>
+  <lpage>2114</lpage>
+  <pub-id pub-id-type="doi">10.2165/11201170-000000000-00000</pub-id>
+  <?supplied-pmid 19791828?>
+  <pub-id pub-id-type="pmid">19791828</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par33">Random forest is a method based on the generation of multiple trees by bootstrapping. For each node of each tree, the best predictor is chosen. The final result given by random forest is the mean of all the individual trees [
+ <xref ref-type="bibr" rid="CR35">35</xref>].
+</p>

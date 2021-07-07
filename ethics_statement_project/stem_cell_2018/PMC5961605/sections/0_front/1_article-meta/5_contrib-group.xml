@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="author-61598316" contrib-type="author">
+  <name>
+   <surname>Goldberg</surname>
+   <given-names>Andrew J</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-31521474" contrib-type="author">
+  <name>
+   <surname>Zaidi</surname>
+   <given-names>Razi</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-61598328" contrib-type="author">
+  <name>
+   <surname>Brooking</surname>
+   <given-names>Deirdre</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-60059070" contrib-type="author">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Louise</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+ <contrib id="author-60059084" contrib-type="author">
+  <name>
+   <surname>Korda</surname>
+   <given-names>Michelle</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">4</xref>
+ </contrib>
+ <contrib id="author-41006524" contrib-type="author">
+  <name>
+   <surname>Masci</surname>
+   <given-names>Lorenzo</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">5</xref>
+ </contrib>
+ <contrib id="author-61598335" contrib-type="author">
+  <name>
+   <surname>Green</surname>
+   <given-names>Ruth</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-61598346" contrib-type="author">
+  <name>
+   <surname>O’Donnell</surname>
+   <given-names>Paul</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-58808912" contrib-type="author">
+  <name>
+   <surname>Smith</surname>
+   <given-names>Roger</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff6">6</xref>
+ </contrib>
+</contrib-group>

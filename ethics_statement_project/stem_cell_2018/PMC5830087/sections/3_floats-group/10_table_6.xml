@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab6">
+ <label>Table 6</label>
+ <caption>
+  <p>Summary of BTH1677 pharmacokinetics parameters</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="3">Parameters</th>
+    <th colspan="2">Geometric Mean (CV%)</th>
+   </tr>
+   <tr>
+    <th colspan="2">BTH1677/Bevacizumab/
+     <break/>Carboplatin/Paclitaxel
+    </th>
+   </tr>
+   <tr>
+    <th>Cycle 1/Day 1</th>
+    <th>Cycle 3/Day 1</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>N</td>
+    <td>53
+     <sup>b</sup>
+    </td>
+    <td>42</td>
+   </tr>
+   <tr>
+    <td>AUC
+     <sub>0–last</sub> (μg•hr./mL)
+    </td>
+    <td>614.6 (52.0)</td>
+    <td>423.5 (48.1)</td>
+   </tr>
+   <tr>
+    <td>AUC
+     <sub>0–24</sub> (μg•hr./mL)
+    </td>
+    <td>399.8 (37.3)</td>
+    <td>464.4 (38.9)
+     <sup>d</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>AUC
+     <sub>0–∞</sub> (μg•hr./mL)
+    </td>
+    <td>635.9 (49.5)
+     <sup>c</sup>
+    </td>
+    <td>518.6 (42.2)
+     <sup>e</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>C
+     <sub>max</sub> (μg/mL)
+    </td>
+    <td>49.77 (36.1)</td>
+    <td>60.50 (49.2)</td>
+   </tr>
+   <tr>
+    <td>CL (L/h)</td>
+    <td>0.441 (47.3)
+     <sup>c</sup>
+    </td>
+    <td>0.548 (41.6)
+     <sup>e</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>t
+     <sub>1/2</sub> (hr)
+    </td>
+    <td>17.56 (36.9)
+     <sup>c</sup>
+    </td>
+    <td>7.17 (35.3)
+     <sup>e</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>t
+     <sub>max</sub> (hr)
+     <sup>a</sup>
+    </td>
+    <td>2.48 (1.52, 5.90)</td>
+    <td>2.37 (1.92, 6.88)</td>
+   </tr>
+   <tr>
+    <td>V
+     <sub>ss</sub> (L)
+    </td>
+    <td>5.37 (42.4)
+     <sup>c</sup>
+    </td>
+    <td>4.13 (51.5)
+     <sup>e</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>R (AUC)</td>
+    <td>NA</td>
+    <td>1.10 (27.3)
+     <sup>d</sup>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>Abbreviations: AUC</italic>
+   <sub>
+    <italic>(0-last)</italic>
+   </sub> area under the serum concentration-time curve from time 0 to the time of the last measurable concentration, 
+   <italic>AUC</italic>
+   <sub>
+    <italic>0–24</italic>
+   </sub> area under the serum concentration-time curve from time 0 to 24 h, 
+   <italic>AUC</italic>
+   <sub>
+    <italic>0–∞</italic>
+   </sub> area under the serum concentration-time curve from time 0 to infinity, 
+   <italic>C</italic>
+   <sub>
+    <italic>max</italic>
+   </sub> maximum serum concentration, 
+   <italic>CL</italic> systemic clearance, 
+   <italic>CV</italic> coefficient of variation, 
+   <italic>hr.</italic> hour, 
+   <italic>L</italic> liter, 
+   <italic>mL</italic> milliliter, 
+   <italic>N</italic> overall sample size, 
+   <italic>NA</italic> not applicable, 
+   <italic>R (AUC)</italic> accumulation ratio calculated as AUC
+   <sub>0-24</sub> (Cycle 3)/AUC
+   <sub>0-24</sub> (Cycle 1), 
+   <italic>t</italic>
+   <sub>
+    <italic>1/2</italic>
+   </sub> elimination half-life, 
+   <italic>t</italic>
+   <sub>
+    <italic>max</italic>
+   </sub> time of maximum concentration, μg microgram, 
+   <italic>V</italic>
+   <sub>
+    <italic>ss</italic>
+   </sub> volume of distribution at steady-state
+  </p>
+  <p>
+   <sup>a</sup>Median (range)
+  </p>
+  <p>
+   <sup>b</sup>Although 2 other patients met the basic criteria for inclusion in the PK population (ie, having at least 75% of the PK measurements available for any particular treatment cycle data set), 2 patients were subsequently excluded from analysis. One patient received a second unplanned BTH1677 infusion on Day 2 of Cycle 1 and a second patient had a longer infusion time (5.58 h) relative to the other patients for Cycle 1/Day 1. Both of these differences were deemed to likely result in PK differences relative to other patients in Cycle 1 and were excluded
+  </p>
+  <p>
+   <sup>c</sup>N = 50
+  </p>
+  <p>
+   <sup>d</sup>
+   <italic>N</italic> = 37
+  </p>
+  <p>
+   <sup>e</sup>N = 31
+  </p>
+ </table-wrap-foot>
+</table-wrap>

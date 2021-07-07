@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Durie</surname>
+    <given-names>BG</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Bortezomib with lenalidomide and dexamethasone versus lenalidomide and dexamethasone alone in patients with newly diagnosed myeloma without intent for immediate autologous stem-cell transplant (SWOG S0777): a randomised, open-label, phase 3 trial</article-title>
+  <source>Lancet</source>
+  <year>2017</year>
+  <volume>389</volume>
+  <fpage>519</fpage>
+  <lpage>527</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(16)31594-X</pub-id>
+  <?supplied-pmid 28017406?>
+  <pub-id pub-id-type="pmid">28017406</pub-id>
+ </element-citation>
+</ref>

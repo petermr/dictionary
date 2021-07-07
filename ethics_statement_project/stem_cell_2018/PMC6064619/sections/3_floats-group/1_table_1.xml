@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>SPIRIT (Standard Protocol Items: Recommendations for Interventional Trials) diagram of enrolment, interventions and assessments for the RESTORE trial</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="3">Timepoint</th>
+    <th/>
+    <th/>
+    <th colspan="7">Study period</th>
+   </tr>
+   <tr>
+    <th>Enrolment</th>
+    <th>Baseline</th>
+    <th>Injection 1</th>
+    <th>Injection 2</th>
+    <th>Injection 3</th>
+    <th colspan="3">Post-allocation</th>
+    <th>Close-out</th>
+   </tr>
+   <tr>
+    <th>-t
+     <sub>1</sub>
+    </th>
+    <th/>
+    <th>0</th>
+    <th>1w</th>
+    <th>2w</th>
+    <th>2 m</th>
+    <th>6 m</th>
+    <th>9 m</th>
+    <th>12 m</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="10">Enrolment:</td>
+   </tr>
+   <tr>
+    <td> Eligibility screen</td>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td> Informed consent</td>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td> Allocation</td>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td colspan="10">Interventions:</td>
+   </tr>
+   <tr>
+    <td> Platelet rich plasma</td>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+    <td align="center">X</td>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td> Saline</td>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+    <td align="center">X</td>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td colspan="10">Assessments:</td>
+   </tr>
+   <tr>
+    <td colspan="10"> Primary outcomes</td>
+   </tr>
+   <tr>
+    <td>  Average overall knee pain severity</td>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+    <td align="center">X</td>
+    <td align="center">X</td>
+    <td align="center">X</td>
+   </tr>
+   <tr>
+    <td>  Medial tibial cartilage volume</td>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+   </tr>
+   <tr>
+    <td colspan="10"> Secondary outcomes</td>
+   </tr>
+   <tr>
+    <td>  Walking pain severity</td>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+   </tr>
+   <tr>
+    <td>  KOOS</td>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>  ICOAP</td>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>  Participant global ratings of change</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+   </tr>
+   <tr>
+    <td>  AQoL-8D</td>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+    <td align="center">X</td>
+    <td align="center">X</td>
+    <td align="center">X</td>
+   </tr>
+   <tr>
+    <td>  MOAKS sub-scores</td>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+   </tr>
+   <tr>
+    <td>  BML and cartilage defects score</td>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+   </tr>
+   <tr>
+    <td colspan="10"> Other measures</td>
+   </tr>
+   <tr>
+    <td>  Drug/supplement use</td>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+   </tr>
+   <tr>
+    <td>  Cytokines and growth factors</td>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+    <td align="center">X</td>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>  Number of injections</td>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+    <td align="center">X</td>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>  Adverse events, co-interventions</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+   </tr>
+   <tr>
+    <td>  Success of blinding</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td colspan="10"> Descriptive measures</td>
+   </tr>
+   <tr>
+    <td>  Weight, height, BMI</td>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+   </tr>
+   <tr>
+    <td>  Age, gender, symptom duration, x-ray severity, knee alignment, employment, symptom laterality, other symptoms, treatment expectation, PainDETECT, PASE, knee effusion</td>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td colspan="10"> Health economic data</td>
+   </tr>
+   <tr>
+    <td>  QALYs, cost-effectiveness ratio, WHOHPQ</td>
+    <td/>
+    <td align="center">X</td>
+    <td/>
+    <td/>
+    <td/>
+    <td align="center">X</td>
+    <td align="center">X</td>
+    <td align="center">X</td>
+    <td align="center">X</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>ICOAP</italic> Intermittent and Constant Osteoarthritis Pain, 
+   <italic>KOOS</italic> Knee Injury and Osteoarthritis Outcome Score, 
+   <italic>AQOL-8D</italic> Assessment of Quality of Life Instrument (8D version), 
+   <italic>MOAKS</italic> Magnetic resonance imaging OA Knee Score, 
+   <italic>BMI</italic> Body mass index, 
+   <italic>PASE</italic> Physical Activity Scale for the Elderly, 
+   <italic>QALYs</italic> Quality Adjusted Life Years, 
+   <italic>WHO HPQ</italic> World Health Organisation Health Performance Questionnaire
+  </p>
+ </table-wrap-foot>
+</table-wrap>

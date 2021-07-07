@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab4">
+ <label>Table 4</label>
+ <caption>
+  <p>Overview of safety outcomes (Safety population)</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Adverse events (AEs), n (%)</th>
+    <th>BTH1677/
+     <break/>Bevacizumab/
+     <break/>Carboplatin/Paclitaxel
+     <break/>(
+     <italic>N</italic> = 59)
+    </th>
+    <th>Bevacizumab/
+     <break/>Carboplatin/
+     <break/>Paclitaxel
+     <break/>(
+     <italic>N</italic> = 30)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Any AE</td>
+    <td>58 (98.3)</td>
+    <td>30 (100.0)</td>
+   </tr>
+   <tr>
+    <td>NCI/CTCAE Grade 3 or 4 AEs</td>
+    <td>55 (93.2)</td>
+    <td>20 (66.7)</td>
+   </tr>
+   <tr>
+    <td>Serious AEs</td>
+    <td>24 (40.7)</td>
+    <td>13 (43.3)</td>
+   </tr>
+   <tr>
+    <td>BTH1677-related AEs</td>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>Probably related</td>
+    <td>13 (22.0)</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td>Possibly related</td>
+    <td>17 (28.8)</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td>AEs leading to discontinuation</td>
+    <td>21 (35.6)</td>
+    <td>12 (40.0)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>Abbreviations: AE</italic> adverse events, 
+   <italic>N</italic> overall sample size, 
+   <italic>n</italic> number of patients, 
+   <italic>NA</italic> not applicable, 
+   <italic>NCI/CTCAE</italic> National Cancer Institute Common Terminology Criteria for Adverse Events
+  </p>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kebir</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Ifergan</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Alvarez</surname>
+    <given-names>JI</given-names>
+   </name>
+   <name>
+    <surname>Bernard</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Poirier</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Arbour</surname>
+    <given-names>N</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Preferential recruitment of interferon-gamma-expressing TH17 cells in multiple sclerosis</article-title>. 
+  <source>Ann Neurol</source> (
+  <year>2009</year>) 
+  <volume>66</volume>:
+  <fpage>390</fpage>–
+  <lpage>402</lpage>.
+  <pub-id pub-id-type="doi">10.1002/ana.21748</pub-id>
+  <?supplied-pmid 19810097?>
+  <pub-id pub-id-type="pmid">19810097</pub-id>
+ </mixed-citation>
+</ref>

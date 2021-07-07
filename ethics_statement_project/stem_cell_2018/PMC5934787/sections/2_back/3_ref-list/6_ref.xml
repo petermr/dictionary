@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hill</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Zalos</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Halcox</surname>
+    <given-names>JPJ</given-names>
+   </name>
+   <name>
+    <surname>Schenke</surname>
+    <given-names>WH</given-names>
+   </name>
+   <name>
+    <surname>Waclawiw</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Quyyumi</surname>
+    <given-names>AA</given-names>
+   </name>
+   <name>
+    <surname>Finkel</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>Circulating endothelial progenitor cells, vascular function, and cardiovascular risk</article-title>
+  <source>N Engl J Med</source>
+  <year>2003</year>
+  <volume>348</volume>
+  <fpage>593</fpage>
+  <lpage>600</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa022287</pub-id>
+  <?supplied-pmid 12584367?>
+  <pub-id pub-id-type="pmid">12584367</pub-id>
+ </element-citation>
+</ref>

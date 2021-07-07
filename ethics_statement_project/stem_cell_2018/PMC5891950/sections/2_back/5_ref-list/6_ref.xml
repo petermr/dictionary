@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zeira</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Asiag</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Aralla</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Ghezzi</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Pettinari</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Martinelli</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Adult autologous mesenchymal stem cells for the treatment of suspected non-infectious inflammatory diseases of the canine central nervous system: safety, feasibility and preliminary clinical findings</article-title>
+  <source>J Neuroinflammation</source>
+  <year>2015</year>
+  <volume>12</volume>
+  <fpage>181</fpage>
+  <pub-id pub-id-type="doi">10.1186/s12974-015-0402-9</pub-id>
+  <?supplied-pmid 26415563?>
+  <pub-id pub-id-type="pmid">26415563</pub-id>
+ </element-citation>
+</ref>

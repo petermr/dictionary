@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B30">
+ <label>30</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bielekova</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Catalfamo</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Reichert-Scrivner</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Packer</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Cerna</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Waldmann</surname>
+    <given-names>TA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Regulatory CD56(bright) natural killer cells mediate immunomodulatory effects of IL-2Ralpha-targeted therapy (daclizumab) in multiple sclerosis</article-title>. 
+  <source>Proc Natl Acad Sci U S A</source> (
+  <year>2006</year>) 
+  <volume>103</volume>:
+  <fpage>5941</fpage>–
+  <lpage>6</lpage>.
+  <pub-id pub-id-type="doi">10.1073/pnas.0601335103</pub-id>
+  <?supplied-pmid 16585503?>
+  <pub-id pub-id-type="pmid">16585503</pub-id>
+ </mixed-citation>
+</ref>

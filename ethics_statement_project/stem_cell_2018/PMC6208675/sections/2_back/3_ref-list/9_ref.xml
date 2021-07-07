@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Child</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Morgan</surname>
+    <given-names>GJ</given-names>
+   </name>
+   <name>
+    <surname>Davies</surname>
+    <given-names>FE</given-names>
+   </name>
+   <name>
+    <surname>Owen</surname>
+    <given-names>RG</given-names>
+   </name>
+   <name>
+    <surname>Bell</surname>
+    <given-names>SE</given-names>
+   </name>
+   <name>
+    <surname>Hawkins</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Brown</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Drayson</surname>
+    <given-names>MT</given-names>
+   </name>
+   <name>
+    <surname>Selby</surname>
+    <given-names>PJ</given-names>
+   </name>
+   <collab>Medical Research Council Adult Leukaemia Working P</collab>
+  </person-group>
+  <article-title>High-dose chemotherapy with hematopoietic stem-cell rescue for multiple myeloma</article-title>
+  <source>N Engl J Med</source>
+  <year>2003</year>
+  <volume>348</volume>
+  <issue>19</issue>
+  <fpage>1875</fpage>
+  <lpage>1883</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa022340</pub-id>
+  <pub-id pub-id-type="pmid">12736280</pub-id>
+ </element-citation>
+</ref>

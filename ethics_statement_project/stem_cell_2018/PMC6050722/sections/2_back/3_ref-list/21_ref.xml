@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rowland</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Miners</surname>
+    <given-names>JO</given-names>
+   </name>
+   <name>
+    <surname>Mackenzie</surname>
+    <given-names>PI</given-names>
+   </name>
+  </person-group>
+  <article-title>The UDP-glucuronosyltransferases: their role in drug metabolism and detoxification</article-title>
+  <source>Int J Biochem Cell Biol</source>
+  <year>2013</year>
+  <volume>45</volume>
+  <fpage>1121</fpage>
+  <lpage>1132</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.biocel.2013.02.019</pub-id>
+  <?supplied-pmid 23500526?>
+  <pub-id pub-id-type="pmid">23500526</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B25">
+ <label>25</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cimini</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Bordoni</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Sacchi</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Visco-Comandini</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Montalbano</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Taibi</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Intrahepatic Vgamma9Vdelta2 T-cells from HCV-infected patients show an exhausted phenotype but can inhibit HCV replication</article-title>. 
+  <source>Virus Res</source> (
+  <year>2018</year>) 
+  <volume>243</volume>:
+  <fpage>31</fpage>–
+  <lpage>5</lpage>.
+  <pub-id pub-id-type="doi">10.1016/j.virusres.2017.10.008</pub-id>
+  <pub-id pub-id-type="pmid">29029951</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0027">
+ <label>27.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Brudno</surname>
+    <given-names>JN</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Kochenderfer</surname>
+    <given-names>JN</given-names>
+   </name>
+  </person-group>
+  <article-title>Toxicities of chimeric antigen receptor T cells: recognition and management</article-title>. 
+  <source>Blood</source>
+  <year>2016</year>; 
+  <volume>127</volume>:
+  <fpage>3321</fpage>–
+  <lpage>30</lpage>.
+  <pub-id pub-id-type="pmid">27207799</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>De Korte</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Curvers</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>De Kort</surname>
+    <given-names>WL</given-names>
+   </name>
+   <name>
+    <surname>Hoekstra</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Van Der Poel</surname>
+    <given-names>CL</given-names>
+   </name>
+   <name>
+    <surname>Beckers</surname>
+    <given-names>EA</given-names>
+   </name>
+   <name>
+    <surname>Marcelis</surname>
+    <given-names>JH</given-names>
+   </name>
+  </person-group>
+  <article-title>Effects of skin disinfection method, deviation bag, and bacterial screening on clinical safety of platelet transfusions in the Netherlands</article-title>
+  <source>Transfusion.</source>
+  <year>2006</year>
+  <volume>46</volume>
+  <fpage>476</fpage>
+  <lpage>485</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1537-2995.2006.00746.x</pub-id>
+  <?supplied-pmid 16533293?>
+  <pub-id pub-id-type="pmid">16533293</pub-id>
+ </element-citation>
+</ref>

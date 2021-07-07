@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R5">
+ <label>5.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Maffulli</surname>
+    <given-names>N</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Regine</surname>
+    <given-names>R</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Angelillo</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Ultrasound diagnosis of Achilles tendon pathology in runners</article-title>. 
+  <source>Br J Sports Med</source>
+  <year>1987</year>;
+  <volume>21</volume>:
+  <fpage>158</fpage>–
+  <lpage>62</lpage>. 
+  <pub-id pub-id-type="doi">10.1136/bjsm.21.4.158</pub-id>
+  <pub-id pub-id-type="pmid">3325127</pub-id>
+ </mixed-citation>
+</ref>

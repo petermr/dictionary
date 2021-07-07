@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wilhelm</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>de Graaf</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Veldkamp</surname>
+    <given-names>AI</given-names>
+   </name>
+   <name>
+    <surname>Janssen</surname>
+    <given-names>JJWM</given-names>
+   </name>
+   <name>
+    <surname>Huijgens</surname>
+    <given-names>PC</given-names>
+   </name>
+   <name>
+    <surname>Swart</surname>
+    <given-names>EL</given-names>
+   </name>
+  </person-group>
+  <article-title>Population pharmacokinetics of ciclosporin in haematopoietic allogeneic stem cell transplantation with emphasis on limited sampling strategy</article-title>
+  <source>Br J Clin Pharmacol.</source>
+  <year>2012</year>
+  <volume>73</volume>
+  <fpage>553</fpage>
+  <lpage>563</lpage>
+  <?supplied-pmid 21988410?>
+  <pub-id pub-id-type="pmid">21988410</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B23">
+ <label>23</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Miller</surname>
+    <given-names>HK</given-names>
+   </name>
+   <name>
+    <surname>Braun</surname>
+    <given-names>TM</given-names>
+   </name>
+   <name>
+    <surname>Stillwell</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Harris</surname>
+    <given-names>AC</given-names>
+   </name>
+   <name>
+    <surname>Choi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Connelly</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Infectious risk after allogeneic hematopoietic cell transplantation complicated by acute graft-versus-host disease</article-title>. 
+  <source>Biol Blood Marrow Transplant</source> (
+  <year>2017</year>) 
+  <volume>23</volume>(
+  <issue>3</issue>):
+  <fpage>522</fpage>–
+  <lpage>8</lpage>.
+  <pub-id pub-id-type="doi">10.1016/j.bbmt.2016.12.630</pub-id>
+  <?supplied-pmid 28017733?>
+  <pub-id pub-id-type="pmid">28017733</pub-id>
+ </mixed-citation>
+</ref>

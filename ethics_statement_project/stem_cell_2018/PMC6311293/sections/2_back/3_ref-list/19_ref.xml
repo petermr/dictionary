@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B20">
+ <label>20</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ma</surname>
+    <given-names>T. M.</given-names>
+   </name>
+   <name>
+    <surname>Grimm</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>McIntyre</surname>
+    <given-names>R.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A prospective evaluation of hippocampal radiation dose volume effects and memory deficits following cranial irradiation</article-title>
+  <source>
+   <italic toggle="yes">Radiotherapy &amp; Oncology</italic>
+  </source>
+  <year>2017</year>
+  <volume>125</volume>
+  <issue>2</issue>
+  <fpage>234</fpage>
+  <lpage>240</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.radonc.2017.09.035</pub-id>
+  <pub-id pub-id-type="pmid">29128167</pub-id>
+ </element-citation>
+</ref>

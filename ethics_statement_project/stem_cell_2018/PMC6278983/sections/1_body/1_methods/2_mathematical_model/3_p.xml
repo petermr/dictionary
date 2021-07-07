@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In contrast to previous models,
+ <sup>
+  <xref rid="b5-1031825" ref-type="bibr">5</xref>,
+  <xref rid="b17-1031825" ref-type="bibr">17</xref>
+ </sup> competition between normal cells and LCs is described only implicitly, by assuming constant total cell numbers, 
+ <italic>T
+  <sub>Y</sub>
+ </italic>, 
+ <italic>T
+  <sub>X</sub>
+ </italic>, 
+ <italic>T
+  <sub>W</sub>
+ </italic> in each cell compartment (
+ <xref ref-type="fig" rid="f1-1031825">Figure 1D</xref>, 
+ <italic>Online Supplementary Text S1</italic> and 
+ <italic>Online Supplementary Figure S2</italic> complementing 
+ <xref ref-type="fig" rid="f1-1031825">Figure 1C</xref> on the level of absolute cell numbers). The actual tumor load, corresponding to 
+ <italic>BCR-ABL1</italic> levels, is modeled as the percentage of LCs with respect to the total cell number. 
+ <xref ref-type="fig" rid="f1-1031825">Figure 1C</xref> demonstrates that the modeled 
+ <italic>BCR-ABL1</italic> levels of proliferating LSCs behave exactly like the 
+ <italic>BCR-ABL1</italic> levels in the peripheral blood (PB). Therefore, only the dynamics of proliferating LSCs will be considered.
+</p>

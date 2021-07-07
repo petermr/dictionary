@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rask-Madsen</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>King</surname>
+    <given-names>GL</given-names>
+   </name>
+  </person-group>
+  <article-title>Mechanisms of disease: endothelial dysfunction in insulin resistance and diabetes</article-title>
+  <source>Nat Clin Pract Endocrinol Metab</source>
+  <year>2007</year>
+  <volume>3</volume>
+  <fpage>46</fpage>
+  <lpage>56</lpage>
+  <pub-id pub-id-type="doi">10.1038/ncpendmet0366</pub-id>
+  <?supplied-pmid 17179929?>
+  <pub-id pub-id-type="pmid">17179929</pub-id>
+ </element-citation>
+</ref>

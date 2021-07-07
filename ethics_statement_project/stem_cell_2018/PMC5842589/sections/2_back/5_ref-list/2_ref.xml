@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Morgan</surname>
+    <given-names>GJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cyclophosphamide, thalidomide, and dexamethasone (CTD) as initial therapy for patients with multiple myeloma unsuitable for autologous transplantation</article-title>
+  <source>Blood</source>
+  <year>2011</year>
+  <volume>118</volume>
+  <issue>5</issue>
+  <fpage>1231</fpage>
+  <lpage>1238</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2011-02-338665</pub-id>
+  <?supplied-pmid 21652683?>
+  <pub-id pub-id-type="pmid">21652683</pub-id>
+ </element-citation>
+</ref>

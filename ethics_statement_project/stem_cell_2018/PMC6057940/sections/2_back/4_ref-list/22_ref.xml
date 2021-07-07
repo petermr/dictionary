@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Keikhosravi</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Bredfeldt</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Sagar</surname>
+    <given-names>AK</given-names>
+   </name>
+   <name>
+    <surname>Eliceiri</surname>
+    <given-names>KW</given-names>
+   </name>
+  </person-group>
+  <article-title>Second-harmonic generation imaging of cancer</article-title>
+  <source>Methods Cell Biol.</source>
+  <year>2014</year>
+  <volume>123</volume>
+  <fpage>531</fpage>
+  <lpage>546</lpage>
+  <pub-id pub-id-type="doi">10.1016/B978-0-12-420138-5.00028-8</pub-id>
+  <?supplied-pmid 24974046?>
+  <pub-id pub-id-type="pmid">24974046</pub-id>
+ </element-citation>
+</ref>

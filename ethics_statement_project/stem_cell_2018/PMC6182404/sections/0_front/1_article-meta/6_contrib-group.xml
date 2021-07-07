@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>van de Loosdrecht</surname>
+   <given-names>Arjan A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>van Wetering</surname>
+   <given-names>Sandra</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Santegoets</surname>
+   <given-names>Saskia J. A. M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Singh</surname>
+   <given-names>Satwinder Kaur</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Eeltink</surname>
+   <given-names>Corien M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>den Hartog</surname>
+   <given-names>Yvonne</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Koppes</surname>
+   <given-names>Malika</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kaspers</surname>
+   <given-names>Jorn</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ossenkoppele</surname>
+   <given-names>Gert J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kruisbeek</surname>
+   <given-names>Ada M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>de Gruijl</surname>
+   <given-names>Tanja D.</given-names>
+  </name>
+  <address>
+   <phone>+ 31204444063</phone>
+   <email>td.degruijl@vumc.nl</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0435 165X</institution-id>
+   <institution-id institution-id-type="GRID">grid.16872.3a</institution-id>
+   <institution>Department of Hematology, </institution>
+   <institution>VU University Medical Center, Cancer Center Amsterdam, </institution>
+  </institution-wrap>De Boelelaan 1117, 1081 HV Amsterdam, The Netherlands 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>DCPrime BV, Galileiweg 8, 2333 BD Leiden, The Netherlands 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0435 165X</institution-id>
+   <institution-id institution-id-type="GRID">grid.16872.3a</institution-id>
+   <institution>Department of Medical Oncology, </institution>
+   <institution>VU University Medical Center, Cancer Center Amsterdam, </institution>
+  </institution-wrap>De Boelelaan 1117, 1081 HV Amsterdam, The Netherlands 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000089452978</institution-id>
+   <institution-id institution-id-type="GRID">grid.10419.3d</institution-id>
+   <institution>Department of Medical Oncology, </institution>
+   <institution>Leiden University Medical Center, </institution>
+  </institution-wrap>Leiden, The Netherlands 
+ </aff>
+</contrib-group>

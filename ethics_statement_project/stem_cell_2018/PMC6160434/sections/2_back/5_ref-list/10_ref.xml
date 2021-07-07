@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>London</surname>
+    <given-names>WB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Historical time to disease progression and progression-free survival in patients with recurrent/refractory neuroblastoma treated in the modern era on Children’s Oncology Group early-phase trials</article-title>
+  <source>Cancer</source>
+  <year>2017</year>
+  <volume>123</volume>
+  <fpage>4914</fpage>
+  <lpage>4923</lpage>
+  <pub-id pub-id-type="doi">10.1002/cncr.30934</pub-id>
+  <?supplied-pmid 28885700?>
+  <pub-id pub-id-type="pmid">28885700</pub-id>
+ </element-citation>
+</ref>

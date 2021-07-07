@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par124">Patients enrolled in this study and treated with the investigational drug at least one session are regarded as a full analysis set (FAS). However, patients who were shown to violate the study protocol or GCP after enrollment and those who were considered ineligible after enrollment should be excluded from FAS. Safety analysis set is defined as patients enrolled in this study and treated with the investigational drug at least one session. DLT analysis set is defined as the following subjects:
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par125">Subjects with ≥1 DLT during the DLT assessment period (from initial administration until administration in Cycle 2)</p>
+  </list-item>
+ </list>or
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par126">Those to whom an established dose of SGN-35 was administered in Cycle 1, and in whom observation for DLT assessment was completed.</p>
+  </list-item>
+ </list>
+</p>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0015">
+ <label>15.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Stevens</surname>
+    <given-names>DL</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Bisno</surname>
+    <given-names>AL</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Chambers</surname>
+    <given-names>HF</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>; 
+  <person-group person-group-type="author">
+   <collab>Infectious Diseases Society of America</collab>
+  </person-group>
+  <article-title>Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America</article-title>. 
+  <source>Clin Infect Dis</source>
+  <year>2014</year>; 
+  <volume>59</volume>:
+  <fpage>e10</fpage>–
+  <lpage>52</lpage>.
+  <pub-id pub-id-type="pmid">24973422</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Moreau</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Subcutaneous versus intravenous administration of bortezomib in patients with relapsed multiple myeloma: a randomised, phase 3, non-inferiority study</article-title>
+  <source>Lancet Oncol.</source>
+  <year>2011</year>
+  <volume>12</volume>
+  <fpage>431</fpage>
+  <lpage>440</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(11)70081-X</pub-id>
+  <?supplied-pmid 21507715?>
+  <pub-id pub-id-type="pmid">21507715</pub-id>
+ </element-citation>
+</ref>

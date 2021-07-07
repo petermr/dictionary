@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="table4-0963689718820271" orientation="portrait" position="float">
+ <label>Table 4.</label>
+ <caption>
+  <p>PD Staging on the Hoehn and Yahr Scale and Activities of Daily Living Scores on the Schwab and England Scale.</p>
+ </caption>
+ <alternatives>
+  <graphic xlink:href="10.1177_0963689718820271-table4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <thead>
+    <tr>
+     <th rowspan="1" colspan="1"/>
+     <th rowspan="1" colspan="1">Patient/Time</th>
+     <th rowspan="1" colspan="1">1</th>
+     <th rowspan="1" colspan="1">2</th>
+     <th rowspan="1" colspan="1">3</th>
+     <th rowspan="1" colspan="1">4</th>
+     <th rowspan="1" colspan="1">5</th>
+     <th rowspan="1" colspan="1">6</th>
+     <th rowspan="1" colspan="1">7</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td rowspan="4" colspan="1">PD Staging</td>
+     <td rowspan="1" colspan="1">Baseline</td>
+     <td rowspan="1" colspan="1">1</td>
+     <td rowspan="1" colspan="1">2</td>
+     <td rowspan="1" colspan="1">3</td>
+     <td rowspan="1" colspan="1">1</td>
+     <td rowspan="1" colspan="1">2</td>
+     <td rowspan="1" colspan="1">2</td>
+     <td rowspan="1" colspan="1">2.5</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">1 year</td>
+     <td rowspan="1" colspan="1">2.5</td>
+     <td rowspan="1" colspan="1">2</td>
+     <td rowspan="1" colspan="1">1</td>
+     <td rowspan="1" colspan="1">1</td>
+     <td rowspan="1" colspan="1">2</td>
+     <td rowspan="1" colspan="1">2</td>
+     <td rowspan="1" colspan="1">2</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">2 years</td>
+     <td rowspan="1" colspan="1">3</td>
+     <td rowspan="1" colspan="1">2</td>
+     <td rowspan="1" colspan="1">2</td>
+     <td rowspan="1" colspan="1">1</td>
+     <td rowspan="1" colspan="1">3</td>
+     <td rowspan="1" colspan="1">2</td>
+     <td rowspan="1" colspan="1">2.5</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">4 years</td>
+     <td rowspan="1" colspan="1">3</td>
+     <td rowspan="1" colspan="1">2</td>
+     <td rowspan="1" colspan="1">2</td>
+     <td rowspan="1" colspan="1">1</td>
+     <td rowspan="1" colspan="1">3</td>
+     <td rowspan="1" colspan="1">2</td>
+     <td rowspan="1" colspan="1">2.5</td>
+    </tr>
+    <tr>
+     <td rowspan="4" colspan="1">Activities of daily living,
+      <break/> OFF/ON, %
+     </td>
+     <td rowspan="1" colspan="1">Baseline</td>
+     <td rowspan="1" colspan="1">80/-</td>
+     <td rowspan="1" colspan="1">90/-</td>
+     <td rowspan="1" colspan="1">80/-</td>
+     <td rowspan="1" colspan="1">90/100</td>
+     <td rowspan="1" colspan="1">60/-</td>
+     <td rowspan="1" colspan="1">90/-</td>
+     <td rowspan="1" colspan="1">80/90</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">1 year</td>
+     <td rowspan="1" colspan="1">50/90</td>
+     <td rowspan="1" colspan="1">80/100</td>
+     <td rowspan="1" colspan="1">90/90</td>
+     <td rowspan="1" colspan="1">90/100</td>
+     <td rowspan="1" colspan="1">60/90</td>
+     <td rowspan="1" colspan="1">90/100</td>
+     <td rowspan="1" colspan="1">80/100</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">2 years</td>
+     <td rowspan="1" colspan="1">50/90</td>
+     <td rowspan="1" colspan="1">80/90</td>
+     <td rowspan="1" colspan="1">90/90</td>
+     <td rowspan="1" colspan="1">90/100</td>
+     <td rowspan="1" colspan="1">70/80</td>
+     <td rowspan="1" colspan="1">100/100</td>
+     <td rowspan="1" colspan="1">80/90</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">4 years</td>
+     <td rowspan="1" colspan="1">40/80</td>
+     <td rowspan="1" colspan="1">80/90</td>
+     <td rowspan="1" colspan="1">80/80</td>
+     <td rowspan="1" colspan="1">80/100</td>
+     <td rowspan="1" colspan="1">60/60</td>
+     <td rowspan="1" colspan="1">90/100</td>
+     <td rowspan="1" colspan="1">80/80</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <fn id="table-fn3-0963689718820271">
+   <p>PD Staging: Hoehn and Yahr scale, lower scores signify better PD condition; Activities of daily living: Schwab and England scale, higher % scores signify enhanced performance of daily living activities. ON scores were not obtained at baseline in 5/7 cases. The table demonstrates absence of significant changes with exception of P1.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

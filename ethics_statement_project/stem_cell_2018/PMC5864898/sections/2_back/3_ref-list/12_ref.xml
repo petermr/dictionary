@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Luoma</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Castro</surname>
+    <given-names>CD</given-names>
+   </name>
+   <name>
+    <surname>Mayassi</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Bembinster</surname>
+    <given-names>LA</given-names>
+   </name>
+   <name>
+    <surname>Bai</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Picard</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Crystal structure of Vdelta1 T cell receptor in complex with CD1d-sulfatide shows MHC-like recognition of a self-lipid by human gammadelta T cells</article-title>. 
+  <source>Immunity</source> (
+  <year>2013</year>) 
+  <volume>39</volume>:
+  <fpage>1032</fpage>–
+  <lpage>42</lpage>.
+  <pub-id pub-id-type="doi">10.1016/j.immuni.2013.11.001</pub-id>
+  <pub-id pub-id-type="pmid">24239091</pub-id>
+ </mixed-citation>
+</ref>

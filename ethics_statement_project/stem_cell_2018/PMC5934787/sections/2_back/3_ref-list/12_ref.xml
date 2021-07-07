@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fadini</surname>
+    <given-names>GP</given-names>
+   </name>
+   <name>
+    <surname>Boscaro</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Albiero</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Menegazzo</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Frison</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>de Kreutzenberg</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Agostini</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Tiengo</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Avogaro</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>The oral dipeptidyl peptidase-4 inhibitor sitagliptin increases circulating endothelial progenitor cells in patients with type 2 diabetes: possible role of stromal-derived factor-1alpha</article-title>
+  <source>Diabetes Care</source>
+  <year>2010</year>
+  <volume>33</volume>
+  <fpage>1607</fpage>
+  <lpage>1609</lpage>
+  <pub-id pub-id-type="doi">10.2337/dc10-0187</pub-id>
+  <?supplied-pmid 20357375?>
+  <pub-id pub-id-type="pmid">20357375</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B50">
+ <label>50</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zingoni</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Sornasse</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Cocks</surname>
+    <given-names>BG</given-names>
+   </name>
+   <name>
+    <surname>Tanaka</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Santoni</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Lanier</surname>
+    <given-names>LL</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Cross-talk between activated human NK cells and CD4+ T cells via OX40-OX40 ligand interactions</article-title>. 
+  <source>J Immunol</source> (
+  <year>2004</year>) 
+  <volume>173</volume>:
+  <fpage>3716</fpage>–
+  <lpage>24</lpage>.
+  <pub-id pub-id-type="doi">10.4049/jimmunol.173.6.3716</pub-id>
+  <?supplied-pmid 15356117?>
+  <pub-id pub-id-type="pmid">15356117</pub-id>
+ </mixed-citation>
+</ref>

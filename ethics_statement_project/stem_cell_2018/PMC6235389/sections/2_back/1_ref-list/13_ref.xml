@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Xia</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Quivey</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Sultanem</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Poon</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Akazawa</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Intensity-modulated radiotherapy in the treatment of nasopharyngeal carcinoma: an update of the UCSF experience</article-title>
+  <source>Int J Radiat Oncol Biol Phys</source>
+  <year>2002</year>
+  <volume>53</volume>
+  <issue>1</issue>
+  <fpage>12</fpage>
+  <lpage>22</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0360-3016(02)02724-4</pub-id>
+  <pub-id pub-id-type="pmid">12007936</pub-id>
+ </element-citation>
+</ref>

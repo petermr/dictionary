@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B24">
+ <label>24</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gross</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Schulte-Mecklenbeck</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Runzi</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Kuhlmann</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Posevitz-Fejfar</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Schwab</surname>
+    <given-names>N</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Impaired NK-mediated regulation of T-cell activity in multiple sclerosis is reconstituted by IL-2 receptor modulation</article-title>. 
+  <source>Proc Natl Acad Sci U S A</source> (
+  <year>2016</year>) 
+  <volume>113</volume>:
+  <fpage>E2973</fpage>–
+  <lpage>82</lpage>.
+  <pub-id pub-id-type="doi">10.1073/pnas.1524924113</pub-id>
+  <?supplied-pmid 27162345?>
+  <pub-id pub-id-type="pmid">27162345</pub-id>
+ </mixed-citation>
+</ref>

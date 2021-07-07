@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Smith</surname>
+    <given-names>DH</given-names>
+   </name>
+   <name>
+    <surname>Meaney</surname>
+    <given-names>DF</given-names>
+   </name>
+   <name>
+    <surname>Shull</surname>
+    <given-names>WH</given-names>
+   </name>
+  </person-group>
+  <article-title>Diffuse axonal injury in head trauma</article-title>
+  <source>J Head Trauma Rehabil</source>
+  <year>2003</year>
+  <volume>18</volume>
+  <issue>4</issue>
+  <fpage>307</fpage>
+  <lpage>316</lpage>
+  <pub-id pub-id-type="doi">10.1097/00001199-200307000-00003</pub-id>
+  <?supplied-pmid 16222127?>
+  <pub-id pub-id-type="pmid">16222127</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Forde</surname>
+    <given-names>PM</given-names>
+   </name>
+   <name>
+    <surname>Reiss</surname>
+    <given-names>KA</given-names>
+   </name>
+   <name>
+    <surname>Zeidan</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Brahmer</surname>
+    <given-names>JR</given-names>
+   </name>
+  </person-group>
+  <article-title>What lies within: novel strategies in immunotherapy for non-small cell lung cancer</article-title>
+  <source>Oncologist</source>
+  <year>2013</year>
+  <volume>18</volume>
+  <fpage>1203</fpage>
+  <lpage>1213</lpage>
+  <pub-id pub-id-type="doi">10.1634/theoncologist.2013-0171</pub-id>
+  <?supplied-pmid 24105749?>
+  <pub-id pub-id-type="pmid">24105749</pub-id>
+ </element-citation>
+</ref>

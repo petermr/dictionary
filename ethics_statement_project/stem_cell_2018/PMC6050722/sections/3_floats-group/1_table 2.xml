@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Comparison of CR rate among 
+   <italic>UGT1A1</italic> genotypes after 2 courses of Ara-C based chemotherapy
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">SNP</th>
+    <th align="left">Genotype</th>
+    <th align="left">Total, n</th>
+    <th align="left">CR, n (%)</th>
+    <th align="left">Non-CR, n (%)</th>
+    <th align="left">OR (95% CI)</th>
+    <th align="left">
+     <italic>P</italic> value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="4">
+     <italic>UGT1A1*6</italic>
+    </td>
+    <td align="left">
+     <italic>*1/*1</italic>
+    </td>
+    <td char="." align="char">471</td>
+    <td char="(" align="char">315 (66.9)</td>
+    <td char="(" align="char">156 (33.1)</td>
+    <td align="left">1.00 (reference)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">
+     <italic>*1/*6</italic>
+    </td>
+    <td char="." align="char">202</td>
+    <td char="(" align="char">155 (76.7)</td>
+    <td char="(" align="char">47 (23.3)</td>
+    <td align="left">0.612 (0.419–0.894)</td>
+    <td align="left">0.011</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <italic>*6/*6</italic>
+    </td>
+    <td char="." align="char">24</td>
+    <td char="(" align="char">19 (79.2)</td>
+    <td char="(" align="char">5 (20.8)</td>
+    <td align="left">0.531 (0.195–1.450)</td>
+    <td align="left">0.353</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <italic>*6/</italic>−
+    </td>
+    <td char="." align="char">226</td>
+    <td char="(" align="char">174 (77.0)</td>
+    <td char="(" align="char">52 (23.0)</td>
+    <td align="left">0.604 (0.419–0.869)</td>
+    <td align="left">0.007</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="4">
+     <italic>UGT1A1*28</italic>
+    </td>
+    <td align="left">
+     <italic>*1/*1</italic>
+    </td>
+    <td char="." align="char">553</td>
+    <td char="(" align="char">379 (68.5)</td>
+    <td char="(" align="char">174 (31.5)</td>
+    <td align="left">1.00 (reference)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">
+     <italic>*1/*28</italic>
+    </td>
+    <td char="." align="char">130</td>
+    <td char="(" align="char">97 (74.6)</td>
+    <td char="(" align="char">33 (25.4)</td>
+    <td align="left">0.741 (0.480–1.144)</td>
+    <td align="left">0.176</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <italic>*28/*28</italic>
+    </td>
+    <td char="." align="char">14</td>
+    <td char="(" align="char">13 (92.9)</td>
+    <td char="(" align="char">1 (7.1)</td>
+    <td align="left">0.168 (0.022–1.291)</td>
+    <td align="left">0.086</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <italic>*28/</italic>−
+    </td>
+    <td char="." align="char">144</td>
+    <td char="(" align="char">110 (76.4)</td>
+    <td char="(" align="char">34 (23.6)</td>
+    <td align="left">0.673 (0.440–1.029)</td>
+    <td align="left">0.068</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="5">Combined genotypes</td>
+    <td align="left">
+     <italic>*1/*1</italic> for both loci
+    </td>
+    <td char="." align="char">359</td>
+    <td char="(" align="char">229 (63.8)</td>
+    <td char="(" align="char">130 (36.2)</td>
+    <td align="left">1.00 (reference)</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">
+     <italic>*6/</italic>− alone
+    </td>
+    <td char="." align="char">194</td>
+    <td char="(" align="char">150 (77.3)</td>
+    <td char="(" align="char">44 (22.7)</td>
+    <td align="left">0.517 (0.347–0.770)</td>
+    <td align="left">0.001</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <italic>*28/</italic>− alone
+    </td>
+    <td char="." align="char">112</td>
+    <td char="(" align="char">86 (76.8)</td>
+    <td char="(" align="char">26 (23.2)</td>
+    <td align="left">0.533 (0.327–0.868)</td>
+    <td align="left">0.011</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <italic>*6/</italic>− and 
+     <italic>*28/</italic>−
+    </td>
+    <td char="." align="char">32</td>
+    <td char="(" align="char">24 (75.0)</td>
+    <td char="(" align="char">8 (25.0)</td>
+    <td align="left">0.587 (0.256–1.345)</td>
+    <td align="left">0.208</td>
+   </tr>
+   <tr>
+    <td align="left">*6/− or 
+     <italic>*28/</italic>−
+    </td>
+    <td char="." align="char">338</td>
+    <td char="(" align="char">260 (76.9)</td>
+    <td char="(" align="char">78 (23.1)</td>
+    <td align="left">0.528 (0.379–0.737)</td>
+    <td align="left">1.7 × 10
+     <sup>−4</sup>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

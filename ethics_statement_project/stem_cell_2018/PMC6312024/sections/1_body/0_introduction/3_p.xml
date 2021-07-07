@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Machine learning and clustering techniques have successfully exposed patterns in medicine, including identifying breast cancer metastases and genetically targeted therapy for acute myeloid leukemia.
+ <sup>
+  <xref rid="b11-1040189" ref-type="bibr">11</xref>–
+  <xref rid="b15-1040189" ref-type="bibr">15</xref>
+ </sup> Machine learning has the potential to find patterns in clinical data that may be missed by the human observer and traditional approaches alone.
+ <sup>
+  <xref rid="b16-1040189" ref-type="bibr">16</xref>
+ </sup> A potential advantage of machine learning approaches compared to traditional statistical approaches is that results can go beyond a preformed hypothesis allowing for discovery of novel associations and clusters.
+ <sup>
+  <xref rid="b17-1040189" ref-type="bibr">17</xref>
+ </sup> Additionally, with high-dimensional data, such as the types and grades of organ involvement in chronic GvHD, the multiple comparisons required in conventional statistics can lead to false-positives, whereas a machine learning-inspired approach allows for processing of multidimensional data.
+ <sup>
+  <xref rid="b15-1040189" ref-type="bibr">15</xref>,
+  <xref rid="b18-1040189" ref-type="bibr">18</xref>,
+  <xref rid="b19-1040189" ref-type="bibr">19</xref>
+ </sup> Furthermore, an algorithmic approach has outperformed traditional statistics in recent clinical studies.
+ <sup>
+  <xref rid="b15-1040189" ref-type="bibr">15</xref>,
+  <xref rid="b20-1040189" ref-type="bibr">20</xref>
+ </sup>
+</p>

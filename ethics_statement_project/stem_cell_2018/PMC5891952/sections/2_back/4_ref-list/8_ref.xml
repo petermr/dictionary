@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lopez</surname>
+    <given-names>PR</given-names>
+   </name>
+   <name>
+    <surname>Leicht</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Sigmon</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Stigall</surname>
+    <given-names>L</given-names>
+   </name>
+  </person-group>
+  <article-title>Bullosis diabeticorum associated with a prediabetic state</article-title>
+  <source>South Med J</source>
+  <year>2009</year>
+  <volume>102</volume>
+  <issue>6</issue>
+  <fpage>643</fpage>
+  <lpage>644</lpage>
+  <pub-id pub-id-type="doi">10.1097/SMJ.0b013e3181a506d6</pub-id>
+  <?supplied-pmid 19434030?>
+  <pub-id pub-id-type="pmid">19434030</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>The characteristics of enrolled ALL patients with extramedullary involvement</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Patient no.</th>
+    <th>Age (years)</th>
+    <th>Sex</th>
+    <th>Recurrent site</th>
+    <th>Dose*</th>
+    <th>Response</th>
+    <th>CRS</th>
+    <th>allo-HSCT</th>
+    <th>Outcome
+     <sup>#</sup>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>No.1</td>
+    <td>34</td>
+    <td>F</td>
+    <td>Breast</td>
+    <td>0.5</td>
+    <td>CR on day 46</td>
+    <td>Grade 2</td>
+    <td>No</td>
+    <td>CR</td>
+   </tr>
+   <tr>
+    <td>No.2</td>
+    <td>16</td>
+    <td>M</td>
+    <td>BM, kidney</td>
+    <td>5.0</td>
+    <td>CR on day 10</td>
+    <td>Grade 2</td>
+    <td>Yes</td>
+    <td>CR</td>
+   </tr>
+   <tr>
+    <td>No.3</td>
+    <td>20</td>
+    <td>M</td>
+    <td>CNS, pancreas, pleuroperitoneum, pelvic fascia, and LNs</td>
+    <td>10</td>
+    <td>CR on day 18</td>
+    <td>Grade 3</td>
+    <td>No</td>
+    <td>CR</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>M</italic> male, 
+   <italic>F</italic> female, 
+   <italic>CR</italic> complete remission, 
+   <italic>allo-HSCT</italic> allogeneic hematopoietic stem cell transplantation, 
+   <italic>CRS</italic> severe cytokine release syndrome, 
+   <italic>BM</italic> bone marrow, 
+   <italic>CNS</italic> central nervous system; LNs, lymph nodes
+  </p>
+  <p>*Dose at × 10
+   <sup>5</sup>cells/kg
+  </p>
+  <p>
+   <sup>#</sup>Outcome in October 2017
+  </p>
+ </table-wrap-foot>
+</table-wrap>

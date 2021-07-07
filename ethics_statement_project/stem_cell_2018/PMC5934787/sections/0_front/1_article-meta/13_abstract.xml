@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Aims</title>
+  <p id="Par1">Type 2 diabetes is associated with endothelial dysfunction leading to cardiovascular disease. CD34+ endothelial Progenitor Cells (EPCs) are responsible for endothelial repair and neo-angiogenesis and can be used as a cardiovascular disease risk biomarker. This study investigated whether the addition of saxagliptin, a DPP-IV inhibitor, to metformin, may reduce cardiovascular disease risk in addition to improving glycemic control in Type 2 diabetes patients.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par2">In 12 week, double-blind, randomized placebo-controlled trial, 42 subjects already taking metformin 1–2 grams/day were randomized to placebo or saxagliptin 5 mg. Subjects aged 40–70 years with diabetes for &lt; 10 years, with no known cardiovascular disease, BMI 25–39.9, HbA1C 6–9% were included. We evaluated EPCs number, function, surface markers and gene expression, in addition to arterial stiffness, blood biochemistries, resting energy expenditure, and body composition parameters. A mixed model regression to examine saxagliptin vs placebo, accounting for within-subject autocorrelation, was done with SAS (p &lt; 0.05).</p>
+ </sec>
+ <sec>
+  <title>Results</title>
+  <p id="Par3">Although there was no significant increase in CD34+ cell number, CD31+ cells percentage increased. Saxagliptin increased migration (in response to SDF1α) with a trend of higher colony formation count. MNCs cytometry showed higher percentage of CXCR4 double positivity for both CD34 and CD31 positive cells, indicating a functional improvement. Gene expression analysis showed an upregulation in CD34+ cells for antioxidant SOD1 (p &lt; 0.05) and a downregulation in CD34− cells for IL-6 (p &lt; 0.01). For arterial stiffness, both augmentation index and systolic blood pressure measures went down in saxagliptin subjects (p &lt; 0.05).</p>
+ </sec>
+ <sec>
+  <title>Conclusion</title>
+  <p id="Par4">Saxagliptin, in combination with metformin, can help improve endothelial dysfunction in early diabetes before macrovascular complications appear.</p>
+  <p>
+   <italic>Trial registration</italic> Trial is registered under clinicaltrials.gov, NCT02024477
+  </p>
+ </sec>
+ <sec>
+  <title>Electronic supplementary material</title>
+  <p>The online version of this article (10.1186/s12933-018-0709-9) contains supplementary material, which is available to authorized users.</p>
+ </sec>
+</abstract>

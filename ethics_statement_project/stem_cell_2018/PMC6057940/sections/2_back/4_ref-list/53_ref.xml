@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR53">
+ <label>53.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lasorella</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Benezra</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Iavarone</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>The ID proteins: master regulators of cancer stem cells and tumour aggressiveness</article-title>
+  <source>Nat. Rev. Cancer</source>
+  <year>2014</year>
+  <volume>14</volume>
+  <fpage>77</fpage>
+  <lpage>91</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrc3638</pub-id>
+  <?supplied-pmid 24442143?>
+  <pub-id pub-id-type="pmid">24442143</pub-id>
+ </element-citation>
+</ref>

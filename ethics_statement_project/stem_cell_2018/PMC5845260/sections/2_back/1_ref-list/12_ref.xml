@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>LT</given-names>
+   </name>
+   <name>
+    <surname>Ting</surname>
+    <given-names>CH</given-names>
+   </name>
+   <name>
+    <surname>Yen</surname>
+    <given-names>ML</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>KJ</given-names>
+   </name>
+   <name>
+    <surname>Sytwu</surname>
+    <given-names>HK</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>KK</given-names>
+   </name>
+   <name>
+    <surname>Yen</surname>
+    <given-names>BL</given-names>
+   </name>
+  </person-group>
+  <article-title>Human mesenchymal stem cells (MSCs) for treatment towards immune- and inflammation-mediated diseases: review of current clinical trials</article-title>
+  <source>J Biomed Sci</source>
+  <year>2016</year>
+  <volume>23</volume>
+  <fpage>76</fpage>
+  <pub-id pub-id-type="doi">10.1186/s12929-016-0289-5</pub-id>
+  <?supplied-pmid 27809910?>
+  <pub-id pub-id-type="pmid">27809910</pub-id>
+ </element-citation>
+</ref>

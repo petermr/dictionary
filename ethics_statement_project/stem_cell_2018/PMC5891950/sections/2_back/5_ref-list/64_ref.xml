@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR64">
+ <label>64.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>
+  <article-title>Mesenchymal stem cells are injured by complement after their contact with serum</article-title>
+  <source>Blood</source>
+  <year>2012</year>
+  <volume>120</volume>
+  <fpage>3436</fpage>
+  <lpage>3443</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2012-03-420612</pub-id>
+  <?supplied-pmid 22966167?>
+  <pub-id pub-id-type="pmid">22966167</pub-id>
+ </element-citation>
+</ref>

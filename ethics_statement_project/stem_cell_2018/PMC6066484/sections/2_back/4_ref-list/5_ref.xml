@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Moreau</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Proteasome inhibitors in multiple myeloma: 10 years later</article-title>
+  <source>Blood</source>
+  <year>2012</year>
+  <volume>120</volume>
+  <fpage>947</fpage>
+  <lpage>959</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2012-04-403733</pub-id>
+  <?supplied-pmid 22645181?>
+  <pub-id pub-id-type="pmid">22645181</pub-id>
+ </element-citation>
+</ref>

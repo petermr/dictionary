@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f4-1030522" position="float">
+ <label>Figure 4.</label>
+ <caption>
+  <p>Immune reconstitution outcomes. Reconstitution of (A) median of absolute CD3
+   <sup>+</sup> T-cell count/μL, and (B) median values of CD4
+   <sup>+</sup> Treg:Tcon cell ratio per treatment arm. Blue indicates arm A (tac/mtx), red indicates arm B (bort/tac/mtx), and green indicates arm C (bort/sir/tac). Treg: regulatory T cells; Tcon: conventional T cells; Tac: tacrolimus; Mtx: methotrexate; Bort: bortezomib; Sir: sirolimus; W1: week 1; W2: week 2; M: month.
+  </p>
+ </caption>
+ <graphic xlink:href="103522.fig4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

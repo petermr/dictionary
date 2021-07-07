@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gressin</surname>
+   <given-names>Rémy</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1040138">1</xref>
+  <xref ref-type="aff" rid="af2-1040138">2</xref>
+  <xref ref-type="corresp" rid="c1-1040138"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Daguindau</surname>
+   <given-names>Nicolas</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-1040138">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tempescul</surname>
+   <given-names>Adrian</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-1040138">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Moreau</surname>
+   <given-names>Anne</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-1040138">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Carras</surname>
+   <given-names>Sylvain</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-1040138">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tchernonog</surname>
+   <given-names>Emmanuelle</given-names>
+  </name>
+  <xref ref-type="aff" rid="af6-1040138">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Schmitt</surname>
+   <given-names>Anna</given-names>
+  </name>
+  <xref ref-type="aff" rid="af7-1040138">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Houot</surname>
+   <given-names>Roch</given-names>
+  </name>
+  <xref ref-type="aff" rid="af8-1040138">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dartigeas</surname>
+   <given-names>Caroline</given-names>
+  </name>
+  <xref ref-type="aff" rid="af9-1040138">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pignon</surname>
+   <given-names>Jean Michel</given-names>
+  </name>
+  <xref ref-type="aff" rid="af10-1040138">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Corm</surname>
+   <given-names>Selim</given-names>
+  </name>
+  <xref ref-type="aff" rid="af11-1040138">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Banos</surname>
+   <given-names>Anne</given-names>
+  </name>
+  <xref ref-type="aff" rid="af12-1040138">12</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mounier</surname>
+   <given-names>Christiane</given-names>
+  </name>
+  <xref ref-type="aff" rid="af13-1040138">13</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dupuis</surname>
+   <given-names>Jehan</given-names>
+  </name>
+  <xref ref-type="aff" rid="af14-1040138">14</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Macro</surname>
+   <given-names>Margaret</given-names>
+  </name>
+  <xref ref-type="aff" rid="af15-1040138">15</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fleury</surname>
+   <given-names>Joel</given-names>
+  </name>
+  <xref ref-type="aff" rid="af16-1040138">16</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jardin</surname>
+   <given-names>Fabrice</given-names>
+  </name>
+  <xref ref-type="aff" rid="af17-1040138">17</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sarkozy</surname>
+   <given-names>Clementine</given-names>
+  </name>
+  <xref ref-type="aff" rid="af18-1040138">18</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Damaj</surname>
+   <given-names>Ghandi</given-names>
+  </name>
+  <xref ref-type="aff" rid="af19-1040138">19</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Feugier</surname>
+   <given-names>Pierre</given-names>
+  </name>
+  <xref ref-type="aff" rid="af20-1040138">20</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fornecker</surname>
+   <given-names>Luc Matthieu</given-names>
+  </name>
+  <xref ref-type="aff" rid="af21-1040138">21</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chabrot</surname>
+   <given-names>Cecile</given-names>
+  </name>
+  <xref ref-type="aff" rid="af22-1040138">22</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dorvaux</surname>
+   <given-names>Veronique</given-names>
+  </name>
+  <xref ref-type="aff" rid="af23-1040138">23</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bouadallah</surname>
+   <given-names>Krimo</given-names>
+  </name>
+  <xref ref-type="aff" rid="af24-1040138">24</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Amorin</surname>
+   <given-names>Sandy</given-names>
+  </name>
+  <xref ref-type="aff" rid="af25-1040138">25</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Garidi</surname>
+   <given-names>Reda</given-names>
+  </name>
+  <xref ref-type="aff" rid="af26-1040138">26</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Voillat</surname>
+   <given-names>Laurent</given-names>
+  </name>
+  <xref ref-type="aff" rid="af27-1040138">27</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Joly</surname>
+   <given-names>Bertrand</given-names>
+  </name>
+  <xref ref-type="aff" rid="af28-1040138">28</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Celigny</surname>
+   <given-names>Philippe Solal</given-names>
+  </name>
+  <xref ref-type="aff" rid="af29-1040138">29</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Morineau</surname>
+   <given-names>Nadine</given-names>
+  </name>
+  <xref ref-type="aff" rid="af30-1040138">30</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Moles</surname>
+   <given-names>Marie Pierre</given-names>
+  </name>
+  <xref ref-type="aff" rid="af31-1040138">31</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zerazhi</surname>
+   <given-names>Hacene</given-names>
+  </name>
+  <xref ref-type="aff" rid="af32-1040138">32</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fontan</surname>
+   <given-names>Jean</given-names>
+  </name>
+  <xref ref-type="aff" rid="af33-1040138">33</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Arkam</surname>
+   <given-names>Yazid</given-names>
+  </name>
+  <xref ref-type="aff" rid="af34-1040138">34</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Alexis</surname>
+   <given-names>Magda</given-names>
+  </name>
+  <xref ref-type="aff" rid="af35-1040138">35</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Delwail</surname>
+   <given-names>Vincent</given-names>
+  </name>
+  <xref ref-type="aff" rid="af36-1040138">36</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vilque</surname>
+   <given-names>Jean Pierre</given-names>
+  </name>
+  <xref ref-type="aff" rid="af37-1040138">37</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ysebaert</surname>
+   <given-names>Loic</given-names>
+  </name>
+  <xref ref-type="aff" rid="af38-1040138">38</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Le Gouill</surname>
+   <given-names>Steven</given-names>
+  </name>
+  <xref ref-type="aff" rid="af39-1040138">39</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Callanan</surname>
+   <given-names>Mary B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-1040138">2</xref>
+  <xref ref-type="aff" rid="af40-1040138">40</xref>
+  <xref ref-type="corresp" rid="c1-1040138"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <collab>for the Lymphoma Study Association</collab>
+ </contrib>
+</contrib-group>

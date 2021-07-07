@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f1-1031825" position="float">
+ <label>Figure 1.</label>
+ <caption>
+  <p>Mathematical model for chronic myeloid leukemia (CML) treatment and mechanistic interpretation of the bi-phasic decline. (A) Schematic model representation with three cell types: quiescent (
+   <italic>X</italic>, blue) and proliferating (
+   <italic>Y</italic>, red, turnover with rate 
+   <italic>p
+    <sub>Y</sub>
+   </italic>) leukemic stem cells (LSCs), and differentiated leukemic cells (LCs), denoted by 
+   <italic>W</italic> (green, generated with rate 
+   <italic>p
+    <sub>W</sub>
+   </italic>, decaying with rate 
+   <italic>r
+    <sub>W</sub>
+   </italic>). The model assumes (i) mechanisms of activation/deactivation of quiescent/proliferating LSCs with rates 
+   <italic>p
+    <sub>XY</sub>
+   </italic> and 
+   <italic>p
+    <sub>YX</sub>
+   </italic> and (ii) a cytotoxic effect of TKI on proliferating LSCs with intensity 
+   <italic>e
+    <sub>TKI</sub>
+   </italic>. (B) The mechanistic model parameters [(TKI net effect (
+   <italic>q</italic>=
+   <italic>e
+    <sub>TKI</sub>
+   </italic>−
+   <italic>p
+    <sub>Y</sub>
+   </italic>), activation rate of quiescent LSCs (
+   <italic>p
+    <sub>XY</sub>
+   </italic>), deactivation rate of proliferating LSCs (
+   <italic>p
+    <sub>YX</sub>
+   </italic>)] were fitted to individual patient data from the IRIS and CML-IV trials.
+   <sup>
+    <xref rid="b18-1031825" ref-type="bibr">18</xref>,
+    <xref rid="b19-1031825" ref-type="bibr">19</xref>
+   </sup> The resulting distributions reveal an intrinsic scaling between them, which are dispersed over different orders of magnitude. (C) Model simulation with median parameter values obtained from IRIS and CML-IV data illustrating the equivalence between tumor load (in terms of 
+   <italic>BCR-ABL1</italic> levels) in the peripheral blood (green) and within the proliferating LSCs (red). Values on the y-axis indicate the relative abundance of 
+   <italic>BCR-ABL1</italic> positive cells in each specific cell compartment [see equation (SE1) in 
+   <italic>Online Supplementary Text S1</italic>], which corresponds to the tumor load in terms of PCR-based measurements of the 
+   <italic>BCR-ABL1/ABL1</italic> ratio. We adopted this scheme for all corresponding figures throughout the manuscript. Using the intrinsic scaling (B), the slopes in the bi-exponential decline of the BCR-ABL1 levels simplify to 
+   <italic>α</italic>≈−
+   <italic>q</italic> and 
+   <italic>β</italic>≈−
+   <italic>p
+    <sub>XY</sub>
+   </italic>. The abundance of quiescent LSCs follows a monophasic decline approximated by 
+   <italic>β</italic>≈−
+   <italic>p
+    <sub>XY</sub>
+   </italic>. See 
+   <italic>Online Supplementary Text S3</italic> for parameter values used in all model simulations. (D) During the initial phase (upper panel, “1
+   <sup>st</sup> slope”), eradication of the proliferating LSCs (red) with effective rate 
+   <italic>q</italic> is the dominating process (large black arrow). After the strong initial reduction, few proliferating cells remain (lower panel, “2
+   <sup>nd</sup> slope”) and eradication is now limited by the activation rate 
+   <italic>p
+    <sub>XY</sub>
+   </italic> (small black arrow) of quiescent LSCs (blue). Normal cells are shown in gray. See also 
+   <italic>Online Supplementary Figure S2.</italic>
+  </p>
+ </caption>
+ <graphic xlink:href="1031825.fig1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

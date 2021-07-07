@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2">
+ <label>Figure 2</label>
+ <caption>
+  <p>Factors potentially predictive of a complete response or unconfirmed complete response</p>
+  <p>Data are from an analysis of outcomes at end of treatment. CHOP=cyclophosphamide, doxorubicin, vincristine, and prednisolone. GEM-P=gemcitabine, cisplatin, and methylprednisolone. ALK-negative ALCL= anaplastic lymphoma kinase-negative anaplastic large cell T-cell lymphoma. AITL=angioimmunoblastic T-cell lymphoma. PTCL NOS=peripheral T-cell lymphoma not otherwise specified. EATL=enteropathy-associated T-cell lymphoma. IPI=International Prognostic Index. ··=data not obtainable.</p>
+ </caption>
+ <graphic xlink:href="gr2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

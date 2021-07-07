@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig5">
+ <label>Figure 5</label>
+ <caption>
+  <p>Subgroup analysis of overall survival</p>
+  <p>(A) Forest plot of overall survival in the intention-to-treat population. (B) Kaplan-Meier plot of overall survival in transplantation-eligible patients. (C) Kaplan-Meier plot of overall survival in transplantation-ineligible patients. CR=complete response. CRD=cyclophosphamide, lenalidomide, and dexamethasone. CTD=cyclophosphamide, thalidomide, and dexamethasone. CVD=cyclophosphamide, bortezomib and dexamethasone. HR=hazard ratio. KCRD=carfilzomib, cyclophosphamide, lenalidomide, and dexamethasone. MR=minimal response. NC=no change. PD=progressive disease. PR=partial response. VGPR=very good partial response. *Likelihood ratio test for heterogeneity of effect amongst patients with subgroup data available.</p>
+ </caption>
+ <graphic xlink:href="gr5a" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <graphic xlink:href="gr5b" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sheu</surname>
+    <given-names>LF</given-names>
+   </name>
+   <name>
+    <surname>Young</surname>
+    <given-names>ZH</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>WC</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>YF</given-names>
+   </name>
+   <name>
+    <surname>Kao</surname>
+    <given-names>WY</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>STI571 sensitizes nasopharyngeal carcinoma cells to cisplatin: sustained activation of ERK with improved growth inhibition</article-title>
+  <source>Int J Oncol</source>
+  <year>2007</year>
+  <volume>30</volume>
+  <issue>2</issue>
+  <fpage>403</fpage>
+  <lpage>411</lpage>
+  <?supplied-pmid 17203222?>
+  <pub-id pub-id-type="pmid">17203222</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR33">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schueneman</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>Himmelfarb</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Geng</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Tan</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Donnelly</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Mendel</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>SU11248 maintenance therapy prevents regrowth after fractionated irradiation of murine tumour models</article-title>
+  <source>Cancer Res</source>
+  <year>2003</year>
+  <volume>63</volume>
+  <issue>14</issue>
+  <fpage>4009</fpage>
+  <lpage>4016</lpage>
+  <?supplied-pmid 12873999?>
+  <pub-id pub-id-type="pmid">12873999</pub-id>
+ </element-citation>
+</ref>

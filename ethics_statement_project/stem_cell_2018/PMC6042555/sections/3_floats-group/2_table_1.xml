@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Inclusion and exclusion criteria</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Inclusion criteria</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Exclusion criteria</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Cluster level 
+     <break/>(wards)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Acute-care wards with at least 150 admissions/year</p>
+      </list-item>
+      <list-item>
+       <p>Use of CPOE</p>
+      </list-item>
+     </list>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Emergency room(s)</p>
+      </list-item>
+      <list-item>
+       <p>Outpatient clinics</p>
+      </list-item>
+      <list-item>
+       <p>Overflow wards</p>
+      </list-item>
+      <list-item>
+       <p>Absence of a ‘matchable’ ward regarding specialty and baseline antibiotic use</p>
+      </list-item>
+      <list-item>
+       <p>Haematopoietic stem cell transplant wards</p>
+      </list-item>
+      <list-item>
+       <p>ICU</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Physician level</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>All physicians involved in antibiotic prescribing decisions in the participating wards</p>
+      </list-item>
+     </list>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>None</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Patient level</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>All patients hospitalised in the participating wards</p>
+      </list-item>
+     </list>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>None</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tblfn1">
+   <p>CPOE, computerised physician order entry; ICU, intensive care unit.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

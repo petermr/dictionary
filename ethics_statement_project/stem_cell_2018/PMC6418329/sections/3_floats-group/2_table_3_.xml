@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T3" position="anchor">
+ <label>Table 3:</label>
+ <caption>
+  <p>Univariable analysis of stem cell injection effect on general satisfaction.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">General satisfaction</th>
+    <th align="center" colspan="4" rowspan="1">Before treatment</th>
+    <th align="center" colspan="4" rowspan="1">3 months after treatment</th>
+   </tr>
+   <tr>
+    <th align="left" rowspan="1" colspan="1"> </th>
+    <th align="center" colspan="2" rowspan="1">Stem cell therapy</th>
+    <th align="center" colspan="2" rowspan="1">Conventional therapy</th>
+    <th align="center" colspan="2" rowspan="1">Stem cell therapy</th>
+    <th align="center" colspan="2" rowspan="1">Conventional therapy</th>
+   </tr>
+   <tr>
+    <th align="left" rowspan="1" colspan="1"> </th>
+    <th align="center" rowspan="1" colspan="1">No</th>
+    <th align="center" rowspan="1" colspan="1">%</th>
+    <th align="center" rowspan="1" colspan="1">No</th>
+    <th align="center" rowspan="1" colspan="1">%</th>
+    <th align="center" rowspan="1" colspan="1">No</th>
+    <th align="center" rowspan="1" colspan="1">%</th>
+    <th align="center" rowspan="1" colspan="1">No</th>
+    <th align="center" rowspan="1" colspan="1">%</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Unsatisfied</td>
+    <td align="center" rowspan="1" colspan="1">19</td>
+    <td align="center" rowspan="1" colspan="1">63.3</td>
+    <td align="center" rowspan="1" colspan="1">0</td>
+    <td align="center" rowspan="1" colspan="1">0</td>
+    <td align="center" rowspan="1" colspan="1">0</td>
+    <td align="center" rowspan="1" colspan="1">0</td>
+    <td align="center" rowspan="1" colspan="1">2</td>
+    <td align="center" rowspan="1" colspan="1">6.7</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Occasionally satisfied</td>
+    <td align="center" rowspan="1" colspan="1">11</td>
+    <td align="center" rowspan="1" colspan="1">36.7</td>
+    <td align="center" rowspan="1" colspan="1">8</td>
+    <td align="center" rowspan="1" colspan="1">26.7</td>
+    <td align="center" rowspan="1" colspan="1">8</td>
+    <td align="center" rowspan="1" colspan="1">26.7</td>
+    <td align="center" rowspan="1" colspan="1">16</td>
+    <td align="center" rowspan="1" colspan="1">53.3</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Satisfied</td>
+    <td align="center" rowspan="1" colspan="1">0</td>
+    <td align="center" rowspan="1" colspan="1">0</td>
+    <td align="center" rowspan="1" colspan="1">22</td>
+    <td align="center" rowspan="1" colspan="1">73.3</td>
+    <td align="center" rowspan="1" colspan="1">22</td>
+    <td align="center" rowspan="1" colspan="1">73.3</td>
+    <td align="center" rowspan="1" colspan="1">12</td>
+    <td align="center" rowspan="1" colspan="1">40</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Total</td>
+    <td align="center" rowspan="1" colspan="1">30</td>
+    <td align="center" rowspan="1" colspan="1">100</td>
+    <td align="center" rowspan="1" colspan="1">30</td>
+    <td align="center" rowspan="1" colspan="1">100</td>
+    <td align="center" rowspan="1" colspan="1">30</td>
+    <td align="center" rowspan="1" colspan="1">100</td>
+    <td align="center" rowspan="1" colspan="1">30</td>
+    <td align="center" rowspan="1" colspan="1">100</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">P-value</td>
+    <td align="center" colspan="4" rowspan="1">P= 0.21</td>
+    <td align="center" colspan="4" rowspan="1">P=0.02</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

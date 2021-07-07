@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab4">
+ <label>Table 4</label>
+ <caption>
+  <p>Objective response rate by IEAC assessment</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Response, 
+     <italic>n</italic> (%)
+    </th>
+    <th>Phase 2 (
+     <italic>n</italic> = 41)
+    </th>
+    <th>Phase 1 + 2 (
+     <italic>n</italic> = 45)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="3">Primary analysis</td>
+   </tr>
+   <tr>
+    <td> DCR (CR + PR+ SD)</td>
+    <td>16 (39)</td>
+    <td>17 (38)</td>
+   </tr>
+   <tr>
+    <td> ORR (CR + PR) 90% CI</td>
+    <td>9 (22)
+     <sup>a</sup>
+     <break/>12–35
+    </td>
+    <td>10 (22)
+     <break/>13–35
+    </td>
+   </tr>
+   <tr>
+    <td> CR</td>
+    <td>4 (10)</td>
+    <td>4 (9)</td>
+   </tr>
+   <tr>
+    <td> PR</td>
+    <td>5 (12)</td>
+    <td>6 (13)</td>
+   </tr>
+   <tr>
+    <td> SD</td>
+    <td>7 (17)</td>
+    <td>7 (16)</td>
+   </tr>
+   <tr>
+    <td> PD/RD</td>
+    <td>24 (59)</td>
+    <td>26 (58)</td>
+   </tr>
+   <tr>
+    <td> Not evaluable</td>
+    <td>1 (2)</td>
+    <td>2 (4)</td>
+   </tr>
+   <tr>
+    <td colspan="3">Final analysis</td>
+   </tr>
+   <tr>
+    <td> DCR (CR + PR+ SD)</td>
+    <td>16 (39)</td>
+    <td>17 (38)</td>
+   </tr>
+   <tr>
+    <td> ORR (CR + PR) 90% CI</td>
+    <td>10 (25)
+     <sup>a</sup>
+     <break/>14–38
+    </td>
+    <td>11 (24)
+     <break/>14–37
+    </td>
+   </tr>
+   <tr>
+    <td> CR</td>
+    <td>4 (10)</td>
+    <td>4 (9)</td>
+   </tr>
+   <tr>
+    <td> PR</td>
+    <td>6 (15)</td>
+    <td>7 (16)</td>
+   </tr>
+   <tr>
+    <td> SD</td>
+    <td>6 (15)</td>
+    <td>6 (13)</td>
+   </tr>
+   <tr>
+    <td> PD/RD</td>
+    <td>24 (59)</td>
+    <td>26 (58)</td>
+   </tr>
+   <tr>
+    <td> Not evaluable</td>
+    <td>1 (2)</td>
+    <td>2 (4)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>CR</italic> complete response, 
+   <italic>DCR</italic> disease control rate, 
+   <italic>IEAC</italic> Independent Efficacy Assessment Committee, 
+   <italic>ORR</italic> objective response rate, 
+   <italic>PD</italic> progressive disease, 
+   <italic>PR</italic> partial response, 
+   <italic>RD</italic> relapsed disease, 
+   <italic>SD</italic> stable disease
+  </p>
+  <p>
+   <sup>a</sup>Uniformly minimum variance unbiased estimator (UMVUE)
+  </p>
+ </table-wrap-foot>
+</table-wrap>

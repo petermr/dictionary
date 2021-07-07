@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R14">
+ <label>14.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Curtis</surname>
+    <given-names>CE</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Al Bahar</surname>
+    <given-names>F</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Marriott</surname>
+    <given-names>JF</given-names>
+   </name>
+  </person-group>
+  <article-title>The effectiveness of computerised decision support on antibiotic use in hospitals: A systematic review</article-title>. 
+  <source>PLoS One</source>
+  <year>2017</year>;
+  <volume>12</volume>:
+  <elocation-id>e0183062</elocation-id>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0183062</pub-id>
+  <pub-id pub-id-type="pmid">28837665</pub-id>
+ </mixed-citation>
+</ref>

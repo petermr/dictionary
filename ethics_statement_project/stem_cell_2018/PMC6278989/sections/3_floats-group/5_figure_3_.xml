@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f3-1031806" position="float">
+ <label>Figure 3.</label>
+ <caption>
+  <p>Direct CD34 enrichment 
+   <italic>versus</italic> depletion of lineage positive (+) cells. Products can include bone marrow (BM) or mobilized apheresis product (mAPH) (1). BM products were first processed through hetastarch sedimentation to deplete red blood cells (RBCs). Leukapheresis products were first subjected to several washes to deplete platelets. For direct CD34
+   <sup>+</sup> cell selection, anti-CD34 antibody-bound immunomagnetic beads (microbeads) are used, whereas for lineage depletion anti-CD3
+   <sup>+</sup>, CD14
+   <sup>+</sup>, CD16
+   <sup>+</sup>, and CD19
+   <sup>+</sup>, microbeads are used (2). In both cases, microbead-bound cells are retained on the column and subjected to wash steps. When lineage depletion is used, CD34-expressing cells undergo minimal manipulation during purification. Following purification, cells are cultured and transduced with a VSV-G pseudotyped lentiviral vector at a multiplicity of infection (MOI) of 5–10 IU/ cell (3). Following ~16 hours of incubation cells are harvested (4). 
+   <sup>*</sup>These processes were performed on the CliniMACS Prodigy™ device from Miltenyi Biotec GmbH.
+  </p>
+ </caption>
+ <graphic xlink:href="1031806.fig3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dobson</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>Gebski</surname>
+    <given-names>VJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Sample sizes for comparing 2 independent proportions using the continuity-corrected arc sine transformation</article-title>
+  <source>Underst Stat</source>
+  <year>1986</year>
+  <volume>35</volume>
+  <issue>1</issue>
+  <fpage>51</fpage>
+  <lpage>53</lpage>
+ </element-citation>
+</ref>

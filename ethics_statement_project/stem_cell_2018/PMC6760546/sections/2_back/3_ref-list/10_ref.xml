@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>O’Donnell</surname>
+    <given-names>PV</given-names>
+   </name>
+   <name>
+    <surname>Luznik</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Jones</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Vogelsang</surname>
+    <given-names>GB</given-names>
+   </name>
+   <name>
+    <surname>Leffell</surname>
+    <given-names>MS</given-names>
+   </name>
+   <name>
+    <surname>Phelps</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Nonmyeloablative bone marrow transplantation from partially HLA-mismatched related donors using post transplantation cyclophophamide</article-title>
+  <source>Biol Blood Marrow Transplant</source>
+  <year>2002</year>
+  <volume>8</volume>
+  <fpage>377</fpage>
+  <lpage>86</lpage>
+  <pub-id pub-id-type="doi">10.1053/bbmt.2002.v8.pm12171484</pub-id>
+  <pub-id pub-id-type="pmid">12171484</pub-id>
+ </element-citation>
+</ref>

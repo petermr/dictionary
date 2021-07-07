@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mitchell</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Richards</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Harrison</surname>
+    <given-names>CJ</given-names>
+   </name>
+   <name>
+    <surname>Eden</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>Long-term follow-up of the United Kingdom medical research council protocols for childhood acute lymphoblastic leukaemia, 1980-2001</article-title>
+  <source>Leukemia</source>
+  <year>2010</year>
+  <volume>24</volume>
+  <issue>2</issue>
+  <fpage>406</fpage>
+  <lpage>418</lpage>
+  <pub-id pub-id-type="doi">10.1038/leu.2009.256</pub-id>
+  <?supplied-pmid 20010621?>
+  <pub-id pub-id-type="pmid">20010621</pub-id>
+ </element-citation>
+</ref>

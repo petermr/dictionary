@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib30">
+ <label>30</label>
+ <mixed-citation publication-type="journal">
+  <person-group>
+   <name>
+    <surname>Wu</surname>
+    <given-names>YJ</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Scott</surname>
+    <given-names>PG</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mesenchymal stem cells enhance wound healing through differentiation and angiogenesis</article-title>. 
+  <source>
+   <italic>Stem Cells</italic>
+  </source>. 
+  <year>2007</year>;
+  <volume>25</volume>:
+  <fpage>2648</fpage>–
+  <lpage>2659</lpage>.
+  <pub-id pub-id-type="pmid">17615264</pub-id>
+ </mixed-citation>
+</ref>

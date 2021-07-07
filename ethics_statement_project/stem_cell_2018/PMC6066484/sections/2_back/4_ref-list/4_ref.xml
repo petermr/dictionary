@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cavo</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Bortezomib with thalidomide plus dexamethasone compared with thalidomide plus dexamethasone as induction therapy before, and consolidation therapy after, double autologous stem-cell transplantation in newly diagnosed multiple myeloma: a randomised phase 3 study</article-title>
+  <source>Lancet</source>
+  <year>2010</year>
+  <volume>376</volume>
+  <fpage>2075</fpage>
+  <lpage>2085</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(10)61424-9</pub-id>
+  <?supplied-pmid 21146205?>
+  <pub-id pub-id-type="pmid">21146205</pub-id>
+ </element-citation>
+</ref>

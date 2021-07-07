@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par50">We isolated by FACS the stromal DAPI
+ <sup>−</sup>/GFP
+ <sup>−</sup>/EPCAM
+ <sup>−</sup>and epithelial DAPI
+ <sup>−</sup>/ GFP
+ <sup>+</sup>/EPCAM
+ <sup>+</sup> cell fractions from at least five M6-Ctrl and M6-Hh tumor models treated with vehicle (0.5% methylcellulose, 0.2% Tween
+ <sup>®</sup> 80) or with SMOi. RNA was isolated using the miRNeasy kit (Qiagen). For standard input samples, 1 μg of total RNA was used as input to the TruSeq RNA Sample Preparation Kit v2 (Illumina). The samples were prepared according to the manufacturer’s instructions, starting with the poly-A pulldown. The number of PCR cycles was reduced from 15 to 13, to minimize duplications. The samples were sequenced on the HiSeq2000 using v3 SBS reagents (Ramaciotti Centre for Genomics, University of New South Wales (UNSW)). Low-input RNA stromal samples were firstly amplified using the Ovation
+ <sup>®</sup> RNA-Seq System V2 kit (4 ng of total RNA input; Nugen Integrated Sciences Pty. Ltd.) according to the manufacturer’s instructions. 1 μg of the cDNA was sheared with Covaris to fragment sizes of ~200 bp. The material was used as input to the TruSeq RNA Sample Preparation v2 kit, starting at the end-repair step. The number of PCR cycles was reduced from 15 to 10. All the samples were sequenced on the HiSeq2000 using v3 SBS reagents (Ramaciotti Centre for Genomics, University of New South Wales).
+</p>

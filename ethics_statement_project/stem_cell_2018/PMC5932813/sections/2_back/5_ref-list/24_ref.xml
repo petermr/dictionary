@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rackoff</surname>
+    <given-names>WR</given-names>
+   </name>
+   <name>
+    <surname>Weiman</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Jakobowski</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Hirschl</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Stallings</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Bilodeau</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A randomized, controlled trial of the efficacy of a heparin and vancomycin solution in preventing central venous catheter infections in children</article-title>
+  <source>J Pediatr</source>
+  <year>1995</year>
+  <volume>127</volume>
+  <fpage>147</fpage>
+  <lpage>151</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0022-3476(95)70276-8</pub-id>
+  <?supplied-pmid 7608801?>
+  <pub-id pub-id-type="pmid">7608801</pub-id>
+ </element-citation>
+</ref>

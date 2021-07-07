@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>ABI</term>
+   <def>
+    <p id="Par3">ankle brachial index</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Bcl-2</term>
+   <def>
+    <p id="Par4">B-cell lymphoma/leukemia-2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BMMSCs</term>
+   <def>
+    <p id="Par5">bone marrow mesenchymal stem cells</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MRA</term>
+   <def>
+    <p id="Par6">magnetic resonance angiography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PAD</term>
+   <def>
+    <p id="Par7">peripheral arterial disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PGC-1α</term>
+   <def>
+    <p id="Par8">peroxisome proliferator-activated receptor-γ coactivator-1α</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>α-MEM</term>
+   <def>
+    <p id="Par9">alpha-modified minimum essential medium</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

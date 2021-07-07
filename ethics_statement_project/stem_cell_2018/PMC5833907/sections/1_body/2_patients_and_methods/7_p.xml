@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par18">The software used for logistic regression, Naïve Bayes network, SVM, and random forest was Orange (version 3.8.1; 
+ <ext-link ext-link-type="uri" xlink:href="https://orange.biolab.si/" xmlns:xlink="http://www.w3.org/1999/xlink">https://orange.biolab.si/</ext-link>), whereas RapidMiner (version 7.4; RapidMiner, Inc., Boston, MA, USA) was used for TAN Bayes network.
+</p>

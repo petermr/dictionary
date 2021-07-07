@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Steinberg</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Robichaux</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Tejedor</surname>
+    <given-names>SC</given-names>
+   </name>
+   <name>
+    <surname>Reyes</surname>
+    <given-names>MD</given-names>
+   </name>
+   <name>
+    <surname>Jacob</surname>
+    <given-names>JT</given-names>
+   </name>
+  </person-group>
+  <article-title>Distribution of pathogens in central line-associated bloodstream infections among patients with and without neutropenia following chemotherapy: evidence for a proposed modification to the current surveillance definition</article-title>
+  <source>Infect Control Hosp Epidemiol</source>
+  <year>2013</year>
+  <volume>34</volume>
+  <fpage>171</fpage>
+  <lpage>175</lpage>
+  <pub-id pub-id-type="doi">10.1086/669082</pub-id>
+  <?supplied-pmid 23295563?>
+  <pub-id pub-id-type="pmid">23295563</pub-id>
+ </element-citation>
+</ref>

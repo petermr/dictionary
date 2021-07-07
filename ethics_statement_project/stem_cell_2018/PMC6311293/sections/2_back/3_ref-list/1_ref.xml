@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B2">
+ <label>2</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gondi</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Mehta</surname>
+    <given-names>M. P.</given-names>
+   </name>
+  </person-group>
+  <article-title>Control versus cognition: the changing paradigm of adjuvant therapy for resected brain metastasis</article-title>
+  <source>
+   <italic toggle="yes">Neuro-Oncology</italic>
+  </source>
+  <year>2018</year>
+  <volume>20</volume>
+  <issue>1</issue>
+  <fpage>2</fpage>
+  <lpage>3</lpage>
+  <pub-id pub-id-type="doi">10.1093/neuonc/nox180</pub-id>
+  <pub-id pub-id-type="pmid">29126327</pub-id>
+ </element-citation>
+</ref>

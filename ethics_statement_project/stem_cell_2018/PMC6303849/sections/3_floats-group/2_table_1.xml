@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Dose of G-CSF according to the body weight of each subject</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Bodyweight (kg)</th>
+    <th>Dose of G-CSF (μg)</th>
+    <th>Volume (mL)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>40–44</td>
+    <td>200</td>
+    <td>0.8</td>
+   </tr>
+   <tr>
+    <td>45–49</td>
+    <td>225</td>
+    <td>0.9</td>
+   </tr>
+   <tr>
+    <td>50–54</td>
+    <td>250</td>
+    <td>1.0</td>
+   </tr>
+   <tr>
+    <td>55–59</td>
+    <td>275</td>
+    <td>1.1</td>
+   </tr>
+   <tr>
+    <td>≥60</td>
+    <td>300</td>
+    <td>1.2</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>G-CSF</italic> granulocyte colony stimulating factor
+  </p>
+ </table-wrap-foot>
+</table-wrap>

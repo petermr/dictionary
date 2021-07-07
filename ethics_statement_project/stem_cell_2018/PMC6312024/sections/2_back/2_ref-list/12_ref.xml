@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b12-1040189">
+ <label>12.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ting</surname>
+    <given-names>DSW</given-names>
+   </name>
+   <name>
+    <surname>Cheung</surname>
+    <given-names>CY</given-names>
+   </name>
+   <name>
+    <surname>Lim</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Development and validation of a deep learning system for diabetic retinopathy and related eye diseases using retinal images from multiethnic populations with diabetes</article-title>. 
+  <source>JAMA</source>. 
+  <year>2017</year>;
+  <volume>318</volume>(
+  <issue>22</issue>):
+  <fpage>2211</fpage>–
+  <lpage>2223</lpage>.
+  <pub-id pub-id-type="pmid">29234807</pub-id>
+ </mixed-citation>
+</ref>

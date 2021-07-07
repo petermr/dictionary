@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McGillion</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Arthur</surname>
+    <given-names>HM</given-names>
+   </name>
+   <name>
+    <surname>Cook</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Management of patients with refractory angina: Canadian Cardiovascular Society/Canadian Pain Society Joint Guidelines</article-title>
+  <source>Can J Cardiol</source>
+  <year>2012</year>
+  <volume>28</volume>
+  <fpage>S20</fpage>
+  <lpage>S41</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cjca.2011.07.007</pub-id>
+  <pub-id pub-id-type="pmid">22424281</pub-id>
+ </element-citation>
+</ref>

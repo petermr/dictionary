@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F9" position="float">
+ <label>Figure 9</label>
+ <caption>
+  <p>Natural killer (NK) cells support IL-17A expression by helper T (Th) cells by CD58 co-stimulation. A representative plot of CD58 expression by CD3
+   <sup>−</sup>CD56
+   <sup>+</sup> NK cells is shown from healthy subject peripheral blood mononuclear cell (PBMC) 
+   <bold>(A)</bold>. Memory CD4
+   <sup>+</sup> T cells from healthy subjects PBMC were activated with anti-CD3, anti-CD28, and Th17 polarizing factors with NK cells in the presence or absence of CD58 neutralizing or isotype control antibody for 4 days. The cytokine IL-17A was assessed by enzyme-linked immunosorbent assay from cell culture supernatants 
+   <bold>(B)</bold>. Graph indicates mean IL-17A concentration for 
+   <italic>N</italic> = 3 samples.
+  </p>
+ </caption>
+ <graphic xlink:href="fimmu-09-00834-g009" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

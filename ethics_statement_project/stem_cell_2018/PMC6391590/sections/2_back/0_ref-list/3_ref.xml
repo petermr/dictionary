@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib3">
+ <label>3</label>
+ <element-citation publication-type="journal" id="sref3">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Giugliani</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Vairo</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Kubaski</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Poswar</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Riegel</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Baldo</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Saute</surname>
+    <given-names>J.A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Neurological manifestations of lysosomal disorders and emerging therapies targeting the CNS</article-title>
+  <source>Lancet Child Adolesc. Health</source>
+  <volume>2</volume>
+  <year>2018</year>
+  <fpage>56</fpage>
+  <lpage>68</lpage>
+  <pub-id pub-id-type="pmid">30169196</pub-id>
+ </element-citation>
+</ref>

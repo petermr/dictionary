@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR29">
+ <label>29.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kumar</surname>
+    <given-names>SK</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Randomized phase 2 trial of ixazomib and dexamethasone in relapsed multiple myeloma not refractory to bortezomib</article-title>
+  <source>Blood</source>
+  <year>2016</year>
+  <volume>128</volume>
+  <fpage>2415</fpage>
+  <lpage>2422</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2016-05-717769</pub-id>
+  <?supplied-pmid 27702799?>
+  <pub-id pub-id-type="pmid">27702799</pub-id>
+ </element-citation>
+</ref>

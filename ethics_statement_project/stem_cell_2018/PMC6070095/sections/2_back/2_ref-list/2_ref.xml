@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0002">
+ <label>2.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Davila</surname>
+    <given-names>ML</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Bouhassira</surname>
+    <given-names>DC</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Park</surname>
+    <given-names>JH</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Chimeric antigen receptors for the adoptive T cell therapy of hematologic malignancies</article-title>. 
+  <source>Int J Hematol</source>
+  <year>2014</year>; 
+  <volume>99</volume>:
+  <fpage>361</fpage>–
+  <lpage>71</lpage>.
+  <pub-id pub-id-type="pmid">24311149</pub-id>
+ </mixed-citation>
+</ref>

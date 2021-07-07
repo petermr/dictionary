@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>First-line treatment characteristics</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="2">Characteristic</th>
+    <th colspan="2">Trial-ineligible
+     <break/>(
+     <italic>n</italic> = 91)
+    </th>
+    <th colspan="2">Pot. trial-eligible
+     <break/>(
+     <italic>n</italic> = 194)
+    </th>
+    <th colspan="2">All patients
+     <break/>(
+     <italic>n</italic> = 285)
+    </th>
+   </tr>
+   <tr>
+    <th>
+     <italic>n</italic>
+    </th>
+    <th>%</th>
+    <th>
+     <italic>n</italic>
+    </th>
+    <th>%</th>
+    <th>
+     <italic>n</italic>
+    </th>
+    <th>%</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="7">First-line treatment strategy</td>
+   </tr>
+   <tr>
+    <td> Proteasome inhibitor (PI)</td>
+    <td>74</td>
+    <td>81.3%</td>
+    <td>141</td>
+    <td>72.7%</td>
+    <td>215</td>
+    <td>75.4%</td>
+   </tr>
+   <tr>
+    <td> Immunomodulatory drug (IMiD)</td>
+    <td>9</td>
+    <td>9.9%</td>
+    <td>18</td>
+    <td>9.3%</td>
+    <td>27</td>
+    <td>9.5%</td>
+   </tr>
+   <tr>
+    <td> Combination therapy (PI + IMiD)</td>
+    <td>0</td>
+    <td>0.0%</td>
+    <td>2</td>
+    <td>1.0%</td>
+    <td>2</td>
+    <td>0.7%</td>
+   </tr>
+   <tr>
+    <td> Other</td>
+    <td>8</td>
+    <td>8.8%</td>
+    <td>33</td>
+    <td>17.0%</td>
+    <td>41</td>
+    <td>14.4%</td>
+   </tr>
+   <tr>
+    <td colspan="7">Main first-line regimen
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td> Bor + Mel ± Pre (VMP)</td>
+    <td>39</td>
+    <td>42.9%</td>
+    <td>80</td>
+    <td>41.2%</td>
+    <td>119</td>
+    <td>41.8%</td>
+   </tr>
+   <tr>
+    <td> Bor + Dex (V + D)</td>
+    <td>14</td>
+    <td>15.4%</td>
+    <td>32</td>
+    <td>16.5%</td>
+    <td>46</td>
+    <td>16.1%</td>
+   </tr>
+   <tr>
+    <td> Bor (V(mono))</td>
+    <td>12</td>
+    <td>13.2%</td>
+    <td>12</td>
+    <td>6.2%</td>
+    <td>24</td>
+    <td>8.4%</td>
+   </tr>
+   <tr>
+    <td> Mel + Pre + Tha (MPT)</td>
+    <td>9</td>
+    <td>9.9%</td>
+    <td>15</td>
+    <td>7.7%</td>
+    <td>24</td>
+    <td>8.4%</td>
+   </tr>
+   <tr>
+    <td> Mel + Pre (MP)</td>
+    <td>4</td>
+    <td>4.4%</td>
+    <td>10</td>
+    <td>5.2%</td>
+    <td>14</td>
+    <td>4.9%</td>
+   </tr>
+   <tr>
+    <td> Bor + Dex + Dox (VDD)</td>
+    <td>2</td>
+    <td>2.2%</td>
+    <td>10</td>
+    <td>5.2%</td>
+    <td>12</td>
+    <td>4.2%</td>
+   </tr>
+   <tr>
+    <td> Ben ± Pre B(P)</td>
+    <td>2</td>
+    <td>2.2%</td>
+    <td>10</td>
+    <td>5.2%</td>
+    <td>12</td>
+    <td>4.2%</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <sup>a</sup>All treatments with at least 10 documented cases overall were listed. Patients received first-line treatment between 2009 and 2011
+  </p>
+  <p>Abbreviations: Ben, bendamustine; Bor, bortezomib; Dex, dexamethason; Dox, doxorubicin; IMiD, immunomodulatory drug; Mel, melphalan; PI, proteasome inhibitor; pot, potentially; Pre, prednisone; Tha, thalidomide</p>
+ </table-wrap-foot>
+</table-wrap>

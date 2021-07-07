@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Durie</surname>
+    <given-names>BG</given-names>
+   </name>
+   <name>
+    <surname>Salmon</surname>
+    <given-names>SE</given-names>
+   </name>
+  </person-group>
+  <article-title>A clinical staging system for multiple myeloma. Correlation of measured myeloma cell mass with presenting clinical features, response to treatment, and survival</article-title>
+  <source>Cancer</source>
+  <year>1975</year>
+  <volume>36</volume>
+  <issue>3</issue>
+  <fpage>842</fpage>
+  <lpage>854</lpage>
+  <pub-id pub-id-type="doi">10.1002/1097-0142(197509)36:3&lt;842::AID-CNCR2820360303&gt;3.0.CO;2-U</pub-id>
+  <pub-id pub-id-type="pmid">1182674</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par65">Orientation analysis was carried out as previously described
+ <sup>
+  <xref ref-type="bibr" rid="CR23">23</xref>
+ </sup>. Briefly, fiber orientation analysis was performed on SHG images using an in-house ImageJ macro where structure tensors were derived from the local orientation and isotropic properties of pixels that make up collagen fibrils. Within each input image, these tensors were evaluated for each pixel by computing the continuous spatial derivatives in the 
+ <italic>x</italic> and 
+ <italic>y</italic> dimensions using a cubic B-spline interpolation. From this, the local predominant orientation was obtained. The peak alignment (measured in degrees) of fibers was then determined, and the frequency of fiber alignment calculated.
+</p>

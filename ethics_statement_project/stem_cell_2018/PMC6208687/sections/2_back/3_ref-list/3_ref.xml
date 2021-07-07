@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rajkumar</surname>
+    <given-names>SV</given-names>
+   </name>
+  </person-group>
+  <article-title>Treatment of multiple myeloma</article-title>
+  <source>Nat Rev Clin Oncol</source>
+  <year>2011</year>
+  <volume>8</volume>
+  <fpage>479</fpage>
+  <lpage>491</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrclinonc.2011.63</pub-id>
+  <?supplied-pmid 21522124?>
+  <pub-id pub-id-type="pmid">21522124</pub-id>
+ </element-citation>
+</ref>

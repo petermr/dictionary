@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Spahr</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Lambert</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Rubbia-Brandt</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Granulocyte-colony stimulating factor induces proliferation of hepatic progenitors in alcoholic steatohepatitis: a randomized trial</article-title>
+  <source>Hepatology</source>
+  <year>2008</year>
+  <volume>48</volume>
+  <fpage>221</fpage>
+  <lpage>229</lpage>
+  <pub-id pub-id-type="doi">10.1002/hep.22317</pub-id>
+  <pub-id pub-id-type="pmid">18537187</pub-id>
+ </element-citation>
+</ref>

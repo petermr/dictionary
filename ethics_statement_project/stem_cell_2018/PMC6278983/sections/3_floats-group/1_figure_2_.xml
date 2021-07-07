@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f2-1031825" position="float">
+ <label>Figure 2.</label>
+ <caption>
+  <p>Model predictions on dose de-escalation and dose escalation. (A) The long-term treatment efficiency, defined as the magnitude of the second slope 
+   <italic>β</italic>, is shown as a function of the dose reduction. The threshold for optimal favorable reduction, 
+   <italic>f
+    <sub>OPT</sub>
+   </italic> (≈25% in this example, i.e. using median parameters as in 
+   <xref ref-type="fig" rid="f1-1031825">Figure 1C</xref>) indicates how much the standard dose can be reduced without losing treatment efficiency. 
+   <italic>f
+    <sub>OPT</sub>
+   </italic> can be calculated for each patient (see main text). Any other favorable dose reductions (dose fraction 
+   <italic>f</italic>&gt;
+   <italic>f
+    <sub>OP</sub>
+   </italic>, green region) also retain the long-term treatment efficiency, while unfavorable dose reductions (dose fraction 
+   <italic>f</italic>&lt;
+   <italic>f
+    <sub>OPT</sub>
+   </italic>, red region) are predicted to lead to a severe decrease in the long-term treatment efficiency. (B-E) Simulations of favorable (B), optimal favorable (C) and unfavorable (D and E) dose reductions after 36 months under standard dose. After favorable dose reductions, a transient increase in proliferating leukemic stem cells (LSCs) (red) is followed by a return to the original decrease rate 
+   <italic>β</italic>≈−
+   <italic>p
+    <sub>XY</sub>
+   </italic>, while the dynamics of quiescent LSCs remains unchanged (blue lines). In the case of unfavorable reduction, an impaired scenario is observed. See also 
+   <italic>Online Supplementary Figures S3–S6</italic>. (F) dose escalation to 
+   <italic>f</italic>=200% after three years of treatment; although a deeper level is reached in the 
+   <italic>BCR-ABL1</italic> levels of proliferating LSCs, the dynamics of quiescent LSCs remains unchanged.
+  </p>
+ </caption>
+ <graphic xlink:href="1031825.fig2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

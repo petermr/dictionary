@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ajh25238-bib-0008">
+ <label>8</label>
+ <mixed-citation publication-type="journal" id="ajh25238-cit-0008">
+  <string-name>
+   <surname>Stone</surname>
+   <given-names>RM</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Mandrekar</surname>
+   <given-names>SJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Sanford</surname>
+   <given-names>BL</given-names>
+  </string-name>, et al. 
+  <article-title>Midostaurin plus chemotherapy for acute myeloid leukemia with a FLT3 mutation</article-title>. 
+  <source xml:lang="en">N Engl J Med.</source>
+  <year>2017</year>;
+  <volume>377</volume>:
+  <fpage>454</fpage>‐
+  <lpage>464</lpage>.
+  <pub-id pub-id-type="pmid">28644114</pub-id>
+ </mixed-citation>
+</ref>

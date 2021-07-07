@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Patient demographics</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th>Median (range)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Median age</td>
+    <td>37 (20-62)</td>
+   </tr>
+   <tr>
+    <td colspan="2">Sex</td>
+   </tr>
+   <tr>
+    <td> Male</td>
+    <td>18</td>
+   </tr>
+   <tr>
+    <td> Female</td>
+    <td>14</td>
+   </tr>
+   <tr>
+    <td>Median interval from diagnosis to</td>
+    <td>8 (4−60)</td>
+   </tr>
+   <tr>
+    <td colspan="2">HSCT, months(range)</td>
+   </tr>
+   <tr>
+    <td colspan="2">Diagnosis</td>
+   </tr>
+   <tr>
+    <td> De novo AML</td>
+    <td>22</td>
+   </tr>
+   <tr>
+    <td> ALL</td>
+    <td>5</td>
+   </tr>
+   <tr>
+    <td> MDS-EB II</td>
+    <td>3</td>
+   </tr>
+   <tr>
+    <td> CMML</td>
+    <td>2</td>
+   </tr>
+   <tr>
+    <td colspan="2">Disease status at transplantation</td>
+   </tr>
+   <tr>
+    <td> CR1</td>
+    <td>12</td>
+   </tr>
+   <tr>
+    <td> ≥CR2</td>
+    <td>2</td>
+   </tr>
+   <tr>
+    <td> Primary refractory</td>
+    <td>7</td>
+   </tr>
+   <tr>
+    <td> Secondary refractory</td>
+    <td>11</td>
+   </tr>
+   <tr>
+    <td>HCT-CI Median (range)</td>
+    <td>0 (0−1)</td>
+   </tr>
+   <tr>
+    <td colspan="2">Conditioning regimens</td>
+   </tr>
+   <tr>
+    <td> MAC</td>
+    <td>29</td>
+   </tr>
+   <tr>
+    <td> RIC</td>
+    <td>3</td>
+   </tr>
+   <tr>
+    <td colspan="2">Donor relationship with patients</td>
+   </tr>
+   <tr>
+    <td> Sibling</td>
+    <td>7</td>
+   </tr>
+   <tr>
+    <td> Parents</td>
+    <td>8</td>
+   </tr>
+   <tr>
+    <td colspan="2"> Mother/father</td>
+   </tr>
+   <tr>
+    <td> Offspring</td>
+    <td>15</td>
+   </tr>
+   <tr>
+    <td> Cousin</td>
+    <td>2</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>AML</italic> acute myelocytic leukemia, 
+   <italic>MDS-EB II</italic> myelodysplastic syndrome with excess blasts, type II, 
+   <italic>CMML</italic> chronic myelomonocytic leukemia, 
+   <italic>ALL</italic> acute lymphoblastic leukemia, 
+   <italic>CR</italic> complete remission, 
+   <italic>MAC</italic> myeloablative conditioning regimen, RIC reduced-intensity conditioning, 
+   <italic>HCT-CI</italic> Hematopoietic Cell Transplantation-Comorbidity Index [
+   <xref ref-type="bibr" rid="CR34">34</xref>]
+  </p>
+ </table-wrap-foot>
+</table-wrap>

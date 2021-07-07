@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par32">SVM are learning algorithms with the ability to separate several variables into classes, with an optimal hyper-plane maximizing the margin. SVM are well-suited to work involving high dimensional data, and have robust performances when dealing with sparse and noisy data [
+ <xref ref-type="bibr" rid="CR34">34</xref>].
+</p>

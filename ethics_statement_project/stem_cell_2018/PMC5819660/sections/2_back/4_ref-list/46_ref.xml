@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR46">
+ <label>46.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McGee</surname>
+    <given-names>DC</given-names>
+   </name>
+   <name>
+    <surname>Gould</surname>
+    <given-names>MK</given-names>
+   </name>
+  </person-group>
+  <article-title>Preventing complications of central venous catheterization</article-title>
+  <source>N Engl J Med.</source>
+  <year>2003</year>
+  <volume>348</volume>
+  <fpage>1123</fpage>
+  <lpage>1133</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMra011883</pub-id>
+  <?supplied-pmid 12646670?>
+  <pub-id pub-id-type="pmid">12646670</pub-id>
+ </element-citation>
+</ref>

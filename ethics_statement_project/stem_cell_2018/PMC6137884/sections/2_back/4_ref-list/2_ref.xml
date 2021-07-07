@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Henry</surname>
+    <given-names>TD</given-names>
+   </name>
+   <name>
+    <surname>Satran</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Jolicoeur</surname>
+    <given-names>EM</given-names>
+   </name>
+  </person-group>
+  <article-title>Treatment of refractory angina in patients not suitable for revascularization</article-title>
+  <source>Nat Rev Cardiol</source>
+  <year>2013</year>
+  <volume>11</volume>
+  <fpage>78</fpage>
+  <lpage>95</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrcardio.2013.200</pub-id>
+  <pub-id pub-id-type="pmid">24366073</pub-id>
+ </element-citation>
+</ref>

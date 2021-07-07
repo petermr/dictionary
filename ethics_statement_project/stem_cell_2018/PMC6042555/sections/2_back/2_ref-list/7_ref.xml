@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R7">
+ <label>7.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Lesprit</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>de Pontfarcy</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Esposito-Farese</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Postprescription review improves in-hospital antibiotic use: a multicenter randomized controlled trial</article-title>. 
+  <source>Clin Microbiol Infect</source>
+  <year>2015</year>;
+  <volume>21</volume>:
+  <fpage>180.e1</fpage>–
+  <lpage>7</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.cmi.2014.08.015</pub-id>
+  <pub-id pub-id-type="pmid">25658564</pub-id>
+ </mixed-citation>
+</ref>

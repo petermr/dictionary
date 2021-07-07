@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We apply a mechanistic model that describes TKI response as a dynamic process resulting from the interplay between tumor growth, activation/deactivation of LSCs, and cytotoxic TKI action on proliferating, but not on quiescent LSCs (
+ <xref ref-type="fig" rid="f1-1031825">Figure 1A</xref>). The model is a simplification of our previous computational CML model
+ <sup>
+  <xref rid="b5-1031825" ref-type="bibr">5</xref>,
+  <xref rid="b17-1031825" ref-type="bibr">17</xref>
+ </sup> and formally related to a model proposed by Komarova and Wodarz.
+ <sup>
+  <xref rid="b22-1031825" ref-type="bibr">22</xref>
+ </sup> It considers three leukemic cell types: quiescent LSCs (
+ <italic>X</italic>), proliferating LSCs (
+ <italic>Y</italic>), and fully differentiated LCs (
+ <italic>W</italic>). Mathematically, the model is described by the following set of differential equations: 
+ <disp-formula id="fd2-1031825">
+  <math id="mm2">
+   <mrow>
+    <mfrac>
+     <mrow>
+      <mi>d</mi>
+      <mi>X</mi>
+     </mrow>
+     <mrow>
+      <mi>d</mi>
+      <mi>t</mi>
+     </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <mo>−</mo>
+    <msub>
+     <mi>p</mi>
+     <mrow>
+      <mi>X</mi>
+      <mi>Y</mi>
+     </mrow>
+    </msub>
+    <mi>X</mi>
+    <mo>+</mo>
+    <msub>
+     <mi>P</mi>
+     <mrow>
+      <mi>Y</mi>
+      <mi>X</mi>
+     </mrow>
+    </msub>
+    <mi>Y</mi>
+   </mrow>
+  </math>
+  <label>(E2)</label>
+ </disp-formula>
+ <disp-formula id="fd3-1031825">
+  <math id="mm3">
+   <mrow>
+    <mfrac>
+     <mrow>
+      <mi>d</mi>
+      <mi>Y</mi>
+     </mrow>
+     <mrow>
+      <mi>d</mi>
+      <mi>t</mi>
+     </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <msub>
+     <mi>p</mi>
+     <mrow>
+      <mi>X</mi>
+      <mi>Y</mi>
+     </mrow>
+    </msub>
+    <mi>X</mi>
+    <mo>−</mo>
+    <msub>
+     <mi>p</mi>
+     <mrow>
+      <mi>Y</mi>
+      <mi>X</mi>
+     </mrow>
+    </msub>
+    <mi>Y</mi>
+    <mo>+</mo>
+    <msub>
+     <mi>p</mi>
+     <mi>Y</mi>
+    </msub>
+    <mi>Y</mi>
+    <mo>−</mo>
+    <msub>
+     <mi>e</mi>
+     <mrow>
+      <mi>T</mi>
+      <mi>K</mi>
+      <mi>I</mi>
+     </mrow>
+    </msub>
+    <mi>Y</mi>
+   </mrow>
+  </math>
+  <label>(E3)</label>
+ </disp-formula>
+ <disp-formula id="fd4-1031825">
+  <math id="mm4">
+   <mrow>
+    <mfrac>
+     <mrow>
+      <mi>d</mi>
+      <mi>W</mi>
+     </mrow>
+     <mrow>
+      <mi>d</mi>
+      <mi>t</mi>
+     </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <msub>
+     <mi>p</mi>
+     <mi>W</mi>
+    </msub>
+    <mi>Y</mi>
+    <mo>−</mo>
+    <msub>
+     <mi>r</mi>
+     <mi>W</mi>
+    </msub>
+    <mi>W</mi>
+   </mrow>
+  </math>
+  <label>(E4)</label>
+ </disp-formula>
+</p>

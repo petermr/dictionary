@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R13">
+ <label>13.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>de Kraker</surname>
+    <given-names>MEA</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Abbas</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Huttner</surname>
+    <given-names>B</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Good epidemiological practice: a narrative review of appropriate scientific methods to evaluate the impact of antimicrobial stewardship interventions</article-title>. 
+  <source>Clin Microbiol Infect</source>
+  <year>2017</year>;
+  <volume>23</volume>:
+  <fpage>819</fpage>–
+  <lpage>25</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.cmi.2017.05.019</pub-id>
+  <pub-id pub-id-type="pmid">28571767</pub-id>
+ </mixed-citation>
+</ref>

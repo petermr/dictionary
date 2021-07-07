@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0024">
+ <label>24.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Long</surname>
+    <given-names>AH</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Haso</surname>
+    <given-names>WM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Shern</surname>
+    <given-names>JF</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>4-1BB costimulation ameliorates T cell exhaustion induced by tonic signaling of chimeric antigen receptors</article-title>. 
+  <source>Nat Med</source>
+  <year>2015</year>; 
+  <volume>21</volume>:
+  <fpage>581</fpage>–
+  <lpage>90</lpage>.
+  <pub-id pub-id-type="pmid">25939063</pub-id>
+ </mixed-citation>
+</ref>

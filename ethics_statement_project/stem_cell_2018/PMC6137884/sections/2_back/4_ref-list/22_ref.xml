@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lang</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Bierig</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Devereux</surname>
+    <given-names>RB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Recommendations for chamber quantification: a report from the American Society of Echocardiography’s guidelines and standards committee and the chamber quantification writing group, developed in conjunction with the European Association of Echocardiograph</article-title>
+  <source>J Am Soc Echocardiogr</source>
+  <year>2005</year>
+  <volume>18</volume>
+  <fpage>1440</fpage>
+  <lpage>1463</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.echo.2005.10.005</pub-id>
+  <pub-id pub-id-type="pmid">16376782</pub-id>
+ </element-citation>
+</ref>

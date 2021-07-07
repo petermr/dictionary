@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR53">
+ <label>53.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Henry</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Kostense</surname>
+    <given-names>PJ</given-names>
+   </name>
+   <name>
+    <surname>Spijkerman</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Dekker</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Nijpels</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Heine</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Kamp</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Westerhof</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Bouter</surname>
+    <given-names>LM</given-names>
+   </name>
+   <name>
+    <surname>Stehouwer</surname>
+    <given-names>CD</given-names>
+   </name>
+   <collab>Hoorn Study</collab>
+  </person-group>
+  <article-title>Arterial stiffness increases with deteriorating glucose tolerance status</article-title>
+  <source>Circulation</source>
+  <year>2003</year>
+  <volume>107</volume>
+  <fpage>2089</fpage>
+  <lpage>2095</lpage>
+  <pub-id pub-id-type="doi">10.1161/01.CIR.0000065222.34933.FC</pub-id>
+  <?supplied-pmid 12695300?>
+  <pub-id pub-id-type="pmid">12695300</pub-id>
+ </element-citation>
+</ref>

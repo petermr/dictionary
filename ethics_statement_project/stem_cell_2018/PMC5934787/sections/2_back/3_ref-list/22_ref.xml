@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ahmed</surname>
+    <given-names>FW</given-names>
+   </name>
+   <name>
+    <surname>Rider</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Glanville</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Narayanan</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Razvi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Weaver</surname>
+    <given-names>JU</given-names>
+   </name>
+  </person-group>
+  <article-title>Metformin improves circulating endothelial cells and endothelial progenitor cells in type 1 diabetes: MERIT study</article-title>
+  <source>Cardiovasc Diabetol.</source>
+  <year>2016</year>
+  <volume>15</volume>
+  <fpage>116</fpage>
+  <pub-id pub-id-type="doi">10.1186/s12933-016-0413-6</pub-id>
+  <?supplied-pmid 27561827?>
+  <pub-id pub-id-type="pmid">27561827</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xia</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>X</given-names>
+   </name>
+  </person-group>
+  <article-title>Efficacy of mesenchymal stem cells injection for the management of knee osteoarthritis: a systematic review and meta-analysis</article-title>
+  <source>Int Orthop</source>
+  <year>2015</year>
+  <volume>39</volume>
+  <fpage>2363</fpage>
+  <lpage>2372</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00264-015-2785-8</pub-id>
+  <?supplied-pmid 25944079?>
+  <pub-id pub-id-type="pmid">25944079</pub-id>
+ </element-citation>
+</ref>

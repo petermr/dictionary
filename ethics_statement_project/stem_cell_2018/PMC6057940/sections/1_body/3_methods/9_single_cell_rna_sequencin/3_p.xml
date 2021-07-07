@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par54">Downstream filtering and analysis of the raw gene−cell barcode matrix was performed using the Seurat v2.0 package in R
+ <sup>
+  <xref ref-type="bibr" rid="CR71">71</xref>
+ </sup>. The gene−cell barcode matrix was filtered based on number of genes detected per cell (any cells with less than 500 or more than 6000 genes per cell were filtered), a total number of unique molecular identifiers (UMIs) (any cells with UMIs &gt; 50,000 were filtered) and a percentage of mitochondrial UMI counts (any cells with more than 10% of mitochondrial UMI counts were filtered). Altogether, in the combined five datasets, a total of 14,950 cells and 18,487 genes were analyzed. Based on an expression cut-off of 0.0125 and a dispersion cut-off of 0.5, a total of 2620 variable genes were selected for principal component analysis (PCA). A total of 91 significant principal components (determined using JackStraw in Seurat, 
+ <italic>P</italic> &lt; 0.05) were used for clustering analysis and 
+ <italic>t</italic>-SNE projection. The classification of cell clusters was inferred using the following canonical markers: CAFs (
+ <italic>Pdpn</italic> and 
+ <italic>Pdgfrb)</italic>, epithelial cancer cells (
+ <italic>Epcam)</italic>, endothelial cells (
+ <italic>Cd34</italic> and 
+ <italic>Pecam1</italic>), macrophages/monocytes (
+ <italic>Ptprc</italic> and 
+ <italic>Cd68</italic>), neutrophils (
+ <italic>Ptprc</italic> and 
+ <italic>Csf3r</italic>), and natural killer cells (
+ <italic>Ptprc</italic> and 
+ <italic>Ncr1)</italic>. Differential gene expression analysis in Seurat was performed using the “bimod” likelihood-ratio test.
+</p>

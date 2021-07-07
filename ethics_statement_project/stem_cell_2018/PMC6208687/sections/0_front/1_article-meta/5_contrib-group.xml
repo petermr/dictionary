@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Knauf</surname>
+   <given-names>Wolfgang</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Aldaoud</surname>
+   <given-names>Ali</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hutzschenreuter</surname>
+   <given-names>Ulrich</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Klausmann</surname>
+   <given-names>Martine</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dille</surname>
+   <given-names>Stephanie</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wetzel</surname>
+   <given-names>Natalie</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jänicke</surname>
+   <given-names>Martina</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6098-1301</contrib-id>
+  <name>
+   <surname>Marschner</surname>
+   <given-names>Norbert</given-names>
+  </name>
+  <address>
+   <phone>+49 761 386 870</phone>
+   <email>manuskript@onkologie-freiburg.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <collab>and the TLN-Group (Tumour Registry Lymphatic Neoplasms)</collab>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>Joint Outpatient-Centre for Oncology, Frankfurt a. M., Germany 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>Joint Outpatient-Centre for Haematology and Oncology, Leipzig, Germany 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>Joint Outpatient-Centre for Haematology and Oncology, Nordhorn, Germany 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>Joint Outpatient-Centre for Haematology and Oncology, Aschaffenburg, Germany 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.476932.d</institution-id>
+   <institution>Medical Department, iOMEDICO, </institution>
+  </institution-wrap>Freiburg, Germany 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.476932.d</institution-id>
+   <institution>Clinical Epidemiology and Health Economics, iOMEDICO, </institution>
+  </institution-wrap>Freiburg, Germany 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>Outpatient-Centre for Interdisciplinary Oncology and Haematology, Wirthstrasse 11c, 79110 Freiburg, Germany 
+ </aff>
+</contrib-group>

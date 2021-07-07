@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib16">
+ <label>16</label>
+ <element-citation publication-type="journal" id="sbref160">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Thomas</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Chunder</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Ikaros enforces the costimulatory requirement for IL2 gene expression and is required for anergy induction in CD4+ T lymphocytes</article-title>
+  <source>J Immunol</source>
+  <volume>179</volume>
+  <year>2007</year>
+  <fpage>7305</fpage>
+  <lpage>7315</lpage>
+  <pub-id pub-id-type="pmid">18025173</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib17">
+ <label>17</label>
+ <element-citation publication-type="book" id="sref17">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Greene</surname>
+    <given-names>F.L.</given-names>
+   </name>
+   <name>
+    <surname>Page</surname>
+    <given-names>D.L.</given-names>
+   </name>
+   <name>
+    <surname>Fleming</surname>
+    <given-names>I.D.</given-names>
+   </name>
+   <name>
+    <surname>Fritz</surname>
+    <given-names>A.G.</given-names>
+   </name>
+   <name>
+    <surname>Balch</surname>
+    <given-names>C.M.</given-names>
+   </name>
+   <name>
+    <surname>Haller</surname>
+    <given-names>D.G.</given-names>
+   </name>
+  </person-group>
+  <chapter-title>American Joint Committee on Cancer (AJCC) cancer staging manual</chapter-title>
+  <edition>6th ed.</edition>
+  <year>2002</year>
+  <publisher-name>Springer-Verlag</publisher-name>
+  <publisher-loc>New York (NY)</publisher-loc>
+ </element-citation>
+</ref>

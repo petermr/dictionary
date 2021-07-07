@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab4">
+ <label>Table 4</label>
+ <caption>
+  <p>Pharmacokinetic parameters – Cycle 1</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Dose (mg/kg)</th>
+    <th>N</th>
+    <th>C
+     <sub>max</sub> (μg/mL)
+    </th>
+    <th>AUC
+     <sub>∞</sub> (h*μg/mL)
+    </th>
+    <th>t
+     <sub>1/2</sub> (h)
+    </th>
+    <th>CL (L/h)</th>
+    <th>V
+     <sub>z</sub> (L)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>0.1</td>
+    <td>3</td>
+    <td>2.3 (0.4)</td>
+    <td>14.6 (8.8)</td>
+    <td>4.9 (2.2)</td>
+    <td>0.8 (0.4)</td>
+    <td>5.1 (1.2)</td>
+   </tr>
+   <tr>
+    <td>0.2</td>
+    <td>8</td>
+    <td>3.9 (0.9)</td>
+    <td>63.7 (29.9)</td>
+    <td>9.8 (3.1)</td>
+    <td>0.3 (0.2)</td>
+    <td>3.8 (1.3)</td>
+   </tr>
+   <tr>
+    <td>0.4</td>
+    <td>8</td>
+    <td>9.1 (4.7)</td>
+    <td>238.3 (160.6)</td>
+    <td>21.6 (22.9)</td>
+    <td>0.3 (0.2)</td>
+    <td>4.8 (4.0)</td>
+   </tr>
+   <tr>
+    <td>0.7</td>
+    <td>3</td>
+    <td>13.8 (2.8)</td>
+    <td>529.5 (391.8)</td>
+    <td>20.9 (15.9)</td>
+    <td>0.2 (0.2)</td>
+    <td>2.6 (0.0)</td>
+   </tr>
+   <tr>
+    <td>0.8</td>
+    <td>2</td>
+    <td>20.9 (−)</td>
+    <td>1174 (−)</td>
+    <td>39.7 (−)</td>
+    <td>0.07 (−)</td>
+    <td>4.0 (−)</td>
+   </tr>
+   <tr>
+    <td>1.0</td>
+    <td>6</td>
+    <td>24.9 (6.1)</td>
+    <td>1282 (862.8)</td>
+    <td>30.3 (20.3)</td>
+    <td>0.07 (0.02)</td>
+    <td>2.7 (0.7)</td>
+   </tr>
+   <tr>
+    <td>1.4</td>
+    <td>6</td>
+    <td>36.0 (7.6)</td>
+    <td>1822 (975.7)</td>
+    <td>24.9 (6.6)</td>
+    <td>0.09 (0.04)</td>
+    <td>2.9 (0.8)</td>
+   </tr>
+   <tr>
+    <td>1.8</td>
+    <td>12</td>
+    <td>53.5 (20.0)</td>
+    <td>2525 (1484)</td>
+    <td>33.9 (21.5)</td>
+    <td>0.07 (0.03)</td>
+    <td>2.8 (0.7)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Data are mean (SD). C
+   <sub>max</sub> = peak concentration. AUC
+   <sub>∞</sub> = area under the plasma concentration vs time curve extrapolated to infinity. t
+   <sub>1/2</sub> = half-life. CL = clearance. V
+   <sub>z</sub> = volume of distribution at terminal phase
+  </p>
+ </table-wrap-foot>
+</table-wrap>

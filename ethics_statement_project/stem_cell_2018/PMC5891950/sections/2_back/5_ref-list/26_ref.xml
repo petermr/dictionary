@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jung</surname>
+    <given-names>D-I</given-names>
+   </name>
+   <name>
+    <surname>Ha</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Kang</surname>
+    <given-names>B-T</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>J-W</given-names>
+   </name>
+   <name>
+    <surname>Quan</surname>
+    <given-names>F-S</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>J-H</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A comparison of autologous and allogenic bone marrow-derived mesenchymal stem cell transplantation in canine spinal cord injury</article-title>
+  <source>J Neurol Sci</source>
+  <year>2009</year>
+  <volume>285</volume>
+  <fpage>67</fpage>
+  <lpage>77</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jns.2009.05.027</pub-id>
+  <?supplied-pmid 19555980?>
+  <pub-id pub-id-type="pmid">19555980</pub-id>
+ </element-citation>
+</ref>

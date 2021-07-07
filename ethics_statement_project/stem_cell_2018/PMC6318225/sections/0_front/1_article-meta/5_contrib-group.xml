@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jackson</surname>
+   <given-names>Graham H</given-names>
+  </name>
+  <degrees>Prof</degrees>
+  <degrees>MD</degrees>
+  <email>graham.jackson@newcastle.ac.uk</email>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="cor1" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Davies</surname>
+   <given-names>Faith E</given-names>
+  </name>
+  <degrees>Prof</degrees>
+  <degrees>MD</degrees>
+  <xref rid="aff2" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pawlyn</surname>
+   <given-names>Charlotte</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff3" ref-type="aff">c</xref>
+  <xref rid="aff4" ref-type="aff">d</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cairns</surname>
+   <given-names>David A</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff5" ref-type="aff">e</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Striha</surname>
+   <given-names>Alina</given-names>
+  </name>
+  <degrees>MSc</degrees>
+  <xref rid="aff5" ref-type="aff">e</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Collett</surname>
+   <given-names>Corinne</given-names>
+  </name>
+  <degrees>BSc</degrees>
+  <xref rid="aff5" ref-type="aff">e</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hockaday</surname>
+   <given-names>Anna</given-names>
+  </name>
+  <degrees>BSc</degrees>
+  <xref rid="aff5" ref-type="aff">e</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jones</surname>
+   <given-names>John R</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff3" ref-type="aff">c</xref>
+  <xref rid="aff4" ref-type="aff">d</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kishore</surname>
+   <given-names>Bhuvan</given-names>
+  </name>
+  <degrees>MBBS</degrees>
+  <xref rid="aff7" ref-type="aff">g</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Garg</surname>
+   <given-names>Mamta</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff8" ref-type="aff">h</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Williams</surname>
+   <given-names>Cathy D</given-names>
+  </name>
+  <degrees>FRCPath</degrees>
+  <xref rid="aff9" ref-type="aff">i</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Karunanithi</surname>
+   <given-names>Kamaraj</given-names>
+  </name>
+  <degrees>FRCPath</degrees>
+  <xref rid="aff10" ref-type="aff">j</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lindsay</surname>
+   <given-names>Jindriska</given-names>
+  </name>
+  <degrees>MUDr</degrees>
+  <xref rid="aff11" ref-type="aff">k</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jenner</surname>
+   <given-names>Matthew W</given-names>
+  </name>
+  <degrees>MBBS</degrees>
+  <xref rid="aff12" ref-type="aff">l</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cook</surname>
+   <given-names>Gordon</given-names>
+  </name>
+  <degrees>Prof</degrees>
+  <degrees>PhD</degrees>
+  <xref rid="aff5" ref-type="aff">e</xref>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Russell</surname>
+   <given-names>Nigel H</given-names>
+  </name>
+  <degrees>Prof</degrees>
+  <degrees>MD</degrees>
+  <xref rid="aff9" ref-type="aff">i</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kaiser</surname>
+   <given-names>Martin F</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff3" ref-type="aff">c</xref>
+  <xref rid="aff4" ref-type="aff">d</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Drayson</surname>
+   <given-names>Mark T</given-names>
+  </name>
+  <degrees>Prof</degrees>
+  <degrees>PhD</degrees>
+  <xref rid="aff13" ref-type="aff">m</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Owen</surname>
+   <given-names>Roger G</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff14" ref-type="aff">n</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gregory</surname>
+   <given-names>Walter M</given-names>
+  </name>
+  <degrees>Prof</degrees>
+  <degrees>PhD</degrees>
+  <xref rid="aff5" ref-type="aff">e</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Morgan</surname>
+   <given-names>Gareth J</given-names>
+  </name>
+  <degrees>Prof</degrees>
+  <degrees>PhD</degrees>
+  <xref rid="aff2" ref-type="aff">b</xref>
+ </contrib>
+ <on-behalf-of>for the UK NCRI Haemato-oncology Clinical Studies Group</on-behalf-of>
+</contrib-group>

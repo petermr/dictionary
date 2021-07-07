@@ -1,0 +1,531 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Stem Cells Transl Med</journal-id><journal-id journal-id-type="iso-abbrev">Stem Cells Transl Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2157-6580</journal-id><journal-id journal-id-type="publisher-id">SCT3</journal-id><journal-title-group><journal-title>Stem Cells Translational Medicine</journal-title></journal-title-group><issn pub-type="ppub">2157-6564</issn><issn pub-type="epub">2157-6580</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6127229</article-id><article-id pub-id-type="doi">10.1002/sctm.18-0031</article-id><article-id pub-id-type="publisher-id">SCT312331</article-id><article-categories><subj-group subj-group-type="overline"><subject>Human Clinical Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Human Clinical Articles</subject></subj-group></article-categories><title-group><article-title>Intravenous Infusion of Umbilical Cord Blood&#x02010;Derived Mesenchymal Stem Cells in Rheumatoid Arthritis: A Phase Ia Clinical Trial</article-title><alt-title alt-title-type="right-running-head">Stem Cell Infusion for Rheumatoid Arthritis</alt-title><alt-title alt-title-type="left-running-head">Park, Lim, Lee et al.</alt-title></title-group><contrib-group><contrib id="sct312331-cr-0001" contrib-type="author"><name><surname>Park</surname><given-names>Eun Hye</given-names></name><xref ref-type="aff" rid="sct312331-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312331-cr-0002" contrib-type="author"><name><surname>Lim</surname><given-names>Hee&#x02010;suk</given-names></name><xref ref-type="aff" rid="sct312331-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="sct312331-cr-0003" contrib-type="author"><name><surname>Lee</surname><given-names>Seunghee</given-names></name><xref ref-type="aff" rid="sct312331-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="sct312331-cr-0004" contrib-type="author"><name><surname>Roh</surname><given-names>Kyounghwan</given-names></name><xref ref-type="aff" rid="sct312331-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="sct312331-cr-0005" contrib-type="author"><name><surname>Seo</surname><given-names>Kwang&#x02010;Won</given-names></name><xref ref-type="aff" rid="sct312331-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="sct312331-cr-0006" contrib-type="author"><name><surname>Kang</surname><given-names>Kyung&#x02010;Sun</given-names></name><xref ref-type="aff" rid="sct312331-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="sct312331-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="sct312331-cr-0007" contrib-type="author" corresp="yes"><name><surname>Shin</surname><given-names>Kichul</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6749-7598</contrib-id><address><email>kideb1@snu.ac.kr</email></address><xref ref-type="aff" rid="sct312331-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="sct312331-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Division of Rheumatology, Department of Internal Medicine</named-content>
+<institution>Seoul National University Hospital</institution>
+<named-content content-type="city">Seoul</named-content>
+<country country="KR">South Korea</country>
+</aff><aff id="sct312331-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Division of Rheumatology, Department of Internal Medicine</named-content>
+<institution>Seoul Metropolitan Government&#x02010;Seoul National University Boramae Medical Center</institution>
+<named-content content-type="city">Seoul</named-content>
+<country country="KR">South Korea</country>
+</aff><aff id="sct312331-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Institute for Stem cell Regenerative Medicine</named-content>
+<institution>Kangstem Biotech</institution>
+<named-content content-type="city">Seoul</named-content>
+<country country="KR">South Korea</country>
+</aff><aff id="sct312331-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Adult Stem Cell Research Center, College of Veterinary Medicine</named-content>
+<institution>Seoul National University</institution>
+<named-content content-type="city">Seoul</named-content>
+<country country="KR">South Korea</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Correspondence: Kichul Shin, M.D., Ph.D., Division of Rheumatology, SMG&#x02010;SNU Boramae Medical Center, 20 Boramae&#x02010;ro&#x02010;5&#x02010;gil, Dongjak&#x02010;gu, Seoul 07061, South Korea. Telephone: 822 870 3204; <email>kideb1@snu.ac.kr</email></corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>8</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2018</year></pub-date><volume>7</volume><issue>9</issue><issue-id pub-id-type="doi">10.1002/sct3.2018.7.issue-9</issue-id><fpage>636</fpage><lpage>642</lpage><history><date date-type="received"><day>12</day><month>2</month><year>2018</year></date><date date-type="rev-recd"><day>04</day><month>5</month><year>2018</year></date><date date-type="accepted"><day>09</day><month>5</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 AlphaMed Press <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors S<sc>tem</sc> C<sc>ells</sc> T<sc>ranslational</sc> M<sc>edicine</sc> published by Wiley Periodicals, Inc. on behalf of AlphaMed Press</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:SCT3-7-636.pdf"/><abstract><title>Abstract</title><p>Based on immunomodulatory actions of human umbilical cord blood&#x02010;derived mesenchymal stem cells (hUCB&#x02010;MSCs), in vitro or preclinical studies of hUCB&#x02010;MSCs have been conducted extensively in rheumatoid arthritis (RA). However, few human trials have investigated the outcomes of hUCB&#x02010;MSC infusions. The CURE&#x02010;iv trial was a phase I, uncontrolled, open label trial for RA patients with moderate disease activity despite treatment with methotrexate. The patients received a single intravenous infusion of 2.5 &#x000d7; 10<sup>7</sup>, 5 &#x000d7; 10<sup>7</sup>, or 1 &#x000d7; 10<sup>8</sup> cells of hUCB&#x02010;MSCs for 30 minutes, three patients in each cluster, with an increment of cell numbers when there was no dose&#x02010;limited adverse event. Clinical and safety assessments were performed during the study period, and serum cytokines were measured at baseline and 24 hours after the infusion. Out of 11 screened RA patients, 9 were enrolled. The participants were predominantly female (78%) and the mean age was 57.4 years. The mean disease duration was 9.5 years, and baseline 28&#x02010;joint disease activity score (DAS28; using erythrocyte sedimentation rate) was 4.53. There was no major toxicity in all clusters up to 4 weeks after the infusion. Serum erythrocyte sedimentation rate changes at 4 weeks (<italic>n</italic> = 9) were &#x02212;7.9 &#x000b1; 10.4 (<italic>p</italic> = .0517) and DAS28 changes were &#x02212;1.60 &#x000b1; 1.57 (<italic>p</italic> = .0159). Reduced levels of IL&#x02010;1&#x003b2;, IL&#x02010;6, IL&#x02010;8, and TNF&#x02010;&#x003b1; at 24 hours were observed in the cluster infused with 1 &#x000d7; 10<sup>8</sup> MSCs. This phase Ia hUCB&#x02010;MSC infusion trial for established RA patients revealed no short&#x02010;term safety concerns. S<sc>tem</sc> C<sc>ells</sc> T<sc>ranslational</sc> M<sc>edicine</sc>
+<italic>2018</italic>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="sct312331-kwd-0001">Clinical trial</kwd><kwd id="sct312331-kwd-0002">Mesenchymal stem cell</kwd><kwd id="sct312331-kwd-0003">Rheumatoid arthritis</kwd><kwd id="sct312331-kwd-0004">Safety</kwd><kwd id="sct312331-kwd-0005">Umbilical cord blood</kwd></kwd-group><funding-group><award-group><funding-source>Kangstem Biotech Co., Ltd.</funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="2"/><page-count count="7"/><word-count count="5409"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>sct312331</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.7.1 mode:remove_FC converted:06.09.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>
+<boxed-text position="anchor" content-type="box" orientation="portrait"><caption><title>Significance Statement</title></caption><p>This is the first human trial that has investigated the outcome of human umbilical cord blood&#x02010;derived mesenchymal stem cells (hUCB&#x02010;MSCs) infusions in patients with rheumatoid arthritis (RA). RA patients with moderate disease activity were given a single infusion of hUCB&#x02010;MSCs, cell numbers up to 1 &#x000d7; 10<sup>8</sup>, and no ominous short&#x02010;term safety signal was observed. In addition, a single infusion of hUCB&#x02010;MSCs reduced the mean 28&#x02010;joint disease activity score of the study participants. Data from this trial provide insight and suggestions for future trials assessing safety plus clinical efficacy, furthering treatment protocols of hUCB&#x02010;MSCs infusions for RA patients who are in need.</p></boxed-text>
+</p><sec id="sct312331-sec-0003"><title>Introduction</title><p>Rheumatoid arthritis (RA) is a chronic, systemic, inflammatory disorder that primarily involves synovial joints <xref rid="sct312331-bib-0001" ref-type="ref">1</xref>. During the past decade, new classes of disease&#x02010;modifying antirheumatic drugs (DMARDs) and updated treatment strategies enabled better clinical outcomes for RA patients, but few patients reach long&#x02010;term drug&#x02010;free clinical remission despite such achievements. Moreover, these approaches are costly and may ensue side effects, for instance, laboratory test abnormalities and serious infections <xref rid="sct312331-bib-0002" ref-type="ref">2</xref>, <xref rid="sct312331-bib-0003" ref-type="ref">3</xref>. Therefore, the need still exists for an effective and safe treatment for those who respond inadequately to current therapies.</p><p>MSCs are mesoderm&#x02010;derived cells that reside in the stroma of solid organs and function as precursors of nonhematopoietic connective tissues <xref rid="sct312331-bib-0004" ref-type="ref">4</xref>, <xref rid="sct312331-bib-0005" ref-type="ref">5</xref>, <xref rid="sct312331-bib-0006" ref-type="ref">6</xref>. They can exert profound immunosuppression by modulating the proliferation and differentiation of T and B cells, dendritic cell maturation, and natural killer activity <xref rid="sct312331-bib-0006" ref-type="ref">6</xref>. After in vivo administration, MSCs induce peripheral tolerance and migrate to injured tissues where they can inhibit the release of inflammatory cytokines and promote the survival of damaged cells <xref rid="sct312331-bib-0007" ref-type="ref">7</xref>. Based on the immunoregulatory capabilities of MSCs, cell&#x02010;based therapies using MSCs have been spotlighted as a promising tool for the treatment of various immune&#x02010;related diseases, such as the graft&#x02010;versus&#x02010;host disease, inflammatory bowel disease, multiple sclerosis, and atopic dermatitis <xref rid="sct312331-bib-0008" ref-type="ref">8</xref>, <xref rid="sct312331-bib-0009" ref-type="ref">9</xref>, <xref rid="sct312331-bib-0010" ref-type="ref">10</xref>, <xref rid="sct312331-bib-0011" ref-type="ref">11</xref>, <xref rid="sct312331-bib-0012" ref-type="ref">12</xref>. Some studies have also demonstrated that MSCs could be part of a new effective therapeutic approach for autoimmune arthritis <xref rid="sct312331-bib-0012" ref-type="ref">12</xref>, <xref rid="sct312331-bib-0013" ref-type="ref">13</xref>, <xref rid="sct312331-bib-0014" ref-type="ref">14</xref>, <xref rid="sct312331-bib-0015" ref-type="ref">15</xref>, <xref rid="sct312331-bib-0016" ref-type="ref">16</xref>.</p><p>The main sources of human MSCs are the bone marrow, peripheral blood, adipose tissue, and the umbilical cord. Compared with bone marrow&#x02010;derived MSCs, human umbilical cord blood&#x02010;derived MSCs (hUCB&#x02010;MSCs) have distinct advantages, including accessibility, a higher proliferation capacity, and a lower immunogenicity <xref rid="sct312331-bib-0017" ref-type="ref">17</xref>. In addition to well&#x02010;documented self&#x02010;renewal and multipotent differentiation properties, hUCB&#x02010;MSCs possess immunoregulatory traits that permit allogeneic transplantation <xref rid="sct312331-bib-0018" ref-type="ref">18</xref>. However, the role of hUCB&#x02010;MSCs in vivo and their repair mechanisms in RA has not yet been fully elucidated.</p><p>To our knowledge, this is the first human trial that has investigated the outcome of hUCB&#x02010;MSC infusions in patients with RA. A recent study used human umbilical cord (hUC)&#x02010;derived MSCs to RA patients, which differ from hUCB&#x02010;MSC in terms of source and preparation of the investigational product <xref rid="sct312331-bib-0019" ref-type="ref">19</xref>. Our group has previously investigated the detailed mechanism by which hUCB&#x02010;MSC infusions can ameliorate inflammatory arthritis <xref rid="sct312331-bib-0012" ref-type="ref">12</xref>. This phase Ia study extends our preclinical research, investigating the safety and tolerability of a single intravenous infusion of hUCB&#x02010;MSCs in Korean patients with RA.</p></sec><sec id="sct312331-sec-0004"><title>Materials and Methods</title><sec id="sct312331-sec-0005"><title>Patient Population</title><p>This study enrolled adults (&#x0003e;18 years) with RA who fulfilled the 2010 American College of Rheumatology (ACR)/European League Against Rheumatism classification criteria <xref rid="sct312331-bib-0020" ref-type="ref">20</xref> and had a baseline 28&#x02010;joint count disease activity score (DAS28; using the erythrocyte sedimentation rate [ESR]) &#x0003e; 3.2. The requirement for all patients was to be on a stable dose of methotrexate (MTX), for at least 12 weeks. The exclusion criteria were as follows: a history of or current rheumatic diseases or an autoimmune joint disease other than RA, a functional class IV status as defined by the ACR Classification of Functional Status in RA <xref rid="sct312331-bib-0021" ref-type="ref">21</xref>, pregnancy or breastfeeding, a prior malignancy, or an active infection. Patients with a history of incompletely treated tuberculosis, or a conspicuous infection within 4 weeks before screening were also excluded.</p></sec><sec id="sct312331-sec-0006"><title>Study Design</title><p>The Clinical and safety assessment of human Umbilical cord blood&#x02010;derived mesenchymal stem cell therapy for RhEumatoid arthritis patients administered intravenously (CURE&#x02010;iv) trial is a phase Ia, open&#x02010;label, dose&#x02010;escalation study for RA patients with a moderate disease activity despite treatment with MTX (<ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link> NCT02221258). The subjects were recruited from the Seoul Metropolitan Government&#x02010;Seoul National University Boramae Medical Center. The study was approved by institutional review boards and ethics committees at Korea National Institute for Bioethics Policy, and conducted in accordance with the Good Clinical Practice guidelines and the Declaration of Helsinki. All participants provided written informed consent before the investigation. Patients maintained their regimen of conventional DMARDs and oral corticosteroids (&#x0003c; 10 mg/day of prednisolone or its equivalent) throughout the study period.</p><p>The hUCB&#x02010;MSCs were isolated and maintained as previously described <xref rid="sct312331-bib-0022" ref-type="ref">22</xref>. Briefly, hUCB samples were obtained from the umbilical vein immediately after delivery and were mixed with Hetasep solution (StemCell Technologies, Vancouver, Canada) at a ratio of 5:1, and then incubated at room temperature. The supernatant was collected, and mononuclear cells were obtained using Ficoll (GE healthcare life sciences, Pittsburgh, PA) density&#x02010;gradient centrifugation, according to the manufacturer's protocol <xref rid="sct312331-bib-0023" ref-type="ref">23</xref>. The cells were washed twice in phosphate buffered solution. Next, the cells were seeded at a density of 2 &#x000d7; 10<sup>5</sup> to 2 &#x000d7; 10<sup>6</sup> cells/cm<sup>2</sup> on plates in growth media that consisted of D&#x02010;media (formula 78&#x02010;5470EF; Gibco BRL, Grand Island, NY) containing EGM&#x02010;2 SingleQuot and 10% fetal bovine serum (Gibco BRL). After 3 days, nonadherent cells were removed <xref rid="sct312331-bib-0024" ref-type="ref">24</xref>. The stem cell characteristics of hUCB&#x02010;MSCs were verified by determining their differentiation, proliferation, and immunological phenotypes as previously described <xref rid="sct312331-bib-0025" ref-type="ref">25</xref>. The subjects were given a single intravenous infusion of 2.5 &#x000d7; 10<sup>7</sup>, 5 &#x000d7; 10<sup>7</sup>, or 1 &#x000d7; 10<sup>8</sup> cells of hUCB&#x02010;MSCs for 30 minutes. Three patients were allocated to each cluster. The first cluster received the lowest cell number and then moved (increased hUCB&#x02010;MSC numbers) to the next cluster if there was no dose&#x02010;limited adverse event. Clinical and safety parameters were monitored after 24 hours, 72 hours, 1 week, and 4 weeks following the infusion (Fig. <xref rid="sct312331-fig-0001" ref-type="fig">1</xref>). Hematological and biochemical tests, urine analysis, chest radiography, and a 12&#x02010;lead electrocardiogram (ECG) were performed. For the disease status assessment, values from a 66/68&#x02010;swollen/tender joint count, DAS28, a pain visual analog scale (VAS), and a health assessment questionnaire (HAQ) were obtained. Serum cytokines, including IL&#x02010;1&#x003b2;, IL&#x02010;6, IL&#x02010;8, IL&#x02010;10, and TNF&#x02010;&#x003b1;, at baseline and 24 hours after the infusion of hUCB&#x02010;MSC were analyzed with a Human High Sensitivity T Cell Magnetic Bead Panel (Merck KGaA, Darmstadt, Germany).</p><fig fig-type="Figure" xml:lang="en" id="sct312331-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Step&#x02010;wise increment of human umbilical blood&#x02010;derived mesenchymal stem cell infusion. Abbreviations: DLT, dose limiting toxicity; MTD, maximum tolerated dose.</p></caption><graphic id="nlm-graphic-3" xlink:href="SCT3-7-636-g001"/></fig></sec><sec id="sct312331-sec-0007"><title>Outcomes</title><p>The primary study objective was to evaluate the safety and tolerability of a single intravenous infusion of hUCB&#x02010;MSCs in study subjects. The secondary objective was to obtain a preliminary assessment of its efficacy. For the efficacy end points, changes of DAS28 and HAQ 4 weeks after the infusion were evaluated.</p></sec><sec id="sct312331-sec-0008"><title>Statistical Analysis</title><p>Continuous variables from the clinical data were presented as means and standard deviations. Discrete variables were reported as frequencies and proportions. The data for the safety evaluation before and after the treatment were compared by paired <italic>t</italic> tests or the Wilcoxon signed&#x02010;rank test. The statistical significance of the analyses&#x02019; results was determined by a two&#x02010;tailed <italic>p</italic> value of &#x0003c;.05.</p></sec></sec><sec id="sct312331-sec-0009"><title>Results</title><sec id="sct312331-sec-0010"><title>Patient Characteristics</title><p>Out of the 11 screened RA patients, 9 were enrolled and received a single intravenous infusion of hUCB&#x02010;MSCs (Fig. <xref rid="sct312331-fig-0002" ref-type="fig">2</xref>). The cell numbers of hUCB&#x02010;MSCs infused to each patient were 2.5 &#x000d7; 10<sup>7</sup> (<italic>n</italic> = 3), 5 &#x000d7; 10<sup>7</sup> (<italic>n</italic> = 3), and 1 &#x000d7; 10<sup>8</sup> (<italic>n</italic> = 3). The study subjects were predominantly female (78%) and the mean age was 57.4 years. The disease duration was (mean &#x000b1; SD) 9.5 &#x000b1; 8.7 years and the DAS28 at baseline was 4.53 &#x000b1; 1.35. All subjects had received MTX, with mean doses of 14.2 mg/week at baseline and seven of them were taking oral corticosteroids (Table <xref rid="sct312331-tbl-0001" ref-type="table">1</xref>). No patient had previously received biologic DMARDs.</p><fig fig-type="Figure" xml:lang="en" id="sct312331-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Overview of the study scheme.</p></caption><graphic id="nlm-graphic-5" xlink:href="SCT3-7-636-g002"/></fig><table-wrap id="sct312331-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline clinical and demographic characteristics of patients (<italic>n</italic> = 9)</p></caption><table frame="hsides" rules="cols"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Baseline</th><th align="center" valign="bottom" rowspan="1" colspan="1">Week 4</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic> value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Female, <italic>n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1">7 (77.8)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, mean &#x000b1; SD, yr</td><td align="center" valign="top" rowspan="1" colspan="1">57.4 &#x000b1; 10.0</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Disease duration, mean &#x000b1; SD, yr</td><td align="center" valign="top" rowspan="1" colspan="1">9.5 &#x000b1; 8.7</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI, mean &#x000b1; SD, kg/m<sup>2</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">25.2 &#x000b1; 0.9</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Rheumatoid factor, positive, <italic>n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (66.7)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Anti&#x02010;CCP, positive, <italic>n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (44.4)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Previous medication</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">MTX users, <italic>n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1">9 (100.0)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Dose, mean &#x000b1; SD, mg/wk</td><td align="center" valign="top" rowspan="1" colspan="1">14.2 &#x000b1; 0.9</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Corticosteroid users, <italic>n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1">7 (77.8)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Dose, mean &#x000b1; SD, mg/day<xref ref-type="fn" rid="sct312331-note-0001">a</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">3.1 &#x000b1; 0.8</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Swollen joint count, mean &#x000b1; SD, <italic>n</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">2.4 &#x000b1; 2.7</td><td align="center" valign="top" rowspan="1" colspan="1">0.7 &#x000b1; 0.8</td><td align="center" valign="top" rowspan="1" colspan="1">.1038</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Tender joint count, mean &#x000b1; SD, <italic>n</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">11.8 &#x000b1; 16.7</td><td align="center" valign="top" rowspan="1" colspan="1">2.0 &#x000b1; 3.1</td><td align="center" valign="top" rowspan="1" colspan="1">.0888</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DAS28&#x02010;ESR, mean &#x000b1; SD</td><td align="center" valign="top" rowspan="1" colspan="1">4.53 &#x000b1; 1.35</td><td align="center" valign="top" rowspan="1" colspan="1">2.93 &#x000b1; 1.22</td><td align="center" valign="top" rowspan="1" colspan="1">.0158</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pain VAS (0&#x02013;100), mean &#x000b1; SD, mm</td><td align="center" valign="top" rowspan="1" colspan="1">64.8 &#x000b1; 20.2</td><td align="center" valign="top" rowspan="1" colspan="1">46.9 &#x000b1; 29.1</td><td align="center" valign="top" rowspan="1" colspan="1">.0885</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">HAQ (0&#x02013;5), mean &#x000b1; SD</td><td align="center" valign="top" rowspan="1" colspan="1">0.69 &#x000b1; 0.63</td><td align="center" valign="top" rowspan="1" colspan="1">0.54 &#x000b1; 0.58</td><td align="center" valign="top" rowspan="1" colspan="1">.3706</td></tr></tbody></table><table-wrap-foot><fn id="sct312331-note-0001"><label>a</label><p>
+Prednisolone or its equivalent.</p></fn><fn id="sct312331-note-0002"><p>Abbreviations: CCP, cyclic citrullinated peptide; ESR, erythrocyte sedimentation rate; DAS28, 28&#x02010;joint disease activity score; VAS, visual analog scale; HAQ, health assessment questionnaire.</p></fn></table-wrap-foot></table-wrap></sec><sec id="sct312331-sec-0011"><title>Safety and Tolerability</title><p>There was no ominous safety signal in all clusters up to 4 weeks after the infusion of hUCB&#x02010;MSCs. The vital signs were stable during the hUCB&#x02010;MSC infusion and clinically meaningful ECG changes could not be observed. Only one patient in the 5 &#x000d7; 10<sup>7</sup> group reported joint pain 60 minutes after the infusion, but this was determined to be unrelated to the hUCB&#x02010;MSCs infusion. There was no major abnormal finding in the hematologic profiles (Table <xref rid="sct312331-tbl-0002" ref-type="table">2</xref>). Abnormalities were not observed in the serum chemical profiles such as of liver and renal functions. Serum uric acid levels were slightly elevated (from 3.63 &#x000b1; 1.11 to 4.16 &#x000b1; 1.19 mg/dl) at 4 weeks, but the changes were minor and there was no related adverse event. Neither serious adverse event nor dose&#x02010;limiting toxicity (DLT) was reported.</p><table-wrap id="sct312331-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Laboratory tests at baseline and week 4</p></caption><table frame="hsides" rules="cols"><col align="left" span="1"/><col align="char" char="&#x000b1;" span="1"/><col align="char" char="&#x000b1;" span="1"/><col align="char" char="&#x000b1;" span="1"/><col align="char" char="." span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Baseline</th><th align="center" valign="bottom" rowspan="1" colspan="1">Week 4</th><th align="center" valign="bottom" rowspan="1" colspan="1">Changes</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic> value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">WBC, mean &#x000b1; SD, &#x000d7;10<sup>3</sup>/mm<sup>3</sup>
+</td><td align="char" valign="top" rowspan="1" colspan="1">7.99 &#x000b1; 2.68</td><td align="char" valign="top" rowspan="1" colspan="1">8.23 &#x000b1; 3.30</td><td align="char" valign="top" rowspan="1" colspan="1">0.23 &#x000b1; 1.14</td><td align="char" valign="top" rowspan="1" colspan="1">.5555</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ANC, mean &#x000b1; SD, mm<sup>3</sup>
+</td><td align="char" valign="top" rowspan="1" colspan="1">5,992.6 &#x000b1; 2642.9</td><td align="char" valign="top" rowspan="1" colspan="1">5,558.3 &#x000b1; 2,793.4</td><td align="char" valign="top" rowspan="1" colspan="1">434.2 &#x000b1; 1,225.6</td><td align="char" valign="top" rowspan="1" colspan="1">.3594</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hematocrit, mean &#x000b1; SD, %</td><td align="char" valign="top" rowspan="1" colspan="1">38.5 &#x000b1; 4.3</td><td align="char" valign="top" rowspan="1" colspan="1">38.9 &#x000b1; 4.8</td><td align="char" valign="top" rowspan="1" colspan="1">0.3 &#x000b1; 1.8</td><td align="char" valign="top" rowspan="1" colspan="1">.5852</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Platelet, mean &#x000b1; SD, mm<sup>3</sup>
+</td><td align="char" valign="top" rowspan="1" colspan="1">292.1 &#x000b1; 72.6</td><td align="char" valign="top" rowspan="1" colspan="1">281.67 &#x000b1; 78.8</td><td align="char" valign="top" rowspan="1" colspan="1">&#x02212;10.4 &#x000b1; 22.2</td><td align="char" valign="top" rowspan="1" colspan="1">.1961</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ESR, mean &#x000b1; SD, mm/hr</td><td align="char" valign="top" rowspan="1" colspan="1">23.3 &#x000b1; 12.0</td><td align="char" valign="top" rowspan="1" colspan="1">15.4 &#x000b1; 9.2</td><td align="char" valign="top" rowspan="1" colspan="1">&#x02212;7.9 &#x000b1; 10.4</td><td align="char" valign="top" rowspan="1" colspan="1">.0517</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hs&#x02010;CRP, mean &#x000b1; SD, mg/dl</td><td align="char" valign="top" rowspan="1" colspan="1">0.81 &#x000b1; 1.12</td><td align="char" valign="top" rowspan="1" colspan="1">0.44 &#x000b1; 0.47</td><td align="char" valign="top" rowspan="1" colspan="1">&#x02212;0.37 &#x000b1; 1.09</td><td align="char" valign="top" rowspan="1" colspan="1">.3362</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total protein, mean &#x000b1; SD, g/dl</td><td align="char" valign="top" rowspan="1" colspan="1">6.74 &#x000b1; 0.28</td><td align="char" valign="top" rowspan="1" colspan="1">6.83 &#x000b1; 0.53</td><td align="char" valign="top" rowspan="1" colspan="1">0.09 &#x000b1; 0.43</td><td align="char" valign="top" rowspan="1" colspan="1">.5537</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Albumin, mean &#x000b1; SD, g/dl</td><td align="char" valign="top" rowspan="1" colspan="1">4.21 &#x000b1; 0.14</td><td align="char" valign="top" rowspan="1" colspan="1">4.19 &#x000b1; 0.13</td><td align="char" valign="top" rowspan="1" colspan="1">&#x02212;0.02 &#x000b1; 0.12</td><td align="char" valign="top" rowspan="1" colspan="1">.5943</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total bilirubin, mean &#x000b1; SD, mg/dl</td><td align="char" valign="top" rowspan="1" colspan="1">0.60 &#x000b1; 0.17</td><td align="char" valign="top" rowspan="1" colspan="1">0.61 &#x000b1; 0.25</td><td align="char" valign="top" rowspan="1" colspan="1">0.01 &#x000b1; 0.19</td><td align="char" valign="top" rowspan="1" colspan="1">.8651</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AST, mean &#x000b1; SD, IU/l</td><td align="char" valign="top" rowspan="1" colspan="1">20.2 &#x000b1; 5.3</td><td align="char" valign="top" rowspan="1" colspan="1">23.56 &#x000b1; 9.7</td><td align="char" valign="top" rowspan="1" colspan="1">3.33 &#x000b1; 6.4</td><td align="char" valign="top" rowspan="1" colspan="1">.1570</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ALT, mean &#x000b1; SD, IU/l</td><td align="char" valign="top" rowspan="1" colspan="1">17.0 &#x000b1; 4.9</td><td align="char" valign="top" rowspan="1" colspan="1">20.56 &#x000b1; 10.6</td><td align="char" valign="top" rowspan="1" colspan="1">3.56 &#x000b1; 8.4</td><td align="char" valign="top" rowspan="1" colspan="1">.2390</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BUN, mean &#x000b1; SD, mg/dl</td><td align="char" valign="top" rowspan="1" colspan="1">11.9 &#x000b1; 2.6</td><td align="char" valign="top" rowspan="1" colspan="1">13.2 &#x000b1; 3.9</td><td align="char" valign="top" rowspan="1" colspan="1">1.3 &#x000b1; 3.6</td><td align="char" valign="top" rowspan="1" colspan="1">.2995</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Creatinine, mean &#x000b1; SD, mg/dl</td><td align="char" valign="top" rowspan="1" colspan="1">0.66 &#x000b1; 0.06</td><td align="char" valign="top" rowspan="1" colspan="1">0.64 &#x000b1; 0.09</td><td align="char" valign="top" rowspan="1" colspan="1">&#x02212;0.01 &#x000b1; 0.09</td><td align="char" valign="top" rowspan="1" colspan="1">.6246</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Glucose, mean &#x000b1; SD, mg/dl</td><td align="char" valign="top" rowspan="1" colspan="1">108.2 &#x000b1; 12.9</td><td align="char" valign="top" rowspan="1" colspan="1">104.6 &#x000b1; 8.3</td><td align="char" valign="top" rowspan="1" colspan="1">&#x02212;3.7 &#x000b1; 14.7</td><td align="char" valign="top" rowspan="1" colspan="1">.4566</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total cholesterol, mean &#x000b1; SD, mg/dl</td><td align="char" valign="top" rowspan="1" colspan="1">179.0 &#x000b1; 30.5</td><td align="char" valign="top" rowspan="1" colspan="1">186.3 &#x000b1; 27.3</td><td align="char" valign="top" rowspan="1" colspan="1">7.3 &#x000b1; 16.4</td><td align="char" valign="top" rowspan="1" colspan="1">.2168</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Triglyceride, mean &#x000b1; SD, mg/dl</td><td align="char" valign="top" rowspan="1" colspan="1">100.9 &#x000b1; 29.6</td><td align="char" valign="top" rowspan="1" colspan="1">126.8 &#x000b1; 54.0</td><td align="char" valign="top" rowspan="1" colspan="1">25.9 &#x000b1; 63.9</td><td align="char" valign="top" rowspan="1" colspan="1">.2587</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Uric Acid, mean &#x000b1; SD, mg/dl</td><td align="char" valign="top" rowspan="1" colspan="1">3.63 &#x000b1; 1.11</td><td align="char" valign="top" rowspan="1" colspan="1">4.16 &#x000b1; 1.19</td><td align="char" valign="top" rowspan="1" colspan="1">0.52 &#x000b1; 0.57</td><td align="char" valign="top" rowspan="1" colspan="1">.0242</td></tr></tbody></table><table-wrap-foot><fn id="sct312331-note-0003"><p>Abbreviations: ALT, alanine transaminase; ANC, absolute neutrophil count; AST, aspartate transaminase; BUN, blood urea nitrogen; ESR, erythrocyte sedimentation rate; hs&#x02010;CRP, high sensitivity C&#x02010;reactive protein; MTX, methotrexate; WBC, white blood cell.</p></fn></table-wrap-foot></table-wrap></sec><sec id="sct312331-sec-0012"><title>Changes in Disease Activity</title><p>The ESR and C&#x02010;reactive protein level changes from baseline to week 4 were &#x02212;7.9 &#x000b1; 10.4 mm/hour (<italic>p</italic> = .0517) and &#x02212;0.37 &#x000b1; 1.09 mg/dl (<italic>p</italic> = .3362), respectively (Table <xref rid="sct312331-tbl-0002" ref-type="table">2</xref>). At 4 weeks after the hUCB&#x02010;MSCs infusion, the DAS28 reduction was statistically significant (&#x02212;1.60 &#x000b1; 1.57 mm/hour, <italic>p</italic> = .0158; Table <xref rid="sct312331-tbl-0001" ref-type="table">1</xref>). The HAQ score and pain VAS changes at week 4 were &#x02212;0.15 &#x000b1; 0.48 (<italic>p</italic> = .3706), and &#x02212;17.9 &#x000b1; 27.7 (<italic>p</italic> = .0885), respectively. Serum levels of IL&#x02010;1&#x003b2;, IL&#x02010;6, IL&#x02010;8, IL&#x02010;10, and TNF&#x02010;&#x003b1; at baseline and 24 hours after the hUCB&#x02010;MSCs infusion are depicted in Supporting Information Figure <xref rid="sct312331-supitem-0001" ref-type="supplementary-material">S1</xref>. Reduced levels of IL&#x02010;1&#x003b2;, IL&#x02010;6, IL&#x02010;8, and TNF&#x02010;&#x003b1; at 24 hours were observed in the cluster infused with 1 &#x000d7; 10<sup>8</sup> cells, yet inconsistent results were found in the cluster given 2.5 &#x000d7; 10<sup>7</sup> or 5 &#x000d7; 10<sup>7</sup> cells (Supporting Information Figure <xref rid="sct312331-supitem-0001" ref-type="supplementary-material">S2</xref>). A statistically significant increase in levels of IL&#x02010;10, an immunosuppressive cytokine produced by regulatory T (Treg) cells, was discovered at 24 hours in the cluster infused with 5 &#x000d7; 10<sup>7</sup> cells.</p></sec></sec><sec id="sct312331-sec-0013"><title>Discussion</title><p>This phase Ia study demonstrated that a single intravenous infusion of hUCB&#x02010;MSCs resulted in a favorable safety profile for our subjects with RA. The patients were given a single infusion of hUCB&#x02010;MSCs, with cell numbers up to 1 &#x000d7; 10<sup>8</sup>, and no DLT was reported. No major toxicity was observed up to 4 weeks after each infusion of hUCB&#x02010;MSCs. With regard to efficacy assessment, disease activity change was not the primary objective of this study, but a single infusion of hUCB&#x02010;MSCs reduced the mean DAS28 at week 4.</p><p>MSCs reportedly have the capabilities to modulate immune responses as well as to heal damaged tissues and organs <xref rid="sct312331-bib-0026" ref-type="ref">26</xref>. They secrete a multitude of cytokines and growth factors with immunosuppressive properties, which inhibit B and T cell proliferation as well as monocyte maturation <xref rid="sct312331-bib-0006" ref-type="ref">6</xref>. MSCs also promote the generation of Treg cells and M2 macrophages <xref rid="sct312331-bib-0027" ref-type="ref">27</xref>, <xref rid="sct312331-bib-0028" ref-type="ref">28</xref>, <xref rid="sct312331-bib-0029" ref-type="ref">29</xref>. In addition, they are considered to possess a low immunogenicity due to their limited expression of the major histocompatibility complex (MHC) I, the lack of MHC expression as well as of costimulatory molecules, and the inability to stimulate T cell activation <xref rid="sct312331-bib-0006" ref-type="ref">6</xref>, <xref rid="sct312331-bib-0030" ref-type="ref">30</xref>, <xref rid="sct312331-bib-0031" ref-type="ref">31</xref>. Such results opened up the possibility for exploring the treatment and amelioration of immune&#x02010;mediated disorders including graft&#x02010;versus&#x02010;host disease and autoimmune disorders such as RA.</p><p>MSCs exert their therapeutic potential in a series of experimental arthritis by upregulating Treg cells and downregulating the expression of Th17 cells, which subsequently restores the immune function by inducing tolerance, promoting immune modulation, and reducing the release of inflammatory cytokines <xref rid="sct312331-bib-0014" ref-type="ref">14</xref>, <xref rid="sct312331-bib-0032" ref-type="ref">32</xref>, <xref rid="sct312331-bib-0033" ref-type="ref">33</xref>, <xref rid="sct312331-bib-0034" ref-type="ref">34</xref>. Increasing evidence indicates the existence of a reciprocal relationship between Th17 cells and Treg cells; there is an inverse relationship between the transcription factor retinoic acid receptor&#x02010;related orphan receptor C (for Th17 cells) and FoxP3 (for Treg cells) in the joints of patients with juvenile idiopathic arthritis <xref rid="sct312331-bib-0035" ref-type="ref">35</xref>. MSC treatment reduces pathogenic T cell subsets, such as granulocyte macrophage colony&#x02010;stimulating factor&#x02010;expressing CD4&#x02009;T cells, T follicular helper (Tfh) cells, and Th1/Th17 cells in the collagen&#x02010;induced arthritis (CIA) model <xref rid="sct312331-bib-0036" ref-type="ref">36</xref>, <xref rid="sct312331-bib-0037" ref-type="ref">37</xref>. Moreover, MSCs induce the apoptosis of activated T cells via the Fas ligand (FasL)/Fas signaling pathway in CIA <xref rid="sct312331-bib-0034" ref-type="ref">34</xref>. MSCs overexpressing IL&#x02010;10 have also attenuated CIA <xref rid="sct312331-bib-0038" ref-type="ref">38</xref>. They inhibit the proliferation and expression of proinflammatory cytokines&#x02014;such as interferon&#x02010;&#x003b3; and TNF&#x02010;&#x003b1;&#x02014;as well as the production of the matrix&#x02010;degrading enzymes collagenase and gelatinase, which are involved in the inflammatory response within the synovium <xref rid="sct312331-bib-0039" ref-type="ref">39</xref>. MSCs also prevent systemic bone loss in CIA via the direct inhibition of receptor activator of NF&#x02010;kB ligand&#x02010;induced osteoclastogenesis <xref rid="sct312331-bib-0040" ref-type="ref">40</xref>.</p><p>In vitro or preclinical studies have extensively examined the immunomodulatory actions of UCB&#x02010;MSCs in RA. UCB&#x02010;MSCs exert a profound inhibitory effect on the proliferation, invasive behavior, and inflammatory responses of fibroblast&#x02010;like synoviocytes (FLSs) via IL&#x02010;10, indoleamine 2,3&#x02010;dioxygenase, and transforming growth factor &#x003b2;1. They also suppress T cell activations and induced the generation of Tregs <xref rid="sct312331-bib-0041" ref-type="ref">41</xref>. A coculture of FLS with UCB&#x02010;MSCs inhibited the expression of pro&#x02010;inflammatory cytokines and chemokines IL&#x02010;1&#x003b2;, IL&#x02010;6, and the chemokine (C&#x02010;C motif) ligand&#x02010;2; it further induced FLS apoptosis and promoted chondrogenesis <xref rid="sct312331-bib-0042" ref-type="ref">42</xref>. hUCB&#x02010;MSCs downregulate the secretion of TNF&#x02010;&#x003b1; from activated macrophages and also accelerated anti&#x02010;inflammatory M2 polarizations in a paracrine manner <xref rid="sct312331-bib-0012" ref-type="ref">12</xref>. In overall, hUCB&#x02010;MSCs demonstrably correct an immunity imbalance by downregulating the Th1 subset, decreasing the Th17 subset, inducing Tregs, and inhibiting the generation of Tfh cells which attenuate the severity of arthritis comparable to biologic treatments <xref rid="sct312331-bib-0043" ref-type="ref">43</xref>.</p><p>In a prior phase I study of hUC&#x02010;MSC infusions in Chinese patients with active RA, the subjects received 4 &#x000d7; 10<sup>7</sup> cells of hUC&#x02010;MSCs via an intravenous infusion, with some patients being additionally infused with hUC&#x02010;MSCs at 3&#x02010;month intervals after the first treatment. The infusions were well tolerated and no major abnormalities were observed <xref rid="sct312331-bib-0019" ref-type="ref">19</xref>. In our study, the patients were given a single infusion of hUCB&#x02010;MSCs but a higher cell number of up to 1 &#x000d7; 10<sup>8</sup>. However, no subjects exhibited an infusion reaction, a serious adverse event, or major abnormalities in serum chemical or hematologic profiles, both during and after the treatment. Although increased mean serum uric acid levels were observed, they were within the normal range, the changes were trivial, and no related AE was discovered throughout the study. Nevertheless, we plan to monitor serum uric acid levels in the future trials with repeated infusions. A randomized, placebo&#x02010;controlled, phase Ib/IIa trial recently demonstrated the safety of repeated infusions (days 1, 5, and 18) of adipose&#x02010;derived MSCs in patients with active RA; a trend for clinical efficacy was observed, yet it did not persist beyond 3 months after the infusion <xref rid="sct312331-bib-0016" ref-type="ref">16</xref>.</p><p>This study has some limitations. First, the sample size was relatively small and the duration of the follow&#x02010;up period after the infusion of hUCB&#x02010;MSCs was short for the exploration of long&#x02010;term safety; we are currently conducting a 5&#x02010;year observational study to search for any safety signal in our subjects. Also, there was no placebo group for further comparison with the hUCB&#x02010;MSC recipients. Second, the administration of a single infusion of hUCB&#x02010;MSCs is prohibitive in determining whether repetitive infusions would have similar safety outcomes. Third, among the study participants no one was exposed to biologic DMARDs; future trials are planned to enroll, if not limited to, previous biologic users. Lastly, although a range of clinical outcomes was assessed, imaging studies were excluded due to the short follow&#x02010;up period. Future investigations including long&#x02010;term radiographic outcomes in hUCB&#x02010;MSC&#x02010;treated patients would be interesting.</p></sec><sec id="sct312331-sec-0014"><title>Conclusion</title><p>This is the first phase Ia study of RA patients that evaluated the safety and tolerability of a single intravenous infusion with hUCB&#x02010;MSCs and with cell numbers of up to 1 &#x000d7; 10<sup>8</sup>, revealing an acceptable safety profile. Conclusions regarding efficacy in phase I trials are limited, and although evaluation of disease activity was not the primary objective of this study, a single infusion of hUCB&#x02010;MSCs effectively reduced the mean DAS28 at week 4. Considering favorable safety profiles, intravenous infusion of hUCB&#x02010;MSCs may constitute a therapeutic option for patients with RA, who are refractory to or intolerant of MTX. There is a wide array of opportunities for future clinical studies with different hUCB&#x02010;MSC infusion strategies in which safety profiles should be carefully monitored and outcome measures further refined for optimized effectiveness evaluations.</p></sec><sec id="sct312331-sec-0016"><title>Author Contributions</title><p>E.H.P.: collection of data, data analysis and interpretation, manuscript writing, final approval of manuscript; H.&#x02010;s.L.: collection of data, data analysis and interpretation; S.L.: data analysis and interpretation; K.R., K.&#x02010;W.S., and K.&#x02010;S.K.: financial support; K.S.: conception and design, collection of data, data analysis and interpretation, manuscript writing, final approval of manuscript.</p></sec><sec id="sct312331-sec-0017"><title>Disclosure of Potential Conflicts of Interest</title><p>This study was funded by Kangstem Biotech Co., Ltd.; S.L., K.R., K.&#x02010;W.S, and K.&#x02010;S.K. work in the department of Stem Cell Therapeutics at Kangstem Biotech Co., Ltd. The other authors indicated no potential conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="sct312331-supitem-0001"><caption><p>
+<bold>Figure S1. Changes of serum levels of IL&#x02010;1&#x003b2;, IL&#x02010;6, IL&#x02010;8, IL&#x02010;10 and TNF&#x02010;&#x003b1; from baseline at 24 hours of hUCB&#x02010;MSC infusion (n = 9).</bold> TNF&#x02010;&#x003b1;, tumor necrosis factor alpha; hUCB&#x02010;MSCs, human umbilical cord blood&#x02010;derived mesenchymal stem cell.</p><p>
+<bold>Figure S2. Subgroup analysis of changes of serum levels of IL&#x02010;1&#x003b2;, IL&#x02010;6, IL&#x02010;8, IL&#x02010;10 and TNF&#x02010;&#x003b1; from baseline at 24 hours of hUCB&#x02010;MSC infusion in the (A) 2.5 x 10</bold>
+<sup><bold>7</bold></sup>
+<bold>group (n = 3), (B) 5 x 10</bold>
+<sup><bold>7</bold></sup>
+<bold>group (n = 3), and (C) 1 x 10</bold>
+<sup><bold>8</bold></sup>
+<bold>cells group (n = 3).</bold> TNF&#x02010;&#x003b1;, tumor necrosis factor alpha; hUCB&#x02010;MSCs, human umbilical cord blood&#x02010;derived mesenchymal stem cell. *<italic>p</italic> &#x0003c; .05, before versus after treatment (Wilcoxon signed rank test).</p></caption><media xlink:href="SCT3-7-636-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="sct312331-sec-0015"><title>Acknowledgments</title><p>We thank Junghyun Yoon for her help enrolling patients and conducting this trial.</p></ack><ref-list id="sct312331-bibl-0001" content-type="cited-references"><title>References</title><ref id="sct312331-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="sct312331-cit-0001">
+<string-name>
+<surname>Feldmann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Brennan</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Maini</surname>
+<given-names>RN</given-names>
+</string-name>. <article-title>Rheumatoid arthritis</article-title>. <source xml:lang="en">Cell</source>
+<year>1996</year>;<volume>85</volume>:<fpage>307</fpage>&#x02010;<lpage>310</lpage>.<pub-id pub-id-type="pmid">8616886</pub-id></mixed-citation></ref><ref id="sct312331-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="sct312331-cit-0002">
+<string-name>
+<surname>Bongartz</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sutton</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Sweeting</surname>
+<given-names>MJ</given-names>
+</string-name> et al. <article-title>Anti&#x02010;TNF antibody therapy in rheumatoid arthritis and the risk of serious infections and malignancies: Systematic review and meta&#x02010;analysis of rare harmful effects in randomized controlled trials</article-title>. <source xml:lang="en">JAMA</source>
+<year>2006</year>;<volume>295</volume>:<fpage>2275</fpage>&#x02010;<lpage>2285</lpage>.<pub-id pub-id-type="pmid">16705109</pub-id></mixed-citation></ref><ref id="sct312331-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="sct312331-cit-0003">
+<string-name>
+<surname>Salliot</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gossec</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ruyssen&#x02010;Witrand</surname>
+<given-names>A</given-names>
+</string-name> et al. <article-title>Infections during tumour necrosis factor&#x02010;alpha blocker therapy for rheumatic diseases in daily practice: A systematic retrospective study of 709 patients</article-title>. <source xml:lang="en">Rheumatology</source>
+<year>2007</year>;<volume>46</volume>:<fpage>327</fpage>&#x02010;<lpage>334</lpage>.<pub-id pub-id-type="pmid">16880188</pub-id></mixed-citation></ref><ref id="sct312331-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="sct312331-cit-0004">
+<string-name>
+<surname>Pittenger</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Mackay</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Beck</surname>
+<given-names>SC</given-names>
+</string-name> et al. <article-title>Multilineage potential of adult human mesenchymal stem cells</article-title>. <source xml:lang="en">Science</source>
+<year>1999</year>;<volume>284</volume>:<fpage>143</fpage>&#x02010;<lpage>147</lpage>.<pub-id pub-id-type="pmid">10102814</pub-id></mixed-citation></ref><ref id="sct312331-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="sct312331-cit-0005">
+<string-name>
+<surname>Zuk</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mizuno</surname>
+<given-names>H</given-names>
+</string-name> et al. <article-title>Multilineage cells from human adipose tissue: implications for cell&#x02010;based therapies</article-title>. <source xml:lang="en">Tissue Eng</source>
+<year>2001</year>;<volume>7</volume>:<fpage>211</fpage>&#x02010;<lpage>228</lpage>.<pub-id pub-id-type="pmid">11304456</pub-id></mixed-citation></ref><ref id="sct312331-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="sct312331-cit-0006">
+<string-name>
+<surname>Greish</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Abogresha</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Abdel&#x02010;Hady</surname>
+<given-names>Z</given-names>
+</string-name> et al. <article-title>Human umbilical cord mesenchymal stem cells as treatment of adjuvant rheumatoid arthritis in a rat model</article-title>. <source xml:lang="en">World J Stem Cells</source>
+<year>2012</year>;<volume>4</volume>:<fpage>101</fpage>&#x02010;<lpage>109</lpage>.<pub-id pub-id-type="pmid">23189211</pub-id></mixed-citation></ref><ref id="sct312331-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="sct312331-cit-0007">
+<string-name>
+<surname>Uccelli</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Moretta</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pistoia</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Mesenchymal stem cells in health and disease</article-title>. <source xml:lang="en">Nat Rev Immunol</source>
+<year>2008</year>;<volume>8</volume>:<fpage>726</fpage>&#x02010;<lpage>736</lpage>.<pub-id pub-id-type="pmid">19172693</pub-id></mixed-citation></ref><ref id="sct312331-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="sct312331-cit-0008">
+<string-name>
+<surname>Introna</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rambaldi</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Mesenchymal stromal cells for prevention and treatment of graft&#x02010;versus&#x02010;host disease: Successes and hurdles</article-title>. <source xml:lang="en">Curr Opin Organ Transplant</source>
+<year>2015</year>;<volume>20</volume>:<fpage>72</fpage>&#x02010;<lpage>78</lpage>.<pub-id pub-id-type="pmid">25563994</pub-id></mixed-citation></ref><ref id="sct312331-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="sct312331-cit-0009">
+<string-name>
+<surname>Nagaishi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Arimura</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Fujimiya</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Stem cell therapy for inflammatory bowel disease</article-title>. <source xml:lang="en">J Gastroenterol</source>
+<year>2015</year>;<volume>50</volume>:<fpage>280</fpage>&#x02010;<lpage>286</lpage>.<pub-id pub-id-type="pmid">25618180</pub-id></mixed-citation></ref><ref id="sct312331-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="sct312331-cit-0010">
+<string-name>
+<surname>Glenn</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Calabresi</surname>
+<given-names>PA</given-names>
+</string-name> et al. <article-title>Mesenchymal stem cells differentially modulate effector CD8+ T cell subsets and exacerbate experimental autoimmune encephalomyelitis</article-title>. <source xml:lang="en">Stem Cells</source>
+<year>2014</year>;<volume>32</volume>:<fpage>2744</fpage>&#x02010;<lpage>2755</lpage>.<pub-id pub-id-type="pmid">24911892</pub-id></mixed-citation></ref><ref id="sct312331-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="sct312331-cit-0011">
+<string-name>
+<surname>Kim</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Yun</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>TH</given-names>
+</string-name> et al. <article-title>Human umbilical cord blood mesenchymal stem cell&#x02010;derived PGE2 and TGF&#x02010;beta1 alleviate atopic dermatitis by reducing mast cell degranulation</article-title>. <source xml:lang="en">Stem Cells</source>
+<year>2015</year>;<volume>33</volume>:<fpage>1254</fpage>&#x02010;<lpage>1266</lpage>.<pub-id pub-id-type="pmid">25522163</pub-id></mixed-citation></ref><ref id="sct312331-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="sct312331-cit-0012">
+<string-name>
+<surname>Shin</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>TW</given-names>
+</string-name> et al. <article-title>Human umbilical cord blood&#x02010;stem cells direct macrophage polarization and block inflammasome activation to alleviate rheumatoid arthritis</article-title>. <source xml:lang="en">Cell Death Dis</source>
+<year>2016</year>;<volume>7</volume>:e2524.</mixed-citation></ref><ref id="sct312331-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="sct312331-cit-0013">
+<string-name>
+<surname>Mohanty</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name>
+<surname>Kottam</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Gambardella</surname>
+<given-names>A</given-names>
+</string-name> et al. <article-title>Alterations in the self&#x02010;renewal and differentiation ability of bone marrow mesenchymal stem cells in a mouse model of rheumatoid arthritis</article-title>. <source xml:lang="en">Arthritis Res Ther</source>
+<year>2010</year>;<volume>12</volume>:R149.</mixed-citation></ref><ref id="sct312331-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="sct312331-cit-0014">
+<string-name>
+<surname>Gonzalez</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez&#x02010;Rey</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Rico</surname>
+<given-names>L</given-names>
+</string-name> et al. <article-title>Treatment of experimental arthritis by inducing immune tolerance with human adipose&#x02010;derived mesenchymal stem cells</article-title>. <source xml:lang="en">Arthritis Rheum</source>
+<year>2009</year>;<volume>60</volume>:<fpage>1006</fpage>&#x02010;<lpage>1019</lpage>.<pub-id pub-id-type="pmid">19333946</pub-id></mixed-citation></ref><ref id="sct312331-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="sct312331-cit-0015">
+<string-name>
+<surname>Augello</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tasso</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Negrini</surname>
+<given-names>SM</given-names>
+</string-name> et al. <article-title>Cell therapy using allogeneic bone marrow mesenchymal stem cells prevents tissue damage in collagen&#x02010;induced arthritis</article-title>. <source xml:lang="en">Arthritis Rheum</source>
+<year>2007</year>;<volume>56</volume>:<fpage>1175</fpage>&#x02010;<lpage>1186</lpage>.<pub-id pub-id-type="pmid">17393437</pub-id></mixed-citation></ref><ref id="sct312331-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="sct312331-cit-0016">
+<string-name>
+<surname>Alvaro&#x02010;Gracia</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Jover</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Vicuna</surname>
+<given-names>R</given-names>
+</string-name> et al. <article-title>Intravenous administration of expanded allogeneic adipose&#x02010;derived mesenchymal stem cells in refractory rheumatoid arthritis (Cx611): Results of a multicentre, dose escalation, randomised, single&#x02010;blind, placebo&#x02010;controlled phase Ib/IIa clinical trial</article-title>. <source xml:lang="en">Ann Rheum Dis</source>
+<year>2017</year>;<volume>76</volume>:<fpage>196</fpage>&#x02010;<lpage>202</lpage>.<pub-id pub-id-type="pmid">27269294</pub-id></mixed-citation></ref><ref id="sct312331-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="sct312331-cit-0017">
+<string-name>
+<surname>Lu</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>SG</given-names>
+</string-name> et al. <article-title>Isolation and characterization of human umbilical cord mesenchymal stem cells with hematopoiesis&#x02010;supportive function and other potentials</article-title>. <source xml:lang="en">Haematologica</source>
+<year>2006</year>;<volume>91</volume>:<fpage>1017</fpage>&#x02010;<lpage>1026</lpage>.<pub-id pub-id-type="pmid">16870554</pub-id></mixed-citation></ref><ref id="sct312331-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="sct312331-cit-0018">
+<string-name>
+<surname>Baksh</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Tuan</surname>
+<given-names>RS</given-names>
+</string-name>. <article-title>Comparison of proliferative and multilineage differentiation potential of human mesenchymal stem cells derived from umbilical cord and bone marrow</article-title>. <source xml:lang="en">Stem Cells</source>
+<year>2007</year>;<volume>25</volume>:<fpage>1384</fpage>&#x02010;<lpage>1392</lpage>.<pub-id pub-id-type="pmid">17332507</pub-id></mixed-citation></ref><ref id="sct312331-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="sct312331-cit-0019">
+<string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Cong</surname>
+<given-names>X</given-names>
+</string-name> et al. <article-title>Human umbilical cord mesenchymal stem cell therapy for patients with active rheumatoid arthritis: Safety and efficacy</article-title>. <source xml:lang="en">Stem Cells Dev</source>
+<year>2013</year>;<volume>22</volume>:<fpage>3192</fpage>&#x02010;<lpage>3202</lpage>.<pub-id pub-id-type="pmid">23941289</pub-id></mixed-citation></ref><ref id="sct312331-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="sct312331-cit-0020">
+<string-name>
+<surname>Aletaha</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Neogi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Silman</surname>
+<given-names>AJ</given-names>
+</string-name> et al. <article-title>2010 Rheumatoid arthritis classification criteria: An American College of Rheumatology/European League Against Rheumatism collaborative initiative</article-title>. <source xml:lang="en">Arthritis Rheum</source>
+<year>2010</year>;<volume>62</volume>:<fpage>2569</fpage>&#x02010;<lpage>2581</lpage>.<pub-id pub-id-type="pmid">20872595</pub-id></mixed-citation></ref><ref id="sct312331-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="sct312331-cit-0021">
+<string-name>
+<surname>Hochberg</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Dwosh</surname>
+<given-names>I</given-names>
+</string-name> et al. <article-title>The American College of Rheumatology 1991 revised criteria for the classification of global functional status in rheumatoid arthritis</article-title>. <source xml:lang="en">Arthritis Rheum</source>
+<year>1992</year>;<volume>35</volume>:<fpage>498</fpage>&#x02010;<lpage>502</lpage>.<pub-id pub-id-type="pmid">1575785</pub-id></mixed-citation></ref><ref id="sct312331-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="sct312331-cit-0022">
+<string-name>
+<surname>Kim</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>BC</given-names>
+</string-name> et al. <article-title>Human umbilical cord blood mesenchymal stem cells reduce colitis in mice by activating NOD2 signaling to COX2</article-title>. <source xml:lang="en">Gastroenterology</source>
+<year>2013</year>;<volume>145</volume>:<fpage>1392</fpage>&#x02010;<lpage>1403</lpage>.<pub-id pub-id-type="pmid">23973922</pub-id></mixed-citation></ref><ref id="sct312331-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="sct312331-cit-0023">
+<string-name>
+<surname>Yang</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>NR</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>KB</given-names>
+</string-name> et al. <article-title>A phase I study of human cord blood&#x02010;derived mesenchymal stem cell therapy in patients with peripheral arterial occlusive disease</article-title>. <source xml:lang="en">Int J Stem cells</source>
+<year>2013</year>;<volume>6</volume>:<fpage>37</fpage>&#x02010;<lpage>44</lpage>.<pub-id pub-id-type="pmid">24298372</pub-id></mixed-citation></ref><ref id="sct312331-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="sct312331-cit-0024">
+<string-name>
+<surname>Yu</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>HS</given-names>
+</string-name> et al. <article-title>A p38 MAPK&#x02010;mediated alteration of COX&#x02010;2/PGE2 regulates immunomodulatory properties in human mesenchymal stem cell aging</article-title>. <source xml:lang="en">PLoS One</source>
+<year>2014</year>;<volume>9</volume>:e102426.</mixed-citation></ref><ref id="sct312331-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="sct312331-cit-0025">
+<string-name>
+<surname>Seo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Jee</surname>
+<given-names>MK</given-names>
+</string-name> et al. <article-title>Human umbilical cord blood&#x02010;derived mesenchymal stem cells protect against neuronal cell death and ameliorate motor deficits in Niemann Pick type C1 mice</article-title>. <source xml:lang="en">Cell Transplant</source>
+<year>2011</year>;<volume>20</volume>:<fpage>1033</fpage>&#x02010;<lpage>1047</lpage>.<pub-id pub-id-type="pmid">21176403</pub-id></mixed-citation></ref><ref id="sct312331-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="sct312331-cit-0026">
+<string-name>
+<surname>Uccelli</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Moretta</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pistoia</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Immunoregulatory function of mesenchymal stem cells</article-title>. <source xml:lang="en">Eur J Immunol</source>
+<year>2006</year>;<volume>36</volume>:<fpage>2566</fpage>&#x02010;<lpage>2573</lpage>.<pub-id pub-id-type="pmid">17013987</pub-id></mixed-citation></ref><ref id="sct312331-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="sct312331-cit-0027">
+<string-name>
+<surname>Gao</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Chiu</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Motan</surname>
+<given-names>DA</given-names>
+</string-name> et al. <article-title>Mesenchymal stem cells and immunomodulation: Current status and future prospects</article-title>. <source xml:lang="en">Cell Death Dis</source>
+<year>2016</year>;<volume>7</volume>:e2062.</mixed-citation></ref><ref id="sct312331-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="sct312331-cit-0028">
+<string-name>
+<surname>Selmani</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Naji</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zidi</surname>
+<given-names>I</given-names>
+</string-name> et al. <article-title>Human leukocyte antigen&#x02010;G5 secretion by human mesenchymal stem cells is required to suppress T lymphocyte and natural killer function and to induce CD4+CD25highFOXP3+ regulatory T cells</article-title>. <source xml:lang="en">Stem Cells</source>
+<year>2008</year>;<volume>26</volume>:<fpage>212</fpage>&#x02010;<lpage>222</lpage>.<pub-id pub-id-type="pmid">17932417</pub-id></mixed-citation></ref><ref id="sct312331-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="sct312331-cit-0029">
+<string-name>
+<surname>Francois</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Romieu&#x02010;Mourez</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name> et al. <article-title>Human MSC suppression correlates with cytokine induction of indoleamine 2,3&#x02010;dioxygenase and bystander M2 macrophage differentiation</article-title>. <source xml:lang="en">Mol Ther</source>
+<year>2012</year>;<volume>20</volume>:<fpage>187</fpage>&#x02010;<lpage>195</lpage>.<pub-id pub-id-type="pmid">21934657</pub-id></mixed-citation></ref><ref id="sct312331-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="sct312331-cit-0030">
+<string-name>
+<surname>Tse</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name>
+<surname>Pendleton</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Beyer</surname>
+<given-names>WM</given-names>
+</string-name> et al. <article-title>Suppression of allogeneic T&#x02010;cell proliferation by human marrow stromal cells: Implications in transplantation</article-title>. <source xml:lang="en">Transplantation</source>
+<year>2003</year>;<volume>75</volume>:<fpage>389</fpage>&#x02010;<lpage>397</lpage>.<pub-id pub-id-type="pmid">12589164</pub-id></mixed-citation></ref><ref id="sct312331-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="sct312331-cit-0031">
+<string-name>
+<surname>Le Blanc</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tammik</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sundberg</surname>
+<given-names>B</given-names>
+</string-name> et al. <article-title>Mesenchymal stem cells inhibit and stimulate mixed lymphocyte cultures and mitogenic responses independently of the major histocompatibility complex</article-title>. <source xml:lang="en">Scand J Immunol</source>
+<year>2003</year>;<volume>57</volume>:<fpage>11</fpage>&#x02010;<lpage>20</lpage>.<pub-id pub-id-type="pmid">12542793</pub-id></mixed-citation></ref><ref id="sct312331-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="sct312331-cit-0032">
+<string-name>
+<surname>Chen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>X</given-names>
+</string-name> et al. <article-title>Adoptive transfer of human gingiva&#x02010;derived mesenchymal stem cells ameliorates collagen&#x02010;induced arthritis via suppression of Th1 and Th17 cells and enhancement of regulatory T cell differentiation</article-title>. <source xml:lang="en">Arthritis Rheum</source>
+<year>2013</year>;<volume>65</volume>:<fpage>1181</fpage>&#x02010;<lpage>1193</lpage>.<pub-id pub-id-type="pmid">23400582</pub-id></mixed-citation></ref><ref id="sct312331-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="sct312331-cit-0033">
+<string-name>
+<surname>MacDonald</surname>
+<given-names>GI</given-names>
+</string-name>, <string-name>
+<surname>Augello</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>De Bari</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Role of mesenchymal stem cells in reestablishing immunologic tolerance in autoimmune rheumatic diseases</article-title>. <source xml:lang="en">Arthritis Rheum</source>
+<year>2011</year>;<volume>63</volume>:<fpage>2547</fpage>&#x02010;<lpage>2557</lpage>.<pub-id pub-id-type="pmid">21647863</pub-id></mixed-citation></ref><ref id="sct312331-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="sct312331-cit-0034">
+<string-name>
+<surname>Gu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Transplantation of gingiva&#x02010;derived mesenchymal stem cells ameliorates collagen&#x02010;induced arthritis</article-title>. <source xml:lang="en">Arthritis Res Ther</source>
+<year>2016</year>;<volume>18</volume>:<fpage>262</fpage>.<pub-id pub-id-type="pmid">27836015</pub-id></mixed-citation></ref><ref id="sct312331-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="sct312331-cit-0035">
+<string-name>
+<surname>Olivito</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Simonini</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ciullini</surname>
+<given-names>S</given-names>
+</string-name> et al. <article-title>Th17 transcription factor RORC2 is inversely correlated with FOXP3 expression in the joints of children with juvenile idiopathic arthritis</article-title>. <source xml:lang="en">J Rheumatol</source>
+<year>2009</year>;<volume>36</volume>:<fpage>2017</fpage>&#x02010;<lpage>2024</lpage>.<pub-id pub-id-type="pmid">19648312</pub-id></mixed-citation></ref><ref id="sct312331-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="sct312331-cit-0036">
+<string-name>
+<surname>Lopez&#x02010;Santalla</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mancheno&#x02010;Corvo</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Menta</surname>
+<given-names>R</given-names>
+</string-name> et al. <article-title>Human adipose&#x02010;derived mesenchymal stem cells modulate experimental autoimmune arthritis by modifying early adaptive T cell responses</article-title>. <source xml:lang="en">Stem Cells</source>
+<year>2015</year>;<volume>33</volume>:<fpage>3493</fpage>&#x02010;<lpage>3503</lpage>.<pub-id pub-id-type="pmid">26205964</pub-id></mixed-citation></ref><ref id="sct312331-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="sct312331-cit-0037">
+<string-name>
+<surname>Liu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name> et al. <article-title>Allogeneic mesenchymal stem cells inhibited T follicular helper cell generation in rheumatoid arthritis</article-title>. <source xml:lang="en">Sci Rep</source>
+<year>2015</year>;<volume>5</volume>:<fpage>12777</fpage>.<pub-id pub-id-type="pmid">26259824</pub-id></mixed-citation></ref><ref id="sct312331-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="sct312331-cit-0038">
+<string-name>
+<surname>Choi</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Yoo</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>SJ</given-names>
+</string-name> et al. <article-title>Mesenchymal stem cells overexpressing interleukin&#x02010;10 attenuate collagen&#x02010;induced arthritis in mice</article-title>. <source xml:lang="en">Clin Exp Immunol</source>
+<year>2008</year>;<volume>153</volume>:<fpage>269</fpage>&#x02010;<lpage>276</lpage>.<pub-id pub-id-type="pmid">18713142</pub-id></mixed-citation></ref><ref id="sct312331-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="sct312331-cit-0039">
+<string-name>
+<surname>Gonzalez&#x02010;Rey</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Varela</surname>
+<given-names>N</given-names>
+</string-name> et al. <article-title>Human adipose&#x02010;derived mesenchymal stem cells reduce inflammatory and T cell responses and induce regulatory T cells in vitro in rheumatoid arthritis</article-title>. <source xml:lang="en">Ann Rheum Dis</source>
+<year>2010</year>;<volume>69</volume>:<fpage>241</fpage>&#x02010;<lpage>248</lpage>.<pub-id pub-id-type="pmid">19124525</pub-id></mixed-citation></ref><ref id="sct312331-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="sct312331-cit-0040">
+<string-name>
+<surname>Garimella</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Kour</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Piprode</surname>
+<given-names>V</given-names>
+</string-name> et al. <article-title>Adipose&#x02010;derived mesenchymal stem cells prevent systemic bone loss in collagen&#x02010;induced arthritis</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2015</year>;<volume>195</volume>:<fpage>5136</fpage>&#x02010;<lpage>5148</lpage>.<pub-id pub-id-type="pmid">26538398</pub-id></mixed-citation></ref><ref id="sct312331-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="sct312331-cit-0041">
+<string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Mu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name> et al. <article-title>Therapeutic potential of human umbilical cord mesenchymal stem cells in the treatment of rheumatoid arthritis</article-title>. <source xml:lang="en">Arthritis Res Ther</source>
+<year>2010</year>;<volume>12</volume>:<fpage>R210</fpage>.<pub-id pub-id-type="pmid">21080925</pub-id></mixed-citation></ref><ref id="sct312331-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="sct312331-cit-0042">
+<string-name>
+<surname>Zeng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Coculture of fi broblastlike synoviocytes with umbilical cordmesenchymal stem cells inhibits expression of proin fl ammatory proteins, induces apoptosis and promotes chondrogenesis</article-title>. <source xml:lang="en">Mol Med Rep</source>
+<year>2016</year>;<volume>14</volume>:<fpage>3887</fpage>&#x02010;<lpage>3893</lpage>.<pub-id pub-id-type="pmid">27599675</pub-id></mixed-citation></ref><ref id="sct312331-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="sct312331-cit-0043">
+<string-name>
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>S</given-names>
+</string-name> et al. <article-title>Comparable therapeutic potential of umbilical cord mesenchymal stem cells in collagen&#x02010;induced arthritis to TNF inhibitor or anti&#x02010;CD20 treatment</article-title>. <source xml:lang="en">Clin Exp Rheumatol</source>
+<year>2017</year>;<volume>35</volume>:<fpage>288</fpage>&#x02010;<lpage>295</lpage>.<pub-id pub-id-type="pmid">28094754</pub-id></mixed-citation></ref></ref-list></back></article>

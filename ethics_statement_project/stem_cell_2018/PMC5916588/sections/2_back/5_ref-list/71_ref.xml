@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR71">
+ <label>71.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>King</surname>
+    <given-names>JT</given-names>
+    <suffix>Jr</suffix>
+   </name>
+   <name>
+    <surname>Carlier</surname>
+    <given-names>PM</given-names>
+   </name>
+   <name>
+    <surname>Marion</surname>
+    <given-names>DW</given-names>
+   </name>
+  </person-group>
+  <article-title>Early Glasgow Outcome Scale scores predict long-term functional outcome in patients with severe traumatic brain injury</article-title>
+  <source>J Neurotrauma</source>
+  <year>2005</year>
+  <volume>22</volume>
+  <issue>9</issue>
+  <fpage>947</fpage>
+  <lpage>954</lpage>
+  <pub-id pub-id-type="doi">10.1089/neu.2005.22.947</pub-id>
+  <?supplied-pmid 16156710?>
+  <pub-id pub-id-type="pmid">16156710</pub-id>
+ </element-citation>
+</ref>

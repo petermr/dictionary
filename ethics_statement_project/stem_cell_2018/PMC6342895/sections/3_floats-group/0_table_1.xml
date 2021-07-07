@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Demographics and disease classification at diagnosis</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th>≤ 65 years old</th>
+    <th>ASCT &gt; 65 years old</th>
+    <th>No ASCT ≥ 65 years old</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Age at diagnosis, years (median)</td>
+    <td>56 (36; 65)</td>
+    <td>67 (64; 70)</td>
+    <td>68 (65; 70)</td>
+   </tr>
+   <tr>
+    <td>Age at transplant, years (median)</td>
+    <td>56 (37; 65)</td>
+    <td>68 (66; 70)</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td colspan="4">Gender</td>
+   </tr>
+   <tr>
+    <td> Male (
+     <italic>n</italic>)
+    </td>
+    <td>51 (49%)</td>
+    <td>21 (72%)</td>
+    <td>11 (48%)</td>
+   </tr>
+   <tr>
+    <td> Female (
+     <italic>n</italic>)
+    </td>
+    <td>52 (51%)</td>
+    <td>8 (28%)</td>
+    <td>12 (52%)</td>
+   </tr>
+   <tr>
+    <td colspan="4">Performance status</td>
+   </tr>
+   <tr>
+    <td colspan="4"> ECOG</td>
+   </tr>
+   <tr>
+    <td>  ≤ 2 (
+     <italic>n</italic>)
+    </td>
+    <td>103 (100%)</td>
+    <td>29 (100%)</td>
+    <td>19 (82%)</td>
+   </tr>
+   <tr>
+    <td>  &gt; 2 (
+     <italic>n</italic>)
+    </td>
+    <td>0</td>
+    <td>0</td>
+    <td>4 (18%)</td>
+   </tr>
+   <tr>
+    <td colspan="4">Charlson score</td>
+   </tr>
+   <tr>
+    <td> 1–2 (
+     <italic>n</italic>)
+    </td>
+    <td>86 (83%)</td>
+    <td>18 (62%)</td>
+    <td>7 (30%)</td>
+   </tr>
+   <tr>
+    <td> 3–4 (
+     <italic>n</italic>)
+    </td>
+    <td>16 (16%)</td>
+    <td>10 (35%)</td>
+    <td>11 (48%)</td>
+   </tr>
+   <tr>
+    <td> ≥ 5 (
+     <italic>n</italic>)
+    </td>
+    <td>1 (1%)</td>
+    <td>1 (3%)</td>
+    <td>5 (22%)</td>
+   </tr>
+   <tr>
+    <td colspan="4">CRAB</td>
+   </tr>
+   <tr>
+    <td> Calcium &gt; 2.75 mmol/L (
+     <italic>n</italic>)
+    </td>
+    <td>15 (15%)</td>
+    <td>5 (18%)</td>
+    <td>3 (13%)</td>
+   </tr>
+   <tr>
+    <td> Creatinine &gt; 2 mg/dL (
+     <italic>n</italic>)
+    </td>
+    <td>11 (11%)</td>
+    <td>4 (16%)</td>
+    <td>10 (43%)</td>
+   </tr>
+   <tr>
+    <td> Hemoglobin &lt; 10 g/dL (
+     <italic>n</italic>)
+    </td>
+    <td>38 (37%)</td>
+    <td>9 (31%)</td>
+    <td>12 (52%)</td>
+   </tr>
+   <tr>
+    <td> Bone disease (
+     <italic>n</italic>)
+    </td>
+    <td>74 (71%)</td>
+    <td>21 (72%)</td>
+    <td>12 (66%)</td>
+   </tr>
+   <tr>
+    <td> B2MICRO &gt; 3.5 mg/L (
+     <italic>n</italic>)
+    </td>
+    <td>40 (43%)</td>
+    <td>14 (54%)</td>
+    <td>14 (88%)</td>
+   </tr>
+   <tr>
+    <td colspan="4">Monoclonal component</td>
+   </tr>
+   <tr>
+    <td> IgG (
+     <italic>n</italic>)
+    </td>
+    <td>54 (52%)</td>
+    <td>13 (45%)</td>
+    <td>11 (48%)</td>
+   </tr>
+   <tr>
+    <td> IgA (
+     <italic>n</italic>)
+    </td>
+    <td>19 (18%)</td>
+    <td>11 (38%)</td>
+    <td>6 (26%) </td>
+   </tr>
+   <tr>
+    <td> Light chains only (
+     <italic>n</italic>)
+    </td>
+    <td>18 (17%)</td>
+    <td>4 (14%)</td>
+    <td>6 (26%)</td>
+   </tr>
+   <tr>
+    <td>Other (
+     <italic>n</italic>)
+    </td>
+    <td>12 (13%)</td>
+    <td>1 (3%)</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td colspan="4">Staging ISS</td>
+   </tr>
+   <tr>
+    <td> I (
+     <italic>n</italic>)
+    </td>
+    <td>39 (38%)</td>
+    <td>7 (24%)</td>
+    <td>3 (13%)</td>
+   </tr>
+   <tr>
+    <td> II (
+     <italic>n</italic>)
+    </td>
+    <td>32 (31%)</td>
+    <td>10 (35%)</td>
+    <td>4 (17%)</td>
+   </tr>
+   <tr>
+    <td> III (
+     <italic>n</italic>)
+    </td>
+    <td>26 (25%)</td>
+    <td>10 (35%)</td>
+    <td>13 (56%)</td>
+   </tr>
+   <tr>
+    <td> Unknown (
+     <italic>n</italic>)
+    </td>
+    <td>6 (6%)</td>
+    <td>2 (6%)</td>
+    <td>3 (14%)</td>
+   </tr>
+   <tr>
+    <td colspan="4">Cytogenetic risk</td>
+   </tr>
+   <tr>
+    <td> Standard (
+     <italic>n</italic>)
+    </td>
+    <td>30 (29%)</td>
+    <td>11 (38%)</td>
+    <td>4 (17%)</td>
+   </tr>
+   <tr>
+    <td> Intermediate (
+     <italic>n</italic>)
+    </td>
+    <td>24 (23%)</td>
+    <td>5 (17%)</td>
+    <td>10 (43%)</td>
+   </tr>
+   <tr>
+    <td> High (
+     <italic>n</italic>)
+    </td>
+    <td>12 (12%)</td>
+    <td>2 (7%)</td>
+    <td>2 (9%)</td>
+   </tr>
+   <tr>
+    <td> Unknown (
+     <italic>n</italic>)
+    </td>
+    <td>37 (36%)</td>
+    <td>11 (38%)</td>
+    <td>7 (31%)</td>
+   </tr>
+   <tr>
+    <td> BM plasma cells (median)</td>
+    <td>18 (0; 80)</td>
+    <td>10 (0.5; 80)</td>
+    <td>15 (1; 86)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Charlson score is calculated at time of diagnosis; CRAB is acronym for calcium, renal, anemia, bone, for clinical classification of MM [
+   <xref ref-type="bibr" rid="CR28">28</xref>]; BM plasma cells is median percentage of plasma cells in bone marrow at diagnosis, by immunophenotype. Cytogenetic risk is defined by Mayo Stratification of Myeloma and Risk Adapted Therapy consensus guidelines 2013 (mSMART) [
+   <xref ref-type="bibr" rid="CR29">29</xref>]
+  </p>
+ </table-wrap-foot>
+</table-wrap>

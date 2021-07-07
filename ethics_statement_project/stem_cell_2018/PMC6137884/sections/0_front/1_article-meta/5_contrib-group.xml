@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bassetti</surname>
+   <given-names>Beatrice</given-names>
+  </name>
+  <address>
+   <email>beatrice.bassetti@ccfm.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Carbucicchio</surname>
+   <given-names>Corrado</given-names>
+  </name>
+  <address>
+   <email>corrado.carbucicchio@ccfm.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Catto</surname>
+   <given-names>Valentina</given-names>
+  </name>
+  <address>
+   <email>valentina.catto@ccfm.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gambini</surname>
+   <given-names>Elisa</given-names>
+  </name>
+  <address>
+   <email>elisa.gambini@ccfm.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rurali</surname>
+   <given-names>Erica</given-names>
+  </name>
+  <address>
+   <email>erica.rurali@ccfm.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bestetti</surname>
+   <given-names>Alberto</given-names>
+  </name>
+  <address>
+   <email>alberto.bestetti@unimi.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gaipa</surname>
+   <given-names>Giuseppe</given-names>
+  </name>
+  <address>
+   <email>g.gaipa@asst-monza.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Belotti</surname>
+   <given-names>Daniela</given-names>
+  </name>
+  <address>
+   <email>daniela.belotti@unimib.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Celeste</surname>
+   <given-names>Fabrizio</given-names>
+  </name>
+  <address>
+   <email>fabrizio.celeste@ccfm.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Parma</surname>
+   <given-names>Matteo</given-names>
+  </name>
+  <address>
+   <email>m.parma@asst-monza.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Righetti</surname>
+   <given-names>Stefano</given-names>
+  </name>
+  <address>
+   <email>s.righetti@asst-monza.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Biava</surname>
+   <given-names>Lorenza</given-names>
+  </name>
+  <address>
+   <email>biava.lorenza@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff10">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Arosio</surname>
+   <given-names>Maurizio</given-names>
+  </name>
+  <address>
+   <email>m.arosio@asst-monza.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff11">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bonomi</surname>
+   <given-names>Alice</given-names>
+  </name>
+  <address>
+   <email>alice.bonomi@ccfm.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff12">12</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Agostoni</surname>
+   <given-names>Piergiuseppe</given-names>
+  </name>
+  <address>
+   <email>piergiuseppe.agostoni@ccfm.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff13">13</xref>
+  <xref ref-type="aff" rid="Aff14">14</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Scacciatella</surname>
+   <given-names>Paolo</given-names>
+  </name>
+  <address>
+   <email>paolo.scacciatella@tin.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff10">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Achilli</surname>
+   <given-names>Felice</given-names>
+  </name>
+  <address>
+   <email>felice.achilli@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2581-5735</contrib-id>
+  <name>
+   <surname>Pompilio</surname>
+   <given-names>Giulio</given-names>
+  </name>
+  <address>
+   <phone>+39 02-58002562</phone>
+   <email>giulio.pompilio@ccfm.it</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff14">14</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1760 1750</institution-id>
+   <institution-id institution-id-type="GRID">grid.418230.c</institution-id>
+   <institution>Vascular Biology and Regenerative Medicine Unit, Centro Cardiologico Monzino-IRCCS, </institution>
+  </institution-wrap>Via Carlo Parea 4, 20138 Milan, Italy 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1760 1750</institution-id>
+   <institution-id institution-id-type="GRID">grid.418230.c</institution-id>
+   <institution>Heart Rhythm Center, Centro Cardiologico Monzino-IRCCS, </institution>
+  </institution-wrap>Via Carlo Parea 4, 20138 Milan, Italy 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1784 7240</institution-id>
+   <institution-id institution-id-type="GRID">grid.420421.1</institution-id>
+   <institution>Service of Nuclear Medicine, IRCCS Multimedica, </institution>
+  </institution-wrap>Via Milanese 300, 20099 Sesto San Giovanni, Milan Italy 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1756 8604</institution-id>
+   <institution-id institution-id-type="GRID">grid.415025.7</institution-id>
+   <institution>Laboratory of Cell and Gene Therapy “Stefano Verri”, ASST-Monza, San Gerardo Hospital, </institution>
+  </institution-wrap>Via Pergolesi 33, 20900 Monza, Italy 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>Tettamanti Research Center, Tettamanti Foundation, Via Pergolesi 33, 20900 Monza, Italy 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2174 1754</institution-id>
+   <institution-id institution-id-type="GRID">grid.7563.7</institution-id>
+   <institution>University of Milano Bicocca, </institution>
+  </institution-wrap>Via Pergolesi 33, 20900 Monza, Italy 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1760 1750</institution-id>
+   <institution-id institution-id-type="GRID">grid.418230.c</institution-id>
+   <institution>Cardiovascular Imaging Area, Centro Cardiologico Monzino-IRCCS, </institution>
+  </institution-wrap>Via Carlo Parea 4, 20138 Milan, Italy 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1756 8604</institution-id>
+   <institution-id institution-id-type="GRID">grid.415025.7</institution-id>
+   <institution>Haematology Division and BMT Unit, ASST-Monza, San Gerardo Hospital, </institution>
+  </institution-wrap>Via Pergolesi 33, 20900 Monza, Italy 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1756 8604</institution-id>
+   <institution-id institution-id-type="GRID">grid.415025.7</institution-id>
+   <institution>Department of Cardiology, ASST-Monza, </institution>
+   <institution>San Gerardo Hospital, </institution>
+  </institution-wrap>Via Pergolesi 33, 20900 Monza, Italy 
+ </aff>
+ <aff id="Aff10">
+  <label>10</label>Department of Cardiovascular and Thoracic Diseases, Città della Salute e della Scienza Hospital, Corso Bramante 88, 10126 Turin, Italy 
+ </aff>
+ <aff id="Aff11">
+  <label>11</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2174 1754</institution-id>
+   <institution-id institution-id-type="GRID">grid.7563.7</institution-id>
+   <institution>Nuclear Medicine Unit, ASST-Monza, San Gerardo Hospital and University of Milano Bicocca, </institution>
+  </institution-wrap>Via Pergolesi, 33, 20900 Monza, Italy 
+ </aff>
+ <aff id="Aff12">
+  <label>12</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1760 1750</institution-id>
+   <institution-id institution-id-type="GRID">grid.418230.c</institution-id>
+   <institution>BioStatistical Unit, Centro Cardiologico Monzino-IRCCS, </institution>
+  </institution-wrap>Via Carlo Parea 4, 20138 Milan, Italy 
+ </aff>
+ <aff id="Aff13">
+  <label>13</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1760 1750</institution-id>
+   <institution-id institution-id-type="GRID">grid.418230.c</institution-id>
+   <institution>Heart Failure, Clinical Cardiology and Rehabilitation Cardiology Unit, Centro Cardiologico Monzino-IRCCS, </institution>
+  </institution-wrap>Via Carlo Parea 4, 20138 Milan, Italy 
+ </aff>
+ <aff id="Aff14">
+  <label>14</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1757 2822</institution-id>
+   <institution-id institution-id-type="GRID">grid.4708.b</institution-id>
+   <institution>Dipartimento di Scienze Cliniche e di Comunità, </institution>
+   <institution>Università degli Studi di Milano, </institution>
+  </institution-wrap>Via Festa del Perdono 7, 20122 Milan, Italy 
+ </aff>
+</contrib-group>

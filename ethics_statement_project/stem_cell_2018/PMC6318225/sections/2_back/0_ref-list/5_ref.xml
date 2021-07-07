@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib5">
+ <label>5</label>
+ <element-citation publication-type="journal" id="sbref50">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Keats</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Chesi</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Egan</surname>
+    <given-names>JB</given-names>
+   </name>
+  </person-group>
+  <article-title>Clonal competition with alternating dominance in multiple myeloma</article-title>
+  <source>Blood</source>
+  <volume>120</volume>
+  <year>2012</year>
+  <fpage>1067</fpage>
+  <lpage>1076</lpage>
+  <pub-id pub-id-type="pmid">22498740</pub-id>
+ </element-citation>
+</ref>

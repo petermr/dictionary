@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kalos</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Levine</surname>
+    <given-names>BL</given-names>
+   </name>
+   <name>
+    <surname>Porter</surname>
+    <given-names>DL</given-names>
+   </name>
+   <name>
+    <surname>Katz</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Grupp</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Bagg</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>June</surname>
+    <given-names>CH</given-names>
+   </name>
+  </person-group>
+  <article-title>T cells with chimeric antigen receptors have potent antitumor effects and can establish memory in patients with advanced leukemia</article-title>
+  <source>Sci Transl Med</source>
+  <year>2011</year>
+  <volume>3</volume>
+  <issue>95</issue>
+  <fpage>95ra73</fpage>
+  <pub-id pub-id-type="doi">10.1126/scitranslmed.3002842</pub-id>
+  <?supplied-pmid 21832238?>
+  <pub-id pub-id-type="pmid">21832238</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Eyal</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Flaschner</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Ben Yehuda</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Rund</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Varicella-zoster virus meningoencephalitis in a patient treated with ruxolitinib</article-title>
+  <source>Am. J. Hematol.</source>
+  <year>2017</year>
+  <volume>92</volume>
+  <fpage>E74</fpage>
+  <lpage>E75</lpage>
+  <pub-id pub-id-type="doi">10.1002/ajh.24688</pub-id>
+  <?supplied-pmid 28213916?>
+  <pub-id pub-id-type="pmid">28213916</pub-id>
+ </element-citation>
+</ref>

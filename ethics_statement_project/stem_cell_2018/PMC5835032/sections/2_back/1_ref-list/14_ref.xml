@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B14">
+ <label>14</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fehres</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Bruijns</surname>
+    <given-names>SC</given-names>
+   </name>
+   <name>
+    <surname>Sotthewes</surname>
+    <given-names>BN</given-names>
+   </name>
+   <name>
+    <surname>Kalay</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Schaffer</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Head</surname>
+    <given-names>SR</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Phenotypic and functional properties of human steady state CD14+ and CD1a+ antigen presenting cells and epidermal langerhans cells</article-title>. 
+  <source>PLoS One</source> (
+  <year>2015</year>) 
+  <volume>10</volume>(
+  <issue>11</issue>):
+  <fpage>e0143519</fpage>.
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0143519</pub-id>
+  <?supplied-pmid 26605924?>
+  <pub-id pub-id-type="pmid">26605924</pub-id>
+ </mixed-citation>
+</ref>

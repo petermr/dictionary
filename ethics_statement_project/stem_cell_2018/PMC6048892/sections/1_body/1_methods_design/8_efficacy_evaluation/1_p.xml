@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par60">The primary hypothesis of the trial is that there is a difference between the two treatment arms with respect to the primary endpoint, defined as a drop of at least 5 points from baseline in HVLT-R total recall at 3 months. With π
+ <sub>SRS</sub> being the deterioration probability in the SRS arm and π
+ <sub>WBRT</sub> being the deterioration probability in the WBRT arm, the null hypothesis H
+ <sub>0</sub>: π
+ <sub>SRS</sub> = π
+ <sub>WBRT</sub> is tested against its alternative H
+ <sub>1</sub>: π
+ <sub>SRS</sub> ≠ π
+ <sub>WBRT</sub> at a two-sided significance level of α = 0.05 using a Cochran–Mantel–Haenszel test adjusting for the confounder time of appearance (synchronous vs. metachronous). Missing data for the primary outcome variable will be replaced by using multiple imputation which takes the covariates of treatment group, time of appearance (synchronous vs. metachronous), and the baseline HVLT-R total recall score into account by application of the fully conditional specification method [
+ <xref ref-type="bibr" rid="CR26">26</xref>]. For the secondary time-to-event endpoints overall survival, local progression-free survival, and locoregional progression-free survival, median event times and 1-year rates will be given with 95% confidence intervals and Kaplan–Meier curves will be calculated for both treatment groups. A (descriptive) log-rank test stratified for time of appearance (synchronous vs. metachronous) will be performed in order to assess differences between the two treatment groups, and a descriptive 
+ <italic>P</italic> value will be given. A Cox proportional hazard model with overall survival as dependent variables well as treatment group and time of appearance as independent factors will be fitted to estimate the hazard ratio for the treatment group together with a 95% confidence interval.
+</p>

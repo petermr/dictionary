@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig fig-type="figure" id="F2" orientation="portrait" position="float">
+ <label>Figure 2.</label>
+ <caption>
+  <p>Cumulative incidence of infection after chimeric antigen receptor T-cell infusion (CTI) and cytokine release syndrome (CRS). 
+   <italic>A</italic>, Cumulative incidence of any infection in patients by CRS grade. 
+   <italic>B</italic>, Cumulative incidence of bloodstream infection by CRS grade. Note that all the analysis time was CRS grade 3–4.
+  </p>
+ </caption>
+ <graphic xlink:href="ciy15202" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

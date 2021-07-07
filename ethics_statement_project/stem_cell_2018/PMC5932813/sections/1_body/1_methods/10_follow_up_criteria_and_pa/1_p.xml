@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par45">Patients will continue to receive intervention until one of following events occurs:
+ <list list-type="order">
+  <list-item>
+   <p id="Par46">Positivity of any of the cultures taken from the CVC hubs</p>
+  </list-item>
+  <list-item>
+   <p id="Par47">Recovery of neutropenia: &gt; 500 neutrophils/μL</p>
+  </list-item>
+  <list-item>
+   <p id="Par48">Removal of the catheter for any cause</p>
+  </list-item>
+  <list-item>
+   <p id="Par49">Episode of CRBSI</p>
+  </list-item>
+  <list-item>
+   <p id="Par50">Need to use the CVC for the administration of a medication in continuous infusion that cannot be stopped for any reason</p>
+  </list-item>
+  <list-item>
+   <p id="Par51">Discharge from the haematology ward for any reason, despite not having recovered from the neutropenia</p>
+  </list-item>
+  <list-item>
+   <p id="Par52">Death</p>
+  </list-item>
+ </list>
+</p>

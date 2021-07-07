@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Deckert</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Park</surname>
+    <given-names>PU</given-names>
+   </name>
+   <name>
+    <surname>Chicklas</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Yi</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Lai</surname>
+    <given-names>KC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A novel anti-CD37 antibody-drug conjugate with multiple anti-tumor mechanisms for the treatment of B-cell malignancies</article-title>
+  <source>Blood</source>
+  <year>2013</year>
+  <volume>122</volume>
+  <fpage>3500</fpage>
+  <lpage>3510</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2013-05-505685</pub-id>
+  <?supplied-pmid 24002446?>
+  <pub-id pub-id-type="pmid">24002446</pub-id>
+ </element-citation>
+</ref>

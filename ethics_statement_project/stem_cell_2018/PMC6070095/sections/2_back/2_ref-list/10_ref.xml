@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0010">
+ <label>10.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Mandell</surname>
+    <given-names>LA</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Wunderink</surname>
+    <given-names>RG</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Anzueto</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>; 
+  <person-group person-group-type="author">
+   <collab>Infectious Diseases Society of America; American Thoracic Society</collab>
+  </person-group>
+  <article-title>Infectious Diseases Society of America/American Thoracic Society consensus guidelines on the management of community-acquired pneumonia in adults</article-title>. 
+  <source>Clin Infect Dis</source>
+  <year>2007</year>; 
+  <volume>44</volume>(
+  <issue>suppl 2</issue>):
+  <fpage>S27</fpage>–
+  <lpage>72</lpage>.
+  <pub-id pub-id-type="pmid">17278083</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A restricted cell population propagates glioblastoma growth after chemotherapy</article-title>
+  <source>Nature</source>
+  <year>2012</year>
+  <volume>488</volume>
+  <fpage>522</fpage>
+  <lpage>526</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature11287</pub-id>
+  <?supplied-pmid 22854781?>
+  <pub-id pub-id-type="pmid">22854781</pub-id>
+ </element-citation>
+</ref>

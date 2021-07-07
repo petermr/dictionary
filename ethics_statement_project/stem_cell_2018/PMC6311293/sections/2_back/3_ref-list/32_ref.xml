@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B33">
+ <label>33</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kazda</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Pospisil</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Vrzal</surname>
+    <given-names>M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Volumetric modulated arc therapy for hippocampal-sparing radiotherapy in transformed low-grade glioma: A treatment planning case report</article-title>
+  <source>
+   <italic toggle="yes">Cancer Radiothérapie</italic>
+  </source>
+  <year>2015</year>
+  <volume>19</volume>
+  <issue>3</issue>
+  <fpage>187</fpage>
+  <lpage>191</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.canrad.2014.11.013</pub-id>
+  <pub-id pub-id-type="pmid">25835374</pub-id>
+ </element-citation>
+</ref>

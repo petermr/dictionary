@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pitzschke</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Lovisa</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Seydoux</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Zellweger</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Pfleiderer</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Tardy</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Wagnières</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>Red and NIR light dosimetry in the human deep brain</article-title>
+  <source>Phys Med Biol</source>
+  <year>2015</year>
+  <volume>60</volume>
+  <fpage>2921</fpage>
+  <lpage>2937</lpage>
+  <pub-id pub-id-type="doi">10.1088/0031-9155/60/7/2921</pub-id>
+  <?supplied-pmid 25789711?>
+  <pub-id pub-id-type="pmid">25789711</pub-id>
+ </element-citation>
+</ref>

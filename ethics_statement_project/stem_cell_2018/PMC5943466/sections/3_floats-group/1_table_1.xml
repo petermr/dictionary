@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="cam41388-tbl-0001" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Demographics and other baseline characteristics (evaluable population)</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <thead valign="top">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" rowspan="2" valign="top" colspan="1"/>
+    <th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Rolontis dose</th>
+    <th align="left" rowspan="2" valign="top" colspan="1">Pegfilgrastim 6 mg (
+     <italic>n</italic> = 36)
+    </th>
+    <th align="left" rowspan="2" valign="top" colspan="1">Total (
+     <italic>N</italic> = 147)
+    </th>
+   </tr>
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="top" rowspan="1" colspan="1">45 
+     <italic>μ</italic>g/kg (
+     <italic>n</italic> = 39)
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">135 
+     <italic>μ</italic>g/kg (
+     <italic>n</italic> = 36)
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">270 
+     <italic>μ</italic>g/kg (
+     <italic>n</italic> = 36)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Age (years)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Median (range)</td>
+    <td align="left" rowspan="1" colspan="1">62 (33–77)</td>
+    <td align="left" rowspan="1" colspan="1">59 (32–74)</td>
+    <td align="left" rowspan="1" colspan="1">57 (38–77)</td>
+    <td align="left" rowspan="1" colspan="1">61 (35–77)</td>
+    <td align="left" rowspan="1" colspan="1">59 (32–77)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Gender, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td>
+    <td align="left" rowspan="1" colspan="1">39 (100)</td>
+    <td align="left" rowspan="1" colspan="1">35 (97)</td>
+    <td align="left" rowspan="1" colspan="1">34 (94)</td>
+    <td align="left" rowspan="1" colspan="1">36 (100)</td>
+    <td align="left" rowspan="1" colspan="1">144 (98)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">1 (3)</td>
+    <td align="left" rowspan="1" colspan="1">2 (6)</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">3 (2)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Race, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">White</td>
+    <td align="left" rowspan="1" colspan="1">36 (92)</td>
+    <td align="left" rowspan="1" colspan="1">36 (100)</td>
+    <td align="left" rowspan="1" colspan="1">35 (97)</td>
+    <td align="left" rowspan="1" colspan="1">32 (89)</td>
+    <td align="left" rowspan="1" colspan="1">139 (95)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Black or African‐American</td>
+    <td align="left" rowspan="1" colspan="1">2 (5)</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">2 (1)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td>
+    <td align="left" rowspan="1" colspan="1">1 (3)</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">1 (3)</td>
+    <td align="left" rowspan="1" colspan="1">4 (11)0</td>
+    <td align="left" rowspan="1" colspan="1">6 (4)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">ECOG PS, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">0 (fully active)</td>
+    <td align="left" rowspan="1" colspan="1">33 (85)</td>
+    <td align="left" rowspan="1" colspan="1">32 (89)</td>
+    <td align="left" rowspan="1" colspan="1">35 (97)</td>
+    <td align="left" rowspan="1" colspan="1">33 (92)</td>
+    <td align="left" rowspan="1" colspan="1">133 (90)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">1 (restricted)</td>
+    <td align="left" rowspan="1" colspan="1">5 (13)</td>
+    <td align="left" rowspan="1" colspan="1">4 (11)</td>
+    <td align="left" rowspan="1" colspan="1">1 (3)</td>
+    <td align="left" rowspan="1" colspan="1">2 (6)</td>
+    <td align="left" rowspan="1" colspan="1">12 (8)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">2 (ambulatory)</td>
+    <td align="left" rowspan="1" colspan="1">1 (3)</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">1 (1)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">1 (3)</td>
+    <td align="left" rowspan="1" colspan="1">1 (1)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">Disease Stage, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">I</td>
+    <td align="left" rowspan="1" colspan="1">8 (21)</td>
+    <td align="left" rowspan="1" colspan="1">7 (19)</td>
+    <td align="left" rowspan="1" colspan="1">6 (17)</td>
+    <td align="left" rowspan="1" colspan="1">9 (25)</td>
+    <td align="left" rowspan="1" colspan="1">30 (20)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">IIA</td>
+    <td align="left" rowspan="1" colspan="1">12 (31)</td>
+    <td align="left" rowspan="1" colspan="1">12 (33)</td>
+    <td align="left" rowspan="1" colspan="1">13 (36)</td>
+    <td align="left" rowspan="1" colspan="1">10 (28)</td>
+    <td align="left" rowspan="1" colspan="1">47 (32)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">IIB</td>
+    <td align="left" rowspan="1" colspan="1">8 (21)</td>
+    <td align="left" rowspan="1" colspan="1">11 (31)</td>
+    <td align="left" rowspan="1" colspan="1">11 (31)</td>
+    <td align="left" rowspan="1" colspan="1">7 (19)</td>
+    <td align="left" rowspan="1" colspan="1">37 (25)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">IIIA</td>
+    <td align="left" rowspan="1" colspan="1">6 (15)</td>
+    <td align="left" rowspan="1" colspan="1">3 (8)</td>
+    <td align="left" rowspan="1" colspan="1">2 (6)</td>
+    <td align="left" rowspan="1" colspan="1">6 (17)</td>
+    <td align="left" rowspan="1" colspan="1">17 (12)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">IIIB</td>
+    <td align="left" rowspan="1" colspan="1">3 (8)</td>
+    <td align="left" rowspan="1" colspan="1">3 (8)</td>
+    <td align="left" rowspan="1" colspan="1">2 (6)</td>
+    <td align="left" rowspan="1" colspan="1">1 (3)</td>
+    <td align="left" rowspan="1" colspan="1">9 (6)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">IIIC</td>
+    <td align="left" rowspan="1" colspan="1">2 (5)</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">2 (6)</td>
+    <td align="left" rowspan="1" colspan="1">1 (3)</td>
+    <td align="left" rowspan="1" colspan="1">5 (3)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">IV</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">2 (6)</td>
+    <td align="left" rowspan="1" colspan="1">2 (1)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">WHO Classification, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Invasive ductal carcinoma</td>
+    <td align="left" rowspan="1" colspan="1">31 (79)</td>
+    <td align="left" rowspan="1" colspan="1">27 (75)</td>
+    <td align="left" rowspan="1" colspan="1">32 (89)</td>
+    <td align="left" rowspan="1" colspan="1">33 (92)</td>
+    <td align="left" rowspan="1" colspan="1">123 (84)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Invasive lobular carcinoma</td>
+    <td align="left" rowspan="1" colspan="1">3 (8)</td>
+    <td align="left" rowspan="1" colspan="1">3 (8)</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">2 (6)</td>
+    <td align="left" rowspan="1" colspan="1">8 (5)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Carcinoma with metaplasia</td>
+    <td align="left" rowspan="1" colspan="1">1 (3)</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">1 (1)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Medullary carcinoma</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">1 (3)</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">1 (1)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td>
+    <td align="left" rowspan="1" colspan="1">4 (10)</td>
+    <td align="left" rowspan="1" colspan="1">5 (14)</td>
+    <td align="left" rowspan="1" colspan="1">4 (11)</td>
+    <td align="left" rowspan="1" colspan="1">1 (3)</td>
+    <td align="left" rowspan="1" colspan="1">14 (10)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">HER2 Status, 
+     <italic>n</italic> (%)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">HER2+</td>
+    <td align="left" rowspan="1" colspan="1">1 (3)</td>
+    <td align="left" rowspan="1" colspan="1">7 (19)</td>
+    <td align="left" rowspan="1" colspan="1">6 (17)</td>
+    <td align="left" rowspan="1" colspan="1">3 (8)</td>
+    <td align="left" rowspan="1" colspan="1">17 (12)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">HER2−</td>
+    <td align="left" rowspan="1" colspan="1">9 (23)</td>
+    <td align="left" rowspan="1" colspan="1">9 (25)</td>
+    <td align="left" rowspan="1" colspan="1">9 (25)</td>
+    <td align="left" rowspan="1" colspan="1">10 (28)</td>
+    <td align="left" rowspan="1" colspan="1">37 (25)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Unknown</td>
+    <td align="left" rowspan="1" colspan="1">29 (74)</td>
+    <td align="left" rowspan="1" colspan="1">20 (56)</td>
+    <td align="left" rowspan="1" colspan="1">21 (58)</td>
+    <td align="left" rowspan="1" colspan="1">23 (64)</td>
+    <td align="left" rowspan="1" colspan="1">94 (64)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="cam41388-note-0003">
+   <p>ECOG, Eastern Cooperative Oncology Group; PS, performance status; SD, standard deviation; WHO, World Health Organization.</p>
+  </fn>
+ </table-wrap-foot>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+ </permissions>
+</table-wrap>

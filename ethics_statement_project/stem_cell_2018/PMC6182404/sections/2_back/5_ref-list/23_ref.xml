@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Molenkamp</surname>
+    <given-names>BG</given-names>
+   </name>
+   <name>
+    <surname>Sluijter</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>van Leeuwen</surname>
+    <given-names>PA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Local administration of PF-3512676 CpG-B instigates tumor-specific CD8
+   <sup>+</sup> T-cell reactivity in melanoma patients
+  </article-title>
+  <source>Clin Cancer Res</source>
+  <year>2008</year>
+  <volume>14</volume>
+  <fpage>4532</fpage>
+  <lpage>4542</lpage>
+  <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-07-4711</pub-id>
+  <?supplied-pmid 18628468?>
+  <pub-id pub-id-type="pmid">18628468</pub-id>
+ </element-citation>
+</ref>

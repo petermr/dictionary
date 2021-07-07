@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Lung scores did not contribute to patient clustering; lung was neither enriched nor negatively enriched in MEM analysis of organ scores (
+ <italic>Online Supplementary Figure S2</italic>). Cluster stability analyses were used to determine optimal clustering parameters 
+ <italic>(Online Supplementary Methods</italic>). Analysis with lung excluded from the workflow increased cluster stability, so lung was dropped from the analysis and eight organ scores were used (
+ <italic>Online Supplementary Figure S3</italic>). Cluster stability with six, seven and eight clusters was tested based on the appearance of seven clusters in viSNE plots (
+ <italic>Online Supplementary Figure S4</italic>). FlowSOM was run to identify seven clusters, based on similar but increased stability with this parameter. MEM labels are reported as ▼or 
+ <bold>▲</bold> with Organ
+ <sup>X</sup> where x represents a scale from −10 (most negatively enriched or 
+ <bold>▼</bold>) to +10 (most enriched or 
+ <bold>▲</bold> ). Additional information on MEM and cluster stability validation is provided in the 
+ <italic>Online Supplementary Methods</italic>. De-identified data are available in FlowRepository (
+ <ext-link ext-link-type="uri" xlink:href="http://flowrepository.org/id/FR-FCM-ZYSU" xmlns:xlink="http://www.w3.org/1999/xlink">http://flowrepository.org/id/FR-FCM-ZYSU</ext-link>).
+</p>

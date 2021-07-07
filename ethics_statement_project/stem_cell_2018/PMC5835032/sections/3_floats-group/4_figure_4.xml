@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F4" position="float">
+ <label>Figure 4</label>
+ <caption>
+  <p>Dermal HLA class II-expressing cells seen after myeloablative (MA) allogeneic stem cell transplantation (alloSCT) were macrophages with non-professional antigen-presenting cell (APC) phenotype. 
+   <bold>(A)</bold> In normal skin, the majority of HLA class II-expressing cells were macrophages, as indicated by the expression of CD68 and CD206, while also some resident dermal dendritic cells (CD11c positive) were detected. The HLA class II-expressing cells were negative for CD40, CD54, and CD86. 
+   <bold>(B)</bold> Skin biopsies taken from patients in which an increase in HLA class II-positive cells was observed after MA alloSCT. HLA class II-expressing cells were CD68- and CD206-positive macrophages from which only a few expressed also CD11c. There was no expression of CD40, CD54, or CD86, so the HLA class II-expressing cells did not have the characteristics of activated professional APC. 
+   <bold>(C)</bold> Skin biopsies from skin affected by acute graft-versus-host disease (GVHD) showed increase in HLA class II-expressing cells with professional inflammatory APC phenotype (CD11c, CD40, CD54, and CD86 positive, while CD206 is negative). White line demarks the border between dermis and epidermis.
+  </p>
+ </caption>
+ <graphic xlink:href="fimmu-09-00331-g004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

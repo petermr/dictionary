@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Toffoli</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Cecchin</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Corona</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Russo</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Buonadonna</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>D’Andrea</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The role of UGT1A1*28 polymorphism in the pharmacodynamics and pharmacokinetics of irinotecan in patients with metastatic colorectal cancer</article-title>
+  <source>J Clin Oncol</source>
+  <year>2006</year>
+  <volume>24</volume>
+  <fpage>3061</fpage>
+  <lpage>3068</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2005.05.5400</pub-id>
+  <?supplied-pmid 16809730?>
+  <pub-id pub-id-type="pmid">16809730</pub-id>
+ </element-citation>
+</ref>

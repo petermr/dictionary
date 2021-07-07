@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B42">
+ <label>42</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Spaan</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Hullegie</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Beudeker</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Kreefft</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>van Oord</surname>
+    <given-names>GW</given-names>
+   </name>
+   <name>
+    <surname>Groothuismink</surname>
+    <given-names>ZM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Frequencies of circulating MAIT cells are diminished in chronic HCV, HIV and HCV/HIV co-infection and do not recover during therapy</article-title>. 
+  <source>PLoS One</source> (
+  <year>2016</year>) 
+  <volume>11</volume>:
+  <fpage>e0159243</fpage>.
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0159243</pub-id>
+  <?supplied-pmid 27416100?>
+  <pub-id pub-id-type="pmid">27416100</pub-id>
+ </mixed-citation>
+</ref>

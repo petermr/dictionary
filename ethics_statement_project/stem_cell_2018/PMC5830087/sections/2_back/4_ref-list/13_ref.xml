@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ferrara</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Hillan</surname>
+    <given-names>KJ</given-names>
+   </name>
+   <name>
+    <surname>Gerber</surname>
+    <given-names>HP</given-names>
+   </name>
+   <name>
+    <surname>Novotny</surname>
+    <given-names>W</given-names>
+   </name>
+  </person-group>
+  <article-title>Discovery and development of bevacizumab, an anti-VEGF antibody for treating cancer</article-title>
+  <source>Nat Rev Drug Discov</source>
+  <year>2004</year>
+  <volume>3</volume>
+  <fpage>391</fpage>
+  <lpage>400</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrd1381</pub-id>
+  <?supplied-pmid 15136787?>
+  <pub-id pub-id-type="pmid">15136787</pub-id>
+ </element-citation>
+</ref>

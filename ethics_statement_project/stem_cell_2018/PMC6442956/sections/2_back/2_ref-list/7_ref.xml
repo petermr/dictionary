@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b7-1040835">
+ <label>7.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gooley</surname>
+    <given-names>TA</given-names>
+   </name>
+   <name>
+    <surname>Leisenring</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Crowley</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Storer</surname>
+    <given-names>BE</given-names>
+   </name>
+  </person-group>
+  <article-title>Estimation of failure probabilities in the presence of competing risks: new representations of old estimators</article-title>. 
+  <source>Stat Med</source>. 
+  <year>1999</year>;
+  <volume>18</volume>(
+  <issue>6</issue>):
+  <fpage>695</fpage>–
+  <lpage>706</lpage>.
+  <pub-id pub-id-type="pmid">10204198</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Satlin</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Cohen</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Ma</surname>
+    <given-names>KC</given-names>
+   </name>
+   <name>
+    <surname>Gedrimaite</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Soave</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Askin</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Bacteremia due to carbapenem-resistant 
+   <italic>Enterobacteriaceae</italic> in neutropenic patients with hematologic malignancies
+  </article-title>
+  <source>J Inf Secur</source>
+  <year>2016</year>
+  <volume>73</volume>
+  <fpage>336</fpage>
+  <lpage>345</lpage>
+ </element-citation>
+</ref>

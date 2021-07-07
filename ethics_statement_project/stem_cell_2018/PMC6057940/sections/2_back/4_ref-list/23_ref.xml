@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mayorca-Guiliani</surname>
+    <given-names>AE</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>ISDoT: in situ decellularization of tissues for high-resolution imaging and proteomic analysis of native extracellular matrix</article-title>
+  <source>Nat. Med.</source>
+  <year>2017</year>
+  <volume>23</volume>
+  <fpage>890</fpage>
+  <lpage>898</lpage>
+  <pub-id pub-id-type="doi">10.1038/nm.4352</pub-id>
+  <?supplied-pmid 28604702?>
+  <pub-id pub-id-type="pmid">28604702</pub-id>
+ </element-citation>
+</ref>

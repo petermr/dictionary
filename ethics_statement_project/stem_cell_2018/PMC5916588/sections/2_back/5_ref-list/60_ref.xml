@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR60">
+ <label>60.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Maas</surname>
+    <given-names>AI</given-names>
+   </name>
+   <name>
+    <surname>Hukkelhoven</surname>
+    <given-names>CW</given-names>
+   </name>
+   <name>
+    <surname>Marshall</surname>
+    <given-names>LF</given-names>
+   </name>
+   <name>
+    <surname>Steyerberg</surname>
+    <given-names>EW</given-names>
+   </name>
+  </person-group>
+  <article-title>Prediction of outcome in traumatic brain injury with computed tomographic characteristics: a comparison between the computed tomographic classification and combinations of computed tomographic predictors</article-title>
+  <source>Neurosurgery</source>
+  <year>2005</year>
+  <volume>57</volume>
+  <issue>6</issue>
+  <fpage>1173</fpage>
+  <lpage>1182</lpage>
+  <pub-id pub-id-type="doi">10.1227/01.NEU.0000186013.63046.6B</pub-id>
+  <?supplied-pmid 16331165?>
+  <pub-id pub-id-type="pmid">16331165</pub-id>
+ </element-citation>
+</ref>

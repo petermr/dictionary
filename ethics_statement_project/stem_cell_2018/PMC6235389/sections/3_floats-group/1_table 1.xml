@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Demographic and baseline characteristics of patients with NPC who were treated with famitinib</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Variables</th>
+    <th align="left">Patients (n = 20)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" colspan="2">Age, years</td>
+   </tr>
+   <tr>
+    <td align="left"> Median (IQR)</td>
+    <td align="left">43 (39–48)</td>
+   </tr>
+   <tr>
+    <td align="left"> Range</td>
+    <td align="left">26–56</td>
+   </tr>
+   <tr>
+    <td align="left"> Male sex</td>
+    <td align="left">18 (80%)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="2">ECOG</td>
+   </tr>
+   <tr>
+    <td align="left"> 0</td>
+    <td align="left">1 (5%)</td>
+   </tr>
+   <tr>
+    <td align="left"> 1</td>
+    <td align="left">19 (95%)</td>
+   </tr>
+   <tr>
+    <td align="left"> Histology, WHO type III</td>
+    <td align="left">20 (100%)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="2">Tumour stage</td>
+   </tr>
+   <tr>
+    <td align="left"> T1</td>
+    <td align="left">1 (5%)</td>
+   </tr>
+   <tr>
+    <td align="left"> T2</td>
+    <td align="left">3 (15%)</td>
+   </tr>
+   <tr>
+    <td align="left"> T3</td>
+    <td align="left">13 (65%)</td>
+   </tr>
+   <tr>
+    <td align="left"> T4</td>
+    <td align="left">3 (15%)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="2">Node stage</td>
+   </tr>
+   <tr>
+    <td align="left"> N1</td>
+    <td align="left">2 (10%)</td>
+   </tr>
+   <tr>
+    <td align="left"> N2</td>
+    <td align="left">13 (65%)</td>
+   </tr>
+   <tr>
+    <td align="left"> N3</td>
+    <td align="left">5 (25%)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="2">Clinical stage</td>
+   </tr>
+   <tr>
+    <td align="left"> III</td>
+    <td align="left">12 (60%)</td>
+   </tr>
+   <tr>
+    <td align="left"> IVa</td>
+    <td align="left">3 (15%)</td>
+   </tr>
+   <tr>
+    <td align="left"> IVb</td>
+    <td align="left">5 (25%)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="2">EBV DNA,</td>
+   </tr>
+   <tr>
+    <td align="left"> ≥ 4000 copy/ml</td>
+    <td align="left">10 (50%)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="2">VCA-IgA</td>
+   </tr>
+   <tr>
+    <td align="left"> ≥ 1:80</td>
+    <td align="left">15 (75%)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="2">EA-IgA</td>
+   </tr>
+   <tr>
+    <td align="left"> ≥ 1:10</td>
+    <td align="left">13 (65%)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="2">Smoking
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left"> Yes</td>
+    <td align="left">9 (45%)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="2">Family history of NPC</td>
+   </tr>
+   <tr>
+    <td align="left"> Yes</td>
+    <td align="left">3 (15%)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>ECOG</italic> Eastern Cooperative Oncology Group, 
+   <italic>WHO</italic> World Health Organization, 
+   <italic>EBV DNA</italic> Epstein–Barr virus DNA, 
+   <italic>VCA</italic> viral capsid antigen, 
+   <italic>IgA</italic> immunoglobulin A, 
+   <italic>EA</italic>, early antigen, 
+   <italic>NPC</italic> nasopharyngeal carcinoma
+  </p>
+  <p>
+   <sup>a</sup>Defined as smoking ≥100 cigarettes/lifetime
+  </p>
+ </table-wrap-foot>
+</table-wrap>

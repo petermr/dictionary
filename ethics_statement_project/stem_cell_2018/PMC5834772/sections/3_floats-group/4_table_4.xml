@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="cas13513-tbl-0004" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 4</label>
+ <caption>
+  <p>Anti‐tumour activity and CD25 expression</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <thead valign="top">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="top" rowspan="1" colspan="1">Patient number</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Dose (μg/kg/day)</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Subtype</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">No. of prior chemo‐therapies</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Treatment cycles</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Best overall response</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">CD25 expression (IHC)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">6</td>
+    <td align="left" rowspan="1" colspan="1">PTCL‐NOS</td>
+    <td align="left" rowspan="1" colspan="1">3</td>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">PD</td>
+    <td align="left" rowspan="1" colspan="1">&lt;1%</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">2</td>
+    <td align="left" rowspan="1" colspan="1">6</td>
+    <td align="left" rowspan="1" colspan="1">AITL</td>
+    <td align="left" rowspan="1" colspan="1">2</td>
+    <td align="left" rowspan="1" colspan="1">5</td>
+    <td align="left" rowspan="1" colspan="1">PR</td>
+    <td align="left" rowspan="1" colspan="1">&lt;1%</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">3</td>
+    <td align="left" rowspan="1" colspan="1">6</td>
+    <td align="left" rowspan="1" colspan="1">AITL</td>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">4</td>
+    <td align="left" rowspan="1" colspan="1">PR</td>
+    <td align="left" rowspan="1" colspan="1">10‐20%</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">4</td>
+    <td align="left" rowspan="1" colspan="1">12
+     <xref ref-type="fn" rid="cas13513-note-0004">a</xref>
+    </td>
+    <td align="left" rowspan="1" colspan="1">MF</td>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">4</td>
+    <td align="left" rowspan="1" colspan="1">PR</td>
+    <td align="left" rowspan="1" colspan="1">‐
+     <xref ref-type="fn" rid="cas13513-note-0014">a</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">5</td>
+    <td align="left" rowspan="1" colspan="1">12
+     <xref ref-type="fn" rid="cas13513-note-0004">a</xref>
+    </td>
+    <td align="left" rowspan="1" colspan="1">EATL</td>
+    <td align="left" rowspan="1" colspan="1">2</td>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">PD</td>
+    <td align="left" rowspan="1" colspan="1">‐
+     <xref ref-type="fn" rid="cas13513-note-0014">a</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">6</td>
+    <td align="left" rowspan="1" colspan="1">12
+     <xref ref-type="fn" rid="cas13513-note-0004">a</xref>
+    </td>
+    <td align="left" rowspan="1" colspan="1">AITL</td>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">2</td>
+    <td align="left" rowspan="1" colspan="1">SD</td>
+    <td align="left" rowspan="1" colspan="1">‐
+     <xref ref-type="fn" rid="cas13513-note-0014">a</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">7</td>
+    <td align="left" rowspan="1" colspan="1">9</td>
+    <td align="left" rowspan="1" colspan="1">ALCL‐ALK
+     <sup>‐</sup>
+    </td>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">3</td>
+    <td align="left" rowspan="1" colspan="1">SD</td>
+    <td align="left" rowspan="1" colspan="1">1‐10%</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">8</td>
+    <td align="left" rowspan="1" colspan="1">9</td>
+    <td align="left" rowspan="1" colspan="1">PTCL‐NOS</td>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">2</td>
+    <td align="left" rowspan="1" colspan="1">PR</td>
+    <td align="left" rowspan="1" colspan="1">1‐10%</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">9</td>
+    <td align="left" rowspan="1" colspan="1">9</td>
+    <td align="left" rowspan="1" colspan="1">PTCL‐NOS</td>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">8</td>
+    <td align="left" rowspan="1" colspan="1">PR</td>
+    <td align="left" rowspan="1" colspan="1">1‐10%</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">10</td>
+    <td align="left" rowspan="1" colspan="1">9</td>
+    <td align="left" rowspan="1" colspan="1">PTCL‐NOS</td>
+    <td align="left" rowspan="1" colspan="1">5</td>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">PD</td>
+    <td align="left" rowspan="1" colspan="1">&lt;1%</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">11</td>
+    <td align="left" rowspan="1" colspan="1">9</td>
+    <td align="left" rowspan="1" colspan="1">ALCL‐ALK
+     <sup>+</sup>
+    </td>
+    <td align="left" rowspan="1" colspan="1">7</td>
+    <td align="left" rowspan="1" colspan="1">1</td>
+    <td align="left" rowspan="1" colspan="1">NE</td>
+    <td align="left" rowspan="1" colspan="1">&gt;90%</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">12</td>
+    <td align="left" rowspan="1" colspan="1">9</td>
+    <td align="left" rowspan="1" colspan="1">MF</td>
+    <td align="left" rowspan="1" colspan="1">8</td>
+    <td align="left" rowspan="1" colspan="1">5</td>
+    <td align="left" rowspan="1" colspan="1">SD</td>
+    <td align="left" rowspan="1" colspan="1">‐
+     <xref ref-type="fn" rid="cas13513-note-0014">a</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">13</td>
+    <td align="left" rowspan="1" colspan="1">9</td>
+    <td align="left" rowspan="1" colspan="1">MF</td>
+    <td align="left" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1">6</td>
+    <td align="left" rowspan="1" colspan="1">SD</td>
+    <td align="left" rowspan="1" colspan="1">30‐40%</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="cas13513-note-0012">
+   <p>PTCL‐NOS, peripheral T‐cell lymphoma‐not otherwise specified; AITL, angioimmunoblastic T‐cell lymphoma; ALCL‐ALK, anaplastic large cell lymphoma‐anaplastic lymphoma kinase; EATL, enteropathy‐associated T‐cell lymphoma; MF, mycosis fungoides; PR, partial response; SD, stable disease; PD, progressive disease; IHC, immunohistochemistry</p>
+  </fn>
+  <fn id="cas13513-note-0013">
+   <p>Dose was decreased to 6 μg/kg/day from the second cycle.</p>
+  </fn>
+  <fn id="cas13513-note-0014">
+   <label>a</label>
+   <p>Archival samples were not available for measurement.</p>
+  </fn>
+ </table-wrap-foot>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+ </permissions>
+</table-wrap>

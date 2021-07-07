@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig4">
+ <label>Figure 4</label>
+ <caption>
+  <p>Subgroup analysis of progression-free survival</p>
+  <p>(A) Forest plot of progression-free survival in the intention-to-treat population. For the response before maintenance (NC or PD) subgroup, the Cox model was inestimable because of the small numbers of patients and events in the subgroup. Comparisons by sex, International Staging System disease stage, and response before maintenance were done as post-hoc analyses. The test for heterogeneity in the Response before maintenance setting only applied to the CR or VGPR and PR or MR subgroups. (B) Kaplan-Meier plot of progression-free survival in transplantation-eligible patients. (C) Kaplan-Meier plot of progression-free survival in transplantation-ineligible patients. CR=complete response. CRD=cyclophosphamide, lenalidomide, and dexamethasone. CTD=cyclophosphamide, thalidomide, and dexamethasone. CVD=cyclophosphamide, bortezomib, and dexamethasone. HR=hazard ratio. KCRD=carfilzomib, cyclophosphamide, lenalidomide, and dexamethasone. MR=minimal response. NC=no change. PD=progressive disease. PR=partial response. VGPR=very good partial response. *Likelihood ratio test for heterogeneity of effect among patients with subgroup data available.</p>
+ </caption>
+ <graphic xlink:href="gr4a" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <graphic xlink:href="gr4b" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

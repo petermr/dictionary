@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Costa</surname>
+    <given-names>LJ</given-names>
+   </name>
+   <name>
+    <surname>Alexander</surname>
+    <given-names>ET</given-names>
+   </name>
+   <name>
+    <surname>Hogan</surname>
+    <given-names>KR</given-names>
+   </name>
+   <name>
+    <surname>Schaub</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Fouts</surname>
+    <given-names>TV</given-names>
+   </name>
+   <name>
+    <surname>Stuart</surname>
+    <given-names>RK</given-names>
+   </name>
+  </person-group>
+  <article-title>Development and validation of a decision-making algorithm to guide the use of plerixafor for autologous hematopoietic stem cell mobilization</article-title>
+  <source>Bone Marrow Transplant</source>
+  <year>2011</year>
+  <volume>46</volume>
+  <fpage>64</fpage>
+  <lpage>9</lpage>
+  <pub-id pub-id-type="doi">10.1038/bmt.2010.78</pub-id>
+  <pub-id pub-id-type="pmid">20383210</pub-id>
+ </element-citation>
+</ref>

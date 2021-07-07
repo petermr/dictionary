@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Adams</surname>
+    <given-names>JH</given-names>
+   </name>
+   <name>
+    <surname>Mitchell</surname>
+    <given-names>DE</given-names>
+   </name>
+   <name>
+    <surname>Graham</surname>
+    <given-names>DI</given-names>
+   </name>
+   <name>
+    <surname>Doyle</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Diffuse brain damage of immediate impact type: its relationship to “primary brain-stem damage” in head injury</article-title>
+  <source>Brain</source>
+  <year>1977</year>
+  <volume>100</volume>
+  <fpage>489</fpage>
+  <lpage>502</lpage>
+  <pub-id pub-id-type="doi">10.1093/brain/100.3.489</pub-id>
+  <?supplied-pmid 589428?>
+  <pub-id pub-id-type="pmid">589428</pub-id>
+ </element-citation>
+</ref>

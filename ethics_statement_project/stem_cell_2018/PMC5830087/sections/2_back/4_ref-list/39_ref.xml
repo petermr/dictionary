@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cornelio</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Tamayo</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Flores</surname>
+    <given-names>ML</given-names>
+   </name>
+   <name>
+    <surname>Bautista</surname>
+    <given-names>JB</given-names>
+   </name>
+   <name>
+    <surname>Tioleco</surname>
+    <given-names>PS</given-names>
+   </name>
+   <name>
+    <surname>Gargano</surname>
+    <given-names>MA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A phase Ib/II study evaluating the safety, pharmacokinetics, and efficacy of BTH1677 in combination with cetuximab with and without irinotecan in patients with advanced metastatic colorectal cancer</article-title>
+  <source>Colorectal Cancer</source>
+  <year>2016</year>
+  <volume>5</volume>
+  <fpage>95</fpage>
+  <lpage>108</lpage>
+  <pub-id pub-id-type="doi">10.2217/crc-2016-0010</pub-id>
+ </element-citation>
+</ref>

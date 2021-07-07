@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par71">Variable distributions were examined using frequency histograms and outliers were excluded. In gene expression variables, outliers with expression values &gt; 50 were dropped, and values were natural-log transformed due to skewness [using log(expression + 1)]. Expression values that still had outliers after log transformation were capped at a value of 2.</p>

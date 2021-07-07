@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Du</surname>
+    <given-names>WT</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>CD14+ monocytes promote the immunosuppressive effect of human umbilical cord matrix stem cells</article-title>
+  <source>Exp Cell Res</source>
+  <year>2010</year>
+  <volume>316</volume>
+  <issue>15</issue>
+  <fpage>2414</fpage>
+  <lpage>2423</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.yexcr.2010.04.018</pub-id>
+  <?supplied-pmid 20420825?>
+  <pub-id pub-id-type="pmid">20420825</pub-id>
+ </element-citation>
+</ref>

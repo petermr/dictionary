@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Steib</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Freys</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Lehmann</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Meyer</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Mahoudeau</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>Intraoperative blood losses and transfusion requirements during adult liver transplantation remain difficult to predict</article-title>
+  <source>Can J Anaesth.</source>
+  <year>2001</year>
+  <volume>48</volume>
+  <fpage>1075</fpage>
+  <lpage>1079</lpage>
+  <pub-id pub-id-type="doi">10.1007/BF03020372</pub-id>
+  <?supplied-pmid 11744582?>
+  <pub-id pub-id-type="pmid">11744582</pub-id>
+ </element-citation>
+</ref>

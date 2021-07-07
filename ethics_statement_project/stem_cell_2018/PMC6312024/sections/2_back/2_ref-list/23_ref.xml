@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b23-1040189">
+ <label>23.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Amir</surname>
+    <given-names>E-aD</given-names>
+   </name>
+   <name>
+    <surname>Davis</surname>
+    <given-names>KL</given-names>
+   </name>
+   <name>
+    <surname>Tadmor</surname>
+    <given-names>MD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>viSNE enables visualization of high dimensional single-cell data and reveals phenotypic heterogeneity of leukemia</article-title>. 
+  <source>Nature Biotechnology</source>. 
+  <year>2013</year>;
+  <volume>31</volume>(
+  <issue>6</issue>):
+  <fpage>545</fpage>–
+  <lpage>552</lpage>.
+ </mixed-citation>
+</ref>

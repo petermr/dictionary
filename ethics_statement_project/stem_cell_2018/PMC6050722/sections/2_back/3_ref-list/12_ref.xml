@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bhatla</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Gerbing</surname>
+    <given-names>RB</given-names>
+   </name>
+   <name>
+    <surname>Alonzo</surname>
+    <given-names>TA</given-names>
+   </name>
+   <name>
+    <surname>Conner</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Ross</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Meshinchi</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cytidine deaminase genotype and toxicity of cytosine arabinoside therapy in children with acute myeloid leukemia</article-title>
+  <source>Br J Haematol</source>
+  <year>2009</year>
+  <volume>144</volume>
+  <fpage>388</fpage>
+  <lpage>394</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1365-2141.2008.07461.x</pub-id>
+  <?supplied-pmid 19036079?>
+  <pub-id pub-id-type="pmid">19036079</pub-id>
+ </element-citation>
+</ref>

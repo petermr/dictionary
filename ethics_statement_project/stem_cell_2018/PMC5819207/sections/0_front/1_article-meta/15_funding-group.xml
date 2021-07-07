@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group>
+  <funding-source>
+   <institution-wrap>
+    <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100001809</institution-id>
+    <institution>National Natural Science Foundation of China</institution>
+   </institution-wrap>
+  </funding-source>
+  <award-id>81671585 and 81370665</award-id>
+  <award-id>81300446</award-id>
+  <award-id>81522002</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Weng</surname>
+    <given-names>Jianyu</given-names>
+   </name>
+   <name>
+    <surname>Lai</surname>
+    <given-names>Peilong</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>Peng</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution>the Science and Technology Planning Project of Guangdong Province</institution>
+  </funding-source>
+  <award-id>2013B021800201, 2014B020212009 and 2017B020230004</award-id>
+  <award-id>2014B020226002 and 2015B020227003</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Weng</surname>
+    <given-names>Jianyu</given-names>
+   </name>
+   <name>
+    <surname>Du</surname>
+    <given-names>Xin</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution>Guangdong Provincial Applied Science and Technology Research&amp; Development Program</institution>
+  </funding-source>
+  <award-id>2016B020237006 and 2016B030229006</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Li</surname>
+    <given-names>Peng</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution>Science and Technology Planning Project of Guangzhou, China </institution>
+  </funding-source>
+  <award-id>201400000003-4</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Du</surname>
+    <given-names>Xin</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+</funding-group>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B2">
+ <label>2</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kebir</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Kreymborg</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Ifergan</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Dodelet-Devillers</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Cayrol</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Bernard</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Human TH17 lymphocytes promote blood-brain barrier disruption and central nervous system inflammation</article-title>. 
+  <source>Nat Med</source> (
+  <year>2007</year>) 
+  <volume>13</volume>:
+  <fpage>1173</fpage>–
+  <lpage>5</lpage>.
+  <pub-id pub-id-type="doi">10.1038/nm1651</pub-id>
+  <?supplied-pmid 17828272?>
+  <pub-id pub-id-type="pmid">17828272</pub-id>
+ </mixed-citation>
+</ref>

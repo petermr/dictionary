@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pettengell</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Coiffier</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Narayanan</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Pixantrone dimaleate versus other chemotherapeutic agents as a single-agent salvage treatment in patients with relapsed or refractory aggressive non-Hodgkin lymphoma: a phase 3, multicentre, open-label, randomised trial</article-title>
+  <source>Lancet Oncol</source>
+  <year>2012</year>
+  <volume>13</volume>
+  <issue>7</issue>
+  <fpage>696</fpage>
+  <lpage>706</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(12)70212-7</pub-id>
+  <?supplied-pmid 22652183?>
+  <pub-id pub-id-type="pmid">22652183</pub-id>
+ </element-citation>
+</ref>

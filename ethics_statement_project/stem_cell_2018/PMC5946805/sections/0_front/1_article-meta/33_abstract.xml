@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="ceab10">
+ <title>Summary</title>
+ <sec>
+  <title>Background</title>
+  <p>Outcomes with CHOP (cyclophosphamide, doxorubicin, vincristine, and prednisolone) or CHOP-like chemotherapy in peripheral T-cell lymphoma are poor. We investigated whether the regimen of gemcitabine, cisplatin, and methylprednisolone (GEM-P) was superior to CHOP as front-line therapy in previously untreated patients.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p>We did a phase 2, parallel-group, multicentre, open-label randomised trial in 47 hospitals: 46 in the UK and one in Australia. Participants were patients aged 18 years and older with bulky (tumour mass diameter &gt;10 cm) stage I to stage IV disease (WHO performance status 0–3), previously untreated peripheral T-cell lymphoma not otherwise specified, angioimmunoblastic T-cell lymphoma, anaplastic lymphoma kinase-negative anaplastic large cell lymphoma, enteropathy-associated T-cell lymphoma, or hepatosplenic γδ T-cell lymphoma. We randomly assigned patients (1:1) stratified by subtype of peripheral T-cell lymphoma and international prognostic index to either CHOP (intravenous cyclophosphamide 750 mg/m
+   <sup>2</sup>, doxorubicin 50 mg/m
+   <sup>2</sup>, and vincristine 1·4 mg/m
+   <sup>2</sup> [maximum 2 mg] on day 1, and oral prednisolone 100 mg on days 1–5) every 21 days for six cycles; or GEM-P (intravenous gemcitabine 1000 mg/m
+   <sup>2</sup> on days 1, 8, and 15, cisplatin 100 mg/m
+   <sup>2</sup> on day 15, and oral or intravenous methylprednisolone 1000 mg on days 1–5) every 28 days for four cycles. The primary endpoint was the proportion of patients with a CT-based complete response or unconfirmed complete response on completion of study chemotherapy, to detect a 20% superiority of GEM-P compared with CHOP, assessed in all patients who received at least one cycle of treatment and had an end-of-treatment CT scan or reported clinical progression as the reason for stopping trial treatment. Safety was assessed in all patients who received at least one dose of study medication. This trial is registered with 
+   <ext-link ext-link-type="uri" xlink:href="http://ClinicalTrials.gov" id="interrefs10" xmlns:xlink="http://www.w3.org/1999/xlink">ClinicalTrials.gov</ext-link> (
+   <ext-link ext-link-type="uri" xlink:href="ctgov:NCT01719835" id="interrefs20" xmlns:xlink="http://www.w3.org/1999/xlink">NCT01719835</ext-link>) and the European Clinical Trials Database (EudraCT 2011-004146-18).
+  </p>
+ </sec>
+ <sec>
+  <title>Findings</title>
+  <p>Between June 18, 2012, and Nov 16, 2016, we randomly assigned 87 patients to treatment, 43 to CHOP and 44 to GEM-P. A planned unmasked review of efficacy data by the independent data monitoring committee in November, 2016, showed that the number of patients with a confirmed or unconfirmed complete response with GEM-P was non-significantly inferior compared with CHOP and the trial was closed early. At a median follow-up of 27·4 months (IQR 16·6–38·4), 23 patients (62%) of 37 assessable patients assigned to CHOP had achieved a complete response or unconfirmed complete response compared with 17 (46%) of 37 assigned to GEM-P (odds ratio 0·52, 95% CI 0·21–1·31; p=0·164). The most common adverse events of grade 3 or worse in both groups were neutropenia (17 [40%] with CHOP and nine [20%] with GEM-P), thrombocytopenia (4 [10%] with CHOP and 13 [30%] with GEM-P, and febrile neutropenia (12 [29%] with CHOP and 3 [7%] with GEM-P). Two patients (5%) died during the study, both in the GEM-P group, from lung infections.</p>
+ </sec>
+ <sec>
+  <title>Interpretation</title>
+  <p>The number of patients with a complete response or unconfirmed complete response did not differ between the groups, indicating that GEM-P was not superior for this outcome. CHOP should therefore remain the reference regimen for previously untreated peripheral T-cell lymphoma.</p>
+ </sec>
+ <sec>
+  <title>Funding</title>
+  <p>Bloodwise and the UK National Institute of Health Research.</p>
+ </sec>
+</abstract>

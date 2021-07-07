@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cook</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>High-dose chemotherapy plus autologous stem-cell transplantation as consolidation therapy in patients with relapsed multiple myeloma after previous autologous stem-cell transplantation (NCRI Myeloma X Relapse [Intensive trial]): a randomised, open-label, phase 3 trial</article-title>
+  <source>Lancet Oncol</source>
+  <year>2014</year>
+  <volume>15</volume>
+  <issue>8</issue>
+  <fpage>874</fpage>
+  <lpage>885</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1470-2045(14)70245-1</pub-id>
+  <?supplied-pmid 24948586?>
+  <pub-id pub-id-type="pmid">24948586</pub-id>
+ </element-citation>
+</ref>

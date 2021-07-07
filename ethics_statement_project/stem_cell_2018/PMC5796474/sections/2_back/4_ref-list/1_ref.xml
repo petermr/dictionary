@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mauz-Körholz</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Hasenclever</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Dörffel</surname>
+    <given-names>W</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Procarbazine-free OEPA-COPDAC chemotherapy in boys and standard OPPA-COPP in girls have comparable effectiveness in pediatric Hodgkin’s lymphoma: the GPOH-HD-2002 study</article-title>
+  <source>J Clin Oncol</source>
+  <year>2010</year>
+  <volume>28</volume>
+  <fpage>3680</fpage>
+  <lpage>3686</lpage>
+  <pub-id pub-id-type="doi">10.1200/JCO.2009.26.9381</pub-id>
+  <?supplied-pmid 20625128?>
+  <pub-id pub-id-type="pmid">20625128</pub-id>
+ </element-citation>
+</ref>

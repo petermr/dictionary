@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="author-60470733" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-5660-1348</contrib-id>
+  <name>
+   <surname>Walladbegi</surname>
+   <given-names>Java</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-60476450" contrib-type="author">
+  <name>
+   <surname>Svanberg</surname>
+   <given-names>Anncarin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-41861057" contrib-type="author">
+  <name>
+   <surname>Gellerstedt</surname>
+   <given-names>Martin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+</contrib-group>

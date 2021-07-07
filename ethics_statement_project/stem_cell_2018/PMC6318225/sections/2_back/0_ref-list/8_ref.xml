@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib8">
+ <label>8</label>
+ <element-citation publication-type="journal" id="sbref80">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McCarthy</surname>
+    <given-names>PL</given-names>
+   </name>
+   <name>
+    <surname>Owzar</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Hofmeister</surname>
+    <given-names>CC</given-names>
+   </name>
+  </person-group>
+  <article-title>Lenalidomide after stem-cell transplantation for multiple myeloma</article-title>
+  <source>N Engl J Med</source>
+  <volume>366</volume>
+  <year>2012</year>
+  <fpage>1770</fpage>
+  <lpage>1781</lpage>
+  <pub-id pub-id-type="pmid">22571201</pub-id>
+ </element-citation>
+</ref>

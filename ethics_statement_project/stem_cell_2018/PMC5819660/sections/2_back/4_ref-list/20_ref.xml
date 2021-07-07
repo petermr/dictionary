@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vamvakas</surname>
+    <given-names>EC</given-names>
+   </name>
+   <name>
+    <surname>Blajchman</surname>
+    <given-names>MA</given-names>
+   </name>
+  </person-group>
+  <article-title>Transfusion-related mortality: the ongoing risks of allogeneic blood transfusion and the available strategies for their prevention</article-title>
+  <source>Blood.</source>
+  <year>2009</year>
+  <volume>113</volume>
+  <fpage>3406</fpage>
+  <lpage>3417</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2008-10-167643</pub-id>
+  <?supplied-pmid 19188662?>
+  <pub-id pub-id-type="pmid">19188662</pub-id>
+ </element-citation>
+</ref>

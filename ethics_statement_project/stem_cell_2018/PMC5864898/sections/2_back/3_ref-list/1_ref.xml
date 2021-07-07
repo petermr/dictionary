@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Deterding</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Gruner</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Buggisch</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Wiegand</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Galle</surname>
+    <given-names>PR</given-names>
+   </name>
+   <name>
+    <surname>Spengler</surname>
+    <given-names>U</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Delayed versus immediate treatment for patients with acute hepatitis C: a randomised controlled non-inferiority trial</article-title>. 
+  <source>Lancet Infect Dis</source> (
+  <year>2013</year>) 
+  <volume>13</volume>:
+  <fpage>497</fpage>–
+  <lpage>506</lpage>.
+  <pub-id pub-id-type="doi">10.1016/S1473-3099(13)70059-8</pub-id>
+  <?supplied-pmid 23523674?>
+  <pub-id pub-id-type="pmid">23523674</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jcsm12316-tbl-0002" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Demographic characteristics of the study participants at baseline</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col align="left" span="1"/>
+  <col align="char" char="(" span="1"/>
+  <col align="char" char="(" span="1"/>
+  <col align="char" char="(" span="1"/>
+  <col align="char" char="(" span="1"/>
+  <thead valign="bottom">
+   <tr>
+    <th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">Characteristics</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Placebo</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">150 M PLX‐PAD</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">300 M PLX‐PAD</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Total</th>
+   </tr>
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="center" valign="bottom" rowspan="1" colspan="1">(
+     <italic>n</italic> = 7)
+    </th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">(
+     <italic>n</italic> = 7)
+    </th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">(
+     <italic>n</italic> = 6)
+    </th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">(
+     <italic>n</italic> = 20)
+    </th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Sex, no. (%)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">6 (85.7)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">3 (42.9)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">1 (16.7)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">10 (50.0)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">1 (14.3)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">4 (57.1)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">5 (83.3)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">10 (50.0)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Age, mean (SD)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">64.3 (6.4)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">65.4 (5.9)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">64.5 (7.4)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">64.8 (6.2)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Ethnicity, no. (%)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Caucasian</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">7 (100.0)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">7 (100.0)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">6 (100.0)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">20 (100.0)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Body mass index, mean (SD), kg/m
+     <sup>2</sup>
+    </td>
+    <td align="char" valign="top" rowspan="1" colspan="1">26.3 (2.8)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">27.5 (5.9)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">28.7 (4.2)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">27.4 (4.4)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Current smoker</td>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No. (%)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">1 (14.3)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">3 (42.9)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">1 (16.7)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">5 (25.0)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">years, mean (SD)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">20</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">28.7 (15.0)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">20</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">25.2 (11.6)</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Ex smoker (years)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+    <td align="char" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No. (%)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">2 (28.6)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">1 (14.7)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">2 (33.3)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">5 (25.0)</td>
+   </tr>
+   <tr>
+    <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Years,mean (SD)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">26.5 (31.8)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">6</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">23.5 (16.3)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">21.2 (19.8)</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

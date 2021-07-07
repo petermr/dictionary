@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B22">
+ <label>22</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Su</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Shi</surname>
+    <given-names>SX</given-names>
+   </name>
+   <name>
+    <surname>Zhu</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Borazanci</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Shi</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Gan</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Interleukin-7 expression and its effect on natural killer cells in patients with multiple sclerosis</article-title>. 
+  <source>J Neuroimmunol</source> (
+  <year>2014</year>) 
+  <volume>276</volume>:
+  <fpage>180</fpage>–
+  <lpage>6</lpage>.
+  <pub-id pub-id-type="doi">10.1016/j.jneuroim.2014.08.618</pub-id>
+  <?supplied-pmid 25218211?>
+  <pub-id pub-id-type="pmid">25218211</pub-id>
+ </mixed-citation>
+</ref>

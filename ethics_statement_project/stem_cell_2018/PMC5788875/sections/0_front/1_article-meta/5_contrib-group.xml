@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="sct312271-cr-0001" contrib-type="author">
+  <name>
+   <surname>Frljak</surname>
+   <given-names>Sabina</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312271-aff-0001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312271-cr-0002" contrib-type="author">
+  <name>
+   <surname>Jaklic</surname>
+   <given-names>Martina</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312271-aff-0001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312271-cr-0003" contrib-type="author">
+  <name>
+   <surname>Zemljic</surname>
+   <given-names>Gregor</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312271-aff-0001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312271-cr-0004" contrib-type="author">
+  <name>
+   <surname>Cerar</surname>
+   <given-names>Andraz</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312271-aff-0001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312271-cr-0005" contrib-type="author">
+  <name>
+   <surname>Poglajen</surname>
+   <given-names>Gregor</given-names>
+  </name>
+  <xref ref-type="aff" rid="sct312271-aff-0001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib id="sct312271-cr-0006" contrib-type="author" corresp="yes">
+  <name>
+   <surname>Vrtovec</surname>
+   <given-names>Bojan</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7383-1281</contrib-id>
+  <address>
+   <email>bvrtovec@stanford.edu</email>
+   <email>bojan.vrtovec@kclj.si</email>
+  </address>
+  <xref ref-type="aff" rid="sct312271-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="sct312271-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+</contrib-group>

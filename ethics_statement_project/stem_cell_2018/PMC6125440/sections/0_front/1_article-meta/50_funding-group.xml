@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group>
+  <funding-source>National Cancer Center Research and Development Fund</funding-source>
+  <award-id>23‐A‐16</award-id>
+  <award-id>23‐A‐17</award-id>
+  <award-id>26‐A‐4</award-id>
+  <award-id>29‐A‐3</award-id>
+ </award-group>
+ <award-group>
+  <funding-source>Ministry of Health, Labour and Welfare Grants‐in‐Aid for Cancer Research</funding-source>
+  <award-id>16‐6</award-id>
+  <award-id>20S‐1</award-id>
+  <award-id>20S‐6</award-id>
+ </award-group>
+ <award-group>
+  <funding-source>Health and Labour Sciences Research Grants for Clinical Cancer Research</funding-source>
+  <award-id>19‐27</award-id>
+  <award-id>22‐29</award-id>
+ </award-group>
+</funding-group>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par114">Complementary data will be assessed from all the patients:
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par115">Sociodemographic characteristics: age (years), gender (male/female), handedness (right/left/ambidextrous), level of schooling (none, preschool, elementary school, middle school, high school, tertiary or higher school), occupation status</p>
+  </list-item>
+  <list-item>
+   <p id="Par116">Characteristics related to the trauma: mechanism of injury, type of accident</p>
+  </list-item>
+  <list-item>
+   <p id="Par117">Characteristics at admission: sedation (no/yes), pupillary abnormalities (both pupils reactive, one reactive, and none reactive to light), Glasgow Coma Scale</p>
+  </list-item>
+  <list-item>
+   <p id="Par118">Characteristics during hospital stay: ICU days, hospitalization days, infection during hospitalization (no/yes, site of infection, days of treatment), Glasgow Coma Scale at the trauma scene, at admission, at discharge from the ICU (or death), at discharge from hospital (or death)</p>
+  </list-item>
+  <list-item>
+   <p id="Par119">Presence of dysautonomia related to DAI</p>
+  </list-item>
+ </list>
+</p>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes>
+ <p content-type="self-citation">
+  <mixed-citation publication-type="journal" id="cas13513-cit-1001">
+   <string-name>
+    <surname>Ohmachi</surname>
+    <given-names>K</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Ando</surname>
+    <given-names>K</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Ogura</surname>
+    <given-names>M</given-names>
+   </string-name>, et al. 
+   <article-title>E7777 in Japanese patients with relapsed/refractory peripheral and cutaneous T‐cell lymphoma: A phase I study</article-title>. 
+   <source>Cancer Sci</source>. 
+   <year>2018</year>;
+   <volume>109</volume>:
+   <fpage>794</fpage>–
+   <lpage>802</lpage>. 
+   <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/cas.13513" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.1111/cas.13513</ext-link>
+  </mixed-citation>
+ </p>
+ <fn-group id="cas13513-ntgp-0001">
+  <fn fn-type="funding" id="cas13513-note-1001">
+   <p>
+    <bold>Funding Information</bold>
+   </p>
+   <p>Eisai Co., Ltd.</p>
+  </fn>
+ </fn-group>
+</notes>

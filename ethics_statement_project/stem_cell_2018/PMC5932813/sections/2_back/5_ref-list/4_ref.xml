@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wolf</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Shenep</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Clifford</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Curtis</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Flynn</surname>
+    <given-names>PM</given-names>
+   </name>
+  </person-group>
+  <article-title>Ethanol lock therapy in pediàtric hematology and oncology</article-title>
+  <source>Pediatr Blood Cancer</source>
+  <year>2013</year>
+  <volume>60</volume>
+  <fpage>18</fpage>
+  <lpage>25</lpage>
+  <pub-id pub-id-type="doi">10.1002/pbc.24249</pub-id>
+  <?supplied-pmid 22911535?>
+  <pub-id pub-id-type="pmid">22911535</pub-id>
+ </element-citation>
+</ref>

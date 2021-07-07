@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <p>Hh-activated stroma defines a novel transcriptional signature robustly associated with poor-prognosis in TNBC. 
+   <bold>a</bold> Expression of genes significantly downregulated (blue) or upregulated (red) (cut-off log
+   <sub>2</sub> (Fold Change) ≥ 2; vertical lines) in the stroma of M6-Hh tumors compared to the stroma of M6-Ctrl or M6-Hh tumors treated with SMOi (100 mg/kg/bid), plotted against FDR values (horizontal lines indicate −log
+   <sup>
+    <xref ref-type="bibr" rid="CR10">10</xref>
+   </sup> (FDR) &gt; 2). Each symbol represents the transcriptome of the stromal population from five biological replicates per treatment group. 
+   <bold>b</bold> RNA-Seq analysis reveals significant enrichment of GO groups related to ECM organization and production in M6-Hh tumor stroma (FDR 
+   <italic>q</italic> value &lt; 0.05). 
+   <bold>c</bold> Heat maps demonstrating relative expression levels of gene-sets defined by RNA-Seq analysis. Genes highlighted in red represent those that are directly involved in ECM production. Data show normalized row 
+   <italic>Z</italic>-score (
+   <italic>n</italic> = 5 biological replicates for each treatment group). 
+   <bold>d</bold> Kaplan−Meier curves of overall survival in unstratified breast cancer patients and in patients with basal, TNBC. Blue and red lines represent low and high Hh-stromal gene signature expression (HSGS), respectively. Statistical significance was determined using the Log-rank test; ***
+   <italic>P</italic> &lt; 0.001
+  </p>
+ </caption>
+ <graphic xlink:href="41467_2018_5220_Fig2_HTML" id="d29e1055" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

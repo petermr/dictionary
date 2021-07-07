@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tyner</surname>
+    <given-names>JW</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>CYT387, a novel JAK2 inhibitor, induces hematologic responses and normalizes inflammatory cytokines in murine myeloproliferative neoplasms</article-title>
+  <source>Blood</source>
+  <year>2010</year>
+  <volume>115</volume>
+  <fpage>5232</fpage>
+  <lpage>5240</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood-2009-05-223727</pub-id>
+  <?supplied-pmid 20385788?>
+  <pub-id pub-id-type="pmid">20385788</pub-id>
+ </element-citation>
+</ref>

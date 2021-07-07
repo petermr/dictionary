@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R23">
+ <label>23.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Moehring</surname>
+    <given-names>RW</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Anderson</surname>
+    <given-names>DJ</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Cochran</surname>
+    <given-names>RL</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Expert Consensus on Metrics to Assess the Impact of Patient-Level Antimicrobial Stewardship Interventions in Acute-Care Settings</article-title>. 
+  <source>Clin Infect Dis</source>
+  <year>2017</year>;
+  <volume>64</volume>:
+  <fpage>377</fpage>–
+  <lpage>83</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/cid/ciw787</pub-id>
+  <pub-id pub-id-type="pmid">27927866</pub-id>
+ </mixed-citation>
+</ref>

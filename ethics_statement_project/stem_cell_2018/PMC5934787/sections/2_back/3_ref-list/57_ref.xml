@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR57">
+ <label>57.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wu</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Thazhath</surname>
+    <given-names>SS</given-names>
+   </name>
+   <name>
+    <surname>Bound</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Jones</surname>
+    <given-names>KL</given-names>
+   </name>
+   <name>
+    <surname>Horowitz</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Rayner</surname>
+    <given-names>CK</given-names>
+   </name>
+  </person-group>
+  <article-title>Mechanism of increase in plasma intact GLP-1 by metformin in type 2 diabetes: stimulation of GLP-1 secretion or reduction in plasma DPP-4 activity?</article-title>
+  <source>Diabetes Res Clin Pract</source>
+  <year>2014</year>
+  <volume>106</volume>
+  <fpage>e3</fpage>
+  <lpage>e6</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.diabres.2014.08.004</pub-id>
+  <?supplied-pmid 25172519?>
+  <pub-id pub-id-type="pmid">25172519</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The proposed strategy is not restricted to a particular TKI. Although our model encompasses all TKI pharmaco-kinetic parameters and doses within a single parameter 
+ <italic>e
+  <sub>TKI</sub>
+ </italic>, we have found that this simple model, using a relative reduction compared to a standard dose of the respective TKI, is equivalent to a more elaborate formulation explicitly considering the daily TKI intake (
+ <italic>Online Supplementary Text S10</italic> and 
+ <italic>Online Supplementary Figure S9</italic>). Although a linear dose-response relationship appears to be an appropriate model assumption,
+ <sup>
+  <xref rid="b25-1031825" ref-type="bibr">25</xref>,
+  <xref rid="b26-1031825" ref-type="bibr">26</xref>
+ </sup> we emphasize that the potential for dose reductions might be limited by a necessary TKI plasma concentration to ensure drug activity. Based on 
+ <italic>in vitro</italic> data for imatinib,
+ <sup>
+  <xref rid="b28-1031825" ref-type="bibr">28</xref>
+ </sup> we estimate this limit to be in the order of 25% of the original dose (
+ <italic>Online Supplementary Text S11</italic>). Furthermore, recent results from clinical trials
+ <sup>
+  <xref rid="b15-1031825" ref-type="bibr">15</xref>,
+  <xref rid="b29-1031825" ref-type="bibr">29</xref>
+ </sup> indicate that a 50% dose reduction is therapeutically active.
+</p>

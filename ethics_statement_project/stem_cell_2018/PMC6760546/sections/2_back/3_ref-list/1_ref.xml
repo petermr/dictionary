@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Luznik</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Jalla</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Engstrom</surname>
+    <given-names>LW</given-names>
+   </name>
+   <name>
+    <surname>Iannone</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Fuchs</surname>
+    <given-names>EJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Durable engraftment of major histocompatibility complex-incompatible cells after nonmyeloablative conditioning with fludarabine, low-dose total body irradiation, and posttransplantation cyclophosphamide</article-title>
+  <source>Blood</source>
+  <year>2001</year>
+  <volume>98</volume>
+  <fpage>3456</fpage>
+  <lpage>64</lpage>
+  <pub-id pub-id-type="doi">10.1182/blood.V98.12.3456</pub-id>
+  <pub-id pub-id-type="pmid">11719388</pub-id>
+ </element-citation>
+</ref>

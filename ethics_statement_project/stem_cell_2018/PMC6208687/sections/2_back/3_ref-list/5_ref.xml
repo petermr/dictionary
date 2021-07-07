@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kuhr</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Wirth</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Srivastava</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Lehmacher</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Hellmich</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>First-line therapy for non-transplant eligible patients with multiple myeloma: direct and adjusted indirect comparison of treatment regimens on the existing market in Germany</article-title>
+  <source>Eur J Clin Pharmacol</source>
+  <year>2016</year>
+  <volume>72</volume>
+  <fpage>257</fpage>
+  <lpage>265</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00228-015-1998-5</pub-id>
+  <?supplied-pmid 26671239?>
+  <pub-id pub-id-type="pmid">26671239</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kumar</surname>
+    <given-names>SK</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Continued improvement in survival in multiple myeloma: changes in early mortality and outcomes in older patients</article-title>
+  <source>Leukemia</source>
+  <year>2014</year>
+  <volume>28</volume>
+  <fpage>1122</fpage>
+  <lpage>1128</lpage>
+  <pub-id pub-id-type="doi">10.1038/leu.2013.313</pub-id>
+  <?supplied-pmid 24157580?>
+  <pub-id pub-id-type="pmid">24157580</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par51">Analysis of the RNA-Sequencing data was conducted on the high-performance computing cluster at the Garvan Institute following a standard four-step approach, cleaning, aligning, counting, and differential expression with an additional normalization step. FASTQ files were quality checked using FastQC version 0.11.1 (
+ <ext-link ext-link-type="uri" xlink:href="http://www.bioinformatics.babraham.ac.uk/projects/fastqc/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.bioinformatics.babraham.ac.uk/projects/fastqc/</ext-link>) and FastQ Screen version 0.4.4 (
+ <ext-link ext-link-type="uri" xlink:href="http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/</ext-link>) then quality filtered using FastqMCF version 1.1.2 (
+ <ext-link ext-link-type="uri" xlink:href="https://code.google.com/p/ea-utils/wiki/FastqMcf" xmlns:xlink="http://www.w3.org/1999/xlink">https://code.google.com/p/ea-utils/wiki/FastqMcf</ext-link>) to remove low quality bases and adapter contamination. Filtered reads were then aligned to the mouse reference genome GRCm38/mm10 using STAR, version 2.4.0d . Feature counting was performed using HTSeq version 0.5.4p3 . Due to high levels of variation in the expression data between replicates, the RUV normalization procedure was implemented
+ <sup>
+  <xref ref-type="bibr" rid="CR69">69</xref>
+ </sup>. This aims to remove unwanted variation and produce more reliable pair-wise comparisons when calculating differential expression. In this instance, RUVr with a K of 3 was found to be the most effective method based on the suggested diagnostics, e.g. plots of 
+ <italic>P</italic> value distributions and PCA. Differential expression analysis was performed within the RUV analysis using edgeR
+ <sup>
+  <xref ref-type="bibr" rid="CR70">70</xref>
+ </sup>.
+</p>

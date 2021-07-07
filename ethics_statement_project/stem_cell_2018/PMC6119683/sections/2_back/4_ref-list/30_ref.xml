@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Herberg</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Inkjet-based biopatterning of SDF-1beta augments BMP-2-induced repair of critical size calvarial bone defects in mice</article-title>
+  <source>Bone</source>
+  <year>2014</year>
+  <volume>67</volume>
+  <fpage>95</fpage>
+  <lpage>103</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bone.2014.07.007</pub-id>
+  <?supplied-pmid 25016095?>
+  <pub-id pub-id-type="pmid">25016095</pub-id>
+ </element-citation>
+</ref>

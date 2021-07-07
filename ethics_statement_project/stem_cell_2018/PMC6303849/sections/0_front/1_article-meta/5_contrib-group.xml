@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Cho</surname>
+   <given-names>Yuri</given-names>
+  </name>
+  <address>
+   <email>presh_yuri@hanmail.net</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Park</surname>
+   <given-names>Youn Su</given-names>
+  </name>
+  <address>
+   <email>p5018@naver.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Hwi Young</given-names>
+  </name>
+  <address>
+   <email>ivtec@naver.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2926-1007</contrib-id>
+  <name>
+   <surname>Kim</surname>
+   <given-names>Won</given-names>
+  </name>
+  <address>
+   <phone>82-2-870-2233</phone>
+   <email>drwon1@snu.ac.kr</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Lee</surname>
+   <given-names>Heon Ju</given-names>
+  </name>
+  <address>
+   <phone>82-53-620-3834</phone>
+   <email>heonjulee@yu.ac.kr</email>
+   <email>hjlee@med.yu.ac.kr</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Dong Joon</given-names>
+  </name>
+  <address>
+   <phone>82-33-240-5646</phone>
+   <email>djkim@hallym.ac.kr</email>
+  </address>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0647 3511</institution-id>
+   <institution-id institution-id-type="GRID">grid.410886.3</institution-id>
+   <institution>Department of Internal Medicine, CHA Gangnam Medical Center, </institution>
+   <institution>CHA University School of Medicine, </institution>
+  </institution-wrap>Seoul, Republic of Korea 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.412479.d</institution-id>
+   <institution>Division of Gastroenterology and Hepatology, Department of Internal Medicine, </institution>
+   <institution>Seoul Metropolitan Government Seoul National University Boramae Medical Center, </institution>
+  </institution-wrap>20, Boramae-ro 5-gil, Dongjak-gu, Seoul, 07061 Republic of Korea 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2171 7754</institution-id>
+   <institution-id institution-id-type="GRID">grid.255649.9</institution-id>
+   <institution>Department of Internal Medicine, </institution>
+   <institution>College of Medicine, Ewha Womans University, </institution>
+  </institution-wrap>Seoul, Republic of Korea 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0674 4447</institution-id>
+   <institution-id institution-id-type="GRID">grid.413028.c</institution-id>
+   <institution>Department of Internal Medicine, </institution>
+   <institution>Yeungnam University College of Medicine, Yeungnam University Medical Center, </institution>
+  </institution-wrap>170, Hyeonchung-ro, Nam-gu, Daegu, 42415 Republic of Korea 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0470 5964</institution-id>
+   <institution-id institution-id-type="GRID">grid.256753.0</institution-id>
+   <institution>Department of Internal Medicine, </institution>
+   <institution>Hallym University College of Medicine, Chuncheon Hallym University Medical Center, </institution>
+  </institution-wrap>153 Gyo-dong, Chuncheon-si, Gangwon-do 24253 Republic of Korea 
+ </aff>
+</contrib-group>

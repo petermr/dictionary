@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McNeer</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Kletzel</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Rademaker</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Alford</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>O’Day</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Schaefer</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Early elevation of C-reactive protein correlates with severe infection and nonrelapse mortality in children undergoing allogeneic stem cell transplantation</article-title>
+  <source>Biol Blood Marrow Transplant.</source>
+  <year>2010</year>
+  <volume>16</volume>
+  <fpage>350</fpage>
+  <lpage>357</lpage>
+  <?supplied-pmid 20005964?>
+  <pub-id pub-id-type="pmid">20005964</pub-id>
+ </element-citation>
+</ref>

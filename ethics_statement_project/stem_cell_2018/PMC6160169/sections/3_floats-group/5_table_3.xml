@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="pone.0204870.t003" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0204870.t003</object-id>
+ <label>Table 3</label>
+ <caption>
+  <title>Clinicopathological characteristics and proportion of PD-1+ leukocytes, PD-L1+ leukocytes and PD-L1+ HRS cells in the treated group
+   <xref ref-type="table-fn" rid="t003fn006">*</xref>.
+  </title>
+ </caption>
+ <alternatives>
+  <graphic id="pone.0204870.t003g" xlink:href="pone.0204870.t003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <colgroup span="1">
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th align="left" rowspan="1" colspan="1">Case</th>
+     <th align="left" rowspan="1" colspan="1">Calendar
+      <break/>year
+      <xref ref-type="table-fn" rid="t003fn001">
+       <sup>a</sup>
+      </xref>
+     </th>
+     <th align="left" rowspan="1" colspan="1">Time between biopsies
+      <xref ref-type="table-fn" rid="t003fn002">
+       <sup>b</sup>
+      </xref>
+     </th>
+     <th align="left" rowspan="1" colspan="1">Age
+      <xref ref-type="table-fn" rid="t003fn003">
+       <sup>c</sup>
+      </xref>
+     </th>
+     <th align="left" rowspan="1" colspan="1">EBV status
+      <xref ref-type="table-fn" rid="t003fn004">
+       <sup>d</sup>
+      </xref>
+     </th>
+     <th align="left" rowspan="1" colspan="1">Biopsy location (primary/relapse)</th>
+     <th align="left" rowspan="1" colspan="1">Diagnosis (primary/relapse)</th>
+     <th align="left" colspan="2" rowspan="1">PD-1+ leukocytes (%)</th>
+     <th align="left" colspan="2" rowspan="1">PD-L1+ leukocytes (%)</th>
+     <th align="left" colspan="2" rowspan="1">PD-L1 +HRS (%)</th>
+    </tr>
+    <tr>
+     <th align="center" rowspan="1" colspan="1"/>
+     <th align="center" rowspan="1" colspan="1"/>
+     <th align="center" rowspan="1" colspan="1"/>
+     <th align="center" rowspan="1" colspan="1"/>
+     <th align="left" rowspan="1" colspan="1"/>
+     <th align="left" rowspan="1" colspan="1"/>
+     <th align="left" rowspan="1" colspan="1"/>
+     <th align="left" rowspan="1" colspan="1">Primary</th>
+     <th align="left" rowspan="1" colspan="1">Relapse</th>
+     <th align="left" rowspan="1" colspan="1">Primary</th>
+     <th align="left" rowspan="1" colspan="1">Relapse</th>
+     <th align="left" rowspan="1" colspan="1">Primary</th>
+     <th align="left" rowspan="1" colspan="1">Relapse</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">2005</td>
+     <td align="left" rowspan="1" colspan="1">20</td>
+     <td align="left" rowspan="1" colspan="1">26</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">abdomen/abdomen</td>
+     <td align="left" rowspan="1" colspan="1">MC/MC</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">19</td>
+     <td align="left" rowspan="1" colspan="1">19</td>
+     <td align="left" rowspan="1" colspan="1">100</td>
+     <td align="left" rowspan="1" colspan="1">100</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">2</td>
+     <td align="left" rowspan="1" colspan="1">2006</td>
+     <td align="left" rowspan="1" colspan="1">112</td>
+     <td align="left" rowspan="1" colspan="1">41</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">neck/neck</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">27</td>
+     <td align="left" rowspan="1" colspan="1">40</td>
+     <td align="left" rowspan="1" colspan="1">100</td>
+     <td align="left" rowspan="1" colspan="1">100</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">2010</td>
+     <td align="left" rowspan="1" colspan="1">40</td>
+     <td align="left" rowspan="1" colspan="1">35</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">neck/mediastinum</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">37</td>
+     <td align="left" rowspan="1" colspan="1">75</td>
+     <td align="left" rowspan="1" colspan="1">100</td>
+     <td align="left" rowspan="1" colspan="1">100</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">4</td>
+     <td align="left" rowspan="1" colspan="1">2010</td>
+     <td align="left" rowspan="1" colspan="1">76</td>
+     <td align="left" rowspan="1" colspan="1">12</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">neck/mediastinum</td>
+     <td align="left" rowspan="1" colspan="1">MC/MC</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">8</td>
+     <td align="left" rowspan="1" colspan="1">41</td>
+     <td align="left" rowspan="1" colspan="1">48</td>
+     <td align="left" rowspan="1" colspan="1">100</td>
+     <td align="left" rowspan="1" colspan="1">70</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">5</td>
+     <td align="left" rowspan="1" colspan="1">2015</td>
+     <td align="left" rowspan="1" colspan="1">8</td>
+     <td align="left" rowspan="1" colspan="1">26</td>
+     <td align="left" rowspan="1" colspan="1">negative</td>
+     <td align="left" rowspan="1" colspan="1">neck/neck</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">5</td>
+     <td align="left" rowspan="1" colspan="1">4</td>
+     <td align="left" rowspan="1" colspan="1">45</td>
+     <td align="left" rowspan="1" colspan="1">57</td>
+     <td align="left" rowspan="1" colspan="1">100</td>
+     <td align="left" rowspan="1" colspan="1">100</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">6</td>
+     <td align="left" rowspan="1" colspan="1">1997</td>
+     <td align="left" rowspan="1" colspan="1">31</td>
+     <td align="left" rowspan="1" colspan="1">31</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">neck/neck</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">40</td>
+     <td align="left" rowspan="1" colspan="1">31</td>
+     <td align="left" rowspan="1" colspan="1">95</td>
+     <td align="left" rowspan="1" colspan="1">100</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">7</td>
+     <td align="left" rowspan="1" colspan="1">2001</td>
+     <td align="left" rowspan="1" colspan="1">23</td>
+     <td align="left" rowspan="1" colspan="1">37</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">neck/neck</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">2</td>
+     <td align="left" rowspan="1" colspan="1">16</td>
+     <td align="left" rowspan="1" colspan="1">20</td>
+     <td align="left" rowspan="1" colspan="1">90</td>
+     <td align="left" rowspan="1" colspan="1">90</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">8</td>
+     <td align="left" rowspan="1" colspan="1">1991</td>
+     <td align="left" rowspan="1" colspan="1">17</td>
+     <td align="left" rowspan="1" colspan="1">24</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">inguinal/NA</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">25</td>
+     <td align="left" rowspan="1" colspan="1">30</td>
+     <td align="left" rowspan="1" colspan="1">90</td>
+     <td align="left" rowspan="1" colspan="1">70</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">9</td>
+     <td align="left" rowspan="1" colspan="1">2000</td>
+     <td align="left" rowspan="1" colspan="1">10</td>
+     <td align="left" rowspan="1" colspan="1">16</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">neck/neck</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">31</td>
+     <td align="left" rowspan="1" colspan="1">29</td>
+     <td align="left" rowspan="1" colspan="1">90</td>
+     <td align="left" rowspan="1" colspan="1">90</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">10</td>
+     <td align="left" rowspan="1" colspan="1">2009</td>
+     <td align="left" rowspan="1" colspan="1">41</td>
+     <td align="left" rowspan="1" colspan="1">25</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">neck/neck</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">34</td>
+     <td align="left" rowspan="1" colspan="1">50</td>
+     <td align="left" rowspan="1" colspan="1">90</td>
+     <td align="left" rowspan="1" colspan="1">95</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">11</td>
+     <td align="left" rowspan="1" colspan="1">2015</td>
+     <td align="left" rowspan="1" colspan="1">7</td>
+     <td align="left" rowspan="1" colspan="1">32</td>
+     <td align="left" rowspan="1" colspan="1">negative</td>
+     <td align="left" rowspan="1" colspan="1">neck/neck</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">5</td>
+     <td align="left" rowspan="1" colspan="1">38</td>
+     <td align="left" rowspan="1" colspan="1">12</td>
+     <td align="left" rowspan="1" colspan="1">90</td>
+     <td align="left" rowspan="1" colspan="1">90</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">12</td>
+     <td align="left" rowspan="1" colspan="1">1998</td>
+     <td align="left" rowspan="1" colspan="1">45</td>
+     <td align="left" rowspan="1" colspan="1">46</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">neck/neck</td>
+     <td align="left" rowspan="1" colspan="1">NS/MC</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">60</td>
+     <td align="left" rowspan="1" colspan="1">43</td>
+     <td align="left" rowspan="1" colspan="1">85</td>
+     <td align="left" rowspan="1" colspan="1">50</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">13</td>
+     <td align="left" rowspan="1" colspan="1">2003</td>
+     <td align="left" rowspan="1" colspan="1">36</td>
+     <td align="left" rowspan="1" colspan="1">45</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">neck/neck</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">26</td>
+     <td align="left" rowspan="1" colspan="1">29</td>
+     <td align="left" rowspan="1" colspan="1">80</td>
+     <td align="left" rowspan="1" colspan="1">80</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">14</td>
+     <td align="left" rowspan="1" colspan="1">1984</td>
+     <td align="left" rowspan="1" colspan="1">136</td>
+     <td align="left" rowspan="1" colspan="1">32</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">neck/paraaortal</td>
+     <td align="left" rowspan="1" colspan="1">MC/MC</td>
+     <td align="left" rowspan="1" colspan="1">2</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">33</td>
+     <td align="left" rowspan="1" colspan="1">34</td>
+     <td align="left" rowspan="1" colspan="1">80</td>
+     <td align="left" rowspan="1" colspan="1">80</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">15</td>
+     <td align="left" rowspan="1" colspan="1">2007</td>
+     <td align="left" rowspan="1" colspan="1">15</td>
+     <td align="left" rowspan="1" colspan="1">55</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">inguinal/inguinal</td>
+     <td align="left" rowspan="1" colspan="1">MC/MC</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">35</td>
+     <td align="left" rowspan="1" colspan="1">43</td>
+     <td align="left" rowspan="1" colspan="1">80</td>
+     <td align="left" rowspan="1" colspan="1">85</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">16</td>
+     <td align="left" rowspan="1" colspan="1">1980</td>
+     <td align="left" rowspan="1" colspan="1">146</td>
+     <td align="left" rowspan="1" colspan="1">36</td>
+     <td align="left" rowspan="1" colspan="1">negative</td>
+     <td align="left" rowspan="1" colspan="1">neck/neck</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">11</td>
+     <td align="left" rowspan="1" colspan="1">22</td>
+     <td align="left" rowspan="1" colspan="1">53</td>
+     <td align="left" rowspan="1" colspan="1">75</td>
+     <td align="left" rowspan="1" colspan="1">90</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">17</td>
+     <td align="left" rowspan="1" colspan="1">1981</td>
+     <td align="left" rowspan="1" colspan="1">72</td>
+     <td align="left" rowspan="1" colspan="1">27</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">neck/neck</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">4</td>
+     <td align="left" rowspan="1" colspan="1">17</td>
+     <td align="left" rowspan="1" colspan="1">70</td>
+     <td align="left" rowspan="1" colspan="1">90</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">18</td>
+     <td align="left" rowspan="1" colspan="1">2009</td>
+     <td align="left" rowspan="1" colspan="1">8</td>
+     <td align="left" rowspan="1" colspan="1">65</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">axilla/NA</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">21</td>
+     <td align="left" rowspan="1" colspan="1">26</td>
+     <td align="left" rowspan="1" colspan="1">65</td>
+     <td align="left" rowspan="1" colspan="1">75</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">19</td>
+     <td align="left" rowspan="1" colspan="1">2014</td>
+     <td align="left" rowspan="1" colspan="1">12</td>
+     <td align="left" rowspan="1" colspan="1">16</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">axilla/inguinal</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">7</td>
+     <td align="left" rowspan="1" colspan="1">25</td>
+     <td align="left" rowspan="1" colspan="1">58</td>
+     <td align="left" rowspan="1" colspan="1">60</td>
+     <td align="left" rowspan="1" colspan="1">70</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">20</td>
+     <td align="left" rowspan="1" colspan="1">2011</td>
+     <td align="left" rowspan="1" colspan="1">8</td>
+     <td align="left" rowspan="1" colspan="1">33</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">neck/neck</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">4</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">10</td>
+     <td align="left" rowspan="1" colspan="1">37</td>
+     <td align="left" rowspan="1" colspan="1">50</td>
+     <td align="left" rowspan="1" colspan="1">80</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">21</td>
+     <td align="left" rowspan="1" colspan="1">1981</td>
+     <td align="left" rowspan="1" colspan="1">64</td>
+     <td align="left" rowspan="1" colspan="1">16</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">NA/NA</td>
+     <td align="left" rowspan="1" colspan="1">MC/MC</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">18</td>
+     <td align="left" rowspan="1" colspan="1">47</td>
+     <td align="left" rowspan="1" colspan="1">45</td>
+     <td align="left" rowspan="1" colspan="1">100</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">22</td>
+     <td align="left" rowspan="1" colspan="1">1989</td>
+     <td align="left" rowspan="1" colspan="1">43</td>
+     <td align="left" rowspan="1" colspan="1">75</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">inguinal/inguinal</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">10</td>
+     <td align="left" rowspan="1" colspan="1">18</td>
+     <td align="left" rowspan="1" colspan="1">40</td>
+     <td align="left" rowspan="1" colspan="1">70</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">23</td>
+     <td align="left" rowspan="1" colspan="1">2014</td>
+     <td align="left" rowspan="1" colspan="1">17</td>
+     <td align="left" rowspan="1" colspan="1">64</td>
+     <td align="left" rowspan="1" colspan="1">negative</td>
+     <td align="left" rowspan="1" colspan="1">inguinal/inguinal</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">32</td>
+     <td align="left" rowspan="1" colspan="1">8</td>
+     <td align="left" rowspan="1" colspan="1">18</td>
+     <td align="left" rowspan="1" colspan="1">20</td>
+     <td align="left" rowspan="1" colspan="1">35</td>
+     <td align="left" rowspan="1" colspan="1">70</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">24</td>
+     <td align="left" rowspan="1" colspan="1">2005</td>
+     <td align="left" rowspan="1" colspan="1">7</td>
+     <td align="left" rowspan="1" colspan="1">76</td>
+     <td align="left" rowspan="1" colspan="1">positive</td>
+     <td align="left" rowspan="1" colspan="1">neck/neck</td>
+     <td align="left" rowspan="1" colspan="1">MC/MC</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">46</td>
+     <td align="left" rowspan="1" colspan="1">34</td>
+     <td align="left" rowspan="1" colspan="1">30</td>
+     <td align="left" rowspan="1" colspan="1">35</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">25</td>
+     <td align="left" rowspan="1" colspan="1">1986</td>
+     <td align="left" rowspan="1" colspan="1">36</td>
+     <td align="left" rowspan="1" colspan="1">29</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">mediastinum/neck</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">8</td>
+     <td align="left" rowspan="1" colspan="1">24</td>
+     <td align="left" rowspan="1" colspan="1">8</td>
+     <td align="left" rowspan="1" colspan="1">17</td>
+     <td align="left" rowspan="1" colspan="1">15</td>
+     <td align="left" rowspan="1" colspan="1">40</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">26</td>
+     <td align="left" rowspan="1" colspan="1">1994</td>
+     <td align="left" rowspan="1" colspan="1">49</td>
+     <td align="left" rowspan="1" colspan="1">13</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">neck/lung</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">12</td>
+     <td align="left" rowspan="1" colspan="1">2</td>
+     <td align="left" rowspan="1" colspan="1">8</td>
+     <td align="left" rowspan="1" colspan="1">7</td>
+     <td align="left" rowspan="1" colspan="1">10</td>
+     <td align="left" rowspan="1" colspan="1">40</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">27</td>
+     <td align="left" rowspan="1" colspan="1">1989</td>
+     <td align="left" rowspan="1" colspan="1">20</td>
+     <td align="left" rowspan="1" colspan="1">12</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">axilla/axilla</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">5</td>
+     <td align="left" rowspan="1" colspan="1">4</td>
+     <td align="left" rowspan="1" colspan="1">11</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">80</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">28</td>
+     <td align="left" rowspan="1" colspan="1">2011</td>
+     <td align="left" rowspan="1" colspan="1">68</td>
+     <td align="left" rowspan="1" colspan="1">68</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">neck/neck</td>
+     <td align="left" rowspan="1" colspan="1">NS/NS</td>
+     <td align="left" rowspan="1" colspan="1">4</td>
+     <td align="left" rowspan="1" colspan="1">6</td>
+     <td align="left" rowspan="1" colspan="1">10</td>
+     <td align="left" rowspan="1" colspan="1">19</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">100</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">29</td>
+     <td align="left" rowspan="1" colspan="1">1990</td>
+     <td align="left" rowspan="1" colspan="1">53</td>
+     <td align="left" rowspan="1" colspan="1">42</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">abdomen/NA</td>
+     <td align="left" rowspan="1" colspan="1">MC/MC</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">16</td>
+     <td align="left" rowspan="1" colspan="1">11</td>
+     <td align="left" rowspan="1" colspan="1">9</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">10</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">30</td>
+     <td align="left" rowspan="1" colspan="1">1981</td>
+     <td align="left" rowspan="1" colspan="1">48</td>
+     <td align="left" rowspan="1" colspan="1">39</td>
+     <td align="left" rowspan="1" colspan="1">NA</td>
+     <td align="left" rowspan="1" colspan="1">NA/NA</td>
+     <td align="left" rowspan="1" colspan="1">MC/MC</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">23</td>
+     <td align="left" rowspan="1" colspan="1">73</td>
+     <td align="left" rowspan="1" colspan="1">0</td>
+     <td align="left" rowspan="1" colspan="1">80</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <fn id="t003fn001">
+   <p>
+    <sup>a</sup>Year of primary diagnosis of cHL.
+   </p>
+  </fn>
+  <fn id="t003fn002">
+   <p>
+    <sup>b</sup>Time elapsed between biopsy 1 and biopsy 2 in months.
+   </p>
+  </fn>
+  <fn id="t003fn003">
+   <p>
+    <sup>c</sup>Age at primary diagnosis of cHL.
+   </p>
+  </fn>
+  <fn id="t003fn004">
+   <p>
+    <sup>d</sup>EBV status determined with EBER at primary biopsy.
+   </p>
+  </fn>
+  <fn id="t003fn005">
+   <p>PD-1 = Programmed death receptor 1, PD-L1 = Programmed death ligand 1, HRS = Hodgkin Reed-Sternberg, MC = Mixed cellularity, NS = Nodular sclerosis, EBV = Epstein-Barr virus, NA = Not available.</p>
+  </fn>
+  <fn id="t003fn006">
+   <p>*Sorted according to expression of PD-L1 by HRS cells.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

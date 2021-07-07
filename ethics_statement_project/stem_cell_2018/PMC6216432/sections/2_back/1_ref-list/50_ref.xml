@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="sct312347-bib-0050">
+ <label>50</label>
+ <mixed-citation publication-type="book" id="sct312347-cit-0050">
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Guy</surname>
+    <given-names>W</given-names>
+   </name>
+  </person-group>, 
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Bonato</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>, eds. 
+  <source xml:lang="en">CGI: Clinical Global Impressions</source>. 
+  <publisher-loc>Chevy Chase, MD</publisher-loc>: 
+  <publisher-name>National Institute of Mental Health</publisher-name>, 
+  <year>1970</year>.
+ </mixed-citation>
+</ref>

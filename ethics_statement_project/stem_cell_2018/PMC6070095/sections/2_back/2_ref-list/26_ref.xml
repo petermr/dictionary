@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0026">
+ <label>26.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Bonifant</surname>
+    <given-names>CL</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Jackson</surname>
+    <given-names>HJ</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Brentjens</surname>
+    <given-names>RJ</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Curran</surname>
+    <given-names>KJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Toxicity and management in CAR T-cell therapy</article-title>. 
+  <source>Mol Ther Oncolytics</source>
+  <year>2016</year>; 
+  <volume>3</volume>:
+  <fpage>16011</fpage>.
+  <pub-id pub-id-type="pmid">27626062</pub-id>
+ </mixed-citation>
+</ref>

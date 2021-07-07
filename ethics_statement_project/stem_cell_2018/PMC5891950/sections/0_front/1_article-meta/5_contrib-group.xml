@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Barberini</surname>
+   <given-names>Danielle Jaqueta</given-names>
+  </name>
+  <address>
+   <email>daniellebarberini@yahoo.com.br</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Aleman</surname>
+   <given-names>Monica</given-names>
+  </name>
+  <address>
+   <email>mraleman@ucdavis.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Aristizabal</surname>
+   <given-names>Fabio</given-names>
+  </name>
+  <address>
+   <email>faristi@ucdavis.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Spriet</surname>
+   <given-names>Mathieu</given-names>
+  </name>
+  <address>
+   <email>mspriet@ucdavis.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Clark</surname>
+   <given-names>Kaitlin C.</given-names>
+  </name>
+  <address>
+   <email>kcclark@ucdavis.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Walker</surname>
+   <given-names>Naomi J.</given-names>
+  </name>
+  <address>
+   <email>njwalker@ucdavis.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Galuppo</surname>
+   <given-names>Larry D.</given-names>
+  </name>
+  <address>
+   <email>ldgaluppo@ucdavis.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Amorim</surname>
+   <given-names>Rogério Martins</given-names>
+  </name>
+  <address>
+   <email>rmamorim@fmvz.unesp.br</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Woolard</surname>
+   <given-names>Kevin D.</given-names>
+  </name>
+  <address>
+   <email>kdwoolard@ucdavis.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Borjesson</surname>
+   <given-names>Dori L.</given-names>
+  </name>
+  <address>
+   <email>dlborjesson@ucdavis.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 9684</institution-id>
+   <institution-id institution-id-type="GRID">grid.27860.3b</institution-id>
+   <institution>Veterinary Institute for Regenerative Cures and the Department of Pathology, Microbiology &amp; Immunology, </institution>
+   <institution>University of California, </institution>
+  </institution-wrap>Davis, USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 9684</institution-id>
+   <institution-id institution-id-type="GRID">grid.27860.3b</institution-id>
+   <institution>Department of Medicine &amp; Epidemiology, </institution>
+   <institution>University of California, </institution>
+  </institution-wrap>Davis, USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 9684</institution-id>
+   <institution-id institution-id-type="GRID">grid.27860.3b</institution-id>
+   <institution>Department of Surgical &amp; Radiological Sciences, </institution>
+   <institution>University of California, </institution>
+  </institution-wrap>Davis, USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2188 478X</institution-id>
+   <institution-id institution-id-type="GRID">grid.410543.7</institution-id>
+   <institution>Department of Veterinary Clinics, </institution>
+   <institution>São Paulo State University “Julio de Mesquita Filho” – UNESP, </institution>
+  </institution-wrap>Botucatu, SP Brazil 
+ </aff>
+</contrib-group>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We apply a simple mathematical model that describes the time course of TKI response in CML as a dynamic process resulting from the interplay between tumor growth, activation/deactivation of LSCs, and cytotoxic TKI action (
+ <xref ref-type="fig" rid="f1-1031825">Figure 1A</xref>, and see Methods). In brief, the model describes three LC types: quiescent LSC (
+ <italic>X</italic>), proliferating LSC (
+ <italic>Y</italic>) and fully differentiated LCs (
+ <italic>W</italic>). The activation of dormant LSCs and deactivation of proliferating LSCs are described by rate constants 
+ <italic>p
+  <sub>XY</sub>
+ </italic> and 
+ <italic>p
+  <sub>YX</sub>
+ </italic> while LSCs proliferate with a rate constant 
+ <italic>p
+  <sub>Y</sub>
+ </italic>. During therapy, we assume a cytotoxic TKI effect on proliferating LSCs, described by the rate constant 
+ <italic>e
+  <sub>TKI</sub>
+ </italic>&gt;0.
+</p>

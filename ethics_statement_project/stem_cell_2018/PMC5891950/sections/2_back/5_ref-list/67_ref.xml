@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR67">
+ <label>67.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>RH</given-names>
+   </name>
+   <name>
+    <surname>Pulin</surname>
+    <given-names>AA</given-names>
+   </name>
+   <name>
+    <surname>Seo</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Kota</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Ylostalo</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Larson</surname>
+    <given-names>BL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Intravenous hMSCs improve myocardial infarction in mice because cells embolized in lung are activated to secrete the anti-inflammatory protein TSG-6</article-title>
+  <source>Cell Stem Cell</source>
+  <year>2009</year>
+  <volume>5</volume>
+  <fpage>54</fpage>
+  <lpage>63</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.stem.2009.05.003</pub-id>
+  <?supplied-pmid 19570514?>
+  <pub-id pub-id-type="pmid">19570514</pub-id>
+ </element-citation>
+</ref>

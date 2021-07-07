@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">Pediatric hematopoietic stem cell transplantation (HSCT) allows the treatment of numerous diseases, both malignant and non-malignant. Cyclosporine, a narrow therapeutic index drug, is the major immunosuppressant used to prevent graft-versus-host disease (GVHD), but may also cause severe adverse effects in case of overdosing.</p>
+ </sec>
+ <sec>
+  <title>Objective</title>
+  <p id="Par2">The objective of this study is to predict the initial cyclosporine residual blood concentration value after pediatric HSCT, and consequently the dose necessary to reach the therapeutic range, using a mathematical individual predictive model.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par3">Clinical and biological data collected from the graft infusion for 2 months after transplantation in 155 pediatric patients undergoing HSCT between 2008 and 2016 were used to generate synthetic data for 1000 subjects which were used to build a Bayesian network model. We compared the characteristics and sensitivity to clinical or biological missing data of this model with four other methods.</p>
+ </sec>
+ <sec>
+  <title>Results</title>
+  <p id="Par4">The tree-augmented Naïve Bayesian network showed the best characteristics, with no missing data (area under the curve of the receiving operator characteristics curve [AUC-ROC] of 0.89 ± 0.02), 18.9 ± 2.6% of patients misclassified, and positive and negative predictive values of 85.9 ± 3.4% and 74.2 ± 5.1%, respectively, and this trend is found in the synthetic dataset from no to 10% missing data. The most relevant variables that could influence whether the initial residual cyclosporine concentration is in the therapeutic range are the last dose before measurement and the mean dose before measurement.</p>
+ </sec>
+ <sec>
+  <title>Conclusions</title>
+  <p id="Par5">We developed and cross-validated an online Bayesian network to predict the first cyclosporine concentration after pediatric HSCT. This model allows simulation of different dosing regimens, and enables the best dosing regimen to reach the therapeutic range immediately after transplantation to be found, minimizing the risk of adverse effects and GVHD occurrence.</p>
+ </sec>
+</abstract>

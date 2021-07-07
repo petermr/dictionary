@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Choi</surname>
+   <given-names>Chungam</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-dddt-12-2381">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yoo</surname>
+   <given-names>Byung Won</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-dddt-12-2381">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Choon Ok</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-dddt-12-2381">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hong</surname>
+   <given-names>Taegon</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-dddt-12-2381">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jin</surname>
+   <given-names>Byung Hak</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-dddt-12-2381">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Seo</surname>
+   <given-names>Kwang-Seok</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-dddt-12-2381">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jang</surname>
+   <given-names>Ja Yun</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-dddt-12-2381">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Park</surname>
+   <given-names>Min Soo</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-dddt-12-2381">2</xref>
+  <xref ref-type="corresp" rid="c1-dddt-12-2381"/>
+ </contrib>
+</contrib-group>

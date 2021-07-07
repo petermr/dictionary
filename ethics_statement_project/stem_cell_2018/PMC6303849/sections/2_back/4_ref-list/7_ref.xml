@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mathurin</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>O’Grady</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Carithers</surname>
+    <given-names>RL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Corticosteroids improve short-term survival in patients with severe alcoholic hepatitis: meta-analysis of individual patient data</article-title>
+  <source>Gut</source>
+  <year>2011</year>
+  <volume>60</volume>
+  <fpage>255</fpage>
+  <lpage>260</lpage>
+  <pub-id pub-id-type="doi">10.1136/gut.2010.224097</pub-id>
+  <pub-id pub-id-type="pmid">20940288</pub-id>
+ </element-citation>
+</ref>

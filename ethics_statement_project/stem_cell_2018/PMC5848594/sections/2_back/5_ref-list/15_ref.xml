@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cribbs</surname>
+    <given-names>SK</given-names>
+   </name>
+   <name>
+    <surname>Sutcliffe</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Taylor</surname>
+    <given-names>WR</given-names>
+   </name>
+   <name>
+    <surname>Rojas</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Easley</surname>
+    <given-names>KA</given-names>
+   </name>
+   <name>
+    <surname>Tang</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Circulating endothelial progenitor cells inversely associate with organ dysfunction in sepsis</article-title>
+  <source>Intensive Care Med.</source>
+  <year>2012</year>
+  <volume>38</volume>
+  <fpage>429</fpage>
+  <lpage>436</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00134-012-2480-9</pub-id>
+  <?supplied-pmid 22331369?>
+  <pub-id pub-id-type="pmid">22331369</pub-id>
+ </element-citation>
+</ref>

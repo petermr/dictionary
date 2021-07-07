@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR43">
+ <label>43.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Harris</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Chan</surname>
+    <given-names>MD</given-names>
+   </name>
+   <name>
+    <surname>Lovato</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Ellis</surname>
+    <given-names>TL</given-names>
+   </name>
+   <name>
+    <surname>Tatter</surname>
+    <given-names>SB</given-names>
+   </name>
+   <name>
+    <surname>Bourland</surname>
+    <given-names>JD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Gamma knife stereotactic radiosurgery as salvage therapy after failure of whole-brain radiotherapy in patients with small-cell lung cancer</article-title>
+  <source>Int J Radiat Oncol Biol Phys.</source>
+  <year>2012</year>
+  <volume>83</volume>
+  <fpage>e53</fpage>
+  <lpage>e59</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2011.11.059</pub-id>
+  <?supplied-pmid 22342297?>
+  <pub-id pub-id-type="pmid">22342297</pub-id>
+ </element-citation>
+</ref>

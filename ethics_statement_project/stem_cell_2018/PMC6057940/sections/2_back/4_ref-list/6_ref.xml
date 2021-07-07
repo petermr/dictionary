@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>O’Toole</surname>
+    <given-names>SA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Hedgehog overexpression is associated with stromal interactions and predicts for poor outcome in breast cancer</article-title>
+  <source>Cancer Res.</source>
+  <year>2011</year>
+  <volume>71</volume>
+  <fpage>4002</fpage>
+  <lpage>4014</lpage>
+  <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-10-3738</pub-id>
+  <?supplied-pmid 21632555?>
+  <pub-id pub-id-type="pmid">21632555</pub-id>
+ </element-citation>
+</ref>

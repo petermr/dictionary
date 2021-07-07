@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pickard</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>De Leon</surname>
+    <given-names>MC</given-names>
+   </name>
+   <name>
+    <surname>Kohlmann</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Cella</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Rosenbloom</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Psychometric comparison of the standard EQ-5D to a 5 level version in cancer patients</article-title>
+  <source>Med Care</source>
+  <year>2007</year>
+  <volume>45</volume>
+  <issue>3</issue>
+  <fpage>259</fpage>
+  <lpage>263</lpage>
+  <pub-id pub-id-type="doi">10.1097/01.mlr.0000254515.63841.81</pub-id>
+  <?supplied-pmid 17304084?>
+  <pub-id pub-id-type="pmid">17304084</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f3-1040189" position="float">
+ <label>Figure 3.</label>
+ <caption>
+  <p>A simple, physician-driven decision tree defines chronic graft-
+   <italic>versus</italic>-host disease phenotypes. A decision tree designed to separate patients into groups with similar phenotypes and clinical risks as those revealed by the machine-learning approach in 
+   <xref ref-type="fig" rid="f1-1040189">Figure 1</xref> is shown. The decision tree is read from the top down and sequentially identifies and segregates patients in the most phenotypically distinct clusters (Y=Yes, N=No). Patients meeting the criteria at the decision point are assigned to that cluster and patients who do not meet the criteria are further advanced in the tree logic. Each circled number represents a cluster of patients. For cluster 2, two decision points were used to identify patients (arrows above and below the encircled 2). The length of the horizontal arrow is proportional to the risk coefficient and the width of the arrow is proportional to the percentage of patients in this cohort who were assigned to the cluster.
+  </p>
+ </caption>
+ <graphic xlink:href="104189.fig3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

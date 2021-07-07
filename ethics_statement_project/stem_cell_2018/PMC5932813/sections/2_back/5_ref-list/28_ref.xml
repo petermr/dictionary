@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dumichen</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Seeger</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Lode</surname>
+    <given-names>HN</given-names>
+   </name>
+   <name>
+    <surname>Kühl</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Ebell</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Degenhardt</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Randomized controlled trial of taurolidine-citrate versus heparin as catheter lock solution in paediatric patients with haematological malignancies</article-title>
+  <source>J Hosp Infect</source>
+  <year>2012</year>
+  <volume>80</volume>
+  <fpage>304</fpage>
+  <lpage>309</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jhin.2012.01.003</pub-id>
+  <?supplied-pmid 22342714?>
+  <pub-id pub-id-type="pmid">22342714</pub-id>
+ </element-citation>
+</ref>
