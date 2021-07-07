@@ -40,7 +40,7 @@ class EthicStatements:
         self.remove_tems_which_have_false_terms(
             dict_with_parsed_xml=dict_with_parsed_xml)
         self.convert_dict_to_csv(
-            path=f'{OUTPUT}_19091212.csv', dict_with_parsed_xml=dict_with_parsed_xml)
+            path=f'{OUTPUT}_today.csv', dict_with_parsed_xml=dict_with_parsed_xml)
 
     def frontiers_ethics_statement(self):
         """ """
@@ -177,11 +177,10 @@ class EthicStatements:
         from bs4 import BeautifulSoup
         try:
             xmlstr = ET.tostring(root, encoding='utf8', method='xml')
-            print(xmlstr)
-            soup = BeautifulSoup(xmlstr)
-            text = soup.get_text()
-            print(text)
-            dict_with_parsed_xml[ethics_statement]['parsed'] = text
+            soup = BeautifulSoup(xmlstr, features='lxml')
+            text = soup.get_text(separator="")
+            dict_with_parsed_xml[ethics_statement]['parsed'] = text.replace(
+                '\n', '')
         except:
             dict_with_parsed_xml[ethics_statement]['parsed'] = "empty"
         doc = nlp(dict_with_parsed_xml[ethics_statement]['parsed'])
@@ -248,7 +247,7 @@ class EthicStatements:
         import pandas as pd
         df = pd.DataFrame(dict_with_parsed_xml)
         df = df.T
-        df.to_csv(path, encoding='utf-8')
+        df.to_csv(path, encoding='utf-8', line_terminator='\r\n')
         logging.info(f"wrote output to {path}")
 
     def remove_tems_which_have_false_terms(self, dict_with_parsed_xml):
@@ -256,7 +255,6 @@ class EthicStatements:
         for statement in dict_with_parsed_xml:
             if dict_with_parsed_xml[statement]['has_terms'] == False:
                 statement_to_pop.append(statement)
-                print(f"term not found for {statement}")
 
         for term in statement_to_pop:
             dict_with_parsed_xml.pop(term)
