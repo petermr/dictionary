@@ -76,6 +76,7 @@ To move away from publisher specifiicity and to have a smaller corpus, we have c
 (METHODS:'stem cell') AND (PUB_TYPE:'Clinical Trial')  AND (FIRST_PDATE:[2018-01-01 TO 2018-12-31])
 ```
 It's about 170 papers big. 
+Corpus is available [here](https://github.com/petermr/dictionary/tree/main/ethics_statement_project/stem_cell_2018)
 
 # 4. `ami` dictionary - Ontology
 I have created a prototype dictionary, after analysing the Ethics Statement sections of Mini-Corpus #1  by using phrase extraction feature of [`ami_gui.py`](https://github.com/petermr/openDiagram/blob/master/physchem/python/ami_gui.py). `ami` uses ([RAKE](https://pypi.org/project/rake-nltk/) to extract and weigh phrases from text. The selected phrases are automatically saved into `keywords.txt` file in the mini-corpus (C-Project) directory.  
@@ -93,11 +94,11 @@ The prototype dictionary is available, [here](https://github.com/petermr/diction
   - Text similarity 
 - PMR and Shweata met up on 20210703 to discuss feasibilities of ideas generated on 20210701's meeting. A detailed documentation is available,here. [The tagger idea](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/ethics_statement_tagger_idea.md)
   - We propose a semantic model for ethics statement, wherein each sentence has a structure and information type. 
-  - We also realized that we should be working at sentence-level rather than paragraph-level. Ethics Statement are usually buried within a paragraph expalining the study design.
+  - We also realized that we should be working at sentence-level rather than paragraph-level. Ethics Statement are usually buried within a paragraph explaining the study design.
   - A specific tangible goal would be useful to have at this point to streamline our workflow. 
 - Shweata has also looked at spaCy's sentence-splitter. spaCy also does text similarity which we might want to employ to find out similarities between a standard boiler plate and an ethics statement.
-- Shweata has also created custom hand-made boiler plate ethics dictionary, which is available [here](). She has implemented spaCy's `phrase matcher` with terms as phrases to match. Using spaCy's phrase matcher gives us a lot more functionality as we get to choose whether we would like to match only lowercase, and so on!
-- We've also created a mini-corpora to work with sentence-level information extraction. Details, [here]() 
+- Shweata has also created custom hand-made boiler plate ethics dictionary, which is available [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/ethics_dictionary/ethics_key_phrases/ethics_key_phrases.xml). She has implemented spaCy's `phrase matcher` with terms as phrases to match. Using spaCy's phrase matcher gives us a lot more functionality as we get to choose whether we would like to match only lowercase, and so on! Details [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/ethics_phrase_matcher_sentence_split.ipynb)
+- We've also created a mini-corpora to work with sentence-level information extraction. Details, [here](#35-mini-corpus-5) 
 - Shweata found a tool called `textacy` which she demonstrated during Tuesday's (20210706) coding session. There were other tools which team members discussed. [Here](https://github.com/petermr/CEVOpen/wiki/Coding-Sessions:-Meeting-Record#date-2021-07-07) is the notes from the session
 - Daniel has created new organization on GitHub dedicated to Ethics Statement project.
 - 20210707: Shweata has now got `textacy`'s topic modeling to work, thanks to PMR's help! The code is available here to look it. It is still a protoype, but we are able to extract information on different topics in ethics statements or any paragraphs. The code is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/testing_texacy_tutorial.ipynb).
