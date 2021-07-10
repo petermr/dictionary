@@ -48,10 +48,13 @@ class EthicStatements:
         self.sentence_based_phrase_matching(
             terms=terms, dict_with_parsed_xml=dict_with_parsed_xml
         )
+        self.remove_sentences_not_having_terms(
+            dict_with_parsed_xml=dict_with_parsed_xml
+        )
         self.iterate_over_xml_and_populate_sentence_dict(
             dict_with_parsed_xml=dict_with_parsed_xml
         )
-
+        self.make_rows_from_sentece_dict(dict_with_parsed_xml=dict_with_parsed_xml)
         self.convert_dict_to_csv(
             path=f"{OUTPUT}_20210707_4.csv", dict_with_parsed_xml=dict_with_parsed_xml
         )
@@ -160,9 +163,37 @@ class EthicStatements:
         for ethics_statement in tqdm(dict_with_parsed_xml):
             tree = ET.parse(ethics_statement)
             root = tree.getroot()
+            self.add_parsed_xml(dict_with_parsed_xml, ethics_statement, root)
+            """
             self.iterate_over_xml_and_populate_dict(
                 dict_with_parsed_xml, ethics_statement, nlp, root
             )
+            """
+
+    def make_rows_from_sentece_dict(self, dict_with_parsed_xml):
+        for statement in dict_with_parsed_xml:
+            sentences = []
+            entities = []
+            labels = []
+            position_start = []
+            position_end = []
+            sentence_has_terms = []
+            dict_with_sentences = dict_with_parsed_xml[statement]["sentence_dict"]
+            for sentence in dict_with_sentences:
+                sentence_dict = dict_with_sentences[sentence]
+                sentences.append(sentence)
+                entities.append(sentence_dict["entities"])
+                labels.append(sentence_dict["labels"])
+                position_start.append(sentence_dict["position_start"])
+                position_end.append(sentence_dict["position_end"])
+                sentence_has_terms.append(sentence_dict["matched_phrases"])
+            dict_with_parsed_xml[statement]["sentences"] = sentences
+            dict_with_parsed_xml[statement]["entities"] = entities
+            dict_with_parsed_xml[statement]["labels"] = labels
+            dict_with_parsed_xml[statement]["position_start"] = position_start
+            dict_with_parsed_xml[statement]["position_end"] = position_end
+            dict_with_parsed_xml[statement]["sentence_has_terms"] = sentence_has_terms
+            dict_with_parsed_xml[statement].pop("sentence_dict")
 
     def add_if_file_contains_terms(self, terms, dict_with_parsed_xml):
         """
@@ -215,9 +246,9 @@ class EthicStatements:
                 for match_id, start, end in matches:
                     matched_span = doc[start:end]
                     matched_phrases.append(matched_span.text)
-                    dict_with_parsed_xml[statement]["sentence_dict"][sentence][
-                        "matched_phrases"
-                    ] = matched_phrases
+                dict_with_parsed_xml[statement]["sentence_dict"][sentence][
+                    "matched_phrases"
+                ] = matched_phrases
 
     def split_in_sentences(self, text):
         import spacy
@@ -280,16 +311,6 @@ class EthicStatements:
         :param root:
 
         """
-        import xml.etree.ElementTree as ET
-        from bs4 import BeautifulSoup
-
-        try:
-            xmlstr = ET.tostring(root, encoding="utf8", method="xml")
-            soup = BeautifulSoup(xmlstr, features="lxml")
-            text = soup.get_text(separator="")
-            dict_with_parsed_xml[ethics_statement]["parsed"] = text.replace("\n", "")
-        except:
-            dict_with_parsed_xml[ethics_statement]["parsed"] = "empty"
         doc = nlp(dict_with_parsed_xml[ethics_statement]["parsed"])
         entities, labels, position_end, position_start = self.make_required_lists()
         for ent in doc.ents:
@@ -303,6 +324,18 @@ class EthicStatements:
             position_end,
             position_start,
         )
+
+    def add_parsed_xml(self, dict_with_parsed_xml, ethics_statement, root):
+        import xml.etree.ElementTree as ET
+        from bs4 import BeautifulSoup
+
+        try:
+            xmlstr = ET.tostring(root, encoding="utf8", method="xml")
+            soup = BeautifulSoup(xmlstr, features="lxml")
+            text = soup.get_text(separator="")
+            dict_with_parsed_xml[ethics_statement]["parsed"] = text.replace("\n", "")
+        except:
+            dict_with_parsed_xml[ethics_statement]["parsed"] = "empty"
 
     def make_required_lists(self):
         """ """
@@ -377,6 +410,23 @@ class EthicStatements:
 
         for term in statement_to_pop:
             dict_with_parsed_xml.pop(term)
+
+    def remove_sentences_not_having_terms(self, dict_with_parsed_xml):
+        for statement in dict_with_parsed_xml:
+            sentences_to_pop = []
+            for sentence in dict_with_parsed_xml[statement]["sentence_dict"]:
+                if (
+                    len(
+                        dict_with_parsed_xml[statement]["sentence_dict"][sentence][
+                            "matched_phrases"
+                        ]
+                    )
+                    == 0
+                ):
+                    sentences_to_pop.append(sentence)
+
+            for sentence in sentences_to_pop:
+                dict_with_parsed_xml[statement]["sentence_dict"].pop(sentence)
 
 
 ethic_statement_creator = EthicStatements()
