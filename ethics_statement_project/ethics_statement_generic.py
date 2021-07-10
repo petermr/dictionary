@@ -34,7 +34,7 @@ class EthicStatements:
         """
         import os
 
-        # self.create_project_files(QUERY, HITS, OUTPUT)
+        #self.create_project_files(QUERY, HITS, OUTPUT)
         # self.install_ami()
         dict_with_parsed_xml = self.make_dict_with_pmcids(working_directory, OUTPUT)
         terms = self.get_terms_from_ami_xml(TERMS_XML_PATH)
@@ -80,7 +80,6 @@ class EthicStatements:
 
         """
         import os
-
         self.create_project_files(QUERY, HITS, OUTPUT)
         # self.install_ami()
         dict_with_parsed_xml = self.make_dict_with_pmcids(working_directory, OUTPUT)
@@ -98,8 +97,10 @@ class EthicStatements:
 
         """
         import os
-
+        import logging
+        logging.info("querying EPMC using pygetpapers")
         os.system(f'pygetpapers -q "{QUERY}" -k {HITS} -o {OUTPUT} -x')
+        logging.info("sectioning papers using java ami section")
         os.system(f"ami -p {OUTPUT} section")
 
     def install_ami(self):
@@ -124,7 +125,7 @@ class EthicStatements:
         dict_with_parsed_xml = {}
         all_paragraphs = glob(
             os.path.join(
-                working_directory, output, "*", "sections", "**", "[1_9]_p.xml"
+                working_directory, output, "*", "sections", "**", "*.xml"
             ),
             recursive=True,
         )
@@ -132,7 +133,7 @@ class EthicStatements:
             self.find_pmcid_from_file_name_and_make_dict_key(
                 dict_with_parsed_xml, statement
             )
-        logging.info(f"Found {len(dict_with_parsed_xml)} paragraphs")
+        logging.info(f"Found {len(dict_with_parsed_xml)} XML files")
         return dict_with_parsed_xml
 
     def find_pmcid_from_file_name_and_make_dict_key(
@@ -144,6 +145,7 @@ class EthicStatements:
         :param statement:
 
         """
+
         dict_with_parsed_xml[paragraph_file] = {}
 
     def add_ethic_statements_to_dict(self, dict_with_parsed_xml):
@@ -154,12 +156,16 @@ class EthicStatements:
         """
         import spacy
         import os
+        import logging
+        logging.info("populating the python dictionary with (ethics) paragraphs")
+        
 
         # os.system('pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_sm-0.4.0.tar.gz')
         nlp = spacy.load("en_core_web_sm")
         # nlp = spacy.load("en_core_sci_sm")
         import xml.etree.ElementTree as ET
-
+        
+        
         for ethics_statement in tqdm(dict_with_parsed_xml):
             tree = ET.parse(ethics_statement)
             root = tree.getroot()
@@ -203,6 +209,7 @@ class EthicStatements:
 
         """
         import spacy
+        import logging
 
         nlp = spacy.load("en_core_web_sm")
         from spacy.matcher import PhraseMatcher
@@ -210,6 +217,8 @@ class EthicStatements:
         matcher = PhraseMatcher(nlp.vocab, attr="LOWER")
         patterns = [nlp(text) for text in terms]
         matcher.add("TerminologyList", patterns)
+
+        logging.info("phrase matching at top level")
 
         for statement in tqdm(dict_with_parsed_xml):
             matched_phrases = []
@@ -225,10 +234,11 @@ class EthicStatements:
 
     def sentence_based_phrase_matching(self, terms, dict_with_parsed_xml):
         import spacy
+        import logging
 
         nlp = spacy.load("en_core_web_sm")
         from spacy.matcher import PhraseMatcher
-
+        logging.info("splitting ethics statement containing paragraphs into sentences")
         for statement in tqdm(dict_with_parsed_xml):
             sentences = self.split_in_sentences(
                 dict_with_parsed_xml[statement]["parsed"]
@@ -238,6 +248,7 @@ class EthicStatements:
             patterns = [nlp(text) for text in terms]
             matcher.add("TerminologyList", patterns)
             dict_with_parsed_xml[statement]["sentence_dict"] = {}
+            logging.info("phrase matching at sentence level")
             for sentence in tqdm(sentences):
                 dict_with_parsed_xml[statement]["sentence_dict"][sentence] = {}
                 matched_phrases = []
@@ -264,17 +275,21 @@ class EthicStatements:
 
         """
         import xml.etree.ElementTree as ET
+        import logging
 
         tree = ET.parse(xml_path)
         root = tree.getroot()
         terms = []
         for para in root.iter("entry"):
             terms.append(para.attrib["term"])
+        logging.info("getting terms from ami dictionary")
         return terms
+        
 
     def iterate_over_xml_and_populate_sentence_dict(self, dict_with_parsed_xml):
         import spacy
-
+        import logging
+        logging.info("named-entity recognition at sentence level")
         nlp = spacy.load("en_core_web_sm")
 
         for ethics_statement in tqdm(dict_with_parsed_xml):
@@ -332,7 +347,7 @@ class EthicStatements:
         try:
             xmlstr = ET.tostring(root, encoding="utf8", method="xml")
             soup = BeautifulSoup(xmlstr, features="lxml")
-            text = soup.get_text(separator="")
+            text = soup.get_text(separator=" ")
             dict_with_parsed_xml[ethics_statement]["parsed"] = text.replace("\n", "")
         except:
             dict_with_parsed_xml[ethics_statement]["parsed"] = "empty"
@@ -395,6 +410,7 @@ class EthicStatements:
         """
         import logging
         import pandas as pd
+        
 
         df = pd.DataFrame(dict_with_parsed_xml)
         df = df.T
@@ -433,9 +449,9 @@ ethic_statement_creator = EthicStatements()
 # ethic_statement_creator.demo()
 ethic_statement_creator.test_term_creation(
     os.getcwd(),
-    "e_cancer_clinical_trial_50",
+    "stem cell research",
     30,
-    "e_cancer_clinical_trial_50",
+    "stem_cell_research_30",
     os.path.join(
         os.getcwd(), "ethics_dictionary", "ethics_key_phrases", "ethics_key_phrases.xml"
     ),
@@ -464,4 +480,5 @@ def display_graph_of_dependensies(self, dict_with_parsed_xml):
 """
 Credits to Ayush Garg for helping with linking PMC to the parsed text and the entities recognized.
 He has also converted the code into a class.
+Shweata N. Hegde
 """
