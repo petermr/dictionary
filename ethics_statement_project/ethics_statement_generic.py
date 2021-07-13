@@ -56,7 +56,7 @@ class EthicStatements:
         )
         self.make_rows_from_sentece_dict(dict_with_parsed_xml=dict_with_parsed_xml)
         self.convert_dict_to_csv(
-            path=f"{OUTPUT}_20210707_4.csv", dict_with_parsed_xml=dict_with_parsed_xml
+            path=f"{OUTPUT}_20210712.csv", dict_with_parsed_xml=dict_with_parsed_xml
         )
 
     def frontiers_ethics_statement(self):
@@ -125,7 +125,7 @@ class EthicStatements:
         dict_with_parsed_xml = {}
         all_paragraphs = glob(
             os.path.join(
-                working_directory, output, "*", "sections", "**", "*.xml"
+                working_directory, output, "*", "sections","**", "*.xml"
             ),
             recursive=True,
         )
@@ -414,7 +414,7 @@ class EthicStatements:
 
         df = pd.DataFrame(dict_with_parsed_xml)
         df = df.T
-        df.sort_values(by=["weight"], ascending=False)
+        df.sort_values(by=["weight"], ascending=True)
         df.to_csv(path, encoding="utf-8", line_terminator="\r\n")
         logging.info(f"wrote output to {path}")
 
@@ -449,11 +449,11 @@ ethic_statement_creator = EthicStatements()
 # ethic_statement_creator.demo()
 ethic_statement_creator.test_term_creation(
     os.getcwd(),
-    "stem cell research",
-    30,
-    "stem_cell_research_30",
+    "essential oil AND chemical composition",
+    100,
+    "essential_oil_chemical_composition_100",
     os.path.join(
-        os.getcwd(), "ethics_dictionary", "ethics_key_phrases", "ethics_key_phrases.xml"
+        os.getcwd(), "ethics_dictionary", "methods_key_phrases", "methods_key_phrases.xml"
     ),
 )
 #
