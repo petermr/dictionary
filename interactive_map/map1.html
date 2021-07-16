@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1fb045a6d93d4051a6bc5d5006ff884c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_1fb045a6d93d4051a6bc5d5006ff884c" ></div>
+        
+</body>
+<script>    
+    
+            var map_1fb045a6d93d4051a6bc5d5006ff884c = L.map(
+                "map_1fb045a6d93d4051a6bc5d5006ff884c",
+                {
+                    center: [10.0, 20.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 2,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_423ce91d80bb4dae8dcee4c3361d6d35 = L.tileLayer(
+                "http://tile.stamen.com/toner-lite/{z}/{x}/{y}.png",
+                {"attribution": "OpenVirus", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var marker_3ae41910c09a4dfa9cf7191e2d4bf1a8 = L.marker(
+                [39.7837304, -100.4458825],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_1badff39631540ae9eba2c8ca1c96e5e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_3ae41910c09a4dfa9cf7191e2d4bf1a8.setIcon(icon_1badff39631540ae9eba2c8ca1c96e5e);
+        
+    
+        var popup_e484f5e16f7148339ff65508c86c2bb2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a62ab668031e48c8b9aab179464829ae = $(`<div id="html_a62ab668031e48c8b9aab179464829ae" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>0</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>United States</td>     </tr>     <tr>       <th>Alliaria petiole</th>       <td>4</td>     </tr>     <tr>       <th>Prosopis</th>       <td>3</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>6</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>3</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>2</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>1</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>4</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>2</td>     </tr>     <tr>       <th>Ageratina adenophores</th>       <td>4</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>2</td>     </tr>     <tr>       <th>Alliaria petiole.1</th>       <td>2</td>     </tr>     <tr>       <th>Mikania micrantha</th>       <td>2</td>     </tr>     <tr>       <th>Microstegium vimineum</th>       <td>2</td>     </tr>     <tr>       <th>Spartina alterniflora</th>       <td>1</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>3</td>     </tr>     <tr>       <th>Triadica sebifera</th>       <td>3</td>     </tr>     <tr>       <th>common reed</th>       <td>2</td>     </tr>     <tr>       <th>Bromus tectorum.1</th>       <td>2</td>     </tr>     <tr>       <th>Bidens pilosa</th>       <td>1</td>     </tr>     <tr>       <th>Cenchrus ciliaris</th>       <td>1</td>     </tr>     <tr>       <th>Lythrum salicaria</th>       <td>1</td>     </tr>     <tr>       <th>Cabomba caroliniana</th>       <td>2</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_e484f5e16f7148339ff65508c86c2bb2.setContent(html_a62ab668031e48c8b9aab179464829ae);
+        
+
+        marker_3ae41910c09a4dfa9cf7191e2d4bf1a8.bindPopup(popup_e484f5e16f7148339ff65508c86c2bb2)
+        ;
+
+        
+    
+    
+            var marker_2b370509879c4f13a085699c87a3d442 = L.marker(
+                [35.000074, 104.999927],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_f8b5aa6bcb9449cd91f3022004bc5a51 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_2b370509879c4f13a085699c87a3d442.setIcon(icon_f8b5aa6bcb9449cd91f3022004bc5a51);
+        
+    
+        var popup_680e954e7bb04fe1b22c426593adf11c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_24f1ac33fbe841459f8741abb4aef4cb = $(`<div id="html_24f1ac33fbe841459f8741abb4aef4cb" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>1</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>China</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>3</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>3</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>2</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>1</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Ageratina adenophores</th>       <td>3</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>1</td>     </tr>     <tr>       <th>Mikania micrantha</th>       <td>3</td>     </tr>     <tr>       <th>Spartina alterniflora</th>       <td>2</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>4</td>     </tr>     <tr>       <th>Triadica sebifera</th>       <td>1</td>     </tr>     <tr>       <th>Bidens pilosa</th>       <td>2</td>     </tr>     <tr>       <th>Cabomba caroliniana</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_680e954e7bb04fe1b22c426593adf11c.setContent(html_24f1ac33fbe841459f8741abb4aef4cb);
+        
+
+        marker_2b370509879c4f13a085699c87a3d442.bindPopup(popup_680e954e7bb04fe1b22c426593adf11c)
+        ;
+
+        
+    
+    
+            var marker_32b6d55c64af4cf8bb21ce53657ff7b9 = L.marker(
+                [-24.7761086, 134.755],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_b6e1b1f4103f4ba59470cceb011243a0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_32b6d55c64af4cf8bb21ce53657ff7b9.setIcon(icon_b6e1b1f4103f4ba59470cceb011243a0);
+        
+    
+        var popup_0d35c5ce3909495eb55c781b8caf5440 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_354fa40339c048c3b5858e7ef721e885 = $(`<div id="html_354fa40339c048c3b5858e7ef721e885" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>2</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Australia</td>     </tr>     <tr>       <th>Prosopis</th>       <td>1</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>4</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>3</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>2</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>3</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>1</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>2</td>     </tr>     <tr>       <th>Mikania micrantha</th>       <td>1</td>     </tr>     <tr>       <th>Spartina alterniflora</th>       <td>1</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>1</td>     </tr>     <tr>       <th>common reed</th>       <td>2</td>     </tr>     <tr>       <th>Bidens pilosa</th>       <td>1</td>     </tr>     <tr>       <th>Cenchrus ciliaris</th>       <td>1</td>     </tr>     <tr>       <th>Lythrum salicaria</th>       <td>1</td>     </tr>     <tr>       <th>Cabomba caroliniana</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_0d35c5ce3909495eb55c781b8caf5440.setContent(html_354fa40339c048c3b5858e7ef721e885);
+        
+
+        marker_32b6d55c64af4cf8bb21ce53657ff7b9.bindPopup(popup_0d35c5ce3909495eb55c781b8caf5440)
+        ;
+
+        
+    
+    
+            var marker_f45ce975dc36451aa2d4c505884d1401 = L.marker(
+                [39.7837304, -100.4458825],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_5fe6edfc14c643819a45f3e1e90d230d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_f45ce975dc36451aa2d4c505884d1401.setIcon(icon_5fe6edfc14c643819a45f3e1e90d230d);
+        
+    
+        var popup_7fa15c1286864b43824432a386f00b98 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_abb9b318988a437f9a56d5089a548fd1 = $(`<div id="html_abb9b318988a437f9a56d5089a548fd1" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>3</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>United states</td>     </tr>     <tr>       <th>Alliaria petiole</th>       <td>3</td>     </tr>     <tr>       <th>Prosopis</th>       <td>1</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>2</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Ageratina adenophores</th>       <td>2</td>     </tr>     <tr>       <th>Alliaria petiole.1</th>       <td>3</td>     </tr>     <tr>       <th>Microstegium vimineum</th>       <td>2</td>     </tr>     <tr>       <th>common reed</th>       <td>1</td>     </tr>     <tr>       <th>Bromus tectorum.1</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_7fa15c1286864b43824432a386f00b98.setContent(html_abb9b318988a437f9a56d5089a548fd1);
+        
+
+        marker_f45ce975dc36451aa2d4c505884d1401.bindPopup(popup_7fa15c1286864b43824432a386f00b98)
+        ;
+
+        
+    
+    
+            var marker_db8f3294aa5648d4af6e265c3af2c6e7 = L.marker(
+                [61.0666922, -107.991707],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_79b9d1a238ce438db06e7b9900d50aaf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_db8f3294aa5648d4af6e265c3af2c6e7.setIcon(icon_79b9d1a238ce438db06e7b9900d50aaf);
+        
+    
+        var popup_5d1d587e4308456abf62a7b462cc21ad = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1cd65bfc73eb4af99701f49554ab8f13 = $(`<div id="html_1cd65bfc73eb4af99701f49554ab8f13" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>4</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Canada</td>     </tr>     <tr>       <th>Alliaria petiole</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis</th>       <td>1</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>3</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>1</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>2</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>1</td>     </tr>     <tr>       <th>Alliaria petiole.1</th>       <td>1</td>     </tr>     <tr>       <th>Spartina alterniflora</th>       <td>1</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>1</td>     </tr>     <tr>       <th>Triadica sebifera</th>       <td>1</td>     </tr>     <tr>       <th>common reed</th>       <td>2</td>     </tr>     <tr>       <th>Bromus tectorum.1</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_5d1d587e4308456abf62a7b462cc21ad.setContent(html_1cd65bfc73eb4af99701f49554ab8f13);
+        
+
+        marker_db8f3294aa5648d4af6e265c3af2c6e7.bindPopup(popup_5d1d587e4308456abf62a7b462cc21ad)
+        ;
+
+        
+    
+    
+            var marker_4044e26986d24a3283e6f7d27407dbbc = L.marker(
+                [22.3511148, 78.6677428],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_92edcf9afb7849d5ac58c66b2eec78c7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_4044e26986d24a3283e6f7d27407dbbc.setIcon(icon_92edcf9afb7849d5ac58c66b2eec78c7);
+        
+    
+        var popup_3872944ca10e4ceca83f29432940f1c3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8a29d1fd01b040e29a477503102ca357 = $(`<div id="html_8a29d1fd01b040e29a477503102ca357" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>5</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>India</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>1</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>2</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>1</td>     </tr>     <tr>       <th>Alliaria petiole.1</th>       <td>1</td>     </tr>     <tr>       <th>Triadica sebifera</th>       <td>1</td>     </tr>     <tr>       <th>common reed</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_3872944ca10e4ceca83f29432940f1c3.setContent(html_8a29d1fd01b040e29a477503102ca357);
+        
+
+        marker_4044e26986d24a3283e6f7d27407dbbc.bindPopup(popup_3872944ca10e4ceca83f29432940f1c3)
+        ;
+
+        
+    
+    
+            var marker_e85343e2ab0e45a48fa4c9cd5461dafa = L.marker(
+                [51.0834196, 10.4234469],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_ce75b34a7cc04b2784b939c6db16d857 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_e85343e2ab0e45a48fa4c9cd5461dafa.setIcon(icon_ce75b34a7cc04b2784b939c6db16d857);
+        
+    
+        var popup_86349108a9404b49b10d602823873ac1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9a41c73055ff41d88b0d11f71f656691 = $(`<div id="html_9a41c73055ff41d88b0d11f71f656691" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>6</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Germany</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>1</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>1</td>     </tr>     <tr>       <th>Spartina alterniflora</th>       <td>1</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>1</td>     </tr>     <tr>       <th>Triadica sebifera</th>       <td>2</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_86349108a9404b49b10d602823873ac1.setContent(html_9a41c73055ff41d88b0d11f71f656691);
+        
+
+        marker_e85343e2ab0e45a48fa4c9cd5461dafa.bindPopup(popup_86349108a9404b49b10d602823873ac1)
+        ;
+
+        
+    
+    
+            var marker_13cd8a491e3f4388ae7828bc0b7a3028 = L.marker(
+                [-41.5000831, 172.8344077],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_880a696e5f274c4d90ecfe03e95f7873 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_13cd8a491e3f4388ae7828bc0b7a3028.setIcon(icon_880a696e5f274c4d90ecfe03e95f7873);
+        
+    
+        var popup_7df8f8ffc7df4d6681d941c284ecdec7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2a333001a9184ecdb632aa537a5ab7e5 = $(`<div id="html_2a333001a9184ecdb632aa537a5ab7e5" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>7</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>New Zealand</td>     </tr>     <tr>       <th>Alliaria petiole</th>       <td>2</td>     </tr>     <tr>       <th>Prosopis</th>       <td>1</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>2</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>1</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>3</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>2</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>1</td>     </tr>     <tr>       <th>Mikania micrantha</th>       <td>1</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>1</td>     </tr>     <tr>       <th>Triadica sebifera</th>       <td>2</td>     </tr>     <tr>       <th>Bromus tectorum.1</th>       <td>1</td>     </tr>     <tr>       <th>Bidens pilosa</th>       <td>1</td>     </tr>     <tr>       <th>Lythrum salicaria</th>       <td>1</td>     </tr>     <tr>       <th>Cabomba caroliniana</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_7df8f8ffc7df4d6681d941c284ecdec7.setContent(html_2a333001a9184ecdb632aa537a5ab7e5);
+        
+
+        marker_13cd8a491e3f4388ae7828bc0b7a3028.bindPopup(popup_7df8f8ffc7df4d6681d941c284ecdec7)
+        ;
+
+        
+    
+    
+            var marker_d4f705b1dac948f38c87f2b0e6c112b6 = L.marker(
+                [-28.8166236, 24.991639],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_b89ed7648e4f4a27a7fdad7a1086e374 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_d4f705b1dac948f38c87f2b0e6c112b6.setIcon(icon_b89ed7648e4f4a27a7fdad7a1086e374);
+        
+    
+        var popup_9fd253a8c5ea4cbcb03d00153e806e66 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b4f020e151f842b39944eeec3d4c97d6 = $(`<div id="html_b4f020e151f842b39944eeec3d4c97d6" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>8</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>South Africa</td>     </tr>     <tr>       <th>Prosopis</th>       <td>1</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>1</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>1</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Cenchrus ciliaris</th>       <td>1</td>     </tr>     <tr>       <th>Lythrum salicaria</th>       <td>2</td>     </tr>     <tr>       <th>Cabomba caroliniana</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_9fd253a8c5ea4cbcb03d00153e806e66.setContent(html_b4f020e151f842b39944eeec3d4c97d6);
+        
+
+        marker_d4f705b1dac948f38c87f2b0e6c112b6.bindPopup(popup_9fd253a8c5ea4cbcb03d00153e806e66)
+        ;
+
+        
+    
+    
+            var marker_cf2f27922f1941419ab617fa7fcd6199 = L.marker(
+                [-28.8166236, 24.991639],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_ed5d8d99b9c84d849065f4a8f3e45401 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_cf2f27922f1941419ab617fa7fcd6199.setIcon(icon_ed5d8d99b9c84d849065f4a8f3e45401);
+        
+    
+        var popup_3386dce1f144427494f930c8b05f28a3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_38d30ca36253465cb6086aeee46f3c07 = $(`<div id="html_38d30ca36253465cb6086aeee46f3c07" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>9</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>South Africa</td>     </tr>     <tr>       <th>Alliaria petiole</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis</th>       <td>2</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>2</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>2</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>1</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>1</td>     </tr>     <tr>       <th>Spartina alterniflora</th>       <td>2</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>1</td>     </tr>     <tr>       <th>Cenchrus ciliaris</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_3386dce1f144427494f930c8b05f28a3.setContent(html_38d30ca36253465cb6086aeee46f3c07);
+        
+
+        marker_cf2f27922f1941419ab617fa7fcd6199.bindPopup(popup_3386dce1f144427494f930c8b05f28a3)
+        ;
+
+        
+    
+    
+            var marker_c4323d3216c0431aaa285b5b14cea7d6 = L.marker(
+                [1.4419683, 38.4313975],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_2136a698987742828b4b1ff0f272c157 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_c4323d3216c0431aaa285b5b14cea7d6.setIcon(icon_2136a698987742828b4b1ff0f272c157);
+        
+    
+        var popup_fea4d162d0ef459380b131b84c0d6c3a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_56604b3984604a6d827e206d90cfcce0 = $(`<div id="html_56604b3984604a6d827e206d90cfcce0" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>10</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Kenya</td>     </tr>     <tr>       <th>Prosopis</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>2</td>     </tr>     <tr>       <th>Cenchrus ciliaris</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_fea4d162d0ef459380b131b84c0d6c3a.setContent(html_56604b3984604a6d827e206d90cfcce0);
+        
+
+        marker_c4323d3216c0431aaa285b5b14cea7d6.bindPopup(popup_fea4d162d0ef459380b131b84c0d6c3a)
+        ;
+
+        
+    
+    
+            var marker_436d40ed68574827808ed15d1ad51456 = L.marker(
+                [25.6242618, 42.3528328],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_36c1714ee9ad441f8173ba9e35ccc98a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_436d40ed68574827808ed15d1ad51456.setIcon(icon_36c1714ee9ad441f8173ba9e35ccc98a);
+        
+    
+        var popup_c5340beabe4d404e951c4f86b787d069 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_62688738b6d34281a6e548a840d0d907 = $(`<div id="html_62688738b6d34281a6e548a840d0d907" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>11</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Saudi Arabia</td>     </tr>     <tr>       <th>Prosopis</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>2</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>1</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>1</td>     </tr>     <tr>       <th>Nicotiana glauca</th>       <td>2</td>     </tr>     <tr>       <th>Cenchrus ciliaris</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_c5340beabe4d404e951c4f86b787d069.setContent(html_62688738b6d34281a6e548a840d0d907);
+        
+
+        marker_436d40ed68574827808ed15d1ad51456.bindPopup(popup_c5340beabe4d404e951c4f86b787d069)
+        ;
+
+        
+    
+    
+            var marker_f64d04f86ccc48b195cc6bb46c6f806f = L.marker(
+                [46.603354, 1.8883335],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_80185aafe0df49189527a955e7cadfd7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_f64d04f86ccc48b195cc6bb46c6f806f.setIcon(icon_80185aafe0df49189527a955e7cadfd7);
+        
+    
+        var popup_fa4cae7b1f7a445d9bce93e0b8988d8e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_95048e776c764c17972f42fa899c03ee = $(`<div id="html_95048e776c764c17972f42fa899c03ee" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>12</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>France</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>1</td>     </tr>     <tr>       <th>Triadica sebifera</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_fa4cae7b1f7a445d9bce93e0b8988d8e.setContent(html_95048e776c764c17972f42fa899c03ee);
+        
+
+        marker_f64d04f86ccc48b195cc6bb46c6f806f.bindPopup(popup_fa4cae7b1f7a445d9bce93e0b8988d8e)
+        ;
+
+        
+    
+    
+            var marker_7b2dea0ccddb428394ed0c864109efee = L.marker(
+                [-34.9964963, -64.9672817],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_7fe816fed35d4612b34d0fc8a387e178 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_7b2dea0ccddb428394ed0c864109efee.setIcon(icon_7fe816fed35d4612b34d0fc8a387e178);
+        
+    
+        var popup_70baa2baa2d644f79736fccf69cbb13a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b6a23d30e0ef4b949f0d5423d9441acf = $(`<div id="html_b6a23d30e0ef4b949f0d5423d9441acf" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>13</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Argentina</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>1</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>2</td>     </tr>     <tr>       <th>Nicotiana glauca</th>       <td>1</td>     </tr>     <tr>       <th>Bromus tectorum.1</th>       <td>1</td>     </tr>     <tr>       <th>Cenchrus ciliaris</th>       <td>1</td>     </tr>     <tr>       <th>Lythrum salicaria</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_70baa2baa2d644f79736fccf69cbb13a.setContent(html_b6a23d30e0ef4b949f0d5423d9441acf);
+        
+
+        marker_7b2dea0ccddb428394ed0c864109efee.bindPopup(popup_70baa2baa2d644f79736fccf69cbb13a)
+        ;
+
+        
+    
+    
+            var marker_da5845798c4c43048fca7f2ffeebcb0a = L.marker(
+                [39.3260685, -4.8379791],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_53a12ea45d35437eacfd5c93962a79fc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_da5845798c4c43048fca7f2ffeebcb0a.setIcon(icon_53a12ea45d35437eacfd5c93962a79fc);
+        
+    
+        var popup_b43660fb23744f5e9ad77e2dbb8d1678 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_910c07d0cd1649a6b9c3ceccdc088aed = $(`<div id="html_910c07d0cd1649a6b9c3ceccdc088aed" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>14</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Spain</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_b43660fb23744f5e9ad77e2dbb8d1678.setContent(html_910c07d0cd1649a6b9c3ceccdc088aed);
+        
+
+        marker_da5845798c4c43048fca7f2ffeebcb0a.bindPopup(popup_b43660fb23744f5e9ad77e2dbb8d1678)
+        ;
+
+        
+    
+    
+            var marker_579ac3fb73564b95a74fabdc4b05fdbe = L.marker(
+                [5.5572772, -0.1958521],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_840393d8939347a0987ff87d0502e895 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_579ac3fb73564b95a74fabdc4b05fdbe.setIcon(icon_840393d8939347a0987ff87d0502e895);
+        
+    
+        var popup_c414a22fc2b64f31b35ba3b160a2020d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6d7d296cafc448a08222db90b76b53a2 = $(`<div id="html_6d7d296cafc448a08222db90b76b53a2" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>15</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Ethopia</td>     </tr>     <tr>       <th>Prosopis</th>       <td>2</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>3</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>1</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>2</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>1</td>     </tr>     <tr>       <th>Bidens pilosa</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_c414a22fc2b64f31b35ba3b160a2020d.setContent(html_6d7d296cafc448a08222db90b76b53a2);
+        
+
+        marker_579ac3fb73564b95a74fabdc4b05fdbe.bindPopup(popup_c414a22fc2b64f31b35ba3b160a2020d)
+        ;
+
+        
+    
+    
+            var marker_8d12e65358724709af6ce2e4cf500a1b = L.marker(
+                [52.215933, 19.134422],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_fbee1aea8b914ae68b121cf568533c46 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_8d12e65358724709af6ce2e4cf500a1b.setIcon(icon_fbee1aea8b914ae68b121cf568533c46);
+        
+    
+        var popup_683620b09c42466f8426c874823d5880 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1d7e98c242144be390649fb070644da7 = $(`<div id="html_1d7e98c242144be390649fb070644da7" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>16</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Poland</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_683620b09c42466f8426c874823d5880.setContent(html_1d7e98c242144be390649fb070644da7);
+        
+
+        marker_8d12e65358724709af6ce2e4cf500a1b.bindPopup(popup_683620b09c42466f8426c874823d5880)
+        ;
+
+        
+    
+    
+            var marker_b8515bd7f1784ebcbf94d93c5bc962db = L.marker(
+                [7.5554942, 80.7137847],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_d54ba303a3374817acf5b7a564175604 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_b8515bd7f1784ebcbf94d93c5bc962db.setIcon(icon_d54ba303a3374817acf5b7a564175604);
+        
+    
+        var popup_990c3ae387c24d70815fe5f1b1435e90 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6d74ded118104fdd833e85aa7e8d32d5 = $(`<div id="html_6d74ded118104fdd833e85aa7e8d32d5" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>17</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Sri Lanka</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>1</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>1</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>1</td>     </tr>     <tr>       <th>Mikania micrantha</th>       <td>1</td>     </tr>     <tr>       <th>Spartina alterniflora</th>       <td>1</td>     </tr>     <tr>       <th>Nicotiana glauca</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_990c3ae387c24d70815fe5f1b1435e90.setContent(html_6d74ded118104fdd833e85aa7e8d32d5);
+        
+
+        marker_b8515bd7f1784ebcbf94d93c5bc962db.bindPopup(popup_990c3ae387c24d70815fe5f1b1435e90)
+        ;
+
+        
+    
+    
+            var marker_524960175606484eae10c9132fae0f49 = L.marker(
+                [52.5001698, 5.7480821],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_9cebd32f4cd44211866204a16f1fa36a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_524960175606484eae10c9132fae0f49.setIcon(icon_9cebd32f4cd44211866204a16f1fa36a);
+        
+    
+        var popup_6fee1c894aea497caca68e1cc9e9103f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_76aba5ce836a42f095d7544891525302 = $(`<div id="html_76aba5ce836a42f095d7544891525302" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>18</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Netherlands</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>1</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>2</td>     </tr>     <tr>       <th>Mikania micrantha</th>       <td>1</td>     </tr>     <tr>       <th>Bidens pilosa</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_6fee1c894aea497caca68e1cc9e9103f.setContent(html_76aba5ce836a42f095d7544891525302);
+        
+
+        marker_524960175606484eae10c9132fae0f49.bindPopup(popup_6fee1c894aea497caca68e1cc9e9103f)
+        ;
+
+        
+    
+    
+            var marker_ad88e5cc1a6949418f12d3c350ca6710 = L.marker(
+                [38.9953683, 21.9877132],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_b8ae3f915d4c4ded9ba506aa8615255a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_ad88e5cc1a6949418f12d3c350ca6710.setIcon(icon_b8ae3f915d4c4ded9ba506aa8615255a);
+        
+    
+        var popup_4bc49e2caf3945bea7c134ab5a37a2ab = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4e8aa9ee556e4e258a7c6af78c81463f = $(`<div id="html_4e8aa9ee556e4e258a7c6af78c81463f" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>19</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Greece</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_4bc49e2caf3945bea7c134ab5a37a2ab.setContent(html_4e8aa9ee556e4e258a7c6af78c81463f);
+        
+
+        marker_ad88e5cc1a6949418f12d3c350ca6710.bindPopup(popup_4bc49e2caf3945bea7c134ab5a37a2ab)
+        ;
+
+        
+    
+    
+            var marker_6b0bee9a56c44274a6e595fdbd9e445c = L.marker(
+                [-28.8166236, 24.991639],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_d322aa0ec6c047dcb50e432427d5d9ae = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_6b0bee9a56c44274a6e595fdbd9e445c.setIcon(icon_d322aa0ec6c047dcb50e432427d5d9ae);
+        
+    
+        var popup_6fa34deb7d1c40d689cd7928b2a23cbe = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3f844339114348bcb865739917abb21a = $(`<div id="html_3f844339114348bcb865739917abb21a" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>20</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>South Africa</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>1</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>1</td>     </tr>     <tr>       <th>common reed</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_6fa34deb7d1c40d689cd7928b2a23cbe.setContent(html_3f844339114348bcb865739917abb21a);
+        
+
+        marker_6b0bee9a56c44274a6e595fdbd9e445c.bindPopup(popup_6fa34deb7d1c40d689cd7928b2a23cbe)
+        ;
+
+        
+    
+    
+            var marker_6a369c1eb4304e0bacdf40386e37af4c = L.marker(
+                [49.8167003, 15.4749544],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_6ffed64f2005411e915fd9dc7f3352f2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_6a369c1eb4304e0bacdf40386e37af4c.setIcon(icon_6ffed64f2005411e915fd9dc7f3352f2);
+        
+    
+        var popup_2817e8c02d7445eeb9da556d10b82bd5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_cbdb12c004484408b6832a3f1c28f852 = $(`<div id="html_cbdb12c004484408b6832a3f1c28f852" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>21</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Czech Republic</td>     </tr>     <tr>       <th>Alliaria petiole</th>       <td>1</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>1</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>1</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>1</td>     </tr>     <tr>       <th>Cabomba caroliniana</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_2817e8c02d7445eeb9da556d10b82bd5.setContent(html_cbdb12c004484408b6832a3f1c28f852);
+        
+
+        marker_6a369c1eb4304e0bacdf40386e37af4c.bindPopup(popup_2817e8c02d7445eeb9da556d10b82bd5)
+        ;
+
+        
+    
+    
+            var marker_3cf966b9a38a4d2fbf23e51cd4737299 = L.marker(
+                [38.9597594, 34.9249653],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_5d0a19c7bb5040d8a669d132614dd519 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_3cf966b9a38a4d2fbf23e51cd4737299.setIcon(icon_5d0a19c7bb5040d8a669d132614dd519);
+        
+    
+        var popup_6b56a03474f448cbb37d2d4a2a6d2398 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8fdc09a6c9764b2b8218f86f77701c31 = $(`<div id="html_8fdc09a6c9764b2b8218f86f77701c31" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>22</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Turkey</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_6b56a03474f448cbb37d2d4a2a6d2398.setContent(html_8fdc09a6c9764b2b8218f86f77701c31);
+        
+
+        marker_3cf966b9a38a4d2fbf23e51cd4737299.bindPopup(popup_6b56a03474f448cbb37d2d4a2a6d2398)
+        ;
+
+        
+    
+    
+            var marker_2aaf56db3998456ab0f01381d3b8ce01 = L.marker(
+                [18.2214149, -66.4132818],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_e2a2c5aebb5047a382b932589b60ae8c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_2aaf56db3998456ab0f01381d3b8ce01.setIcon(icon_e2a2c5aebb5047a382b932589b60ae8c);
+        
+    
+        var popup_700db86d25a24ad3bf327578daa37c6f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0bfda600fe6d44418addcb5b9e0fedc5 = $(`<div id="html_0bfda600fe6d44418addcb5b9e0fedc5" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>23</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Puerto Rico</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_700db86d25a24ad3bf327578daa37c6f.setContent(html_0bfda600fe6d44418addcb5b9e0fedc5);
+        
+
+        marker_2aaf56db3998456ab0f01381d3b8ce01.bindPopup(popup_700db86d25a24ad3bf327578daa37c6f)
+        ;
+
+        
+    
+    
+            var marker_f1949cd313874f98963b22b16b251806 = L.marker(
+                [54.7023545, -3.2765753],
+                {}
+            ).addTo(map_1fb045a6d93d4051a6bc5d5006ff884c);
+        
+    
+            var icon_ccf4c0bd794843ffacf34fdb687705df = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "default", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_f1949cd313874f98963b22b16b251806.setIcon(icon_ccf4c0bd794843ffacf34fdb687705df);
+        
+    
+        var popup_76ec9cb5ec78442baf4c4695a6ad67e4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_853337997f80491bb8389717dcce057c = $(`<div id="html_853337997f80491bb8389717dcce057c" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>24</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>United Kingdom</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>1</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_76ec9cb5ec78442baf4c4695a6ad67e4.setContent(html_853337997f80491bb8389717dcce057c);
+        
+
+        marker_f1949cd313874f98963b22b16b251806.bindPopup(popup_76ec9cb5ec78442baf4c4695a6ad67e4)
+        ;
+
+        
+    
+</script>

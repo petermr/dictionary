@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_f996a216bf0d445e986d9b795d49cc9d {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_f996a216bf0d445e986d9b795d49cc9d" ></div>
+        
+</body>
+<script>    
+    
+            var map_f996a216bf0d445e986d9b795d49cc9d = L.map(
+                "map_f996a216bf0d445e986d9b795d49cc9d",
+                {
+                    center: [0, 0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 1,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_540fbbe47bb146ce8551987825e2734d = L.tileLayer(
+                "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"http://cartodb.com/attributions\"\u003eCartoDB\u003c/a\u003e, CartoDB \u003ca href =\"http://cartodb.com/attributions\"\u003eattributions\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_f996a216bf0d445e986d9b795d49cc9d);
+        
+    
+            var marker_cluster_6418db5447a3456e9ceb334d52e01d75 = L.markerClusterGroup(
+                {}
+            );
+            map_f996a216bf0d445e986d9b795d49cc9d.addLayer(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+            var circle_marker_72cff2c26436433d8ef95cfd86093c39 = L.circleMarker(
+                [39.7837304, -100.4458825],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_4fcfa9ecba5645bca3a32baadf1f874a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_22a3c1981163439cb0e21d5511c2b39f = $(`<div id="html_22a3c1981163439cb0e21d5511c2b39f" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>0</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>United States</td>     </tr>     <tr>       <th>Alliaria petiole</th>       <td>4</td>     </tr>     <tr>       <th>Prosopis</th>       <td>3</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>6</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>3</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>2</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>1</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>4</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>2</td>     </tr>     <tr>       <th>Ageratina adenophores</th>       <td>4</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>2</td>     </tr>     <tr>       <th>Alliaria petiole.1</th>       <td>2</td>     </tr>     <tr>       <th>Mikania micrantha</th>       <td>2</td>     </tr>     <tr>       <th>Microstegium vimineum</th>       <td>2</td>     </tr>     <tr>       <th>Spartina alterniflora</th>       <td>1</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>3</td>     </tr>     <tr>       <th>Triadica sebifera</th>       <td>3</td>     </tr>     <tr>       <th>common reed</th>       <td>2</td>     </tr>     <tr>       <th>Bromus tectorum.1</th>       <td>2</td>     </tr>     <tr>       <th>Bidens pilosa</th>       <td>1</td>     </tr>     <tr>       <th>Cenchrus ciliaris</th>       <td>1</td>     </tr>     <tr>       <th>Lythrum salicaria</th>       <td>1</td>     </tr>     <tr>       <th>Cabomba caroliniana</th>       <td>2</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_4fcfa9ecba5645bca3a32baadf1f874a.setContent(html_22a3c1981163439cb0e21d5511c2b39f);
+        
+
+        circle_marker_72cff2c26436433d8ef95cfd86093c39.bindPopup(popup_4fcfa9ecba5645bca3a32baadf1f874a)
+        ;
+
+        
+    
+    
+            var circle_marker_89d795ea32e24b8b9f0591aff5d39b56 = L.circleMarker(
+                [35.000074, 104.999927],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_704310fbf57c48299c262665760c571f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_10f7fc7e20054733a88a22266295c31e = $(`<div id="html_10f7fc7e20054733a88a22266295c31e" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>1</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>China</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>3</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>3</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>2</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>1</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Ageratina adenophores</th>       <td>3</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>1</td>     </tr>     <tr>       <th>Mikania micrantha</th>       <td>3</td>     </tr>     <tr>       <th>Spartina alterniflora</th>       <td>2</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>4</td>     </tr>     <tr>       <th>Triadica sebifera</th>       <td>1</td>     </tr>     <tr>       <th>Bidens pilosa</th>       <td>2</td>     </tr>     <tr>       <th>Cabomba caroliniana</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_704310fbf57c48299c262665760c571f.setContent(html_10f7fc7e20054733a88a22266295c31e);
+        
+
+        circle_marker_89d795ea32e24b8b9f0591aff5d39b56.bindPopup(popup_704310fbf57c48299c262665760c571f)
+        ;
+
+        
+    
+    
+            var circle_marker_44f67905a0c843beb4017b499b1e0cf3 = L.circleMarker(
+                [-24.7761086, 134.755],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_a2280f67b8bd4f99ab4dacc21c5e4b68 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b0fc19e412424c8ea6c80e2d086ab30c = $(`<div id="html_b0fc19e412424c8ea6c80e2d086ab30c" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>2</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Australia</td>     </tr>     <tr>       <th>Prosopis</th>       <td>1</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>4</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>3</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>2</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>3</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>1</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>2</td>     </tr>     <tr>       <th>Mikania micrantha</th>       <td>1</td>     </tr>     <tr>       <th>Spartina alterniflora</th>       <td>1</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>1</td>     </tr>     <tr>       <th>common reed</th>       <td>2</td>     </tr>     <tr>       <th>Bidens pilosa</th>       <td>1</td>     </tr>     <tr>       <th>Cenchrus ciliaris</th>       <td>1</td>     </tr>     <tr>       <th>Lythrum salicaria</th>       <td>1</td>     </tr>     <tr>       <th>Cabomba caroliniana</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_a2280f67b8bd4f99ab4dacc21c5e4b68.setContent(html_b0fc19e412424c8ea6c80e2d086ab30c);
+        
+
+        circle_marker_44f67905a0c843beb4017b499b1e0cf3.bindPopup(popup_a2280f67b8bd4f99ab4dacc21c5e4b68)
+        ;
+
+        
+    
+    
+            var circle_marker_6601599daea740669a15f41518b56b05 = L.circleMarker(
+                [39.7837304, -100.4458825],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_dd81f9072cf64c07a5ce4432e7f73ad2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_41a0d7be171049609d9c296a49f4f802 = $(`<div id="html_41a0d7be171049609d9c296a49f4f802" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>3</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>United states</td>     </tr>     <tr>       <th>Alliaria petiole</th>       <td>3</td>     </tr>     <tr>       <th>Prosopis</th>       <td>1</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>2</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Ageratina adenophores</th>       <td>2</td>     </tr>     <tr>       <th>Alliaria petiole.1</th>       <td>3</td>     </tr>     <tr>       <th>Microstegium vimineum</th>       <td>2</td>     </tr>     <tr>       <th>common reed</th>       <td>1</td>     </tr>     <tr>       <th>Bromus tectorum.1</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_dd81f9072cf64c07a5ce4432e7f73ad2.setContent(html_41a0d7be171049609d9c296a49f4f802);
+        
+
+        circle_marker_6601599daea740669a15f41518b56b05.bindPopup(popup_dd81f9072cf64c07a5ce4432e7f73ad2)
+        ;
+
+        
+    
+    
+            var circle_marker_c72594afc67b47008431d59a9b939253 = L.circleMarker(
+                [61.0666922, -107.991707],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_3bde2d6f0d8f412e9ae5bb95bfe1e237 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0f04d23e1f3a40c58e6b471040198330 = $(`<div id="html_0f04d23e1f3a40c58e6b471040198330" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>4</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Canada</td>     </tr>     <tr>       <th>Alliaria petiole</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis</th>       <td>1</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>3</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>1</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>2</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>1</td>     </tr>     <tr>       <th>Alliaria petiole.1</th>       <td>1</td>     </tr>     <tr>       <th>Spartina alterniflora</th>       <td>1</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>1</td>     </tr>     <tr>       <th>Triadica sebifera</th>       <td>1</td>     </tr>     <tr>       <th>common reed</th>       <td>2</td>     </tr>     <tr>       <th>Bromus tectorum.1</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_3bde2d6f0d8f412e9ae5bb95bfe1e237.setContent(html_0f04d23e1f3a40c58e6b471040198330);
+        
+
+        circle_marker_c72594afc67b47008431d59a9b939253.bindPopup(popup_3bde2d6f0d8f412e9ae5bb95bfe1e237)
+        ;
+
+        
+    
+    
+            var circle_marker_738723678cd14042b367523333fe5a23 = L.circleMarker(
+                [22.3511148, 78.6677428],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_76969763bddb4733a2842b384fe73bd1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_592efc79add9419586072088e760d10f = $(`<div id="html_592efc79add9419586072088e760d10f" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>5</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>India</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>1</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>2</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>1</td>     </tr>     <tr>       <th>Alliaria petiole.1</th>       <td>1</td>     </tr>     <tr>       <th>Triadica sebifera</th>       <td>1</td>     </tr>     <tr>       <th>common reed</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_76969763bddb4733a2842b384fe73bd1.setContent(html_592efc79add9419586072088e760d10f);
+        
+
+        circle_marker_738723678cd14042b367523333fe5a23.bindPopup(popup_76969763bddb4733a2842b384fe73bd1)
+        ;
+
+        
+    
+    
+            var circle_marker_28f61d780ecc482b871cb1a6488bf198 = L.circleMarker(
+                [51.0834196, 10.4234469],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_63bee1d551f74b53bcaabac55820c254 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b58656cad9424a95919c9560b435b5af = $(`<div id="html_b58656cad9424a95919c9560b435b5af" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>6</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Germany</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>1</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>1</td>     </tr>     <tr>       <th>Spartina alterniflora</th>       <td>1</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>1</td>     </tr>     <tr>       <th>Triadica sebifera</th>       <td>2</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_63bee1d551f74b53bcaabac55820c254.setContent(html_b58656cad9424a95919c9560b435b5af);
+        
+
+        circle_marker_28f61d780ecc482b871cb1a6488bf198.bindPopup(popup_63bee1d551f74b53bcaabac55820c254)
+        ;
+
+        
+    
+    
+            var circle_marker_ff88c89b737243f8829aa2047a248804 = L.circleMarker(
+                [-41.5000831, 172.8344077],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_96768bdcd1af4bba9730fd1311e6071b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e6b93fae8e6d477c8f352375e9e9c6b5 = $(`<div id="html_e6b93fae8e6d477c8f352375e9e9c6b5" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>7</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>New Zealand</td>     </tr>     <tr>       <th>Alliaria petiole</th>       <td>2</td>     </tr>     <tr>       <th>Prosopis</th>       <td>1</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>2</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>1</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>3</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>2</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>1</td>     </tr>     <tr>       <th>Mikania micrantha</th>       <td>1</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>1</td>     </tr>     <tr>       <th>Triadica sebifera</th>       <td>2</td>     </tr>     <tr>       <th>Bromus tectorum.1</th>       <td>1</td>     </tr>     <tr>       <th>Bidens pilosa</th>       <td>1</td>     </tr>     <tr>       <th>Lythrum salicaria</th>       <td>1</td>     </tr>     <tr>       <th>Cabomba caroliniana</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_96768bdcd1af4bba9730fd1311e6071b.setContent(html_e6b93fae8e6d477c8f352375e9e9c6b5);
+        
+
+        circle_marker_ff88c89b737243f8829aa2047a248804.bindPopup(popup_96768bdcd1af4bba9730fd1311e6071b)
+        ;
+
+        
+    
+    
+            var circle_marker_250a82bbdc5c4f67af77465bea14d821 = L.circleMarker(
+                [-28.8166236, 24.991639],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_7641c7c0232948ab896f8049188d54ab = L.popup({"maxWidth": "100%"});
+
+        
+            var html_91ced9207b4f40b5977a01b6e3e3574b = $(`<div id="html_91ced9207b4f40b5977a01b6e3e3574b" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>8</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>South Africa</td>     </tr>     <tr>       <th>Prosopis</th>       <td>1</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>1</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>1</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Cenchrus ciliaris</th>       <td>1</td>     </tr>     <tr>       <th>Lythrum salicaria</th>       <td>2</td>     </tr>     <tr>       <th>Cabomba caroliniana</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_7641c7c0232948ab896f8049188d54ab.setContent(html_91ced9207b4f40b5977a01b6e3e3574b);
+        
+
+        circle_marker_250a82bbdc5c4f67af77465bea14d821.bindPopup(popup_7641c7c0232948ab896f8049188d54ab)
+        ;
+
+        
+    
+    
+            var circle_marker_31968d2bc1984d1c9416d89161891246 = L.circleMarker(
+                [-28.8166236, 24.991639],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_0f90bfa6b08a42618fe1a1cafae69f3d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_adb0490b636b498f89f705703e5d619c = $(`<div id="html_adb0490b636b498f89f705703e5d619c" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>9</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>South Africa</td>     </tr>     <tr>       <th>Alliaria petiole</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis</th>       <td>2</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>2</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>2</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>1</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>1</td>     </tr>     <tr>       <th>Spartina alterniflora</th>       <td>2</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>1</td>     </tr>     <tr>       <th>Cenchrus ciliaris</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_0f90bfa6b08a42618fe1a1cafae69f3d.setContent(html_adb0490b636b498f89f705703e5d619c);
+        
+
+        circle_marker_31968d2bc1984d1c9416d89161891246.bindPopup(popup_0f90bfa6b08a42618fe1a1cafae69f3d)
+        ;
+
+        
+    
+    
+            var circle_marker_007f7582090e444a86730145db1e6df1 = L.circleMarker(
+                [1.4419683, 38.4313975],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_d889f4f66b6d4b61a76d90b71e884cbc = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3481929d38944ebdb63c73a6a81c2e66 = $(`<div id="html_3481929d38944ebdb63c73a6a81c2e66" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>10</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Kenya</td>     </tr>     <tr>       <th>Prosopis</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>2</td>     </tr>     <tr>       <th>Cenchrus ciliaris</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_d889f4f66b6d4b61a76d90b71e884cbc.setContent(html_3481929d38944ebdb63c73a6a81c2e66);
+        
+
+        circle_marker_007f7582090e444a86730145db1e6df1.bindPopup(popup_d889f4f66b6d4b61a76d90b71e884cbc)
+        ;
+
+        
+    
+    
+            var circle_marker_2f11350ff12d4f26a033408acaa4bea0 = L.circleMarker(
+                [25.6242618, 42.3528328],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_ff0485bf6f8b4cc09a0bdd800f57b0a9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0511d12db3fd4d0b9c77df761bc07efe = $(`<div id="html_0511d12db3fd4d0b9c77df761bc07efe" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>11</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Saudi Arabia</td>     </tr>     <tr>       <th>Prosopis</th>       <td>1</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>2</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>1</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>1</td>     </tr>     <tr>       <th>Nicotiana glauca</th>       <td>2</td>     </tr>     <tr>       <th>Cenchrus ciliaris</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_ff0485bf6f8b4cc09a0bdd800f57b0a9.setContent(html_0511d12db3fd4d0b9c77df761bc07efe);
+        
+
+        circle_marker_2f11350ff12d4f26a033408acaa4bea0.bindPopup(popup_ff0485bf6f8b4cc09a0bdd800f57b0a9)
+        ;
+
+        
+    
+    
+            var circle_marker_b206cf9f191a4484b5ded7eb057f0289 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_af467831651f494abf014234a504a17b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5affcc5eab9844b48b1eb09bec2db953 = $(`<div id="html_5affcc5eab9844b48b1eb09bec2db953" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>12</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>France</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>1</td>     </tr>     <tr>       <th>Triadica sebifera</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_af467831651f494abf014234a504a17b.setContent(html_5affcc5eab9844b48b1eb09bec2db953);
+        
+
+        circle_marker_b206cf9f191a4484b5ded7eb057f0289.bindPopup(popup_af467831651f494abf014234a504a17b)
+        ;
+
+        
+    
+    
+            var circle_marker_32803e0405674bb5935bc919401dec50 = L.circleMarker(
+                [-34.9964963, -64.9672817],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_596f3ce1e53e4e418bd78a2b626218d1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8b54677cb4bf4f67861b1d3bb6bc22c8 = $(`<div id="html_8b54677cb4bf4f67861b1d3bb6bc22c8" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>13</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Argentina</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>1</td>     </tr>     <tr>       <th>Bromus tectorum</th>       <td>2</td>     </tr>     <tr>       <th>Nicotiana glauca</th>       <td>1</td>     </tr>     <tr>       <th>Bromus tectorum.1</th>       <td>1</td>     </tr>     <tr>       <th>Cenchrus ciliaris</th>       <td>1</td>     </tr>     <tr>       <th>Lythrum salicaria</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_596f3ce1e53e4e418bd78a2b626218d1.setContent(html_8b54677cb4bf4f67861b1d3bb6bc22c8);
+        
+
+        circle_marker_32803e0405674bb5935bc919401dec50.bindPopup(popup_596f3ce1e53e4e418bd78a2b626218d1)
+        ;
+
+        
+    
+    
+            var circle_marker_bf2f92ca424244e0bafe64cd3b87f300 = L.circleMarker(
+                [39.3260685, -4.8379791],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_8bc997b747054a92bc4310cd370a8f53 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5068157a5c5141beb73e170cccf879ec = $(`<div id="html_5068157a5c5141beb73e170cccf879ec" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>14</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Spain</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_8bc997b747054a92bc4310cd370a8f53.setContent(html_5068157a5c5141beb73e170cccf879ec);
+        
+
+        circle_marker_bf2f92ca424244e0bafe64cd3b87f300.bindPopup(popup_8bc997b747054a92bc4310cd370a8f53)
+        ;
+
+        
+    
+    
+            var circle_marker_da7e6843840e4027b7d251499983ce5d = L.circleMarker(
+                [5.5572772, -0.1958521],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_3da5bba0895e4595899f98e0975ddfce = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c8a0d3b16e894d138537861bd20aac0a = $(`<div id="html_c8a0d3b16e894d138537861bd20aac0a" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>15</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Ethopia</td>     </tr>     <tr>       <th>Prosopis</th>       <td>2</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>3</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>1</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>2</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>1</td>     </tr>     <tr>       <th>Bidens pilosa</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_3da5bba0895e4595899f98e0975ddfce.setContent(html_c8a0d3b16e894d138537861bd20aac0a);
+        
+
+        circle_marker_da7e6843840e4027b7d251499983ce5d.bindPopup(popup_3da5bba0895e4595899f98e0975ddfce)
+        ;
+
+        
+    
+    
+            var circle_marker_b77c45f4826a4397826020900ad5e2c3 = L.circleMarker(
+                [52.215933, 19.134422],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_4e85a8cf9dc543e0b44b3d04bd094bab = L.popup({"maxWidth": "100%"});
+
+        
+            var html_63c0bc6bcf5e4a10bc535ec28bfe00d9 = $(`<div id="html_63c0bc6bcf5e4a10bc535ec28bfe00d9" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>16</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Poland</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_4e85a8cf9dc543e0b44b3d04bd094bab.setContent(html_63c0bc6bcf5e4a10bc535ec28bfe00d9);
+        
+
+        circle_marker_b77c45f4826a4397826020900ad5e2c3.bindPopup(popup_4e85a8cf9dc543e0b44b3d04bd094bab)
+        ;
+
+        
+    
+    
+            var circle_marker_edbda8074752464aa7bbf34f7a45246f = L.circleMarker(
+                [7.5554942, 80.7137847],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_2357d577e7ee4a99804d9997843efe35 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_948eac83b86e404fa4462c068aa1208d = $(`<div id="html_948eac83b86e404fa4462c068aa1208d" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>17</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Sri Lanka</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>1</td>     </tr>     <tr>       <th>Parthenium hysterophorus</th>       <td>1</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>1</td>     </tr>     <tr>       <th>Mikania micrantha</th>       <td>1</td>     </tr>     <tr>       <th>Spartina alterniflora</th>       <td>1</td>     </tr>     <tr>       <th>Nicotiana glauca</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_2357d577e7ee4a99804d9997843efe35.setContent(html_948eac83b86e404fa4462c068aa1208d);
+        
+
+        circle_marker_edbda8074752464aa7bbf34f7a45246f.bindPopup(popup_2357d577e7ee4a99804d9997843efe35)
+        ;
+
+        
+    
+    
+            var circle_marker_52895370eeec41cfb06006add5c7a84a = L.circleMarker(
+                [52.5001698, 5.7480821],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_6f6dd7d0b48c48f58902babd2a0f98b9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_db302cb551984dbeb1c46ab115ea6d95 = $(`<div id="html_db302cb551984dbeb1c46ab115ea6d95" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>18</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Netherlands</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>1</td>     </tr>     <tr>       <th>Lantana camara</th>       <td>2</td>     </tr>     <tr>       <th>Mikania micrantha</th>       <td>1</td>     </tr>     <tr>       <th>Bidens pilosa</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_6f6dd7d0b48c48f58902babd2a0f98b9.setContent(html_db302cb551984dbeb1c46ab115ea6d95);
+        
+
+        circle_marker_52895370eeec41cfb06006add5c7a84a.bindPopup(popup_6f6dd7d0b48c48f58902babd2a0f98b9)
+        ;
+
+        
+    
+    
+            var circle_marker_1a60a321fb354a0d96d2319345c4b1c4 = L.circleMarker(
+                [38.9953683, 21.9877132],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_6a221a1e80f547c499b999dcefafd1ba = L.popup({"maxWidth": "100%"});
+
+        
+            var html_13508c345be04c71aa9f62dabd93db94 = $(`<div id="html_13508c345be04c71aa9f62dabd93db94" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>19</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Greece</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_6a221a1e80f547c499b999dcefafd1ba.setContent(html_13508c345be04c71aa9f62dabd93db94);
+        
+
+        circle_marker_1a60a321fb354a0d96d2319345c4b1c4.bindPopup(popup_6a221a1e80f547c499b999dcefafd1ba)
+        ;
+
+        
+    
+    
+            var circle_marker_31dcd972ec6248ab982d3a39b5e77068 = L.circleMarker(
+                [-28.8166236, 24.991639],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_e202445570a146ed9ad969c36e283763 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_10838c2cf07745a1b6b4a93291f90c1f = $(`<div id="html_10838c2cf07745a1b6b4a93291f90c1f" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>20</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>South Africa</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>1</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>1</td>     </tr>     <tr>       <th>common reed</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_e202445570a146ed9ad969c36e283763.setContent(html_10838c2cf07745a1b6b4a93291f90c1f);
+        
+
+        circle_marker_31dcd972ec6248ab982d3a39b5e77068.bindPopup(popup_e202445570a146ed9ad969c36e283763)
+        ;
+
+        
+    
+    
+            var circle_marker_b996b018ad57432888602e83ae99fd20 = L.circleMarker(
+                [49.8167003, 15.4749544],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_4117de34d5a44eb3b88f3aa5169b9774 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7256aff245b24e5ca8720ff65f854414 = $(`<div id="html_7256aff245b24e5ca8720ff65f854414" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>21</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Czech Republic</td>     </tr>     <tr>       <th>Alliaria petiole</th>       <td>1</td>     </tr>     <tr>       <th>Phragmites australis</th>       <td>1</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>1</td>     </tr>     <tr>       <th>Alternanthera p</th>       <td>1</td>     </tr>     <tr>       <th>Cabomba caroliniana</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_4117de34d5a44eb3b88f3aa5169b9774.setContent(html_7256aff245b24e5ca8720ff65f854414);
+        
+
+        circle_marker_b996b018ad57432888602e83ae99fd20.bindPopup(popup_4117de34d5a44eb3b88f3aa5169b9774)
+        ;
+
+        
+    
+    
+            var circle_marker_a267b6d911dd4fe1a436495303bce078 = L.circleMarker(
+                [38.9597594, 34.9249653],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_855c3d6af7094c3095c38897b306f23d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b3b0922c556d484aa353b0b88baa1da9 = $(`<div id="html_b3b0922c556d484aa353b0b88baa1da9" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>22</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Turkey</td>     </tr>     <tr>       <th>Prosopis juliflora</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_855c3d6af7094c3095c38897b306f23d.setContent(html_b3b0922c556d484aa353b0b88baa1da9);
+        
+
+        circle_marker_a267b6d911dd4fe1a436495303bce078.bindPopup(popup_855c3d6af7094c3095c38897b306f23d)
+        ;
+
+        
+    
+    
+            var circle_marker_e75c3bbf986942a891bc54be77943a3b = L.circleMarker(
+                [18.2214149, -66.4132818],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_a94adf87526444598f34e9529a33d21c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_630528554deb4767b7a921ebdeb31f3b = $(`<div id="html_630528554deb4767b7a921ebdeb31f3b" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>23</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>Puerto Rico</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_a94adf87526444598f34e9529a33d21c.setContent(html_630528554deb4767b7a921ebdeb31f3b);
+        
+
+        circle_marker_e75c3bbf986942a891bc54be77943a3b.bindPopup(popup_a94adf87526444598f34e9529a33d21c)
+        ;
+
+        
+    
+    
+            var circle_marker_8d7a092096434240be3a2bfb30f691ad = L.circleMarker(
+                [54.7023545, -3.2765753],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_6418db5447a3456e9ceb334d52e01d75);
+        
+    
+        var popup_d5c73c9e7865442d981799a29306007a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_58e89c51ff0849a189dbe8135fd50338 = $(`<div id="html_58e89c51ff0849a189dbe8135fd50338" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>24</th>     </tr>   </thead>   <tbody>     <tr>       <th>CountryName</th>       <td>United Kingdom</td>     </tr>     <tr>       <th>Eichhornia crassipes</th>       <td>1</td>     </tr>     <tr>       <th>Impatiens glandulifera</th>       <td>1</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_d5c73c9e7865442d981799a29306007a.setContent(html_58e89c51ff0849a189dbe8135fd50338);
+        
+
+        circle_marker_8d7a092096434240be3a2bfb30f691ad.bindPopup(popup_d5c73c9e7865442d981799a29306007a)
+        ;
+
+        
+    
+</script>
