@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR90">
+ <label>90.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nolan</surname>
+    <given-names>KE</given-names>
+   </name>
+   <name>
+    <surname>Kurdyukov</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Rose</surname>
+    <given-names>RJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Characterisation of the legume SERK-NIK gene superfamily including splice variants: implications for development and defence</article-title>
+  <source>BMC Plant Biol</source>
+  <year>2011</year>
+  <volume>11</volume>
+  <issue>1</issue>
+  <fpage>44</fpage>
+  <pub-id pub-id-type="doi">10.1186/1471-2229-11-44</pub-id>
+  <?supplied-pmid 21385462?>
+  <pub-id pub-id-type="pmid">21385462</pub-id>
+ </element-citation>
+</ref>

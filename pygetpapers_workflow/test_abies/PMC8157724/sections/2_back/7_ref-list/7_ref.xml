@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Alvarez</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Bueno</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Canas</surname>
+    <given-names>RA</given-names>
+   </name>
+   <name>
+    <surname>Avila</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Canovas</surname>
+    <given-names>FM</given-names>
+   </name>
+   <name>
+    <surname>Ordas</surname>
+    <given-names>RJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Analysis of the WUSCHEL-RELATED HOMEOBOX gene family in Pinus pinaster: new insights into the gene family evolution</article-title>
+  <source>Plant Physiol Biochem</source>
+  <year>2018</year>
+  <volume>123</volume>
+  <fpage>304</fpage>
+  <lpage>318</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.plaphy.2017.12.031</pub-id>
+  <?supplied-pmid 29278847?>
+  <pub-id pub-id-type="pmid">29278847</pub-id>
+ </element-citation>
+</ref>

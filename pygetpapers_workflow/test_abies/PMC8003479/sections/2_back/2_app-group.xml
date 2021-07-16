@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app-group>
+ <app id="app1-genes-12-00438">
+  <title>Supplementary Materials</title>
+  <p>The following are available online at 
+   <uri xlink:href="https://www.mdpi.com/2073-4425/12/3/438/s1" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.mdpi.com/2073-4425/12/3/438/s1</uri>. Supplementary Figure S1. Comparison of tissue expression of the most relevant genes from 
+   <italic>WOX</italic> family of 
+   <italic>Arabidopsis thaliana</italic> and 
+   <italic>Pinus pinaster</italic> within different tissues and developmental stages. The selected genes belong to (i) WUS clade, such as 
+   <italic>WOX3</italic> gene in both Arabidopsis (
+   <bold>A</bold>) and 
+   <italic>Pinus pinaster</italic> (
+   <bold>B</bold>), sharing common patterns on SAM; and 
+   <italic>WUS</italic> gene in Arabidopsis (
+   <bold>C</bold>) and 
+   <italic>WOX5</italic> gene in 
+   <italic>Pinus pinaster</italic> (
+   <bold>D</bold>) with distinct expression pattern; (ii) intermediate clade, such as 
+   <italic>WOX9</italic> gene in Arabidopsis (
+   <bold>E</bold>) and 
+   <italic>WOXE</italic> gene in 
+   <italic>Pinus pinaster</italic> (
+   <bold>F</bold>), with common root expression patterns; and (iii) ancient clade, such as 
+   <italic>WOX13</italic> gene in both Arabidopsis (
+   <bold>G</bold>) and 
+   <italic>Pinus pinaster</italic> (
+   <bold>H</bold>), with shared expression patterns on SAM but specific RAM expression in 
+   <italic>Pinus pinaster</italic>. Developmental map from 
+   <italic>Arabidopsis thaliana</italic> comes from Arabidopsis eFP Browser, in case of 
+   <italic>Pinus pinaster</italic> developmental map comes from the exImage tool at ConGenIE.org (
+   <uri xlink:href="http://v22.popgenie.org/microdisection/" xmlns:xlink="http://www.w3.org/1999/xlink">http://v22.popgenie.org/microdisection/</uri> (accessed on 18 March 2021)). Supplementary Figure S2. Comparison of tissue expression of the most relevant genes from KNOX family of 
+   <italic>Arabidopsis thaliana</italic> and 
+   <italic>Pinus pinaster</italic> within different tissues and developmental stages. The selected genes belong to (i) class I, such as 
+   <italic>KNAT6</italic> gene in Arabidopsis (
+   <bold>A</bold>) and 
+   <italic>KN2</italic> gene in 
+   <italic>Pinus pinaster</italic> (
+   <bold>B</bold>); and (ii) class II, such as 
+   <italic>KN3</italic> gene in Arabidopsis (
+   <bold>C</bold>) and 
+   <italic>KN5</italic> gene in 
+   <italic>Pinus pinaster</italic> (
+   <bold>D</bold>). Developmental map from 
+   <italic>A. thaliana</italic> comes from Arabidopsis eFP Browser, in case of 
+   <italic>Pinus pinaster</italic> developmental map comes from the exImage tool at ConGenIE.org (
+   <uri xlink:href="http://v22.popgenie.org/microdisection/" xmlns:xlink="http://www.w3.org/1999/xlink">http://v22.popgenie.org/microdisection/</uri> (accessed on 18 March 2021)).
+  </p>
+ </app>
+</app-group>

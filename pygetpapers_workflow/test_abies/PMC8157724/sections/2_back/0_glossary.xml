@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>ABI3</term>
+   <def>
+    <p id="Par4">ABSCISIC ACID INSENSITIVE 3</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BBM</term>
+   <def>
+    <p id="Par5">BABYBOOM</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EMK</term>
+   <def>
+    <p id="Par6">EMBRYOMAKER</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FUS3</term>
+   <def>
+    <p id="Par7">FUSCA3</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LEC</term>
+   <def>
+    <p id="Par8">LEAFY COTYLEDON</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PKL</term>
+   <def>
+    <p id="Par9">PICKLE</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PEM</term>
+   <def>
+    <p id="Par10">Pro-embryogenic masses</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SE</term>
+   <def>
+    <p id="Par11">Somatic embryogenesis</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SERK</term>
+   <def>
+    <p id="Par12">Somatic embryogenesis receptor kinases</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VP1</term>
+   <def>
+    <p id="Par13">VIVIPAROUS</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VAL</term>
+   <def>
+    <p id="Par14">VP1/ABI3-LIKE</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WUS</term>
+   <def>
+    <p id="Par15">WUSCHEL</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WOX </term>
+   <def>
+    <p id="Par16">WUSCHEL-related homeobox</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

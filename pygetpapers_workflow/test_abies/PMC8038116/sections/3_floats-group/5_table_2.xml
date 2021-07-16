@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="polymers-13-01106-t002" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">polymers-13-01106-t002_Table 2</object-id>
+ <label>Table 2</label>
+ <caption>
+  <p>Glycosidic linkage composition (%mol) of the parent pectin (P0) and selected pectin fractions.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Partially Methylated Alditol Acetate (PMAA)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Linkage Type</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Short Name</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">P0</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">P3</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">P4</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">P5</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3,5-Me
+     <sub>3</sub>-Ara
+     <italic>f</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Ara
+     <italic>f</italic>-(1→
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">t-Ara
+     <italic>f</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">12.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">13.7</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">10.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">15.0</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3,4-Me
+     <sub>3</sub>-Ara
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Ara
+     <italic>p</italic>-(1→
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">t-Ara
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.9</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3,5-Me
+     <sub>2</sub>-Ara
+     <italic>f</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">→ 2)-Ara
+     <italic>f</italic>-(1→
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2-Ara
+     <italic>f</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.8</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.8</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,5-Me
+     <sub>2</sub>-Ara
+     <italic>f</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">→ 3)-Ara
+     <italic>f</italic>-(1→
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3-Ara
+     <italic>f</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.8</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.2</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3-Me
+     <sub>2</sub>-Ara
+     <italic>f</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">→ 5)-Ara
+     <italic>f</italic>-(1→
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5-Ara
+     <italic>f</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">12.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">12.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">12.5</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2-Me-Ara
+     <italic>f</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">→ 3,5)-Ara
+     <italic>f</italic>-(1→
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3,5-Ara
+     <italic>f</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.5</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3-Me-Ara
+     <italic>f</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">→ 2,5)-Ara
+     <italic>f</italic>-(1→
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,5-Ara
+     <italic>f</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.7</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.0</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.7</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Acetylated Ara
+     <italic>f</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">→ 2,3,5)-Ara
+     <italic>f</italic>-(1→
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2,3,5-Ara
+     <italic>f</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.4</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Total Ara</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(41.0)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(44.2)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(27.1)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(45.1)</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3,4,6-Me
+     <sub>4</sub>-Gal
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Gal
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">t-Gal
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.8</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.5</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,4,6-Me
+     <sub>3</sub>-Gal
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">→ 3)-Gal
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3-Gal
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.2</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3,6- Me
+     <sub>3</sub>-Gal
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">→ 4)-Gal
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4-Gal
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.2</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3,4-Me
+     <sub>3</sub>-Gal
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">→ 6)-Gal
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6-Gal
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.9</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.9</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.0</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3-Me
+     <sub>2</sub>-Gal
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">→ 4,6)-Gal
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4,6-Gal
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.7</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.9</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.7</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.6</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,6-Me
+     <sub>2</sub>-Gal
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">→ 3,4)-Gal
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3,4-Gal
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.1</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2,4-Me
+     <sub>2</sub>-Gal
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">→ 3,6)-Gal
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3,6-Gal
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.9</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.2</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Total Gal</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(11.4)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(15.4)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(10.6)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(5.8)</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3,4,6-Me
+     <sub>4</sub>-Gal
+     <italic>p</italic>A
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Gal
+     <italic>p</italic>A-(1→
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">t-Gal
+     <italic>p</italic>A
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.1</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3,6- Me
+     <sub>3</sub>-Gal
+     <italic>p</italic>A
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">→ 4)-Gal
+     <italic>p</italic>A-(1→
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4-Gal
+     <italic>p</italic>A
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">21.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">19.1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">36.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">28.4</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2,6-Me
+     <sub>2</sub>-Gal
+     <italic>p</italic>A
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">→ 3,4)-Gal
+     <italic>p</italic>A-(1→
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3,4-Gal
+     <italic>p</italic>A
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.7</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.0</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Total GalA</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(25.6)</td>
+    <td align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">(20.9)</td>
+    <td align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">(40.4)</td>
+    <td align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">(30.5)</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3,4,6-Me
+     <sub>4</sub>-Rha
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Rha
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">t-Rha
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.8</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3,4,6-Me
+     <sub>3</sub>-Rha
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">→ 2)-Rha
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2-Rha
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.0</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3,6-Me
+     <sub>2</sub>-Rha
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">→ 2,4)-Rha
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2,4-Rha
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6.9</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.4</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Total Rha</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(6.3)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(10.5)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(8.6)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(4.2)</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3,4,6-Me
+     <sub>4</sub>-Glc
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Glc
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">t-Glc
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.0</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.9</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.6</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3,6-Me
+     <sub>3</sub>-Glc
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">→ 4)-Glc
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4-Glc
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.9</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.8</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.6</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2,3-Me
+     <sub>2</sub>-Glc
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">→ 4,6)-Glc
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4,6-Glc
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.4</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.2</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Total Glc</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(7.6)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(4.0)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(7.0)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(5.4)</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3,4-Me
+     <sub>3</sub>-Xyl
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Xyl
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">t-Xyl
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.8</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2,3-Me
+     <sub>2</sub>-Xyl
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">→ 4)-Xyl
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4-Xyl
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.0</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.6</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.4</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Total Xyl</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(3.4)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(1.2)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(2.5)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(6.2)</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3,6-Me
+     <sub>3</sub>-Man
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">→ 4)-Man
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4-Man
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.0</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.3</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2,3-Me
+     <sub>2</sub>-Man
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">→ 4,6)-Man
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4,6-Man
+     <italic>p</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.0</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.0</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.3</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Total Man</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(4.7)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(3.2)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(3.3)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(2.6)</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2,3,4,6-Me
+     <sub>4</sub>-Glc
+     <italic>p</italic>A
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">GlcA
+     <italic>p</italic>-(1→ 
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">t-Glc
+     <italic>p</italic>A
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">n.d.</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2,3,6-Me
+     <sub>3</sub>-Glc
+     <italic>p</italic>A
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">→ 4)-Glc
+     <italic>p</italic>A-(1→ 
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4-Glc
+     <italic>p</italic>A
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n.d.</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Total GlcA</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(0.4)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(0.5)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(0.5)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(0.2)</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

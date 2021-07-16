@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The information about the bacteriomes derived from the three DNA types (extracellular vs. intracellular fraction vs. total DNA pool) followed the same trajectory (
+ <xref ref-type="fig" rid="F1">Figure 1</xref>). However, probably due to both methodological constraints and ecological aspects, they appear to differ in substantial details (
+ <xref ref-type="fig" rid="F4">Figure 4</xref>). The crucial impact of the rare biosphere on complex ecosystems is widely recognized (
+ <xref rid="B27" ref-type="bibr">Jousset et al., 2017</xref>). The sequential extraction of the extra- and intracellular DNA fractions increased the ecological depth of analysis of the 
+ <italic>P. abies</italic> wood bacteriome, as compared to the total DNA pool (
+ <xref ref-type="fig" rid="F3">Figure 3</xref>). However, it often lowers the total amount of DNA extracted from the environmental material, due to repeated washing, ultimately resulting in the sum of intra- and extracellular DNA being lower compared to the total DNA pool (
+ <xref rid="T1" ref-type="table">Table 1</xref>). Although repeated rounds of extraction from the very same sample can be applied in total DNA extraction procedures and may increase the microbial diversity observed by microbiome sequencing, the methodological differences between the total DNA pool and its extra- and intracellular DNA fractions (
+ <xref rid="B60" ref-type="bibr">Wagner et al., 2015</xref>) suggest that analyzing these two fractions inherently results in greater depth (
+ <xref ref-type="fig" rid="F3">Figure 3</xref>). This observation was also reported for soil even with low-resolution molecular methods (
+ <xref rid="B4" ref-type="bibr">Ascher et al., 2009</xref>; 
+ <xref rid="B11" ref-type="bibr">Chroňáková et al., 2013</xref>; 
+ <xref rid="B20" ref-type="bibr">Gómez-Brandón et al., 2017b</xref>), and for biogas slurries by using next-generation sequencing technologies (
+ <xref rid="B36" ref-type="bibr">Nagler et al., 2018a</xref>; 
+ <xref rid="B38" ref-type="bibr">Nagler et al., 2020</xref>). From an ecological viewpoint, the extracellular DNA can be considered a natural product of microbial growth (
+ <xref rid="B36" ref-type="bibr">Nagler et al., 2018a</xref>), including former ecosystem states. This latter aspect addresses the persistence of extracellular DNA in the environment as its degradation can be prevented by binding to various organic (e.g., cell debris) and inorganic, mineral colloids (soil components) or bacterial extracellular polymeric substances (
+ <xref rid="B2" ref-type="bibr">Agnelli et al., 2007</xref>; 
+ <xref rid="B45" ref-type="bibr">Pietramellara et al., 2009</xref>; 
+ <xref rid="B36" ref-type="bibr">Nagler et al., 2018a</xref>). In agreement with this, we found a higher ASV richness in the extracellular DNA fraction compared to the intracellular one (
+ <xref ref-type="fig" rid="F1">Figure 1</xref>). Moreover, in line with the recent study by 
+ <xref rid="B38" ref-type="bibr">Nagler et al. (2020)</xref> on slurry bioreactors, we showed that DNA of certain bacterial populations remained detectable in the extracellular fraction, while it was not detectable in the respective intracellular DNA fraction, suggesting that these populations were no longer occurring in the monitored biological assemblage at the timepoint of sampling (
+ <xref rid="T2" ref-type="table">Table 2</xref>). The conceptual differences between the extra- and intracellular DNA fractions imply that persisting DNA (extracellular DNA occurring in the extracellular environment) might partially mask intracellular DNA (methodologically extracted from intact cells via induced cell disruption) and thus obscure the snapshot of occurring microbes. Like the differential copy numbers of marker genes observed between different taxa, species-specific differences in DNA release might bias the composition observed in the extracellular DNA fraction and the total DNA pool. This potential masking effect of the extracellular DNA fraction over the intracellular one affects the assessment of the microbiome when directly analyzing the total DNA pool (made up by both DNA fractions), depending on its proportion with regard to the intracellular DNA fraction (
+ <xref rid="B36" ref-type="bibr">Nagler et al., 2018a</xref>; 
+ <xref rid="B8" ref-type="bibr">Carini et al., 2020</xref>). For example, in soil and the marine environments up to 60% (
+ <xref rid="B1" ref-type="bibr">Agnelli et al., 2004</xref>) and 90% (
+ <xref rid="B58" ref-type="bibr">Torti et al., 2015</xref>) of the total DNA pool account for extracellular DNA, respectively. While the proportions of both DNA fractions are unknown for the majority of ecosystems, they were comparable in our 
+ <italic>P. abies</italic> deadwood samples (
+ <xref rid="T1" ref-type="table">Table 1</xref>). They might even be patchy within ecosystems. Especially in terms of smaller operational units, single populations and rare biosphere, the proportions of DNA fractions and the potential masking effect of extracellular DNA should be considered. More studies on the masking effect of extracellular DNA in different ecosystems are necessary to confirm its generalizability (
+ <xref rid="B38" ref-type="bibr">Nagler et al., 2020</xref>).
+</p>

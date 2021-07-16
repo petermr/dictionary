@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B13-molecules-26-03005">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Virjamo</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Fyhrquist</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Koskinen</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Lavola</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Nissinen</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Julkunen-Tiitto</surname>
+    <given-names>R.</given-names>
+   </name>
+  </person-group>
+  <article-title>1,6-Dehydropinidine Is an Abundant Compound in 
+   <italic>Picea abies</italic> (
+   <italic>Pinaceae</italic>) Sprouts and 1,6-Dehydropinidine Fraction Shows Antibacterial Activity against Streptococcus equi Subsp. equi
+  </article-title>
+  <source>Molecules</source>
+  <year>2020</year>
+  <volume>25</volume>
+  <elocation-id>4558</elocation-id>
+  <pub-id pub-id-type="doi">10.3390/molecules25194558</pub-id>
+  <?supplied-pmid 33036142?>
+  <pub-id pub-id-type="pmid">33036142</pub-id>
+ </element-citation>
+</ref>

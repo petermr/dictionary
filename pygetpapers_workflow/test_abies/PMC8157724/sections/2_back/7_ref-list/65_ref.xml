@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR65">
+ <label>65.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Suzuki</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>HHY</given-names>
+   </name>
+   <name>
+    <surname>McCarty</surname>
+    <given-names>DR</given-names>
+   </name>
+  </person-group>
+  <article-title>Repression of the LEAFY COTYLEDON 1/B3 regulatory network in plant embryo development by VP1/ABSCISIC ACID INSENSITIVE 3-LIKE B3 genes</article-title>
+  <source>Plant Physiol</source>
+  <year>2007</year>
+  <volume>143</volume>
+  <issue>2</issue>
+  <fpage>902</fpage>
+  <lpage>911</lpage>
+  <pub-id pub-id-type="doi">10.1104/pp.106.092320</pub-id>
+  <?supplied-pmid 17158584?>
+  <pub-id pub-id-type="pmid">17158584</pub-id>
+ </element-citation>
+</ref>

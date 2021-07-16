@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>König</surname>
+    <given-names>AO</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Geburek</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Turok</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Provenance research: evaluating the spatial pattern of genetic variation</article-title>
+  <source>Conservation and management of forest genetic resources in Europe</source>
+  <year>2005</year>
+  <publisher-loc>Zvolen</publisher-loc>
+  <publisher-name>Arbora Publishers</publisher-name>
+  <fpage>275</fpage>
+  <lpage>333</lpage>
+ </element-citation>
+</ref>

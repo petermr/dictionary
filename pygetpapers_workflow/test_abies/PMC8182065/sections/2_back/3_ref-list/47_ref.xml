@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B47">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lenth</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Singmann</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Love</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Buerkner</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Hervé</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group> (
+  <year>2020</year>). 
+  <source>
+   <italic>Estimated Marginal Means, aka Least-Squares Means.</italic>
+  </source> Available online at: 
+  <ext-link ext-link-type="uri" xlink:href="https://cran.rproject.org/web/packages/emmeans/emmeans.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">https://cran.rproject.org/web/packages/emmeans/emmeans.pdf</ext-link>.
+ </mixed-citation>
+</ref>

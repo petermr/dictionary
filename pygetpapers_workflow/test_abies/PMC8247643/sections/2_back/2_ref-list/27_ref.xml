@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B27">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lagesen</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Hallin</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Rødland</surname>
+    <given-names>E. A.</given-names>
+   </name>
+   <name>
+    <surname>Stærfeldt</surname>
+    <given-names>H. H.</given-names>
+   </name>
+   <name>
+    <surname>Rognes</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Ussery</surname>
+    <given-names>D. W.</given-names>
+   </name>
+  </person-group> (
+  <year>2007</year>). 
+  <article-title>RNAmmer: consistent and rapid annotation of ribosomal RNA genes</article-title>. 
+  <source>Nucleic Acids Res.</source>
+  <volume>35</volume>, 
+  <fpage>3100</fpage>–
+  <lpage>3108</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/nar/gkm160</pub-id>
+  <?supplied-pmid 17452365?>
+  <pub-id pub-id-type="pmid">17452365</pub-id>
+ </mixed-citation>
+</ref>

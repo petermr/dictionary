@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>It should be noted that exact ortholog inference is currently challenging for Norway spruce due to the fragmented nature of the genome assembly (
+ <xref rid="ref59" ref-type="bibr">Nystedt et al. 2013</xref>). As such, caution is needed in interpreting inference of functional ortholog conservation. This likely underlies many of the cases where multiple copies of Norway spruce genes had the highest sequence similarity to a single Arabidopsis gene. For some such cases, there were differences in which gene copy was DE between the tissues. While these potentially represent two genuine copies that have undergone sub-functionalization, such observations require detailed follow-up studies or reconsidering upon the availability of an improved genome assembly or functional validation.
+</p>

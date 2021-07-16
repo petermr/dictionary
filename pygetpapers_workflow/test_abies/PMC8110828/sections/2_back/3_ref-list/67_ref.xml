@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B67">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Willis</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Martin</surname>
+    <given-names>B. D.</given-names>
+   </name>
+   <name>
+    <surname>Trinh</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Barger</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Bunge</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group> (
+  <year>2019</year>). 
+  <source>
+   <italic>Breakaway: Species Richness Estimation and Modeling. R Package Version 4.6.16.</italic>
+  </source>
+ </mixed-citation>
+</ref>

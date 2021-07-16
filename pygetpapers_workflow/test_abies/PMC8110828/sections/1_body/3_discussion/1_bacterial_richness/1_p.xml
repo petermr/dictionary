@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Assuming that more niches become available as deadwood decomposition progresses, we would expect that the number of ASVs detected increases with higher degree of decay that is from DCl I to V (
+ <xref rid="B24" ref-type="bibr">Hunter, 1990</xref>). However, we did not observe an increase in ASV richness as a function of progressing deadwood decomposition. This was in line with the study on 
+ <italic>P. abies</italic> logs by 
+ <xref rid="B23" ref-type="bibr">Hoppe et al. (2015)</xref>, who also applied sequencing methodology (454 pyrosequencing). 
+ <xref rid="B50" ref-type="bibr">Rinta-Kanto et al. (2016)</xref>, in contrast, reported a higher bacterial richness in 
+ <italic>P. abies</italic> logs observed via microbiome sequencing data (454 pyrosequencing) and in line with this, a higher bacterial abundance was observed via quantitative PCR of 16S rRNA gene copy numbers as decomposition progressed. The increased richness with more progressed decay has also been confirmed by 
+ <xref rid="B30" ref-type="bibr">Kielak et al. (2016b)</xref>, who researched decaying 
+ <italic>Pinus sylvestris</italic> logs. 
+ <xref rid="B57" ref-type="bibr">Tláskal et al. (2017)</xref>, however, did not confirm an increased bacterial richness with progressing decay of different tree species, including 
+ <italic>P. abies</italic>. As the majority of α-diversity measures (richness), including the number of OTUs/ASVs is largely influenced by the number of samples, sequencing depth and data treatment, such as rarefying and filtering (
+ <xref rid="B65" ref-type="bibr">Willis, 2019</xref>; 
+ <xref rid="B67" ref-type="bibr">Willis et al., 2019</xref>), an explanation for these controversial observations might be methodological rather than ecological. The sample sizes in the studies of 
+ <xref rid="B50" ref-type="bibr">Rinta-Kanto et al. (2016)</xref> and 
+ <xref rid="B57" ref-type="bibr">Tláskal et al. (2017)</xref> exceed the sample size of our study (
+ <italic>n</italic> = 27), which is more comparable to the one from 
+ <xref rid="B23" ref-type="bibr">Hoppe et al. (2015)</xref>. A higher number of samples per DCl, potentially even higher than that studied in 
+ <xref rid="B50" ref-type="bibr">Rinta-Kanto et al. (2016)</xref> and 
+ <xref rid="B57" ref-type="bibr">Tláskal et al. (2017)</xref> might further optimize the microbiome representability of the sample group and contribute to solving the riddle of decaying deadwood α-diversity. In addition to sample size, we hypothesize that richness estimations in microbial ecology suffer from an upper threshold of microbial units that can be observed in a sample. The reasons for this are a combination of the vast bacterial diversity known today, the patchiness of most ecosystems that are studied by pooled samples across physical space and unavoidable methodological limitations and restrictions, such as the amount of environmental sample used for DNA extraction, the template volume applied to PCR and the limited total number of amplicons subjected to sequencing. In addition, limited sample sizes, by means of low biological replications restrict the prediction of more reliable richness estimators. The increased depth of analysis obtained by the sequentially extracted DNA fractions of the total DNA pool clearly evidences the potential of the applied fine-tuning DNA approach, pinpointing that the statements on bacterial richness in natural ecosystems are problematic. Further investigations optimizing experimental design, sampling strategy, richness estimation, data analysis, and interpretation are necessary to make studies more comparable and a better representation of the ecosystem.
+</p>

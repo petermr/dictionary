@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="polymers-13-01619-t002" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">polymers-13-01619-t002_Table 2</object-id>
+ <label>Table 2</label>
+ <caption>
+  <p>Conditions during wood storage.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Time of Storage/
+     <break/>Conditions
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Average Air Humidity
+     <break/>(%)
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Average Air Temperature
+     <break/>(°C)
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Average Precipitation
+     <break/>(mm)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">from Jun to August</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">82.99 
+     <break/>(max. 99.05, min. 59.32)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">19.31
+     <break/>(max. 23.08, min. 14.37)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.20
+     <break/>(max. 29.0, min. 0)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">from August to October</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">86.89
+     <break/>(max. 99.17, min. 71.39)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">17.02
+     <break/>(max. 23.63, min. 8.95)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.28
+     <break/>(max. 23.80, min. 0)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">from October to December</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">96.98
+     <break/>(max. 99.17, min. 81.52)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.39
+     <break/>(max. 12.45, min. −2.99)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.06
+     <break/>(max. 42.2, min. 0)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">from December to February</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">97.45
+     <break/>(max. 99.17, min. 76.56)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.54
+     <break/>(max. 6.17, min. −8.79)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.50
+     <break/>(max. 17.8, min. 0)
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

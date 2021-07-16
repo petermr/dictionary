@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref88">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Thimm</surname>
+    <given-names>O</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Bläsing</surname>
+    <given-names>O</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Gibon</surname>
+    <given-names>Y</given-names>
+   </string-name>
+   <etal>et al.</etal>
+  </person-group> (
+  <year>2004</year>) 
+  <article-title>MAPMAN: a user-driven tool to display genomics data sets onto diagrams of metabolic pathways and other biological processes</article-title>. 
+  <source>Plant J</source>
+  <volume>37</volume>:
+  <fpage>914</fpage>–
+  <lpage>939</lpage>.
+  <pub-id pub-id-type="pmid">14996223</pub-id>
+ </mixed-citation>
+</ref>

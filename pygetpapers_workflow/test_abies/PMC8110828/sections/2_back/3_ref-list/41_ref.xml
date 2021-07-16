@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B41">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Neuwirth</surname>
+    <given-names>E.</given-names>
+   </name>
+  </person-group> (
+  <year>2014</year>). 
+  <source>
+   <italic>RColorBrewer: ColorBrewer Palettes. R package version 1.1-2.</italic>
+  </source>
+ </mixed-citation>
+</ref>

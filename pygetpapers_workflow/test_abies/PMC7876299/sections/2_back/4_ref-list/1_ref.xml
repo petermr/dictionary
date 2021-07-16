@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Aronesty</surname>
+    <given-names>E.</given-names>
+   </name>
+  </person-group> (
+  <year>2011</year>). 
+  <source>
+   <italic>ea-utils</italic>
+   <italic>: Command-line Tools for Processing Biological Sequencing Data.</italic>
+  </source> Available online at: 
+  <ext-link ext-link-type="uri" xlink:href="http://code.google.com/p/ea-utils" xmlns:xlink="http://www.w3.org/1999/xlink">http://code.google.com/p/ea-utils</ext-link>
+  <comment>(accessed November 19, 2019)</comment>.
+ </mixed-citation>
+</ref>

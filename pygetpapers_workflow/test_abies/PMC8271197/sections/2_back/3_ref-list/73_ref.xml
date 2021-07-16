@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref72">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Rueden</surname>
+    <given-names>CT</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Schindelin</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Hiner</surname>
+    <given-names>MC</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>DeZonia</surname>
+    <given-names>BE</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Walter</surname>
+    <given-names>AE</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Arena</surname>
+    <given-names>ET</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Eliceiri</surname>
+    <given-names>KW</given-names>
+   </string-name>
+  </person-group> (
+  <year>2017</year>) 
+  <article-title>ImageJ2: ImageJ for the next generation of scientific image data</article-title>. 
+  <source>BMC Bioinformatics</source>
+  <volume>18</volume>:529.
+ </mixed-citation>
+</ref>

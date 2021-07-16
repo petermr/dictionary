@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B30">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Langmead</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Trapnell</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Pop</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Salzberg</surname>
+    <given-names>S. L.</given-names>
+   </name>
+  </person-group> (
+  <year>2009</year>). 
+  <article-title>Ultrafast and memory-efficient alignment of short DNA sequences to the human genome</article-title>. 
+  <source>Genome Biol.</source>
+  <volume>10</volume>:
+  <fpage>R25</fpage>. 
+  <pub-id pub-id-type="doi">10.1186/gb-2009-10-3-r25</pub-id>
+  <?supplied-pmid 19261174?>
+  <pub-id pub-id-type="pmid">19261174</pub-id>
+ </mixed-citation>
+</ref>

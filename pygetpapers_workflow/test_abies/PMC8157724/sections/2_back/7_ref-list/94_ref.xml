@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR94">
+ <label>94.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jha</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Ochatt</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Kumar</surname>
+    <given-names>V</given-names>
+   </name>
+  </person-group>
+  <article-title>WUSCHEL: a master regulator in plant growth signaling</article-title>
+  <source>Plant Cell Rep</source>
+  <year>2020</year>
+  <volume>39</volume>
+  <issue>4</issue>
+  <fpage>431</fpage>
+  <lpage>444</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00299-020-02511-5</pub-id>
+  <?supplied-pmid 31984435?>
+  <pub-id pub-id-type="pmid">31984435</pub-id>
+ </element-citation>
+</ref>

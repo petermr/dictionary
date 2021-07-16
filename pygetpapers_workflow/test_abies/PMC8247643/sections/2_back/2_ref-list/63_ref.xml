@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B63">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shaiber</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Eren</surname>
+    <given-names>A. M.</given-names>
+   </name>
+  </person-group> (
+  <year>2019</year>). 
+  <article-title>Composite metagenome-assembled genomes reduce the quality of public genome repositories</article-title>. 
+  <source>mBio</source>
+  <volume>10</volume>, 
+  <fpage>e00725</fpage>–
+  <lpage>e00719</lpage>. 
+  <pub-id pub-id-type="doi">10.1128/mBio.00725-19</pub-id>
+  <?supplied-pmid 31164461?>
+  <pub-id pub-id-type="pmid">31164461</pub-id>
+ </mixed-citation>
+</ref>

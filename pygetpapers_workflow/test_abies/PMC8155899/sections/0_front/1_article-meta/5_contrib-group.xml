@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-2775-047X</contrib-id>
+  <name>
+   <surname>Čabalová</surname>
+   <given-names>Iveta</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-polymers-13-01619">1</xref>
+  <xref rid="c1-polymers-13-01619" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bélik</surname>
+   <given-names>Michal</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-polymers-13-01619">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kučerová</surname>
+   <given-names>Viera</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-polymers-13-01619">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jurczyková</surname>
+   <given-names>Tereza</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-polymers-13-01619">2</xref>
+ </contrib>
+</contrib-group>

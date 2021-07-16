@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Genomic DNA was extracted from the selected ECM root tips using the DNeasy Plant Mini Kit (Qiagen, Hilden, Germany) according to the manufacturer’s instructions. The extracted DNA was then used as a template for PCR amplification of the rDNA ITS region with the primer pairs ITS1F/ITS4 (
+ <xref rid="B73" ref-type="bibr">White et al., 1990</xref>; 
+ <xref rid="B21" ref-type="bibr">Gardes and Bruns, 1993</xref>) for fungal species identification and of the noncoding region of chloroplast DNA with the primers 
+ <italic>trn</italic>L/
+ <italic>trn</italic>F (
+ <xref rid="B59" ref-type="bibr">Taberlet et al., 1991</xref>) for plant species identification. In case that we obtained multiple fungal amplicons from a root tip, we used primer pairs specific for basidiomycetous (ITS1F/ITS4B; 
+ <xref rid="B21" ref-type="bibr">Gardes and Bruns, 1993</xref>; 
+ <xref rid="B46" ref-type="bibr">Nikolcheva and Bärlocher, 2004</xref>) or ascomycetous fungi (ITS1/ITS4A; 
+ <xref rid="B73" ref-type="bibr">White et al., 1990</xref>; 
+ <xref rid="B46" ref-type="bibr">Nikolcheva and Bärlocher, 2004</xref>). When the amplicon separation was unsuccessful, we cut the bands directly from gel using QIAquick Gel Extraction Kit (Qiagen). PCR was performed in a 25-μl reaction mixture containing 1× reaction buffer (Bioline, London, United Kingdom), 500 nM of each primer, 0.75 U of MyTaq DNA polymerase (Bioline), and ∼20 ng of template DNA filled with dH
+ <sub>2</sub>O up to 25 μl. The amplification conditions were 94°C for 2.5 min, followed by 37 cycles at 94°C for 30 s, 55°C for 40 s, 72°C for 30 s, and a final extension at 72°C for 4.5 min for the fungal amplicons; 94°C for 2 min, followed by 35 cycles at 94°C for 30 s, 56°C for 30 s, 72°C for 1.2 min, and a final extension at 72°C for 10 min for the plant amplicons. Sequencing was performed by Macrogen Inc., Amsterdam, Netherlands, on an ABI 3730 XL automated sequencer (Applied Biosystems, Foster City, CA, United States).
+</p>

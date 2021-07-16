@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplementary-material content-type="local-data" id="TS2">
+ <label>Supplementary Table 2</label>
+ <caption>
+  <p>List of ECM taxa, including exploration of each taxa, detected on root samples of the studied tree species (
+   <italic>Picea abies</italic>, 
+   <italic>Larix decidua</italic>, and 
+   <italic>Betula pendula</italic>), including the numbers of root samples with taxon presence divided into NEX (plots without management) and EXT (plots with traditional management) treatments. For each taxon, the GenBank Accession Number, closest hit and percentage of similarity are shown.
+  </p>
+ </caption>
+ <media xlink:href="Table_2.xlsx" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <caption>
+   <p>Click here for additional data file.</p>
+  </caption>
+ </media>
+</supplementary-material>

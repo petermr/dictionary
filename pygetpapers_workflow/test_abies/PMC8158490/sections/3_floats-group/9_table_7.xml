@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="molecules-26-03005-t007" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">molecules-26-03005-t007_Table 7</object-id>
+ <label>Table 7</label>
+ <caption>
+  <p>Conifer-derived commercially available products sold on the global market.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Plant</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Part Used</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Trade Name</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Phytochemicals Composition</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Formulation</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Dose/Duration</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Product</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Pinus pinaster</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pycnogenol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Catechin, taxifolin, procyanidins, caffeic, p-hydroxybenzoic, ferulic, acids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> Tablets, liquids, chewing gums, gels, ointments, capsules or lotions </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">150 mg/day for 6 months</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <inline-graphic xlink:href="molecules-26-03005-i001.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. pinaster</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Oligopin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Caffeic acid, catechin, epicatechin, taxifolin and ferulic acid</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> Capsules </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">150 mg for 10 days</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <inline-graphic xlink:href="molecules-26-03005-i002.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. radiata</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Enzogenol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> Flavanoids, proanthocyanidins </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Tablets</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">480–960 mg/day for 5–6 months</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <inline-graphic xlink:href="molecules-26-03005-i003.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Picea abies</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Needles</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ropren</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> Flavanoids </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> Tablets, capsules, lotions </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8.6 mg/kg for 28 days</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <inline-graphic xlink:href="molecules-26-03005-i004.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Taxus brevifolia</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Taxol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Paclitaxel</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> Injections </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30 mg/m
+     <sup>2</sup> every 3 weeks
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <inline-graphic xlink:href="molecules-26-03005-i005.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. massiona</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Not found</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Polyphenols, flavanoids, proanthocyanidins</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> Capsules </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1 capsule daily</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <inline-graphic xlink:href="molecules-26-03005-i006.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

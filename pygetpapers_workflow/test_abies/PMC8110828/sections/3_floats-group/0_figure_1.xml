@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" position="float">
+ <label>FIGURE 1</label>
+ <caption>
+  <p>The 
+   <italic>Picea abies</italic> deadwood bacteriome across decay classes (DCls). 
+   <bold>(A)</bold> Estimated ASV richness comparing DCls (I, III, and V) and DNA types (Extra = extracellular DNA fraction, Intra = intracellular DNA fraction, Total = total DNA pool). 
+   <bold>(B)</bold> Non-metric multidimensional scaling of log samples based on Bray Curtis distances. Stress = 0.080. The algorithm converged after 53 iterations. Ellipses were drawn at 95% confidence intervals around group centroids of DCls. 
+   <bold>(C)</bold> Venn diagram illustrating ASV compositions of DCls. 
+   <bold>(D)</bold> Taxonomic overview of Venn sets 
+   <bold>(C)</bold>. The taxonomic composition of ASVs detected only in DCl I is illustrated in the first panel of the top row. The top row second panel shows the composition of ASVs detected in both DCls I and III, but not in DCl V. The top row third panel gives the taxonomic composition of ASVs found only in DCl III. The bottom row illustrates first the taxonomic composition of ASVs detected in both DCls III and V, but not in DCl I. The bottom row middle panel illustrates the taxonomic core microbiome composition of all three DCls. The bottom right panel shows the taxonomic composition of ASVs detected only in DCl V.
+  </p>
+ </caption>
+ <graphic xlink:href="fmicb-12-640386-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

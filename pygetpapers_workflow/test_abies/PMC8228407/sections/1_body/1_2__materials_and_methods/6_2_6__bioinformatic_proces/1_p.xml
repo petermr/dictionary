@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The sequencing data were processed using SEED 2 [
+ <xref rid="B44-jof-07-00412" ref-type="bibr">44</xref>]. Only the forward reads were used for the analyses, as paired-end joining would exclude taxa with ITS2 region lengths higher than 400 bases, including abundant wood decomposing fungi from the genus 
+ <italic>Armillaria</italic> [
+ <xref rid="B45-jof-07-00412" ref-type="bibr">45</xref>]. The sequences were filtered according to their quality, and sequences with a quality mean under 20 were excluded. The forward tags used for sample identification were removed. Then, sequences were de-replicated, the ITS2 region, even when incomplete, was extracted using ITSx 1.0.11 software [
+ <xref rid="B46-jof-07-00412" ref-type="bibr">46</xref>], and sequences were re-replicated. Sequences shorter than 40 bases were removed, and chimeric sequences were identified using UCHIME [
+ <xref rid="B47-jof-07-00412" ref-type="bibr">47</xref>] and removed. The remaining sequences were clustered in operational taxonomic units (OTUs) at a 97% similarity level using UPARSE [
+ <xref rid="B48-jof-07-00412" ref-type="bibr">48</xref>]. Both algorithms were implemented in USEARCH 8.1.1861. For further analyses, the global singletons, i.e., the OTUs represented by only one sequence across the 120 samples, were ignored. The most abundant sequence was selected to represent each OTU and used for taxonomic identification. To identify the closest hits at the species level, the most abundant sequences were compared against the UNITE 8.1 database with BLASTn [
+ <xref rid="B49-jof-07-00412" ref-type="bibr">49</xref>]. Non-fungal hits and unidentified sequences were deleted. The OTUs identified as the same species and having a similarity ≥ 97% with a coverage ≥ 95% were merged into single taxon, and species-level identification was used. For the OTUs with lower similarity, lower coverage or both, genus-level identification or the best available identification was used. The assignment of fungi to ecological categories was based on genus-level identification [
+ <xref rid="B50-jof-07-00412" ref-type="bibr">50</xref>].
+</p>

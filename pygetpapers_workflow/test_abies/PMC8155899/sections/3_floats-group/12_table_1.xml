@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="polymers-13-01619-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">polymers-13-01619-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Samples signification.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <tbody>
+   <tr>
+    <td align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">wood 0.5 m; 1.5 m; 2.5 m; 3.5 m; 4.5 m</td>
+    <td align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">sample taken from the tree trunk in a height of 0.5 m; 1.5 m; 2.5 m; 3.5 m; 4.5 m from the ground</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">wood-top </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">sample taken from the tree top </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">bark-trunk</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">sample taken from the trunk</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">bark-top</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">sample taken from the top</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">wood 0.5 m-A; 4.5 m-A</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">sample taken from the tree trunk in a height of 0.5 m or 4.5 m from the ground, first 20-years of growth (
+     <xref ref-type="fig" rid="polymers-13-01619-f001">Figure 1</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">wood 0.5 m-B; 4.5 m-B </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">sample taken from the tree trunk in a height of 0.5 m or 4.5 m from the ground, from 20 to 40 years of growth (
+     <xref ref-type="fig" rid="polymers-13-01619-f001">Figure 1</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">wood 0.5 m-C; 4.5 m-C</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">sample taken from the tree trunk in a height of 0.5 m or 4.5 m from the ground, the last 25-years of growth (
+     <xref ref-type="fig" rid="polymers-13-01619-f001">Figure 1</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">wood 0, 2, 4, 6, 8 month</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">wood from the trunk taken in time of 0, 2, 4, 6, and 8 month of its storage</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">bark trunk 0, 2, 4, 6, 8 month</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">bark from the trunk taken in time of 0, 2, 4, 6, and 8 month of its storage</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">bark 0, 2, 4, 6, 8 month</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">separately stored bark taken in time of 0, 2, 4, 6, and 8 month of its storage</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

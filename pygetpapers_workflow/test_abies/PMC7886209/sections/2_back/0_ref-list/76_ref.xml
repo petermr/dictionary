@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0246805.ref076">
+ <label>76</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Moineddin</surname>
+   <given-names>R.</given-names>
+  </name>, 
+  <name>
+   <surname>Matheson</surname>
+   <given-names>F.I.</given-names>
+  </name> &amp; 
+  <name>
+   <surname>Glazier</surname>
+   <given-names>R.H.</given-names>
+  </name>
+  <article-title>A simulation study of sample size for multilevel logistic regression models.</article-title>
+  <source>BMC Med Res Methodol</source>. 
+  <year>2007</year>;
+  <volume>7</volume>:
+  <fpage>34</fpage>
+  <pub-id pub-id-type="doi">10.1186/1471-2288-7-34</pub-id>
+  <?supplied-pmid 17634107?>
+  <pub-id pub-id-type="pmid">17634107</pub-id>
+ </mixed-citation>
+</ref>

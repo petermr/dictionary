@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B58">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Roberts</surname>
+    <given-names>D.</given-names>
+   </name>
+  </person-group> (
+  <year>2015</year>). 
+  <source>
+   <italic>Labdsv: Ordination and Multivariate Analysis for Ecology.</italic>
+  </source> R package version 1.6.
+ </mixed-citation>
+</ref>

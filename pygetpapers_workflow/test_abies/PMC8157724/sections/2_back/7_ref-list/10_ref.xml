@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>von Arnold</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Egertsdotter</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Ekberg</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Gupta</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Mo</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Nörgaard</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Jain</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Gupta</surname>
+    <given-names>PK</given-names>
+   </name>
+   <name>
+    <surname>Newton</surname>
+    <given-names>RJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Somatic Embryogenesis in Norway Spruce (
+   <italic>Picea abies</italic>)
+  </article-title>
+  <source>Somatic Embryogenesis in Woody Plants Forestry Sciences</source>
+  <year>1995</year>
+  <publisher-loc>Dordrecht</publisher-loc>
+  <publisher-name>Springer</publisher-name>
+  <fpage>44</fpage>
+  <lpage>46</lpage>
+ </element-citation>
+</ref>

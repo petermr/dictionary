@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="molecules-26-03005-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">molecules-26-03005-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Phytochemical constituents present in conifers.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Subclasss</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Main Examples of Each Class</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Conifer spp.</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">References</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <bold>Terpenes</bold>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Monoterpenes</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">β-myrcene, α-pinene, limonene, α-terpinene, thujone, camphene, β-pinene, thujole, Δ-3-carene, phellandrene</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Pinus roxburghii, P. pinea, P. wallichiana, P. pinaster, P.sylvestris, P. gerardiana, P. nigra, P. radiata, Thuja occidentalis, Abies alba, Picea abies, Metasequoia glyptostroboides</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B12-molecules-26-03005" ref-type="bibr">12</xref>,
+     <xref rid="B15-molecules-26-03005" ref-type="bibr">15</xref>,
+     <xref rid="B16-molecules-26-03005" ref-type="bibr">16</xref>,
+     <xref rid="B17-molecules-26-03005" ref-type="bibr">17</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sesquiterpenes</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Laurenobiolide, farnesene, inulicin, vernodalin, 3
+     <italic>H</italic>-benzofuaran-2-one, 4-methyl-3-methoxy-3
+     <italic>H</italic>-benzofuaran-2-one, 4,9(α)-dihydroxynardosin-6-en, delta-cadinene, alpha-humulene, beta-cedrene, trans-caryophyllene, cubenol
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. mariana, Juniperus foetidissima, A. alba, P. abies, M. glyptostroboides, J. phoenicea, P. roxburghii</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B8-molecules-26-03005" ref-type="bibr">8</xref>,
+     <xref rid="B12-molecules-26-03005" ref-type="bibr">12</xref>,
+     <xref rid="B18-molecules-26-03005" ref-type="bibr">18</xref>,
+     <xref rid="B19-molecules-26-03005" ref-type="bibr">19</xref>,
+     <xref rid="B20-molecules-26-03005" ref-type="bibr">20</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Diterpenes</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Paclitaxel, 10-deacetylbaccatin III, tasumatrol B, taxodal, sandaracopimaric acid, taxodione, xanthoperol, andrographolide, gibberellin A8, 7α-hydroxysandaracopimaric acid, gibberellin A12, gibberellin A12 aldehyde, gibberellin A15, 14α-hydroxyisopimaric acid, 12-hydroxydehydroabietic acid, gibberellin A19, gibberellin A9, carnosol, lathyrol, 
+     <italic>E</italic>-communic acid, 15-hydroxy-8(17),13(
+     <italic>E</italic>)-labdadiene-19-carboxilic acid, holophyllin A, holophyllin D, sugiol, ferruginol
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Taxus brevifolia, T. baccata, T. globosa, T. distichum, P. mariana, J. taxifolia, M. glyptostroboides, A. holophylla, J. excelsa, J. communis, J. excelsa, J. communis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B18-molecules-26-03005" ref-type="bibr">18</xref>,
+     <xref rid="B19-molecules-26-03005" ref-type="bibr">19</xref>,
+     <xref rid="B21-molecules-26-03005" ref-type="bibr">21</xref>,
+     <xref rid="B22-molecules-26-03005" ref-type="bibr">22</xref>,
+     <xref rid="B23-molecules-26-03005" ref-type="bibr">23</xref>,
+     <xref rid="B24-molecules-26-03005" ref-type="bibr">24</xref>,
+     <xref rid="B25-molecules-26-03005" ref-type="bibr">25</xref>,
+     <xref rid="B26-molecules-26-03005" ref-type="bibr">26</xref>,
+     <xref rid="B27-molecules-26-03005" ref-type="bibr">27</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <bold>Nitrogen Compounds</bold>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Alkaloids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Vellosimine, 1,6-dehydropinidine, cis-pinidine, 1,6-dehydropinidinone, epipinidinone, cis-pinidinol, trans-pinidine, euphococcinine, α-pipecoline 1, (−)-pinidine</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. mariana, P. abies, P. sabiniana, P. torreyana,</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B13-molecules-26-03005" ref-type="bibr">13</xref>,
+     <xref rid="B18-molecules-26-03005" ref-type="bibr">18</xref>,
+     <xref rid="B28-molecules-26-03005" ref-type="bibr">28</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Lignans</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Lariciıesinol, taxiresinol, 3’-demethylisolariciresino1-9’-hydroxyisopropylethe, isolariciresinol, deoxypodophyllotoxin, (−)-secoisolariciresinol, 3, 3-demethylisolariciresinol, isotaxiresinol 2, α-conidendrin, (+)-pinoresinol, (−)-matairesinol, arctiin, dibenzylbutyrolactol, (−)-wikstromol, (−)-traxillagenin, (−)-arctigenin, traxillaside, 4′-deme-thyltraxillagenin, [(2
+     <italic>R</italic>,3
+     <italic>R</italic>)-2-(4′’-hydroxy-3′’-methoxybenzyl)-3-(4′-hydroxy-3′,5′dimethoxybenzyl)-butyrolactone]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>T. baccata, J. taxifolia, J. sabina, J. virginiana, J. virginiana, P. roxburghii, Cedrus deodara, T. nucifera</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B29-molecules-26-03005" ref-type="bibr">29</xref>,
+     <xref rid="B30-molecules-26-03005" ref-type="bibr">30</xref>,
+     <xref rid="B31-molecules-26-03005" ref-type="bibr">31</xref>,
+     <xref rid="B32-molecules-26-03005" ref-type="bibr">32</xref>,
+     <xref rid="B33-molecules-26-03005" ref-type="bibr">33</xref>,
+     <xref rid="B34-molecules-26-03005" ref-type="bibr">34</xref>,
+     <xref rid="B35-molecules-26-03005" ref-type="bibr">35</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <bold>Polyphenols: Flavonoids</bold>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavanonols</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Taxifolin, cedeodarin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>C. deodara, L. simbraca, P. roxburghii, P. mariana, P. abies, A. pindrow, A. excelsa; P. pinea, P. halepensis, P. pinaster, P. gerardiana</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B33-molecules-26-03005" ref-type="bibr">33</xref>,
+     <xref rid="B36-molecules-26-03005" ref-type="bibr">36</xref>,
+     <xref rid="B37-molecules-26-03005" ref-type="bibr">37</xref>,
+     <xref rid="B38-molecules-26-03005" ref-type="bibr">38</xref>,
+     <xref rid="B39-molecules-26-03005" ref-type="bibr">39</xref>,
+     <xref rid="B40-molecules-26-03005" ref-type="bibr">40</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavones</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pilosanol B, luteolin, apigenin, apigenin 6-C-b-glucopyranoside</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. mariana, A. excelsa, P. abies, P. sylvestris, P. menziesii, P. menziesii, J. communis, A. angustifolia, L. deciduas</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B18-molecules-26-03005" ref-type="bibr">18</xref>,
+     <xref rid="B38-molecules-26-03005" ref-type="bibr">38</xref>,
+     <xref rid="B39-molecules-26-03005" ref-type="bibr">39</xref>,
+     <xref rid="B41-molecules-26-03005" ref-type="bibr">41</xref>,
+     <xref rid="B42-molecules-26-03005" ref-type="bibr">42</xref>,
+     <xref rid="B43-molecules-26-03005" ref-type="bibr">43</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Biflavones</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bilobetin, cupressuflavone II-7-
+     <italic>O</italic>-methyl-robustaflavone
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>T. wallichiana, C. macrocarpa, A. angustifolia</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B43-molecules-26-03005" ref-type="bibr">43</xref>,
+     <xref rid="B44-molecules-26-03005" ref-type="bibr">44</xref>,
+     <xref rid="B45-molecules-26-03005" ref-type="bibr">45</xref>,
+     <xref rid="B46-molecules-26-03005" ref-type="bibr">46</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavonols</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Quercetin, dihydroquercetin, rutin, kaempferol, dihydrokaempferol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>J. communis, J. oxycedrus, P. gerardiana, P. roxburghii, P. wallichiana, A. angustifolia, P. abies, L. deciduas, P. sylvestris, P. menziesii, M. glyptostroboides, J. excelsa, P. mariana, J. foetidissima</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B18-molecules-26-03005" ref-type="bibr">18</xref>,
+     <xref rid="B33-molecules-26-03005" ref-type="bibr">33</xref>,
+     <xref rid="B41-molecules-26-03005" ref-type="bibr">41</xref>,
+     <xref rid="B42-molecules-26-03005" ref-type="bibr">42</xref>,
+     <xref rid="B43-molecules-26-03005" ref-type="bibr">43</xref>,
+     <xref rid="B47-molecules-26-03005" ref-type="bibr">47</xref>,
+     <xref rid="B48-molecules-26-03005" ref-type="bibr">48</xref>,
+     <xref rid="B49-molecules-26-03005" ref-type="bibr">49</xref>,
+     <xref rid="B50-molecules-26-03005" ref-type="bibr">50</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Flavan-3-ols</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Monomers: (−)-epicatechin, (−)-epicatechin-3-gallate, (+)-catechin, sennidin A, (−)-epigallocatechin,</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. pinaster, P. pinea, P. halepensis, P. roxburghii, P. wallichiana, P. gerardiana, J. foetidissima, A. angustifolia, P. abies, L. deciduas, P. sylvestris, J. communis, P. menziesii, J. oxycedrus, M. glyptostroboides, J. excelsa</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B18-molecules-26-03005" ref-type="bibr">18</xref>,
+     <xref rid="B33-molecules-26-03005" ref-type="bibr">33</xref>,
+     <xref rid="B39-molecules-26-03005" ref-type="bibr">39</xref>,
+     <xref rid="B40-molecules-26-03005" ref-type="bibr">40</xref>,
+     <xref rid="B41-molecules-26-03005" ref-type="bibr">41</xref>,
+     <xref rid="B43-molecules-26-03005" ref-type="bibr">43</xref>,
+     <xref rid="B47-molecules-26-03005" ref-type="bibr">47</xref>,
+     <xref rid="B48-molecules-26-03005" ref-type="bibr">48</xref>,
+     <xref rid="B49-molecules-26-03005" ref-type="bibr">49</xref>,
+     <xref rid="B50-molecules-26-03005" ref-type="bibr">50</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Polymers: Procyanidin B1, B2, procyanidin A2,</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. halepensis, P. pinea, P. pinaster</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B40-molecules-26-03005" ref-type="bibr">40</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <bold>Phenolic acids</bold>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Benzoic acids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">p-hydroxybenzoic acid, 2,5-dihydroxobenzoic acid, gallic acid, 4-hydroxybenzoic acid, protocatechuic acid, ellagic acid</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. abies, L. deciduas, P. sylvestris, P. menziesii, P. kesiya, J. communis, A. excelsa, P. roxburghii, P. wallichiana, P. gerardiana, L. deciduas, J. communis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B33-molecules-26-03005" ref-type="bibr">33</xref>,
+     <xref rid="B38-molecules-26-03005" ref-type="bibr">38</xref>,
+     <xref rid="B41-molecules-26-03005" ref-type="bibr">41</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hydroxycinnamic acid</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Caffeic acid, t-cinnamic Acid, p-coumaric acid, vanillic acid, ferulic acid, salicylic acid, sinapic acid, syringic acid, chlorogenic acid, 5-caffeoylquinic acid, caffeic acid 4-
+     <italic>O</italic>-glucoside
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. abies, L. deciduas, P. sylvestris, T. baccata, P. mariana, P. pinaster, P. kesiya, L. deciduas, J. communis, P. menziesii, M. glyptostroboides</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B18-molecules-26-03005" ref-type="bibr">18</xref>,
+     <xref rid="B21-molecules-26-03005" ref-type="bibr">21</xref>,
+     <xref rid="B39-molecules-26-03005" ref-type="bibr">39</xref>,
+     <xref rid="B41-molecules-26-03005" ref-type="bibr">41</xref>,
+     <xref rid="B42-molecules-26-03005" ref-type="bibr">42</xref>,
+     <xref rid="B49-molecules-26-03005" ref-type="bibr">49</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Stilbenes</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">trans-resveratrol, resveratrol, trans-pinosylvin, cis-stilbenes, pinosylvin, dihydro-monomethyl, trans-stilbenes, trans-piceatannol, trans-piceid, trans-isorhapontin, trans-isorhapontigenin, phenanthrenes, astringin, trans-astringin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. mariana, P. abies, J. communis, P. pinaster, P. sylvestris, P. strobes, P. roxburghii, P. wallichiana, P. gerardiana, P. merkusii</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B8-molecules-26-03005" ref-type="bibr">8</xref>,
+     <xref rid="B18-molecules-26-03005" ref-type="bibr">18</xref>,
+     <xref rid="B39-molecules-26-03005" ref-type="bibr">39</xref>,
+     <xref rid="B51-molecules-26-03005" ref-type="bibr">51</xref>,
+     <xref rid="B52-molecules-26-03005" ref-type="bibr">52</xref>,
+     <xref rid="B53-molecules-26-03005" ref-type="bibr">53</xref>,
+     <xref rid="B54-molecules-26-03005" ref-type="bibr">54</xref>,
+     <xref rid="B55-molecules-26-03005" ref-type="bibr">55</xref>,
+     <xref rid="B56-molecules-26-03005" ref-type="bibr">56</xref>,
+     <xref rid="B57-molecules-26-03005" ref-type="bibr">57</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

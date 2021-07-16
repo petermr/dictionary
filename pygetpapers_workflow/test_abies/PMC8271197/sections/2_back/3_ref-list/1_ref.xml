@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref1">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Abe</surname>
+    <given-names>H</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Urao</surname>
+    <given-names>T</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Ito</surname>
+    <given-names>T</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Seki</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Shinozaki</surname>
+    <given-names>K</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Yamaguchi-Shinozaki</surname>
+    <given-names>K</given-names>
+   </string-name>
+  </person-group> (
+  <year>2003</year>) 
+  <article-title>Arabidopsis AtMYC2 (bHLH) and AtMYB2 (MYB) function as transcriptional activators in abscisic acid signaling</article-title>. 
+  <source>Plant Cell</source>
+  <volume>15</volume>:
+  <fpage>63</fpage>–
+  <lpage>78</lpage>.
+  <pub-id pub-id-type="pmid">12509522</pub-id>
+ </mixed-citation>
+</ref>

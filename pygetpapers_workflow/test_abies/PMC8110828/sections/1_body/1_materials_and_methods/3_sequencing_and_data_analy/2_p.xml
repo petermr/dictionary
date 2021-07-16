@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>From demultiplexed fastq files, an amplicon sequence variant (ASV) table was obtained using Dada2 pipeline (version 1.16, 
+ <xref rid="B6" ref-type="bibr">Callahan et al., 2016</xref>) following the standard protocol provided by the developers on github (version 1.16). Briefly, adapters and primers were trimmed and sequences with ambiguous base pairs were removed from the dataset. Error models were predicted from randomly selected samples from the run and both forward and reverse reads were filtered according to the error profiles. Sequences were merged and filtered for chimeric sequences. Sequences outside a range of 250–254 bp were discarded. A frequency ASV table was generated from the dataset. Taxonomy was assigned to ASVs using SILVA reference database v.138. An ASV-approach was chosen over an approach based on operational taxonomic units (OTUs) for reasons of precision and reproducibility (
+ <xref rid="B5" ref-type="bibr">Callahan et al., 2017</xref>).
+</p>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR61">
+ <label>61.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sasnauskas</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Kauneckaite</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Siksnys</surname>
+    <given-names>V</given-names>
+   </name>
+  </person-group>
+  <article-title>Structural basis of DNA target recognition by the B3 domain of Arabidopsis epigenome reader VAL1</article-title>
+  <source>Nucleic Acids Res</source>
+  <year>2018</year>
+  <volume>46</volume>
+  <issue>8</issue>
+  <fpage>4316</fpage>
+  <lpage>4324</lpage>
+  <pub-id pub-id-type="doi">10.1093/nar/gky256</pub-id>
+  <?supplied-pmid 29660015?>
+  <pub-id pub-id-type="pmid">29660015</pub-id>
+ </element-citation>
+</ref>

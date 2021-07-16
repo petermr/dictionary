@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The effects of tree species and management on the number of ECM fungal species for tree were analyzed by linear mixed-effects model fit by REML using the lme function in nlme package in R 3.6.2., with plot as a random effect. The effect of plot was tested by comparing the model without plot (made by gls function) and the model with plot (made by lme function) by function ANOVA.</p>

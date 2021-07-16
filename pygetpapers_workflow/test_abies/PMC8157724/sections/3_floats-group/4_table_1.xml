@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Gene-wise references used for detecting the different domains in the respective genes involved in initiation of somatic embryogenesis in conifers</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Genes involved in initiation of somatic embryogenesis</th>
+    <th>References</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>
+     <italic>BABYBOOM (BBM)</italic>
+    </td>
+    <td>[
+     <xref ref-type="bibr" rid="CR41">41</xref>, 
+     <xref ref-type="bibr" rid="CR42">42</xref>, 
+     <xref ref-type="bibr" rid="CR83">83</xref>, 
+     <xref ref-type="bibr" rid="CR84">84</xref>, 
+     <xref ref-type="bibr" rid="CR109">109</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <italic>LEAFY COTYLEDON (LEC)</italic>
+    </td>
+    <td>[
+     <xref ref-type="bibr" rid="CR77">77</xref>–
+     <xref ref-type="bibr" rid="CR80">80</xref>, 
+     <xref ref-type="bibr" rid="CR110">110</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <italic>FUSCA3 (FUS3)</italic>
+    </td>
+    <td>[
+     <xref ref-type="bibr" rid="CR72">72</xref>, 
+     <xref ref-type="bibr" rid="CR82">82</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <italic>ABSCISIC ACID INSENSITIVE 3</italic> (
+     <italic>ABI3</italic>) or 
+     <italic>VIVIPAROUS</italic> (
+     <italic>VP1</italic>)
+    </td>
+    <td>[
+     <xref ref-type="bibr" rid="CR35">35</xref>, 
+     <xref ref-type="bibr" rid="CR111">111</xref>, 
+     <xref ref-type="bibr" rid="CR112">112</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <italic>EMBRYOMAKER (EMK)</italic>
+    </td>
+    <td>[
+     <xref ref-type="bibr" rid="CR43">43</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <italic>WUSCHEL (WUS)</italic> and 
+     <italic>WUSCHEL-related homeobox (WOX) 2</italic>
+    </td>
+    <td>[
+     <xref ref-type="bibr" rid="CR7">7</xref>, 
+     <xref ref-type="bibr" rid="CR8">8</xref>, 
+     <xref ref-type="bibr" rid="CR48">48</xref>, 
+     <xref ref-type="bibr" rid="CR51">51</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <italic>Somatic embryogenesis receptor kinases (SERK)</italic>
+    </td>
+    <td>[
+     <xref ref-type="bibr" rid="CR90">90</xref>, 
+     <xref ref-type="bibr" rid="CR91">91</xref>, 
+     <xref ref-type="bibr" rid="CR113">113</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2">
+     <bold>Genes involved in suppression somatic embryogenesis</bold>
+    </td>
+   </tr>
+   <tr>
+    <td> 
+     <italic>PICKLE (PKL)</italic>
+    </td>
+    <td>[
+     <xref ref-type="bibr" rid="CR58">58</xref>, 
+     <xref ref-type="bibr" rid="CR108">108</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td> 
+     <italic>VP1/ABI3-LIKE (VAL)</italic>
+    </td>
+    <td>[
+     <xref ref-type="bibr" rid="CR59">59</xref>, 
+     <xref ref-type="bibr" rid="CR60">60</xref>, 
+     <xref ref-type="bibr" rid="CR65">65</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

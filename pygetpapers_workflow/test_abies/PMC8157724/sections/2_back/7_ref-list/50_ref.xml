@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR50">
+ <label>50.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Palovaara</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Hallberg</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Stasolla</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Hakman</surname>
+    <given-names>I</given-names>
+   </name>
+  </person-group>
+  <article-title>Comparative expression pattern analysis of WUSCHEL-related homeobox 2 (WOX2) and WOX8/9 in developing seeds and somatic embryos of the gymnosperm Picea abies</article-title>
+  <source>New Phytol</source>
+  <year>2010</year>
+  <volume>188</volume>
+  <issue>1</issue>
+  <fpage>122</fpage>
+  <lpage>135</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1469-8137.2010.03336.x</pub-id>
+  <?supplied-pmid 20561212?>
+  <pub-id pub-id-type="pmid">20561212</pub-id>
+ </element-citation>
+</ref>

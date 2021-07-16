@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par41">BLASTP to GenBank with 
+ <italic>A. thaliana VAL1</italic>/
+ <italic>VAL2</italic>/
+ <italic>VAL3</italic> did not give significant matches in Pinidae, while Gymno PLAZA resulted in similar hits with 
+ <italic>A. thaliana VAL1</italic>/
+ <italic>VAL2</italic>/
+ <italic>VAL3</italic> in all the conifer species included in this analysis (with the available sequence data), except in case of 
+ <italic>P. menziesii</italic> where BLASTP searches with 
+ <italic>VAL1</italic>/
+ <italic>VAL2</italic> resulted in similar hits but searches with 
+ <italic>VAL3</italic> gave different matches. There were no significant matches found for 
+ <italic>A. thaliana VAL1</italic>/
+ <italic>VAL2</italic>/
+ <italic>VAL3</italic> in 
+ <italic>Picea sitchensis</italic> (Sitka spruce, 
+ <italic>P. sitchensis</italic>). 
+ <italic>A. thaliana VAL1</italic> shares 47% identity with 
+ <italic>A. thaliana VAL2</italic> and 34% identity with 
+ <italic>A. thaliana VAL3</italic>, while 
+ <italic>A. thaliana VAL2</italic> shares 44% identity with 
+ <italic>A. thaliana VAL3</italic> as observed from the BLASTP (Additional file 
+ <xref rid="MOESM11" ref-type="media">11</xref>.pdf). Since similar hits were detected in all the conifer species (included in the analysis), we considered all the sequences together to make the alignments and marked the different domains of the conifer 
+ <italic>VAL</italic> homologues, which were found to be conserved within the conifer species included in the analysis (Figure S67, Additional file 
+ <xref rid="MOESM11" ref-type="media">11</xref>.pdf). The B3 domain, in particular was found to be highly conserved.
+</p>

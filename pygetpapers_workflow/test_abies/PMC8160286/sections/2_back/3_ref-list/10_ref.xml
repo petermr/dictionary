@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Benson</surname>
+    <given-names>D. A.</given-names>
+   </name>
+   <name>
+    <surname>Cavanaugh</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Clark</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Karsch-Mizrachi</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Lipman</surname>
+    <given-names>D. J.</given-names>
+   </name>
+   <name>
+    <surname>Ostell</surname>
+    <given-names>J.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2007</year>). 
+  <article-title>GenBank.</article-title>
+  <source>
+   <italic>Nucleic Acids Res.</italic>
+  </source>
+  <volume>41</volume>
+  <fpage>36</fpage>–
+  <lpage>41</lpage>.
+ </mixed-citation>
+</ref>

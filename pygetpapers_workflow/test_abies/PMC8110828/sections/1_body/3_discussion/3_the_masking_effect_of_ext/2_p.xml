@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In our study, we found that the frequencies of several bacterial classes differed among DNA types (
+ <xref ref-type="supplementary-material" rid="ST2">Supplementary Table 2</xref>). Our results suggest that the ecological role of 
+ <italic>Acidobacteriota</italic> in the decomposition of 
+ <italic>P. abies</italic> deadwood might be underestimated. Among the 
+ <italic>intra</italic> ASVs (
+ <xref ref-type="fig" rid="F3">Figure 3B</xref>), the diversity and abundance of 
+ <italic>Acidobacteriota</italic> was significantly higher than in the other two DNA types, especially in DCl I and also in DCl III (
+ <xref ref-type="fig" rid="F4">Figure 4</xref>). In addition, the abundance of indicator ASVs among DNA types fine-tuned their ecological interpretation (
+ <xref rid="T2" ref-type="table">Table 2</xref>). In studies based on the total DNA pool, the composition of the extracellular DNA can mask the arrival, establishment and extinction of the ASV corresponding organisms despite “sufficient” sequencing/sampling depth, usually analyzed by rarefaction curves and sequencing coverage. In fact, the variations in bacterial abundances or even detection introduced by the potential masking effect of the extracellular DNA could complicate the assessment of microbiome-environment interactions. Consequently, the ecological role of organisms might be misinterpreted. Given the differential frequencies of bacterial classes in our study, this seems to hold true not only for species, but also for higher levels of taxa, which might change the perspective on a broader ecological scale. Due to the absence of indicator ASVs in the total DNA pool in some DCls (
+ <xref rid="T2" ref-type="table">Table 2</xref>, 
+ <xref ref-type="fig" rid="F4">Figure 4E</xref>), we might conclude that we do have statistical tools that can handle microbiome data, while we do not feed them with high-resolution microbiome data sets, which is not necessarily achieved solely by sequencing depth. Our findings provide further evidence that this can be accomplished with relatively little effort by the proposed fine-tuning DNA approach. Future studies can greatly benefit from studying different DNA types or at least considering their concept for a more accurate interpretation of molecular environmental data.
+</p>

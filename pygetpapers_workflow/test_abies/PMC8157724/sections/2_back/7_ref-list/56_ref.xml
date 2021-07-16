@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR56">
+ <label>56.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Clapier</surname>
+    <given-names>CR</given-names>
+   </name>
+   <name>
+    <surname>Iwasa</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Cairns</surname>
+    <given-names>BR</given-names>
+   </name>
+   <name>
+    <surname>Peterson</surname>
+    <given-names>CL</given-names>
+   </name>
+  </person-group>
+  <article-title>Mechanisms of action and regulation of ATP-dependent chromatin-remodelling complexes</article-title>
+  <source>Nat Rev Mol Cell Biol</source>
+  <year>2017</year>
+  <volume>18</volume>
+  <issue>7</issue>
+  <fpage>407</fpage>
+  <lpage>422</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrm.2017.26</pub-id>
+  <?supplied-pmid 28512350?>
+  <pub-id pub-id-type="pmid">28512350</pub-id>
+ </element-citation>
+</ref>

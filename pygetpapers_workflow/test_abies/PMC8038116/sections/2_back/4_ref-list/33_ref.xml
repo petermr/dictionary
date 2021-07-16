@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B33-polymers-13-01106">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ciric</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Oostland</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>de Vries</surname>
+    <given-names>J.W.</given-names>
+   </name>
+   <name>
+    <surname>Woortman</surname>
+    <given-names>A.J.</given-names>
+   </name>
+   <name>
+    <surname>Loos</surname>
+    <given-names>K.</given-names>
+   </name>
+  </person-group>
+  <article-title>Size exclusion chromatography with multi detection in combination with matrix-assisted laser desorption ionization-time-of-flight mass spectrometry as a tool for unraveling the mechanism of the enzymatic polymerization of polysaccharides</article-title>
+  <source>Anal. Chem.</source>
+  <year>2012</year>
+  <volume>84</volume>
+  <fpage>10463</fpage>
+  <lpage>10470</lpage>
+  <pub-id pub-id-type="doi">10.1021/ac302704q</pub-id>
+  <?supplied-pmid 23121513?>
+  <pub-id pub-id-type="pmid">23121513</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T4" position="float">
+ <label>TABLE 4</label>
+ <caption>
+  <p>Indicative fungal OTUs associated with roots of decapitated 
+   <italic>Picea abies</italic> seedlings across forest microhabitats 2–15 months after decapitation, with classification into fungal species hypothesis on 98.5% similarity level.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sampling time</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Taxonomy</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Ecology
+     <sup>1</sup>
+    </td>
+    <td valign="top" align="center" colspan="3" rowspan="1">Indicative for microhabitat
+     <sup>2</sup>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">Bare forest soil</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Ericoid shrubs</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Coarse woody debris</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU3392</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH213927.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Tylospora</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">EcM</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU3394</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH213927.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Tylospora</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">EcM</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU200</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH212614.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Hygrophorus</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">EcM</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU3359</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH213927.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Tylospora</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">EcM</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU48</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH181078.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Meliniomyces</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">ErM</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU510</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH181093.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Meliniomyces</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Endophyte</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU1377</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH220720.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Mycena</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Saprotroph</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU5132</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH202706.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Chalara</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Saprotroph</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU5036</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH184432.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Gyoerffyella</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Saprotroph</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU4615</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH217841.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Herpotrichiellaceae</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">4</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU555</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH216991.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Oidiodendron</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">ErM</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU535</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH216987.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Oidiodendron</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">ErM</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU4715</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH203224.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Leptodontidium</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Endophyte</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU532</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH214267.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Meliniomyces</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Endophyte</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU510</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH181093.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Meliniomyces</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Endophyte</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU1377</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH220720.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Mycena</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Saprotroph</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU5036</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH184432.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Gyoerffyella</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Saprotroph</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU412</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH020043.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Collophora</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU4640</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH217841.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Herpotrichiellaceae</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU4498</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH219622.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Fungi</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">10</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU264</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH211718.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Helotiales</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">15</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU374</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH214294.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Phialocephala</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Endophyte</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">OTU551</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">SH275913.07FU</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Acephala</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Endophyte</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">*</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <attrib>
+   <italic>
+    <sup>1</sup>Fungal ecophysiological categories: ectomycorrhizal (EcM), ericoid mycorrhizal (ErM). 
+    <sup>2</sup>Asterisks refer to significant relationship between forest microhabitats and the occurrence of fungal OTU. All OTUs recorded from less than four samples were excluded from the indicative species analysis.
+   </italic>
+  </attrib>
+ </table-wrap-foot>
+</table-wrap>

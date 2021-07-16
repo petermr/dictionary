@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="molecules-26-03005-t003" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">molecules-26-03005-t003_Table 3</object-id>
+ <label>Table 3</label>
+ <caption>
+  <p>Anti-inflammatory capacity of different conifers spp.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Conifer spp.</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Part Used</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Nature of Extract</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Compounds</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Major Method(s) of Testing</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Dose. Conc</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Main Effect</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">References</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Abies chensiensis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Twigs and leaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Terpenoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Induce lipopolysaccharide to produce inflammation in RAW 264.7 macrophage cells</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.2–50.0 μM</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4 compounds—3α-hydroxyl-8,14,22Z,24-tetraenlanosta-26,23-olide; (5
+     <italic>R</italic>,20
+     <italic>R</italic>)-8(14→13
+     <italic>R</italic>)-abeo-17,13-friedo-3-oxolanosta-8,14(30),22
+     <italic>Z</italic>,24-tetraen-26,23-olide;
+     <break/>8,14,22
+     <italic>Z</italic>,24-tetraen-3-oxolanosta-26,23-olide;
+     <break/>and (23
+     <italic>R</italic>, 25
+     <italic>R</italic>)-3,4-seco-9β 
+     <italic>H</italic>-lanosta-4 (28),7-dien-16α-hydroxyl-26,23-olid-3-oate—extracted from extracts showed significant anti-inflammatory activities of inhibition against NO formation with IC
+     <sub>50</sub> value of 15.9, 18.7, 20.18, and 10.9 μM
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B125-molecules-26-03005" ref-type="bibr">125</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>A. georgei</italic>
+    </td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Aerial parts</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Chloroform, ethyl acetate, 
+     <italic>n</italic>-butanol
+    </td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Flavanoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">dimethylbenzene-induced ear oedema in mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">200 mg/kg</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">AG ethyl acetate extract shows 18% inhibition against dimethylbenzene-induced ear edema in mice while carrageenin-induced paw edema in rats shows inhibition ratios 28.2% and 35.6%, after 2 and 6h, respectively.</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B156-molecules-26-03005" ref-type="bibr">156</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Carrageenin-induced paw oedema rat</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">140 mg/kg</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>A. webbiana</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol/Petroleum ether extract</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavanoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Carrageenan-induced rat hind paw edema model in Albino mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">400 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Plant leaves extract possesses significant anti-inflammatory properties</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B157-molecules-26-03005" ref-type="bibr">157</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Agathis robusta</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavanoids, tannins and saponins</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Heat induced hemolytic method in human red blood cell (HRBC) membrane</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">400 μg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaves extract shows good antiinflammatory activity</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B158-molecules-26-03005" ref-type="bibr">158</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Cedrus deodara</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Stem bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Deodarin, quercetin, taxifolin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Carrageenin-induced paw edema in Albino rat</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Anti-inflammatory activity with 43.47% inhibition</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B159-molecules-26-03005" ref-type="bibr">159</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Cupressus macrocarpa</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cupressuflavone (CUF)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Carrageenan-induced paw edema model in Mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">40, 80, and
+     <break/>160 mL/kg
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CUF demonstrated antiinflammatory
+     <break/>activity by inhibiting paw edema with 55, 60, and 64%, by decreasing the plasma pro-inflammatory mediators PGE2, IL-6, TNF-a and IL-1b
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B46-molecules-26-03005" ref-type="bibr">46</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Juniperus communis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Berry</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Alcohol/Water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavanoids (quercetin rutin, apigenin) chlorogenic acid</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Acute-dextran and kaolin subacute inflammation induced in Wistar Rat</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10 mL/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">The antiinflammatory action of the juniper extract, administered as a microemulsion in acute-dextran model was increased when compared to kaolin subacute inflammation induced model.</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B42-molecules-26-03005" ref-type="bibr">42</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>J. oxycedrus</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Berry</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethanol, n-butanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavonoids (amentoflavone, cupressuflavone, hinokiflavone, and rutin)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Carrageenan-induced hind paw edema model in mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethanol extract of Joso berries displayed remarkable inflammatory inhibition ranging between 24.5% and 23.7% at 100 mg/kg in carrageenan-induced edema model</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B160-molecules-26-03005" ref-type="bibr">160</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>J. foetidissima</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Berry</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavonoids (amentoflavone, cupressuflavone, hinokiflavone, and rutin)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">carrageenan-induced hind paw edema model in mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">JFB extract at a dose of 100 mg/kg. shows high antiinflammatory effect 26.9%</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B160-molecules-26-03005" ref-type="bibr">160</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Pinus gerardiana, P. roxburghii, P. wallichiana</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavanoid, tannin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">against albumin denaturation, HRBC membrane stabilization assay</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2500 μg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. roxburghii</italic> extract showed highest (%) of inhibition and protection i.e 86.54 and 89.92 against albumin denaturation and HRBC membrane stabilization. However, 
+     <italic>P. wallichiana</italic> have least inhibition and protection percentage, i.e., 76.54 and 81.2%
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B104-molecules-26-03005" ref-type="bibr">104</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Taxus baccata</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Aerial parts</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Terpenoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">ear edema induced in mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.2 mg/ear</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>T. baccata</italic> extract displayed best activity
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B21-molecules-26-03005" ref-type="bibr">21</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>T. baccata</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Alkaloids, terpenoids, flavonoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">carrageenan-induced paw edema in Wistar Albino rat</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">200 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Percentage of inhibition is 44% at a dose of 200 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B161-molecules-26-03005" ref-type="bibr">161</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>T. baccata</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Heart wood</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Taxoids, lignans</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">carrageenan-induced hind paw edema model inS wiss albino mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30–100 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TBW shows significant antinociceptive and anti-inflammatory activities</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B29-molecules-26-03005" ref-type="bibr">29</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>T. wallichiana</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Tasumatrol B, 1,13-diacetyl-10-deacetylbaccatin III (10-DAD) and 4-deacetylbaccatin III (4-DAB)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">carrageenan-induced paw edema and Cotton-pellet oedema model in Wistar rats and Swiss albino mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">20 and 40 mg/kg; 40 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">In a carrageenan-induced inflammation model, tasumatrol B at a dose of 20 mg/kg showed significant activity, while in a cotton-pellet edema model tasumatrol B was found to be highly significant at the dose of 40 mg/kg.</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B22-molecules-26-03005" ref-type="bibr">22</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Thuja occidentalis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Non-woody branches with leaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mother tincture (MT)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Polyphenols, flavonoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Administered 2,4,6-trinitrobenzenesulfonic acid to induce intrarectal colitis in mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25 or 50 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MT manage to relieve intestinal inflammation experimentally induce by TNBS in 7 days.</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B126-molecules-26-03005" ref-type="bibr">126</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>JFB—Juniper foetidissima berry; AG—Abies georgei; TBW—
+    <italic>Taxus baccata</italic> heart wood.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref50">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Love</surname>
+    <given-names>MI</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Huber</surname>
+    <given-names>W</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Anders</surname>
+    <given-names>S</given-names>
+   </string-name>
+  </person-group> (
+  <year>2014</year>) 
+  <article-title>Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2</article-title>. 
+  <source>Genome Biol</source>
+  <volume>15</volume>:550.
+ </mixed-citation>
+</ref>

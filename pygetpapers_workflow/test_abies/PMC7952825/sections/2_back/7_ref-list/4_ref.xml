@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Feret</surname>
+    <given-names>PP</given-names>
+   </name>
+   <name>
+    <surname>Bergmann</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Miksche</surname>
+    <given-names>JP</given-names>
+   </name>
+  </person-group>
+  <article-title>Gel electrophoresis of proteins and enzymes</article-title>
+  <source>Modern methods in forest genetics</source>
+  <year>1976</year>
+  <publisher-loc>Berlin</publisher-loc>
+  <publisher-name>Springer</publisher-name>
+  <fpage>49</fpage>
+  <lpage>78</lpage>
+ </element-citation>
+</ref>

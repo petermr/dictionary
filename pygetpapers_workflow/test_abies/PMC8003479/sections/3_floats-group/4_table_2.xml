@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="genes-12-00438-t002" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">genes-12-00438-t002_Table 2</object-id>
+ <label>Table 2</label>
+ <caption>
+  <p>List of genes belonging to the 
+   <italic>KNOTTED1-LIKE HOMEOBOX (KNOX)</italic> family, including those from model species 
+   <italic>Arabidopsis thaliana</italic> and their homologue genes already identified in gymnosperms, with name abbreviation, locus code (AGI code in case of 
+   <italic>Arabidopsis thaliana</italic>, GenBank number in case of gymnosperm species), function, location and references. Shoot apical meristem, SAM.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Species</th>
+    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Name 
+     <break/>Abbreviation
+    </th>
+    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Locus
+     <break/>Code
+    </th>
+    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Function and Location</th>
+    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">References</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="5" align="left" valign="middle" style="border-bottom:solid thin" rowspan="1">
+     <bold>
+      <italic>i. Class I</italic>
+     </bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Arabidopsis thaliana</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtSTM</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT1G62360</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">SAM formation and maintenance of stem cell population, floral and carpel formation</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B100-genes-12-00438" ref-type="bibr">100</xref>,
+     <xref rid="B101-genes-12-00438" ref-type="bibr">101</xref>,
+     <xref rid="B102-genes-12-00438" ref-type="bibr">102</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtBP/KNAT1</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT4G08150</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Stem cell maintenance</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B107-genes-12-00438" ref-type="bibr">107</xref>,
+     <xref rid="B108-genes-12-00438" ref-type="bibr">108</xref>,
+     <xref rid="B109-genes-12-00438" ref-type="bibr">109</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtKNAT2</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT1G70510</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Carpel development</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B107-genes-12-00438" ref-type="bibr">107</xref>,
+     <xref rid="B108-genes-12-00438" ref-type="bibr">108</xref>,
+     <xref rid="B109-genes-12-00438" ref-type="bibr">109</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>AtKNAT6</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AT1G23380</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Establishment SAM boundaries during embryogenesis, shoot apex and root</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B110-genes-12-00438" ref-type="bibr">110</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Picea abies</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PaKN1/HBK3</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AF483278</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">General functions on somatic embryo development</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B113-genes-12-00438" ref-type="bibr">113</xref>,
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>,
+     <xref rid="B116-genes-12-00438" ref-type="bibr">116</xref>,
+     <xref rid="B118-genes-12-00438" ref-type="bibr">118</xref>,
+     <xref rid="B119-genes-12-00438" ref-type="bibr">119</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PaKN2/HBK1</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AF063248</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">SAM of vegetative and reproductive buds and general functions on somatic embryos</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B112-genes-12-00438" ref-type="bibr">112</xref>,
+     <xref rid="B113-genes-12-00438" ref-type="bibr">113</xref>,
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>,
+     <xref rid="B116-genes-12-00438" ref-type="bibr">116</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PaKN3/HBK2</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AF483277</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryogenic cell lines competent to form fully mature embryos</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B113-genes-12-00438" ref-type="bibr">113</xref>,
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>,
+     <xref rid="B116-genes-12-00438" ref-type="bibr">116</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PaKN4/HBK4</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AY680389/AY680400</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Embryogenic cell lines competent to form fully mature embryos</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>,
+     <xref rid="B116-genes-12-00438" ref-type="bibr">116</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Picea glauca</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PgKN1</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AY680381/AY680392</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PgKN2</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AY680383/AY680394</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PgKN3</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AY680385/AY680396</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PgKN4</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AY680390/AY680401</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Picea mariana</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PmKN1</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">U90091</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PmKN2</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">U90092</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PmKN3</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AY680386/AY680397</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PmKN4</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AY680405</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Pinus pinaster</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpKN1</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KT356208</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo, hypocotyl, root and shoot apex</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B115-genes-12-00438" ref-type="bibr">115</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpKN2</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KT356209</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Somatic embryo and germination</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B115-genes-12-00438" ref-type="bibr">115</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpKN3</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KT356217/KT356211</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">SAM and vascular tissues, hypocotyl and shoot apex</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B115-genes-12-00438" ref-type="bibr">115</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PpKN4</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">KT356210</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Embryo, hypocotyl, root and shoot apex</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B115-genes-12-00438" ref-type="bibr">115</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Pinus strobus</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PsKN1</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AY680380/AY680391</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PsKN2</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AY680382/AY680393</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PsKN3</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AY680384/AY680395</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PsKN4</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AY680388/AY680399</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Pinus taeda</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PtKN1</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AY680402</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PtKN2</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AY680403</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PtKN3</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AY680404</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PtKN4</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AY680387/AY680398</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B114-genes-12-00438" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td colspan="5" align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">
+     <bold>
+      <italic>ii. Class II</italic>
+     </bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Arabidopsis thaliana</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtKNAT3</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT5G25220</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Mature organs</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B111-genes-12-00438" ref-type="bibr">111</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtKNAT4</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT5G11060</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Mature organs</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B111-genes-12-00438" ref-type="bibr">111</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtKNAT5</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT4G32040</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Mature organs</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B111-genes-12-00438" ref-type="bibr">111</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>AtKNAT7</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AT1G62990</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mature organs</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B111-genes-12-00438" ref-type="bibr">111</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Picea abies</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PaKN5</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MK580154</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B115-genes-12-00438" ref-type="bibr">115</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Pinus pinaster</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpKN5</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">MK580155</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Shoot apex and primordia of young needles</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B115-genes-12-00438" ref-type="bibr">115</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PpKN6</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MK580156</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Early embryos</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B115-genes-12-00438" ref-type="bibr">115</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Pinus taeda</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpKN5</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">MK580157</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B115-genes-12-00438" ref-type="bibr">115</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpKN6</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">MK580158</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B115-genes-12-00438" ref-type="bibr">115</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td colspan="5" align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">
+     <bold>
+      <italic>iii. Class M</italic>
+     </bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Arabidopsis thaliana</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>AtKNATM</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AT1G14760</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Lateral domain on flower meristem, involved on flower transition</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B98-genes-12-00438" ref-type="bibr">98</xref>,
+     <xref rid="B99-genes-12-00438" ref-type="bibr">99</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>n/a: non available information.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Parcy</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Valon</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Raynal</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Gaubiercomella</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Delseny</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Giraudat</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Regulation of gene-expression programs during Arabidopsis seed development - roles of the ABI3 locus and of endogenous abscisic-acid</article-title>
+  <source>Plant Cell</source>
+  <year>1994</year>
+  <volume>6</volume>
+  <issue>11</issue>
+  <fpage>1567</fpage>
+  <lpage>1582</lpage>
+  <pub-id pub-id-type="doi">10.1105/tpc.6.11.1567</pub-id>
+  <pub-id pub-id-type="pmid">7827492</pub-id>
+ </element-citation>
+</ref>

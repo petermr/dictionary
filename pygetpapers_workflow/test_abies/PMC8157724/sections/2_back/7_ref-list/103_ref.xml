@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR103">
+ <label>103.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ranade</surname>
+    <given-names>SS</given-names>
+   </name>
+   <name>
+    <surname>Delhomme</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>García-Gil</surname>
+    <given-names>MR</given-names>
+   </name>
+  </person-group>
+  <article-title>Global gene expression analysis in etiolated and de-etiolated seedlings in conifers</article-title>
+  <source>PLoS One</source>
+  <year>2019</year>
+  <volume>14</volume>
+  <issue>7</issue>
+  <fpage>e0219272</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0219272</pub-id>
+  <pub-id pub-id-type="pmid">31276530</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR46">
+ <label>46.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zuo</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Niu</surname>
+    <given-names>QW</given-names>
+   </name>
+   <name>
+    <surname>Frugis</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Chua</surname>
+    <given-names>NH</given-names>
+   </name>
+  </person-group>
+  <article-title>The WUSCHEL gene promotes vegetative-to-embryonic transition in Arabidopsis</article-title>
+  <source>Plant J</source>
+  <year>2002</year>
+  <volume>30</volume>
+  <issue>3</issue>
+  <fpage>349</fpage>
+  <lpage>359</lpage>
+  <pub-id pub-id-type="doi">10.1046/j.1365-313X.2002.01289.x</pub-id>
+  <?supplied-pmid 12000682?>
+  <pub-id pub-id-type="pmid">12000682</pub-id>
+ </element-citation>
+</ref>

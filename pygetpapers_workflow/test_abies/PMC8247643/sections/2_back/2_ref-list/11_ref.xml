@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Capella-Gutiérrez</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Silla-Martínez</surname>
+    <given-names>J. M.</given-names>
+   </name>
+   <name>
+    <surname>Gabaldón</surname>
+    <given-names>T.</given-names>
+   </name>
+  </person-group> (
+  <year>2009</year>). 
+  <article-title>trimAl: a tool for automated alignment trimming in large-scale phylogenetic analyses</article-title>. 
+  <source>Bioinformatics</source>
+  <volume>25</volume>, 
+  <fpage>1972</fpage>–
+  <lpage>1973</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/bioinformatics/btp348</pub-id>
+  <?supplied-pmid 19505945?>
+  <pub-id pub-id-type="pmid">19505945</pub-id>
+ </mixed-citation>
+</ref>

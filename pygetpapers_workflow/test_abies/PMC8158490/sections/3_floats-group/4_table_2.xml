@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="molecules-26-03005-t002" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">molecules-26-03005-t002_Table 2</object-id>
+ <label>Table 2</label>
+ <caption>
+  <p>Antioxidant capacity of extracts obtained from different conifer spp.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Conifer spp.</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Part Used</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Compounds</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Nature of Extract</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Radical Scavenging Assay</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Dose/Concentration</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Main Effects</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">References</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Aurocaria cookii</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Phenolic compounds</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol, chloroform, petroleum ether</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1000 μg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol extract shows the best antioxidant activity with 63% inhibition, higher than the other two compounds</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B147-molecules-26-03005" ref-type="bibr">147</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>A. excelsa</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Needle</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavanoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">50–72.5 μg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol/water extract shows antioxidant activity</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B38-molecules-26-03005" ref-type="bibr">38</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>C. deodara</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Heart wood</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Tannins, flavonoids, and phenolic compounds</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Water/alcohol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH, superoxide radical-scavenging activity, ABTS</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH-IC
+     <sub>50</sub> (μg/mL): 61.89 (water extract),
+     <break/>75.79 (alcohol extract)
+     <break/>superoxide radical-scavenging activity—
+     <break/>IC
+     <sub>50</sub> (μg/mL): 87.76 (water extract), 121.55 (alcohol extract).
+     <break/>ABTS-IC
+     <sub>50</sub> (μg/mL): 115.29 (water extract), 122.42 (alcohol extract).
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH radical-scavenging activity and the reducing power of 
+     <italic>C. deodara</italic> were potent in water and alcohol extract
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B148-molecules-26-03005" ref-type="bibr">148</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>C. japonica</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All parts</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Phenolic compounds</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">ORAC,
+     <break/>SOD
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.09–7.64 TE/mg
+     <break/>3.63–4.06μg/mL
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">The methanol extracts from each part of 
+     <italic>C. japonica</italic> except for pollen showed strong activities in the bioactivity assays.
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B149-molecules-26-03005" ref-type="bibr">149</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>J. communis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Berry</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavanoids (quercetin rutin,
+     <break/>apigenin) chlorogenic acid
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Alcohol/Water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">EC
+     <sub>50</sub> 1.42 mg/mL against standard Ascorbic acidEC
+     <sub>50</sub> value of 0.365 mg/mL
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">The antioxidant activity was confirmed as 81.63 ± 0.38% by the DPPH assay.</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B42-molecules-26-03005" ref-type="bibr">42</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>L. laricina</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Phenolic compounds</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethanol/Water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">ORAC</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> 0.878 μg/mL.
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark extract of LL shows significant antioxidant activity</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B51-molecules-26-03005" ref-type="bibr">51</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Metasequoia glyptostroboides</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cone</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Terpenoid</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethyl acetate</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH, NO, superoxide, and H
+     <sub>2</sub>O
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5–250 μg /mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sugiol derived from cone extract show good antioxidant activity—78.38, 72.42, 74.45 and 85.04%, respectively.</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B26-molecules-26-03005" ref-type="bibr">26</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Picea abies</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Atilbenoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethanol/Water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">49.74 μg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">UVA-induced modification of the stilbene-rich inner bark extracts increased the antioxidant activity as UVA irradiation decreased the capacity of the extracts to prevent lipid oxidation in the liposome system method</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B53-molecules-26-03005" ref-type="bibr">53</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>P. smithiana</italic>
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Leaves</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Phenolic compounds</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Methanol</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> (μg/mL)-
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Results of the DPPH radical scavenging activity and FRAP study determine that methanol extracts of leaf displayed the highest antiradical efficiency</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B150-molecules-26-03005" ref-type="bibr">150</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">228</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">FRAP</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">494</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Reducing Power assay</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">978</td>
+   </tr>
+   <tr>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>Pinus gerardiana</italic>
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Bark</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Phenolic compounds</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Ethanol</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> value μg/mL
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>P. gerardiana</italic> shows promising H
+     <sub>2</sub>O
+     <sub>2</sub> radical scavenging activity
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B104-molecules-26-03005" ref-type="bibr">104</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">102.8</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">H
+     <sub>2</sub>O
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">81.83</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NO
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">109.2</td>
+   </tr>
+   <tr>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>P. halepensis</italic>
+    </td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Bark</td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Phenolic compounds</td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Ethanol/Water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> (μg/mL). Ethanol and the water
+    </td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Ethanol and water extract of bark exhibited significant free radical neutralization capacities, at conc. 0.5–8 μg/mL</td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B151-molecules-26-03005" ref-type="bibr">151</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.28, 3.26</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">ABTS</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.1, 3.59</td>
+   </tr>
+   <tr>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>P. pinaster</italic>
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Bark</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Phenolic compounds</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Ethanol/Water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PB (50%) and (90%) IC
+     <sub>50</sub> value μg/mL
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">PP bark extracts formed from PB 50% (50% ethanol) have maximum (DPPH, ABTS) radical scavenging activity while FRAP shows activity with (PB 90%)</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B39-molecules-26-03005" ref-type="bibr">39</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">49.74</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">ABTS</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">59.41</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">FRAP</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">101.3</td>
+   </tr>
+   <tr>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>P. roxburghii</italic>
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Bark</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Phenolic compounds</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Ethanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> value μg/mL
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Pine extract shows significant antioxidant activity</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B104-molecules-26-03005" ref-type="bibr">104</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">97.54</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">H
+     <sub>2</sub>O
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">86.90</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NO2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">111.38</td>
+   </tr>
+   <tr>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>P. wallichiana</italic>
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Bark</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Phenolic compounds</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Ethanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> (μg/mL)
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Pine extract shows significant radical scavenging activity</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B104-molecules-26-03005" ref-type="bibr">104</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">111.40</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">H
+     <sub>2</sub>O
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">84.18</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NO2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">98.5</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Thuja occidentalis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavonoids, phenols</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH, FRAP</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">20–100 μg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Crude extract shows significant antioxidant activity</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B152-molecules-26-03005" ref-type="bibr">152</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>T. occidentalis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Non-woody
+     <break/>branches with leaves
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Polyphenol, flavonoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mother tincture (MT)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH, ORAC, NO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25 or 50 mg/kg </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>T. occidentalis</italic> mother tincture displayed 88.3% antioxidant activity by DPPH and about 78% by NO assay
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B126-molecules-26-03005" ref-type="bibr">126</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="5" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>Taxus baccata</italic>
+    </td>
+    <td rowspan="5" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Leaves and
+     <break/>cones
+    </td>
+    <td rowspan="5" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Flavonoids, phenols</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> (μg/mL) 105.41, 518.51 leaves and cones resp.
+    </td>
+    <td rowspan="5" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Acetone and ethyl acetate extract of leaves show good scavenging activity</td>
+    <td rowspan="5" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B153-molecules-26-03005" ref-type="bibr">153</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">533.66, &gt;1000 leaves and cones resp.</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Acetone</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25.24, 81.43 leaves and cones resp.</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethyl acetate</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">29.84, 180.26 leaves and cones resp.</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Petroleum ether</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">438.92, &gt; 1000 leaves and cones resp.</td>
+   </tr>
+   <tr>
+    <td rowspan="12" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>T. wallichiana</italic>
+    </td>
+    <td rowspan="12" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Leaves</td>
+    <td rowspan="12" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Terpenoids, flavonoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> values (μg/mL)
+    </td>
+    <td rowspan="12" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">The maximum DPPH activity was observed in methanol extract (91.25%), followed by water (87.64%), ethanol (85.23%), and ethyl acetate (83.27%) at the highest concentration (700μg/ml)</td>
+    <td rowspan="12" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B154-molecules-26-03005" ref-type="bibr">154</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Superoxide radical</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">170.30</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">212.00</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LPO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">126.09</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hydroxyl radical</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">82.34</td>
+   </tr>
+   <tr>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Ethyl acetate</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Superoxide radical</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">297.55</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">301.80</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LPO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">151.96</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hydroxyl radical</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">199.05</td>
+   </tr>
+   <tr>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Superoxide radical</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">257.00</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">258.29</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hydroxyl radical</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">175.33</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>T. wallichiana</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaf, stem</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Polyphenols, flavanoids, terpenoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH
+     <break/>FRAP
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> value (μg/mL.)
+     <break/>Leaves (23.18)
+     <break/>Stem (56.75)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DPPH and FRAP activity of TW leaves and stem extract have high antioxidant activities.</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B155-molecules-26-03005" ref-type="bibr">155</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>PB-Pine bark; TW-Taxus wallichiana.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

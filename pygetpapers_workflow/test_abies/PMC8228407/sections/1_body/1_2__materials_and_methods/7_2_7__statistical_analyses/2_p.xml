@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For the analyses of the diversity of fungal communities, the number of sequences for each CWD sample was randomly subsampled to 5000 sequences. The CWD samples having a sequencing depth below this threshold were not considered for the diversity analyses. The diversity indices were estimated with the ‘vegan’ R package [
+ <xref rid="B51-jof-07-00412" ref-type="bibr">51</xref>].
+</p>

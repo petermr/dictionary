@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR108">
+ <label>108.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Marchler-Bauer</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Derbyshire</surname>
+    <given-names>MK</given-names>
+   </name>
+   <name>
+    <surname>Gonzales</surname>
+    <given-names>NR</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>SN</given-names>
+   </name>
+   <name>
+    <surname>Chitsaz</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Geer</surname>
+    <given-names>LY</given-names>
+   </name>
+   <name>
+    <surname>Geer</surname>
+    <given-names>RC</given-names>
+   </name>
+   <name>
+    <surname>He</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Gwadz</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Hurwitz</surname>
+    <given-names>DI</given-names>
+   </name>
+   <name>
+    <surname>Lanczycki</surname>
+    <given-names>CJ</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Marchler</surname>
+    <given-names>GH</given-names>
+   </name>
+   <name>
+    <surname>Song</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Thanki</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Yamashita</surname>
+    <given-names>RA</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Zheng</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Bryant</surname>
+    <given-names>SH</given-names>
+   </name>
+  </person-group>
+  <article-title>CDD: NCBI's conserved domain database</article-title>
+  <source>Nucleic Acids Res</source>
+  <year>2015</year>
+  <volume>43</volume>
+  <issue>D1</issue>
+  <fpage>D222</fpage>
+  <lpage>D226</lpage>
+  <pub-id pub-id-type="doi">10.1093/nar/gku1221</pub-id>
+  <?supplied-pmid 25414356?>
+  <pub-id pub-id-type="pmid">25414356</pub-id>
+ </element-citation>
+</ref>

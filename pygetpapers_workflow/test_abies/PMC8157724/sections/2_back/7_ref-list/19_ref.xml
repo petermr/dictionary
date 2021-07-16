@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Braybrook</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Harada</surname>
+    <given-names>JJ</given-names>
+   </name>
+  </person-group>
+  <article-title>LECs go crazy in embryo development</article-title>
+  <source>Trends Plant Sci</source>
+  <year>2008</year>
+  <volume>13</volume>
+  <issue>12</issue>
+  <fpage>624</fpage>
+  <lpage>630</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tplants.2008.09.008</pub-id>
+  <?supplied-pmid 19010711?>
+  <pub-id pub-id-type="pmid">19010711</pub-id>
+ </element-citation>
+</ref>

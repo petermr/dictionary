@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Sequencing data have been deposited at the European Nucleotide Archive (ENA, 
+ <ext-link xlink:href="https://www.ebi.ac.uk/ena" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.ebi.ac.uk/ena</ext-link>) under the accession ID PRJEB26933. Associated scripts are available from the git repository 
+ <ext-link xlink:href="https://github.com/loalon/2020-spruce-drought-stress" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/loalon/2020-spruce-drought-stress</ext-link> and the data can be interactively explored at 
+ <ext-link xlink:href="http://terra.upsc.se/2020-spruce-drought-stress/" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">http://terra.upsc.se/2020-spruce-drought-stress/</ext-link>.
+</p>

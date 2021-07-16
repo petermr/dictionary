@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B39">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lilleskov</surname>
+    <given-names>E. A.</given-names>
+   </name>
+   <name>
+    <surname>Bruns</surname>
+    <given-names>T. D.</given-names>
+   </name>
+   <name>
+    <surname>Horton</surname>
+    <given-names>T. R.</given-names>
+   </name>
+   <name>
+    <surname>Taylor</surname>
+    <given-names>D. L.</given-names>
+   </name>
+   <name>
+    <surname>Grogan</surname>
+    <given-names>P.</given-names>
+   </name>
+  </person-group> (
+  <year>2004</year>). 
+  <article-title>Detection of forest stand-level spatial structure in ectomycorrhizal fungal communities.</article-title>
+  <source>
+   <italic>FEMS Microbiol. Ecol.</italic>
+  </source>
+  <volume>49</volume>
+  <fpage>319</fpage>–
+  <lpage>332</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.femsec.2004.04.004</pub-id>
+  <?supplied-pmid 19712424?>
+  <pub-id pub-id-type="pmid">19712424</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B59">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>van den Boogaart</surname>
+    <given-names>G. K.</given-names>
+   </name>
+   <name>
+    <surname>Tolosana-Delgado</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Bren</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group> (
+  <year>2020</year>). 
+  <source>
+   <italic>Compositions: Compositional Data Analysis. R package Version 2.0-0.</italic>
+  </source>
+ </mixed-citation>
+</ref>

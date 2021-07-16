@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="pone.0246805.t004" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0246805.t004</object-id>
+ <label>Table 4</label>
+ <caption>
+  <title>Meta-analytic statistics of effect sizes (r) from factors associated with stem failure.</title>
+ </caption>
+ <alternatives>
+  <graphic id="pone.0246805.t004g" xlink:href="pone.0246805.t004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <colgroup span="1">
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th align="left" rowspan="1" colspan="1">Factor</th>
+     <th align="left" rowspan="1" colspan="1">Number of studies</th>
+     <th align="left" rowspan="1" colspan="1">Number of effect sizes</th>
+     <th align="left" rowspan="1" colspan="1">Total sample size</th>
+     <th align="left" rowspan="1" colspan="1">Q</th>
+     <th align="left" rowspan="1" colspan="1">P
+      <sub>Q</sub>
+     </th>
+     <th align="left" rowspan="1" colspan="1">I
+      <sup>2</sup> (%)
+     </th>
+     <th align="left" rowspan="1" colspan="1">τ
+      <sup>2</sup>
+     </th>
+     <th align="left" rowspan="1" colspan="1">τ</th>
+     <th align="left" rowspan="1" colspan="1">p
+      <sub>F</sub>
+     </th>
+     <th align="left" rowspan="1" colspan="1">BF
+      <sub>10</sub>
+     </th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Age coniferous</td>
+     <td align="right" rowspan="1" colspan="1">1</td>
+     <td align="right" rowspan="1" colspan="1">6</td>
+     <td align="right" rowspan="1" colspan="1">195</td>
+     <td align="right" rowspan="1" colspan="1">1.40</td>
+     <td align="right" rowspan="1" colspan="1">0.924</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">33.616</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Crown area coniferous</td>
+     <td align="right" rowspan="1" colspan="1">1</td>
+     <td align="right" rowspan="1" colspan="1">2</td>
+     <td align="right" rowspan="1" colspan="1">14</td>
+     <td align="right" rowspan="1" colspan="1">2.33</td>
+     <td align="right" rowspan="1" colspan="1">0.127</td>
+     <td align="right" rowspan="1" colspan="1">57.10</td>
+     <td align="right" rowspan="1" colspan="1">0.33</td>
+     <td align="right" rowspan="1" colspan="1">0.58</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">1.685</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Crown width coniferous</td>
+     <td align="right" rowspan="1" colspan="1">2</td>
+     <td align="right" rowspan="1" colspan="1">4</td>
+     <td align="right" rowspan="1" colspan="1">35</td>
+     <td align="right" rowspan="1" colspan="1">2.04</td>
+     <td align="right" rowspan="1" colspan="1">0.361</td>
+     <td align="right" rowspan="1" colspan="1">1.94</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.05</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">5.331</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">DBH coniferous</td>
+     <td align="right" rowspan="1" colspan="1">7</td>
+     <td align="right" rowspan="1" colspan="1">8</td>
+     <td align="right" rowspan="1" colspan="1">224</td>
+     <td align="right" rowspan="1" colspan="1">34.12</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">82.41</td>
+     <td align="right" rowspan="1" colspan="1">0.19</td>
+     <td align="right" rowspan="1" colspan="1">0.43</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">8.688</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">DBH deciduous</td>
+     <td align="right" rowspan="1" colspan="1">5</td>
+     <td align="right" rowspan="1" colspan="1">6</td>
+     <td align="right" rowspan="1" colspan="1">125</td>
+     <td align="right" rowspan="1" colspan="1">1.24</td>
+     <td align="right" rowspan="1" colspan="1">0.871</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">32.144</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">DBH
+      <sup>2</sup> deciduous
+     </td>
+     <td align="right" rowspan="1" colspan="1">2</td>
+     <td align="right" rowspan="1" colspan="1">3</td>
+     <td align="right" rowspan="1" colspan="1">93</td>
+     <td align="right" rowspan="1" colspan="1">0.44</td>
+     <td align="right" rowspan="1" colspan="1">0.801</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">14.073</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">DBH
+      <sup>2</sup>H coniferous
+     </td>
+     <td align="right" rowspan="1" colspan="1">6</td>
+     <td align="right" rowspan="1" colspan="1">8</td>
+     <td align="right" rowspan="1" colspan="1">300</td>
+     <td align="right" rowspan="1" colspan="1">65.08</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">89.24</td>
+     <td align="right" rowspan="1" colspan="1">0.25</td>
+     <td align="right" rowspan="1" colspan="1">0.50</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">29.055</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">DBH
+      <sup>2</sup>H deciduous
+     </td>
+     <td align="right" rowspan="1" colspan="1">2</td>
+     <td align="right" rowspan="1" colspan="1">3</td>
+     <td align="right" rowspan="1" colspan="1">93</td>
+     <td align="right" rowspan="1" colspan="1">4.28</td>
+     <td align="right" rowspan="1" colspan="1">0.118</td>
+     <td align="right" rowspan="1" colspan="1">53.26</td>
+     <td align="right" rowspan="1" colspan="1">0.04</td>
+     <td align="right" rowspan="1" colspan="1">0.21</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">12.238</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">DBH
+      <sup>3</sup> coniferous
+     </td>
+     <td align="right" rowspan="1" colspan="1">6</td>
+     <td align="right" rowspan="1" colspan="1">7</td>
+     <td align="right" rowspan="1" colspan="1">436</td>
+     <td align="right" rowspan="1" colspan="1">170.39</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">96.48</td>
+     <td align="right" rowspan="1" colspan="1">0.57</td>
+     <td align="right" rowspan="1" colspan="1">0.76</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">30.817</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">DBH
+      <sup>3</sup> deciduous
+     </td>
+     <td align="right" rowspan="1" colspan="1">3</td>
+     <td align="right" rowspan="1" colspan="1">4</td>
+     <td align="right" rowspan="1" colspan="1">96</td>
+     <td align="right" rowspan="1" colspan="1">4.57</td>
+     <td align="right" rowspan="1" colspan="1">0.102</td>
+     <td align="right" rowspan="1" colspan="1">56.26</td>
+     <td align="right" rowspan="1" colspan="1">0.05</td>
+     <td align="right" rowspan="1" colspan="1">0.22</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">28.816</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Height coniferous</td>
+     <td align="right" rowspan="1" colspan="1">7</td>
+     <td align="right" rowspan="1" colspan="1">11</td>
+     <td align="right" rowspan="1" colspan="1">390</td>
+     <td align="right" rowspan="1" colspan="1">7.63</td>
+     <td align="right" rowspan="1" colspan="1">0.665</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">1297.727</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Height deciduous</td>
+     <td align="right" rowspan="1" colspan="1">5</td>
+     <td align="right" rowspan="1" colspan="1">7</td>
+     <td align="right" rowspan="1" colspan="1">196</td>
+     <td align="right" rowspan="1" colspan="1">20.94</td>
+     <td align="right" rowspan="1" colspan="1">0.001</td>
+     <td align="right" rowspan="1" colspan="1">76.12</td>
+     <td align="right" rowspan="1" colspan="1">0.12</td>
+     <td align="right" rowspan="1" colspan="1">0.35</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">10.218</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Stem volume coniferous</td>
+     <td align="right" rowspan="1" colspan="1">3</td>
+     <td align="right" rowspan="1" colspan="1">4</td>
+     <td align="right" rowspan="1" colspan="1">168</td>
+     <td align="right" rowspan="1" colspan="1">25.69</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">88.32</td>
+     <td align="right" rowspan="1" colspan="1">0.20</td>
+     <td align="right" rowspan="1" colspan="1">0.45</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">13.631</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Tree weight (kg) coniferous</td>
+     <td align="right" rowspan="1" colspan="1">6</td>
+     <td align="right" rowspan="1" colspan="1">7</td>
+     <td align="right" rowspan="1" colspan="1">351</td>
+     <td align="right" rowspan="1" colspan="1">69.14</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">91.32</td>
+     <td align="right" rowspan="1" colspan="1">0.27</td>
+     <td align="right" rowspan="1" colspan="1">0.52</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">28.141</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Stem weight (kg) coniferous</td>
+     <td align="right" rowspan="1" colspan="1">10</td>
+     <td align="right" rowspan="1" colspan="1">14</td>
+     <td align="right" rowspan="1" colspan="1">770</td>
+     <td align="right" rowspan="1" colspan="1">138.15</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">90.59</td>
+     <td align="right" rowspan="1" colspan="1">0.20</td>
+     <td align="right" rowspan="1" colspan="1">0.45</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">3764.541</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Stem weight (kg) deciduous</td>
+     <td align="right" rowspan="1" colspan="1">2</td>
+     <td align="right" rowspan="1" colspan="1">3</td>
+     <td align="right" rowspan="1" colspan="1">62</td>
+     <td align="right" rowspan="1" colspan="1">11.27</td>
+     <td align="right" rowspan="1" colspan="1">0.004</td>
+     <td align="right" rowspan="1" colspan="1">82.26</td>
+     <td align="right" rowspan="1" colspan="1">0.31</td>
+     <td align="right" rowspan="1" colspan="1">0.56</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">1.831</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Wind speed canopy-top coniferous</td>
+     <td align="right" rowspan="1" colspan="1">2</td>
+     <td align="right" rowspan="1" colspan="1">39</td>
+     <td align="right" rowspan="1" colspan="1">39</td>
+     <td align="right" rowspan="1" colspan="1">0.01</td>
+     <td align="right" rowspan="1" colspan="1">0.905</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.00</td>
+     <td align="right" rowspan="1" colspan="1">0.000</td>
+     <td align="right" rowspan="1" colspan="1">1.760</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <fn id="t004fn001">
+   <p>Q = Cochrane’s Q indicates variation around the average effect; P
+    <sub>Q</sub> = p-value indicating significance for Q; I
+    <sup>2</sup> = expresses consistency of effect sizes; τ and τ
+    <sup>2</sup> = estimates of heterogeneity; p
+    <sub>F</sub> displays the result of Fishers’ combined probability test; BF
+    <sub>10</sub> = represents Bayes Factor which indicates a favour for H
+    <sub>1</sub> over H
+    <sub>0</sub>; n.a. = not available.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

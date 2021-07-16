@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">Somatic embryogenesis (SE) is the process in which somatic embryos develop from somatic tissue in vitro on medium in most cases supplemented with growth regulators. Knowledge of genes involved in regulation of initiation and of development of somatic embryos is crucial for application of SE as an efficient tool to enable genetic improvement across genotypes by clonal propagation.</p>
+ </sec>
+ <sec>
+  <title>Results</title>
+  <p id="Par2">Current work presents in silico identification of putative homologues of central regulators of SE initiation and development in conifers focusing mainly on key transcription factors (TFs) e.g. 
+   <italic>BBM</italic>, 
+   <italic>LEC1</italic>, 
+   <italic>LEC1-LIKE, LEC2</italic> and 
+   <italic>FUSCA3</italic>, based on sequence similarity using BLASTP. Protein sequences of well-characterised candidates genes from 
+   <italic>Arabidopsis thaliana</italic> were used to query the databases (Gymno PLAZA, Congenie, GenBank) including whole-genome sequence data from two representative species from the genus 
+   <italic>Picea</italic> (
+   <italic>Picea abies</italic>) and 
+   <italic>Pinus</italic> (
+   <italic>Pinus taeda</italic>), for finding putative conifer homologues, using BLASTP. Identification of corresponding conifer proteins was further confirmed by domain search (Conserved Domain Database), alignment (MUSCLE) with respective sequences of 
+   <italic>Arabidopsis thaliana</italic> proteins and phylogenetic analysis (Phylogeny.fr).
+  </p>
+ </sec>
+ <sec>
+  <title>Conclusions</title>
+  <p id="Par3">This in silico analysis suggests absence of 
+   <italic>LEC2</italic> in 
+   <italic>Picea abies</italic> and 
+   <italic>Pinus taeda</italic>, the conifer species whose genomes have been sequenced. Based on available sequence data to date, 
+   <italic>LEC2</italic> was also not detected in the other conifer species included in the study. 
+   <italic>LEC2</italic> is one of the key TFs associated with initiation and regulation of the process of SE in angiosperms. Potential alternative mechanisms that might be functional in conifers to compensate the lack of 
+   <italic>LEC2</italic> are discussed.
+  </p>
+ </sec>
+ <sec>
+  <title>Supplementary Information</title>
+  <p>The online version contains supplementary material available at 10.1186/s12864-021-07718-8.</p>
+ </sec>
+</abstract>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0246805.ref075">
+ <label>75</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Simmonds</surname>
+   <given-names>M. C.</given-names>
+  </name>, &amp; 
+  <name>
+   <surname>Higgins</surname>
+   <given-names>J. P.</given-names>
+  </name>
+  <article-title>A general framework for the use of logistic regression models in meta-analysis.</article-title>
+  <source>Statistical methods in medical research.</source>
+  <year>2016</year>;
+  <volume>25</volume>(
+  <issue>6</issue>):
+  <fpage>2858</fpage>–
+  <lpage>2877</lpage>. 
+  <pub-id pub-id-type="doi">10.1177/0962280214534409</pub-id>
+  <?supplied-pmid 24823642?>
+  <pub-id pub-id-type="pmid">24823642</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To examine whether extensively characterized Arabidopsis drought-response genes displayed similar transcriptional response to drought in Norway spruce, a manually curated set of 373 genes was further considered (
+ <xref rid="sup10" ref-type="supplementary-material">Table S3</xref> available as Supplementary data at 
+ <italic toggle="yes">Tree Physiology</italic> Online). Orthologs or homologs were identified for 335 (89.9%) of these, represented by 979 Norway spruce gene models (
+ <xref rid="TB2" ref-type="table">Table 2</xref> and 
+ <xref rid="sup5" ref-type="supplementary-material">Figure S5</xref> available as Supplementary data at 
+ <italic toggle="yes">Tree Physiology</italic> Online), of which &gt;87% were expressed in the current samples. A subset of these were DE in needles (10.5%; 39 genes) or roots (31.4%; 117 genes), and only this subset was therefore considered to have evidence of conserved function (indicated by transcriptional response) in Norway spruce seedlings. These DEGs were assigned into the clusters detailed in 
+ <xref rid="f3" ref-type="fig">Figures 3a and </xref>
+ <xref rid="f4" ref-type="fig">4a</xref> based on their expression profiles (
+ <xref rid="sup10" ref-type="supplementary-material">Table S3</xref> available as Supplementary data at 
+ <italic toggle="yes">Tree Physiology</italic> Online). Among this set of genes, conservation existed for genes functioning in the induction of solute accumulation, such as for sugars and amino acids (e.g., 
+ <italic toggle="yes">GolS1</italic>, 
+ <italic toggle="yes">RS5/SIP1</italic>, 
+ <italic toggle="yes">PCK1</italic>, 
+ <italic toggle="yes">MGL</italic>, 
+ <xref rid="f3" ref-type="fig">Figure 3a</xref>, Cluster 3; and 
+ <italic toggle="yes">GolS2</italic>, 
+ <italic toggle="yes">BAM1/BMY7</italic>, 
+ <italic toggle="yes">AVP1/AVP3</italic>, 
+ <italic toggle="yes">HKL3</italic> specifically in roots, 
+ <xref rid="f3" ref-type="fig">Figure 3a</xref>; Cluster 5), reactive oxygen species (ROS) scavenging (e.g., 
+ <italic toggle="yes">GSTU19/GST8</italic>, 
+ <xref rid="f3" ref-type="fig">Figure 3a</xref>, Cluster 3 and 
+ <italic toggle="yes">GPX3</italic>, 
+ <xref rid="f3" ref-type="fig">Figure 3a</xref>, Cluster 5), dehydrins (e.g., 
+ <italic toggle="yes">LTI29/ERD10/LTI45,</italic>
+ <xref rid="f3" ref-type="fig">Figure 3a</xref>, Cluster 3 and 
+ <italic toggle="yes">LEA7</italic>, 
+ <italic toggle="yes">LEA4-1</italic> specifically in roots; 
+ <xref rid="f3" ref-type="fig">Figure 3a</xref>, Cluster 5) and ABA biosynthesis and signaling (e.g., 
+ <italic toggle="yes">NCED3/SIS7/STO1</italic>, 
+ <italic toggle="yes">NCED5, PP2CA/AHG3</italic>, 
+ <italic toggle="yes">CIPK6/SNRK3.14/SIP3</italic>, 
+ <italic toggle="yes">AFP2</italic>, 
+ <xref rid="f3" ref-type="fig">Figure 3a</xref>, Cluster 3). Additionally, genes that restrict proline catabolism (e.g., 
+ <italic toggle="yes">ERD5/PDH1</italic>, 
+ <italic toggle="yes">PDH2</italic>, 
+ <xref rid="f4" ref-type="fig">Figure 4a</xref>, Cluster 10), ROS production (e.g., 
+ <italic toggle="yes">RBOH F, RBOH D</italic>, 
+ <xref rid="f4" ref-type="fig">Figure 4a</xref>, Cluster 9; and 
+ <italic toggle="yes">GSTF10/ERD13</italic>, 
+ <italic toggle="yes">GSTF6/GST1/ERD11/GSTF3</italic>, 
+ <italic toggle="yes">GST30/ERD9/GSTU17</italic>, 
+ <xref rid="f4" ref-type="fig">Figure 4a</xref>, Cluster 10) and auxin and cytokinin signaling (e.g., 
+ <italic toggle="yes">UGT74E2</italic>, 
+ <xref rid="f4" ref-type="fig">Figure 4a</xref>, Cluster 8; and 
+ <italic toggle="yes">UGT76C2</italic>, 
+ <italic toggle="yes">WOL/CRE1/AHK4</italic>, 
+ <xref rid="f4" ref-type="fig">Figure 4a</xref>, Cluster 10) displayed conserved transcriptional responses.
+</p>

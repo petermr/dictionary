@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="genes-12-00438-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">genes-12-00438-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>List of genes belonging to the 
+   <italic>WUSCHEL-RELATED HOMEOBOX</italic> (
+   <italic>WOX</italic>) family, including those from model species 
+   <italic>Arabidopsis thaliana</italic> and their homologue genes already identified in gymnosperms, with name abbreviation, locus code (AGI code in case of 
+   <italic>Arabidopsis thaliana</italic>, GenBank number in case of gymnosperm species), function, location and references. Shoot apical meristem, SAM; root apical meristem, RAM.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Species</th>
+    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Name Abbreviation</th>
+    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Locus Code</th>
+    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Function and Location</th>
+    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">References</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="5" align="left" valign="middle" style="border-bottom:solid thin" rowspan="1">
+     <bold>
+      <italic>i. WUS clade</italic>
+     </bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Arabidopsis thaliana</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtWOX1</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT3G18010</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Lateral organ primordia formation</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B75-genes-12-00438" ref-type="bibr">75</xref>,
+     <xref rid="B84-genes-12-00438" ref-type="bibr">84</xref>,
+     <xref rid="B85-genes-12-00438" ref-type="bibr">85</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtWOX2</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT5G59340</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Apical embryo and embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B75-genes-12-00438" ref-type="bibr">75</xref>,
+     <xref rid="B76-genes-12-00438" ref-type="bibr">76</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtWOX3/PRS</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT2G28610</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">SAM, lateral organ formation</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B81-genes-12-00438" ref-type="bibr">81</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtWOX4</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT1G46480</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Vascular tissue, procambial development</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B82-genes-12-00438" ref-type="bibr">82</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtWOX5</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT3G11260</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Stem cell maintenance (RAM)</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B80-genes-12-00438" ref-type="bibr">80</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtWOX6</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT2G01500</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Cold-stress response</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B83-genes-12-00438" ref-type="bibr">83</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtWOX7</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT5G05770</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Lateral root development</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B86-genes-12-00438" ref-type="bibr">86</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>AtWUS</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AT2G17950</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Stem cell maintenance (SAM)</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B79-genes-12-00438" ref-type="bibr">79</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Ginkgo biloba</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>GbWOX2</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">FM882124</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>GbWOX3A</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">FM882125</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Lateral organ outgrowth</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>GbWOX3B</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">FM882126</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Lateral organ outgrowth</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>GbWOX4</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">HF564615</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Germinating embryo, vascular cambium</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>GbWUS</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">FM882128</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Embryo, shoot tip</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>,
+     <xref rid="B90-genes-12-00438" ref-type="bibr">90</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Gnetum gnemon</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>GgWOX2A</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">HF564611</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>GgWOX2B</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">HF564619</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>GgWOX4</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">HF564612</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Germinating embryo, vascular cambium</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>GgWOX6/WOXX</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">HF564620</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>GgWOXY</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">HF564621</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>GgWUS</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">FM882154</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Embryo, shoot tip</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>,
+     <xref rid="B90-genes-12-00438" ref-type="bibr">90</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Picea abies</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PaWOX2</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AM286747</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B68-genes-12-00438" ref-type="bibr">68</xref>,
+     <xref rid="B71-genes-12-00438" ref-type="bibr">71</xref>,
+     <xref rid="B72-genes-12-00438" ref-type="bibr">72</xref>,
+     <xref rid="B73-genes-12-00438" ref-type="bibr">73</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PaWOX3</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">JX411947</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Lateral organ outgrowth</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B68-genes-12-00438" ref-type="bibr">68</xref>,
+     <xref rid="B89-genes-12-00438" ref-type="bibr">89</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PaWOX4</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">JX411948</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Germinating embryo, vascular cambium</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B68-genes-12-00438" ref-type="bibr">68</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PaWOX5</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">JX411949</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo, SAM, RAM</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B68-genes-12-00438" ref-type="bibr">68</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PaWOXX</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KX011459</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo, SAM, needles</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PaWUS</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">JX512364</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Embryo, shoot tip</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B68-genes-12-00438" ref-type="bibr">68</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Pinus pinaster</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpWOX2</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KU962991</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpWOX3</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KU962992</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Lateral organ outgrowth</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpWOX4</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KU962993</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Germinating embryo, vascular cambium</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpWOX5</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KT356216</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo, SAM, RAM</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpWOXX</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KU962995</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo, SAM, needles</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PpWUS</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">KT356213</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Embryo, shoot tip</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Pinus sylvestris</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PsWOX2</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">FM882159</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B90-genes-12-00438" ref-type="bibr">90</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PsWOX3</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">FM882158</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Lateral organ outgrowth</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B90-genes-12-00438" ref-type="bibr">90</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PsWOX4</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">HF564616</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Germinating embryo, vascular cambium</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B90-genes-12-00438" ref-type="bibr">90</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PsWOX5/WUS</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">FM882160</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Embryo, SAM, RAM</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B90-genes-12-00438" ref-type="bibr">90</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Pinus taeda</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PtWOX2</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KX011449</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PtWOX3</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KX011450</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Lateral organ outgrowth</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PtWOX4</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KX011451</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Germinating embryo, vascular cambium</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PtWOX5</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KX011452</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo, SAM, RAM</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PtWOXX</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KX011454</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo, SAM, needles</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PtWUS</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KX011458</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo, shoot tip</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td colspan="5" align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">
+     <bold>
+      <italic>ii. Intermediate clade</italic>
+     </bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Arabidopsis thaliana</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtWOX8/STPL</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT5G45980</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Basal embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B75-genes-12-00438" ref-type="bibr">75</xref>,
+     <xref rid="B76-genes-12-00438" ref-type="bibr">76</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtWOX9/STIMPY</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT2G33880</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Basal embryo patterning, cell proliferation</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B75-genes-12-00438" ref-type="bibr">75</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtWOX11</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT3G03660</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Adventitious root formation</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B78-genes-12-00438" ref-type="bibr">78</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>AtWOX12</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AT5G17810</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">De novo root organogenesis</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B78-genes-12-00438" ref-type="bibr">78</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Ginkgo biloba</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>GbWOX9</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HF564618</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Gnetum gnemon</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>GgWOX9</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HF564613</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Picea abies</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PaWOX8/9</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">GU944670</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B68-genes-12-00438" ref-type="bibr">68</xref>,
+     <xref rid="B73-genes-12-00438" ref-type="bibr">73</xref>,
+     <xref rid="B77-genes-12-00438" ref-type="bibr">77</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PaWOX8A</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">JX411950</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B68-genes-12-00438" ref-type="bibr">68</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PaWOX8B</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">JX411951</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B68-genes-12-00438" ref-type="bibr">68</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PaWOX8C</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">JX411952</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B68-genes-12-00438" ref-type="bibr">68</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PaWOX8D</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">JX411953</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B68-genes-12-00438" ref-type="bibr">68</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Pinus pinaster</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpWOXB</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KU962997</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpWOXC</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KU962998</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpWOXD</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KU962999</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpWOXE</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KU963000</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PpWOXF</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">KU963001</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Embryo</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Pinus sylvestris</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PsWOX9</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">FM882155</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B90-genes-12-00438" ref-type="bibr">90</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Pinus taeda</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PtWOXB</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KX011456</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PtWOXE</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KX011457</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Embryo patterning</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td colspan="5" align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">
+     <bold>
+      <italic>iii. Ancient clade</italic>
+     </bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Arabidopsis thaliana</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtWOX10</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT1G20710</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B67-genes-12-00438" ref-type="bibr">67</xref>,
+     <xref rid="B70-genes-12-00438" ref-type="bibr">70</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>AtWOX13</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">AT4G35550</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Floral transition, root development</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B70-genes-12-00438" ref-type="bibr">70</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>AtWOX14</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AT1G20700</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Floral transition, root development</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B70-genes-12-00438" ref-type="bibr">70</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Ginkgo biloba</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>GbWOX13</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HF564617</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Gnetum gnemon</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>GgWOX13</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HF564614</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B88-genes-12-00438" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Picea abies</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PaWOX13</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B68-genes-12-00438" ref-type="bibr">68</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PaWOXG</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MG545153</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Pinus pinaster</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpWOX13</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KU962994</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PpWOXA</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KU962996</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PpWOXG</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MG545154</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Pinus sylvestris</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PsWOX13</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">FM882156</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B90-genes-12-00438" ref-type="bibr">90</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>Pinus taeda</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PtWOX13</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KX011453</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">
+     <italic>PtWOXA</italic>
+    </td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">KX011455</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>PtWOXG</italic>
+    </td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MG545155</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n/a</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B69-genes-12-00438" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>n/a: non available information.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

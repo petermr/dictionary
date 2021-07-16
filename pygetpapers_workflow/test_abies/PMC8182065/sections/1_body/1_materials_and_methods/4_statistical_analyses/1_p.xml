@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>All analyses were conducted in R version 4.0.0 (
+ <xref rid="B68" ref-type="bibr">R Core Team, 2020</xref>) using R studio version 1.1.463 (
+ <xref rid="B76" ref-type="bibr">RStudio Team, 2020</xref>), and figures were plotted using 
+ <italic>ggplot2</italic> (
+ <xref rid="B85" ref-type="bibr">Wickham, 2016</xref>). To examine constitutive and MeJA-induced defense and resistance against 
+ <italic>H. abietis</italic> and 
+ <italic>E. polonica</italic>, and if this varies among clones, we fitted various linear models using either the 
+ <italic>lm</italic> (The R stats package, 
+ <xref rid="B68" ref-type="bibr">R Core Team, 2020</xref>) or the 
+ <italic>glmmTMB</italic> functions in R (
+ <italic>glmmTMB</italic> package, 
+ <xref rid="B6" ref-type="bibr">Brooks et al., 2017</xref>). For pine weevil damage (response variable: stem area debarked), we fitted a 
+ <italic>glmmTMB</italic> model with a negative binomial distribution that included MeJA treatment (3 levels: 0, 25, and 50 mM), clone (
+ <italic>n</italic> = 8, since clone 1 had no individuals in the 50 mM MeJA treatment), and the interaction of MeJA and clone, with enclosure (
+ <italic>n</italic> = 4) and plant height (continuous covariate) as fixed factors. Model fit was explored with the 
+ <italic>DHARMa</italic> package (
+ <xref rid="B28" ref-type="bibr">Hartig, 2020</xref>) and no data transformations were necessary. Significance of main effects and interactions was tested using analysis of deviance with the 
+ <italic>Anova</italic> function (
+ <italic>car</italic> package, 
+ <xref rid="B22" ref-type="bibr">Fox and Weisberg, 2019</xref>). For fungal infection (response variable: lesion length), an 
+ <italic>lm</italic> model that included MeJA treatment (3 levels: 0, 25, and 50 mM), clone (
+ <italic>n</italic> = 8), the interaction of MeJA and clone, and sub-plot (
+ <italic>n</italic> = 2) within one enclosure as fixed factors. Lesion length was log-transformed to meet model assumptions. Significance of main effects and interactions was tested using an 
+ <italic>F</italic>-test with the 
+ <italic>Anova</italic> function. Contrasts among treatment means were conducted using the 
+ <italic>emmeans</italic> function (
+ <italic>emmeans</italic> package, 
+ <xref rid="B47" ref-type="bibr">Lenth et al., 2020</xref>). Note, however, that we present visually results for models that include only two MeJA levels (0 and 50 mM, and 0 and 25 mM for clone 1, 
+ <italic>n</italic> = 9 clones) for both area debarked and lesion length (see motivation in Results section).
+</p>

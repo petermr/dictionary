@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Trontin</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Klimaszewska</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Morel</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Hargreaves</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Lelu-Walter</surname>
+    <given-names>MA</given-names>
+   </name>
+  </person-group>
+  <article-title>Molecular aspects of conifer zygotic and somatic embryo development: a review of genome-wide approaches and recent insights</article-title>
+  <source>Methods Mol Biol</source>
+  <year>2016</year>
+  <volume>1359</volume>
+  <fpage>167</fpage>
+  <lpage>207</lpage>
+  <pub-id pub-id-type="doi">10.1007/978-1-4939-3061-6_8</pub-id>
+  <?supplied-pmid 26619863?>
+  <pub-id pub-id-type="pmid">26619863</pub-id>
+ </element-citation>
+</ref>

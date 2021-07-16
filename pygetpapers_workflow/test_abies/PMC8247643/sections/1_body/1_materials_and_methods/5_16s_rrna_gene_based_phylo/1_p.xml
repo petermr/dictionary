@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Dereplicated 16S rRNA genes of strains with sequenced genomes were merged with representative OTU sequences (most frequent sequences from each OTU, Tláskal et al., 
+ <xref rid="B69" ref-type="bibr">2017</xref>). Only the globally most abundant OTUs represented by an abundance &gt;0.5% in &gt;10 samples were selected (
+ <italic>n</italic> = 86 OTUs). Sequences were aligned by the MAFFT online tool (Katoh et al., 
+ <xref rid="B25" ref-type="bibr">2018</xref>) with default settings. A phylogenetic tree was constructed using FastTree2 (Price et al., 
+ <xref rid="B52" ref-type="bibr">2010</xref>) with default settings. The taxonomy of the tree tips was assigned with DECIPHER v2.0 (Wright, 
+ <xref rid="B78" ref-type="bibr">2016</xref>) using SILVA SSU database release 138 (Quast et al., 
+ <xref rid="B53" ref-type="bibr">2013</xref>). A phylogenetic tree of 16S rRNA sequences from all 959 obtained isolates was constructed by the same approach. The diversity of the whole isolated collection was inferred by clustering using VSEARCH 2.4.3 (Rognes et al., 
+ <xref rid="B58" ref-type="bibr">2016</xref>). Tables were processed using R 4.0.2 (R Core Team, 
+ <xref rid="B54" ref-type="bibr">2020</xref>) and tidyverse 1.3.0 (Wickham et al., 
+ <xref rid="B77" ref-type="bibr">2019</xref>). The resulting images were processed with Inkscape 1.0 (
+ <ext-link ext-link-type="uri" xlink:href="https://inkscape.org/" xmlns:xlink="http://www.w3.org/1999/xlink">https://inkscape.org/</ext-link>).
+</p>

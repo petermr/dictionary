@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref6">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Ashburner</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Ball</surname>
+    <given-names>CA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Blake</surname>
+    <given-names>JA</given-names>
+   </string-name>
+   <etal>et al.</etal>
+  </person-group> (
+  <year>2000</year>) 
+  <article-title>Gene Ontology: tool for the unification of biology</article-title>. 
+  <source>Nat Genet</source>
+  <volume>25</volume>:
+  <fpage>25</fpage>–
+  <lpage>29</lpage>.
+  <pub-id pub-id-type="pmid">10802651</pub-id>
+ </mixed-citation>
+</ref>

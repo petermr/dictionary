@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref71">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Rosvall</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Bergstrom</surname>
+    <given-names>CT</given-names>
+   </string-name>
+  </person-group> (
+  <year>2008</year>) 
+  <article-title>Maps of random walks on complex networks reveal community structure</article-title>. 
+  <source>Proc Natl Acad Sci USA </source>
+  <volume>105</volume>:
+  <fpage>1118</fpage>–
+  <lpage>1123</lpage>.
+  <pub-id pub-id-type="pmid">18216267</pub-id>
+ </mixed-citation>
+</ref>

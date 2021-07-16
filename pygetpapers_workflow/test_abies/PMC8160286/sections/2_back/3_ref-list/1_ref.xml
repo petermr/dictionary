@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Abarenkov</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Nilsson</surname>
+    <given-names>H. R.</given-names>
+   </name>
+   <name>
+    <surname>Larsson</surname>
+    <given-names>K. H.</given-names>
+   </name>
+   <name>
+    <surname>Alexander</surname>
+    <given-names>I. J.</given-names>
+   </name>
+   <name>
+    <surname>Eberhardt</surname>
+    <given-names>U.</given-names>
+   </name>
+   <name>
+    <surname>Erland</surname>
+    <given-names>S.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2010</year>). 
+  <article-title>The UNITE database for molecular identification of fungi – recent updates and future perspectives.</article-title>
+  <source>
+   <italic>New Phytol.</italic>
+  </source>
+  <volume>186</volume>
+  <fpage>281</fpage>–
+  <lpage>285</lpage>. 
+  <pub-id pub-id-type="doi">10.1111/j.1469-8137.2009.03160.x</pub-id>
+  <?supplied-pmid 20409185?>
+  <pub-id pub-id-type="pmid">20409185</pub-id>
+ </mixed-citation>
+</ref>

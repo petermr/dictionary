@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="pone.0246805.t005" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0246805.t005</object-id>
+ <label>Table 5</label>
+ <caption>
+  <title>Overview of transformed values between each factor and root failure for related species and studies.</title>
+ </caption>
+ <alternatives>
+  <graphic id="pone.0246805.t005g" xlink:href="pone.0246805.t005" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <colgroup span="1">
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th align="left" rowspan="3" colspan="1">Factor
+      <xref ref-type="table-fn" rid="t005fn001">
+       <sup>1</sup>
+      </xref>
+     </th>
+     <th align="left" rowspan="3" colspan="1">Studies</th>
+     <th align="left" rowspan="3" colspan="1">Species</th>
+     <th align="left" rowspan="3" colspan="1">Range effect sizes</th>
+     <th align="left" rowspan="1" colspan="1">Weighted</th>
+     <th align="left" rowspan="1" colspan="1">Weighted</th>
+     <th align="left" rowspan="3" colspan="1">Standard error</th>
+     <th align="left" rowspan="3" colspan="1">Confidence interval</th>
+    </tr>
+    <tr>
+     <th align="left" rowspan="1" colspan="1">average</th>
+     <th align="left" rowspan="1" colspan="1">mean</th>
+    </tr>
+    <tr>
+     <th align="left" rowspan="1" colspan="1">z-value</th>
+     <th align="left" rowspan="1" colspan="1">correlation</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td align="left" rowspan="2" colspan="1">Angle of stem at maximum moment applied</td>
+     <td align="left" rowspan="2" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="right" rowspan="2" colspan="1">-0.406 –-0.513</td>
+     <td align="right" rowspan="2" colspan="1">0.4988</td>
+     <td align="right" rowspan="2" colspan="1">-0.4612</td>
+     <td align="right" rowspan="2" colspan="1">0.122</td>
+     <td align="left" rowspan="1" colspan="1">LL: -0.79</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.97</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="2" colspan="1">Crown area</td>
+     <td align="left" rowspan="2" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="right" rowspan="2" colspan="1">0.875–0.893</td>
+     <td align="right" rowspan="2" colspan="1">1.3953</td>
+     <td align="right" rowspan="2" colspan="1">0.8843</td>
+     <td align="right" rowspan="2" colspan="1">0.122</td>
+     <td align="left" rowspan="1" colspan="1">LL: -0.20</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.99</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="3" colspan="1">DBH</td>
+     <td align="left" rowspan="1" colspan="1">(Kane, 2014), USA</td>
+     <td align="left" rowspan="1" colspan="1">Betula spp</td>
+     <td align="right" rowspan="3" colspan="1">0.809–0.9644</td>
+     <td align="right" rowspan="3" colspan="1">1.4898</td>
+     <td align="right" rowspan="3" colspan="1">0.9033</td>
+     <td align="right" rowspan="3" colspan="1">0.104</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.22</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1">Quercus rubra L.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.99</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Stokes et al., 2005), France</td>
+     <td align="left" rowspan="1" colspan="1">Fagus sylvatica L.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="4" colspan="1">DBH</td>
+     <td align="left" rowspan="1" colspan="1">(Papesch et al., 1997), UK</td>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="right" rowspan="4" colspan="1">0.882–0.932</td>
+     <td align="right" rowspan="4" colspan="1">1.4884</td>
+     <td align="right" rowspan="4" colspan="1">0.903</td>
+     <td align="right" rowspan="4" colspan="1">0.087</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.80</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1">Abies alba Mill.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.96</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Stokes et al., 2005), France</td>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1">Pinus radiate D.Don</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="3" colspan="1">DBH
+      <sup>2</sup>
+     </td>
+     <td align="left" rowspan="1" colspan="1">(Lundström et al., 2007a), Switzerland</td>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="right" rowspan="3" colspan="1">0.8–0.938</td>
+     <td align="right" rowspan="3" colspan="1">1.2156</td>
+     <td align="right" rowspan="3" colspan="1">0.8383</td>
+     <td align="right" rowspan="3" colspan="1">0.092</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.82</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Stokes et al., 2007), France</td>
+     <td align="left" rowspan="1" colspan="1">Abies alba Mill.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.86</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="3" colspan="1">DBH
+      <sup>2</sup>H
+     </td>
+     <td align="left" rowspan="1" colspan="1">(Lundström et al., 2007a), Switzerland</td>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="right" rowspan="3" colspan="1">0.938–0.983</td>
+     <td align="right" rowspan="3" colspan="1">1.5079</td>
+     <td align="right" rowspan="3" colspan="1">0.9066</td>
+     <td align="right" rowspan="3" colspan="1">0.12</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.77</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.98</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Stokes et al., 2005), France</td>
+     <td align="left" rowspan="1" colspan="1">Abies alba Mill</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="2" colspan="1">DBH
+      <sup>2</sup>H
+     </td>
+     <td align="left" rowspan="1" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1">Fagus sylvatica L.</td>
+     <td align="right" rowspan="2" colspan="1">0.80–0.958</td>
+     <td align="right" rowspan="2" colspan="1">1.5074</td>
+     <td align="right" rowspan="2" colspan="1">0.9065</td>
+     <td align="right" rowspan="2" colspan="1">0.333</td>
+     <td align="left" rowspan="1" colspan="1">LL: -0.97</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Stokes et al., 2005), France</td>
+     <td align="left" rowspan="1" colspan="1">Betula spp.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 1.00</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="3" colspan="1">Height</td>
+     <td align="left" rowspan="1" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="right" rowspan="3" colspan="1">0.634–0.768</td>
+     <td align="right" rowspan="3" colspan="1">0.8868</td>
+     <td align="right" rowspan="3" colspan="1">0.7098</td>
+     <td align="right" rowspan="3" colspan="1">0.088</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.58</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Smith, 1964), Canada</td>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.82</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1">Picea mariana Mill. BSP</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="2" colspan="1">Root soil plate depth</td>
+     <td align="left" rowspan="2" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="right" rowspan="2" colspan="1">0.495–0.693</td>
+     <td align="right" rowspan="2" colspan="1">0.6982</td>
+     <td align="right" rowspan="2" colspan="1">0.6032</td>
+     <td align="right" rowspan="2" colspan="1">0.122</td>
+     <td align="left" rowspan="1" colspan="1">LL: -0.84</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.99</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="3" colspan="1">Stem mass</td>
+     <td align="left" rowspan="1" colspan="1">(Lundström et al., 2007a), Switzerland</td>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="right" rowspan="3" colspan="1">0.100–0.866</td>
+     <td align="right" rowspan="3" colspan="1">1.5328</td>
+     <td align="right" rowspan="3" colspan="1">0.9109</td>
+     <td align="right" rowspan="3" colspan="1">0.063</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.88</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Lundström et al., 2007b), Switzerland</td>
+     <td align="left" rowspan="1" colspan="1">Abies alba Mill</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.97</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peltola et al., 2000) Finnland</td>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="3" colspan="1">Tree mass</td>
+     <td align="left" rowspan="1" colspan="1">(Lundström et al., 2007a), Switzerland</td>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="right" rowspan="3" colspan="1">0.872–0.990</td>
+     <td align="right" rowspan="3" colspan="1">1.7974</td>
+     <td align="right" rowspan="3" colspan="1">0.9465</td>
+     <td align="right" rowspan="3" colspan="1">0.074</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.85</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Lundström et al., 2007b), Switzerland</td>
+     <td align="left" rowspan="1" colspan="1">Abies alba Mill</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.97</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Stokes et al., 2005), France</td>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <fn id="t005fn001">
+   <p>
+    <sup>1</sup> Factors: DBH = diameter breast height, DBH
+    <sup>2</sup> = diameter breast height squared, DBH
+    <sup>2</sup>H = diameter breast height squared times height
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

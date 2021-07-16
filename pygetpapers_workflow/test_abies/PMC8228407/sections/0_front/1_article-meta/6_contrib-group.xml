@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1330-1550</contrib-id>
+  <name>
+   <surname>Lepinay</surname>
+   <given-names>Clémentine</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-jof-07-00412">1</xref>
+  <xref rid="c1-jof-07-00412" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0691-2142</contrib-id>
+  <name>
+   <surname>Jiráska</surname>
+   <given-names>Lucie</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-jof-07-00412">1</xref>
+  <xref ref-type="aff" rid="af2-jof-07-00412">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2924-9470</contrib-id>
+  <name>
+   <surname>Tláskal</surname>
+   <given-names>Vojtěch</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-jof-07-00412">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brabcová</surname>
+   <given-names>Vendula</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-jof-07-00412">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vrška</surname>
+   <given-names>Tomáš</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-jof-07-00412">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-8983-2721</contrib-id>
+  <name>
+   <surname>Baldrian</surname>
+   <given-names>Petr</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-jof-07-00412">1</xref>
+ </contrib>
+</contrib-group>

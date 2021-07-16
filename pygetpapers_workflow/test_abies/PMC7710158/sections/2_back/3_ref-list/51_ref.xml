@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR51">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Packham</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Thomas</surname>
+    <given-names>PA</given-names>
+   </name>
+   <name>
+    <surname>Atkinson</surname>
+    <given-names>MD</given-names>
+   </name>
+   <name>
+    <surname>Degen</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>Biological Flora of the British Isles: 
+   <italic>Fagus sylvatica</italic>
+  </article-title>
+  <source>Journal of Ecology</source>
+  <year>2012</year>
+  <volume>100</volume>
+  <fpage>1557</fpage>
+  <lpage>1608</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1365-2745.2012.02017.x</pub-id>
+ </element-citation>
+</ref>

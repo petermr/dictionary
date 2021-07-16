@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B105-genes-12-00438">
+ <label>105.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Das Gupta</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Tsiantis</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Gene networks and the evolution of plant morphology</article-title>
+  <source>Curr. Opin. Plant Biol.</source>
+  <year>2018</year>
+  <volume>45</volume>
+  <fpage>82</fpage>
+  <lpage>87</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.pbi.2018.05.011</pub-id>
+  <?supplied-pmid 29885565?>
+  <pub-id pub-id-type="pmid">29885565</pub-id>
+ </element-citation>
+</ref>

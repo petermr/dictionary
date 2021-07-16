@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B74">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Větrovský</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Baldrian</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Morais</surname>
+    <given-names>D.</given-names>
+   </name>
+  </person-group> (
+  <year>2018</year>). 
+  <article-title>SEED 2: a user-friendly platform for amplicon high-throughput sequencing data analyses.</article-title>
+  <source>
+   <italic>Bioinformatics</italic>
+  </source>
+  <volume>34</volume>
+  <fpage>2292</fpage>–
+  <lpage>2294</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/bioinformatics/bty071</pub-id>
+  <?supplied-pmid 29452334?>
+  <pub-id pub-id-type="pmid">29452334</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bueno</surname>
+   <given-names>Natalia</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-genes-12-00438">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1923-2410</contrib-id>
+  <name>
+   <surname>Cuesta</surname>
+   <given-names>Candela</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-genes-12-00438">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Centeno</surname>
+   <given-names>María Luz</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-genes-12-00438">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ordás</surname>
+   <given-names>Ricardo J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-genes-12-00438">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4330-5395</contrib-id>
+  <name>
+   <surname>Alvarez</surname>
+   <given-names>José M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-genes-12-00438">1</xref>
+  <xref rid="c1-genes-12-00438" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

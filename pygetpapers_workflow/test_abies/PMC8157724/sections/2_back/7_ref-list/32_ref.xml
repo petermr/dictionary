@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stasolla</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>van Zyl</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Egertsdotter</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Craig</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>WB</given-names>
+   </name>
+   <name>
+    <surname>Sederoff</surname>
+    <given-names>RR</given-names>
+   </name>
+  </person-group>
+  <article-title>The effects of polyethylene glycol on gene expression of developing white spruce somatic embryos</article-title>
+  <source>Plant Physiol</source>
+  <year>2003</year>
+  <volume>131</volume>
+  <issue>1</issue>
+  <fpage>49</fpage>
+  <lpage>60</lpage>
+  <pub-id pub-id-type="doi">10.1104/pp.015214</pub-id>
+  <?supplied-pmid 12529514?>
+  <pub-id pub-id-type="pmid">12529514</pub-id>
+ </element-citation>
+</ref>

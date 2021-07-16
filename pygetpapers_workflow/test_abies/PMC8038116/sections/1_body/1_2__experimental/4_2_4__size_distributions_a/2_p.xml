@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Size exclusion chromatography separates macromolecules based on their hydrodynamic volume 
+ <italic>V
+  <sub>h</sub>
+ </italic>, which according to the universal calibration theory is directly proportional to the product of the intrinsic viscosity and the number-average molar mass [
+ <xref rid="B30-polymers-13-01106" ref-type="bibr">30</xref>,
+ <xref rid="B31-polymers-13-01106" ref-type="bibr">31</xref>]. Based on this separation principle, it was possible to perform a universal calibration of our SEC set-up using pullulan standards with known molar masses and their corresponding Mark-Houwink parameters (Equation (1)), and therefore transform the elution volume, which is dependent on the experimental conditions, into hydrodynamic volumes (
+ <italic>V
+  <sub>h</sub>
+ </italic>) or in this case, hydrodynamic radius (
+ <italic>R
+  <sub>h</sub>
+ </italic>), with 
+ <inline-formula>
+  <math id="mm1">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>V</mi>
+      <mi>h</mi>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mn>4</mn>
+      <mn>3</mn>
+     </mfrac>
+     <mo>⋅</mo>
+     <mi>π</mi>
+     <mo>⋅</mo>
+     <msubsup>
+      <mi>R</mi>
+      <mi>h</mi>
+      <mn>3</mn>
+     </msubsup>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. Here, 
+ <italic>V
+  <sub>h</sub>
+ </italic> is the hydrodynamic volume; 
+ <italic>K</italic> and 
+ <italic>a</italic> are the Mark-Houwink parameters; 
+ <italic>N
+  <sub>A</sub>
+ </italic> is Avogadro’s number; and 
+ <italic>M
+  <sub>n</sub>
+ </italic> is the number-average molar mass. 
+ <disp-formula id="FD1-polymers-13-01106">
+  <label>(1)</label>
+  <math id="mm2">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>V</mi>
+      <mi>h</mi>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mn>2</mn>
+      <mn>5</mn>
+     </mfrac>
+     <mo>⋅</mo>
+     <mfrac>
+      <mrow>
+       <mi>K</mi>
+       <mo>⋅</mo>
+       <msub>
+        <mi>M</mi>
+        <mi>n</mi>
+       </msub>
+       <msup>
+        <mrow/>
+        <mrow>
+         <mn>1</mn>
+         <mo>+</mo>
+         <mi>a</mi>
+        </mrow>
+       </msup>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>N</mi>
+        <mi>A</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

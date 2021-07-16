@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F4" position="float">
+ <label>FIGURE 4</label>
+ <caption>
+  <p>The bacteriome of 
+   <italic>Picea abies</italic> deadwood across decay classes (DCls I, III, V) and DNA types (extracellular and intracellular DNA fraction, total DNA pool). 
+   <bold>(A)</bold> Venn diagram illustrating the ASV occurrences among DNA types within each DCl. 
+   <bold>(B)</bold> Taxonomic composition of 
+   <italic>P. abies</italic> bacteriomes among DCls based on only the intracellular DNA fraction. 
+   <bold>(C)</bold> Taxonomic overview of ASVs that remained undetected in the total DNA pool within a DCl. 
+   <bold>(D)</bold> Taxonomic overview of ASVs that remained undetected in the intracellular DNA fraction within a DCl. 
+   <bold>(E)</bold> Ternary diagram of those ASVs with differential abundance among DCls (see 
+   <xref ref-type="fig" rid="F2">Figure 2</xref> and 
+   <xref ref-type="supplementary-material" rid="ST1">Supplementary Table 1</xref>). Their proportionate abundance among DNA types is illustrated.
+  </p>
+ </caption>
+ <graphic xlink:href="fmicb-12-640386-g004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

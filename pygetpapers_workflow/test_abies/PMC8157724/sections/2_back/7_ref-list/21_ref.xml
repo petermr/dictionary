@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lotan</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Ohto</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Yee</surname>
+    <given-names>KM</given-names>
+   </name>
+   <name>
+    <surname>West</surname>
+    <given-names>MAL</given-names>
+   </name>
+   <name>
+    <surname>Lo</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Kwong</surname>
+    <given-names>RW</given-names>
+   </name>
+   <name>
+    <surname>Yamagishi</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Fischer</surname>
+    <given-names>RL</given-names>
+   </name>
+   <name>
+    <surname>Goldberg</surname>
+    <given-names>RB</given-names>
+   </name>
+   <name>
+    <surname>Harada</surname>
+    <given-names>JJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Arabidopsis LEAFY COTYLEDON1 is sufficient to induce embryo development in vegetative cells</article-title>
+  <source>Cell</source>
+  <year>1998</year>
+  <volume>93</volume>
+  <issue>7</issue>
+  <fpage>1195</fpage>
+  <lpage>1205</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0092-8674(00)81463-4</pub-id>
+  <?supplied-pmid 9657152?>
+  <pub-id pub-id-type="pmid">9657152</pub-id>
+ </element-citation>
+</ref>

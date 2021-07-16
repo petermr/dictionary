@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR99">
+ <label>99.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kroj</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Savino</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Valon</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Giraudat</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Parcy</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>
+  <article-title>Regulation of storage protein gene expression in Arabidopsis</article-title>
+  <source>Development</source>
+  <year>2003</year>
+  <volume>130</volume>
+  <issue>24</issue>
+  <fpage>6065</fpage>
+  <lpage>6073</lpage>
+  <pub-id pub-id-type="doi">10.1242/dev.00814</pub-id>
+  <?supplied-pmid 14597573?>
+  <pub-id pub-id-type="pmid">14597573</pub-id>
+ </element-citation>
+</ref>

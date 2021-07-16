@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Genome assembly of each isolate was performed using a Unicycler 0.4.7 (Wick et al., 
+ <xref rid="B76" ref-type="bibr">2017</xref>) in normal mode with the following programs: SPAdes 3.13.0 (Bankevich et al., 
+ <xref rid="B4" ref-type="bibr">2012</xref>), BLAST 2.7.1+ (Altschul et al., 
+ <xref rid="B1" ref-type="bibr">1997</xref>), Bowtie 2.2.4 (Langmead et al., 
+ <xref rid="B30" ref-type="bibr">2009</xref>), SAMtools 1.9 (Li et al., 
+ <xref rid="B35" ref-type="bibr">2009</xref>), and Pilon 1.22 (Walker et al., 
+ <xref rid="B74" ref-type="bibr">2014</xref>). Prokka 1.13.3 (Seemann, 
+ <xref rid="B61" ref-type="bibr">2014</xref>) with RNAmmer (Lagesen et al., 
+ <xref rid="B27" ref-type="bibr">2007</xref>) was used for gene calling, annotation, and rRNA gene identification. The taxonomy of the closest complete genome in the NCBI database with &gt;97% similarity of 16S rRNA gene sequences were used to assign strains at the genus level. GToTree v1.5.39 (Lee, 
+ <xref rid="B33" ref-type="bibr">2019</xref>) together with Prodigal (Hyatt et al., 
+ <xref rid="B22" ref-type="bibr">2010</xref>), HMMER3 (Eddy, 
+ <xref rid="B14" ref-type="bibr">2011</xref>), Muscle (Edgar, 
+ <xref rid="B15" ref-type="bibr">2004</xref>), trimAI (Capella-Gutiérrez et al., 
+ <xref rid="B11" ref-type="bibr">2009</xref>), FastTree2 (Price et al., 
+ <xref rid="B52" ref-type="bibr">2010</xref>), and GNU Parallel (Tange, 
+ <xref rid="B66" ref-type="bibr">2018</xref>) was used to construct a phylogenetic tree of the genomes based on a set of HMM profiles for 74 bacterial single-copy genes.
+</p>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Differences and parallels between species were identified in the transcriptional response of genes within the ABA signaling pathway. Signaling by plant hormones plays an important role in the early response to drought stress, and production of ABA is a well-recognized component of the typical response to water deficit (
+ <xref rid="ref74" ref-type="bibr">Schachtman and Goodger 2008</xref>) as well as in conifers more specifically (
+ <xref rid="ref12" ref-type="bibr">Brodribb and McAdam 2013</xref>, 
+ <xref rid="ref13" ref-type="bibr">Brodribb et al. 2014</xref>, 
+ <xref rid="ref61" ref-type="bibr">Pashkovskiy et al. 2019</xref>). In the current study, there were numerous ABA-associated genes present in Cluster 3/NM 1:2, suggesting an expected role for ABA in inducing coordinated gene expression changes. The serine/threonine kinase 
+ <italic toggle="yes">SnRK2/OST1</italic>, involved in ABA signaling, serves as a useful example of the potential complications presented when transferring ortholog-inferred annotations across divergent genomes. In Arabidopsis, OST1 functions in the control of stomatal closure, while in the current experiment, the Norway spruce ortholog (MA_10430272g0020) exhibited high and constant expression in needles with no observed change in expression in response to drought. In contrast, expression in roots was highly responsive and correlated to changes in ABA, with a transient, small increase at Day 5 and a dramatic increase during the severe drought. There were also numerous examples, as exemplified by 
+ <italic toggle="yes">RD26</italic> and 
+ <italic toggle="yes">RD22</italic>, where multiple Norway spruce genes have maximal sequence similarity to a single Arabidopsis ortholog and with those multiple Norway spruce genes having divergent expression between tissues and in response to drought. In contrast to Arabidopsis, members of the bZIP TFs of the ABA-dependent pathway, the AREB/ ABFs (
+ <xref rid="ref83" ref-type="bibr">Singh and Laxmi 2015</xref>), were not DE. While expression of homologs to 
+ <italic toggle="yes">AREB1/ABF2</italic>, 
+ <italic toggle="yes">AREB2/ABF4</italic> and 
+ <italic toggle="yes">ABF3</italic> increased, these changes were small and not significant, and many of the potential target genes of the ABFs were not DE (
+ <xref rid="sup6" ref-type="supplementary-material">Figure S6</xref> available as Supplementary data at 
+ <italic toggle="yes">Tree Physiology</italic> Online). As homologs of the ABA-responsive bZIPs are present but were not DE in response to drought, it will be interesting for future work to ascertain whether those bZIPs and their targets have evolved an alternative function in Norway spruce. In contrast, TFs of the ABA-independent 
+ <italic toggle="yes">DREB1/CBF</italic> and 
+ <italic toggle="yes">DREB2</italic> regulons were significantly DE in roots. 
+ <italic toggle="yes">DREB1/CBF</italic> type genes have mainly been reported to be responsive to low temperatures in Arabidopsis (
+ <xref rid="ref56" ref-type="bibr">Nakashima et al. 2009</xref>) but were also up-regulated during water deficit in maize shoots and, to an even greater extent, in roots (
+ <xref rid="ref48" ref-type="bibr">Liu et al. 2013</xref>), with similar expression changes reported in poplar and loblolly pine roots (
+ <xref rid="ref19" ref-type="bibr">Cohen et al. 2010</xref>, 
+ <xref rid="ref49" ref-type="bibr">Lorenz et al. 2011</xref>). In the current study, expression of 
+ <italic toggle="yes">DREB1/CBF</italic> genes was strongly down-regulated in roots and only 
+ <italic toggle="yes">DREB2B</italic>, which has a well-defined function in drought stress (
+ <xref rid="ref56" ref-type="bibr">Nakashima et al. 2009</xref>), was up-regulated in roots. Similarly, expression of 
+ <italic toggle="yes">ERF53</italic>, which has been proposed to function in a similar manner to 
+ <italic toggle="yes">DREB2A</italic> via regulation of drought stress-responsive genes (
+ <xref rid="ref52a" ref-type="bibr">Cheng et al. 2012</xref>), increased under drought stress. Altogether, these findings indicate that there are potential differences in the regulators controlling transcriptional drought response in Norway spruce seedlings compared with the typical response of Arabidopsis.
+</p>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par45">Congenie and Gymno PLAZA include the whole genome sequence data from the two representative species from genus 
+ <italic>Picea</italic> (
+ <italic>P. abies</italic>, v1.0) [
+ <xref ref-type="bibr" rid="CR105">105</xref>] and 
+ <italic>Pinus</italic> (
+ <italic>P. taeda</italic>, v1.0) [
+ <xref ref-type="bibr" rid="CR119">119</xref>] from the Pinaceae family. Other conifers species included in the current in silico analysis were 
+ <italic>P. abies, P. glauca, P. sitchensis, P. taeda, P. sylvestris, P. pinaster, P. contorta, Pinus massoniana</italic> (
+ <italic>P. massoniana</italic>, Chinese red pine)
+ <italic>, P. menziesii, A. angustifolia</italic>, 
+ <italic>C. lanceolata</italic>, 
+ <italic>Thuja koraiensis</italic> (
+ <italic>T. koraiensis</italic>, Korean arborvitae)
+ <italic>, L. decidua</italic> and 
+ <italic>Larix gmelinii var. olgensis</italic> x 
+ <italic>Larix kaempferi</italic> (Hybrid larch, 
+ <italic>L. gmelinii</italic>). There were no specific criteria applied for the choice of a particular conifer species included in this analysis, the availability of the data was the prime factor; therefore, all the relevant sequences obtained in the BLASTP results were included in the current analysis.
+</p>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T3" position="float">
+ <label>TABLE 3</label>
+ <caption>
+  <p>Results of canonical correspondence analyses (CCA) of ECM fungal community.</p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Dataset</bold>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Explanatory variables</bold>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Covariates</bold>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Explained variability</bold>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Pseudo-
+      <italic>F</italic>
+     </bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>
+      <italic>p</italic>
+     </bold>
+    </td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Roots</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Tree species</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Plot × year</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">4.7</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">7.9</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Management type</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Year</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">1.0</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">3.4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Soil horizon</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Plot × year</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">2.1</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">2.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Trees</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Tree species</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Plot × year</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">9.9</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">5.4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Management type</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Year</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">2.2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">2.4</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.003</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Picea abies</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Management type</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Year</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">5.3</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">2.1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.003</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Larix decidua</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Management type</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Year</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">4.6</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">1.8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.019</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Betula pendula</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Management type</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Year</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>3.6</italic>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>1.4</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>0.193</italic>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Plots</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Management type</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Year</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">11.7</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">2.2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <attrib>
+   <italic>Datasets were based on the presence of ECM fungal species in plots, trees, and roots. Variations in ECM fungal community data explained by selected explanatory variables were summarized after removing the effects of covariates (year, interaction of plot and year).</italic>
+  </attrib>
+ </table-wrap-foot>
+</table-wrap>

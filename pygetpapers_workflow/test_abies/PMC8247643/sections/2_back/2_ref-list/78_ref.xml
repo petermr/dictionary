@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B78">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wright</surname>
+    <given-names>E. S.</given-names>
+   </name>
+  </person-group> (
+  <year>2016</year>). 
+  <article-title>Using DECIPHER v2.0 to analyze big biological sequence data in R</article-title>. 
+  <source>R J.</source>
+  <volume>8</volume>, 
+  <fpage>352</fpage>–
+  <lpage>359</lpage>. 
+  <pub-id pub-id-type="doi">10.32614/RJ-2016-025</pub-id>
+ </mixed-citation>
+</ref>

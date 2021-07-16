@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Variation partitioning based on redundancy analyses was performed on Hellinger-transformed OTU abundances to identify the part of the variance explained by decay class, tree species or deadwood chemistry (pH, N, C, C/N and lignin) for the whole dataset and with decay class and deadwood chemistry for each tree species independently. The ‘varpart’ function from the ‘vegan’ R package was used [
+ <xref rid="B51-jof-07-00412" ref-type="bibr">51</xref>]. The importance of the obtained variances was determined with Monte Carlo permutation tests.
+</p>

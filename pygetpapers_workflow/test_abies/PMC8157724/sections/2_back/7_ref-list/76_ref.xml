@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR76">
+ <label>76.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Neale</surname>
+    <given-names>DB</given-names>
+   </name>
+   <name>
+    <surname>McGuire</surname>
+    <given-names>PE</given-names>
+   </name>
+   <name>
+    <surname>Wheeler</surname>
+    <given-names>NC</given-names>
+   </name>
+   <name>
+    <surname>Stevens</surname>
+    <given-names>KA</given-names>
+   </name>
+   <name>
+    <surname>Crepeau</surname>
+    <given-names>MW</given-names>
+   </name>
+   <name>
+    <surname>Cardeno</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Zimin</surname>
+    <given-names>AV</given-names>
+   </name>
+   <name>
+    <surname>Puiu</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Pertea</surname>
+    <given-names>GM</given-names>
+   </name>
+   <name>
+    <surname>Sezen</surname>
+    <given-names>UU</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The Douglas-fir genome sequence reveals specialization of the photosynthetic apparatus in Pinaceae</article-title>
+  <source>G3</source>
+  <year>2017</year>
+  <volume>7</volume>
+  <issue>9</issue>
+  <fpage>3157</fpage>
+  <lpage>3167</lpage>
+  <pub-id pub-id-type="doi">10.1534/g3.117.300078</pub-id>
+  <pub-id pub-id-type="pmid">28751502</pub-id>
+ </element-citation>
+</ref>

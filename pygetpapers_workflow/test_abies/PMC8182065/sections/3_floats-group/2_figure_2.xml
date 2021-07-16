@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" position="float">
+ <label>FIGURE 2</label>
+ <caption>
+  <p>Relationship between 
+   <bold>(A)</bold> estimated means (from models presented in 
+   <xref rid="T1" ref-type="table">Table 1</xref>) for area debarked (mm
+   <sup>2</sup>) by pine weevils (
+   <italic>H. abietis</italic>) and lesion lengths (mm) inflicted by the blue-stain fungus (
+   <italic>E. polonica</italic>) on Norway spruce (
+   <italic>P. abies</italic>) clones (1–9) treated with 0 mM methyl jasmonate (MeJA), and 
+   <bold>(B)</bold> the change in area debarked (log mm
+   <sup>2</sup>) and lesion length (log mm; i.e., slope coefficients of reaction norms) that occurred for each clone between the 0 and 50 mM MeJA treatments. Clones in the 0 mM MeJA that received little pine weevil damage experienced longer fungal lesion lengths, and vice versa [panel 
+   <bold>(A)</bold>]. Clones that exhibited a minor difference (i.e., decrease) in area debarked between the 0 and 50 mM MeJA treatment, experienced a greater change (i.e., decrease) in fungal lesion lengths between these two treatments [panel 
+   <bold>(B)</bold>]. For clone 1, plants in the 50 mM were not included the experiment (see section “Materials and Methods”), so results for the 25 mM MeJA treatment are presented instead. Estimates ± standard error for area debarked and lesion length, per clone and treatment combination, can be found in 
+   <xref ref-type="supplementary-material" rid="SM1">Supplementary Table 3</xref>.
+  </p>
+ </caption>
+ <graphic xlink:href="fpls-12-678959-g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

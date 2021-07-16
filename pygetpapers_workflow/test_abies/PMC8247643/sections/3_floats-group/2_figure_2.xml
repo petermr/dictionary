@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>Genomic traits of dominant bacteria associated with decomposing deadwood. Heatmap shows CAZy counts, counts of genes for low-molecular-mass compounds utilization, and counts of N cycle-related genes together with putative functional annotation of each gene. The total number of CAZy genes and counts of CAZy families (CAZy diversity) per genome are depicted as heatmaps in the upper rows. A phylogenetic tree based on single-copy marker genes shows the phylogenetic relatedness of individual strains.</p>
+ </caption>
+ <graphic xlink:href="fmicb-12-685303-g0002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

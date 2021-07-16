@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The composition of fungal communities was visualized with two-dimensional non-metric multidimensional scaling (NMDS) based on Bray-Curtis distances of relative abundances of OTUs using the ‘metaMDS’ function from the ‘vegan’ R package [
+ <xref rid="B51-jof-07-00412" ref-type="bibr">51</xref>]. Two-way PERMANOVAs were used to test the effect of tree species, decay class and their interaction on fungal community composition, while one-way PERMANOVAs were used to test the effect of decay class for each tree species independently. The significance of environmental variables (decay class, pH, N, C, C/N, lignin and ergosterol) was analysed with the ‘envfit’ function of the ‘vegan’ R package [
+ <xref rid="B51-jof-07-00412" ref-type="bibr">51</xref>], and the variables were fitted as vectors in the NMDS analyses.
+</p>

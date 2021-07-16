@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>TABLE 2</label>
+ <caption>
+  <p>Selected ASVs with significant differences between decay classes (DCl) calculated by Aldex2 generalized linear model.</p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" colspan="6" rowspan="1">
+     <bold>Aldex2 model output</bold>
+     <hr/>
+    </td>
+    <td valign="top" align="center" colspan="3" rowspan="1">
+     <bold>Raw reads</bold>
+     <hr/>
+    </td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" colspan="9" rowspan="1">
+     <bold>Median read proportion</bold>
+     <hr/>
+    </td>
+    <td valign="top" align="center" colspan="2" rowspan="1">
+     <bold>Taxonomic annotation</bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>ASV</bold>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Estimate DC I</bold>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Estimate DC III</bold>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Estimate DC V</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Pr(&gt;| t|).BH DC I</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Pr(&gt;| t|).BH DC III</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Pr(&gt;| t|).BH DC V</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>median DC I</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>median DC III</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>median DC V</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Venn (
+      <xref ref-type="fig" rid="F1">Figure 1C</xref>)
+     </bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Intra_I</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Extra_I</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Total_I</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Intra_III</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Extra_III</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Total_III</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Intra_V</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Extra_V</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Total_V</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>phylum</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>genus</bold>
+    </td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">19</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.03</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">7.83</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">7.86</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.000</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.015</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.015</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">91</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">108</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">III_V</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.62</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.97</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.32</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.64</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.13</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.29</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.50</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Actinobacteriota</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">unknown IMCC26256</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">31</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.24</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">8.23</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-2.00</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.000</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.029</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.998</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">206</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">III</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.35</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.43</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.39</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.88</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Proteobacteria</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Acidisoma</italic>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">43</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-0.36</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">2.43</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">8.08</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.000</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.980</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.038</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">116</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">III_V</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.08</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.21</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.13</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.10</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.22</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.20</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Actinobacteriota</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">unknown</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">15</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-1.39</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">1.80</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">9.75</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.000</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.000</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.012</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">184</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">V</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.68</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.06</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.09</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.09</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Proteobacteria</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Burkholderia</italic>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">34</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">8.39</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-8.38</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-10.35</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.008</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.044</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.015</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">121</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">I</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.79</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.79</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.91</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.17</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Proteobacteria</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Robbsia</italic>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">61</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">7.40</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-7.54</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-9.38</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.008</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.103</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.016</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">62</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">I</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.78</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.60</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.00</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.30</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Acidobacteriota</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Granulicella</italic>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">166</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">6.46</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-4.85</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-8.32</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.026</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.831</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.048</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">44</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">I</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.52</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.67</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.35</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.09</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.14</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Proteobacteria</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">unknown 
+     <italic>Acetobacterales</italic>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">230</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">5.95</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-6.22</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-7.78</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.028</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.247</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.055</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">32</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">I</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.24</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.48</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.26</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.04</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Proteobacteria</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">unknown 
+     <italic>Caulobacterales</italic>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">16</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-1.52</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">10.09</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">1.46</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.997</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.009</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.000</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">256</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">III</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.48</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.06</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.60</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.36</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Acidobacteriota</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Granulicella</italic>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">18</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">6.45</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">1.86</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-6.82</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.031</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.000</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.110</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">68</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">166</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">I_III</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.92</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.21</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.12</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.74</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.71</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.72</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.06</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Proteobacteria</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Endobacter</italic>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">27</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">7.89</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-1.80</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-4.94</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.000</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.708</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">86</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">82</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">core</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.00</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.00</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.15</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.99</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.77</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.65</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.12</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.30</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Proteobacteria</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Methylorosula</italic>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">42</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">6.21</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">0.87</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-6.30</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.029</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.000</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.273</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">79</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">61</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">I_III</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.83</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.26</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.63</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.69</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.91</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.48</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.24</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Actinobacteriota</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">unknown IMCC26256</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">48</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-1.65</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">9.16</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">4.47</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.987</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.024</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.782</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">67</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">35</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">III_V</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.77</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.84</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.55</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.37</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.53</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Proteobacteria</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Acidisphaera</italic>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">138</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">-1.80</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">8.67</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">2.56</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.977</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.013</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.961</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">65</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">III</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.66</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.45</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.84</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.04</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.08</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>Cyanobacteria</italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <attrib>
+   <italic>The output of 
+    <xref ref-type="supplementary-material" rid="ST1">Supplementary Table 1</xref> was reduced to only ASVs that were not contained in the core ASVs of the different DCls (
+    <xref ref-type="fig" rid="F4">Figure 4A</xref>). For each of those ASVs, the Aldex2 estimate and Bonferroni-Holm corrected 
+    <italic>p</italic>-value of the Aldex2 model was reported. The median read number was indicated in order to show the size of the ASV. Their location in the overall Venn diagram was also shown. This can be interpreted as their respective center of mass. The median read proportion for each sample group was displayed to reflect in which group and to which extent these ASVs have been detected. n.d. = not detected.
+   </italic>
+  </attrib>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The bacterial community composition differed between sample groups (
+ <xref ref-type="fig" rid="F1">Figure 1B</xref>). On a presence-absence distance matrix (Jaccard distance), 48% of the overall variance in the dataset were attributed to differences among the three DCls (
+ <italic>p</italic>
+ <sub>Adonis</sub> = 0.001). The DNA types were less discriminative (
+ <italic>p</italic>
+ <sub>Adonis</sub> = 0.001, 
+ <italic>R</italic>
+ <sup>2</sup> = 0.102) in this regard. Interestingly, the interaction effect of DCl and DNA type turned out significant, explaining for 21% of the overall variance (
+ <italic>p</italic>
+ <sub>Adonis</sub> = 0.001). Using variance partitioning on ilr-transformed abundance data, around 34% of the variance (unadjusted 
+ <italic>R</italic>
+ <sup>2</sup>) within the dataset accounted for the DCl (adjusted variance solely attributed to DCl = 24%) and the DNA type (adjusted variance solely attributed to DNA type = 5%) (
+ <italic>p</italic> = 0.001). From an ecological perspective and regardless of Jaccard distance or ilr transformation, the DCls differed in terms of both ASV presence/absence and relative abundance (
+ <xref ref-type="fig" rid="F1">Figure 1B</xref>).
+</p>

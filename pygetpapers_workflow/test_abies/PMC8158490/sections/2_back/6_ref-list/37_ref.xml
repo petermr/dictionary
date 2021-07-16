@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B37-molecules-26-03005">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hammerbacher</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Kandasamy</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Ullah</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Schmidt</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Wright</surname>
+    <given-names>L.P.</given-names>
+   </name>
+   <name>
+    <surname>Gershenzon</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Flavanone-3-hydroxylase plays an important role in the biosynthesis of spruce phenolic defenses against bark beetles and their fungal associates</article-title>
+  <source>Front. Plant Sci.</source>
+  <year>2019</year>
+  <volume>10</volume>
+  <fpage>1</fpage>
+  <lpage>15</lpage>
+  <pub-id pub-id-type="doi">10.3389/fpls.2019.00208</pub-id>
+  <?supplied-pmid 30858861?>
+  <pub-id pub-id-type="pmid">30723482</pub-id>
+ </element-citation>
+</ref>

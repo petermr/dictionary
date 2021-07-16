@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR111">
+ <label>111.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lazarova</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Zeng</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Kermode</surname>
+    <given-names>AR</given-names>
+   </name>
+  </person-group>
+  <article-title>Cloning and expression of an ABSCISIC ACID-INSENSITIVE 3 (ABI3) gene homologue of yellow-cedar (Chamaecyparis nootkatensis)</article-title>
+  <source>J Exp Bot</source>
+  <year>2002</year>
+  <volume>53</volume>
+  <issue>371</issue>
+  <fpage>1219</fpage>
+  <lpage>1221</lpage>
+  <pub-id pub-id-type="doi">10.1093/jexbot/53.371.1219</pub-id>
+  <?supplied-pmid 11971933?>
+  <pub-id pub-id-type="pmid">11971933</pub-id>
+ </element-citation>
+</ref>

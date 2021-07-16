@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Clusters of DEGs were identified using ComplexHeatmap (
+ <xref rid="ref31" ref-type="bibr">Gu et al. 2016</xref>) in R, after calculating the mean expression for each sampling point using vst values. Default method for clustering was ‘hclust’, and ‘euclidean’ distance and vst values were scaled by row means. Thirteen clusters separated up- and down-regulated genes by tissue and time point. Gene Ontology (GO) annotations were obtained from the Conifer Genome Integrative Explorer (ConGenIE; 
+ <ext-link xlink:href="http://congenie.org" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">http://congenie.org</ext-link>) (
+ <xref rid="ref85" ref-type="bibr">Sundell et al. 2015</xref>). GOSlim annotations were built for Norway spruce by the Map2Slim function of Owltools (
+ <ext-link xlink:href="https://github.com/owlcollab/owltools/wiki/Map2Slim" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/owlcollab/owltools/wiki/Map2Slim</ext-link>) using the plant slim subset provided by the (GO Consortium (
+ <xref rid="ref6" ref-type="bibr">Ashburner et al. 2000</xref>, 
+ <xref rid="ref9" ref-type="bibr">Beike et al. 2015</xref>). Enrichment analysis was performed using GeneMerge (
+ <xref rid="ref15" ref-type="bibr">Castillo-Davis and Hartl 2003</xref>). The background geneset comprised genes with vst &gt;4 (transcriptome size needles 42,821, roots 47,880 genes), and enrichment assigned if 
+ <italic toggle="yes">P</italic> &lt; 0.05.
+</p>

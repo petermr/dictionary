@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Count tables of needle and root data were filtered separately for genes with more than one sequencing read in at least two biological replicates, leaving 43,639 needle and 47,880 root genes in the tissue-specific drought stress transcriptomes. Expression data were normalized using variance stabilization transformation (vst) in DESeq2 (v1.16.1) (
+ <xref rid="ref50" ref-type="bibr">Love et al. 2014</xref>).
+</p>

@@ -1,0 +1,152 @@
+The paleoecological record of Lago Verdarolo starts around 14,700 cal BP, although this age must be taken with caution because the age-depth model relies on extrapolation for the basal section of the sedimentary sequence (Figure S1). The oldest statistically significant LPAZ, VER-1 (
+ 
+The abrupt increase in deciduous 
+ 
+The steady and prominent increase in 
+ 
+Decreasing, although still high, AP percentages coupled with increasingly abundant NAP characterize VER-5 (
+ 
+The first two PCA axes explain together 69.2% of the variation in the Lago Verdarolo pollen dataset (Axis 1 42.4%, Axis 2 26.8%; Figure 
+ 
+Microscopic charcoal influx and chironomid-inferred mean 
+ 
+The response curves (GAMs) of 
+ 
+Spruce seedling decapitation was associated with shifts in cellulose and lignin concentrations in root biomass. We observed significant increase in cellulose and lignin concentrations in decomposing spruce roots 4 months after the decapitation in all studied microhabitats. While cellulose concentration remained unchanged after the first significant increase, the lignin concentration in decomposing roots was gradually increasing during the whole experiment (
+ 
+The fungal communities associated with roots of living (control) 
+ 
+The fungal communities associated with roots of control 
+ 
+Contrary to time effect, we detected significant effect of microhabitat on composition of fungal communities associated with control plants. However, the effect of microhabitat was more significant and explained two times more variability of fungal communities associated with decomposing spruce seedling roots compared to the control plants (
+ 
+Studies discussing tree failure commonly discuss root failure, stem failure, branch failure, or a combination of two of the tree failure types. The literature search resulted in 161 observational studies as described in 
+ 
+The total number of factors associated with failure was 93 factors for stem failure in 92 studies, 49 factors for root failure in 47 studies and 34 factors for branch failure in 22 studies. After elimination of duplicate factors the 161 observational studies reported a total of 142 different factors. The main characteristics of the studies included in the analysis are presented in 
+ 
+These 161 studies report correlations related to one of the three failure types and correlations between the 142 factors. Each factor related to one of the failure types was included in the meta-analysis when multiple studies reported this factor. The studies reporting associated factors with stem failure comprised 320 species, for root failure 102 species and for branch failure 32 species. 
+ 
+In case of stem failure the majority of the studies investigated one or two coniferous species. All studies on deciduous trees included more than five different species. For root failure all studies on coniferous trees and deciduous trees reported characteristics on two or three species. Regarding branch failure each study commonly investigated one coniferous species and two deciduous species. The studies contained three deciduous gymnosperms, of which Ginkgo species are categorized as broadleaf deciduous, while Larix and Taxodium species are categorized as coniferous.
+The different factors are affected by primary exogenous causes, being the first cause that did affect one or more of the factors. These factors are mentioned in 
+ 
+The majority of studies in the systematic review reported wind as the primary cause of tree failure, followed by fungi as primary cause. Studies which investigate stem failure also mentioned other causes as fungi and decay. Increasing tree age and decreasing vigour can occur at the same time. However, urban environmental circumstances cause trees to decline at a relatively young age. Other primary causes of tree failure mentioned are a deferred incompatibility of graft-rootstock union, civil engineering activities causing damage, drought resulting in a lower turgor pressure, the appearance of ice and rockfall. Apart from wind, studies which investigate root failure reported a shortage (drought) or abundance (soil saturation) of water supply, the presence of fungi and decay, and unbalance of the tree by branches which had grown disproportionally as other causes. Studies with the focus on branch failure reported additionally weak branch unions in case of bark inclusion, cracks or sharp bends, branches that have grown out of proportion behaving like codominant stems or lion tailing, weak or absent graft unions. Branches also fail because of gravitational loading by precipitation of ice or snow and because of the presence of fungi causing decay.
+A total of 14 different factors have been analysed and interpreted, of which 12 relate to stem failure and 9 relate to root failure. No studies were found which reported correlations between any factor and branch failure. Most of these factors were reported in only a few studies and a comparison was executed in case of two or more reported effect sizes [
+ 
+The statistics on the factors associated with stem failure in 
+ 
+The statistics on factors associated with root failure in 
+ 
+The values above 50% for I
+ 
+All weighted mean correlation coefficients (see Tables 
+ 
+The number of studies and reported effect sizes on other factors than the ones mentioned in 
+ 
+Individual binary logistic regressions were estimated on the presence of failure reported in the studies of the systematic review and the reported factors Diameter Breast Height (DBH), Height, Slenderness (Height/Diameter) and climate zone. The results showed a significant difference in the number of studies reporting failure for DBH, Height and climate zones. DBH, Height and climate zones do explain the variation in study populations from studies that report failure. See for detailed statistical information Tables 
+ 
+A full binary logistic regression model was fitted on failure reported in the included studies in the systematic review and climate regions, Height, DBH and Slenderness (see 
+ 
+By Gas Chromatography-Mass Spectrometry (GC/MS) and Headspace (HS)-GC/MS analysis, the composition of the vapor and liquid phase of all EOs was described. Twenty components were identified in 
+ 
+Twenty-one components were identified in 
+ 
+Among the most abundant compounds, particular attention was paid to α-pinene, as it always reached higher percentages in the vapor phase than in the liquid phase of the investigated EOs. The compared values are as follows: (44.0% vs. 65.6%), (16.6% vs. 31.6%), (20.2% vs. 35.5%), and (30.8% vs. 51.3%) liquid and vapor phase in 
+ 
+The antibacterial activities of the Pinaceae EOs were evaluated for three Gram-negative (
+ 
+
+ 
+
+ 
+The results for 
+ 
+To determine the antioxidant activity of the four Pinaceae EOs, 2,2-Diphenyl-1-picrylhydrazyl (DPPH) scavenging activity and 2,2′-azinobis (3- ethylbenzothiazoline-6-sulfonic acid) diammonium salt (ABTS) radical scavenging assay, based on the reaction of the potential antioxidant with colored radicals, were carried out. The antioxidant activity results are reported in 
+ 
+The amylase-treated bark extract (sample P0) was fractionated using preparative size exclusion chromatography (SEC) into six fractions (P1–P6) with decreasing macromolecular sizes (
+ 
+
+ 
+Similarly, the absolute weight-average molar mass distributions (
+ 
+The number- and weight-average molar mass (
+ 
+The carbohydrate composition of the parent pectin and the derived fractions (
+ 
+The glycosidic linkage composition of the parent P0 and the main SEC fractions (P3–P5) was investigated by methylation and GC-MS analysis (
+ 
+In all fractions, GalA was mostly composed of 1,4-linked residues (90–93 mol% of total galacturonic acid), which could originate from either RG or HG domains. A similar proportion of 1,4-linked galacturonic acid (ca. 93% of all uronic acid) was reported for acid-extractable polysaccharides from tree greenery of Norway spruce [
+ 
+The nature of the pectin domains in spruce bark (
+ 
+All fractions were composed of approximately 85–90% pectins, where the additional 10–15% were assigned to mannans and xylans (
+ 
+The significant change in DP observed between P3 and P4 clearly designated two different pectin populations. On one hand, P3 was composed of high-molar mass branched polysaccharides with a high proportion of branched RG-I domains, whereas P4 had larger abundance of linear polysaccharides with long HG domains. Both fractions occupied, however, relatively similar hydrodynamic volumes since the elution times in SEC were close. Fraction P5 appeared to mainly be composed of arabinan domains, with comparable sizes as in P4, and smaller HG domains. However, the content in RG in this fraction was low, which indicated that some arabinans could be present as individual polysaccharide populations. It has been suggested that pure arabinans could be present in the stem of 
+ 
+Here, we propose and illustrate a macromolecular model for the molecular structure for bark pectins, based on the integration of the information on the macromolecular architecture and molecular weight distributions from SEC-MALLS, together with the analysis of the composition and glycosidic linkages of the different pectic domains (
+ 
+The dynamics of air-dry mass yield of annual shoots (n = 15 trees) during the growing season is demonstrated in 
+ 
+Percentages of essential oils varied with a range of 0.41–0.52% (
+ 
+Variations of α- and β-pinene percentages in essential oils of annual needles of all studied 
+ 
+The highest amounts of pinenes in annual needles of most investigated trees were found in May; only in three (2.1, 3.2, and 3.3) and two (1.2 and 3.3) individuals, the highest percentages of α-pinene and β-pinene, respectively, were found in other months (
+ 
+α-Pinene was determined to be enantiomerically pure (100%) for their (−) form or (−)-α-pinene exceeded (+)-α-pinene by 3 to 12.2 times (i.e., the racemic composition of α-pinene) (
+ 
+The highest and the lowest percentages of (1S)-(−)-α-pinene in different 
+ 
+Pearson correlation analysis was employed to reveal correlations between the dynamics of the studied properties and changes of weather conditions of 
+ 
+Strong correlation was established between air-dry mass yield and sum of effective temperatures (≥5 °C) (r = 0.86, 
+ 
+Considering the main effects, there were no significant differences in ASV numbers among DNA types and DCls. Among sample groups (DNA types × DCl), ASV numbers differed significantly (
+ 
+The bacterial community composition differed between sample groups (
+ 
+Only a total of seventeen ASVs were detected across the three DCls (core ASVs, 
+ 
+Given the variation among DCls being larger than regarding DNA types, we analyzed the ecological differences in the compositions of the bacteriomes at the different DCls jointly across all DNA types.
+The majority of sequencing reads was annotated as 
+ 
+In addition to 
+ 
+
+ 
+Furthermore, we found a total of 64 
+ 
+Microbiome analysis by high-throughput sequencing largely depends on which sequences are amplified, implying the DNA type targeted. Consequently, when analyzing the total environmental DNA pool, its proportion of intra- and extracellular DNA are decisive for the results. In our study, the concentrations of intra- and extracellular DNA were comparable within each of the three DCls (
+ 
+Considering the three DCls together with the three DNA types, we expected to detect (i) a small number of ASVs with high relative abundance in all nine sample groups and (ii) a high number of ASVs with lower relative abundance in a single or in a low number of sample groups. Concerning this latter point, we expected the majority of ASVs to be detected in ≤ 3 sample groups, given the big differences among DCls and the dependencies between the bacteriomes of the DNA types derived from the extracts originating from the very same log sample. In line with this, we found that ASVs with higher abundance were detected more often in a higher number of sample groups (
+ 
+From here on, we will refer to ASVs observed solely in the intracellular DNA fraction, extracellular DNA fraction or total DNA pool as 
+ 
+Given the deeper level of ecological analysis reached in the extracellular vs. intracellular DNA fractions compared to the total DNA pool, we investigated the frequency of those bacterial taxa detected in only one DNA type of the same DCl in comparison to its overall distribution. Therefore, we counted the number of ASVs annotated to a certain bacterial class within each of the nine sample groups and compared the frequencies of class annotations within DCls among DNA types. For a number of bacterial classes, their frequencies differed among DNA types indicating that the taxonomic distribution of ASVs with low relative abundance did not follow the taxonomic pattern of more abundant ASVs (
+ 
+On a broad(er) scale (than ASV or genera), the overall taxonomic distribution within a DCl was comparable between all DNA types (
+ 
+
+ 
+The distribution of 
+ 
+In DCls I and III, several ASVs annotated as 
+ 
+Those ASVs not observed in the intracellular DNA fraction, but detected in the extracellular DNA fraction (
+ 
+In microbiome studies, statistical tools are often used to search for indicator ASVs that are interpreted as key species for a target ecosystem. Therefore, we evaluated if the indicator ASVs identified using Aldex2 were differentially detected among the DNA types. We plotted the read proportions of the ASVs across the three DNA types obtained from one log sample. We used the read proportion of the indicator ASVs in those groups of three samples and plotted their abundance for all logs. As the ternary diagram shows, the vast majority of indicator ASV proportions across logs was located in the middle of the triangle (
+ 
+Given the fact that different DCls do not occur within the same log, at least not in the very same local point, and that the entire decay process is too slow to enable the sample collection of all DCls (I–V) from one deadwood log, the persistence of extracellular DNA in the logs and the exact abundances of ASVs’ intra- and extracellular DNA cannot be monitored over time. Therefore, we selected those ASVs that were detected in either DCls I and III or DCls III and V, respectively. Although we will likely miss a number of incidences for extracellular persistence using this approach, a signal in extracellular DNA persistence might be even stronger. Out of these 40 ASVs (24 + 16 = 40 ASVs, 
+ 
+The results of the spectrophotometric determination of the spruce bark extracts TPC are presented in 
+ 
+As it can be observed, the MD US variant had the highest TPC (43.64 ± 10.52 mg/g), but the content was significantly higher only when compared to MT M and MD M. The lowest TPC was recorded for the MT M variant (19.54 ± 1.79 mg/g), having significantly lower levels of phenolic compounds in comparison to the other variants excepting MD M. It can be also noted that the extracts attained via UAE are associated with higher TPC. Every variant obtained using this extraction method had higher TPC than the variants obtained by MAE, however the only significant differences occurred between the MT (US and M) and MD (US and M) experimental variants. Although slight differences occurred between the different collecting sites, there were no significant differences registered regarding the TPC.
+Other studies regarding the TPC of spruce bark extracts attained by UAE achieved similar results. For example a study that used almost identical parameters for the UAE of the 
+ 
+Sládková A. et al. conducted a study on 
+ 
+These data show that the UAE might be a more efficient extraction technique to achieve higher yields of phenolic compounds from the bark of 
+ 
+The results regarding the TTC are represented in 
+ 
+Coșarcă S.L. et al. quantified the tannin content of their aqueous spruce bark extracts attained by UAE and achieved a concentration of 11.4 mg pyrogallol/g, thus indicating a lower level of TTC compared to our experimental variants [
+ 

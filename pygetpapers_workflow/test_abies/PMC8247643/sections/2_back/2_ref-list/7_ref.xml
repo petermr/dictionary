@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bowers</surname>
+    <given-names>R. M.</given-names>
+   </name>
+   <name>
+    <surname>Kyrpides</surname>
+    <given-names>N. C.</given-names>
+   </name>
+   <name>
+    <surname>Stepanauskas</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Harmon-Smith</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Doud</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Reddy</surname>
+    <given-names>T. B. K.</given-names>
+   </name>
+   <etal/>
+  </person-group>. (
+  <year>2017</year>). 
+  <article-title>Minimum information about a single amplified genome (MISAG) and a metagenome-assembled genome (MIMAG) of bacteria and archaea</article-title>. 
+  <source>Nat. Biotechnol.</source>
+  <volume>35</volume>, 
+  <fpage>725</fpage>–
+  <lpage>731</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nbt.3893</pub-id>
+  <?supplied-pmid 29979671?>
+  <pub-id pub-id-type="pmid">28787424</pub-id>
+ </mixed-citation>
+</ref>

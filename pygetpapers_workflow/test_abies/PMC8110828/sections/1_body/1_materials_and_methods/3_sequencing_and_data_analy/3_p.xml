@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The resulting ASV table was filtered prior to further analysis. Only ASVs detected in at least two out of the three samples per sample group were considered, that is the presence of ASVs in the same DNA type extracted from different logs classified into the same DCl. In addition, ASVs with &lt;5 reads per sample group were removed from the dataset. Applying these criteria, the initial number of 1,946 ASVs was reduced to 623 ASVs in the final dataset. Although the removal of ASVs &lt;5 reads reduced the total richness calculated for the samples, it did not affect the comparisons of α-diversity among sample groups. The removal of filtered ASVs also did not affect the compositional distances between samples as inferred from comparing the ordination resulting from both principal component analysis (PCA) of the ilr-transformed compositional data and Non-metric Multidimensional Scaling (NMDS) on Bray-Curtis distances using Procrustes analysis (PCA: 
+ <italic>m</italic>
+ <sup>2</sup>
+ <sub>Procrustes</sub> = 0.0985, correlation of symmetric rotation = 0.950, 
+ <italic>p</italic> = 0.001; NMDS: 
+ <italic>m</italic>
+ <sup>2</sup>
+ <sub>Procrustes</sub> = 0.1568, correlation of symmetric rotation = 0.918, 
+ <italic>p</italic> = 0.001). Both ordination methods showed comparable results in terms of clustering by sample groups. For illustration purposes (
+ <xref ref-type="fig" rid="F1">Figure 1B</xref>), NMDS was chosen here.
+</p>

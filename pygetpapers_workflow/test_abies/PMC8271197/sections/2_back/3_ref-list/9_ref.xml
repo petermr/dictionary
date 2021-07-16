@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref9">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Beike</surname>
+    <given-names>AK</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Lang</surname>
+    <given-names>D</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Zimmer</surname>
+    <given-names>AD</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Wust</surname>
+    <given-names>F</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Trautmann</surname>
+    <given-names>D</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Wiedemann</surname>
+    <given-names>G</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Beyer</surname>
+    <given-names>P</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Decker</surname>
+    <given-names>EL</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Reski</surname>
+    <given-names>R</given-names>
+   </string-name>
+  </person-group> (
+  <year>2015</year>) 
+  <article-title>Insights from the cold transcriptome of 
+   <italic toggle="yes">Physcomitrella patens</italic>: global specialization pattern of conserved transcriptional regulators and identification of orphan genes involved in cold acclimation
+  </article-title>. 
+  <source>New Phytol</source>
+  <volume>205</volume>:
+  <fpage>869</fpage>–
+  <lpage>881</lpage>.
+  <pub-id pub-id-type="pmid">25209349</pub-id>
+ </mixed-citation>
+</ref>

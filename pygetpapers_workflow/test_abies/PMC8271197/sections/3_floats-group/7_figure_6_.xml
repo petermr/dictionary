@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig position="float" id="f6">
+ <label>Figure 6.</label>
+ <caption>
+  <p>Overview representation of physiological and gene expression responses to drought in Norway spruce seedlings. The left panel indicates representative profiles indicating changes in physiological indicators of drought stress. Profiles are representative and based on the data presented in 
+   <xref rid="f1" ref-type="fig">Figure 1</xref> (for stomatal conductance and ABA) or gene expression values (for root development and stress). On the right, the co-expression network is indicated with nodes (genes) colored to indicate their assigned network cluster. For three clusters, associated with ABA, root development or stress response (indicated by cluster gene ontology biological process enrichment results), expression profile plots are shown in which green profiles represent the expression in needles and brown represent the expression in roots.
+  </p>
+ </caption>
+ <graphic xlink:href="tpaa178f6" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

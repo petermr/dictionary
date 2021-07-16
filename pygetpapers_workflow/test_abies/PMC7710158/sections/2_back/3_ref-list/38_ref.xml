@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR38">
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Legendre</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Birks</surname>
+    <given-names>HJB</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Birks</surname>
+    <given-names>HJB</given-names>
+   </name>
+   <name>
+    <surname>Lotter</surname>
+    <given-names>AF</given-names>
+   </name>
+   <name>
+    <surname>Juggins</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Smol</surname>
+    <given-names>JP</given-names>
+   </name>
+  </person-group>
+  <article-title>From classical to canonical ordination</article-title>
+  <source>Tracking Environmental Change Using Lake Sediments. Data Handling and Numerical Techniques 5</source>
+  <year>2012</year>
+  <publisher-loc>Dordrecht</publisher-loc>
+  <publisher-name>Springer</publisher-name>
+  <fpage>201</fpage>
+  <lpage>248</lpage>
+ </element-citation>
+</ref>

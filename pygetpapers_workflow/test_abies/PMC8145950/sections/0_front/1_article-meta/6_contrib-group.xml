@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nisca</surname>
+   <given-names>Adrian</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-plants-10-00870">1</xref>
+  <xref rid="c1-plants-10-00870" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3346-3867</contrib-id>
+  <name>
+   <surname>Ștefănescu</surname>
+   <given-names>Ruxandra</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-plants-10-00870">2</xref>
+  <xref rid="c1-plants-10-00870" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Stegăruș</surname>
+   <given-names>Diana Ionela</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-plants-10-00870">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mare</surname>
+   <given-names>Anca Delia</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-plants-10-00870">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Farczadi</surname>
+   <given-names>Lenard</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-plants-10-00870">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5900-743X</contrib-id>
+  <name>
+   <surname>Tanase</surname>
+   <given-names>Corneliu</given-names>
+  </name>
+  <xref ref-type="aff" rid="af6-plants-10-00870">6</xref>
+ </contrib>
+</contrib-group>

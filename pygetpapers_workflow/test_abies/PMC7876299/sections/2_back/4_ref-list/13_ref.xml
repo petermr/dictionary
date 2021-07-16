@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B13">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>de Cárcer</surname>
+    <given-names>D. A.</given-names>
+   </name>
+   <name>
+    <surname>Denman</surname>
+    <given-names>S. E.</given-names>
+   </name>
+   <name>
+    <surname>McSweeney</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Morrison</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group> (
+  <year>2011</year>). 
+  <article-title>Evaluation of subsampling-based normalization strategies for tagged high-throughput sequencing data sets from gut microbiomes.</article-title>
+  <source>
+   <italic>Appl. Environ. Microbiol.</italic>
+  </source>
+  <volume>77</volume>
+  <fpage>8795</fpage>–
+  <lpage>8798</lpage>. 
+  <pub-id pub-id-type="doi">10.1128/AEM.05491-5411</pub-id>
+  <pub-id pub-id-type="pmid">21984239</pub-id>
+ </mixed-citation>
+</ref>

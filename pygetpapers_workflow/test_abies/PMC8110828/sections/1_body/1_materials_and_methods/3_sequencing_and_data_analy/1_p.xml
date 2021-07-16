@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The amplicon library for Illumina Miseq sequencing was prepared in a two-step procedure according to the standard protocol. First, the bacterial 16S rRNA genes of the DNA extracts were amplified using Illumina TruSeq chemistry adapters fused to bacterial 16S primers 515f and 806r (
+ <xref rid="B7" ref-type="bibr">Caporaso et al., 2011</xref>). In a second step, samples were barcoded using Illumina TruSeq chemistry and flow cell adapters were attached to the amplicons. The library was sequenced in an Illumina MiSeq PE250 nano run at VBC Vienna. Sequencing data were deposited in SRA under BioProject Number 
+ <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="PRJNA_682981" xmlns:xlink="http://www.w3.org/1999/xlink">PRJNA 682981</ext-link>.
+</p>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Haas</surname>
+   <given-names>Julia C</given-names>
+  </name>
+  <!--Julia.Haas1@gmx.net-->
+  <xref rid="aff1" ref-type="aff">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vergara</surname>
+   <given-names>Alexander</given-names>
+  </name>
+  <!--alexander.vergara@slu.se-->
+  <xref rid="aff2" ref-type="aff">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1635-6410</contrib-id>
+  <name>
+   <surname>Serrano</surname>
+   <given-names>Alonso R</given-names>
+  </name>
+  <!--alonso.serrano@slu.se-->
+  <xref rid="aff2" ref-type="aff">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mishra</surname>
+   <given-names>Sanatkumar</given-names>
+  </name>
+  <!--sanatsmishra@gmail.com-->
+  <xref rid="aff2" ref-type="aff">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hurry</surname>
+   <given-names>Vaughan</given-names>
+  </name>
+  <!--Vaughan.Hurry@slu.se-->
+  <xref rid="aff2" ref-type="aff">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-6031-005X</contrib-id>
+  <name>
+   <surname>Street</surname>
+   <given-names>Nathaniel R</given-names>
+  </name>
+  <!--nathaniel.street@umu.se-->
+  <xref rid="aff1" ref-type="aff">1</xref>
+  <xref rid="cor1" ref-type="corresp"/>
+ </contrib>
+</contrib-group>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The metagenomes of naturally decomposing 
+ <italic>F. sylvatica</italic> deadwood were obtained in a previous study (Tláskal et al., 
+ <xref rid="B67" ref-type="bibr">2021a</xref>, Tláskal et al., under review) and used to quantify genome coverage in deadwood of various decay lengths. This metagenome study included 25 CWD samples of 
+ <italic>F. sylvatica</italic>. The CWD samples were classified into five decay length classes of &lt;4, 4–7, 8–19, 20–41, and &gt; 41 years. Metagenomic reads were mapped to genomes as described previously (Lladó et al., 
+ <xref rid="B36" ref-type="bibr">2019</xref>) using Bowtie v2.3.4.1 (Langmead and Salzberg, 
+ <xref rid="B29" ref-type="bibr">2013</xref>). Metagenomic reads from sample with NCBI accession SRR10968255 were omitted from mapping due to under-sampling. The number of mapped reads was normalized to the sequencing depth of each sample, divided by the genome length of individual strains, and multiplied by the average genome size of sequenced bacteria. Differences among groups were tested by the Kruskal-Wallis test using the agricolae package (de Mendiburu, 
+ <xref rid="B13" ref-type="bibr">2017</xref>) and considered to be statistically significant at the level 
+ <italic>P</italic> &lt; 0.05.
+</p>

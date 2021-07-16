@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T3" position="float">
+ <label>TABLE 3</label>
+ <caption>
+  <p>Loadings for each compound in Principal components 1 and 2 (PC 1, PC 2) from the PCAs that examined variation in total absolute terpene chemistry (see 
+   <xref ref-type="fig" rid="F3">Figures 3</xref>, 
+   <xref ref-type="fig" rid="F4">4</xref>) among Norway spruce (
+   <italic>P. abies</italic>) clones treated with 0 and 50 mM MeJA.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Compound</td>
+    <td valign="top" align="center" colspan="2" rowspan="1">No fungus exposure
+     <hr/>
+    </td>
+    <td valign="top" align="center" colspan="2" rowspan="1">Exposure to fungus
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">PC1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">PC2</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">PC1</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">PC2</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">(−)-α-Pinene</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.31</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.20</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.33</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.15</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">(+)-α-Pinene</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.24</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.04</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.22</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.13</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Camphene</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.28</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.16</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.22</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.14</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">(+)-β-Pinene</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.04</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.14</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.06</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.33</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">(−)-β-Pinene</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.28</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.14</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.31</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.05</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Myrcene</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.34</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.03</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.34</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.09</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">(+)-3-Carene</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.10</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.48</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.22</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.27</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">(−)-Limonene</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.20</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.27</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.26</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.18</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">(+)-Limonene</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.28</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.35</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.31</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.27</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">β-Phellandrene</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.29</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.15</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.31</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.05</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Thunbergene</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.31</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.32</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.26</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.47</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Calarene</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.32</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.32</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.27</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.34</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Neocembrene</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.29</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.38</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.19</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.36</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Geranyllinalool</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.08</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">−0.04</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.06</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.40</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Thunbergol</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.27</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.32</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.29</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.10</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <attrib>
+   <italic>Separate analyses were conducted for plants not exposed (No fungus exposure) and those exposed to 
+    <italic>E. polonica</italic> (Exposure to fungus).
+   </italic>
+  </attrib>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1708-6395</contrib-id>
+  <name>
+   <surname>Bhardwaj</surname>
+   <given-names>Kanchan</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-03005">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-0226-921X</contrib-id>
+  <name>
+   <surname>Silva</surname>
+   <given-names>Ana Sanches</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-molecules-26-03005">2</xref>
+  <xref ref-type="aff" rid="af3-molecules-26-03005">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Atanassova</surname>
+   <given-names>Maria</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-molecules-26-03005">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3682-3573</contrib-id>
+  <name>
+   <surname>Sharma</surname>
+   <given-names>Rohit</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-molecules-26-03005">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nepovimova</surname>
+   <given-names>Eugenie</given-names>
+  </name>
+  <xref ref-type="aff" rid="af6-molecules-26-03005">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7504-4062</contrib-id>
+  <name>
+   <surname>Musilek</surname>
+   <given-names>Kamil</given-names>
+  </name>
+  <xref ref-type="aff" rid="af6-molecules-26-03005">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7204-9426</contrib-id>
+  <name>
+   <surname>Sharma</surname>
+   <given-names>Ruchi</given-names>
+  </name>
+  <xref ref-type="aff" rid="af7-molecules-26-03005">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Alghuthaymi</surname>
+   <given-names>Mousa A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af8-molecules-26-03005">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4791-7388</contrib-id>
+  <name>
+   <surname>Dhanjal</surname>
+   <given-names>Daljeet Singh</given-names>
+  </name>
+  <xref ref-type="aff" rid="af9-molecules-26-03005">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nicoletti</surname>
+   <given-names>Marcello</given-names>
+  </name>
+  <xref ref-type="aff" rid="af10-molecules-26-03005">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7835-9406</contrib-id>
+  <name>
+   <surname>Sharma</surname>
+   <given-names>Bechan</given-names>
+  </name>
+  <xref ref-type="aff" rid="af11-molecules-26-03005">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3030-2459</contrib-id>
+  <name>
+   <surname>Upadhyay</surname>
+   <given-names>Navneet Kumar</given-names>
+  </name>
+  <xref ref-type="aff" rid="af12-molecules-26-03005">12</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5934-5201</contrib-id>
+  <name>
+   <surname>Cruz-Martins</surname>
+   <given-names>Natália</given-names>
+  </name>
+  <xref ref-type="aff" rid="af13-molecules-26-03005">13</xref>
+  <xref ref-type="aff" rid="af14-molecules-26-03005">14</xref>
+  <xref ref-type="aff" rid="af15-molecules-26-03005">15</xref>
+  <xref rid="c1-molecules-26-03005" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bhardwaj</surname>
+   <given-names>Prerna</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-03005">1</xref>
+  <xref rid="c1-molecules-26-03005" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9664-1109</contrib-id>
+  <name>
+   <surname>Kuča</surname>
+   <given-names>Kamil</given-names>
+  </name>
+  <xref ref-type="aff" rid="af6-molecules-26-03005">6</xref>
+  <xref rid="c1-molecules-26-03005" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

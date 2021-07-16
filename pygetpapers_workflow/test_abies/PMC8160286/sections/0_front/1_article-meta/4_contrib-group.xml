@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Veselá</surname>
+   <given-names>Petra</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="corresp" rid="c001">
+   <sup>*</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1064614/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vašutová</surname>
+   <given-names>Martina</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff4">
+   <sup>4</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1244056/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Edwards-Jonášová</surname>
+   <given-names>Magda</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Holub</surname>
+   <given-names>Filip</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fleischer</surname>
+   <given-names>Peter</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cudlín</surname>
+   <given-names>Pavel</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/697592/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+</contrib-group>

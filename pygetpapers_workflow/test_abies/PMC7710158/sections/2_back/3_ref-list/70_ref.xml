@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR70">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Thomas</surname>
+    <given-names>PA</given-names>
+   </name>
+   <name>
+    <surname>Stone</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>La Porta</surname>
+    <given-names>N</given-names>
+   </name>
+  </person-group>
+  <article-title>Biological Flora of the British Isles: 
+   <italic>Ulmus glabra</italic>
+  </article-title>
+  <source>Journal of Ecology</source>
+  <year>2018</year>
+  <volume>106</volume>
+  <fpage>1724</fpage>
+  <lpage>1766</lpage>
+  <pub-id pub-id-type="doi">10.1111/1365-2745.12994</pub-id>
+ </element-citation>
+</ref>

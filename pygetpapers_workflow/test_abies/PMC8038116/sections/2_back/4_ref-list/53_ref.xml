@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B53-polymers-13-01106">
+ <label>53.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pettolino</surname>
+    <given-names>F.A.</given-names>
+   </name>
+   <name>
+    <surname>Walsh</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Fincher</surname>
+    <given-names>G.B.</given-names>
+   </name>
+   <name>
+    <surname>Bacic</surname>
+    <given-names>A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Determining the polysaccharide composition of plant cell walls</article-title>
+  <source>Nat. Protoc.</source>
+  <year>2012</year>
+  <volume>7</volume>
+  <fpage>1590</fpage>
+  <lpage>1607</lpage>
+  <pub-id pub-id-type="doi">10.1038/nprot.2012.081</pub-id>
+  <pub-id pub-id-type="pmid">22864200</pub-id>
+ </element-citation>
+</ref>

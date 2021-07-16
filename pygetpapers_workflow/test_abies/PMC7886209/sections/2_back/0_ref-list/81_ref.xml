@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0246805.ref081">
+ <label>81</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Norton</surname>
+   <given-names>E. C.</given-names>
+  </name>, 
+  <name>
+   <surname>Dowd</surname>
+   <given-names>B. E.</given-names>
+  </name>, &amp; 
+  <name>
+   <surname>Maciejewski</surname>
+   <given-names>M. L.</given-names>
+  </name>
+  <article-title>Marginal effects—quantifying the effect of changes in risk factors in logistic regression models</article-title>. 
+  <source>Jama</source>. 
+  <year>2019</year>;
+  <volume>321</volume>(
+  <issue>13</issue>):
+  <fpage>1304</fpage>–
+  <lpage>1305</lpage>. 
+  <pub-id pub-id-type="doi">10.1001/jama.2019.1954</pub-id>
+  <?supplied-pmid 30848814?>
+  <pub-id pub-id-type="pmid">30848814</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-9426-4247</contrib-id>
+  <name>
+   <surname>Gömöry</surname>
+   <given-names>Dušan</given-names>
+  </name>
+  <address>
+   <email>gomory@tuzvo.sk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3837-9397</contrib-id>
+  <name>
+   <surname>Krajmerová</surname>
+   <given-names>Diana</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-6791-7302</contrib-id>
+  <name>
+   <surname>Hrivnák</surname>
+   <given-names>Matúš</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1878-087X</contrib-id>
+  <name>
+   <surname>Longauer</surname>
+   <given-names>Roman</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3985-9616</contrib-id>
+  <name>
+   <surname>Schmidtová</surname>
+   <given-names>Jarmila</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.27139.3e</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1018 7460</institution-id>
+   <institution>Faculty of Forestry, </institution>
+   <institution>Technical University in Zvolen, </institution>
+  </institution-wrap>TG Masaryka 24, 96001 Zvolen, Slovakia 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>National Forestry Centre, Forestry Research Institute, TG Masaryka 22, 96001 Zvolen, Slovakia 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.27139.3e</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1018 7460</institution-id>
+   <institution>Faculty of Wood Technology, </institution>
+   <institution>Technical University in Zvolen, </institution>
+  </institution-wrap>TG Masaryka 24, 96001 Zvolen, Slovakia 
+ </aff>
+</contrib-group>

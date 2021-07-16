@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B22">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hamilton</surname>
+    <given-names>N. E.</given-names>
+   </name>
+   <name>
+    <surname>Ferry</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group> (
+  <year>2018</year>). 
+  <article-title>ggtern: ternary diagrams using ggplot2.</article-title>
+  <source>
+   <italic>J. Stat. Softw. Code Snippets</italic>
+  </source>
+  <volume>87</volume>
+  <fpage>1</fpage>–
+  <lpage>17</lpage>. 
+  <pub-id pub-id-type="doi">10.18637/jss.v087.c03</pub-id>
+ </mixed-citation>
+</ref>

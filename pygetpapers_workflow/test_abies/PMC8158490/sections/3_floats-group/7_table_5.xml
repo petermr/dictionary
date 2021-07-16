@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="molecules-26-03005-t005" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">molecules-26-03005-t005_Table 5</object-id>
+ <label>Table 5</label>
+ <caption>
+  <p>Conifers’ phytochemicals demonstrating neuroprotective potential in vitro and in vivo.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Conifers spp.</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Compounds with Neuroprotective Potential</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Model</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Effective Concentration</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Relevant Bioactivities</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Reference</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Abies holophylla</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Holophyllin-D</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">C6 glioma cells</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">20 μM</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Diterpenes compound holophyllin D shows neuroprotective potential in C6 glioma cells by inducing nerve growth factor</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B25-molecules-26-03005" ref-type="bibr">25</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Araucara angustifolia</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Catechin, epicatechin and rutin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Rat</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10 mg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AAE has antioxidant and neuroprotective properties as it decreases the TBARS levels, CAT activity and NO production in the hippocampus region of the brain in rats.</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B235-molecules-26-03005" ref-type="bibr">235</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>A. angustifolia</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Catechin, epicatechin, rutin, quercetin and apigenin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">human dopaminergic SH-SY5Y cells</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 μg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Decrease in the production of neuron (ROS) and lipid peroxidation.</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B43-molecules-26-03005" ref-type="bibr">43</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>A. angustifolia</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Quercetin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">cockroach</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">200–400 μg/g</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Neurotoxicity modulates the behavior of insects by altering the dopaminergic pathways, as quercetin has the ability to induce selective inhibitory actions on NMDA and GABA receptors and inhibit the enzyme acetylcholinesterase (AChE)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B236-molecules-26-03005" ref-type="bibr">236</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Cedrus deodara</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cedrin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PC12 cells</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1, 1 and 10 μM</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PC12 cells injured by amyloid β1–42 can be improved by cedrin. Cedrin can reduce (ROS) overproduction, enhance the activity of SOD and decrease MDA content and inhibition of oxidative stress, improvement of mitochondrial dysfunction and suppression of apoptosis in PC12 cells</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B237-molecules-26-03005" ref-type="bibr">237</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Metasequoia glyptostroboides</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Gallic acid, rutin, myricetin, kaempferol, quercitrin, epigallocatechin, epicatechin gallate epigallocatechin gallate and caffeic acid</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Neuronal PC12 cells</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2 mg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">The extracts effectively reduced the hydrogen peroxide-induced lipid peroxidation in neuronal PC12 cells by decreasing intracellular ROS accumulation</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B49-molecules-26-03005" ref-type="bibr">49</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Pinus densiflora</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Catechin, quercetin dehydrate, astragalin and kaempferol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">50–100 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Catechin displayed a potential effect protecting mouse brains from oxidative damage via the improvement of the antioxidant capacities of TAC, the GSH-redox system, SOD and CAT in the hippocampus region as well as the inactivation of cytokines such as NF-kB in pyramidal cells of the hippocampal CA1 region, while PNE shows antiamnesic properties and effects in Alzheimer’s, as it attenuated the increase in serum corticosterone level and up-regulation of GR hippocampal gene expression</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B238-molecules-26-03005" ref-type="bibr">238</xref>,
+     <xref rid="B239-molecules-26-03005" ref-type="bibr">239</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. eldarica</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Needle extract</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">50 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Alkanes, sterols, terpenoids, and quercetin, which is found in 
+     <italic>P. eldarica</italic>, help in inducing sleep and alter the sleep–wake cycle partly via activation of GABA receptors
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B240-molecules-26-03005" ref-type="bibr">240</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. massoniana</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Polyprenols</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Polyprenols significantly increased T-AOC, GSHPx, damaging peroxide components from cells in order to stop the lipid peroxidation chain reaction and avoid excessive hydrolysis to form NEP, MDA, SOD activity (remove free radicals) and β-site AβPP cleaving enzyme 1 (BACE1) expression, while NOS activity, MDA concentration, NO, concentration of Aβ1-42 and PS1 were reduced</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B241-molecules-26-03005" ref-type="bibr">241</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. pinaster</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pycnogenol (PYC)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">20 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">In the MPTP-induced mouse model, PYC could prevent dopaminergic neurons by reducing oxidative loads, suppressing glial cell activation, and inhibiting inflammatory responses</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B100-molecules-26-03005" ref-type="bibr">100</xref>,
+     <xref rid="B242-molecules-26-03005" ref-type="bibr">242</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. roxburghii</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Quercetin, rutin, gallic acid</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Wistar albino</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100–300 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Quercetin and gallic acid, both present in stem bark, have been shown to inhibit neuronal toxicity and apoptosis by reversing mitochondrial dysfunction and free radical development</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B243-molecules-26-03005" ref-type="bibr">243</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Thuja occidentalis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Water extract</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CNS depressant activity, anticonvulsant and muscle relaxant activity</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B244-molecules-26-03005" ref-type="bibr">244</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Torreya nucifera,</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Arctigenin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Rat Cortical cells</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.01 µM to 10.0 µM.</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Arctigenin significantly attenuated glutamate-induced neurotoxicity by inhibiting the binding of [3H]-kainate to its receptors</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B35-molecules-26-03005" ref-type="bibr">35</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>T. semen</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Polyphenols, flavonoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mice</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0–10 mg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TS increased the level of total glutathiones</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B245-molecules-26-03005" ref-type="bibr">245</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>T-AOC—total antioxidative capacity; GSHPx—glutathione peroxidise; SOD—super oxide dismutase; NEP—neprilysin; MDA—malondialdehyde; NO—nitric oxide, NOS—nitric oxide synthase; PS1—presenilin 1, CAT—catalase.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

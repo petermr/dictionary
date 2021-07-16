@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par9">To investigate the occurrence of underlying environmental gradients in the pollen data and to quantify vegetation responses to Holocene climate variability and fire activity we conducted unconstrained and constrained ordination analyses (Legendre and Birks 
+ <xref ref-type="bibr" rid="CR38">2012</xref>) in Canoco 5 (ter Braak and Šmilauer 
+ <xref ref-type="bibr" rid="CR68">2012</xref>). We first ran a detrended correspondence analysis (DCA) on square-root transformed percentage pollen data, detrending by segments, and without down-weighting rare species to check whether ordination techniques based on linear or unimodal response models were more appropriate (Legendre and Birks 
+ <xref ref-type="bibr" rid="CR38">2012</xref>). As the length-of-gradient of Axis 1 was rather short (1.62 standard deviation units of turnover), we decided to use methods based on linear response models like principal component analysis (PCA) and redundancy analysis (RDA) for further analysis (Legendre and Birks 
+ <xref ref-type="bibr" rid="CR38">2012</xref>; Šmilauer and Lepš 
+ <xref ref-type="bibr" rid="CR66">2014</xref>). For the unconstrained ordination analyses, that is, DCA and PCA, we used the entire Lago Verdarolo pollen dataset (
+ <italic>n</italic> = 81 samples).
+</p>

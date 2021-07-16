@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR68">
+ <label>68.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dobrowolska</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Businge</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Abreu</surname>
+    <given-names>IN</given-names>
+   </name>
+   <name>
+    <surname>Moritz</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Egertsdotter</surname>
+    <given-names>U</given-names>
+   </name>
+  </person-group>
+  <article-title>Metabolome and transcriptome profiling reveal new insights into somatic embryo germination in Norway spruce (Picea abies)</article-title>
+  <source>Tree Physiol</source>
+  <year>2017</year>
+  <volume>37</volume>
+  <issue>12</issue>
+  <fpage>1752</fpage>
+  <lpage>1766</lpage>
+  <pub-id pub-id-type="doi">10.1093/treephys/tpx078</pub-id>
+  <?supplied-pmid 28985382?>
+  <pub-id pub-id-type="pmid">28985382</pub-id>
+ </element-citation>
+</ref>

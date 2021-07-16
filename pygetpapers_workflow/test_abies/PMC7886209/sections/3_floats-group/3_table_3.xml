@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="pone.0246805.t003" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0246805.t003</object-id>
+ <label>Table 3</label>
+ <caption>
+  <title>Overview of transformed values between each factor and stem failure for related species and studies.</title>
+ </caption>
+ <alternatives>
+  <graphic id="pone.0246805.t003g" xlink:href="pone.0246805.t003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <colgroup span="1">
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th align="left" rowspan="3" colspan="1">Factor
+      <xref ref-type="table-fn" rid="t003fn001">
+       <sup>1</sup>
+      </xref>
+     </th>
+     <th align="left" rowspan="3" colspan="1">Studies</th>
+     <th align="left" rowspan="3" colspan="1">Species</th>
+     <th align="left" rowspan="3" colspan="1">Range effect sizes</th>
+     <th align="left" rowspan="1" colspan="1">Weighted</th>
+     <th align="left" rowspan="1" colspan="1">Weighted</th>
+     <th align="left" rowspan="3" colspan="1">Standard error</th>
+     <th align="left" rowspan="3" colspan="1">Confidence interval</th>
+    </tr>
+    <tr>
+     <th align="left" rowspan="1" colspan="1">average</th>
+     <th align="left" rowspan="1" colspan="1">mean</th>
+    </tr>
+    <tr>
+     <th align="left" rowspan="1" colspan="1">z-value</th>
+     <th align="left" rowspan="1" colspan="1">correlation</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td align="left" rowspan="5" colspan="1">Age</td>
+     <td align="left" rowspan="5" colspan="1">(Foster,1988), USA</td>
+     <td align="left" rowspan="1" colspan="1">Pinus resinosa sp.</td>
+     <td align="right" rowspan="5" colspan="1">0.68–0.84</td>
+     <td align="right" rowspan="5" colspan="1">1.0398</td>
+     <td align="right" rowspan="5" colspan="1">0.7778</td>
+     <td align="right" rowspan="5" colspan="1">0.072</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.74</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Pinus strobus L.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.82</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Tsuga sp.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Conifer sp.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="2" colspan="1">Crown area</td>
+     <td align="left" rowspan="2" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="right" rowspan="2" colspan="1">0.788–0.973</td>
+     <td align="right" rowspan="2" colspan="1">1.6059</td>
+     <td align="right" rowspan="2" colspan="1">0.9226</td>
+     <td align="right" rowspan="2" colspan="1">0.111</td>
+     <td align="left" rowspan="1" colspan="1">LL: -1.00</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="left" rowspan="1" colspan="1">UL: 1.00</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="2" colspan="1">Crown width</td>
+     <td align="left" rowspan="1" colspan="1">(Kane, 2014), USA</td>
+     <td align="left" rowspan="1" colspan="1">Acer saccharum.</td>
+     <td align="right" rowspan="2" colspan="1">0.8944–0.9644</td>
+     <td align="right" rowspan="2" colspan="1">1.3673</td>
+     <td align="right" rowspan="2" colspan="1">0.8781</td>
+     <td align="right" rowspan="2" colspan="1">0.177</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.53</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Kane et al., 2014), USA</td>
+     <td align="left" rowspan="1" colspan="1">Quercus rubra L.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.98</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="5" colspan="1">DBH</td>
+     <td align="left" rowspan="1" colspan="1">(Cucchi et al., 2004), France</td>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst.</td>
+     <td align="right" rowspan="5" colspan="1">0.68–0.972</td>
+     <td align="right" rowspan="5" colspan="1">14,299</td>
+     <td align="right" rowspan="5" colspan="1">0,8916</td>
+     <td align="right" rowspan="5" colspan="1">0,067</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.76</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Hedden et al., 1995), USA</td>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.96</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Moore, 2000), New Zealand</td>
+     <td align="left" rowspan="1" colspan="1">Pinus taeda L.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Papesch et al., 1997), UK</td>
+     <td align="left" rowspan="1" colspan="1">Pinus radiata D.Don</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="6" colspan="1">DBH</td>
+     <td align="left" rowspan="1" colspan="1">(Cannon et al., 2015) USA</td>
+     <td align="left" rowspan="1" colspan="1">Betula sp.</td>
+     <td align="right" rowspan="6" colspan="1">0,8451–0.978</td>
+     <td align="right" rowspan="6" colspan="1">16,685</td>
+     <td align="right" rowspan="6" colspan="1">0,9314</td>
+     <td align="right" rowspan="6" colspan="1">0,091</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.90</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1">Eschweilera spp</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.94</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peterson &amp; Claassen, 2013), USA</td>
+     <td align="left" rowspan="1" colspan="1">Liriodendron tulipifera L.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Ribeiro et al., 2016), Brazil</td>
+     <td align="left" rowspan="1" colspan="1">Populus fremontii Wats.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1">Quercus lobata Nee</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1">Scleronema micranthum (Ducke) Ducke</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="3" colspan="1">DBH
+      <sup>2</sup>
+     </td>
+     <td align="left" rowspan="1" colspan="1">(Cannon et al., 2015), USA</td>
+     <td align="left" rowspan="1" colspan="1">Liriodendron tulipifera L.</td>
+     <td align="right" rowspan="3" colspan="1">0.9295–0.9487</td>
+     <td align="right" rowspan="3" colspan="1">17,408</td>
+     <td align="right" rowspan="3" colspan="1">0,9403</td>
+     <td align="right" rowspan="3" colspan="1">0,036</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.91</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peterson &amp; Claassen, 2013), USA</td>
+     <td align="left" rowspan="1" colspan="1">Populus fremontii Wats.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.96</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1">Quercus lobata Nee</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="6" colspan="1">DBH
+      <sup>2</sup>H
+     </td>
+     <td align="left" rowspan="1" colspan="1">(Cannon et al., 2015), USA</td>
+     <td align="left" rowspan="1" colspan="1">Chamaecyparis obtuse (Sieb. Et Zucc.) Endl.</td>
+     <td align="right" rowspan="6" colspan="1">0.670–0.9834</td>
+     <td align="right" rowspan="6" colspan="1">17,048</td>
+     <td align="right" rowspan="6" colspan="1">0,9360</td>
+     <td align="right" rowspan="6" colspan="1">0,058</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.85</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Cucchi et al., 2004), France</td>
+     <td align="left" rowspan="1" colspan="1">Pinus taeda L.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.98</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Hedden et al., 1995), USA</td>
+     <td align="left" rowspan="1" colspan="1">Pinus pinaster Ait.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Kamimura et al., 2012), Japan</td>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Lundström et al., 2007), Switzerland</td>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="3" colspan="1">DBH
+      <sup>2</sup>H
+     </td>
+     <td align="left" rowspan="1" colspan="1">(Cannon et al., 2015), USA</td>
+     <td align="left" rowspan="1" colspan="1">Liriodendron tulipifera L.</td>
+     <td align="right" rowspan="3" colspan="1">0.9295–0.9731</td>
+     <td align="right" rowspan="3" colspan="1">19,626</td>
+     <td align="right" rowspan="3" colspan="1">0,9613</td>
+     <td align="right" rowspan="3" colspan="1">0,105</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.85</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peterson &amp; Claassen, 2013), USA</td>
+     <td align="left" rowspan="1" colspan="1">Populus fremontii Wats.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.99</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1">Quercus lobata Nee</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="6" colspan="1">DBH
+      <sup>3</sup>
+     </td>
+     <td align="left" rowspan="1" colspan="1">(Cannon et al., 2015), USA</td>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="right" rowspan="6" colspan="1">0,5745–0,9767</td>
+     <td align="right" rowspan="6" colspan="1">17,453</td>
+     <td align="right" rowspan="6" colspan="1">0,9408</td>
+     <td align="right" rowspan="6" colspan="1">0,048</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.82</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Cucchi et al., 2004), France</td>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.98</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Fredericksen et al., 1993), USA</td>
+     <td align="left" rowspan="1" colspan="1">Pinus taeda L.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Gardiner et al., 1997), UK</td>
+     <td align="left" rowspan="1" colspan="1">Pinus radiata D.Don</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Papesch et al., 1997), UK</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="4" colspan="1">DBH
+      <sup>3</sup>
+     </td>
+     <td align="left" rowspan="1" colspan="1">(Cannon et al., 2015), USA</td>
+     <td align="left" rowspan="1" colspan="1">Liriodendron tulipifera L.</td>
+     <td align="right" rowspan="4" colspan="1">0,9022–0,9985</td>
+     <td align="right" rowspan="4" colspan="1">22,261</td>
+     <td align="right" rowspan="4" colspan="1">0,9770</td>
+     <td align="right" rowspan="4" colspan="1">0,022</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.79</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1">Betula sp.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.98</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peterson &amp; Claassen, 2013), USA</td>
+     <td align="left" rowspan="1" colspan="1">Populus fremontii Wats.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1">Quercus lobata Nee</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="8" colspan="1">Height</td>
+     <td align="left" rowspan="1" colspan="1">(Cucchi et al., 2004), France</td>
+     <td align="left" rowspan="1" colspan="1">Pinus resinosa sp.</td>
+     <td align="right" rowspan="8" colspan="1">0.656–0.866</td>
+     <td align="right" rowspan="8" colspan="1">0.9908</td>
+     <td align="right" rowspan="8" colspan="1">0.7577</td>
+     <td align="right" rowspan="8" colspan="1">0.051</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.72</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Foster, 1988), USA</td>
+     <td align="left" rowspan="1" colspan="1">Pinus strobus L.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.80</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Fredericksen et al., 1993), USA</td>
+     <td align="left" rowspan="1" colspan="1">Pinus sylvestris L.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Hedden et al., 1995), USA</td>
+     <td align="left" rowspan="1" colspan="1">Tsuga sp.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Papesch et al., 1997), UK</td>
+     <td align="left" rowspan="1" colspan="1">Conifer sp.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1">Pinus pinaster Ait.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1">Pinus taeda L.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="8" colspan="1">Height</td>
+     <td align="left" rowspan="1" colspan="1">(Cannon et al., 2015), USA</td>
+     <td align="left" rowspan="1" colspan="1">Acer rubrum L.</td>
+     <td align="right" rowspan="8" colspan="1">0.6557–0.976</td>
+     <td align="right" rowspan="8" colspan="1">12,544</td>
+     <td align="right" rowspan="8" colspan="1">0,8495</td>
+     <td align="right" rowspan="8" colspan="1">0,072</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.64</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Foster, 1988), USA</td>
+     <td align="left" rowspan="1" colspan="1">Betula sp.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.89</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peterson &amp; Claassen, 2013), USA</td>
+     <td align="left" rowspan="1" colspan="1">Eschweilera spp</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1">Liriodendron tulipifera L.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Ribeiro et al., 2016), Brazil</td>
+     <td align="left" rowspan="1" colspan="1">Populus fremontii Wats.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1">Quercus borealis</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1">Quercus lobata Nee</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1">Scleronema micranthum (Ducke) Ducke</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="3" colspan="1">Stem volume</td>
+     <td align="left" rowspan="1" colspan="1">(Fredericksen et al., 1993), USA</td>
+     <td align="left" rowspan="1" colspan="1">Pinus radiata D.Don</td>
+     <td align="right" rowspan="3" colspan="1">0.8307–0.9695</td>
+     <td align="right" rowspan="3" colspan="1">18,037</td>
+     <td align="right" rowspan="3" colspan="1">0,9472</td>
+     <td align="right" rowspan="3" colspan="1">0,078</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.81</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Lundström et al., 2007), Switzerland</td>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.99</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Papesch et al., 1997), UK</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="6" colspan="1">Tree weight</td>
+     <td align="left" rowspan="1" colspan="1">(Achim et al., 2005), Canada</td>
+     <td align="left" rowspan="1" colspan="1">Abies balsamea L. Mill.</td>
+     <td align="right" rowspan="6" colspan="1">0.638–0.9798</td>
+     <td align="right" rowspan="6" colspan="1">16,388</td>
+     <td align="right" rowspan="6" colspan="1">0,9273</td>
+     <td align="right" rowspan="6" colspan="1">0,054</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.81</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Cannon et al., 2015), USA</td>
+     <td align="left" rowspan="1" colspan="1">Chamaecyparis obtuse (Sieb. Et Zucc.) Endl.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.98</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Fredericksen et al., 1993), USA</td>
+     <td align="left" rowspan="1" colspan="1">Picea sitchensis Bong. Carr.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Hedden et al., 1995), USA</td>
+     <td align="left" rowspan="1" colspan="1">Pinus taeda L.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Kamimura et al., 2012), Japan</td>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Lundström et al., 2007), Switzerland</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="10" colspan="1">Stem weight</td>
+     <td align="left" rowspan="1" colspan="1">(Achim et al., 2003), UK</td>
+     <td align="left" rowspan="1" colspan="1">Picea abies L. Karst</td>
+     <td align="right" rowspan="10" colspan="1">0.721–0.9798</td>
+     <td align="right" rowspan="10" colspan="1">16,286</td>
+     <td align="right" rowspan="10" colspan="1">0,9259</td>
+     <td align="right" rowspan="10" colspan="1">0,036</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.88</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Achim et al., 2004), Canada</td>
+     <td align="left" rowspan="1" colspan="1">Picea mariana Mill. BSP</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.95</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Achim et al., 2005), Canada</td>
+     <td align="left" rowspan="1" colspan="1">Pinus banksiana Lamb.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Cannon et al., 2015), USA</td>
+     <td align="left" rowspan="1" colspan="1">Pinus contorta Dougl. var. latifolia Engelm.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Cucchi et al., 2004), France</td>
+     <td align="left" rowspan="1" colspan="1">Picea glauca (Moench) Voss</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Elie &amp; Ruel, 2005), Canada</td>
+     <td align="left" rowspan="1" colspan="1">Abies balsamea L.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Fraser, 1962), UK</td>
+     <td align="left" rowspan="1" colspan="1">Picea sitchensis Bong. Carr.</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Gardiner et al., 1997), UK</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Lundström et al., 2007), Switzerland</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Peltola et al., 2000), Finnland</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="3" colspan="1">Stem weight</td>
+     <td align="left" rowspan="1" colspan="1">(Cannon et al., 2015), USA</td>
+     <td align="left" rowspan="1" colspan="1">Eschweilera spp.</td>
+     <td align="right" rowspan="3" colspan="1">.0.8268–0.9798</td>
+     <td align="right" rowspan="3" colspan="1">16,383</td>
+     <td align="right" rowspan="3" colspan="1">0,9272</td>
+     <td align="right" rowspan="3" colspan="1">0,130</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.23</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">(Ribeiro et al., 2016), Brazil</td>
+     <td align="left" rowspan="1" colspan="1">Liriodendron tulipifera L.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.99</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"> </td>
+     <td align="left" rowspan="1" colspan="1">Scleronema micranthum (Ducke) Ducke</td>
+     <td align="left" rowspan="1" colspan="1"> </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="2" colspan="1">Wind speed canopy top</td>
+     <td align="left" rowspan="2" colspan="1">(Hale et al,. 2012), UK</td>
+     <td align="left" rowspan="1" colspan="1">Larix decidua Mill.</td>
+     <td align="right" rowspan="2" colspan="1">0.8792–0.9854</td>
+     <td align="right" rowspan="2" colspan="1">18,407</td>
+     <td align="right" rowspan="2" colspan="1">0,9509</td>
+     <td align="right" rowspan="2" colspan="1">0,167</td>
+     <td align="left" rowspan="1" colspan="1">LL: 0.92</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">Picea sitchensis Bong. Carr.</td>
+     <td align="left" rowspan="1" colspan="1">UL: 0.97</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <fn id="t003fn001">
+   <p>
+    <sup>1</sup> Factors: DBH = diameter breast height, DBH
+    <sup>2</sup> = diameter breast height squared, DBH
+    <sup>3</sup> = diameter breast height cubed, DBH
+    <sup>2</sup>H = diameter breast height squared times height
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

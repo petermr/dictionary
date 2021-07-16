@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Figure 3</label>
+ <caption>
+  <p>Ordination analyses on the Lago Verdarolo paleoecological record. 
+   <bold>A</bold> Principal component analysis (PCA) on the entire pollen dataset (square-root transformed percentages), that is, Late Glacial and Holocene (
+   <italic>n</italic> = 81 samples). The first and second axes explain 42.4% and 26.8% of the variation in the pollen dataset, respectively. 
+   <bold>B</bold> Redundancy analysis (RDA) on a reduced dataset including samples with pollen, chironomid-inferred mean July air temperature and microscopic charcoal data simultaneously (
+   <italic>n</italic> = 35 samples). Response variables are the pollen taxa (square-root transformed pollen percentages), while the environmental variables are chironomid-inferred mean July air temperature anomalies (°C) with respect to the mean of the period 2000–100 cal BP (Samartin and others 
+   <xref ref-type="bibr" rid="CR63">2017</xref>) and microscopic charcoal influx (# cm
+   <sup>−2</sup> y
+   <sup>−1</sup>). The environmental variables explain together the 27.9% of the variation in the Holocene pollen dataset (microscopic charcoal influx = 10.8%, Mean 
+   <italic>T</italic>
+   <sub>July</sub> anomaly = 10.3%, Shared = 6.9%). Abbreviations: 
+   <italic>F. excelsior</italic>-t. = 
+   <italic>Fraxinus excelsior</italic>-t., 
+   <italic>F. ornus</italic>-t. = 
+   <italic>Fraxinus ornus</italic>-t., 
+   <italic>P. lanceolata</italic>-t. = 
+   <italic>Plantago lanceolata</italic>-t.
+  </p>
+ </caption>
+ <graphic xlink:href="10021_2020_587_Fig3_HTML" id="MO3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

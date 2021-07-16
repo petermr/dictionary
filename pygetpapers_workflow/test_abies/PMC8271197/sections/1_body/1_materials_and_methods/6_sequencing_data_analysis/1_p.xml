@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Raw reads were pre-processed following 
+ <xref rid="ref22" ref-type="bibr">Delhomme et al. (2014)</xref>. Briefly, initial quality of raw data was assessed using FastQC (v0.11.2; 
+ <ext-link xlink:href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.bioinformatics.babraham.ac.uk/projects/fastqc/</ext-link>), and ribosomal RNA was removed with SortMeRNA (v2.0) (
+ <xref rid="ref46" ref-type="bibr">Kopylova et al. 2012</xref>). Sequencing adapters and low-quality regions were cut using Trimmomatic (v0.36), with the setting ILLUMINACLIP:2:30:10 (
+ <xref rid="ref10" ref-type="bibr">Bolger et al. 2014</xref>). Reads were then aligned to the Norway spruce reference genome (
+ <italic toggle="yes">P. abies</italic> v1.0; 
+ <xref rid="ref59" ref-type="bibr">Nystedt et al. 2013</xref>) using STAR (v2.4.0f1) set to −outSAMmapqUnique 254 −quantMode TranscriptomeSAM −outFilterMultimapN-max 100 −chimSegmentMin 1 (
+ <xref rid="ref24" ref-type="bibr">Dobin et al. 2013</xref>), and a count table was generated with HTSeq (v0.6.1) and settings −m intersection-nonempty −s yes −t exon −i Parent (
+ <xref rid="ref5" ref-type="bibr">Anders et al. 2015</xref>).
+</p>

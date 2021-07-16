@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hastie</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <name>
+    <surname>Tibshirani</surname>
+    <given-names>RJ</given-names>
+   </name>
+  </person-group>
+  <source>Generalized Additive Models</source>
+  <year>1990</year>
+  <publisher-loc>London (UK)</publisher-loc>
+  <publisher-name>Chapman and Hall</publisher-name>
+ </element-citation>
+</ref>

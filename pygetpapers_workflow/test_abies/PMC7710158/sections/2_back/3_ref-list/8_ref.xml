@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Birks</surname>
+    <given-names>HJB</given-names>
+   </name>
+   <name>
+    <surname>Tinner</surname>
+    <given-names>W</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>San-Miguel-Ayanz</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>de Rigo</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Caudullo</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Houston Durrant</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Mauri</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Past forests of Europe</article-title>
+  <source>European Atlas of Forest Tree Species</source>
+  <year>2016</year>
+  <publisher-loc>Luxembourg</publisher-loc>
+  <publisher-name>Publication Office of the European Union</publisher-name>
+  <fpage>36</fpage>
+  <lpage>39</lpage>
+ </element-citation>
+</ref>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="molecules-26-03005-t006" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">molecules-26-03005-t006_Table 6</object-id>
+ <label>Table 6</label>
+ <caption>
+  <p>Antidiabetic activity of different conifer extracts.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Conifer spp.</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Part Used</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Compounds</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Model</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Induction of Diabetes</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Dose. Conc</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Effects</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">References</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Araucaria cunninghamii</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Seeds</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Glucomannan</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Albino wistar rats</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Streptozotocin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25 and 50 mg/kg</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Glucomannan reduce blood glucose level due to presence of D-glucosyl and β-1, 4-linked D-mannosyl units</p>
+      </list-item>
+      <list-item>
+       <p>Decreases total cholesterol (TC) total glycerides (TG), high density lipoproteins cholesterol (HDL-C), very low-density lipoprotein cholesterol (VLDL-C) and low-density lipoprotein cholesterol (LDL-C)</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B246-molecules-26-03005" ref-type="bibr">246</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Cedrus deodara</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Heart wood</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavonoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Wistar albino rat</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Alloxan</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">500 mg/kg</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Reduction in blood sugar level from 49.79% within 21 days.</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B247-molecules-26-03005" ref-type="bibr">247</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Juniperus</italic>
+     <break/>
+     <italic>communis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Berry</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavonoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Wistar rat</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Streptozotocin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">250 mg/kg</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>JCB extract have potential to increase the peripheral glucose absorption and plasma insulin levels</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B248-molecules-26-03005" ref-type="bibr">248</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>J. communis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NR</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NR</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Rat</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Streptozotocin-nicotinamide</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100–200 mg/kg</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Reduction in blood glucose levels</p>
+      </list-item>
+      <list-item>
+       <p>Antihyperlipidemic activity in the form of the reduction in TG TC, LDL, and VLDL dose-dependently</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B249-molecules-26-03005" ref-type="bibr">249</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>J. oxycedrus</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Linolenic acid, oleic acid</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Wistar-albino rats</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Streptozotocin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">500 and 1000 mg/kg doses</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Leaf extracts rich in unsaturated fatty acids responsible for activating PPAR ϒ receptors or increasing the release of insulin from beta cells of the pancreas to reduce glucose levels</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B250-molecules-26-03005" ref-type="bibr">250</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Pinus gerardiana</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Nut</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavonoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Rat</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Alloxan</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">250, 500, and 750 mg/kg</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Decrease the blood glucose level by inhibiting alpha-amylase enzyme activity</p>
+      </list-item>
+      <list-item>
+       <p>Antihyperlipidemic</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B251-molecules-26-03005" ref-type="bibr">251</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. halepensis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Phenolic compounds</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Rat</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Glucose</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">250, 500 mg/kg</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Stop enzymes (α-glucosidase and α-amylase) implicated in sugar metabolism antioxidant</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B151-molecules-26-03005" ref-type="bibr">151</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>P. pinaster</italic>
+    </td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Bark</td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Phenolic compounds</td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">NR</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> (µg/mL) at PB 70% and PB 50%
+    </td>
+    <td rowspan="3" align="left" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>PBEs ethanol extract at PB.70% and 50% shows higher α-amylase and β-glucosidases inhibitory activity, respectively</p>
+      </list-item>
+     </list>
+    </td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B39-molecules-26-03005" ref-type="bibr">39</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">α-amylase</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">254.2</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">β-Glucosidase</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">122.7</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. pinaster</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pynogenol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Human</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NR</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100 mg</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Reduce blood glucose level in blood</p>
+      </list-item>
+      <list-item>
+       <p>Elevated antioxidant defense mechanisms</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B252-molecules-26-03005" ref-type="bibr">252</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. roxburghii</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Quercetin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NR</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Alpha amylase inhibitory activity</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100 μg/mL</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Quercetin present in extract displayed significant enzyme inhibitory activity against α-amylase, with 49.6% inhibition.</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B171-molecules-26-03005" ref-type="bibr">171</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. roxburghii</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bark</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Quercetin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Rat</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Alloxan</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100, 300 and 500 mg/kg</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Anti-hyperglycemic activity of 
+        <italic>P. roxburghii Sarg</italic>. extract increase the releasing of beta cell regeneration against alloxan induced free radicals
+       </p>
+      </list-item>
+      <list-item>
+       <p>Antihyperlipidemic activity</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B253-molecules-26-03005" ref-type="bibr">253</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Taxus cuspidata</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Branches and leaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Polysaccharides Pe4 (arabinose, galactose, glucose, xylose, mannose)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NR</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10–120 μg/mL</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Pe4 showing good type 2 antidiabetic activity by inhibiting α-glucosidase</p>
+      </list-item>
+      <list-item>
+       <p>Inhibit human cervical cancer</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B172-molecules-26-03005" ref-type="bibr">172</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>NR—Not reported.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

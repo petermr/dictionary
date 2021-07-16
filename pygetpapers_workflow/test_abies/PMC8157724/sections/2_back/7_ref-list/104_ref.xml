@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR104">
+ <label>104.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Proost</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Van Bel</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Vaneechoutte</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Van de Peer</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Inze</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Mueller-Roeber</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Vandepoele</surname>
+    <given-names>K</given-names>
+   </name>
+  </person-group>
+  <article-title>PLAZA 3.0: an access point for plant comparative genomics</article-title>
+  <source>Nucleic Acids Res</source>
+  <year>2015</year>
+  <volume>43</volume>
+  <issue>D1</issue>
+  <fpage>D974</fpage>
+  <lpage>D981</lpage>
+  <pub-id pub-id-type="doi">10.1093/nar/gku986</pub-id>
+  <?supplied-pmid 25324309?>
+  <pub-id pub-id-type="pmid">25324309</pub-id>
+ </element-citation>
+</ref>

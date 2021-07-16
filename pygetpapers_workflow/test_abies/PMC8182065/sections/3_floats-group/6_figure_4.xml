@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F4" position="float">
+ <label>FIGURE 4</label>
+ <caption>
+  <p>Principal component analysis (PCA) biplots (for 
+   <italic>E. polonica</italic>-inoculated plants) of total absolute terpene amounts. Variation along the two main axes of variation (PC 1, PC 2; % variation explained by each axis) is shown for methyl jasmonate-treated (50 mM MeJA, blue filled triangles) and non-treated (0 mM MeJA, orange filled circles) clones of Norway spruce (
+   <italic>P. abies</italic>). Mean PCA score values ± standard error for each clone (1–9) are shown, as well as the direction and distance of change (black arrows) in terpene chemistry between the two MeJA treatments. The position of terpenes indicates PCA loadings (vectors), which illustrate each compound’s correlation with the two axes of variation (see 
+   <xref rid="T3" ref-type="table">Table 3</xref> for loading values).
+  </p>
+ </caption>
+ <graphic xlink:href="fpls-12-678959-g004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Callahan</surname>
+    <given-names>B. J.</given-names>
+   </name>
+   <name>
+    <surname>McMurdie</surname>
+    <given-names>P. J.</given-names>
+   </name>
+   <name>
+    <surname>Holmes</surname>
+    <given-names>S. P.</given-names>
+   </name>
+  </person-group> (
+  <year>2017</year>). 
+  <article-title>Exact sequence variants should replace operational taxonomic units in marker-gene data analysis.</article-title>
+  <source>
+   <italic>ISME J.</italic>
+  </source>
+  <volume>11</volume>
+  <fpage>2639</fpage>–
+  <lpage>2643</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/ismej.2017.119</pub-id>
+  <?supplied-pmid 28731476?>
+  <pub-id pub-id-type="pmid">28731476</pub-id>
+ </mixed-citation>
+</ref>

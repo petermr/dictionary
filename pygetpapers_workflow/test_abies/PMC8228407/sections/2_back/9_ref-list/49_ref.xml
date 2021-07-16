@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B49-jof-07-00412">
+ <label>49.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nilsson</surname>
+    <given-names>R.H.</given-names>
+   </name>
+   <name>
+    <surname>Larsson</surname>
+    <given-names>K.H.</given-names>
+   </name>
+   <name>
+    <surname>Taylor</surname>
+    <given-names>A.F.S.</given-names>
+   </name>
+   <name>
+    <surname>Bengtsson-Palme</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Jeppesen</surname>
+    <given-names>T.S.</given-names>
+   </name>
+   <name>
+    <surname>Schigel</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Kennedy</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Picard</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Glöckner</surname>
+    <given-names>F.O.</given-names>
+   </name>
+   <name>
+    <surname>Tedersoo</surname>
+    <given-names>L.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The UNITE database for molecular identification of fungi: Handling dark taxa and parallel taxonomic classifications</article-title>
+  <source>Nucleic Acids Res.</source>
+  <year>2019</year>
+  <volume>47</volume>
+  <fpage>D259</fpage>
+  <lpage>D264</lpage>
+  <pub-id pub-id-type="doi">10.1093/nar/gky1022</pub-id>
+  <pub-id pub-id-type="pmid">30371820</pub-id>
+ </element-citation>
+</ref>

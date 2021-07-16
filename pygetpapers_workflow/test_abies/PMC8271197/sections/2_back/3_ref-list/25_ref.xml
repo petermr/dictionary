@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref24">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Dobin</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Davis</surname>
+    <given-names>CA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Schlesinger</surname>
+    <given-names>F</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Drenkow</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Zaleski</surname>
+    <given-names>C</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Jha</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Batut</surname>
+    <given-names>P</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Chaisson</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Gingeras</surname>
+    <given-names>TR</given-names>
+   </string-name>
+  </person-group> (
+  <year>2013</year>) 
+  <article-title>STAR: ultrafast universal RNA-seq aligner</article-title>. 
+  <source>Bioinformatics</source>
+  <volume>29</volume>:
+  <fpage>15</fpage>–
+  <lpage>21</lpage>.
+  <pub-id pub-id-type="pmid">23104886</pub-id>
+ </mixed-citation>
+</ref>

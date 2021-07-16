@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B45-jof-07-00412">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Větrovský</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Morais</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Kohout</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Lepinay</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Algora</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Awokunle Hollá</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Bahnmann</surname>
+    <given-names>B.D.</given-names>
+   </name>
+   <name>
+    <surname>Bílohnědá</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Brabcová</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>D’Alò</surname>
+    <given-names>F.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies</article-title>
+  <source>Sci. Data</source>
+  <year>2020</year>
+  <volume>7</volume>
+  <fpage>228</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41597-020-0567-7</pub-id>
+  <pub-id pub-id-type="pmid">32661237</pub-id>
+ </element-citation>
+</ref>

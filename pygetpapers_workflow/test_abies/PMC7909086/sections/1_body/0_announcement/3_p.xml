@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A total of 6,955,122 clean reads were obtained from the BGISEQ-500 run and 134,135 reads from the PacBio run, with an average read length of 21.4 kbp. A hybrid assembly with 2 × 150-bp paired-end reads from BGISEQ-500 and long PacBio reads was generated using the Unicycler assembler v0.4.8-beta (
+ <xref rid="B4" ref-type="bibr">4</xref>). The complete genome sequence was annotated using PROKKA (
+ <xref rid="B5" ref-type="bibr">5</xref>) and predicted to have 6,553 genes (6,445 protein-coding genes, 13 rRNA loci, 107 tRNAs). Default parameters were used for all software unless otherwise noted.
+</p>

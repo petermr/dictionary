@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Consensus assembly generated two contigs of 7,618,936 bp, which includes a single circular chromosome (7,075,616 bp) with a G+C content of 45.6% and a circular, single-copy megaplasmid (543,320 bp). Sequencing coverage was 137× for the BGISEQ-500 data and 380× for the PacBio data, and mean analysis of the 16S rRNA gene showed the highest sequence identity to the 16S rRNA genes of 
+ <named-content content-type="genus-species">Paenibacillus tundrae</named-content> A10b (99.27%; GenBank accession number 
+ <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/NR_044525" assigning-authority="genbank" xmlns:xlink="http://www.w3.org/1999/xlink">NR_044525</ext-link>) and 
+ <named-content content-type="genus-species">P. amylolyticus</named-content> JCM 9906 (98.20%; 
+ <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/NR_112163" assigning-authority="genbank" xmlns:xlink="http://www.w3.org/1999/xlink">NR_112163</ext-link>) following a search against the Greengenes nucleotide database using the Basic Local Alignment Search Tool (BLAST).
+</p>

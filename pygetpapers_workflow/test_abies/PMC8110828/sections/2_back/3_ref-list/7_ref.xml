@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Caporaso</surname>
+    <given-names>J. G.</given-names>
+   </name>
+   <name>
+    <surname>Lauber</surname>
+    <given-names>C. L.</given-names>
+   </name>
+   <name>
+    <surname>Walters</surname>
+    <given-names>W. A.</given-names>
+   </name>
+   <name>
+    <surname>Berg-Lyons</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Lozupone</surname>
+    <given-names>C. A.</given-names>
+   </name>
+   <name>
+    <surname>Turnbaugh</surname>
+    <given-names>P. J.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2011</year>). 
+  <article-title>Global patterns of 16S rRNA diversity at a depth of milliions of sequences per sample.</article-title>
+  <source>
+   <italic>PNAS</italic>
+  </source>
+  <volume>108</volume>
+  <fpage>4516</fpage>–
+  <lpage>4522</lpage>. 
+  <pub-id pub-id-type="doi">10.1073/pnas.1000080107</pub-id>
+  <?supplied-pmid 20534432?>
+  <pub-id pub-id-type="pmid">20534432</pub-id>
+ </mixed-citation>
+</ref>

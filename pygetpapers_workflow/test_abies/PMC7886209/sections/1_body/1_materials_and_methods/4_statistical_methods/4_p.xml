@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Binary logistic regressions are used to explore the conditional probability that a factor or climate zone is associated with the presence of failure in the study populations [
+ <xref rid="pone.0246805.ref074" ref-type="bibr">74</xref>, 
+ <xref rid="pone.0246805.ref075" ref-type="bibr">75</xref>]. A smaller sample size lower than 50 can be sufficient if the aim of the analysis is to determine factors which are highly associated with an outcome [
+ <xref rid="pone.0246805.ref076" ref-type="bibr">76</xref>]. The minimum sample size to process valid estimates and standard errors for binary logistic regression models has been estimated to be more than 20 [
+ <xref rid="pone.0246805.ref077" ref-type="bibr">77</xref>], see also 
+ <xref ref-type="supplementary-material" rid="pone.0246805.s008">S4 Text</xref> in this regard. From the 161 studies included in the systematic review only the factors DBH, Height and Slenderness were reported often enough [
+ <xref rid="pone.0246805.ref078" ref-type="bibr">78</xref>, 
+ <xref rid="pone.0246805.ref079" ref-type="bibr">79</xref>], and 92 studies were included in this analysis. The identification of the climate zones of the locations reported in each study has been based on the Köppen climate classification [
+ <xref rid="pone.0246805.ref080" ref-type="bibr">80</xref>]. Marginal effects are calculated to estimate the change in failure for different climate zones [
+ <xref rid="pone.0246805.ref081" ref-type="bibr">81</xref>].
+</p>

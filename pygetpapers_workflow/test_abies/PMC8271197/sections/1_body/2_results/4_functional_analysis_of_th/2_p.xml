@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To determine whether singletons were fully integrated within the drought-response network, had particular network statistic characteristics or if there were specific transcriptional modules enriched for singletons, which could represent Norway spruce or conifer specific components of a stress response, a gene co-expression network was inferred, and network modules (NMs) were identified (
+ <xref rid="sup8" ref-type="supplementary-material">Table S1</xref> available as Supplementary data at 
+ <italic toggle="yes">Tree Physiology</italic> Online; NM expression profiles and functional enrichment results are available in Supplementary Note S1, available as Supplementary data at 
+ <italic toggle="yes">Tree Physiology</italic> Online) and associated network connectivity statistics were calculated. Examination of the location of the conserved and singleton genes within the co-expression network (
+ <xref rid="sup4" ref-type="supplementary-material">Figure S4</xref> available as Supplementary data at 
+ <italic toggle="yes">Tree Physiology</italic> Online) revealed no enrichment of either category within specific NMs. Genes from both categories (conserved/singleton) were integrated across the network and across the range of connectivity measures. As an example, in NM 1:2, the top 10 genes ranked by PageRank, as a measure of network importance/centrality, included two genes with no identified Arabidopsis homolog.
+</p>

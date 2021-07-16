@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>SEED pipeline version 2.0 (
+ <xref rid="B74" ref-type="bibr">Větrovský et al., 2018</xref>) was used for filtering and trimming the reads obtained from Illumina MiSeq. The reads were merged into paired end sequences with at least 30 bp overlap and maximum difference 10% (
+ <xref rid="B1" ref-type="bibr">Aronesty, 2011</xref>). All sequences with ambiguous bases and average base quality scores lower than 38 were removed from the dataset. Sequences without primers and identifiers as well as sequences with mismatched identifiers were also removed. Remaining sequences were sorted into samples according to the MID sequences. Duplicates were removed prior to ITS2 extraction by ITSx (
+ <xref rid="B6" ref-type="bibr">Bengtsson-Palme et al., 2013</xref>). The non-fungal ITS2 sequences were removed from the dataset and fungal ITS2 sequences were clustered using UPARSE (
+ <xref rid="B15" ref-type="bibr">Edgar, 2013</xref>) implementation in VSEARCH version 1.11.2 on 98.5% similarity level. All global singletons, doubletons, and chimeric sequences were excluded. From each cluster, the most abundant sequence was selected as a representative sequence for subsequent analysis. BLAST search (
+ <xref rid="B9" ref-type="bibr">Camacho et al., 2009</xref>) of the representative sequences was performed against local ITS database (UNITE repository, 08/22/2018 release). Representative sequences of fungal OTUs were assigned to closest species hypothesis (SH; 
+ <xref rid="B33" ref-type="bibr">Kõljalg et al., 2013</xref>) on 98.5% similarity level. The taxonomy of fungi follows Index Fungorum
+ <sup>
+  <xref ref-type="fn" rid="footnote1">1</xref>
+ </sup>.
+</p>

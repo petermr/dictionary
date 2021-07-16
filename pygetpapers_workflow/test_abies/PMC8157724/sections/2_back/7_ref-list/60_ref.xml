@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR60">
+ <label>60.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tsukagoshi</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Saijo</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Shibata</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Morikami</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Nakamura</surname>
+    <given-names>K</given-names>
+   </name>
+  </person-group>
+  <article-title>Analysis of a sugar response mutant of Arabidopsis identified a novel B3 domain protein that functions as an active transcriptional repressor</article-title>
+  <source>Plant Physiol</source>
+  <year>2005</year>
+  <volume>138</volume>
+  <issue>2</issue>
+  <fpage>675</fpage>
+  <lpage>685</lpage>
+  <pub-id pub-id-type="doi">10.1104/pp.104.057752</pub-id>
+  <?supplied-pmid 15894743?>
+  <pub-id pub-id-type="pmid">15894743</pub-id>
+ </element-citation>
+</ref>

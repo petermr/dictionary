@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For CAZyme annotation, Prokka gene prediction was used to obtain the sequences of genes. Amino acid sequences were compared with the dbCAN database version 07312018 using the run-dbcan.py script (Zhang et al., 
+ <xref rid="B79" ref-type="bibr">2018</xref>) and HMMER 3.2.1 (Eddy, 
+ <xref rid="B14" ref-type="bibr">2011</xref>). CAZymes with an e-value ≤ 1E
+ <sup>−30</sup> were considered for further annotation and their most probable target substrates were identified based on the genes with characterized functions in the CAZy database (
+ <ext-link ext-link-type="uri" xlink:href="http://www.cazy.org" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.cazy.org</ext-link>; Lombard et al., 
+ <xref rid="B38" ref-type="bibr">2014</xref>). Functions of predicted genes were annotated with the hmmsearch function in HMMER 3.2.1, using the FOAM database as a source of HMMs for relevant genes (Prestat et al., 
+ <xref rid="B51" ref-type="bibr">2014</xref>). FOAM functions with an e-value ≤ 1E
+ <sup>−30</sup> were considered for further annotation. In the case of genes with more than one hit in the dbCAN and the FOAM databases, the function with the lowest e-value was selected.
+</p>

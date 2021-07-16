@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="polymers-13-01619-t004" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">polymers-13-01619-t004_Table 4</object-id>
+ <label>Table 4</label>
+ <caption>
+  <p>The average fibre length and width before and after storage for 8 months.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Trait/Sample</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Wood-Trunk</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Wood-Trunk 8</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Bark-Trunk</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Bark 8</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Bark-Trunk 8</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">average fiber length (mm)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.50</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.02</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.49</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.35</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.38</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">average fiber width (µm)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">24.33</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">22.50</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">21.02</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">19.57</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">19.36</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

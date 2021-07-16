@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR101">
+ <label>101.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Casson</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Lindsey</surname>
+    <given-names>K</given-names>
+   </name>
+  </person-group>
+  <article-title>The turnip mutant of Arabidopsis reveals that LEAFY COTYLEDON1 expression mediates the effects of auxin and sugars to promote embryonic cell identity</article-title>
+  <source>Plant Physiol</source>
+  <year>2006</year>
+  <volume>142</volume>
+  <issue>2</issue>
+  <fpage>526</fpage>
+  <lpage>541</lpage>
+  <pub-id pub-id-type="doi">10.1104/pp.106.080895</pub-id>
+  <?supplied-pmid 16935993?>
+  <pub-id pub-id-type="pmid">16935993</pub-id>
+ </element-citation>
+</ref>

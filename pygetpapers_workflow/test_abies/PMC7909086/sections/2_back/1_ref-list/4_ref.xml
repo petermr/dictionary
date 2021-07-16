@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Wick</surname>
+    <given-names>RR</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Judd</surname>
+    <given-names>LM</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Gorrie</surname>
+    <given-names>CL</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Holt</surname>
+    <given-names>KE</given-names>
+   </string-name>
+  </person-group>. 
+  <year>2017</year>. 
+  <article-title>Unicycler: resolving bacterial genome assemblies from short and long sequencing reads</article-title>. 
+  <source>PLoS Comput Biol</source>
+  <volume>13</volume>:
+  <elocation-id>e1005595</elocation-id>. doi:
+  <pub-id pub-id-type="doi">10.1371/journal.pcbi.1005595</pub-id>.
+  <pub-id pub-id-type="pmid">28594827</pub-id>
+ </mixed-citation>
+</ref>

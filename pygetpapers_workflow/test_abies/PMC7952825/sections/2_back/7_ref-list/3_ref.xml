@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Coode</surname>
+    <given-names>MJE</given-names>
+   </name>
+   <name>
+    <surname>Cullen</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Davis</surname>
+    <given-names>PH</given-names>
+   </name>
+  </person-group>
+  <article-title>
+   <italic>Abies</italic> Miller
+  </article-title>
+  <source>Flora of Turkey and East Aegean Islands</source>
+  <year>1965</year>
+  <edition>1</edition>
+  <publisher-loc>Edinburgh</publisher-loc>
+  <publisher-name>Edinburgh University Press</publisher-name>
+  <fpage>67</fpage>
+  <lpage>70</lpage>
+ </element-citation>
+</ref>

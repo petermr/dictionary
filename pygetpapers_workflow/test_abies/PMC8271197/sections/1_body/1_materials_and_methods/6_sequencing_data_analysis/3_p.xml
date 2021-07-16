@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Principal component analysis (PCA) was used to provide a visual overview of the treatment effect on the transcriptome. On the basis of visual inspection, one of the needle samples at Day 5 was identified as an outlier and was removed. On the basis of the PCA plot, samples were grouped into mild (2, 4 and 5 days after start of the experiment), severe (Days 18 and 21 of the treatment) stress and rehydrated samples (Day 25) for calling differentially expressed (DE) genes (DEGs), and pairwise comparison between the groups and well-watered samples at Day 0 for each tissue separately was performed using DESeq2. Results were filtered for a Log2 fold change &gt;2 and an adjusted 
+ <italic toggle="yes">P</italic>-value &lt;0.01.
+</p>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15-genes-12-00438">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rodrigues</surname>
+    <given-names>A.S.</given-names>
+   </name>
+   <name>
+    <surname>Chaves</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Vasques Costa</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>Y.-C.</given-names>
+   </name>
+   <name>
+    <surname>Lopes</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Milhinhos</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Van de Peer</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Miguel</surname>
+    <given-names>C.M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Small RNA profiling in 
+   <italic>Pinus pinaster</italic> reveals the transcriptome of developing seeds and highlights differences between zygotic and somatic embryos
+  </article-title>
+  <source>Sci. Rep.</source>
+  <year>2019</year>
+  <volume>9</volume>
+  <fpage>11327</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41598-019-47789-y</pub-id>
+  <?supplied-pmid 31383905?>
+  <pub-id pub-id-type="pmid">31383905</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fernandes</surname>
+    <given-names>A. D.</given-names>
+   </name>
+   <name>
+    <surname>Macklaim</surname>
+    <given-names>J. M.</given-names>
+   </name>
+   <name>
+    <surname>Linn</surname>
+    <given-names>T. G.</given-names>
+   </name>
+   <name>
+    <surname>Reid</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Gloor</surname>
+    <given-names>G. B.</given-names>
+   </name>
+  </person-group> (
+  <year>2013</year>). 
+  <article-title>ANOVA-like differential expression (ALDEx) analysis for mixed population RNA-seq.</article-title>
+  <source>
+   <italic>PLoS One</italic>
+  </source>
+  <volume>8</volume>:
+  <issue>67019</issue>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0067019</pub-id>
+  <?supplied-pmid 23843979?>
+  <pub-id pub-id-type="pmid">23843979</pub-id>
+ </mixed-citation>
+</ref>

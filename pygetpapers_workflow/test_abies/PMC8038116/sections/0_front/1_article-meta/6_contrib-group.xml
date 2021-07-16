@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Le Normand</surname>
+   <given-names>Myriam</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-polymers-13-01106">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rietzler</surname>
+   <given-names>Barbara</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-polymers-13-01106">1</xref>
+  <xref ref-type="aff" rid="af2-polymers-13-01106">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3572-7798</contrib-id>
+  <name>
+   <surname>Vilaplana</surname>
+   <given-names>Francisco</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-polymers-13-01106">2</xref>
+  <xref ref-type="aff" rid="af3-polymers-13-01106">3</xref>
+  <xref rid="c1-polymers-13-01106" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ek</surname>
+   <given-names>Monica</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-polymers-13-01106">1</xref>
+  <xref ref-type="aff" rid="af2-polymers-13-01106">2</xref>
+  <xref ref-type="author-notes" rid="fn1-polymers-13-01106">†</xref>
+ </contrib>
+</contrib-group>

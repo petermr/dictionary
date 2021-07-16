@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="plants-10-00870-t002" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">plants-10-00870-t002_Table 2</object-id>
+ <label>Table 2</label>
+ <caption>
+  <p>Polyphenolic compounds identified and semiquantified in the extracts (mg compound/g vegetal material).</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Compound </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">M1 M</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">M1 US</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">M2 M</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">M2 US</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">MT M</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">MT US</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">MD M</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">MD US</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Catechin</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.91</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">7.47</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.86</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.43</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.94</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.47</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.63</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.94</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Epicatechin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6.72</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">27.09</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7.41</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">16.86</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.02</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25.59</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">20.93</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25.71</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>M1 US—
+    <italic>P. abies</italic> (Maramureșului Mountains National Park Site 1) extract produced by UAE, M2 US—
+    <italic>P. abies</italic> (Maramureșului Mountains National Park site 2) extract produced by UAE, MT US—
+    <italic>P. abies</italic> (Tașca) extract produced by UAE, MD US—
+    <italic>P. abies</italic> (Dolhasca) extract produced by UAE, M1 M—
+    <italic>P. abies</italic> (Maramureșului Mountains National Park site 1) extract produced by MAE, M2 M—
+    <italic>P. abies</italic> (Maramureșului Mountains National Park site 2) extract produced by MAE, MT M—
+    <italic>P. abies</italic> (Tașca) extract produced by MAE and MD M—
+    <italic>P. abies</italic> (Dolhasca) extract produced by MAE.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

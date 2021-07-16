@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>After universal calibration of the SEC set-up, the SEC weight distribution 
+ <italic>w</italic>(log 
+ <italic>V
+  <sub>h</sub>
+ </italic>) for the pectin fractions was obtained from the DRI signal (Equation (2)) [
+ <xref rid="B34-polymers-13-01106" ref-type="bibr">34</xref>], whereas the size dependence of the weight-average molar mass 
+ <italic>M
+  <sub>w</sub>
+ </italic>(
+ <italic>V
+  <sub>h</sub>
+ </italic>) was obtained from the MALLS data using the Zimm extrapolation (Equation (3)) [
+ <xref rid="B35-polymers-13-01106" ref-type="bibr">35</xref>]. 
+ <disp-formula id="FD2-polymers-13-01106">
+  <label>(2)</label>
+  <math id="mm3">
+   <mrow>
+    <mrow>
+     <mi>w</mi>
+     <mo stretchy="false">(</mo>
+     <mi>l</mi>
+     <mi>o</mi>
+     <mi>g</mi>
+     <msub>
+      <mi>V</mi>
+      <mi>h</mi>
+     </msub>
+     <mo stretchy="false">)</mo>
+     <mo>=</mo>
+     <mo>−</mo>
+     <msub>
+      <mi>S</mi>
+      <mrow>
+       <mi>D</mi>
+       <mi>R</mi>
+       <mi>I</mi>
+      </mrow>
+     </msub>
+     <mo stretchy="false">(</mo>
+     <msub>
+      <mi>V</mi>
+      <mrow>
+       <mi>e</mi>
+       <mi>l</mi>
+      </mrow>
+     </msub>
+     <mo stretchy="false">)</mo>
+     <mo>⋅</mo>
+     <mfrac>
+      <mrow>
+       <mi>d</mi>
+       <msub>
+        <mi>V</mi>
+        <mrow>
+         <mi>e</mi>
+         <mi>l</mi>
+        </mrow>
+       </msub>
+       <mo stretchy="false">(</mo>
+       <msub>
+        <mi>V</mi>
+        <mi>h</mi>
+       </msub>
+       <mo stretchy="false">)</mo>
+      </mrow>
+      <mrow>
+       <mi>d</mi>
+       <mi>l</mi>
+       <mi>o</mi>
+       <mi>g</mi>
+       <msub>
+        <mi>V</mi>
+        <mi>h</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="FD3-polymers-13-01106">
+  <label>(3)</label>
+  <math id="mm4">
+   <mrow>
+    <mrow>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>K</mi>
+        <mi>θ</mi>
+       </msub>
+       <mo>⋅</mo>
+       <mi>c</mi>
+       <mo stretchy="false">(</mo>
+       <msub>
+        <mi>V</mi>
+        <mi>h</mi>
+       </msub>
+       <mo stretchy="false">)</mo>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>R</mi>
+        <mi>θ</mi>
+       </msub>
+       <mo stretchy="false">(</mo>
+       <msub>
+        <mi>V</mi>
+        <mi>h</mi>
+       </msub>
+       <mo stretchy="false">)</mo>
+      </mrow>
+     </mfrac>
+     <mo>=</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <msub>
+        <mi>M</mi>
+        <mi>w</mi>
+       </msub>
+       <mo stretchy="false">(</mo>
+       <msub>
+        <mi>V</mi>
+        <mi>h</mi>
+       </msub>
+       <mo stretchy="false">)</mo>
+      </mrow>
+     </mfrac>
+     <mo>+</mo>
+     <mfrac>
+      <mrow>
+       <mn>16</mn>
+       <mo>⋅</mo>
+       <msup>
+        <mi>π</mi>
+        <mn>2</mn>
+       </msup>
+      </mrow>
+      <mrow>
+       <mn>3</mn>
+       <mo>⋅</mo>
+       <mi>λ</mi>
+      </mrow>
+     </mfrac>
+     <mo>⋅</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <msub>
+        <mi>M</mi>
+        <mi>w</mi>
+       </msub>
+       <mo stretchy="false">(</mo>
+       <msub>
+        <mi>V</mi>
+        <mi>h</mi>
+       </msub>
+       <mo stretchy="false">)</mo>
+      </mrow>
+     </mfrac>
+     <mo>⋅</mo>
+     <msubsup>
+      <mi>R</mi>
+      <mi>g</mi>
+      <mn>2</mn>
+     </msubsup>
+     <mo>⋅</mo>
+     <mi>s</mi>
+     <mi>i</mi>
+     <msup>
+      <mi>n</mi>
+      <mn>2</mn>
+     </msup>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mfrac>
+        <mi>θ</mi>
+        <mn>2</mn>
+       </mfrac>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

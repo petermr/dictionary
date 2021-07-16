@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR100">
+ <label>100.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Junker</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Monke</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Rutten</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Keilwagen</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Seifert</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Thi</surname>
+    <given-names>TM</given-names>
+   </name>
+   <name>
+    <surname>Renou</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Balzergue</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Viehover</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Hahnel</surname>
+    <given-names>U</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Elongation-related functions of LEAFY COTYLEDON1 during the development of Arabidopsis thaliana</article-title>
+  <source>Plant J</source>
+  <year>2012</year>
+  <volume>71</volume>
+  <issue>3</issue>
+  <fpage>427</fpage>
+  <lpage>442</lpage>
+  <?supplied-pmid 22429691?>
+  <pub-id pub-id-type="pmid">22429691</pub-id>
+ </element-citation>
+</ref>

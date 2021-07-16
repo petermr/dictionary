@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cregger</surname>
+    <given-names>M. A.</given-names>
+   </name>
+   <name>
+    <surname>Veach</surname>
+    <given-names>A. M.</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>Z. K.</given-names>
+   </name>
+   <name>
+    <surname>Crouch</surname>
+    <given-names>M. J.</given-names>
+   </name>
+   <name>
+    <surname>Vilgalys</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Tuskan</surname>
+    <given-names>G. A.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2018</year>). 
+  <article-title>The populus holobiot: dissecting the effects of plant niches and genotype on the microbiome.</article-title>
+  <source>
+   <italic>Microbiome</italic>
+  </source>
+  <volume>6</volume>:
+  <issue>31</issue>. 
+  <pub-id pub-id-type="doi">10.1186/s40168-018-0413-8</pub-id>
+  <?supplied-pmid 29433554?>
+  <pub-id pub-id-type="pmid">29433554</pub-id>
+ </mixed-citation>
+</ref>

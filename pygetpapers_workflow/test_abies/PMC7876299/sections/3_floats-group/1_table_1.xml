@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>TABLE 1</label>
+ <caption>
+  <p>Results of PERMANOVA analysis of sampling time and microhabitat and their interaction affecting relative abundance of fungal ecophysiological categories on decaying or living fine roots of 
+   <italic>Picea abies</italic> seedlings.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <italic>Picea abies</italic> roots
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Tested variable</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>R</italic>
+     <sup>2</sup>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <italic>P</italic>-value
+    </td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Decaying roots (decapitated 
+     <italic>P. abies</italic> seedlings)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sampling time</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>0.227</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+   </tr>
+   <tr>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Microhabitat</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.532</td>
+   </tr>
+   <tr>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Interaction</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.487</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Living roots (control)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sampling time</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.527</td>
+   </tr>
+   <tr>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Microhabitat</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.822</td>
+   </tr>
+   <tr>
+    <td valign="top" align="justify" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Interaction</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">n.d.</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.125</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <attrib>
+   <italic>Significant results are in a bold. 
+    <italic>R</italic>
+    <sup>2</sup> values were not determined (n.d.) for non-significant variables.
+   </italic>
+  </attrib>
+ </table-wrap-foot>
+</table-wrap>

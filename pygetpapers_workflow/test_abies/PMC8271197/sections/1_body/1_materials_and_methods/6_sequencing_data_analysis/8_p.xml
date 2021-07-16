@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Motif analysis was performed on 1 kb promoter regions classified as being upstream sequences of a start codon. Genes with shorter upstream sequences or without stop codons were excluded of the analysis. In total, 37,621 upstream regions were analysed. Counts of the different analysed motifs were obtained with the stand-alone version of PatMatch (
+ <xref rid="ref95" ref-type="bibr">Yan et al. 2005</xref>). Gene expression profiles of genes with promoter regions containing a motif over-represented involved in the ABA-dependent pathway were plotted using the ComplexHeatmap R package. A motif was considered over-represented if it was present in an upstream region more times than the respective confidence interval (CI) upper bound (
+ <xref rid="ref17" ref-type="bibr">Chawade et al. 2007</xref>). The motifs analysed represented consensus target sequences for AP2/ERF, MYB, MYC and bZIP TFs (YAACR/CANNTG, respectively) and ABRE cis elements that are part of the ABA-dependent pathway (
+ <xref rid="ref81" ref-type="bibr">Shinozaki and Yamaguchi-Shinozaki 2007</xref>). Thus, when the ABRE motif was present twofold or more-fold in a promoter and the less promiscuous (i.e., fewer global occurrences) CANNTG/YAACR motifs were one or more times present, they were considered as over-represented.
+</p>

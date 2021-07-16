@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par44">In this article, we have identified the conifer homologues potentially involved in the initiation of SE. Protein sequences of the candidates genes from 
+ <italic>A. thaliana</italic> were used to query the databases for finding the conifer homologues, using standard protein BLAST (BLASTP) (Basic Local Alignment Search Tool). 
+ <italic>A. thaliana</italic> was chosen as the reference species to detect the conifer homologues as this is the most widely used and the most well-documented model plant species. Databases included in the searches were Gymno PLAZA, 1.0 (
+ <ext-link ext-link-type="uri" xlink:href="https://bioinformatics.psb.ugent.be/plaza/versions/gymno-plaza/" xmlns:xlink="http://www.w3.org/1999/xlink">https://bioinformatics.psb.ugent.be/plaza/versions/gymno-plaza/</ext-link>) [
+ <xref ref-type="bibr" rid="CR104">104</xref>], Congenie (
+ <ext-link ext-link-type="uri" xlink:href="http://congenie.org/" xmlns:xlink="http://www.w3.org/1999/xlink">http://congenie.org/</ext-link>, v1.0) [
+ <xref ref-type="bibr" rid="CR105">105</xref>, 
+ <xref ref-type="bibr" rid="CR106">106</xref>] and GenBank (
+ <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/genbank/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.ncbi.nlm.nih.gov/genbank/</ext-link>) [
+ <xref ref-type="bibr" rid="CR107">107</xref>]. BLASTP searches in GenBank were excecuted by selecting the non-redundant protein sequence database along with selection of Subclass Pinidae (taxid:3313) under the organism option for performing conifer specific searches. Congenie and Gymno PLAZA are platforms for plant comparative genomics; these databases perform the homology searches using BLAST and include the information regarding the best homologues (e.g. best 
+ <italic>A. thaliana</italic> homologue) in the results. Congenie is integrated with gene prediction software e.g. AUGUSTUS and EuGene, which identifies a gene and, it provides the gene description based on Blast2GO, the functional characterization of the gene and the best BLAST homologues. Gymno PLAZA provides the structural and functional annotation of a particular gene, the associated gene family data and phylogenetic trees. However, identity of the particular conifer gene was further confirmed with domain search, alignment and phylogenetic analysis. Specific domains of the particular conifer homologue were identified by performing the search with the Conserved Domain Database (CDD, 
+ <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml</ext-link>) [
+ <xref ref-type="bibr" rid="CR108">108</xref>]. In addition to CDD search, domains of the particular conifer gene were also confirmed by referring to the gene specific sequence information available from the literature (Table 
+ <xref rid="Tab1" ref-type="table">1</xref>). Furthermore, particular conifer protein sequence of a gene was aligned with the protein sequence of the respective 
+ <italic>A. thaliana</italic> gene using MUSCLE (
+ <ext-link ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/Tools/msa/muscle/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.ebi.ac.uk/Tools/msa/muscle/</ext-link>) [
+ <xref ref-type="bibr" rid="CR114">114</xref>]. MUSCLE was selected for making the alignments as it uses both global and local alignment algorithms as compared to ClustalW, which uses only global alignment that creates more gaps. Only in case of WOX2, Clustal Omega (
+ <ext-link ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/Tools/msa/clustalo/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.ebi.ac.uk/Tools/msa/clustalo/</ext-link>) [
+ <xref ref-type="bibr" rid="CR115">115</xref>] was used which resulted into better alignment related to the WUS box. Phylogenetic trees of protein sequences were constructed for further validation, wherever required, using 
+ <ext-link ext-link-type="uri" xlink:href="http://phylogeny.fr" xmlns:xlink="http://www.w3.org/1999/xlink">Phylogeny.fr</ext-link> in the ‘one click mode’ using default settings (
+ <ext-link ext-link-type="uri" xlink:href="https://www.phylogeny.fr/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.phylogeny.fr/</ext-link>) [
+ <xref ref-type="bibr" rid="CR116">116</xref>]. In brief, the alignment was done with MUSCLE [
+ <xref ref-type="bibr" rid="CR114">114</xref>], phylogeny was done using PhyML [
+ <xref ref-type="bibr" rid="CR117">117</xref>] which is based on the maximum-likelihood principle and the phylogenetic tree was prepared using TreeDyn [
+ <xref ref-type="bibr" rid="CR118">118</xref>]. 
+</p>

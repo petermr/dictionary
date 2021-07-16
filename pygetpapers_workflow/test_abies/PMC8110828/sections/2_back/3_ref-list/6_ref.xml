@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B6">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Callahan</surname>
+    <given-names>B. J.</given-names>
+   </name>
+   <name>
+    <surname>McMurdie</surname>
+    <given-names>P. J.</given-names>
+   </name>
+   <name>
+    <surname>Rosen</surname>
+    <given-names>M. J.</given-names>
+   </name>
+   <name>
+    <surname>Han</surname>
+    <given-names>M. W.</given-names>
+   </name>
+   <name>
+    <surname>Johnson</surname>
+    <given-names>A. J. A.</given-names>
+   </name>
+   <name>
+    <surname>Holmes</surname>
+    <given-names>S. P.</given-names>
+   </name>
+  </person-group> (
+  <year>2016</year>). 
+  <article-title>Dada2: high-resolution sample inference from Illumina amplicon data.</article-title>
+  <source>
+   <italic>Nat. Methods</italic>
+  </source>
+  <volume>13</volume>
+  <fpage>581</fpage>–
+  <lpage>583</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nmeth.3869</pub-id>
+  <?supplied-pmid 27214047?>
+  <pub-id pub-id-type="pmid">27214047</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par10">In a second step, we carried out RDA to get quantitative insights into the response modes of vegetation (inferred from percentage pollen data) to summer (July) air temperature anomalies (in °C, quantitatively reconstructed from chironomid assemblages and calculated with respect to the mean pre-industrial late Holocene, that is, 2000–100 cal BP, 
+ <italic>T</italic>
+ <sub>July</sub>; Samartin and others 
+ <xref ref-type="bibr" rid="CR63">2017</xref>) and fire activity (inferred from microscopic charcoal influxes, in # cm
+ <sup>−2</sup> y
+ <sup>−1</sup>). We tested the statistical significance of the relationships observed between the response variables (pollen types) and the environmental variables (
+ <italic>T</italic>
+ <sub>July</sub> anomaly, microscopic charcoal influx) using Monte Carlo permutation tests (999 iterations, reduced model, unrestricted permutations; Šmilauer and Lepš 
+ <xref ref-type="bibr" rid="CR66">2014</xref>). Further, we used variation partitioning to quantify the independent and shared amount of variation in the pollen dataset explained by each of the environmental variables. Finally, we modeled the responses of major tree and shrub taxa of the Lago Verdarolo paleoecological record such as 
+ <italic>Abies</italic>, 
+ <italic>Fagus</italic>, 
+ <italic>Fraxinus excelsior</italic>-t., 
+ <italic>Tilia</italic>, 
+ <italic>Ulmus</italic> and 
+ <italic>Corylus</italic> (pollen abundance: %) to summer air temperature (
+ <italic>T</italic>
+ <sub>July</sub> anomaly: °C) and fire activity (microscopic charcoal influx: # cm
+ <sup>−2</sup> y
+ <sup>−1</sup>) fitting generalized additive models (GAM; Hastie and Tibshirani 
+ <xref ref-type="bibr" rid="CR31">1990</xref>; Colombaroli and others 
+ <xref ref-type="bibr" rid="CR16">2010</xref>; Šmilauer and Lepš 
+ <xref ref-type="bibr" rid="CR66">2014</xref>). We assumed a Poisson distribution for the response variables, used a log link function, limited the polynomial order of the fitted function (that is, degrees of freedom; 
+ <italic>DF</italic>) to two, and finally chose the most parsimonious model improving the null model (not incorporating the environmental variables) using stepwise selection based on the Akaike Information Criterion corrected for small sample size (
+ <italic>AICc</italic>; Šmilauer and Lepš 
+ <xref ref-type="bibr" rid="CR66">2014</xref>). The performance of the models was evaluated using their 
+ <italic>R</italic>
+ <sup>2</sup> (%) and Monte Carlo permutations (Šmilauer and Lepš 
+ <xref ref-type="bibr" rid="CR66">2014</xref>). For RDA and response curves we used a reduced dataset consisting of those samples with pollen, 
+ <italic>T</italic>
+ <sub>July</sub> and microscopic charcoal data available simultaneously (
+ <italic>n</italic> = 35 samples). Response curves were fitted in Canoco 5 (ter Braak and Šmilauer 
+ <xref ref-type="bibr" rid="CR68">2012</xref>).
+</p>

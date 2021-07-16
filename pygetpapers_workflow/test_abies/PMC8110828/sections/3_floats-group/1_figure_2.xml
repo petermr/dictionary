@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" position="float">
+ <label>FIGURE 2</label>
+ <caption>
+  <p>Heatmap of ASVs with differential abundance among decay classes (DCls) I, III, and V. The differential abundance of ASVs among DCls was evaluated using generalized linear modeling (ALDEx2). Only ASVs with a significant, Bonferroni-Holm corrected 
+   <italic>p</italic>-value are shown. Taxonomy indicates genus | family | order and phylum annotations.
+  </p>
+ </caption>
+ <graphic xlink:href="fmicb-12-640386-g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

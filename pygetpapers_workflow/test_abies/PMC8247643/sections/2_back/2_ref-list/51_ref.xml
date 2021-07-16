@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B51">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Prestat</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>David</surname>
+    <given-names>M. M.</given-names>
+   </name>
+   <name>
+    <surname>Hultman</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Taş</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Lamendella</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Dvornik</surname>
+    <given-names>J.</given-names>
+   </name>
+   <etal/>
+  </person-group>. (
+  <year>2014</year>). 
+  <article-title>FOAM (Functional Ontology Assignments for Metagenomes): a Hidden Markov Model (HMM) database with environmental focus</article-title>. 
+  <source>Nucleic Acids Res.</source>
+  <volume>42</volume>:
+  <fpage>e145</fpage>. 
+  <pub-id pub-id-type="doi">10.1093/nar/gku702</pub-id>
+  <?supplied-pmid 25260589?>
+  <pub-id pub-id-type="pmid">25260589</pub-id>
+ </mixed-citation>
+</ref>

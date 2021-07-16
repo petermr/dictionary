@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref5">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Anders</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Pyl</surname>
+    <given-names>PT</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Huber</surname>
+    <given-names>W</given-names>
+   </string-name>
+  </person-group> (
+  <year>2015</year>) 
+  <article-title>HTSeq--a Python framework to work with high-throughput sequencing data</article-title>. 
+  <source>Bioinformatics</source>
+  <volume>31</volume>:
+  <fpage>166</fpage>–
+  <lpage>169</lpage>.
+  <pub-id pub-id-type="pmid">25260700</pub-id>
+ </mixed-citation>
+</ref>

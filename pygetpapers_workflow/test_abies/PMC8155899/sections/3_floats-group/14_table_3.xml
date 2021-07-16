@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="polymers-13-01619-t003" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">polymers-13-01619-t003_Table 3</object-id>
+ <label>Table 3</label>
+ <caption>
+  <p>The average fibre length and width of wood samples.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Trait/Sample</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">0.5-A</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">0.5-B</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">0.5-C</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">4.5-A</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">4.5-B</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">4.5-C</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">average fiber length (mm)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.83</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.33</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.55</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.22</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.61</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.65</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">average fiber width (µm)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">21.58</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">23.58</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">23.91</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">23.26</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">24.49</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">24.70</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

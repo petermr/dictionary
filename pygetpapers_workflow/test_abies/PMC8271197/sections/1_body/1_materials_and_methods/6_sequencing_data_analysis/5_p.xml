@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A single co-expression network was inferred for the needle and root data using the per gene vst-normalized expression values. Genes with low variance were removed by calculating the median absolute deviation (MAD) and by excluding all genes with MAD = 0. Eleven network inference methods were computed for each dataset using the Seidr v0.12 toolkit (
+ <xref rid="ref75" ref-type="bibr">Schiffthaler et al. 2018</xref>)—ARACNE, CLR, Elastic Net, GENIE3, Narromi, PCor, Pearson, PLSNET, Spearman, SVM and Tigress. In case of non-symmetrical scoring by the method, the higher score for every symmetric edge pair was kept. The networks were aggregated using the inverse rank product method (
+ <xref rid="ref98" ref-type="bibr">Zhong et al. 2014</xref>) and the edges were filtered according to the noise-corrected backbone (
+ <xref rid="ref21" ref-type="bibr">Coscia and Neffke 2017</xref>) at a sigma of 2.32 (which roughly corresponds to a 
+ <italic toggle="yes">P</italic>-value of 1%). Network clusters were identified using InfoMap 0.19.26 (
+ <xref rid="ref71" ref-type="bibr">Rosvall and Bergstrom 2008</xref>) with markov-time of 1.4. Gene Ontology and MAPMAN (
+ <xref rid="ref88" ref-type="bibr">Thimm et al. 2004</xref>) annotations were obtained using gopher, an in-house tool available at DOI 
+ <ext-link xlink:href="10.5281/zenodo.3731544" ext-link-type="doi" xmlns:xlink="http://www.w3.org/1999/xlink">10.5281/zenodo.3731544</ext-link>.
+</p>

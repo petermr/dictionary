@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For analysis of the chemical data, terpenes were selected with a 2% limit in relative amounts, in at least 3 replicates and then normalized to 100%. In our experiment, Norway spruce clones previously treated with 0 or 50 mM MeJA were subsequently inoculated with an agar plug (no fungus) or 
+ <italic>E. polonica</italic>. Thus, both MeJA treatments are represented in the agar and fungus-inoculated plant groups. Since we were interested in examining the effect of MeJA separately from that of fungal infection on terpene chemistry, we conducted individual analyses for those plants receiving an agar plug or 
+ <italic>E. polonica</italic>. The analyses described below were conducted for each of these two plant groups. The effects of MeJA treatment (0 or 50 mM), Norway spruce clone (
+ <italic>n</italic> = 9), and their interaction, were examined with a multivariate analysis of variance (MANOVA; 
+ <italic>adonis</italic> function, 
+ <italic>vegan</italic> package version 2.5-6, 
+ <xref rid="B61" ref-type="bibr">Oksanen et al., 2019</xref>) on the absolute amounts of terpene compounds. We also fitted the same model but using instead relative amounts as a response variable (amount of each terpene compound was divided by the sum of total terpenes for that sample). In other words, this model examined proportional changes in terpene chemistry. To visualize the effect of treatment and clone on the chemical profile, dimensions of the dataset acquired from the GC-MS analysis were reduced by Principal Component Analysis (PCA), also using the 
+ <italic>vegan</italic> package in R. Loadings were obtained to examine the contribution of each compound to the PCAs first and second axes of variation.
+</p>

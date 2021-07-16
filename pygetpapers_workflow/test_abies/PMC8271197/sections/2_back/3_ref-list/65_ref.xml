@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref64">
+ <mixed-citation publication-type="other">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Pinheiro</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Bates</surname>
+    <given-names>D</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>DebRoy</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Sarkar</surname>
+    <given-names>D</given-names>
+   </string-name>; 
+   <collab>R Core</collab>
+  </person-group> (
+  <year>2018</year>) 
+  <source>nlme: linear and nonlinear mixed effects models. R package version 3.1-137</source>.
+ </mixed-citation>
+</ref>

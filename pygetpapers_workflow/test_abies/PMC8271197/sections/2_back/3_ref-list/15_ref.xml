@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref15">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Castillo-Davis</surname>
+    <given-names>CI</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Hartl</surname>
+    <given-names>DL</given-names>
+   </string-name>
+  </person-group> (
+  <year>2003</year>) 
+  <article-title>GeneMerge--post-genomic analysis, data mining, and hypothesis testing</article-title>. 
+  <source>Bioinformatics</source>
+  <volume>19</volume>:
+  <fpage>891</fpage>–
+  <lpage>892</lpage>.
+  <pub-id pub-id-type="pmid">12724301</pub-id>
+ </mixed-citation>
+</ref>

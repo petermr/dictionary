@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B42">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Madin</surname>
+    <given-names>J. S.</given-names>
+   </name>
+   <name>
+    <surname>Nielsen</surname>
+    <given-names>D. A.</given-names>
+   </name>
+   <name>
+    <surname>Brbic</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Corkrey</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Danko</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Edwards</surname>
+    <given-names>K.</given-names>
+   </name>
+   <etal/>
+  </person-group>. (
+  <year>2020</year>). 
+  <article-title>A synthesis of bacterial and archaeal phenotypic trait data</article-title>. 
+  <source>Sci. Data</source>
+  <volume>7</volume>:
+  <fpage>170</fpage>. 
+  <pub-id pub-id-type="doi">10.1038/s41597-020-0497-4</pub-id>
+  <?supplied-pmid 32503990?>
+  <pub-id pub-id-type="pmid">32503990</pub-id>
+ </mixed-citation>
+</ref>

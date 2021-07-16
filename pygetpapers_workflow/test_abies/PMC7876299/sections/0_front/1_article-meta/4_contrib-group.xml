@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kohout</surname>
+   <given-names>Petr</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+  <xref ref-type="corresp" rid="c001">
+   <sup>*</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/413028/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sudová</surname>
+   <given-names>Radka</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/927122/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brabcová</surname>
+   <given-names>Vendula</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vosolsobě</surname>
+   <given-names>Stanislav</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Baldrian</surname>
+   <given-names>Petr</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/298947/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Albrechtová</surname>
+   <given-names>Jana</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+</contrib-group>

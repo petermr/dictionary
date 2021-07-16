@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B76">
+ <mixed-citation publication-type="book">
+  <collab>RStudio Team.</collab> (
+  <year>2020</year>). 
+  <source>
+   <italic>RStudio: Integrated Development for R.</italic>
+  </source>
+  <publisher-loc>Boston, MA</publisher-loc>: 
+  <publisher-name>RStudio</publisher-name>.
+ </mixed-citation>
+</ref>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gazzarrini</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Tsuchiya</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Lumba</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Okamoto</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>McCourt</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>The transcription factor FUSCA3 controls developmental timing in Arabidopsis through the hormones gibberellin and abscisic acid</article-title>
+  <source>Dev Cell</source>
+  <year>2004</year>
+  <volume>7</volume>
+  <issue>3</issue>
+  <fpage>373</fpage>
+  <lpage>385</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.devcel.2004.06.017</pub-id>
+  <?supplied-pmid 15363412?>
+  <pub-id pub-id-type="pmid">15363412</pub-id>
+ </element-citation>
+</ref>

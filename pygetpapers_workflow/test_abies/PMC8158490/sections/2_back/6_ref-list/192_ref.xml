@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B192-molecules-26-03005">
+ <label>192.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rensink</surname>
+    <given-names>A.A.M.</given-names>
+   </name>
+   <name>
+    <surname>De Waal</surname>
+    <given-names>R.M.W.</given-names>
+   </name>
+   <name>
+    <surname>Kremer</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Verbeek</surname>
+    <given-names>M.M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Pathogenesis of cerebral amyloid angiopathy</article-title>
+  <source>Brain Res. Rev.</source>
+  <year>2003</year>
+  <volume>43</volume>
+  <fpage>207</fpage>
+  <lpage>223</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.brainresrev.2003.08.001</pub-id>
+  <?supplied-pmid 14572915?>
+  <pub-id pub-id-type="pmid">14572915</pub-id>
+ </element-citation>
+</ref>

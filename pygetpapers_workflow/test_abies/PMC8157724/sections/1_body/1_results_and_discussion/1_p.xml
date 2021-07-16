@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par29">Homologues for all the candidate genes considered as involved in the initiation of SE were detected in the conifer species included in the analysis except one of the key regulators - 
+ <italic>LEC2</italic>. This in silico analysis suggests absence of LEC2 in 
+ <italic>P. abies</italic> and 
+ <italic>Pinus taeda</italic> (
+ <italic>P. taeda</italic>, Loblolly pine), the conifer species whose genome has been sequenced. Based on available sequence data to date, LEC2 was not detected in the other conifer species included in the study. The details regarding the conifer homologues such as sequence ID, length of the protein etc., are included in the supplementary information (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>.xlsx). Full-length homologues of the candidate genes were detected in most conifer species with few exceptions; however, our results include all the partial homologues as well, as this aspect is expected to improve with technological advances in the future through availability of elaborate and accurate data e.g. longer reads with PacBio sequencing. In few instances, more than one homologous sequence was detected for a specific candidate gene in a particular conifer species e.g. two 
+ <italic>BBM</italic> gene loci were detected in 
+ <italic>P. abies</italic> and 
+ <italic>P. taeda</italic>. These loci considerably differed in their protein sequences, which can be inferred from the alignment results (Additional file 
+ <xref rid="MOESM2" ref-type="media">2</xref>.pdf). This phenomenon is also observed with other genes and tree species, e.g. 
+ <italic>Populus trichocarpa</italic> (Torr. &amp; Gray) has one 
+ <italic>PHYA</italic> locus and two 
+ <italic>PHYB</italic> loci, which were designated as 
+ <italic>PHYB1</italic> and 
+ <italic>PHYB2</italic> [
+ <xref ref-type="bibr" rid="CR66">66</xref>]. All homologues from conifer species for a specific candidate gene were aligned along with the corresponding gene from 
+ <italic>A. thaliana</italic> and the characteristic motifs/domains of the respective genes in the conifer homologues are highlighted with different colours and named accordingly with the specific domain names based on the scientific convention as referred from the literature (Additional file 
+ <xref rid="MOESM2" ref-type="media">2</xref>.pdf - Additional file 
+ <xref rid="MOESM11" ref-type="media">11</xref>.pdf).
+</p>

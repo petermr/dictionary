@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B109-genes-12-00438">
+ <label>109.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Scofield</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Dewitte</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Murray</surname>
+    <given-names>J.A.H.</given-names>
+   </name>
+  </person-group>
+  <article-title>STM sustains stem cell function in the 
+   <italic>Arabidopsis</italic> shoot apical meristem and controls 
+   <italic>KNOX</italic> gene expression independently of the transcriptional repressor AS1
+  </article-title>
+  <source>Plant Signal. Behav.</source>
+  <year>2014</year>
+  <volume>9</volume>
+  <fpage>e28934</fpage>
+  <pub-id pub-id-type="doi">10.4161/psb.28934</pub-id>
+  <?supplied-pmid 24776954?>
+  <pub-id pub-id-type="pmid">24776954</pub-id>
+ </element-citation>
+</ref>

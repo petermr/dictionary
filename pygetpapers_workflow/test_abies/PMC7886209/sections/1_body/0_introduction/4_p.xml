@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Apart from tree assessments, several methods have been developed to identify tree failure, which can be broadly categorized into mechanistic models and statistical analyses. Recently, there has been some attention for machine learning techniques [
+ <xref rid="pone.0246805.ref038" ref-type="bibr">38</xref>]. Gardiner et al. [
+ <xref rid="pone.0246805.ref039" ref-type="bibr">39</xref>] reviewed the available mechanistic models e.g. HWIND [
+ <xref rid="pone.0246805.ref040" ref-type="bibr">40</xref>] and Gales [
+ <xref rid="pone.0246805.ref041" ref-type="bibr">41</xref>, 
+ <xref rid="pone.0246805.ref042" ref-type="bibr">42</xref>]. Mechanical models are difficult to use, since these necessitate detailed information on every individual tree [
+ <xref rid="pone.0246805.ref043" ref-type="bibr">43</xref>]. Statistical analysis often provides a better accuracy like in Kontogianni et al. [
+ <xref rid="pone.0246805.ref044" ref-type="bibr">44</xref>] who discuss a Tree Stability Index based on the factors crown ratio (CR), crown asymmetry index (CAI), tree height (H) and other factors (slenderness index, crown fullness ratio, degree of spread, crown length, total tree size and crown roundness). Statistical models however include different levels of uncertainty in their models or in the factors included [
+ <xref rid="pone.0246805.ref038" ref-type="bibr">38</xref>]. An increasing frequency of tree failure [
+ <xref rid="pone.0246805.ref022" ref-type="bibr">22</xref>, 
+ <xref rid="pone.0246805.ref023" ref-type="bibr">23</xref>], emphasizes the importance of an estimation of risks. Currently, there is no method which can predict urban tree failure accurately [
+ <xref rid="pone.0246805.ref045" ref-type="bibr">45</xref>]. The increase in number of variables and parameters measured, based on technological developments and the variability in procedures and personal behaviour and opinions, necessitates an overview of factors that can be used to predict when trees fail and under which circumstances. The aim of this study is to investigate which factors relate to tree failure by conducting a systematic review and meta-analysis, which can contribute to the improvement of tree risk analysis in the future.
+</p>

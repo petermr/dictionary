@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Probst</surname>
+   <given-names>Maraike</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="corresp" rid="c001">
+   <sup>*</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/361025/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ascher-Jenull</surname>
+   <given-names>Judith</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1043972/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Insam</surname>
+   <given-names>Heribert</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/89172/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gómez-Brandón</surname>
+   <given-names>María</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/925011/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+</contrib-group>

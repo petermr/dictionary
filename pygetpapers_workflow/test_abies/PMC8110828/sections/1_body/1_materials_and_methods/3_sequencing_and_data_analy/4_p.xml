@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Sequencing depth differed between sampling groups (
+ <italic>p</italic>
+ <sub>Anova</sub> = 7e-5) (
+ <xref ref-type="supplementary-material" rid="SD1">Supplementary Figure 1A</xref>). In addition to smaller differences, especially the extracellular DNA fraction of DCl V had a significantly higher number of sequencing reads (prior to filtering and thereafter) compared to all other sample groups (min
+ <sub>extra;</sub>
+ <sub>DCl</sub>
+ <sub>V</sub> = 14,382, median
+ <sub>extra;</sub>
+ <sub>DCl</sub>
+ <sub>V</sub> = 14,593, max
+ <sub>extra;</sub>
+ <sub>DCl</sub>
+ <sub>V</sub> = 22,789 reads after filtering). No differences were found among the other sample groups (min = 4,608; median = 8,007; max = 11,715 reads after filtering). Moreover, there were no significant differences in sequencing depth comparing the groups of main effects, which are DCl (I, III, and V) and DNA type (extracellular, intracellular, and total) (
+ <italic>p</italic>
+ <sub>Anova;</sub>
+ <sub>DCl</sub> = 0.124, 
+ <italic>p</italic>
+ <sub>Anova;</sub>
+ <sub>DNA</sub>
+ <sub>type</sub> = 0.058).
+</p>

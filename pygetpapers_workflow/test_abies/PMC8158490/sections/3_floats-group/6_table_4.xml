@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="molecules-26-03005-t004" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">molecules-26-03005-t004_Table 4</object-id>
+ <label>Table 4</label>
+ <caption>
+  <p>In vivo and in vitro anticancer and cytotoxic studies of conifer extracts.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Conifer spp.</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Part Used</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Nature of Extract</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Compounds</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">In Vitro and in Vivo Model</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Dose. Conc</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Main Effects</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">References</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>Abies georgei</italic>
+    </td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Aerial parts</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Chloroform, ethyl acetate, 
+     <italic>n</italic>-butanol
+    </td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Flavanoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Human tumor cell lines-A549, QGY-7703, LOVO, 6T-CEM</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">77.5, 11.1, 7.8, 32.8 μg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AGC extract has potent tumour and antiproliferative effects in humor tumor cell lines</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B156-molecules-26-03005" ref-type="bibr">156</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(Mice) S180 tumours cell lines</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100, 200 and 400 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AGC also exhibited activity in tumour growth inhibition in a dose-dependent manner, with ratios of 46.7, 53.1 and 31.0% at doses of 100, 200 and 400 mg/kg, respectively</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Araucaria angustifolia</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Female strobili</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Fatty acids and polyphenols</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Laryngeal carcinoma HEp-2 cells</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100–500 μg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AAE inhibit the activity of mitochondria complex I and induce redox stress and cytochrome c, which leads cleavage of nuclear proteins of larynx HEp-2 cancer cells</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B162-molecules-26-03005" ref-type="bibr">162</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>Cedrus deodara</italic>
+    </td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Stem wood</td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Chloroform</td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Lignans (Matairesinol, dibenzylbutyrolactol, (−)-Wikstromol)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">In vitro human cell lines (cervix, breast, colon, liver, CNS, prostrate)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">In vitro cytotoxicity IC 
+     <sub>50</sub> value-Wikstromol (71.31–93.63) and Matairesinol (50.84–95.36) μg/mL
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CD lignin mixture have potent to show a cytotoxic effect at the maximum in CNS and at the minimum in liver against cancer cell lines in a dose-dependent manner at 100 μg/mL from 49 to 95%.</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B34-molecules-26-03005" ref-type="bibr">34</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Human T lymphoblast, acute lymphoblastic leukemia cell line, Molt-4 and human promyelocytic leukemia cell line (HL-60)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> (μg/mL)
+     <break/>15
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AP9-cd-induced endogenous NO production leads to the generation of peroxide and disruption of mitochondrial membrane potential, leading to apoptotic pathway activation
+     <break/>Increase in sub-G0 fraction from 35 to 60% in 24 to 48h
+    </td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B163-molecules-26-03005" ref-type="bibr">163</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">In vivo swiss albino mice (K562 cells)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">The lignin mixture displays anti-cancer effects by regulating annexin V binding, intracellular caspase activities and DNA fragmentation</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>C. deodara</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Needle</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Kaempferol, myricetin, isorhamnetin and quercetin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HepG2 cells</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> 114.12 μg/mL
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TFPNCD shows potent cytotoxicity by inhibiting the growth of HepG2 cells in a dose-dependent manner
+     <break/>Regulates cell cycle and apoptosis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B164-molecules-26-03005" ref-type="bibr">164</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Cryptomeria japonica</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Flavonoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Albino mice of Ehrlich Ascites Carcinoma (EAC).</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100–400 μg/gm</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Tumor cell count as well as the amounts of ascetic tumour cells in packed cells were significantly reduced in infected mice treated with MC</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B165-molecules-26-03005" ref-type="bibr">165</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Juniper communis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Berry</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol and water </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Phenolic compounds</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CaCo2 and HeLa carcinoma cell lines</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> 1300–2500 μg/mL
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol and water extracts of JCB show potent antiproliferative activity against cancer cell lines</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B166-molecules-26-03005" ref-type="bibr">166</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>J. taxifolia</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Chloroform</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Polyphenols and lignan</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">human leukemia (HL-60) cells</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.5 μg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7α-hydroxysandaracopimaric acid, a diterpenoid compound obtained from 
+     <italic>J. taxifolia</italic> leaves, shows antitumor effects on HL-60 cells
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B24-molecules-26-03005" ref-type="bibr">24</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>J. phoenicea</italic>
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Aerial parts</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Chloroform</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Polyphenols</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> values (μg/mL)
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">It is found that JPCF disrupts cell cycle progression in the G0/G1phase and shows apoptotic, antiproliferative and necrotic effects on cancer cells lines</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B20-molecules-26-03005" ref-type="bibr">20</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Human lung (A549)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">34.2</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Breast (MCF-7)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">24.5</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Liver (HepG2) cancer cells</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">57.6</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>J. foetidissima</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Needle</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Quercetin, rutin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Rat brain tumor (C6) cell lines</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> values (μg/mL)
+     <break/>10.65
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>J. foetidissima</italic> needle extract showed significant antiproliferative activity
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B50-molecules-26-03005" ref-type="bibr">50</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>M. glyptostroboides</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaf</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Polyphenols</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PC12 cells</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25 μg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>M. glyptostroboides</italic> leaf extract shows a cytotoxic effect and prevents oxidative damage of neuronal PC12 cells, protecting them from apoptosis; it was also found to significantly inhibit the release of LDH, which may result from apoptosis or necrosis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B49-molecules-26-03005" ref-type="bibr">49</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Picea wilsonii</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Whole plant</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DMSO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">ND</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Human keratinocyte HaCaT cell lines</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1–3 g/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PwM extracts inhibit the production of MCP-1 IL-6, IL-13 and but do not inhibit IL-8 production</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B115-molecules-26-03005" ref-type="bibr">115</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Pinus kesiya</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Woody twig</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Phenolic compounds and flavonoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Human hepatocarcinoma (HepG2) cell lines</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> (μg/mL) 52.0
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PK Extract exhibited a potent cytotoxic effect in the HepG2 cell line</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B167-molecules-26-03005" ref-type="bibr">167</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. kesiya</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Branch</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Phenolic compounds and flavonoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Human leukemic U937
+     <break/>cancer cells
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub>: 299 μg/mL
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PK ethanol extract possesses anticancer activity against U937 human leukemic cells via apoptosis</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B168-molecules-26-03005" ref-type="bibr">168</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. merkusii</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Phenolic compounds</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MCF-7, A549, HT 1080 and HepG2 Huh-7 cancer cell lines</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> (μg/mL)
+     <break/>4.5, 16, 4.1,
+     <break/>5.6, 9.5
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PM methanol extract possesses anticancer activity against human cancer cell lines</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B169-molecules-26-03005" ref-type="bibr">169</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>T. baccata</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaves, cones</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Phenolic compounds</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HCT-116 human colon cancer and MDA-MB-231 human breast cancer cell lines</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> μg/mL
+     <break/>Leaves: 14.43 and 4.59 cones: 49.69 and 133.53
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol extracts of leaves had better activity on HCT-116 cells than seed cone extract, with IC
+     <sub>50</sub> values of 14.3 for 24 h and 4.59 for 72 h. Meanwhile, extracts did not show any significant cytotoxic effects on the cancer cell lines
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B153-molecules-26-03005" ref-type="bibr">153</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>T. wallichiana</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Heartwood</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Lignans 1 (taxiresinol 1) 2, 3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">colon, ovarian liver, and breast cancer cell lines</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>90</sub> lignan 2 and 3 μg/mL
+     <break/>Caco 2:0.08 and 0.056 and 0.251
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Taxiresinol 1 shows anticancer activity against ovary, colon, liver and breast cancer cell lines, while lignans 2 and 3 were found to be most active against Caco-2 cell lines</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B170-molecules-26-03005" ref-type="bibr">170</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>T. yunnanensis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All parts</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">ND</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">α-Conidendrin</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MCF-7 andMDA-MB-231 cancer cell lines</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">40 μM</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">α-conidendrin have the potential to inhibit human breast cancer cell lines MDA-MB-231 and MCF-7, showing viability of 73 and 82%, respectively</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B31-molecules-26-03005" ref-type="bibr">31</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>P. roxburghii</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Water and ethanol</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Phenolic compounds</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">A549 human lung cancer cell line</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">111.2 and 112.7 μg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PRL extract shows potent anticancer activity against cancer cell lines.</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B171-molecules-26-03005" ref-type="bibr">171</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>Taxus cuspidata</italic>
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Branches and leaves</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Water</td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Polysaccharides</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">MCF7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> μg/mL
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Purified polysaccharides (Pe4) on HeLa cells had the highest inhibitory effect, and its IC
+     <sub>50</sub> value is 89.9, while (Pe1) shows the best cytotoxic capacity against cancer lines HepG2 and MCF7, with IC
+     <sub>50</sub> conc. 132.0 and 169.0 μg/mL, respectively
+    </td>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B172-molecules-26-03005" ref-type="bibr">172</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">169.0</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hela</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">89.9</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HepG2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">132.0</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>Thuja occidentalis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Leaves and non-woody branches</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mother tincture (MT)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Polyphenols including flavonoids</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Caco-2 cells</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25 or 50 mg/kg</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Caco-2 cells exposed to H
+     <sub>2</sub>O
+     <sub>2</sub> and 
+     <italic>T. occidentalis</italic> MT proves its radical scavenging activity by reducing GSH level by 103% and 98% as compared to TNBS group; MT also managed to reduce the lipid peroxidation
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B126-molecules-26-03005" ref-type="bibr">126</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>T. occidentalis</italic>
+    </td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Leaves</td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Ethanol</td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">ND</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Human NSCLC (A549) cell lines</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IC
+     <sub>50</sub> μg/mL
+    </td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Extract of TO shows both anticancer and antiproliferative activities against NSCLC (A549) cell lines in a dose-dependent manner.</td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B173-molecules-26-03005" ref-type="bibr">173</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">282</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Human normal embryonic cell lines (L-132)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">376</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>T. occidentalis</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">ND</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mother tincture (MT)
+     <break/>Thujone-rich fraction (TRF)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Thujone</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">A375 human malignant melanoma cell line</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">200 μg/mL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TRF as compared with TO MT on exposure to A375 cells exhibited highly cytotoxic, apoptotic and antiproliferative effects, but TRF shows a lower growth inhibitory response towards peripheral blood mononuclear cell (normal cells)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B174-molecules-26-03005" ref-type="bibr">174</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>ND—Not determined; AGC—
+    <italic>Abies georgei</italic> chloroform extract; AAE—
+    <italic>Araucaria angustifolia</italic> water extract; TFPNCD—total flavonoids from the pine needles of 
+    <italic>Cedrus deodara</italic>; PRL—
+    <italic>P. roxburghii</italic> leaves.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

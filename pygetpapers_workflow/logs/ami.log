@@ -1,0 +1,62 @@
+17:01:21.807 INFO  org.contentmine.ami.tools.AMI - args: [-p, test_abies, section]
+17:01:21.863 DEBUG org.contentmine.ami.tools.AMI - Specified verbosity=0, this translates to level=WARN
+17:01:21.864 DEBUG org.contentmine.ami.tools.AMI - Reconfiguring Console appender with WARN
+17:01:21.865 INFO  org.contentmine.ami.tools.AMI - (The console will show WARN level messages)
+17:01:21.866 INFO  org.contentmine.ami.tools.AMI - (Logs will also be printed to C:\Users\shweata\dictionary\pygetpapers_workflow\logs\ami.log)
+17:01:21.870 DEBUG org.contentmine.ami.tools.AMI - Version: ami 2020.08.09_09.54-NEXT-SNAPSHOT
+(jar:file:/C:/Users/shweata/ami3/target/ami3-2020.08.09_09.54-NEXT-SNAPSHOT-distribution/ami3-2020.08.09_09.54-NEXT-SNAPSHOT/repo/ami3-2020.08.09_09.54-NEXT-SNAPSHOT.jar)
+JVM: 15 (Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 15+36-1562)
+OS: Windows 10 10.0 amd64
+
+17:01:21.873 WARN  org.contentmine.ami.tools.AbstractAMITool - 
+17:01:21.874 WARN  org.contentmine.ami.tools.AbstractAMITool - Generic values (AMISectionTool)
+17:01:21.879 WARN  org.contentmine.ami.tools.AbstractAMITool - ================================
+17:01:22.032 INFO  org.contentmine.ami.tools.AbstractAMITool - input basename      null
+17:01:22.032 INFO  org.contentmine.ami.tools.AbstractAMITool - input basename list null
+17:01:22.032 INFO  org.contentmine.ami.tools.AbstractAMITool - cproject            C:\Users\shweata\dictionary\pygetpapers_workflow\test_abies
+17:01:22.032 INFO  org.contentmine.ami.tools.AbstractAMITool - ctree               
+17:01:22.033 INFO  org.contentmine.ami.tools.AbstractAMITool - cTreeList           20 trees [test_abies\PMC7710158, test_abies\PMC7876299, tes
+17:01:22.033 INFO  org.contentmine.ami.tools.AbstractAMITool - excludeBase         {}
+17:01:22.033 INFO  org.contentmine.ami.tools.AbstractAMITool - excludeTrees        {}
+17:01:22.033 INFO  org.contentmine.ami.tools.AbstractAMITool - forceMake           false
+17:01:22.033 INFO  org.contentmine.ami.tools.AbstractAMITool - includeBase         {}
+17:01:22.033 INFO  org.contentmine.ami.tools.AbstractAMITool - includeTrees        null
+17:01:22.034 INFO  org.contentmine.ami.tools.AbstractAMITool - log4j               {}
+17:01:22.034 INFO  org.contentmine.ami.tools.AbstractAMITool - verbose             0
+17:01:22.034 WARN  org.contentmine.ami.tools.AbstractAMITool - 
+17:01:22.034 WARN  org.contentmine.ami.tools.AbstractAMITool - Specific values (AMISectionTool)
+17:01:22.036 WARN  org.contentmine.ami.tools.AbstractAMITool - ================================
+17:01:22.037 INFO  org.contentmine.ami.tools.AbstractAMITool - Command line options for 'ami section':
+17:01:22.040 INFO  org.contentmine.ami.tools.AbstractAMITool - --boldsections      : d     false
+17:01:22.040 INFO  org.contentmine.ami.tools.AbstractAMITool - --extract           : d [tab, fig, supplementary]
+17:01:22.041 INFO  org.contentmine.ami.tools.AbstractAMITool - --html              : d      null
+17:01:22.041 INFO  org.contentmine.ami.tools.AbstractAMITool - --hypertree         : d        {}
+17:01:22.042 INFO  org.contentmine.ami.tools.AbstractAMITool - --sections          : d    [AUTO]
+17:01:22.043 INFO  org.contentmine.ami.tools.AbstractAMITool - --sectiontype       : d       XML
+17:01:22.043 INFO  org.contentmine.ami.tools.AbstractAMITool - --summary           : d        []
+17:01:22.043 INFO  org.contentmine.ami.tools.AbstractAMITool - --whitespace        : d      true
+17:01:22.044 INFO  org.contentmine.ami.tools.AbstractAMITool - --write             : d      true
+17:01:22.044 INFO  org.contentmine.ami.tools.AbstractAMITool - --xpath             : d      null
+17:01:22.046 INFO  org.contentmine.ami.tools.AbstractAMITool - --help              : d     false
+17:01:22.046 INFO  org.contentmine.ami.tools.AbstractAMITool - --version           : d     false
+17:01:22.047 DEBUG org.contentmine.ami.tools.AMISectionTool - sec>[]
+17:01:22.047 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC7710158
+17:01:23.001 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC7876299
+17:01:23.688 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC7886209
+17:01:24.210 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC7909086
+17:01:24.303 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC7914598
+17:01:24.796 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC7952825
+17:01:25.086 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC8003479
+17:01:25.526 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC8038116
+17:01:25.892 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC8068203
+17:01:26.295 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC8110828
+17:01:26.610 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC8145950
+17:01:27.227 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC8155899
+17:01:27.546 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC8157724
+17:01:28.133 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC8158490
+17:01:29.285 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC8160286
+17:01:29.693 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC8161355
+17:01:29.946 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC8182065
+17:01:30.376 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC8228407
+17:01:30.874 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC8247643
+17:01:31.240 WARN  org.contentmine.ami.tools.AbstractAMITool - AMISectionTool cTree: PMC8271197

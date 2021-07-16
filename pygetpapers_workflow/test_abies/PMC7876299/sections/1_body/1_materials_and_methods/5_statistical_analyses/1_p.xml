@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>All statistical analyses were conducted in R v. 3.2.3 (
+ <xref rid="B54" ref-type="bibr">R Core Team, 2020</xref>). In most cases, differences at 
+ <italic>P</italic> &lt; 0.05 were considered statistically significant. The only exception represented indicative species analysis, where differences at 
+ <italic>P</italic> &lt; 0.01 were considered statistically significant. Differences in plant structural polymer (cellulose and lignin) concentrations among microhabitats and sampling times were tested using analysis of variance (ANOVA). The assumptions of ANOVA (homogeneity of variances and normal distribution) were tested prior to the analysis, and logarithmic transformation was applied when needed. 
+ <italic>Post hoc</italic> comparisons among means were conducted using Tukey HSD test.
+</p>

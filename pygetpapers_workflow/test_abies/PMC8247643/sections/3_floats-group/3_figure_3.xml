@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F3" position="float">
+ <label>Figure 3</label>
+ <caption>
+  <p>Association of dominant bacteria isolated from decomposing 
+   <italic>Fagus sylvatica</italic> deadwood with a certain age of deadwood. Mapping of the deadwood metagenome reads (Tláskal et al., under review) to genomes of strains shows a distinct overall abundance of these bacteria in metagenomes and distinct occurrence in individual deadwood age classes. Strains are sorted based on the total average metagenome abundance. The height of the bar plots corresponds to abundance equivalents—relative share of mapped reads corrected to the genome size of each strain. Error bars represent standard errors.
+  </p>
+ </caption>
+ <graphic xlink:href="fmicb-12-685303-g0003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>
