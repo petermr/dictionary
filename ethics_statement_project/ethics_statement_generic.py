@@ -99,7 +99,13 @@ class EthicStatements:
         dict_with_parsed_xml = {}
         all_paragraphs = glob(
             os.path.join(
+<<<<<<< Updated upstream
                 working_directory, output, "*", "sections", "**", "*.xml"
+||||||| constructed merge base
+                working_directory, output, "*", "sections","**", "*.xml"
+=======
+                working_directory, output, "*", "sections","*body", "*method*", "**", "*.xml"
+>>>>>>> Stashed changes
             ),
             recursive=True,
         )
@@ -495,7 +501,7 @@ ethic_statement_creator.extract_entities_from_papers(
     os.getcwd(),
     "essential oil AND chemical composition",
     100,
-    "essential_oil_chemical_composition_100",
+    "oil186",
     os.path.join(
         os.getcwd(), "ethics_dictionary", "methods_key_phrases", "methods_key_phrases.xml"
     ),

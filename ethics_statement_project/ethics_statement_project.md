@@ -22,6 +22,7 @@
   - [5.11. Entity Recognition using spaCy (2021-06-06)](#511-entity-recognition-using-spacy-2021-06-06)
   - [5.12. Ethics Statment Prototype dictionary (2021-06-01)](#512-ethics-statment-prototype-dictionary-2021-06-01)
 - [6. Meeting Records](#6-meeting-records)
+  - [2021-07-15](#2021-07-15)
   - [6.1. 2021-07-08](#61-2021-07-08)
   - [6.2. 2021-07-01](#62-2021-07-01)
   - [6.3. 2021-06-24](#63-2021-06-24)
@@ -249,6 +250,15 @@ The [notebook I've written](https://github.com/petermr/dictionary/blob/main/ethi
 ## 5.12. Ethics Statment Prototype dictionary (2021-06-01)
 I have created a prototype dictionary after analysing the Ethics Statement section of Mini-Corpus #1 using [`ami_gui.py`](https://github.com/petermr/openDiagram/blob/master/physchem/python/ami_gui.py). It is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/results/rake/ethics_statement.xml).
 # 6. Meeting Records
+## 2021-07-15
+- Shweata presented the sentence-level ethics committee extraction. 
+- The ethics committees extracted will be put into Wikidata
+- Possible directions:
+    - Integrate with Wikidata - supervised search
+    - Independent supervised searches using different dictionaries
+    - Present the work in a Hackathon?
+    - Extrapolate the workflow to Acknowledgements, Conflict of Interest, and so on
+    - Write up the work
 ## 6.1. 2021-07-08
 - Shweata presented updates in the meeting. It included XML mixed content problem, sentence splitting, phrase matcher, boiler plate dictionary, new standard corpus to work with, and so on. More in the updates section. 
 - Immediate tasks outlined were:
