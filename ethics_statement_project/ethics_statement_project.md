@@ -24,18 +24,19 @@
   - [5.13. Entity Recognition using spaCy (2021-06-06)](#513-entity-recognition-using-spacy-2021-06-06)
   - [5.14. Ethics Statment Prototype dictionary (2021-06-01)](#514-ethics-statment-prototype-dictionary-2021-06-01)
 - [6. Meeting Records](#6-meeting-records)
-  - [6.1. 2021-07-22](#61-2021-07-22)
-  - [6.2. 2021-07-15](#62-2021-07-15)
-  - [6.3. 2021-07-08](#63-2021-07-08)
-  - [6.4. 2021-07-01](#64-2021-07-01)
-  - [6.5. 2021-06-24](#65-2021-06-24)
-  - [6.6. 2021-06-17](#66-2021-06-17)
-  - [6.7. 2021-06-10](#67-2021-06-10)
-  - [6.8. 2021-06-03](#68-2021-06-03)
-  - [6.9. 2021-05-27](#69-2021-05-27)
-  - [6.10. 2021-05-20](#610-2021-05-20)
-  - [6.11. 2021-05-10](#611-2021-05-10)
-  - [6.12. 2021-05-07](#612-2021-05-07)
+  - [6.1. 2021-07-29](#61-2021-07-29)
+  - [6.2. 2021-07-22](#62-2021-07-22)
+  - [6.3. 2021-07-15](#63-2021-07-15)
+  - [6.4. 2021-07-08](#64-2021-07-08)
+  - [6.5. 2021-07-01](#65-2021-07-01)
+  - [6.6. 2021-06-24](#66-2021-06-24)
+  - [6.7. 2021-06-17](#67-2021-06-17)
+  - [6.8. 2021-06-10](#68-2021-06-10)
+  - [6.9. 2021-06-03](#69-2021-06-03)
+  - [6.10. 2021-05-27](#610-2021-05-27)
+  - [6.11. 2021-05-20](#611-2021-05-20)
+  - [6.12. 2021-05-10](#612-2021-05-10)
+  - [6.13. 2021-05-07](#613-2021-05-07)
 - [7. Tasks](#7-tasks)
 - [8. Previous Documentation](#8-previous-documentation)
   - [8.1. Intial Exploration](#81-intial-exploration)
@@ -96,9 +97,28 @@ The prototype dictionary is available, [here](https://github.com/petermr/diction
 # 5. Updates
 ## 5.1. Wikidata now knows Ethics Committees and performance issues
 - Daniel has now fed Wikidata with the Ethics Committees we extracted. 
+  - Here is the EPMC query I used:
+```
+(METHOD: stem cell AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:'Review')))) AND (FIRST_PDATE:2021)
+
+```
+The [link]( https://github.com/petermr/docanalysis/blob/main/resources/stem_cell_research_300.csv) to the final output. 
+
+  - I wrote a few lines of code to find out that there were 162 unique PMC papers with Ethics paragraphs based on our boiler plate. 
 - Query on IRBS and Ethics Committees now give 149 hits. https://w.wiki/3eWQ
 - However, on the code side of the project, we are stuck with performance issues. Larger the dictionary we feed to spaCy's phrase matcher, the longer it takes. For example, running cities dicitonary (with ~ 8000 terms) was projected to take 162 hours. 
 - Ayush and Shweata met up yesterday to troubleshoot the performance issue. But even after moving back to Python's default phrase matching, the perfomance didn't improve. We tried parellizing the process, but were unsuccessful. 
+- Daniel suggested creating a dictionary with subset of boiler plates. 
+  - The [dictionary](https://github.com/petermr/docanalysis/blob/main/ethics_dictionary/ethics_committee_key_phrases/ethics_committee_key_phrases.xml)
+  - Ethics committees retrieved based on the boiler plate matches at a sentence-level. 
+https://github.com/petermr/docanalysis/blob/main/resources/stem_cell_research_300_2020.csv
+
+  - Query used
+```
+(METHOD: stem cell AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:'Review')))) AND (FIRST_PDATE:2020)
+```
+
+Lot less hits, this time around. 48 unique PMCIDs. 
 ## 5.2. Refactoring (20210714)
 - The code is currently being refactored with the help of Ayush and PMR.
 - We are also moving to a new [Repo](https://github.com/petermr/docanalysis), and are packaging it up
@@ -262,7 +282,15 @@ The [notebook I've written](https://github.com/petermr/dictionary/blob/main/ethi
 ## 5.14. Ethics Statment Prototype dictionary (2021-06-01)
 I have created a prototype dictionary after analysing the Ethics Statement section of Mini-Corpus #1 using [`ami_gui.py`](https://github.com/petermr/openDiagram/blob/master/physchem/python/ami_gui.py). It is available, [here](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/results/rake/ethics_statement.xml).
 # 6. Meeting Records
-## 6.1. 2021-07-22
+## 6.1. 2021-07-29
+- Currently working on the research idea
+- We discussed what PMR and Shweata had put in to the research idea
+- We also discussed the workflow diagram that would go along with it
+- Data cleaning - Post processing the csv that comes out of the script. [Colab Notebook](https://colab.research.google.com/drive/19bAx7g0chRjaDxwUUjIFLGChR5YDH766?usp=sharing)
+  - remove the 
+  - separate different entitites
+  - retain only the string
+## 6.2. 2021-07-22
 - We have decided to write the project us as a research idea to RIO. 
 - Daniel has outlined the paper, and all of us would be working on it. 
 - We are also looking if people are willing to volunteer and test the software
@@ -273,7 +301,7 @@ I have created a prototype dictionary after analysing the Ethics Statement secti
 - Link the PMC id with Ethics Committees - should be straightforward as we retrieve the file name. 
 - Explore conflicts of interests, funding, Acknowledgements, and so on. 
 - Think of snowballing. Wikidata integration 
-## 6.2. 2021-07-15
+## 6.3. 2021-07-15
 - Shweata presented the sentence-level ethics committee extraction. 
 - The ethics committees extracted will be put into Wikidata
 - Possible directions:
@@ -282,7 +310,7 @@ I have created a prototype dictionary after analysing the Ethics Statement secti
     - Present the work in a Hackathon?
     - Extrapolate the workflow to Acknowledgements, Conflict of Interest, and so on
     - Write up the work
-## 6.3. 2021-07-08
+## 6.4. 2021-07-08
 - Shweata presented updates in the meeting. It included XML mixed content problem, sentence splitting, phrase matcher, boiler plate dictionary, new standard corpus to work with, and so on. More in the updates section. 
 - Immediate tasks outlined were:
   - Integrating with Wikidata
@@ -291,7 +319,7 @@ I have created a prototype dictionary after analysing the Ethics Statement secti
   - Weighing sentences based on the number of terms hit
 - Daniel suggested that he would use Open Refine to feed the data to Wikidata. 
 - Daniel has also set up a [new Repo](https://github.com/FAIR-ethics/PMC-ethics/wiki) for the project, and has set up a Wiki outlining the thematic and methodologic goals. 
-## 6.4. 2021-07-01
+## 6.5. 2021-07-01
 [Workflow](https://github.com/petermr/dictionary/blob/main/ethics_statement_project/project_workflow.md)
 - Shweata presented the prototype workflow for the project. You can look at the MD page for more information. Comments from Daniel and PMR: 
   - Think about integrating into Wikidata. Once we have the Ethics Committees, we might want to query Wikidata if it exists or not. 
@@ -318,7 +346,7 @@ I have created a prototype dictionary after analysing the Ethics Statement secti
   - Sentence level similarities
   - Experiment with key phrase extractions. 
 - Identifying main subjects of papers. We could then determine whether if we want to look for ethics statements or not, and so on. 
-## 6.5. 2021-06-24
+## 6.6. 2021-06-24
 - Shweata presented her updates on the code. Read more about it in the updates section dated 2021-06-23. 
 - Daniel - Next step would be to feed the mined Ethics Committee names to Wikidata. 
 - Shweata will commit the `.csv` to the project directory so that Daniel can pick it up and upload to Wikidata
@@ -332,7 +360,7 @@ Papers -> (Ethics Statements) -> Ethics Committees (using spaCy) -> Wikidata
 - We might also want to look at crowdsourcing parts of the works that goes into the project - a mixture of automation and manual work
 - Rule-based matching, regex or keyword searches are something to look at. 
 - 
-## 6.6. 2021-06-17
+## 6.7. 2021-06-17
 - Shweata presented an enhanced version of her previous Notebook. More information [here](#54-better-globbing-regex-and-sparql-wrapper-2021-06-15). 
 Comments and directions:
 - Try:
@@ -346,7 +374,7 @@ Comments and directions:
   - people -> company
   - people -> stock
 - PMR demonstrated his progress with Wikidata browser.
-## 6.7. 2021-06-10
+## 6.8. 2021-06-10
 - Shweata presented her initial work with entity recognition. Comments from Daniel and Peter. 
   - Use regex along with globing
   - Tfidf to weigh the terms
@@ -354,24 +382,24 @@ Comments and directions:
     - Human Annotation model - coming up with two sets of data, one with phrases which are most common in Ethics Statement and other which aren't. We can then build a model to extract named entities. 
     - Semantic Model - Coming up with a set of rules which we can use to extract named entities, approval numbers and so on.
 - Explore Wikidata for research councils and universities. Here is a [query](https://w.wiki/3Tsu) Daniel wrote to begin with. By doing so, we might get a better gauge for what's there and what isn't. 
-## 6.8. 2021-06-03
+## 6.9. 2021-06-03
 - We have added the dictionary terms as lexemes to Wikidata
 - Our next focus would be to retrieve the Ethics Committees involved in the approval process. -> Named entity recognition
 - Find more interesting terms related to Ethics Statement using TF-IDF.
 
-## 6.9. 2021-05-27
+## 6.10. 2021-05-27
 - @Daniel: Exploring with Wikidata Lexemes and Ethics Statement
 - Wikdata Game - You learn or Wikidata learns or both!
   - We can come up with a Wikidata game where we ask people whether a phrase - we extracted from `ami`using RAKE - is usually present in Ethics Statement or not.
 
-## 6.10. 2021-05-20
+## 6.11. 2021-05-20
 - We need a way to automate the retrieval of the Ethics Statement. We could do sectioning and retrieve them. But it's harder because most papers don't have a dedicated Ethics Statement (usually buried in the methods section). So, we'll have to create a dictionary, using the phrase we've initially extracted, to help with information retrieval (i.e., get Ethics Statement paragraph from papers). (Q: How does SpaCY give those phrase ranks?)
 - After getting, let's say, 1000 Ethics Statement, we can again try unsupervised or even supervised phrase extraction. We can refine our dictionaries and also start extracting hospital names, committee names and their identifiers, and so on.
 
-## 6.11. 2021-05-10
+## 6.12. 2021-05-10
 - Build a dictionary manually with frequently used n-grams in Ethics Statements.
 
-## 6.12. 2021-05-07
+## 6.13. 2021-05-07
 - Create a dictionary with commonly used phrases (engrams) in Ethics Statements
 - Pull out identifiers from these statements
 - Pull out Ethics Committees and add them to Wikidata
