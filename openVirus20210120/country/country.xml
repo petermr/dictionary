@@ -1,4 +1,4 @@
-<dictionary title="country">
+<dictionary title="country" encoding="UTF-8">
  <desc>Created from SPARQL query</desc>
  <entry _p297_country="AF" description="sovereign state situated at the confluence of Western, Central, and South Asia" name="Afghanistan" term="Afghanistan" wikidataURL="http://www.wikidata.org/entity/Q889" wikipediaPage="https://en.wikipedia.org/wiki/Afghanistan" wikipediaURL="https://en.wikipedia.org/wiki/Afghanistan" wikidataID="Q889">
   <synonym>AFG</synonym>
