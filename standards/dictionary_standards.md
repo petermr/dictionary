@@ -1,3 +1,17 @@
+
+## NEW: to be considered
+1. detect plurals when searching abbreviations (eg. CHG/CHGs) 
+2. add metadata or attribute indicating which tool was used to generate each dictionary entry (spacy, RAKE, YAKE, etc.)
+3. distinguish use of attributes: term vs name
+4. new attribute to tag "For Review" to bring such entries to the attention of a human
+5. Must detect and replace unicode characters (eg. `C&#233;`` is `Cé` in French)
+6. find multiple spaces with single spaces
+7. **In a set of dictionaries from a specific source of information like the ICCP Climate Reports, any specific term should show up in only *one dictionary* in that library set — unless it occurs as frequently in all of them, in which case those terms would be in a dictionary of "volume-wide" terms.** (eg. Some terms and abbreviations may be climate-specific, but not chapter-specific. So in the case of the ICPP reports, we want to ensure extracted abbreviated terms are included only in the chapter in which the term is most relevant.)
+- Therefore, when dictionaries are being created from individual ICPP chapters, it would be useful to include two new attributes:
+	- `source=""` (which requires a step for the user to input the name of the source, or for it to be detected from the source document as a first step of term extraction)
+	- `count=""`
+- This will then allow another script (to be created) to compare the frequency of terms appearing in each chapter, and move (or suggest to a human for moving) the term in the most relevant dictionary, and removing it from all others.
+
 # GENERAL RULES
 
 - Dictionaries MUST be *well-formed* XML but are not schema-valid.
@@ -35,12 +49,6 @@
     - (Is there a max limit (as spreadsheets have)?
     - If, so.. can we split automatically in pt1, pt2 etc? Can those be “run” concurrently with results showing as if they were one dictionary?)
 
-## NEW: to be considered
-- **In a set of dictionaries from a specific source of information like the ICCP Climate Reports, any specific term should show up in only *one dictionary* in that library set — unless it occurs as frequently in all of them, in which case those terms would be in a dictionary of "volume-wide" terms.** (eg. Some terms and abbreviations may be climate-specific, but not chapter-specific. So in the case of the ICPP reports, we want to ensure extracted abbreviated terms are included only in the chapter in which the term is most relevant.)
-- Therefore, when dictionaries are being created from individual ICPP chapters, it would be useful to include two new attributes:
-	- `source=""` (which requires a step for the user to input the name of the source, or for it to be detected from the source document as a first step of term extraction)
-	- `count=""`
-- This will then allow another script (to be created) to compare the frequency of terms appearing in each chapter, and move (or suggest to a human for moving) the term in the most relevant dictionary, and removing it from all others.
 
 # elements
 
