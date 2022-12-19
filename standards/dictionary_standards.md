@@ -13,9 +13,15 @@
 ### creation validation
 
 - MUST detect and "handle" (compare/combine) plurals (eg. CHG/CHGs) when searching abbreviations
-- MUST detect and replace unicode characters (eg. **C&#233;** is **Cé** in French)
-- SHOULD find >1 spaces with single spaces
+- MUST normalize diacritics (eg. **C&#233;** is **Cé** in French)
+- MUST find >1 spaces with single spaces
+- MUST find and delete any spaces before or after quotes `"` in `entry` element 
 - add metadata or attribute called `[[[entry detection/selection method??]]]` indicating which tool was used to generate each dictionary entry (spacy, RAKE, YAKE, etc.)
+- MUST detect exact duplicates in `@term` using everything between `entry term="  "` see examples:
+	- entry term="apium graveolens co2 extract"
+	- entry term="apium graveolens egypt"
+	- entry term="apium graveolens essence"
+	- entry term="apium graveolens extract"
 
 ### syntax
 - in consideration of humans who visually/manually create, manage and edit dictionaries and/or curate sets of dictionaries, the following would make their jobs easier:
