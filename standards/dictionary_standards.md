@@ -1,4 +1,3 @@
-
 # NEW (to be considered)
 
 ## Terminology
@@ -13,17 +12,18 @@
 ### creation validation
 
 - MUST detect and "handle" (compare/combine) plurals (eg. CHG/CHGs) when searching abbreviations
-- MUST normalize diacritics (eg. **C&# 233;** is **Cé** in French)
-- MUST find >1 spaces with single spaces
-- MUST find and delete any spaces (and any other punctuation) before or after quotes `"` in `entry` element
+- MUST normalize XML character entities (eg. **C&# 233;** is **Cé** in unicode)
+- MUST normalize XML attribute values (especially spaces)
+- MUST normalize URL encoding (unicode characters)
+- MUST normalize white space to single spaces in `terms`
 - MUST replace smart quotes, apostrophes with dumb ones
 - add metadata or attribute called `[[[entry detection/selection method??]]]` indicating which tool was used to generate each dictionary entry (spacy, RAKE, YAKE, etc.)
-- MUST detect exact duplicates in `@term` using everything between `entry term="  "` (see examples below). Currently, validator is marking "apium graveolens" (and others) as "duplicate terms not allowed apium graveolens"
+- MUST detect exact duplicates in `@term` using everything between `entry term="  "` (see examples below) to prevent false positives for duplicates. Currently, validator is marking "apium graveolens" (and others) as "duplicate terms not allowed apium graveolens"
 	- entry term="apium graveolens co2 extract"
 	- entry term="apium graveolens egypt"
 	- entry term="apium graveolens essence"
 	- entry term="apium graveolens extract"
-- Consider whether we should replace greek characters with text throughout?
+- Consider whether we should replace greek characters with text throughout, or add alternative (symbol or text) as synonym
 
 ### syntax
 - in consideration of humans who visually/manually create, manage and edit dictionaries and/or curate sets of dictionaries, the following would make their jobs easier:
