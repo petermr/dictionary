@@ -4,10 +4,8 @@
 
 ### distinguish (then document below) use of attributes: title, id, term, name
 - `ID`
-	- **dictionary** has an `id` that replaces the role of `title` 
-	- `id` is a unique identifier for each **entry** in the dictionary
-- will there be a special identifier 
-- IF the dictionary is part of a "set" like the ICPP chapters, we MUST define a corresponding identifier AND decide whether it appears in the `meta`, `entry`, or both
+	- **dictionary** must have a unique `id` (that replaces the role of `title`). That `id` should have the following syntax `Dictionary id format [a-z][a-z0-9_]+`
+- TODO: IF the dictionary is part of a "collection" like the IPCC chapters, we MUST define a corresponding identifier AND decide whether it appears in the `meta`, `entry`, or both
 
 ### creation validation
 - MUST detect and "handle" (compare/combine) plurals (eg. CHG/CHGs) when searching abbreviations
@@ -15,44 +13,44 @@
 - MUST normalize XML attribute values (especially spaces)
 - MUST normalize URL encoding (unicode characters)
 - MUST normalize white space to single spaces in `terms`
-- MUST replace smart quotes, apostrophes with dumb ones
-- add metadata or attribute called `[[[entry detection/selection method??]]]` indicating which tool was used to generate each dictionary entry (spacy, RAKE, YAKE, etc.)
-- MUST detect exact duplicates in `@term` using everything between `entry term="  "` (see examples below) to prevent false positives for duplicates. Currently, validator is marking "apium graveolens" (and others) as "duplicate terms not allowed apium graveolens"
-	- entry term="apium graveolens co2 extract"
-	- entry term="apium graveolens egypt"
-	- entry term="apium graveolens essence"
-	- entry term="apium graveolens extract"
-- Consider whether we should replace greek characters with text throughout, or add alternative (symbol or text) as synonym
-- normalize brackets in entry attributes
-- When checking for wikidataIDs, print meta showing date the check occurred.
+- MUST replace smart quotes, apostrophes with dumb ones, hyphens and spaces
+- regularize the nesting of single and double quotes
+- add metadata indicating which tool was used to generate each dictionary entry (spacy, RAKE, 
+	- Consider whether we should replace greek characters with text throughout, or add alternative (symbol or text) as synonym. Use expanded text (alpha) rather than the symbol as the main term.
+- When a dictionary is validated, print meta showing `Dictionary validated on [date]`.
 - Duplicate handling:
+	- Identify potential duplicates
 	- Print the name of the deficiency, the dictionary name (in case of batch dictionary validation) and which line number on which the error occurred.
 	- Print how many entries were found, and how many have multiple IDs that need to be resolved by the user.
 	- Or present the entry where duplicates were found and have the user choose whether to merge, delete or make synonym
 	- Print name of dictionary the line numbers in the dictionary XML  in which the duplicates occur
 	- distinguish between partial and exact match duplicates
 
+### Bugs
+YAKE, etc.)
+- MUST detect exact duplicates in `@term` using everything between `entry term="  "` (see examples below) to prevent false positives for duplicates. Currently, validator is marking "apium graveolens" (and others) as "duplicate terms not allowed apium graveolens"
+	- entry term="apium graveolens co2 extract"
+	- entry term="apium graveolens egypt"
+	- entry term="apium graveolens essence"
+	- entry term="apium graveolens extract"
+
 ### syntax
-- in consideration of humans who visually/manually create, manage and edit dictionaries and/or curate sets of dictionaries, the following would make their jobs easier:
-	- `attributes` SHOULD be ordered (or automatically reordered) uniformly for all dictionaries
-	- `entry` to allow for an attribute such as `FOR REVIEW` (preferably in capital letters) to bring questionable entries to the attention of a human
-	- otherwise, some other code-commenting method
-	- this would likely be most useful/convenient if placed at the very beginning of an entry, so aberrations would stick out like a sore thumb and not be lost in a sea of wrapped (or not) text
+- in consideration of humans who visually/manually create, manage and edit dictionaries and/or curate collections of dictionaries, the following would make their jobs easier:
+	- `attributes` on `entries` MAY BE be ordered (or automatically reordered) uniformly for all dictionaries
+	- `entry` to allow for an attribute such as `FOR REVIEW` (preferably in capital letters) to bring questionable entries to the attention of a human (otherwise, some other code-commenting method), this would likely be most useful/convenient if placed at the very beginning of an entry, so aberrations would stick out like a sore thumb and not be lost in a sea of wrapped (or not) text
 
 ----
 ----
 
 # SCHEMA
 
-## managing dictionary sets
+## managing dictionary collections
 
 #### To Do
-- When a set (collection/compilation/volume/compendium) of dictionaries are created from a  source of information on a **general topic** composed of **chapter-specific sub-topics** (i.e. ICCP Climate Reports), it SHOULD be the case that each entry `<term/>` occurs in only ONE (1) `dictionary` in that `set`, and ONLY in the `dictionary` for the chapter in which the `term` is most relevant.
+- When a "collection" of dictionaries are created from a  source of information on a **general topic** composed of **chapter-specific sub-topics** (i.e. ICCP Climate Reports), it SHOULD be the case that each entry `<term/>` occurs in only ONE (1) `dictionary` in that `set`, and ONLY in the `dictionary` for the chapter in which the `term` is most relevant.
 - `terms` Occurring with relatively equal frequency across a range of chapter `dictionaries` forming  the `set` (at minimum, in two or more (>1) chapters), SHOULD be assigned/moved to a unique `dictionary` of "set-common" terms for the general topic.
 - Automating this redistribution of `terms` among `dictionaries` in a `set` would be determined (among other possible factors like, chapter title) by  frequency. Thus at least two new attributes (which MAY be deleted after `term` redistribution and `set` consolidation are complete) include:
 	- `@source=""` — which requires a step for the user/agent to define the name of the chapter and source, prior to beginning term extraction; AND  `@#term_frequency`  — This will then allow another script (to be created) to compare the frequency of terms appearing in each chapter, and move (or suggest to a human for moving) the term in the most relevant dictionary, and removing it from all others.
-#### Done
-- ABC
 
 # GENERAL RULES
 
@@ -83,7 +81,7 @@
 - `dictionary` MUST be well-formed XML but are not schema-valid.
 - `dictionary` MAY use common XML languages (HTML, SVG) without namespaces (name collisions are avoided by design)
 - `dictionary` MUST NOT have a namespace.
-
+- `id` is a unique identifier for each **entry** in the dictionary
 - all syntax is case-sensitive and values MUST default to `xml:lang='en'`
 - `dictionary` element and attribute names MUST be chosen from 33-127 (ASCII core) and SHOULD be chosen from `[a-z_]+` Numerals SHOULD NOT be used.
 	- is this rule to be applied throughout the entire XML?
