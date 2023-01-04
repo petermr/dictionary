@@ -37,12 +37,17 @@
 
 ## managing dictionary sets
 
+#### To Do
 - When a set (collection/compilation/volume/compendium) of dictionaries are created from a  source of information on a **general topic** composed of **chapter-specific sub-topics** (i.e. ICCP Climate Reports), it SHOULD be the case that each entry `<term/>` occurs in only ONE (1) `dictionary` in that `set`, and ONLY in the `dictionary` for the chapter in which the `term` is most relevant.
-- `terms` occuring with relatively equal frequency across a range of chapter `dictionaries` forming  the `set` (at minimum, in two or more (>1) chapters), SHOULD be assigned/moved to a unique `dictionary` of "set-common" terms for the general topic.
+- `terms` Occurring with relatively equal frequency across a range of chapter `dictionaries` forming  the `set` (at minimum, in two or more (>1) chapters), SHOULD be assigned/moved to a unique `dictionary` of "set-common" terms for the general topic.
 - Automating this redistribution of `terms` among `dictionaries` in a `set` would be determined (among other possible factors like, chapter title) by  frequency. Thus at least two new attributes (which MAY be deleted after `term` redistribution and `set` consolidation are complete) include:
-	- `@source=""` — which requires a step for the user/agent to define the name of the chapter and source, prior to beginning term extraction
-	- `@#term_frequency` 
-- This will then allow another script (to be created) to compare the frequency of terms appearing in each chapter, and move (or suggest to a human for moving) the term in the most relevant dictionary, and removing it from all others.
+	- `@source=""` — which requires a step for the user/agent to define the name of the chapter and source, prior to beginning term extraction; AND  `@#term_frequency`  — This will then allow another script (to be created) to compare the frequency of terms appearing in each chapter, and move (or suggest to a human for moving) the term in the most relevant dictionary, and removing it from all others.
+- When checking for wikidataIDs, print meta showing date the check occurred.
+	- Print how many entries were found, and how many have multiple IDs that need to be resolved by the user.
+	- Or present the entry where duplicates were found and have the user choose whether to merge, delete or make synonym
+
+#### Done
+
 
 # GENERAL RULES
 
