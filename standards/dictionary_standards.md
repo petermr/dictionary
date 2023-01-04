@@ -1,8 +1,8 @@
-# NEW (to be considered)
+# To DO (When done, cut from here and paste to the appropriate section, which starts below "Schema")
 
 ## Terminology
 
-### distinguish use of attributes: title, id, term, name
+### distinguish (then document below) use of attributes: title, id, term, name
 - `ID`
 	- **dictionary** has an `id` that replaces the role of `title` 
 	- `id` is a unique identifier for each **entry** in the dictionary
@@ -10,7 +10,6 @@
 - IF the dictionary is part of a "set" like the ICPP chapters, we MUST define a corresponding identifier AND decide whether it appears in the `meta`, `entry`, or both
 
 ### creation validation
-
 - MUST detect and "handle" (compare/combine) plurals (eg. CHG/CHGs) when searching abbreviations
 - MUST normalize XML character entities (eg. **C&# 233;** is **Cé** in unicode)
 - MUST normalize XML attribute values (especially spaces)
@@ -24,6 +23,14 @@
 	- entry term="apium graveolens essence"
 	- entry term="apium graveolens extract"
 - Consider whether we should replace greek characters with text throughout, or add alternative (symbol or text) as synonym
+- normalize brackets in entry attributes
+- When checking for wikidataIDs, print meta showing date the check occurred.
+- Duplicate handling:
+	- Print the name of the deficiency, the dictionary name (in case of batch dictionary validation) and which line number on which the error occurred.
+	- Print how many entries were found, and how many have multiple IDs that need to be resolved by the user.
+	- Or present the entry where duplicates were found and have the user choose whether to merge, delete or make synonym
+	- Print name of dictionary the line numbers in the dictionary XML  in which the duplicates occur
+	- distinguish between partial and exact match duplicates
 
 ### syntax
 - in consideration of humans who visually/manually create, manage and edit dictionaries and/or curate sets of dictionaries, the following would make their jobs easier:
@@ -32,6 +39,8 @@
 	- otherwise, some other code-commenting method
 	- this would likely be most useful/convenient if placed at the very beginning of an entry, so aberrations would stick out like a sore thumb and not be lost in a sea of wrapped (or not) text
 
+----
+----
 
 # SCHEMA
 
@@ -42,12 +51,8 @@
 - `terms` Occurring with relatively equal frequency across a range of chapter `dictionaries` forming  the `set` (at minimum, in two or more (>1) chapters), SHOULD be assigned/moved to a unique `dictionary` of "set-common" terms for the general topic.
 - Automating this redistribution of `terms` among `dictionaries` in a `set` would be determined (among other possible factors like, chapter title) by  frequency. Thus at least two new attributes (which MAY be deleted after `term` redistribution and `set` consolidation are complete) include:
 	- `@source=""` — which requires a step for the user/agent to define the name of the chapter and source, prior to beginning term extraction; AND  `@#term_frequency`  — This will then allow another script (to be created) to compare the frequency of terms appearing in each chapter, and move (or suggest to a human for moving) the term in the most relevant dictionary, and removing it from all others.
-- When checking for wikidataIDs, print meta showing date the check occurred.
-	- Print how many entries were found, and how many have multiple IDs that need to be resolved by the user.
-	- Or present the entry where duplicates were found and have the user choose whether to merge, delete or make synonym
-
 #### Done
-
+- ABC
 
 # GENERAL RULES
 
