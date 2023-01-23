@@ -12,15 +12,17 @@
 - MUST normalize XML character entities (eg. **C&# 233;** is **Cé** in unicode)
 - MUST normalize XML attribute values (especially spaces)
 - MUST normalize URL encoding (unicode characters)
-- MUST normalize white space to single spaces in `terms`
+- MUST normalize white space to single spaces in `attributes`
 - MUST replace smart quotes, apostrophes with dumb ones, hyphens and spaces
 - regularize the nesting of single and double quotes
 - add metadata indicating which tool was used to generate each dictionary entry (spacy, RAKE, 
 	- Consider whether we should replace greek characters with text throughout, or add alternative (symbol or text) as synonym. Use expanded text (alpha) rather than the symbol as the main term.
 - When a dictionary is validated, print meta showing `Dictionary validated on [date]`.
+- Validation SHOULD/MAY extract synonyms from wikidata
 - Duplicate handling:
 	- Identify potential duplicates
 	- Print the name of the deficiency, the dictionary name (in case of batch dictionary validation) and which line number on which the error occurred.
+	- merge duplicates
 	- Print how many entries were found, and how many have multiple IDs that need to be resolved by the user.
 	- Or present the entry where duplicates were found and have the user choose whether to merge, delete or make synonym
 	- Print name of dictionary the line numbers in the dictionary XML  in which the duplicates occur
