@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <p>The fungal OTUs were assigned to ecophysiological categories using FUNGuild (
- <xref rid="B45" ref-type="bibr">Nguyen et al., 2016</xref>) with subsequent manual corrections as follows: OTUs with sequence similarity to an INSD fungal sequence lower than 94% as well as assignments with confidence ranking “possible” were considered as unassigned. Besides that, we also corrected some ambiguous assignments based on our best knowledge. For example, 
+ <xref rid="B45" ref-type="bibr">Nguyen et al., 2016</xref>) with subsequent manual corrections as follows: OTUs with sequence similarity to an INSD fungal sequence lower than 94% as well as assignments with confidence ranking "possible” were considered as unassigned. Besides that, we also corrected some ambiguous assignments based on our best knowledge. For example, 
  <italic>Meliniomyces variabilis</italic> was considered as ericoid mycorrhizal, while other 
  <italic>Meliniomyces</italic> spp. were treated as endophytic. Final fungal community matrix and taxonomy is provided in 
  <xref ref-type="supplementary-material" rid="TS1">Supplementary Tables 1</xref>, 

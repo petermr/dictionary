@@ -210,7 +210,7 @@
    <institution-id institution-id-type="ISNI">0000 0000 9244 0345</institution-id>
    <institution-id institution-id-type="GRID">grid.416353.6</institution-id>
    <institution>Department of Haematology, </institution>
-   <institution>St Bartholomew’s Hospital, </institution>
+   <institution>St Bartholomew's Hospital, </institution>
   </institution-wrap>London, UK 
  </aff>
  <aff id="Aff8">
@@ -235,10 +235,10 @@
   <label>10</label>
   <institution-wrap>
    <institution-id institution-id-type="GRID">grid.443984.6</institution-id>
-   <institution>HMDS, St James’s University Hospital, </institution>
+   <institution>HMDS, St James's University Hospital, </institution>
   </institution-wrap>Leeds, UK 
  </aff>
  <aff id="Aff11">
-  <label>11</label>Leeds Institute of Cancer &amp; Pathology, University of Leeds, St James’s University Hospital, Leeds, UK 
+  <label>11</label>Leeds Institute of Cancer &amp; Pathology, University of Leeds, St James's University Hospital, Leeds, UK 
  </aff>
 </contrib-group>

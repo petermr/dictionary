@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <p id="Par10">
- <italic>Survival and co-variate analysis:</italic> Event-free and overall survival were estimated using the method of Kaplan and Meier while standard errors were estimated using Greenwood’s formula. Hypothesis testing to evaluate the effect of covariates on EFS and OS was based on the log-rank test and Monte Carlo simulation. The association of genotype with survival was tested using a two-sided stratified log-rank test for trend.
+ <italic>Survival and co-variate analysis:</italic> Event-free and overall survival were estimated using the method of Kaplan and Meier while standard errors were estimated using Greenwood's formula. Hypothesis testing to evaluate the effect of covariates on EFS and OS was based on the log-rank test and Monte Carlo simulation. The association of genotype with survival was tested using a two-sided stratified log-rank test for trend.
 </p>

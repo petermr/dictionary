@@ -18,7 +18,7 @@
  <xref ref-type="bibr" rid="CR114">114</xref>]. MUSCLE was selected for making the alignments as it uses both global and local alignment algorithms as compared to ClustalW, which uses only global alignment that creates more gaps. Only in case of WOX2, Clustal Omega (
  <ext-link ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/Tools/msa/clustalo/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.ebi.ac.uk/Tools/msa/clustalo/</ext-link>) [
  <xref ref-type="bibr" rid="CR115">115</xref>] was used which resulted into better alignment related to the WUS box. Phylogenetic trees of protein sequences were constructed for further validation, wherever required, using 
- <ext-link ext-link-type="uri" xlink:href="http://phylogeny.fr" xmlns:xlink="http://www.w3.org/1999/xlink">Phylogeny.fr</ext-link> in the ‘one click mode’ using default settings (
+ <ext-link ext-link-type="uri" xlink:href="http://phylogeny.fr" xmlns:xlink="http://www.w3.org/1999/xlink">Phylogeny.fr</ext-link> in the 'one click mode' using default settings (
  <ext-link ext-link-type="uri" xlink:href="https://www.phylogeny.fr/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.phylogeny.fr/</ext-link>) [
  <xref ref-type="bibr" rid="CR116">116</xref>]. In brief, the alignment was done with MUSCLE [
  <xref ref-type="bibr" rid="CR114">114</xref>], phylogeny was done using PhyML [

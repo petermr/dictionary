@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p>We used the “R shiny” package to provide a visual and operational GUI for this model, where the user can directly obtain the prediction probability by entering or selecting a variable in the web-based application (
+<p>We used the "R shiny” package to provide a visual and operational GUI for this model, where the user can directly obtain the prediction probability by entering or selecting a variable in the web-based application (
  <ext-link ext-link-type="uri" xlink:href="https://ziruinptb.shinyapps.io/shiny/" xmlns:xlink="http://www.w3.org/1999/xlink">https://ziruinptb.shinyapps.io/shiny/</ext-link>; 
  <xref ref-type="fig" rid="F4">Figure 4</xref>).
 </p>

@@ -201,11 +201,11 @@
  </alternatives>
  <table-wrap-foot>
   <fn id="t006fn001">
-   <p>Q = Cochrane’s Q indicates variation around the average effect; P
+   <p>Q = Cochrane's Q indicates variation around the average effect; P
     <sub>Q</sub> = p-value indicating significance for Q; I
     <sup>2</sup> = expresses consistency of effect sizes; τ and τ
     <sup>2</sup> = estimates of heterogeneity; p
-    <sub>F</sub> displays the result of Fishers’ combined probability test; BF
+    <sub>F</sub> displays the result of Fishers' combined probability test; BF
     <sub>10</sub> = represents Bayes Factor which indicates a favour for H
     <sub>1</sub> over H
     <sub>0</sub>.

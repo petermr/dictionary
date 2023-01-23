@@ -72,7 +72,7 @@
       <bold>Hall-Mendelin et al. (2016)</bold>
      </td>
      <td align="left" style="background-color:#AEAAAA" rowspan="1" colspan="1">
-      <bold>‘Best-Case’</bold>
+      <bold>'Best-Case'</bold>
      </td>
      <td align="center" rowspan="1" colspan="1">100.0</td>
      <td align="center" rowspan="1" colspan="1">79.0</td>
@@ -88,7 +88,7 @@
     </tr>
     <tr>
      <td align="left" style="background-color:#AEAAAA" rowspan="1" colspan="1">
-      <bold>‘Worst-Case’</bold>
+      <bold>'Worst-Case'</bold>
      </td>
      <td align="center" rowspan="1" colspan="1">100.0</td>
      <td align="center" rowspan="1" colspan="1">52.4</td>
@@ -447,8 +447,8 @@
  <table-wrap-foot>
   <fn id="t002fn001">
    <p>
-    <italic>BC =</italic> ‘Best-Case’
-    <italic>; WC =</italic> ‘Worst-Case’; 
+    <italic>BC =</italic> 'Best-Case'
+    <italic>; WC =</italic> 'Worst-Case'; 
     <italic>AR =</italic> attack rate
     <italic>; R</italic>
     <sub>

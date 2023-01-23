@@ -17,7 +17,7 @@
  <entry _p297_country="DZ" description="sovereign state in North Africa" name="Algeria" term="Algeria" wikidataURL="http://www.wikidata.org/entity/Q262" wikipediaPage="Algeria" wikipediaURL="https://en.wikipedia.org/wiki/Algeria" wikidataID="Q262">
   <synonym>ALG</synonym>
   <synonym>dz</synonym>
-  <synonym>People’s Democratic Republic of Algeria</synonym>
+  <synonym>People's Democratic Republic of Algeria</synonym>
  </entry>
  <entry _p297_country="AS" description="US territory in the Pacific" name="American Samoa" term="American Samoa" wikidataURL="http://www.wikidata.org/entity/Q16641" wikipediaPage="American_Samoa" wikipediaURL="https://en.wikipedia.org/wiki/American_Samoa" wikidataID="Q16641">
   <synonym>ASA</synonym>
@@ -745,10 +745,10 @@
  </entry>
  <entry _p297_country="IQ" description="sovereign state in Western Asia" name="Iraq" term="Iraq" wikidataURL="http://www.wikidata.org/entity/Q796" wikipediaPage="Iraq" wikipediaURL="https://en.wikipedia.org/wiki/Iraq" wikidataID="Q796">
   <synonym>IRQ</synonym>
-  <synonym>al-‘Irāq</synonym>
+  <synonym>al-'Irāq</synonym>
   <synonym>iq</synonym>
-  <synonym>Jumhūriyyat al-‘Irāq</synonym>
-  <synonym>Komar-i ‘Êraq</synonym>
+  <synonym>Jumhūriyyat al-'Irāq</synonym>
+  <synonym>Komar-i 'Êraq</synonym>
   <synonym>Republic of Iraq</synonym>
  </entry>
  <entry _p297_country="IE" description="sovereign state in northwestern Europe covering five-sixths of the island of Ireland" name="Ireland" term="Ireland" wikidataURL="http://www.wikidata.org/entity/Q27" wikipediaPage="Republic_of_Ireland" wikipediaURL="https://en.wikipedia.org/wiki/Republic_of_Ireland" wikidataID="Q27">
@@ -801,8 +801,8 @@
   <synonym>Cote d'ivore</synonym>
   <synonym>Côte d'Ivorie</synonym>
   <synonym>Cote d'lvoire</synonym>
-  <synonym>Cote d’Ivoire</synonym>
-  <synonym>Côte d’Ivoire</synonym>
+  <synonym>Cote d'Ivoire</synonym>
+  <synonym>Côte d'Ivoire</synonym>
   <synonym>Cote d´Ivoire</synonym>
   <synonym>Côte d´Ivoire</synonym>
   <synonym>Cote divoire</synonym>

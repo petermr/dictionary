@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p>The optimal model was encapsulated as an open-source and free predictive web-based application through the “shiny R” program package (
+<p>The optimal model was encapsulated as an open-source and free predictive web-based application through the "shiny R” program package (
  <xref rid="B14" ref-type="bibr">Jimmy et al., 2016</xref>). Both clinicians and patients can enter the necessary information in the graphical user interface (GUI) and directly obtain the probability of PTB. The performance of the web application was assessed from several aspects in the validation cohort: (1) The accuracy was assessed according to the area under the curve (AUC). (2) The consistency was evaluated by calibration curves. (3) The Decision Curve Analysis (DCA) was used to estimate the net clinical benefits. (4) The Net Reclassification Improvement (NRI) and Integrated Discrimination Improvement (IDI) indexes were adopted to evaluate the improvement of the model diagnostic ability after the addition of n344917.
 </p>

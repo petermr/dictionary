@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <p>We ran a regression analysis to check the robustness of the results from the non-parametric test. Also, as noted in 
- <xref rid="T2" ref-type="table">Table 2</xref>, the data regarding both gender and the subjects’ grades were not perfectly balanced.
+ <xref rid="T2" ref-type="table">Table 2</xref>, the data regarding both gender and the subjects' grades were not perfectly balanced.
  <sup>
   <xref ref-type="fn" rid="footnote5">5</xref>
  </sup> Thus, in the following regression analysis, we include the following: 
- <italic>Age</italic>, which is a continuous variable measuring the subject’s age; 
+ <italic>Age</italic>, which is a continuous variable measuring the subject's age; 
  <italic>Female</italic>, which is an indicator variable for participant gender; and 
  <italic>Grade</italic>, which is an ordinal variable measuring self-reported average grade, ranging from 0 (= F) to 5 (= A). To indicate different treatments, we used two dummy variables: 
- <italic>Effort observed</italic> is equal to one if the employer could observe the worker’s effort and is zero otherwise. 
+ <italic>Effort observed</italic> is equal to one if the employer could observe the worker's effort and is zero otherwise. 
  <italic>Luck unknown</italic> is a dummy variable equal to one if the role of luck was unknown to the employer and is zero otherwise. Lastly, we include the interaction variable 
  <italic>Effort observed 
   <sup>∗</sup> Luck unknown

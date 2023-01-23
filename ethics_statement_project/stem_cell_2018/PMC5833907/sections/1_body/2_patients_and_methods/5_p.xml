@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <p id="Par16">To generate synthetic data, we used multiple imputation models and, more precisely, data augmentation methods developed by Schafer [
  <xref ref-type="bibr" rid="CR28">28</xref>] and Little and Rubin [
- <xref ref-type="bibr" rid="CR29">29</xref>]. We generated a dataset of 1000 virtual subjects from the available patients’ data (
+ <xref ref-type="bibr" rid="CR29">29</xref>]. We generated a dataset of 1000 virtual subjects from the available patients' data (
  <italic>n</italic> = 105) with Bayesian multiple imputation [
  <xref ref-type="bibr" rid="CR30">30</xref>, 
  <xref ref-type="bibr" rid="CR31">31</xref>]. We also performed Chi-square tests for categorical variables and 

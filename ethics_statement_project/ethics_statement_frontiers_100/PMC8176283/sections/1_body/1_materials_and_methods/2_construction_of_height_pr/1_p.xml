@@ -8,5 +8,5 @@
  <sup>2</sup> &gt; 0.99, suggesting essentially no complementarity. We kept the PRS derived from GWAS-2018, since it is publicly available. We first used PLINK software ref. (
  <xref rid="B6" ref-type="bibr">Purcell et al., 2007</xref>) to prune the full GWAS summary statistics to pick independent SNPs, based on a LD reference panel of the 1,000 genome project phase III. The pruning parameters were: 1 Mb sliding window and LD 
  <italic>r</italic>
- <sup>2</sup> of 0.1. We then used the PLINK “–score” function to calculate a PRS, based on the pruned list of SNPs. Both steps were run for each chromosome in parallel. Finally, we added up all the PRS for each chromosome into a single genome-wide PRS.
+ <sup>2</sup> of 0.1. We then used the PLINK "–score” function to calculate a PRS, based on the pruned list of SNPs. Both steps were run for each chromosome in parallel. Finally, we added up all the PRS for each chromosome into a single genome-wide PRS.
 </p>

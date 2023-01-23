@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <p>The evolution of the similarity level of the fungal community composition was evaluated over the decay process for each tree species. For this, Mantel tests were used to examine the correlations between the OTU abundance matrix (Bray-Curtis dissimilarities of OTU relative abundances) and time matrix (Euclidean distance of time, in number of years, calculated from decay classes; [
- <xref rid="B52-jof-07-00412" ref-type="bibr">52</xref>]). The ‘mantel’ function of the ‘vegan’ R package was used [
+ <xref rid="B52-jof-07-00412" ref-type="bibr">52</xref>]). The 'mantel' function of the 'vegan' R package was used [
  <xref rid="B51-jof-07-00412" ref-type="bibr">51</xref>].
 </p>

@@ -4,7 +4,7 @@
  <caption>
   <p>
    <bold>(A)</bold> Receiver operator characteristic curve. The AUC was 0.88 in the derivation cohort. 
-   <bold>(B)</bold> Calibration curves. The 45° shaded line represents the ideal prediction, and the prediction probability is consistent with the actual observation probability. The blue line represents the actual prediction of the model. The stapled histogram on the bottom line represents the distribution of the patients’ predicted probability. Abbreviations: Dxy = Somer’s D rank correlation, R2 = Nagelkerke-Cox-Snell-Maddala-Magee R-squared index, D = Discrimination index, U = Unreliability index, Q = Quality index, Emax = maximum absolute difference in the predicted and calibrated propabilities, S:z = Spiegelhalter 
+   <bold>(B)</bold> Calibration curves. The 45° shaded line represents the ideal prediction, and the prediction probability is consistent with the actual observation probability. The blue line represents the actual prediction of the model. The stapled histogram on the bottom line represents the distribution of the patients' predicted probability. Abbreviations: Dxy = Somer's D rank correlation, R2 = Nagelkerke-Cox-Snell-Maddala-Magee R-squared index, D = Discrimination index, U = Unreliability index, Q = Quality index, Emax = maximum absolute difference in the predicted and calibrated propabilities, S:z = Spiegelhalter 
    <italic>Z</italic>-test, and S:p = two-tailed 
    <italic>p</italic>-value of the Spiegelhalter 
    <italic>Z</italic>-test. 

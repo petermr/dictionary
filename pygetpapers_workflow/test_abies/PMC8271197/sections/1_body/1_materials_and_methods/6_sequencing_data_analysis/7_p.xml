@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <p>Transcription factors and their corresponding families were obtained from PlantTFDB 3.0 (
- <xref rid="ref37" ref-type="bibr">Jin et al. 2014</xref>). Hypergeometric tests were performed using the ‘phyper’ function in the base R package stats and enrichment for TF families in the background of all TF in the transcriptomes and of singletons (if no sequence homology of any kind existed) in the set of DEG in comparison with the transcriptome sizes calculated, and significance assigned if 
+ <xref rid="ref37" ref-type="bibr">Jin et al. 2014</xref>). Hypergeometric tests were performed using the 'phyper' function in the base R package stats and enrichment for TF families in the background of all TF in the transcriptomes and of singletons (if no sequence homology of any kind existed) in the set of DEG in comparison with the transcriptome sizes calculated, and significance assigned if 
  <italic toggle="yes">P</italic> &lt; 0.05.
 </p>

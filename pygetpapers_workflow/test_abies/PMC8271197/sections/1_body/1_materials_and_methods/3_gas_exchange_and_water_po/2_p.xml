@@ -10,7 +10,7 @@
  <italic toggle="yes">g</italic>
  <sub>s</sub> over time in the treated plants were tested with one-way repeated measure analysis of variance (ANOVA) using the package nlme (
  <xref rid="ref64" ref-type="bibr">Pinheiro et al. 2018</xref>). Post hoc tests were performed using the multcomp package (
- <xref rid="ref33" ref-type="bibr">Hothorn et al. 2008</xref>) with Tukey’s honestly significant difference (HSD) test. Differences in water potential were assessed with a one-way ANOVA and with time as the factor. A per-time comparison 
+ <xref rid="ref33" ref-type="bibr">Hothorn et al. 2008</xref>) with Tukey's honestly significant difference (HSD) test. Differences in water potential were assessed with a one-way ANOVA and with time as the factor. A per-time comparison 
  <italic toggle="yes">t</italic>-test was then applied to test significant differences between measurements of control plants and water-stressed plants. Significant differences were assigned at 
  <italic toggle="yes">P</italic> &lt; 0.05.
 </p>

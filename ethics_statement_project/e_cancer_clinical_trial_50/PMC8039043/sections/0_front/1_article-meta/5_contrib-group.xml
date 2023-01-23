@@ -54,7 +54,7 @@
   <label>1</label>
   <institution>Jiangsu Province Key Laboratory of Anesthesiology, Xuzhou Medical University</institution>, 
   <addr-line>Xuzhou</addr-line>, 
-  <country>People’s Republic of China</country>
+  <country>People's Republic of China</country>
  </aff>
  <aff id="aff0002">
   <label>2</label>
@@ -62,7 +62,7 @@
   <addr-line>Xuzhou</addr-line>, 
   <addr-line>221000</addr-line>, 
   <addr-line>Jiangsu</addr-line>, 
-  <country>People’s Republic of China</country>
+  <country>People's Republic of China</country>
  </aff>
  <aff id="aff0003">
   <label>3</label>
@@ -70,6 +70,6 @@
   <addr-line>Xuzhou</addr-line>, 
   <addr-line>221000</addr-line>, 
   <addr-line>Jiangsu</addr-line>, 
-  <country>People’s Republic of China</country>
+  <country>People's Republic of China</country>
  </aff>
 </contrib-group>

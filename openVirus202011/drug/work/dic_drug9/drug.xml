@@ -19602,13 +19602,13 @@
   <synonym>Stendra®</synonym>
   <synonym>TA-1790</synonym>
  </entry>
- <entry Description="chemical compound" German="Cariprazin" German_description="chemische Verbindung" Hausa="Q2938837" Hindi="Q2938837" Portuguese="Q2938837" Portuguese_description="composto químico" Sanskrit="Q2938837" Spanish="Cariprazina" Spanish_description="compuesto químico" Tamil="Q2938837" Urdu="Q2938837" altNames="Cariprazine, RGH 188, RGH-188, trans-N-{4-[2-[4-(2,3-dichlorophenyl)piperazine-1-yl]ethyl]cyclohexyl}-N’,N’-dimethylurea hydrochloride, Vraylar®" formulae="C₂₁H₃₂Cl₂N₄O" name="cariprazine" picture="http://commons.wikimedia.org/wiki/Special:FilePath/Cariprazine.svg" term="cariprazine" wikidataURL="http://www.wikidata.org/entity/Q2938837" wikipediaURL="https://en.wikipedia.org/wiki/Cariprazine" wikidataID="Q2938837">
+ <entry Description="chemical compound" German="Cariprazin" German_description="chemische Verbindung" Hausa="Q2938837" Hindi="Q2938837" Portuguese="Q2938837" Portuguese_description="composto químico" Sanskrit="Q2938837" Spanish="Cariprazina" Spanish_description="compuesto químico" Tamil="Q2938837" Urdu="Q2938837" altNames="Cariprazine, RGH 188, RGH-188, trans-N-{4-[2-[4-(2,3-dichlorophenyl)piperazine-1-yl]ethyl]cyclohexyl}-N',N'-dimethylurea hydrochloride, Vraylar®" formulae="C₂₁H₃₂Cl₂N₄O" name="cariprazine" picture="http://commons.wikimedia.org/wiki/Special:FilePath/Cariprazine.svg" term="cariprazine" wikidataURL="http://www.wikidata.org/entity/Q2938837" wikipediaURL="https://en.wikipedia.org/wiki/Cariprazine" wikidataID="Q2938837">
   <synonym>Cariprazine</synonym>
   <synonym>RGH 188</synonym>
   <synonym>RGH-188</synonym>
   <synonym>trans-N-{4-[2-[4-(2</synonym>
-  <synonym>3-dichlorophenyl)piperazine-1-yl]ethyl]cyclohexyl}-N’</synonym>
-  <synonym>N’-dimethylurea hydrochloride</synonym>
+  <synonym>3-dichlorophenyl)piperazine-1-yl]ethyl]cyclohexyl}-N'</synonym>
+  <synonym>N'-dimethylurea hydrochloride</synonym>
   <synonym>Vraylar®</synonym>
  </entry>
  <entry Description="chemical compound" German="Trihexyphenidyl" German_description="chemische Verbindung" Hausa="Q2991856" Hindi="Q2991856" Portuguese="triexafenid" Portuguese_description="composto químico" Sanskrit="Q2991856" Spanish="Trihexifenidilo" Spanish_description="Agente anticolinérgico" Tamil="Q2991856" Urdu="Q2991856" altNames="(RS)-1-cyclohexyl-1-phenyl-3-(1-piperidyl)propan-1-ol, Apo-trihex, Artane®, benzhexol, Benzhexol Hydrochloride, cyclodol, cyclodole, Trihexifenidilo, Trihexyphenidyl, Trihexyphénidyle, Trihexyphenidylum" formulae="C₂₀H₃₁NO" name="trihexyphenidyl" picture="http://commons.wikimedia.org/wiki/Special:FilePath/Trihexyphenidyl.svg" term="trihexyphenidyl" wikidataURL="http://www.wikidata.org/entity/Q2991856" wikipediaURL="https://en.wikipedia.org/wiki/Trihexyphenidyl" wikidataID="Q2991856">
@@ -22666,12 +22666,12 @@
   <synonym>Optiray 320</synonym>
   <synonym>Optiray 350</synonym>
  </entry>
- <entry Description="chemical compound" German="Q6064819" German_description="chemische Verbindung" Hausa="Q6064819" Hindi="Q6064819" Portuguese="Q6064819" Portuguese_description="composto químico" Sanskrit="Q6064819" Spanish="Q6064819" Spanish_description="compuesto químico" Tamil="Q6064819" Urdu="Q6064819" altNames="Ioxilan, Ioxilane, Ioxilanum, N-(2,3-dihydroxypropyl)-N’-(2- hydroxyethyl)-5-[N-(2,3-dihydroxypropyl) acetamido]-2,4,6-triiodoisophthal-amide, Oxilan, Oxilan-300, Oxilan-350" formulae="C₁₈H₂₄I₃N₃O₈" name="ioxilan" picture="http://commons.wikimedia.org/wiki/Special:FilePath/Ioxilan%20structure.png" term="ioxilan" wikidataURL="http://www.wikidata.org/entity/Q6064819" wikipediaURL="https://en.wikipedia.org/wiki/Ioxilan" wikidataID="Q6064819">
+ <entry Description="chemical compound" German="Q6064819" German_description="chemische Verbindung" Hausa="Q6064819" Hindi="Q6064819" Portuguese="Q6064819" Portuguese_description="composto químico" Sanskrit="Q6064819" Spanish="Q6064819" Spanish_description="compuesto químico" Tamil="Q6064819" Urdu="Q6064819" altNames="Ioxilan, Ioxilane, Ioxilanum, N-(2,3-dihydroxypropyl)-N'-(2- hydroxyethyl)-5-[N-(2,3-dihydroxypropyl) acetamido]-2,4,6-triiodoisophthal-amide, Oxilan, Oxilan-300, Oxilan-350" formulae="C₁₈H₂₄I₃N₃O₈" name="ioxilan" picture="http://commons.wikimedia.org/wiki/Special:FilePath/Ioxilan%20structure.png" term="ioxilan" wikidataURL="http://www.wikidata.org/entity/Q6064819" wikipediaURL="https://en.wikipedia.org/wiki/Ioxilan" wikidataID="Q6064819">
   <synonym>Ioxilan</synonym>
   <synonym>Ioxilane</synonym>
   <synonym>Ioxilanum</synonym>
   <synonym>N-(2</synonym>
-  <synonym>3-dihydroxypropyl)-N’-(2- hydroxyethyl)-5-[N-(2</synonym>
+  <synonym>3-dihydroxypropyl)-N'-(2- hydroxyethyl)-5-[N-(2</synonym>
   <synonym>3-dihydroxypropyl) acetamido]-2</synonym>
   <synonym>4</synonym>
   <synonym>6-triiodoisophthal-amide</synonym>

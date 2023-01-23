@@ -990,7 +990,7 @@
 				<literal xml:lang='en'>(+)-(S)-N-alpha-Dimethylphenethylamine, (+)-(S)-P-α-dimethylphenethylamine, (AlphaS)-N,alpha-dimethylbenzeneethanamine, (S)-N,alpha-Dimethylbenzeneethanamine, (S)-N,α-dimethylbenzeneethanamine, (αS)-N,α-dimethylbenzeneethanamine, d-1-phenyl-2-methylaminopropane, d-deoxyephedrine, d-desoxyephedrine, d-N-methylamphetamine, d-phenylisopropylmethylamine, desoxyephedrine, Dextromethamphetamine, metamfetamine, Metamfetamine, Métamfétamine, Metamfetaminum, Metanfetamina, meth, Methamphetamine, Methamphetamine, methylamphetamine, Methamphetaminum, Methyl-beta-phenylisopropylamine, methyl-β-phenylisopropylamine, methylamphetamine, N-methylamphetamine, S-methamphetamine</literal>
 			</binding>
 			<binding name='moleculeDescription'>
-				<literal xml:lang='en'>stimulant drug, trade name Desoxyn, street name “meth”</literal>
+				<literal xml:lang='en'>stimulant drug, trade name Desoxyn, street name "meth”</literal>
 			</binding>
 			<binding name='wikipedia'>
 				<uri>https://en.wikipedia.org/wiki/Methamphetamine</uri>
@@ -8298,7 +8298,7 @@
 				<literal xml:lang='en'>cariprazine</literal>
 			</binding>
 			<binding name='moleculeAltLabel'>
-				<literal xml:lang='en'>Cariprazine, RGH 188, RGH-188, trans-N-{4-[2-[4-(2,3-dichlorophenyl)piperazine-1-yl]ethyl]cyclohexyl}-N’,N’-dimethylurea hydrochloride, Vraylar®</literal>
+				<literal xml:lang='en'>Cariprazine, RGH 188, RGH-188, trans-N-{4-[2-[4-(2,3-dichlorophenyl)piperazine-1-yl]ethyl]cyclohexyl}-N',N'-dimethylurea hydrochloride, Vraylar®</literal>
 			</binding>
 			<binding name='moleculeDescription'>
 				<literal xml:lang='en'>chemical compound</literal>
@@ -18845,7 +18845,7 @@
 				<literal xml:lang='en'>ioxilan</literal>
 			</binding>
 			<binding name='moleculeAltLabel'>
-				<literal xml:lang='en'>Ioxilan, Ioxilane, Ioxilanum, N-(2,3-dihydroxypropyl)-N’-(2- hydroxyethyl)-5-[N-(2,3-dihydroxypropyl) acetamido]-2,4,6-triiodoisophthal-amide, Oxilan, Oxilan-300, Oxilan-350</literal>
+				<literal xml:lang='en'>Ioxilan, Ioxilane, Ioxilanum, N-(2,3-dihydroxypropyl)-N'-(2- hydroxyethyl)-5-[N-(2,3-dihydroxypropyl) acetamido]-2,4,6-triiodoisophthal-amide, Oxilan, Oxilan-300, Oxilan-350</literal>
 			</binding>
 			<binding name='moleculeDescription'>
 				<literal xml:lang='en'>chemical compound</literal>

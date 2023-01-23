@@ -82,7 +82,7 @@
       <bold>Hall-Mendelin et al. (2016)</bold>
      </td>
      <td align="left" style="background-color:#AEAAAA" rowspan="1" colspan="1">
-      <bold>‘Best-case’</bold>
+      <bold>'Best-case'</bold>
      </td>
      <td align="center" rowspan="1" colspan="1">0.00</td>
      <td align="center" rowspan="1" colspan="1">0.17 (0.13–0.22)</td>
@@ -98,7 +98,7 @@
     </tr>
     <tr>
      <td align="left" style="background-color:#AEAAAA" rowspan="1" colspan="1">
-      <bold>‘Worst-case’</bold>
+      <bold>'Worst-case'</bold>
      </td>
      <td align="center" rowspan="1" colspan="1">0.00</td>
      <td align="center" rowspan="1" colspan="1">0.33 (0.24–0.41)</td>
@@ -523,8 +523,8 @@
  <table-wrap-foot>
   <fn id="t001fn001">
    <p>
-    <italic>BC =</italic> ‘Best-Case’
-    <italic>; WC =</italic> ‘Worst-Case’
+    <italic>BC =</italic> 'Best-Case'
+    <italic>; WC =</italic> 'Worst-Case'
     <italic>; R</italic>
     <sub>
      <italic>hv</italic>

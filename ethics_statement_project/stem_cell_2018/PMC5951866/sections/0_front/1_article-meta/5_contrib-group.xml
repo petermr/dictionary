@@ -45,7 +45,7 @@
   <label>1</label>
   <institution-wrap>
    <institution-id institution-id-type="GRID">grid.439523.a</institution-id>
-   <institution>St George’s Hospital, </institution>
+   <institution>St George's Hospital, </institution>
   </institution-wrap>London, UK 
  </aff>
  <aff id="Aff2">
@@ -53,7 +53,7 @@
   <institution-wrap>
    <institution-id institution-id-type="GRID">grid.264200.2</institution-id>
    <institution>Institute of Medical and Biomedical Education, </institution>
-   <institution>St George’s University of London, </institution>
+   <institution>St George's University of London, </institution>
   </institution-wrap>London, UK 
  </aff>
  <aff id="Aff3">
@@ -76,6 +76,6 @@
   <label>5</label>Cell Therapeutics Inc. (CTI), Seattle, WA USA 
  </aff>
  <aff id="Aff6">
-  <label>6</label>MHAT “Hristo Botev”, Vratsa, Bulgaria 
+  <label>6</label>MHAT "Hristo Botev”, Vratsa, Bulgaria 
  </aff>
 </contrib-group>
